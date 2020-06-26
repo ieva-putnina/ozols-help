@@ -1,0 +1,1 @@
+ssw_id = 44skf_id = 5028parent_id = 5029Maršruta lapa;

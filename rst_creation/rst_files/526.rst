@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 526parent_id = 36Budžeta izpilde;Atskaite paredzēto un izlietoto summu pārskatam pa visām datu uzskaites dimensijām. Atskaitē tiek parādīts plāns, plāna izpilde un atlikums pa katru dimensiju, atbilstoši noteiktajiem plāniem. Plānošanu var veikt arī pa kontiem un uzņēmumiem.

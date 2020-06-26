@@ -1,0 +1,1 @@
+ssw_id = 42skf_id = 4203parent_id = 4200Saraksti;<P>&nbsp;</P>\n<P>Saraksti ir iepriekš sagatavota informācija, ko dokumentos pievieno fiksētās izvēles laukos ātrākai dokumenta sagatavošanai. </P>\n<P>&nbsp;</P>\n<P>Iespējams izveidot šādus sarakstus:</P>\n<P><A href="/help/?ssw=42&amp;skf_id=4207">Lietu slēgšanas iemesli</A></P>

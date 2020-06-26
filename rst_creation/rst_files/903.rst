@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 903parent_id = 30Atvaļinājuma rezerves aprēķins no iesniegumiem;

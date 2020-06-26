@@ -1,0 +1,20 @@
+.. datu_bazes_lietotaju_paroles_konfiguracija
+
+===================================
+Datu bāzes lietotāju paroles konfigurācija
+===================================
+
+Sistēmā OZOLS ir iespēja noteikt lietotājiem piesakoties sistēmā paroles satura minimālās prasības. Paroles konfigurēšanas iespējas ir pieejamas izvēlnes zarā Konfigurācija->Lietotāji->Paroles konfigurācija:
+
+Paroles min.garums: minimālais simbolu skaits, kas ir jāsatur katra lietotāja parolei
+Speciālo simbolu sk.:  minimālais speciālo simbolu skaits, kāds būtu jāsatur katrai lietotāju parolei. 
+
+ Speciālo simbolu uzskaitījums: ! " # $ % & ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~
+Ciparu skaits: minimālais ciparu skaits, kāds būtu jāsatur katrai lietotāju parolei
+Lielo burtu skaits:  minimālais lielo burtu skaits, kāds būtu jāsatur katrai lietotāju parolei
+Paroles termiņš (dienās): nosaka lietotāj paroles derīguma termiņu. 
+
+Ja šī termiņa laikā lietotājs nav nomainījis savu iepriekšējo paroli pret jaunu, tad lietotāja konts sistēmā OZOLS tiek slēgts un lietotājs vairs nevar strādāt sistēmā. Ja termiņš nav noteikts, tad parole ir beztermiņa.
+Brīdinājums pirms termiņa (dienās): ja ir noteikts sistēmas paroļu derīguma termiņš, tad ir iespēja iestādīt brīdinājumu, cik dienas pirms lietotāja paroles termiņa beigām brīdināt lietotāju.
+Lai saglabātu Paroles iestādījumus, nepieciešams nospiest pogu: 
+

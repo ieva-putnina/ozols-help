@@ -1,0 +1,1 @@
+ssw_id = 44skf_id = 5230parent_id = 5011Norēķinu dzēšanas akti;

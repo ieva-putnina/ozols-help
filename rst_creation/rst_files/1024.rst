@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 1024parent_id = 31Nomenklatūras mērvienība;

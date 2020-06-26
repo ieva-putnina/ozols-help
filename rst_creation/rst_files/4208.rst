@@ -1,0 +1,1 @@
+ssw_id = 42skf_id = 4208parent_id = 4203Lietas slēgšanas iemesls;

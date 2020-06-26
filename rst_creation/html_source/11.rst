@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 11Saraksti;<P>&nbsp;</P>\n<P>Finanšu sarakstos nepieciešams pievienot uzņēmumā esošos bankas kontus un kases, kā arī iespējams nodefinēt bankas&nbsp;un kases paskaidrojumus, kases pielikumu sarakstu, bankas kodu tipus un papildināt esošo banku sarakstu.</P>\n<H5>&nbsp;</H5>

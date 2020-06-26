@@ -1,0 +1,1 @@
+ssw_id = 65skf_id = 6502parent_id = 6500Dokumenti;<P>&nbsp;</P>\n<P>Izmantojot Polišu dokumentus, iespējams:</P>\n<P>&nbsp;</P>\n<P>Pievienot jaunu <A href="/help/?ssw=65&amp;skf_id=6518">Pielikumu</A></P>\n<P>Iegūt informāciju par pievienotajām <A href="/help/?ssw=65&amp;skf_id=6521">Polisēm</A></P>

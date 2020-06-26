@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 64parent_id = 50Saraksti;<P>&nbsp;</P>\n<P>Banku elektronisko norēķinu sistēmu sarakstā jāpievieno izmantotās norēķinu sistēmas. </P>\n<P>Norēķinu sistēmas aprakstā jānorāda ceļš uz katalogiem, kuri tiek izmantoti datu apmaiņai starp grāmatvedības sistēmu un bankas norēķinu sistēmu.</P>

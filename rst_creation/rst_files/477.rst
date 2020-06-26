@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 477parent_id = 31Rīkojuma veida ieejošo datu konfigurācija;

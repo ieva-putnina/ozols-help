@@ -1,0 +1,1 @@
+ssw_id = 44skf_id = 5134Paroles maiņa;<P>&nbsp;</P>\n<P>Lai tiktu nomainīta parole, nepieciešams aizpildīt sekojošus laukus:</P>\n<P>&nbsp;</P>\n<P><IMG src="/help/Skin/help/img.aspx?pid=26390" border=0></P>\n<P>&nbsp;</P>\n<P>Nospiežot pogu "Mainīt paroli" - parole tiks nomainīta un turpmākām pieslēgšanās jāizmanto jaunievadītā parole.</P>

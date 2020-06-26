@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 21parent_id = 40Saraksti;\n<p>\xa0</p>\n<p>Avansu sarakstos iespējams pievienot Avansu norēķinu paskaidrojumu sarakstus, kā arī apskatīt uzņēmuma Avansu personu sarakstu un papildināt jau esošo sarakstu ar jauniem ierakstiem.</p>\n<p>\n<br />\n</p>\n

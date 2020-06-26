@@ -1,0 +1,1 @@
+ssw_id = 40skf_id = 4027parent_id = 4005Parādi par polisēm kurām termiņš beidzies;

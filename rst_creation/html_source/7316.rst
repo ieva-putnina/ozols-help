@@ -1,0 +1,1 @@
+ssw_id = 73skf_id = 7316Darbības;Darbību sarakstā tiek saglabātas visas pievienotās un saglabātās <A href="/help/?ssw=73&amp;skf_id=7307">darbības</A>.

@@ -1,0 +1,1 @@
+ssw_id = 44skf_id = 5183Anketas un mērķi;<P>&nbsp;</P>\n<P>Šis darba režīms ir paredzēts&nbsp;Novērtēšanas anketas aizpildīšanai Vadītājam.</P>\n<P>&nbsp;</P>\n<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0><A href="/help/?ssw=44&amp;skf_id=5181"><STRONG>Novērtēšanas anketas aizpildīšana</STRONG></A></P>

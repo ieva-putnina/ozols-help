@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 885parent_id = 15Importa Excel faila lauki;

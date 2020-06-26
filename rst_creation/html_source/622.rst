@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 622Algu konfigurācijas sistēmas mainīgie;\xa0\xa0\xa0Algu konfigurācijas sistēmas mainīgo saraksts ir informatīvs, kura dati tiek izmantoti veidojot sistēmas <A href="/help/?ssw=33&skf_id=283">algu aprēķinu konfigurāciju</A>.

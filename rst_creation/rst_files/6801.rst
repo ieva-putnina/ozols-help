@@ -1,0 +1,1 @@
+ssw_id = 68skf_id = 6801parent_id = 6800Saraksti;<P>&nbsp;</P>\n<P>Līgumu&nbsp;sarakstos nepieciešams pievienot uzņēmuma līgumu uzskaitē izmantotos&nbsp;<A href="/help/?ssw=68&amp;skf_id=649">Līgumu veidus</A>, kuri tiks izmantoti apmaksas plāna definēšanai.&nbsp;</P>

@@ -1,0 +1,7 @@
+import csv
+
+with open('ozols-help-csv.csv') as csvFile:
+    rowsArray = list(csv.reader(csvFile))
+    
+    #for s in rowsArray:
+    print(sl.strip(rowsArray[1][4:-1])   

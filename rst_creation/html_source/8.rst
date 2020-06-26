@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 8Saraksti;<P>&nbsp;</P>\n<P>Algu&nbsp;sarakstos nepieciešams pievienot uzņēmumā izmantotos <A href="/help/?ssw=33&amp;skf_id=280">Izmaksu sarakstu veidus</A>, kā arī pieejams <A href="/help/?ssw=33&amp;skf_id=125">Dzīvesvietu kodu</A>&nbsp;saraksts, kuru pēc vajadzības, lietotājam iespējams papildināt, veicot nepieciešamās korekcijas.</P>

@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 1parent_id = 0Kopējie saraksti;

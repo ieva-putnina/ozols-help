@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 1050parent_id = 618Vidējais darbinieku skaits periodā;

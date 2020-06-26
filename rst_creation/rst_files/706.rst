@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 706parent_id = 12Lietotāja reģistrācija;

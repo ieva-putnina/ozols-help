@@ -1,0 +1,1 @@
+ssw_id = 40skf_id = 4031parent_id = 4005Rēķini ar polisēm kurām ir nulles atlikums;

@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 500parent_id = 29Datu sinhronizācija;

@@ -1,0 +1,1 @@
+ssw_id = 41skf_id = 4124parent_id = 4100Konfigurācija;

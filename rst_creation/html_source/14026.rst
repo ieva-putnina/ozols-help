@@ -1,0 +1,1 @@
+ssw_id = 0skf_id = 14026Darba vietu apraksts;<P>&nbsp;</P>\n<UL>\n<LI><A href="/help/?ssw=42&amp;skf_id=14027">Atlīdzību daļa</A></LI>\n<LI><A href="/help/?ssw=42&amp;skf_id=14028">Finanšu daļa</A></LI>\n<LI><A href="/help/?ssw=42&amp;skf_id=14029">Juridiskā daļa</A></LI></UL>

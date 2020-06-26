@@ -1,0 +1,18 @@
+.. fiksetas_datu_bazes_lomas
+
+========================
+Fiksētās datu bāzes lomas
+========================
+
+Fiksētās datu bāzes lomas ir definētas datu bāzes līmeni un eksistē katrā datu bāzē. 
+
+Sitēmā OZOLS noklusētās lietotāju lomas ir:
+
+ibav_deny_insert - nedrīkst pievienot nevienu ierakstu
+ibav_deny_update - nedrīkst labot nevienu ierakstu
+ibav_deny_delete - nedrīkst dzēst nevienu ierakstu
+ibav_deny_insert_lists  - nedrīkst pievienot nevienu ierakstu, izņemot dokumentu sadaļās esošos ierakstus
+ibav_deny_update_lists - nedrīkst labot nevienu ierakstu, izņemot dokumentu sadaļās esošos ierakstus
+ibav_deny_delete_lists - nedrīkst dzēst nevienu ierakstu, izņemot dokumentu sadaļās esošos ierakstus
+oz_deny_update_main_flds - partneru sarakstos nedrīkst dzēst ierakstus, nedrīkst labot laukus "Kods", "Nosaukums", "Vārds", "Uzvārds", "Reģistrācijas Nr.", "PVN kods", "Pers.kods", "Banku kontus", "Adreses"
+(Šīs lomas lietotājiem ir tiesības pievienot jaunu ierakstu un labot ieraksta laukus, kas nav uzskaitīti.) 

@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 6parent_id = 43Saraksti;<P>&nbsp;</P>\n<P>Noliktavas&nbsp;sarakstos nepieciešams pievienot uzņēmuma Noliktavas, Nomenklatūru, kā arī iespējams&nbsp;pievienot Ražotājus, nomenklatūras papildgrupas, nomenklatūras sastāvdaļas, analogus un Cenošanas metodes.</P>

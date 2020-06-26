@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 361parent_id = 23Cenas veids;

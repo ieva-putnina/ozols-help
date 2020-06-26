@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 53parent_id = 41Atskaites;

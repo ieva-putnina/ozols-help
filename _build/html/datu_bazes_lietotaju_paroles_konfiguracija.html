@@ -1,0 +1,185 @@
+
+
+
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>Datu bāzes lietotāju paroles konfigurācija</title>
+    
+      <link rel="stylesheet" href="_static/pygments.css">
+      <link rel="stylesheet" href="_static/theme.css">
+      <link rel="stylesheet" href="_static/sphinx_press_theme.css">
+          <link rel="stylesheet" href="_static/page_nav.css" type="text/css" />
+          <link rel="stylesheet" href="_static/jquery.fancybox.min.css" type="text/css" />
+          <link rel="stylesheet" href="_static/sphinx_press_theme.css" type="text/css" />
+      
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+      <!-- sphinx script_files -->
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+        <script src="_static/jquery.fancybox.min.js"></script>
+
+      
+      <script src="_static/theme-vendors.js"></script>
+      <script src="_static/theme.js" defer></script>
+    
+  <link rel="index" title="Index" href="genindex.html" />
+  <link rel="search" title="Search" href="search.html" />
+  <link rel="next" title="Datu bāzes lietotāju tiesības darba režīmiem" href="datu_bazes_lietotaju_tiesibas_darba_rezimiem.html" />
+  <link rel="prev" title="Datu bāzes atjaunošana no BackUp faila, izmantojot SQL Enterprise Manager" href="datu_bazes_atjaunošana_no_backup_faila_izmantojot_sql_enterprise_manager.html" /> 
+  </head>
+
+  <body>
+    <div id="app" class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+  <router-link to="index.html" class="home-link">
+    
+      <span class="site-name">Sistēmas LĀCIS dokumentācija</span>
+    
+  </router-link>
+
+  <div class="links">
+    <navlinks class="can-hide">
+
+
+
+    </navlinks>
+  </div>
+</navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="index.html#welcome-to-ozols-help-s-documentation">Lietotajiem:</a></span>
+      </p>
+      <ul class="">
+        
+          <li class="toctree-l1 "><a href="sistemas_lietosanas_instrukcija.html" class="reference internal ">Sistēmas lietošanas instrukcija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="alga.html" class="reference internal ">Alga</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="avansi.html" class="reference internal ">Avansi</a>
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="index.html">Docs</a> &raquo;</li>
+    
+      <li><a href="sistemas_lietosanas_instrukcija.html">Sistēmas lietošanas instrukcija</a> &raquo;</li>
+    
+      <li><a href="administratora_instrukcijas.html">Administratora instrukcijas</a> &raquo;</li>
+    
+    <li>Datu bāzes lietotāju paroles konfigurācija</li>
+  </ul>
+  
+
+  </script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="datu_bazes_atjaunošana_no_backup_faila_izmantojot_sql_enterprise_manager.html"
+       title="previous chapter">← Datu bāzes atjaunošana no BackUp faila, izmantojot SQL Enterprise Manager</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="datu_bazes_lietotaju_tiesibas_darba_rezimiem.html"
+       title="next chapter">Datu bāzes lietotāju tiesības darba režīmiem →</a>
+  </li>
+</ul>
+
+  
+</div>
+<hr>
+          <div class="content" role="main">
+            
+  <div class="section" id="datu-bazes-lietotaju-paroles-konfiguracija">
+<h1>Datu bāzes lietotāju paroles konfigurācija<a class="headerlink" href="#datu-bazes-lietotaju-paroles-konfiguracija" title="Permalink to this headline">¶</a></h1>
+<p>Sistēmā OZOLS ir iespēja noteikt lietotājiem piesakoties sistēmā paroles satura minimālās prasības. Paroles konfigurēšanas iespējas ir pieejamas izvēlnes zarā Konfigurācija-&gt;Lietotāji-&gt;Paroles konfigurācija:</p>
+<p>Paroles min.garums: minimālais simbolu skaits, kas ir jāsatur katra lietotāja parolei
+Speciālo simbolu sk.:  minimālais speciālo simbolu skaits, kāds būtu jāsatur katrai lietotāju parolei.</p>
+<blockquote>
+<div><p>Speciālo simbolu uzskaitījums: ! ” # $ % &amp; ( ) * + , - . / : ; &lt; = &gt; ? &#64; [ ] ^ _ ` { | } ~</p>
+</div></blockquote>
+<p>Ciparu skaits: minimālais ciparu skaits, kāds būtu jāsatur katrai lietotāju parolei
+Lielo burtu skaits:  minimālais lielo burtu skaits, kāds būtu jāsatur katrai lietotāju parolei
+Paroles termiņš (dienās): nosaka lietotāj paroles derīguma termiņu.</p>
+<p>Ja šī termiņa laikā lietotājs nav nomainījis savu iepriekšējo paroli pret jaunu, tad lietotāja konts sistēmā OZOLS tiek slēgts un lietotājs vairs nevar strādāt sistēmā. Ja termiņš nav noteikts, tad parole ir beztermiņa.
+Brīdinājums pirms termiņa (dienās): ja ir noteikts sistēmas paroļu derīguma termiņš, tad ir iespēja iestādīt brīdinājumu, cik dienas pirms lietotāja paroles termiņa beigām brīdināt lietotāju.
+Lai saglabātu Paroles iestādījumus, nepieciešams nospiest pogu:</p>
+</div>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"></script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="datu_bazes_atjaunošana_no_backup_faila_izmantojot_sql_enterprise_manager.html"
+       title="previous chapter">← Datu bāzes atjaunošana no BackUp faila, izmantojot SQL Enterprise Manager</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="datu_bazes_lietotaju_tiesibas_darba_rezimiem.html"
+       title="next chapter">Datu bāzes lietotāju tiesības darba režīmiem →</a>
+  </li>
+</ul>
+<div class="footer" role="contentinfo">
+      &#169; Copyright 2020 Ozols Grupa.
+    <br>
+  Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.1.0 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a>.
+</div>
+                <script type="text/javascript">
+                  $(function(){
+                    $('.image-reference').fancybox();
+                  })
+                </script>
+            </div>
+          </div>
+      </page>
+    </div>
+    
+    
+  </body>
+</html>

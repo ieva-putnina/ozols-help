@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 801parent_id = 1Korespondences nosaukums;

@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 945parent_id = 855Projekta veids;

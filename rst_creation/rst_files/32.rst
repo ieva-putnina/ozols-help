@@ -1,0 +1,1 @@
+ssw_id = 46skf_id = 32parent_id = 46Dokumenti;

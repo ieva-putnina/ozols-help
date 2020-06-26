@@ -1,0 +1,1 @@
+ssw_id = 40skf_id = 4022parent_id = 31Izmaksu lieta;

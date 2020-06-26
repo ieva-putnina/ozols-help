@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 319parent_id = 31Valūta;

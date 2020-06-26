@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 1037parent_id = 51Kontu apgrozījuma atskaite;

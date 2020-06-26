@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 963parent_id = 63Kompetences;

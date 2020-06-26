@@ -1,0 +1,1 @@
+ssw_id = 47skf_id = 4702parent_id = 4700Kontakti;

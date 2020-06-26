@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 782parent_id = 781Kontu atlikumu pārnešana;

@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 914parent_id = 20Avansa izdevumu žurnāls;Avansu izdevumu žurnālā tiek saglabāti visi avansu norēķinu personu <a href="/help/?ssw=33&amp;skf_id=747">avansu izdevumu</a> dokumenti. Dokumentus iespējams atfiltrēt pa periodiem, personām, piegādātājiem, u.c., saistītās informācijas.<br>

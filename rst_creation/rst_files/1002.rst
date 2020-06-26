@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 1002parent_id = 53Naudas līdzekļu operāciju pārskats;

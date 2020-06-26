@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 577parent_id = 78Simulācijas atskaite;

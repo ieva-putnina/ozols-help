@@ -1,0 +1,1 @@
+ssw_id = 0skf_id = 141405.Darba uzsākšana ar maksājumu uzskaites moduli;Lai atvērtu instrukciju darba uzsākšanai ar OZOLS maksājumu uzskaites moduli spiediet <a href="/files/Instrukcija_maksajumu_uzskaite.pdf">šeit</a>

@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 384parent_id = 23Atlaižu grupa;

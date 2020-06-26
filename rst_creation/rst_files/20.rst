@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 20parent_id = 40Dokumenti;<P>&nbsp;</P>\n<P>Izmantojot Avansu dokumentus, iespējams noformēt&nbsp;<A href="/help/?ssw=33&amp;skf_id=748">Avansa norēķinus</A>&nbsp;un Avansu norēķiniem piesaistīt naudas attaisnojošos - <A href="/help/?ssw=33&amp;skf_id=747">Avansa izdevumu dokumentus</A>.</P>

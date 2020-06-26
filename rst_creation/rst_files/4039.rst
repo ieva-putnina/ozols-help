@@ -1,0 +1,1 @@
+ssw_id = 44skf_id = 4039parent_id = 4448Kampaņu rezultāti;<P>Kampaņu rezultātu sarakstā tiek saglabāti dati par kampaņām, kuras ir izpildītas, kuru&nbsp;statuss ir mainīts uz&nbsp;slēgts:</P>\n<P>&nbsp;</P>\n<P><IMG src="/help/Skin/help/img.aspx?pid=25834" border=0></P>

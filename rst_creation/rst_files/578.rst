@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 578parent_id = 85Neizpildītie klientu pasūtījumi;

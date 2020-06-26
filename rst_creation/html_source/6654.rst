@@ -1,0 +1,1 @@
+ssw_id = 66skf_id = 6654Atskaites;<P>Lai sagatavotu&nbsp;jaunus pieprasījumu dokumentus:</P>\n<P><A href="/help/?ssw=66&amp;skf_id=5039">Budžeta pieprasījumu dokumentus;</A></P>\n<P><A href="/help/?ssw=66&amp;skf_id=5047">Budžeta izmaiņu pieprasījumus;</A></P>\n<P><A href="/help/?ssw=66&amp;skf_id=5046">Budžeta grozījumu pieprasījumus.</A></P>

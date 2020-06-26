@@ -1,0 +1,1 @@
+ssw_id = 49skf_id = 778parent_id = 6Nomenklatūras grupas papildgrupa;

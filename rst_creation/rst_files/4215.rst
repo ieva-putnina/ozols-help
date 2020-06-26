@@ -1,0 +1,1 @@
+ssw_id = 42skf_id = 4215parent_id = 4218Regresa summu atgūšanas veids;

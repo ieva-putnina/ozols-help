@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 836parent_id = 15Brīvi definētie lauki;

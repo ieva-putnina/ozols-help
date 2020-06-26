@@ -1,0 +1,1 @@
+ssw_id = 65skf_id = 6531parent_id = 6550Uzdevumi;

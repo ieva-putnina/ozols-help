@@ -1,0 +1,1 @@
+ssw_id = 45skf_id = 4500parent_id = 0Maksājumu uzskaite;Lai atvērtu instrukciju darba uzsākšanai ar OZOLS maksājumu uzskaites moduli spiediet <a href="/files/Instrukcija_maksajumu_uzskaite.pdf">šeit</a>

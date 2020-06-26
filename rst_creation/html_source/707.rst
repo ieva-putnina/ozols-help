@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 707Virsgrāmata;<p>&nbsp;</p>\n<p>Noklusēto kontu izmantošanu dokumentu grāmatojumu šablonos, nosaka Virsgrāmatas konfigurācijas iestādījumi:</p>\n<p>&nbsp;</p>\n<p><img src="/help/Skin/help/img.aspx?pid=26147" border="0"></p>

@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 614Sistēmas kodi;<P>&nbsp;</P>\n<P>Sistēmas algoritmā iebūvētie kodi, kas izmantoti Algu <A href="/help/?ssw=33&amp;skf_id=283">Rezultējošo kodu konfigurācijā.</A></P>

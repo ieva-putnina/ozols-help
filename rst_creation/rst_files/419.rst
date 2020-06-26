@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 419parent_id = 31Darba laika uzskaites tabele;

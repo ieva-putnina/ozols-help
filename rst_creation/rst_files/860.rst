@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 860parent_id = 23Ampaksas atgadinājumu iestadījumi;

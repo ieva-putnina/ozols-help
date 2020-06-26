@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 1006parent_id = 31Lietotja logini;

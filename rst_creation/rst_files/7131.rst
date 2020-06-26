@@ -1,0 +1,1 @@
+ssw_id = 71skf_id = 7131parent_id = 7101POS nodaļas;

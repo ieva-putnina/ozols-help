@@ -1,0 +1,1 @@
+ssw_id = 44skf_id = 5256parent_id = 5255Uzdevuma vēsture;

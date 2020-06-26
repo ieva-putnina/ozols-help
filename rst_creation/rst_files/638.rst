@@ -1,0 +1,1 @@
+ssw_id = 45skf_id = 638parent_id = 4501Maksājumu aprēķinu žurnāls;

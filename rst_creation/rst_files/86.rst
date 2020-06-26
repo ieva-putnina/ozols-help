@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 86parent_id = 49Rīki;<P>&nbsp;</P>\n<P>Valūtu kursu svārstību aprēķins nodrošina valūtas kursa svārstību radītās peļņas&nbsp;vai zaudējumu automātisku aprēķinu.&nbsp;</P>

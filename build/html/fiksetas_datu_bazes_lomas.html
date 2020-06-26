@@ -1,0 +1,185 @@
+
+
+
+<!DOCTYPE html>
+<html  lang="lv">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>Fiksētās datu bāzes lomas</title>
+    
+      <link rel="stylesheet" href="_static/pygments.css">
+      <link rel="stylesheet" href="_static/theme.css">
+      <link rel="stylesheet" href="_static/sphinx_press_theme.css">
+          <link rel="stylesheet" href="_static/jquery.fancybox.min.css" type="text/css" />
+          <link rel="stylesheet" href="_static/sphinx_press_theme.css" type="text/css" />
+      
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+      <!-- sphinx script_files -->
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+        <script src="_static/translations.js"></script>
+        <script src="_static/jquery.fancybox.min.js"></script>
+
+      
+      <script src="_static/theme-vendors.js"></script>
+      <script src="_static/theme.js" defer></script>
+    
+  <link rel="index" title="Indekss" href="genindex.html" />
+  <link rel="search" title="Meklēt" href="search.html" />
+  <link rel="next" title="Ieteicamās lietotāja definētās datu bāzes lomas" href="ieteicamas_lietotaja_definetas_datu_bazes_lomas.html" />
+  <link rel="prev" title="Lietotāju lomu funkcijas" href="lietotaju_lomu_funkcijas.html" /> 
+  </head>
+
+  <body>
+    <div id="app" class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+  <router-link to="index.html" class="home-link">
+    
+      <span class="site-name">Ozols-help</span>
+    
+  </router-link>
+
+  <div class="links">
+    <navlinks class="can-hide">
+
+
+
+    </navlinks>
+  </div>
+</navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Ātra meklēšana</span>
+    <div class="searchformwrapper">
+      <form class="search" action="search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Meklēt" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="index.html#welcome-to-ozols-help-s-documentation">Lietotajiem:</a></span>
+      </p>
+      <ul class="">
+        
+          <li class="toctree-l1 "><a href="sistemas_lietosanas_instrukcija.html" class="reference internal ">Sistēmas lietošanas instrukcija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="alga.html" class="reference internal ">Alga</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="avansi.html" class="reference internal ">Avansi</a>
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="index.html">Docs</a> &raquo;</li>
+    
+      <li><a href="sistemas_lietosanas_instrukcija.html">Sistēmas lietošanas instrukcija</a> &raquo;</li>
+    
+      <li><a href="administratora_instrukcijas.html">Administratora instrukcijas</a> &raquo;</li>
+    
+      <li><a href="datu_bazes_lietotaju_tiesibas_darba_rezimiem.html">Datu bāzes lietotāju tiesības darba režīmiem</a> &raquo;</li>
+    
+    <li>Fiksētās datu bāzes lomas</li>
+  </ul>
+  
+
+  </script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="lietotaju_lomu_funkcijas.html"
+       title="iepriekšēja sadaļa">← Lietotāju lomu funkcijas</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="ieteicamas_lietotaja_definetas_datu_bazes_lomas.html"
+       title="nākoša sadaļa">Ieteicamās lietotāja definētās datu bāzes lomas →</a>
+  </li>
+</ul>
+
+  
+</div>
+<hr>
+          <div class="content" role="main">
+            
+  <div class="section" id="fiksetas-datu-bazes-lomas">
+<h1>Fiksētās datu bāzes lomas<a class="headerlink" href="#fiksetas-datu-bazes-lomas" title="Pastāvīga norāde šo virsrakstu">¶</a></h1>
+<p>Fiksētās datu bāzes lomas ir definētas datu bāzes līmeni un eksistē katrā datu bāzē.</p>
+<p>Sitēmā OZOLS noklusētās lietotāju lomas ir:</p>
+<p>ibav_deny_insert - nedrīkst pievienot nevienu ierakstu
+ibav_deny_update - nedrīkst labot nevienu ierakstu
+ibav_deny_delete - nedrīkst dzēst nevienu ierakstu
+ibav_deny_insert_lists  - nedrīkst pievienot nevienu ierakstu, izņemot dokumentu sadaļās esošos ierakstus
+ibav_deny_update_lists - nedrīkst labot nevienu ierakstu, izņemot dokumentu sadaļās esošos ierakstus
+ibav_deny_delete_lists - nedrīkst dzēst nevienu ierakstu, izņemot dokumentu sadaļās esošos ierakstus
+oz_deny_update_main_flds - partneru sarakstos nedrīkst dzēst ierakstus, nedrīkst labot laukus „Kods“, „Nosaukums“, „Vārds“, „Uzvārds“, „Reģistrācijas Nr.“, „PVN kods“, „Pers.kods“, „Banku kontus“, „Adreses“
+(Šīs lomas lietotājiem ir tiesības pievienot jaunu ierakstu un labot ieraksta laukus, kas nav uzskaitīti.)</p>
+</div>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"></script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="lietotaju_lomu_funkcijas.html"
+       title="iepriekšēja sadaļa">← Lietotāju lomu funkcijas</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="ieteicamas_lietotaja_definetas_datu_bazes_lomas.html"
+       title="nākoša sadaļa">Ieteicamās lietotāja definētās datu bāzes lomas →</a>
+  </li>
+</ul>
+<div class="footer" role="contentinfo">
+      &#169; Copyright 2020, Bykov.
+    <br>
+  Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.1.0 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a>.
+</div>
+                <script type="text/javascript">
+                  $(function(){
+                    $('.image-reference').fancybox();
+                  })
+                </script>
+            </div>
+          </div>
+      </page>
+    </div>
+    
+    
+  </body>
+</html>

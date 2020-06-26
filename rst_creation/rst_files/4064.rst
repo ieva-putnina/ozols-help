@@ -1,0 +1,1 @@
+ssw_id = 40skf_id = 4064parent_id = 4002Ienākošo polišu maksājumu atšifrēšana;

@@ -1,0 +1,1 @@
+ssw_id = 33skf_id = 1031parent_id = 850Atvaļinājumu uzskaite;

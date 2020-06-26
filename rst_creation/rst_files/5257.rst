@@ -1,0 +1,1 @@
+ssw_id = 44skf_id = 5257parent_id = 5253Uzdevumu izpilde;

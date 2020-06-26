@@ -1,0 +1,1 @@
+ssw_id = 0skf_id = 14105parent_id = 14102Finanses;

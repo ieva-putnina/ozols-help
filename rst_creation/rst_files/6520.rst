@@ -1,0 +1,1 @@
+ssw_id = 65skf_id = 6520parent_id = 6500Jauns;<P>&nbsp;</P>\n<P>No darba režīma Jauns, iespējams pievienot Jaunu <A href="/help/?ssw=65&amp;skf_id=6510">Polisi</A></P>
