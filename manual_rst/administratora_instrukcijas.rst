@@ -6,7 +6,7 @@ Administratora instrukcijas
 
 OZOLS sistēmā iebūvētos administrēšanas rīkus var izmantot visu galveno administrēšanas funkciju veikšanai:
 
-.. toctress::
+.. toctree::
    :caption: Lietotājiem
    :maxdepth: 3
    

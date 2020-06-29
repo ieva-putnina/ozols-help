@@ -1,8 +1,8 @@
 .. 1_darba_uzsaksana_sistemas_ozols_lietotajiem
 
-==========================================
+======================================================
 1.Darba uzsākšana sistēmas OZOLS lietotājiem
-==========================================
+======================================================
 
 Uzņēmuma pamatinformācija:
 Uzsākot darbu sistēmā OZOLS, sākotnēji nepieciešams aizpildīt Uzņēmuma informāciju:

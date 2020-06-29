@@ -6,7 +6,7 @@ Sistēmas lietošanas principi
  
 Sistēmas lietošanas pamatprincipi darbam ar sarakstiem, dokumentiem, atskaitēm un to drukāšanas iespējām sistēmā Ozols:
 
-.. toctress::
+.. toctree::
    :caption: Lietotājiem
    :maxdepth: 3
    

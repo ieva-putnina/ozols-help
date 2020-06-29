@@ -1,0 +1,498 @@
+
+
+
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>Algu aprēķins</title>
+    
+      <link rel="stylesheet" href="_static/pygments.css">
+      <link rel="stylesheet" href="_static/theme.css">
+      <link rel="stylesheet" href="_static/sphinx_press_theme.css">
+          <link rel="stylesheet" href="_static/page_nav.css" type="text/css" />
+          <link rel="stylesheet" href="_static/jquery.fancybox.min.css" type="text/css" />
+          <link rel="stylesheet" href="_static/sphinx_press_theme.css" type="text/css" />
+      
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+      <!-- sphinx script_files -->
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+        <script src="_static/jquery.fancybox.min.js"></script>
+
+      
+      <script src="_static/theme-vendors.js"></script>
+      <script src="_static/theme.js" defer></script>
+    
+  <link rel="index" title="Index" href="genindex.html" />
+  <link rel="search" title="Search" href="search.html" />
+  <link rel="next" title="Algu datu imports" href="999.html" />
+  <link rel="prev" title="Rīki" href="29.html" /> 
+  </head>
+
+  <body>
+    <div id="app" class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+  <router-link to="index.html" class="home-link">
+    
+      <span class="site-name">Sistēmas LĀCIS dokumentācija</span>
+    
+  </router-link>
+
+  <div class="links">
+    <navlinks class="can-hide">
+
+
+
+    </navlinks>
+  </div>
+</navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="index.html#ozols-palidzibas-sistema">ozols palīdzības sistēma</a></span>
+      </p>
+      <ul class="">
+        
+          <li class="toctree-l1 "><a href="7603.html" class="reference internal ">Paziņojumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="600.html" class="reference internal ">Sākums</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="14000.html" class="reference internal ">Sistēmas lietošanas instrukcija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="18.html" class="reference internal ">Mani darbi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="39.html" class="reference internal ">Alga</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4000.html" class="reference internal ">Apdrošināšanas polises</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4800.html" class="reference internal ">Autoinfo</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="40.html" class="reference internal ">Avansi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="48.html" class="reference internal ">Budžeta izpilde</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6600.html" class="reference internal ">Budžeta plānošana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7700.html" class="reference internal ">Caurlaides</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="26.html" class="reference internal ">CRM (Partneri)</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="50.html" class="reference internal ">Datu apmaiņa ar banku</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7400.html" class="reference internal ">Degvielas tirdzniecība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7000.html" class="reference internal ">Dividendes</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7900.html" class="reference internal ">Ēdināšana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="41.html" class="reference internal ">Finanses</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4900.html" class="reference internal ">iVeikals</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="42.html" class="reference internal ">Krājumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7600.html" class="reference internal ">Kravu pārvadājumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4100.html" class="reference internal ">LaMSF</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6800.html" class="reference internal ">Līgumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4500.html" class="reference internal ">Maksājumu uzskaite</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7100.html" class="reference internal ">Mazumtirdzniecība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="43.html" class="reference internal ">Noliktava</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6770.html" class="reference internal ">Noma</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6700.html" class="reference internal ">Noma transportam</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="44.html" class="reference internal ">Norēķini</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="45.html" class="reference internal ">Pamatlīdzekļi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="34.html" class="reference internal ">Pasts</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7200.html" class="reference internal ">Personāla pašapkalpošanās</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="47.html" class="reference internal ">Personāla vadība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6500.html" class="reference internal ">Polises</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="46.html" class="reference internal ">Projektu kalkulācija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4200.html" class="reference internal ">Regresi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4300.html" class="reference internal ">TKU</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="49.html" class="reference internal ">Virsgrāmata</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4700.html" class="reference internal ">wap OZOLS</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="38.html" class="reference internal ">Citi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5226.html" class="reference internal ">Darbinieku portāls</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6901.html" class="reference internal ">Degvielas pasūtījumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5026.html" class="reference internal ">Iestādījumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4444.html" class="reference internal ">Klientu portāls</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="12.html" class="reference internal ">Konfigurācija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="1.html" class="reference internal ">Kopējie saraksti</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7301.html" class="reference internal ">Mākslinieciskā darba plānošana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5295.html" class="reference internal ">Meklēšanas rezultāti</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6734.html" class="reference internal ">Noma</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="31.html" class="reference internal ">Pievienot</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4461.html" class="reference internal ">Pievienot notikumu</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="10.html" class="reference internal ">Rīki</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7500.html" class="reference internal ">SPRK</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4445.html" class="reference internal ">Uzņēmuma portāls</a>
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="index.html">Docs</a> &raquo;</li>
+    
+      <li><a href="39.html">Alga</a> &raquo;</li>
+    
+      <li><a href="29.html">Rīki</a> &raquo;</li>
+    
+    <li>Algu aprēķins</li>
+  </ul>
+  
+
+  </script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="29.html"
+       title="previous chapter">← Rīki</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="999.html"
+       title="next chapter">Algu datu imports →</a>
+  </li>
+</ul>
+
+  
+</div>
+<hr>
+          <div class="content" role="main">
+            
+  <div class="section" id="algu-aprekins">
+<h1>Algu aprēķins<a class="headerlink" href="#algu-aprekins" title="Permalink to this headline">¶</a></h1>
+<p>&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;Algu aprēķina&amp;nbsp;rīks paredzēts automatizētai algu aprēķināšanai un/vai izmaksu veikšanai uz izmaksu sarakstiem&amp;nbsp;visiem darbiniekiem vai lietotāja norādītai darbinieku grupai. Pēc lietotāja norādīto darbību veikšanas algu aprēķini ir pieejami &lt;A href=”/help/?ssw=33&amp;amp;skf_id=212”&gt;Algu aprēķinu žurnālā&lt;/A&gt;.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;IMG src=”/help/Skin/help/img.aspx?pid=24545” border=0&gt;&amp;nbsp;Pirms aprēķinu veikšanas jāpārbauda, vai ir savadīti visi dati &lt;A href=”/help/?ssw=33&amp;amp;skf_id=728”&gt;Algu tarifikācijā&lt;/A&gt;, &lt;A href=”/help/?ssw=33&amp;amp;skf_id=208”&gt;Nodokļu dokumentu žurnālā&lt;/A&gt;, &lt;A href=”/help/?ssw=33&amp;amp;skf_id=209”&gt;Rīkojumu žurnālā&lt;/A&gt;&amp;nbsp;par attiecīgo periodu lai varētu veikt algu aprēķinu&amp;nbsp;un izveidoti &lt;A href=”/help/?ssw=33&amp;amp;skf_id=238”&gt;Izmaksu saraksti&lt;/A&gt; par attiecīgo periodu lai veiktu aprēķinu izmaksu uz izmaksu sarakstiem.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Lai veiktu algu aprēķinu un/vai izmaksu uz izmaksu sarakstiem lietotājam jānorāda atlases un darbību nosacījumi.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;IMG src=”/help/Skin/help/img.aspx?pid=26277” border=0&gt;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Uzņēmums&lt;/STRONG&gt; - šis lauks ir informatīvs un to šajā formā mainīt nedrīkst. Šis lauks ir paredzēts lai lietotājs redzētu&amp;nbsp;uzņēmumu, kuram tiks veikts algu aprēķins un/vai izmaksa, ja sistēmā uzskaite tiek veikta vairākiem uzņēmumiem.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Struktūrv.&lt;/STRONG&gt; - šī izvēles rūtiņa ir jāatzīmē, ja lietotājs vēlas veikt aprēķinus un/vai izmaksas vienai struktūrvienībai. Pēc izvēles rūtīņas atzīmēšanas lietotājam jāizvēlas struktūrvienība. Izvēles rūtiņas atzīme jāizņem, ja lietotājs vēlas veikt algu aprēķinus un/vai algu izmaksas visam uzņēmumam.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Atvērtajā periodā dzēst X algu aprēķinus &lt;/STRONG&gt;- šī izvēles rūtiņa jāatzīmē, ja lietotājs vēlas dzēst par attiecīgo periodu jau izveidotos algu aprēķinus.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Atvērtajā periodā izveidot X jaunus algu aprēķnus&lt;/STRONG&gt; - šī izvēles rūtiņa jāatzīmē, ja lietotājs vēlas&amp;nbsp;attiecīgajā periodā&amp;nbsp;izveidot jaunus algu aprēķinus.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;IMG src=”/help/Skin/help/img.aspx?pid=24545” border=0&gt;Lietotājam jāņem vērā, ka atzīmējot izvēles rūtiņu &lt;STRONG&gt;Atvērtajā periodā dzēst X algu aprēķinus, &lt;/STRONG&gt;esošie par attiecīgo periodu&amp;nbsp;algu aprēķini tiks neatgriezeniski izdzēsti. Kā arī atzīmējot izvēles rūtiņu &lt;STRONG&gt;Atvērtajā periodā izveidot X jaunus algu aprēķnus,&amp;nbsp;&lt;/STRONG&gt;esošie algu aprēķioni tiks aizstāti ar jaunizveidotajiem, iepriekšējos dzēšot.&lt;STRONG&gt;&amp;nbsp;&lt;/STRONG&gt;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Atvērtajā periodā salikt jaunāko info no slodzes aprakstiem X algu aprēķiniem&lt;/STRONG&gt; - atzīmējot šo izvēles rūtiņu tiks izveidoti algu aprēķini&amp;nbsp;par attiecīgo periodu (nedzēšot esošos) un tiks izpildītas pārējās darbības, kas atzīmētas šajā formā.&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Aizpildīt algu ieejošos kodus no tarifikācijas&lt;/STRONG&gt; - atzīmējot šo izvēles rūtiņu sistēma izveidotajos algu aprēķinos aizpildīs datus no &lt;A href=”/help/?ssw=33&amp;amp;skf_id=728”&gt;Algu tarifikācijas&lt;/A&gt;.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Aizpildīt ieejošos kodus no slodzes kalendāra&lt;/STRONG&gt; - atzīmējot šo izvēles rūtiņu sistēma izveidotajos algu aprēķinos aizpildīs datus no &lt;A href=”/help/?ssw=33&amp;amp;skf_id=209”&gt;Rīkojumiem&lt;/A&gt;.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Palaist algu aprēķinu (algu rēķinās tikai slodzēm ar nod.dok.)&lt;/STRONG&gt; - atzīmējot šo izvēles rūtiņu sistēma veiks par attiecīgo periodu algu aprēķinus izveidotajiem algu aprēķiniem &lt;A href=”/help/?ssw=33&amp;amp;skf_id=212”&gt;Algu aprēķinu žurnālā&lt;/A&gt;.&lt;/P&gt;
+&lt;P&gt;&lt;STRONG&gt;Starpību starp aprēķināto un ieturēto palaist uz izmaksu sarakstiem&lt;/STRONG&gt; - atzīmējot šo izvēles rūtiņu sistēma algu aprēķinu izmaksājamās summas aizpildīs Izmaksu sarakstos. Lai sistēma varētu veiksmīgi veikt šo darbību, lietotājam pirms tam ir jāizveido Izmkasu saraksts &lt;A href=”/help/?ssw=33&amp;amp;skf_id=238”&gt;Izmaksu sarakstu žurnālā&lt;/A&gt;.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;
+&lt;P&gt;Pēc atlases un darbību datu aizpildīšanas jāspiež poga &lt;STRONG&gt;Turpināt&lt;/STRONG&gt;, lai sistēma veiktu lietotāja norādītās darbības algu aprēķinā.&lt;/P&gt;
+&lt;P&gt;&amp;nbsp;&lt;/P&gt;</p>
+</div>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"></script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="29.html"
+       title="previous chapter">← Rīki</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="999.html"
+       title="next chapter">Algu datu imports →</a>
+  </li>
+</ul>
+<div class="footer" role="contentinfo">
+      &#169; Copyright 2020 Ozols Grupa.
+    <br>
+  Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.1.0 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a>.
+</div>
+                <script type="text/javascript">
+                  $(function(){
+                    $('.image-reference').fancybox();
+                  })
+                </script>
+            </div>
+          </div>
+      </page>
+    </div>
+    
+    
+  </body>
+</html>

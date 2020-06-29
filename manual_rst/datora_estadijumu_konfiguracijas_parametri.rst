@@ -4,7 +4,7 @@
 Datora iestādījumu konfigurācijas parametri
 =====================================
 
-.. toctress::
+.. toctree::
    :caption: Lietotājiem
    :maxdepth: 2
    

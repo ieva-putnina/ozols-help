@@ -1,0 +1,1112 @@
+
+
+
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>Peļņas vai zaudējumu aprēķins (PZA1 - Pēc izdevumu veidiem)</title>
+    
+      <link rel="stylesheet" href="_static/pygments.css">
+      <link rel="stylesheet" href="_static/theme.css">
+      <link rel="stylesheet" href="_static/sphinx_press_theme.css">
+          <link rel="stylesheet" href="_static/page_nav.css" type="text/css" />
+          <link rel="stylesheet" href="_static/jquery.fancybox.min.css" type="text/css" />
+          <link rel="stylesheet" href="_static/sphinx_press_theme.css" type="text/css" />
+      
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+      <!-- sphinx script_files -->
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+        <script src="_static/jquery.fancybox.min.js"></script>
+
+      
+      <script src="_static/theme-vendors.js"></script>
+      <script src="_static/theme.js" defer></script>
+    
+  <link rel="index" title="Index" href="genindex.html" />
+  <link rel="search" title="Search" href="search.html" />
+  <link rel="next" title="Peļņas vai zaudējumu aprēķins (PZA2 - Pēc izdevumu funkcijām)" href="1040.html" />
+  <link rel="prev" title="Peļņas vai zaudējumu aprēķins" href="556.html" /> 
+  </head>
+
+  <body>
+    <div id="app" class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+  <router-link to="index.html" class="home-link">
+    
+      <span class="site-name">Sistēmas LĀCIS dokumentācija</span>
+    
+  </router-link>
+
+  <div class="links">
+    <navlinks class="can-hide">
+
+
+
+    </navlinks>
+  </div>
+</navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="index.html#ozols-palidzibas-sistema">ozols palīdzības sistēma</a></span>
+      </p>
+      <ul class="">
+        
+          <li class="toctree-l1 "><a href="7603.html" class="reference internal ">Paziņojumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="600.html" class="reference internal ">Sākums</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="14000.html" class="reference internal ">Sistēmas lietošanas instrukcija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="18.html" class="reference internal ">Mani darbi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="39.html" class="reference internal ">Alga</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4000.html" class="reference internal ">Apdrošināšanas polises</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4800.html" class="reference internal ">Autoinfo</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="40.html" class="reference internal ">Avansi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="48.html" class="reference internal ">Budžeta izpilde</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6600.html" class="reference internal ">Budžeta plānošana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7700.html" class="reference internal ">Caurlaides</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="26.html" class="reference internal ">CRM (Partneri)</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="50.html" class="reference internal ">Datu apmaiņa ar banku</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7400.html" class="reference internal ">Degvielas tirdzniecība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7000.html" class="reference internal ">Dividendes</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7900.html" class="reference internal ">Ēdināšana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="41.html" class="reference internal ">Finanses</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4900.html" class="reference internal ">iVeikals</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="42.html" class="reference internal ">Krājumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7600.html" class="reference internal ">Kravu pārvadājumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4100.html" class="reference internal ">LaMSF</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6800.html" class="reference internal ">Līgumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4500.html" class="reference internal ">Maksājumu uzskaite</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7100.html" class="reference internal ">Mazumtirdzniecība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="43.html" class="reference internal ">Noliktava</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6770.html" class="reference internal ">Noma</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6700.html" class="reference internal ">Noma transportam</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="44.html" class="reference internal ">Norēķini</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="45.html" class="reference internal ">Pamatlīdzekļi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="34.html" class="reference internal ">Pasts</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7200.html" class="reference internal ">Personāla pašapkalpošanās</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="47.html" class="reference internal ">Personāla vadība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6500.html" class="reference internal ">Polises</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="46.html" class="reference internal ">Projektu kalkulācija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4200.html" class="reference internal ">Regresi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4300.html" class="reference internal ">TKU</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="49.html" class="reference internal ">Virsgrāmata</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4700.html" class="reference internal ">wap OZOLS</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="38.html" class="reference internal ">Citi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5226.html" class="reference internal ">Darbinieku portāls</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6901.html" class="reference internal ">Degvielas pasūtījumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5026.html" class="reference internal ">Iestādījumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4444.html" class="reference internal ">Klientu portāls</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="12.html" class="reference internal ">Konfigurācija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="1.html" class="reference internal ">Kopējie saraksti</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7301.html" class="reference internal ">Mākslinieciskā darba plānošana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5295.html" class="reference internal ">Meklēšanas rezultāti</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6734.html" class="reference internal ">Noma</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="31.html" class="reference internal ">Pievienot</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4461.html" class="reference internal ">Pievienot notikumu</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="10.html" class="reference internal ">Rīki</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7500.html" class="reference internal ">SPRK</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4445.html" class="reference internal ">Uzņēmuma portāls</a>
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="index.html">Docs</a> &raquo;</li>
+    
+      <li><a href="49.html">Virsgrāmata</a> &raquo;</li>
+    
+      <li><a href="51.html">Atskaites</a> &raquo;</li>
+    
+      <li><a href="530.html">VID atskaites</a> &raquo;</li>
+    
+    <li>Peļņas vai zaudējumu aprēķins (PZA1 - Pēc izdevumu veidiem)</li>
+  </ul>
+  
+
+  </script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="556.html"
+       title="previous chapter">← Peļņas vai zaudējumu aprēķins</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="1040.html"
+       title="next chapter">Peļņas vai zaudējumu aprēķins (PZA2 - Pēc izdevumu funkcijām) →</a>
+  </li>
+</ul>
+
+  
+</div>
+<hr>
+          <div class="content" role="main">
+            
+  <div class="section" id="pelnas-vai-zaudejumu-aprekins-pza1-pec-izdevumu-veidiem">
+<h1>Peļņas vai zaudējumu aprēķins (PZA1 - Pēc izdevumu veidiem)<a class="headerlink" href="#pelnas-vai-zaudejumu-aprekins-pza1-pec-izdevumu-veidiem" title="Permalink to this headline">¶</a></h1>
+<p>&lt;p class=”MsoNormal” style=”text-align:justify”&gt;&lt;font size=”2” face=”Tahoma”&gt;&lt;span style=”mso-bidi-font-family:
+Calibri;mso-ansi-language:LV”&gt;Lai piekļūtu Peļņas vai zaudējuma formai “Peļņas
+vai zaudējuma aprēķins PZA1”, ir
+nepieciešams to aktivizēt, piešķirot lietotājam tiesības redzēt šo atskaites
+formu. Tiesības piešķir administrators.&amp;nbsp; &lt;span style=”mso-spacerun:yes”&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;font size=”2” face=”Tahoma”&gt;&lt;br&gt;&lt;/font&gt;&lt;p class=”MsoNormal” style=”text-align:justify”&gt;&lt;font size=”2” face=”Tahoma”&gt;&lt;span style=”mso-bidi-font-family:
+Calibri;mso-ansi-language:LV”&gt;&lt;span style=”mso-spacerun:yes”&gt;Kad atskaites forma ir aktivizēta, tad &lt;/span&gt;&lt;/span&gt;&lt;span style=”mso-bidi-font-family:
+Calibri;mso-ansi-language:LV”&gt;&lt;span style=”mso-spacerun:yes”&gt;&lt;span style=”mso-bidi-font-family:
+Calibri;mso-ansi-language:LV”&gt;&lt;span style=”mso-spacerun:yes”&gt;&lt;u&gt;&lt;i&gt;&lt;font color=”#0000FF”&gt;Virsgrāmata&amp;gt;Atskaites&amp;gt;VID atskaites&lt;/font&gt;&lt;/i&gt;&lt;/u&gt;&lt;font color=”#0000FF”&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt; ir pieejama atskaišu forma “Peļņas vai zaudējuma aprēķins PZA1”. &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=”MsoNormal” style=”text-align:justify”&gt;&lt;font size=”2”&gt;&lt;span style=”mso-bidi-font-family:
+Calibri;mso-ansi-language:LV”&gt;&lt;span style=”mso-spacerun:yes”&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=”MsoNormal” align=”center”&gt;&lt;font size=”2”&gt;&lt;span style=”mso-bidi-font-family:
+Calibri;mso-ansi-language:LV”&gt;&lt;span style=”mso-spacerun:yes”&gt;&lt;img src=”Skin/help/img.aspx?pid=26572” border=”0”&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=”MsoNormal” style=”text-align:justify”&gt;&lt;font size=”2”&gt;&lt;span style=”mso-bidi-font-family:
+Calibri;mso-ansi-language:LV”&gt;&lt;span style=”mso-spacerun:yes”&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p class=”MsoNormal” style=”text-align:justify”&gt;&lt;br&gt;&lt;/p&gt;&lt;p class=”MsoNormal” style=”text-align:justify”&gt;&lt;span style=”mso-bidi-font-family:
+Calibri;mso-ansi-language:LV”&gt;&lt;span style=”mso-spacerun:yes”&gt;&lt;!–[if gte mso 9]&gt;&lt;xml&gt;</p>
+<blockquote>
+<div><dl class="simple">
+<dt>&lt;o:OfficeDocumentSettings&gt;</dt><dd><p>&lt;o:AllowPNG/&gt;</p>
+</dd>
+</dl>
+<p>&lt;/o:OfficeDocumentSettings&gt;</p>
+</div></blockquote>
+<dl>
+<dt>&lt;/xml&gt;&lt;![endif]–&gt;&lt;!–[if gte mso 9]&gt;&lt;xml&gt;</dt><dd><dl>
+<dt>&lt;w:WordDocument&gt;</dt><dd><p>&lt;w:View&gt;Normal&lt;/w:View&gt;
+&lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
+&lt;w:TrackMoves/&gt;
+&lt;w:TrackFormatting/&gt;
+&lt;w:PunctuationKerning/&gt;
+&lt;w:ValidateAgainstSchemas/&gt;
+&lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+&lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+&lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+&lt;w:DoNotPromoteQF/&gt;
+&lt;w:LidThemeOther&gt;LV&lt;/w:LidThemeOther&gt;
+&lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;
+&lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;
+&lt;w:Compatibility&gt;</p>
+<blockquote>
+<div><p>&lt;w:BreakWrappedTables/&gt;
+&lt;w:SnapToGridInCell/&gt;
+&lt;w:WrapTextWithPunct/&gt;
+&lt;w:UseAsianBreakRules/&gt;
+&lt;w:DontGrowAutofit/&gt;
+&lt;w:SplitPgBreakAndParaMark/&gt;
+&lt;w:EnableOpenTypeKerning/&gt;
+&lt;w:DontFlipMirrorIndents/&gt;
+&lt;w:OverrideTableStyleHps/&gt;</p>
+</div></blockquote>
+<p>&lt;/w:Compatibility&gt;
+&lt;m:mathPr&gt;</p>
+<blockquote>
+<div><p>&lt;m:mathFont m:val=”Cambria Math”/&gt;
+&lt;m:brkBin m:val=”before”/&gt;
+&lt;m:brkBinSub m:val=”--“/&gt;
+&lt;m:smallFrac m:val=”off”/&gt;
+&lt;m:dispDef/&gt;
+&lt;m:lMargin m:val=”0”/&gt;
+&lt;m:rMargin m:val=”0”/&gt;
+&lt;m:defJc m:val=”centerGroup”/&gt;
+&lt;m:wrapIndent m:val=”1440”/&gt;
+&lt;m:intLim m:val=”subSup”/&gt;
+&lt;m:naryLim m:val=”undOvr”/&gt;</p>
+</div></blockquote>
+<p>&lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;</p>
+</dd>
+</dl>
+</dd>
+<dt>&lt;/xml&gt;&lt;![endif]–&gt;&lt;!–[if gte mso 9]&gt;&lt;xml&gt;</dt><dd><dl>
+<dt>&lt;w:LatentStyles DefLockedState=”false” DefUnhideWhenUsed=”false”</dt><dd><p>DefSemiHidden=”false” DefQFormat=”false” DefPriority=”99”
+LatentStyleCount=”375”&gt;
+&lt;w:LsdException Locked=”false” Priority=”0” QFormat=”true” Name=”Normal”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”9” QFormat=”true” Name=”heading 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”9” SemiHidden=”true”</p>
+<blockquote>
+<div><p>UnhideWhenUsed=”true” QFormat=”true” Name=”heading 2”/&gt;</p>
+</div></blockquote>
+<dl class="simple">
+<dt>&lt;w:LsdException Locked=”false” Priority=”9” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” QFormat=”true” Name=”heading 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”9” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” QFormat=”true” Name=”heading 4”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”9” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” QFormat=”true” Name=”heading 5”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”9” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” QFormat=”true” Name=”heading 6”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”9” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” QFormat=”true” Name=”heading 7”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”9” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” QFormat=”true” Name=”heading 8”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”9” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” QFormat=”true” Name=”heading 9”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”index 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”index 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”index 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”index 4”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”index 5”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”index 6”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”index 7”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”index 8”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”index 9”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”39” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” Name=”toc 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”39” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” Name=”toc 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”39” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” Name=”toc 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”39” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” Name=”toc 4”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”39” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” Name=”toc 5”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”39” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” Name=”toc 6”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”39” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” Name=”toc 7”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”39” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” Name=”toc 8”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”39” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” Name=”toc 9”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Normal Indent”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”footnote text”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”annotation text”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”header”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”footer”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”index heading”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”35” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” QFormat=”true” Name=”caption”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”table of figures”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”envelope address”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”envelope return”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”footnote reference”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”annotation reference”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”line number”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”page number”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”endnote reference”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”endnote text”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”table of authorities”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”macro”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”toa heading”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List Bullet”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List Number”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List 4”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List 5”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List Bullet 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List Bullet 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List Bullet 4”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List Bullet 5”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List Number 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List Number 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List Number 4”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List Number 5”/&gt;</p>
+</dd>
+</dl>
+<p>&lt;w:LsdException Locked=”false” Priority=”10” QFormat=”true” Name=”Title”/&gt;
+&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</p>
+<blockquote>
+<div><p>Name=”Closing”/&gt;</p>
+</div></blockquote>
+<dl class="simple">
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Signature”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”1” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” Name=”Default Paragraph Font”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Body Text”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Body Text Indent”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List Continue”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List Continue 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List Continue 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List Continue 4”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”List Continue 5”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Message Header”/&gt;</p>
+</dd>
+</dl>
+<p>&lt;w:LsdException Locked=”false” Priority=”11” QFormat=”true” Name=”Subtitle”/&gt;
+&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</p>
+<blockquote>
+<div><p>Name=”Salutation”/&gt;</p>
+</div></blockquote>
+<dl class="simple">
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Date”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Body Text First Indent”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Body Text First Indent 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Note Heading”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Body Text 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Body Text 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Body Text Indent 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Body Text Indent 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Block Text”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Hyperlink”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”FollowedHyperlink”/&gt;</p>
+</dd>
+</dl>
+<p>&lt;w:LsdException Locked=”false” Priority=”22” QFormat=”true” Name=”Strong”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”20” QFormat=”true” Name=”Emphasis”/&gt;
+&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</p>
+<blockquote>
+<div><p>Name=”Document Map”/&gt;</p>
+</div></blockquote>
+<dl class="simple">
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Plain Text”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”E-mail Signature”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”HTML Top of Form”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”HTML Bottom of Form”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Normal (Web)”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”HTML Acronym”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”HTML Address”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”HTML Cite”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”HTML Code”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”HTML Definition”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”HTML Keyboard”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”HTML Preformatted”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”HTML Sample”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”HTML Typewriter”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”HTML Variable”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Normal Table”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”annotation subject”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”No List”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Outline List 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Outline List 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Outline List 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Simple 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Simple 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Simple 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Classic 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Classic 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Classic 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Classic 4”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Colorful 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Colorful 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Colorful 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Columns 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Columns 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Columns 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Columns 4”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Columns 5”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Grid 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Grid 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Grid 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Grid 4”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Grid 5”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Grid 6”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Grid 7”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Grid 8”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table List 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table List 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table List 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table List 4”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table List 5”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table List 6”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table List 7”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table List 8”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table 3D effects 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table 3D effects 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table 3D effects 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Contemporary”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Elegant”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Professional”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Subtle 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Subtle 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Web 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Web 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Table Web 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</dt><dd><p>Name=”Balloon Text”/&gt;</p>
+</dd>
+</dl>
+<p>&lt;w:LsdException Locked=”false” Priority=”39” Name=”Table Grid”/&gt;
+&lt;w:LsdException Locked=”false” SemiHidden=”true” UnhideWhenUsed=”true”</p>
+<blockquote>
+<div><p>Name=”Table Theme”/&gt;</p>
+</div></blockquote>
+<p>&lt;w:LsdException Locked=”false” SemiHidden=”true” Name=”Placeholder Text”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”1” QFormat=”true” Name=”No Spacing”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”60” Name=”Light Shading”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”61” Name=”Light List”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”62” Name=”Light Grid”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”63” Name=”Medium Shading 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”64” Name=”Medium Shading 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”65” Name=”Medium List 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”66” Name=”Medium List 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”67” Name=”Medium Grid 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”68” Name=”Medium Grid 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”69” Name=”Medium Grid 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”70” Name=”Dark List”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”71” Name=”Colorful Shading”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”72” Name=”Colorful List”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”73” Name=”Colorful Grid”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”60” Name=”Light Shading Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”61” Name=”Light List Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”62” Name=”Light Grid Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”63” Name=”Medium Shading 1 Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”64” Name=”Medium Shading 2 Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”65” Name=”Medium List 1 Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” SemiHidden=”true” Name=”Revision”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”34” QFormat=”true”</p>
+<blockquote>
+<div><p>Name=”List Paragraph”/&gt;</p>
+</div></blockquote>
+<p>&lt;w:LsdException Locked=”false” Priority=”29” QFormat=”true” Name=”Quote”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”30” QFormat=”true”</p>
+<blockquote>
+<div><p>Name=”Intense Quote”/&gt;</p>
+</div></blockquote>
+<p>&lt;w:LsdException Locked=”false” Priority=”66” Name=”Medium List 2 Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”67” Name=”Medium Grid 1 Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”68” Name=”Medium Grid 2 Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”69” Name=”Medium Grid 3 Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”70” Name=”Dark List Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”71” Name=”Colorful Shading Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”72” Name=”Colorful List Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”73” Name=”Colorful Grid Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”60” Name=”Light Shading Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”61” Name=”Light List Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”62” Name=”Light Grid Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”63” Name=”Medium Shading 1 Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”64” Name=”Medium Shading 2 Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”65” Name=”Medium List 1 Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”66” Name=”Medium List 2 Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”67” Name=”Medium Grid 1 Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”68” Name=”Medium Grid 2 Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”69” Name=”Medium Grid 3 Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”70” Name=”Dark List Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”71” Name=”Colorful Shading Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”72” Name=”Colorful List Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”73” Name=”Colorful Grid Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”60” Name=”Light Shading Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”61” Name=”Light List Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”62” Name=”Light Grid Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”63” Name=”Medium Shading 1 Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”64” Name=”Medium Shading 2 Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”65” Name=”Medium List 1 Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”66” Name=”Medium List 2 Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”67” Name=”Medium Grid 1 Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”68” Name=”Medium Grid 2 Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”69” Name=”Medium Grid 3 Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”70” Name=”Dark List Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”71” Name=”Colorful Shading Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”72” Name=”Colorful List Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”73” Name=”Colorful Grid Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”60” Name=”Light Shading Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”61” Name=”Light List Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”62” Name=”Light Grid Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”63” Name=”Medium Shading 1 Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”64” Name=”Medium Shading 2 Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”65” Name=”Medium List 1 Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”66” Name=”Medium List 2 Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”67” Name=”Medium Grid 1 Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”68” Name=”Medium Grid 2 Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”69” Name=”Medium Grid 3 Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”70” Name=”Dark List Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”71” Name=”Colorful Shading Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”72” Name=”Colorful List Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”73” Name=”Colorful Grid Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”60” Name=”Light Shading Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”61” Name=”Light List Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”62” Name=”Light Grid Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”63” Name=”Medium Shading 1 Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”64” Name=”Medium Shading 2 Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”65” Name=”Medium List 1 Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”66” Name=”Medium List 2 Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”67” Name=”Medium Grid 1 Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”68” Name=”Medium Grid 2 Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”69” Name=”Medium Grid 3 Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”70” Name=”Dark List Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”71” Name=”Colorful Shading Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”72” Name=”Colorful List Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”73” Name=”Colorful Grid Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”60” Name=”Light Shading Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”61” Name=”Light List Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”62” Name=”Light Grid Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”63” Name=”Medium Shading 1 Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”64” Name=”Medium Shading 2 Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”65” Name=”Medium List 1 Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”66” Name=”Medium List 2 Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”67” Name=”Medium Grid 1 Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”68” Name=”Medium Grid 2 Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”69” Name=”Medium Grid 3 Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”70” Name=”Dark List Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”71” Name=”Colorful Shading Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”72” Name=”Colorful List Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”73” Name=”Colorful Grid Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”19” QFormat=”true”</p>
+<blockquote>
+<div><p>Name=”Subtle Emphasis”/&gt;</p>
+</div></blockquote>
+<dl class="simple">
+<dt>&lt;w:LsdException Locked=”false” Priority=”21” QFormat=”true”</dt><dd><p>Name=”Intense Emphasis”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”31” QFormat=”true”</dt><dd><p>Name=”Subtle Reference”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”32” QFormat=”true”</dt><dd><p>Name=”Intense Reference”/&gt;</p>
+</dd>
+</dl>
+<p>&lt;w:LsdException Locked=”false” Priority=”33” QFormat=”true” Name=”Book Title”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”37” SemiHidden=”true”</p>
+<blockquote>
+<div><p>UnhideWhenUsed=”true” Name=”Bibliography”/&gt;</p>
+</div></blockquote>
+<dl class="simple">
+<dt>&lt;w:LsdException Locked=”false” Priority=”39” SemiHidden=”true”</dt><dd><p>UnhideWhenUsed=”true” QFormat=”true” Name=”TOC Heading”/&gt;</p>
+</dd>
+</dl>
+<p>&lt;w:LsdException Locked=”false” Priority=”41” Name=”Plain Table 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”42” Name=”Plain Table 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”43” Name=”Plain Table 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”44” Name=”Plain Table 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”45” Name=”Plain Table 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”40” Name=”Grid Table Light”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”46” Name=”Grid Table 1 Light”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”47” Name=”Grid Table 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”48” Name=”Grid Table 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”49” Name=”Grid Table 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”50” Name=”Grid Table 5 Dark”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”51” Name=”Grid Table 6 Colorful”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”52” Name=”Grid Table 7 Colorful”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”46”</p>
+<blockquote>
+<div><p>Name=”Grid Table 1 Light Accent 1”/&gt;</p>
+</div></blockquote>
+<p>&lt;w:LsdException Locked=”false” Priority=”47” Name=”Grid Table 2 Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”48” Name=”Grid Table 3 Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”49” Name=”Grid Table 4 Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”50” Name=”Grid Table 5 Dark Accent 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”51”</p>
+<blockquote>
+<div><p>Name=”Grid Table 6 Colorful Accent 1”/&gt;</p>
+</div></blockquote>
+<dl class="simple">
+<dt>&lt;w:LsdException Locked=”false” Priority=”52”</dt><dd><p>Name=”Grid Table 7 Colorful Accent 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”46”</dt><dd><p>Name=”Grid Table 1 Light Accent 2”/&gt;</p>
+</dd>
+</dl>
+<p>&lt;w:LsdException Locked=”false” Priority=”47” Name=”Grid Table 2 Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”48” Name=”Grid Table 3 Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”49” Name=”Grid Table 4 Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”50” Name=”Grid Table 5 Dark Accent 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”51”</p>
+<blockquote>
+<div><p>Name=”Grid Table 6 Colorful Accent 2”/&gt;</p>
+</div></blockquote>
+<dl class="simple">
+<dt>&lt;w:LsdException Locked=”false” Priority=”52”</dt><dd><p>Name=”Grid Table 7 Colorful Accent 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”46”</dt><dd><p>Name=”Grid Table 1 Light Accent 3”/&gt;</p>
+</dd>
+</dl>
+<p>&lt;w:LsdException Locked=”false” Priority=”47” Name=”Grid Table 2 Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”48” Name=”Grid Table 3 Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”49” Name=”Grid Table 4 Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”50” Name=”Grid Table 5 Dark Accent 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”51”</p>
+<blockquote>
+<div><p>Name=”Grid Table 6 Colorful Accent 3”/&gt;</p>
+</div></blockquote>
+<dl class="simple">
+<dt>&lt;w:LsdException Locked=”false” Priority=”52”</dt><dd><p>Name=”Grid Table 7 Colorful Accent 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”46”</dt><dd><p>Name=”Grid Table 1 Light Accent 4”/&gt;</p>
+</dd>
+</dl>
+<p>&lt;w:LsdException Locked=”false” Priority=”47” Name=”Grid Table 2 Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”48” Name=”Grid Table 3 Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”49” Name=”Grid Table 4 Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”50” Name=”Grid Table 5 Dark Accent 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”51”</p>
+<blockquote>
+<div><p>Name=”Grid Table 6 Colorful Accent 4”/&gt;</p>
+</div></blockquote>
+<dl class="simple">
+<dt>&lt;w:LsdException Locked=”false” Priority=”52”</dt><dd><p>Name=”Grid Table 7 Colorful Accent 4”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”46”</dt><dd><p>Name=”Grid Table 1 Light Accent 5”/&gt;</p>
+</dd>
+</dl>
+<p>&lt;w:LsdException Locked=”false” Priority=”47” Name=”Grid Table 2 Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”48” Name=”Grid Table 3 Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”49” Name=”Grid Table 4 Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”50” Name=”Grid Table 5 Dark Accent 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”51”</p>
+<blockquote>
+<div><p>Name=”Grid Table 6 Colorful Accent 5”/&gt;</p>
+</div></blockquote>
+<dl class="simple">
+<dt>&lt;w:LsdException Locked=”false” Priority=”52”</dt><dd><p>Name=”Grid Table 7 Colorful Accent 5”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”46”</dt><dd><p>Name=”Grid Table 1 Light Accent 6”/&gt;</p>
+</dd>
+</dl>
+<p>&lt;w:LsdException Locked=”false” Priority=”47” Name=”Grid Table 2 Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”48” Name=”Grid Table 3 Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”49” Name=”Grid Table 4 Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”50” Name=”Grid Table 5 Dark Accent 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”51”</p>
+<blockquote>
+<div><p>Name=”Grid Table 6 Colorful Accent 6”/&gt;</p>
+</div></blockquote>
+<dl class="simple">
+<dt>&lt;w:LsdException Locked=”false” Priority=”52”</dt><dd><p>Name=”Grid Table 7 Colorful Accent 6”/&gt;</p>
+</dd>
+</dl>
+<p>&lt;w:LsdException Locked=”false” Priority=”46” Name=”List Table 1 Light”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”47” Name=”List Table 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”48” Name=”List Table 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”49” Name=”List Table 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”50” Name=”List Table 5 Dark”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”51” Name=”List Table 6 Colorful”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”52” Name=”List Table 7 Colorful”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”46”</p>
+<blockquote>
+<div><p>Name=”List Table 1 Light Accent 1”/&gt;</p>
+</div></blockquote>
+<p>&lt;w:LsdException Locked=”fa</p>
+</dd>
+</dl>
+</dd>
+</dl>
+</div>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"></script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="556.html"
+       title="previous chapter">← Peļņas vai zaudējumu aprēķins</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="1040.html"
+       title="next chapter">Peļņas vai zaudējumu aprēķins (PZA2 - Pēc izdevumu funkcijām) →</a>
+  </li>
+</ul>
+<div class="footer" role="contentinfo">
+      &#169; Copyright 2020 Ozols Grupa.
+    <br>
+  Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.1.0 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a>.
+</div>
+                <script type="text/javascript">
+                  $(function(){
+                    $('.image-reference').fancybox();
+                  })
+                </script>
+            </div>
+          </div>
+      </page>
+    </div>
+    
+    
+  </body>
+</html>

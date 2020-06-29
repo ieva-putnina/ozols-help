@@ -1,5 +1,3 @@
-.. sistemas_lietosanas_instrukcija
-
 ===========================
 Sistēmas lietošanas instrukcija
 ===========================
@@ -7,7 +5,7 @@ Sistēmas lietošanas instrukcija
 
 Sadaļā pieejamas sistēmas Ozols lietošanas instrukcijas, kas palīdzēs labāk izprasts programmas funkcionalitātes iespējas un darbības principus.
    
-.. toctress::
+.. toctree::
    :caption: Lietotājiem
    :maxdepth: 4
 

@@ -1,0 +1,653 @@
+
+
+
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>Ozols klienta programmas instalācija</title>
+    
+      <link rel="stylesheet" href="_static/pygments.css">
+      <link rel="stylesheet" href="_static/theme.css">
+      <link rel="stylesheet" href="_static/sphinx_press_theme.css">
+          <link rel="stylesheet" href="_static/page_nav.css" type="text/css" />
+          <link rel="stylesheet" href="_static/jquery.fancybox.min.css" type="text/css" />
+          <link rel="stylesheet" href="_static/sphinx_press_theme.css" type="text/css" />
+      
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+      <!-- sphinx script_files -->
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+        <script src="_static/jquery.fancybox.min.js"></script>
+
+      
+      <script src="_static/theme-vendors.js"></script>
+      <script src="_static/theme.js" defer></script>
+    
+  <link rel="index" title="Index" href="genindex.html" />
+  <link rel="search" title="Search" href="search.html" />
+  <link rel="next" title="Darba uzsākšana" href="14068.html" />
+  <link rel="prev" title="Manuāla" href="14067.html" /> 
+  </head>
+
+  <body>
+    <div id="app" class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+  <router-link to="index.html" class="home-link">
+    
+      <span class="site-name">Sistēmas LĀCIS dokumentācija</span>
+    
+  </router-link>
+
+  <div class="links">
+    <navlinks class="can-hide">
+
+
+
+    </navlinks>
+  </div>
+</navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="index.html#ozols-palidzibas-sistema">ozols palīdzības sistēma</a></span>
+      </p>
+      <ul class="">
+        
+          <li class="toctree-l1 "><a href="7603.html" class="reference internal ">Paziņojumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="600.html" class="reference internal ">Sākums</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="14000.html" class="reference internal ">Sistēmas lietošanas instrukcija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="18.html" class="reference internal ">Mani darbi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="39.html" class="reference internal ">Alga</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4000.html" class="reference internal ">Apdrošināšanas polises</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4800.html" class="reference internal ">Autoinfo</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="40.html" class="reference internal ">Avansi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="48.html" class="reference internal ">Budžeta izpilde</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6600.html" class="reference internal ">Budžeta plānošana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7700.html" class="reference internal ">Caurlaides</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="26.html" class="reference internal ">CRM (Partneri)</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="50.html" class="reference internal ">Datu apmaiņa ar banku</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7400.html" class="reference internal ">Degvielas tirdzniecība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7000.html" class="reference internal ">Dividendes</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7900.html" class="reference internal ">Ēdināšana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="41.html" class="reference internal ">Finanses</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4900.html" class="reference internal ">iVeikals</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="42.html" class="reference internal ">Krājumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7600.html" class="reference internal ">Kravu pārvadājumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4100.html" class="reference internal ">LaMSF</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6800.html" class="reference internal ">Līgumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4500.html" class="reference internal ">Maksājumu uzskaite</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7100.html" class="reference internal ">Mazumtirdzniecība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="43.html" class="reference internal ">Noliktava</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6770.html" class="reference internal ">Noma</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6700.html" class="reference internal ">Noma transportam</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="44.html" class="reference internal ">Norēķini</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="45.html" class="reference internal ">Pamatlīdzekļi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="34.html" class="reference internal ">Pasts</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7200.html" class="reference internal ">Personāla pašapkalpošanās</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="47.html" class="reference internal ">Personāla vadība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6500.html" class="reference internal ">Polises</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="46.html" class="reference internal ">Projektu kalkulācija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4200.html" class="reference internal ">Regresi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4300.html" class="reference internal ">TKU</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="49.html" class="reference internal ">Virsgrāmata</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4700.html" class="reference internal ">wap OZOLS</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="38.html" class="reference internal ">Citi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5226.html" class="reference internal ">Darbinieku portāls</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6901.html" class="reference internal ">Degvielas pasūtījumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5026.html" class="reference internal ">Iestādījumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4444.html" class="reference internal ">Klientu portāls</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="12.html" class="reference internal ">Konfigurācija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="1.html" class="reference internal ">Kopējie saraksti</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7301.html" class="reference internal ">Mākslinieciskā darba plānošana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5295.html" class="reference internal ">Meklēšanas rezultāti</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6734.html" class="reference internal ">Noma</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="31.html" class="reference internal ">Pievienot</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4461.html" class="reference internal ">Pievienot notikumu</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="10.html" class="reference internal ">Rīki</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7500.html" class="reference internal ">SPRK</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4445.html" class="reference internal ">Uzņēmuma portāls</a>
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="index.html">Docs</a> &raquo;</li>
+    
+      <li><a href="14000.html">Sistēmas lietošanas instrukcija</a> &raquo;</li>
+    
+      <li><a href="14065.html">Administratora instrukcijas</a> &raquo;</li>
+    
+    <li>Ozols klienta programmas instalācija</li>
+  </ul>
+  
+
+  </script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="14067.html"
+       title="previous chapter">← Manuāla</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="14068.html"
+       title="next chapter">Darba uzsākšana →</a>
+  </li>
+</ul>
+
+  
+</div>
+<hr>
+          <div class="content" role="main">
+            
+  <div class="section" id="ozols-klienta-programmas-instalacija">
+<h1>Ozols klienta programmas instalācija<a class="headerlink" href="#ozols-klienta-programmas-instalacija" title="Permalink to this headline">¶</a></h1>
+<p>&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Lai uzinstalētu ozols klienta programmu, nepieciešams ielādēt ozols client programmu no interneta resurspunkta: &lt;/p&gt;
+&lt;p&gt;
+&lt;a href=”<a class="reference external" href="http://www2.its2.lv/download/Ozols/demo/Ozols_client_setup.exe">http://www2.its2.lv/download/Ozols/demo/Ozols_client_setup.exe</a>”&gt;
+&lt;!–[if gte mso 9]&gt;&lt;xml&gt;</p>
+<blockquote>
+<div><dl>
+<dt>&lt;w:WordDocument&gt;</dt><dd><p>&lt;w:View&gt;Normal&lt;/w:View&gt;
+&lt;w:Zoom&gt;0&lt;/w:Zoom&gt;
+&lt;w:TrackMoves/&gt;
+&lt;w:TrackFormatting/&gt;
+&lt;w:PunctuationKerning/&gt;
+&lt;w:ValidateAgainstSchemas/&gt;
+&lt;w:SaveIfXMLInvalid&gt;false&lt;/w:SaveIfXMLInvalid&gt;
+&lt;w:IgnoreMixedContent&gt;false&lt;/w:IgnoreMixedContent&gt;
+&lt;w:AlwaysShowPlaceholderText&gt;false&lt;/w:AlwaysShowPlaceholderText&gt;
+&lt;w:DoNotPromoteQF/&gt;
+&lt;w:LidThemeOther&gt;LV&lt;/w:LidThemeOther&gt;
+&lt;w:LidThemeAsian&gt;X-NONE&lt;/w:LidThemeAsian&gt;
+&lt;w:LidThemeComplexScript&gt;X-NONE&lt;/w:LidThemeComplexScript&gt;
+&lt;w:Compatibility&gt;</p>
+<blockquote>
+<div><p>&lt;w:BreakWrappedTables/&gt;
+&lt;w:SnapToGridInCell/&gt;
+&lt;w:WrapTextWithPunct/&gt;
+&lt;w:UseAsianBreakRules/&gt;
+&lt;w:DontGrowAutofit/&gt;
+&lt;w:SplitPgBreakAndParaMark/&gt;
+&lt;w:EnableOpenTypeKerning/&gt;
+&lt;w:DontFlipMirrorIndents/&gt;
+&lt;w:OverrideTableStyleHps/&gt;</p>
+</div></blockquote>
+<p>&lt;/w:Compatibility&gt;
+&lt;w:BrowserLevel&gt;MicrosoftInternetExplorer4&lt;/w:BrowserLevel&gt;
+&lt;m:mathPr&gt;</p>
+<blockquote>
+<div><p>&lt;m:mathFont m:val=”Cambria Math”/&gt;
+&lt;m:brkBin m:val=”before”/&gt;
+&lt;m:brkBinSub m:val=”--“/&gt;
+&lt;m:smallFrac m:val=”off”/&gt;
+&lt;m:dispDef/&gt;
+&lt;m:lMargin m:val=”0”/&gt;
+&lt;m:rMargin m:val=”0”/&gt;
+&lt;m:defJc m:val=”centerGroup”/&gt;
+&lt;m:wrapIndent m:val=”1440”/&gt;
+&lt;m:intLim m:val=”subSup”/&gt;
+&lt;m:naryLim m:val=”undOvr”/&gt;</p>
+</div></blockquote>
+<p>&lt;/m:mathPr&gt;&lt;/w:WordDocument&gt;</p>
+</dd>
+</dl>
+</div></blockquote>
+<p>&lt;/xml&gt;&lt;![endif]–&gt;
+&lt;!–[if gte mso 9]&gt;&lt;xml&gt;</p>
+<blockquote>
+<div><dl>
+<dt>&lt;w:LatentStyles DefLockedState=”false” DefUnhideWhenUsed=”true”</dt><dd><p>DefSemiHidden=”true” DefQFormat=”false” DefPriority=”99”
+LatentStyleCount=”267”&gt;
+&lt;w:LsdException Locked=”false” Priority=”0” SemiHidden=”false”</p>
+<blockquote>
+<div><p>UnhideWhenUsed=”false” QFormat=”true” Name=”Normal”/&gt;</p>
+</div></blockquote>
+<dl class="simple">
+<dt>&lt;w:LsdException Locked=”false” Priority=”9” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” QFormat=”true” Name=”heading 1”/&gt;</p>
+</dd>
+</dl>
+<p>&lt;w:LsdException Locked=”false” Priority=”9” QFormat=”true” Name=”heading 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”9” QFormat=”true” Name=”heading 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”9” QFormat=”true” Name=”heading 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”9” QFormat=”true” Name=”heading 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”9” QFormat=”true” Name=”heading 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”9” QFormat=”true” Name=”heading 7”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”9” QFormat=”true” Name=”heading 8”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”9” QFormat=”true” Name=”heading 9”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”39” Name=”toc 1”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”39” Name=”toc 2”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”39” Name=”toc 3”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”39” Name=”toc 4”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”39” Name=”toc 5”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”39” Name=”toc 6”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”39” Name=”toc 7”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”39” Name=”toc 8”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”39” Name=”toc 9”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”35” QFormat=”true” Name=”caption”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”10” SemiHidden=”false”</p>
+<blockquote>
+<div><p>UnhideWhenUsed=”false” QFormat=”true” Name=”Title”/&gt;</p>
+</div></blockquote>
+<p>&lt;w:LsdException Locked=”false” Priority=”1” Name=”Default Paragraph Font”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”11” SemiHidden=”false”</p>
+<blockquote>
+<div><p>UnhideWhenUsed=”false” QFormat=”true” Name=”Subtitle”/&gt;</p>
+</div></blockquote>
+<dl class="simple">
+<dt>&lt;w:LsdException Locked=”false” Priority=”22” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” QFormat=”true” Name=”Strong”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”20” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” QFormat=”true” Name=”Emphasis”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”59” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Table Grid”/&gt;</p>
+</dd>
+</dl>
+<p>&lt;w:LsdException Locked=”false” UnhideWhenUsed=”false” Name=”Placeholder Text”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”1” SemiHidden=”false”</p>
+<blockquote>
+<div><p>UnhideWhenUsed=”false” QFormat=”true” Name=”No Spacing”/&gt;</p>
+</div></blockquote>
+<dl class="simple">
+<dt>&lt;w:LsdException Locked=”false” Priority=”60” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Light Shading”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”61” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Light List”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”62” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Light Grid”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”63” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Medium Shading 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”64” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Medium Shading 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”65” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Medium List 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”66” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Medium List 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”67” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Medium Grid 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”68” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Medium Grid 2”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”69” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Medium Grid 3”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”70” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Dark List”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”71” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Colorful Shading”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”72” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Colorful List”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”73” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Colorful Grid”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”60” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Light Shading Accent 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”61” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Light List Accent 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”62” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Light Grid Accent 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”63” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Medium Shading 1 Accent 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”64” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Medium Shading 2 Accent 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”65” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Medium List 1 Accent 1”/&gt;</p>
+</dd>
+</dl>
+<p>&lt;w:LsdException Locked=”false” UnhideWhenUsed=”false” Name=”Revision”/&gt;
+&lt;w:LsdException Locked=”false” Priority=”34” SemiHidden=”false”</p>
+<blockquote>
+<div><p>UnhideWhenUsed=”false” QFormat=”true” Name=”List Paragraph”/&gt;</p>
+</div></blockquote>
+<dl class="simple">
+<dt>&lt;w:LsdException Locked=”false” Priority=”29” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” QFormat=”true” Name=”Quote”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”30” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” QFormat=”true” Name=”Intense Quote”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”66” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Medium List 2 Accent 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”67” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Medium Grid 1 Accent 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”68” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Medium Grid 2 Accent 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”69” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Medium Grid 3 Accent 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”70” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Dark List Accent 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”71” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Colorful Shading Accent 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”72” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Colorful List Accent 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”73” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Colorful Grid Accent 1”/&gt;</p>
+</dd>
+<dt>&lt;w:LsdException Locked=”false” Priority=”60” SemiHidden=”false”</dt><dd><p>UnhideWhenUsed=”false” Name=”Light Sh</p>
+</dd>
+</dl>
+</dd>
+</dl>
+</div></blockquote>
+</div>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"></script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="14067.html"
+       title="previous chapter">← Manuāla</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="14068.html"
+       title="next chapter">Darba uzsākšana →</a>
+  </li>
+</ul>
+<div class="footer" role="contentinfo">
+      &#169; Copyright 2020 Ozols Grupa.
+    <br>
+  Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.1.0 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a>.
+</div>
+                <script type="text/javascript">
+                  $(function(){
+                    $('.image-reference').fancybox();
+                  })
+                </script>
+            </div>
+          </div>
+      </page>
+    </div>
+    
+    
+  </body>
+</html>

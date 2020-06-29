@@ -1,5 +1,3 @@
-.. sistemas_lietosanas_instrukcija
-
 ===========================
 Sistēmas lietošanas instrukcija
 ===========================
