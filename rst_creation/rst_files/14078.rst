@@ -1,16 +1,51 @@
-.. 14078 ========================================Kontējumu shēmas Polišu grāmatošanai======================================== <P>&nbsp;</P>
-<P>Polišu grāmatojumu kontējumu shēmas tiek veidotas, balstoties uz iepriekš sagatavoto <A href="/help/?ssw=33&amp;skf_id=114">Kontu plānu</A> un datu uzskaites dimensiju klasifikatora ierakstiem&nbsp;(Piemēram, Apdrošināšanas veids) norādītajiem noklusētajiem kontiem.</P>
-<H5>Nepieciešamās detalizācijas izveide kontu plānā</H5>
-<P>Lai būtu iespējams iegūt detalizētu informāciju <A href="/help/?ssw=33&amp;skf_id=524">Virsgrāmatas atskaitēs</A>, sadalījumā pa polišu veidiem, konta plānā - grāmatvediskajiem kontiem, pēc vienota principa ieteicams veidot subkontus, atšifrējot kontus pa apdrošināšanas veidiem.</P>
-<P><A href="/help/?ssw=33&amp;skf_id=114">Kontu plānā</A>&nbsp;augstākā līmeņa konta apakškontus iespējams pievienot, izmantojot rīku joslas pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un aizpildot nepieciešamos konta apraksta ierakstus. </P>
-<P>&nbsp;</P>
-<P>Subkontus ieteicams veidot pēc vienota principa, kontam pirmos simbolus norādot atbilstošus augstākajam līmenim un detalizāciju - atbilstoši attiecīgajam apdrošināšanas veidam:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25361" border=0></P>
-<H5>Noklusēto kontu norādīšana datu uzskaites dimensijām </H5>
-<P>Lai grāmatošanas procesu būtu iespējams veikt automatizēti, dimensijas "Apdrošināšanas veidi" klasifikatora ierakstiem,<BR>nepieciešams norādīt atbilstošos grāmatvediskos kontus:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25362" border=0></P>
-<P>&gt; Kopējie saraksti &gt; Apdrošināšanas veidi &gt; izmantojot rīku joslas pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>&nbsp;(ALT+A), atvērtajā&nbsp;ierakstā iespējams norādīt noklusētos kontus:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25363" border=0></P> .. toctree::   :maxdepth: 4    14083.rst   14085.rst   14080.rst   14082.rst
+.. 14078 ========================================Kontējumu shēmas Polišu grāmatošanai======================================== 
+
+
+Polišu grāmatojumu kontējumu shēmas tiek veidotas, balstoties uz
+iepriekš sagatavoto `Kontu plānu`_ un datu uzskaites dimensiju
+klasifikatora ierakstiem(Piemēram, Apdrošināšanas veids) norādītajiem
+noklusētajiem kontiem.
+
+
+Nepieciešamās detalizācijas izveide kontu plānā
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai būtu iespējams iegūt detalizētu informāciju `Virsgrāmatas
+atskaitēs`_, sadalījumā pa polišu veidiem, konta plānā -
+grāmatvediskajiem kontiem, pēc vienota principa ieteicams veidot
+subkontus, atšifrējot kontus pa apdrošināšanas veidiem.
+
+`Kontu plānā`_augstākā līmeņa konta apakškontus iespējams pievienot,
+izmantojot rīku joslas pogu un aizpildot nepieciešamos konta apraksta
+ierakstus.
+
+
+
+Subkontus ieteicams veidot pēc vienota principa, kontam pirmos
+simbolus norādot atbilstošus augstākajam līmenim un detalizāciju -
+atbilstoši attiecīgajam apdrošināšanas veidam:
+
+
+
+
+
+
+Noklusēto kontu norādīšana datu uzskaites dimensijām
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai grāmatošanas procesu būtu iespējams veikt automatizēti, dimensijas
+"Apdrošināšanas veidi" klasifikatora ierakstiem,
+nepieciešams norādīt atbilstošos grāmatvediskos kontus:
+
+
+
+
+
+> Kopējie saraksti > Apdrošināšanas veidi > izmantojot rīku joslas
+pogu (ALT+A), atvērtajāierakstā iespējams norādīt noklusētos kontus:
+
+
+
+
+
+ .. toctree::   :maxdepth: 4    14083.rst   14085.rst   14080.rst   14082.rst

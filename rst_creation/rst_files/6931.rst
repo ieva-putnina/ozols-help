@@ -1,1 +1,2 @@
-.. 6931 ======================Pasūtījumu grafiki======================  .. toctree::   :maxdepth: 5    6935.rst   6933.rst   6932.rst
+.. 6931 ======================Pasūtījumu grafiki====================== 
+ .. toctree::   :maxdepth: 5    6935.rst   6933.rst   6932.rst

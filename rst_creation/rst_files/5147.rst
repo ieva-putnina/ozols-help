@@ -1,1 +1,2 @@
-.. 5147 =============Kandidāti=============  .. toctree::   :maxdepth: 4    5148.rst
+.. 5147 =============Kandidāti============= 
+ .. toctree::   :maxdepth: 4    5148.rst

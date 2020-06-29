@@ -1,7 +1,20 @@
-.. 124 =======================Mērvienību saraksts======================= <p>Lai Mērvienību sarakstam pievienotu jaunu mērvienību, Rīku joslā jānospiež poga <img src="/help/Skin/help/img.aspx?pid=25605" border="0">, tiek atvērts logs, kur tekstlodziņā jāieraksta mērvienības nosaukums (saīsinājums, apzīmējums): </p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26065" border="0"></p>
-<p>&nbsp;</p>
-<p>Pēc Nosaukuma aizpildīšanas,&nbsp;ierakstu iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p>
-<p>&nbsp;</p>
-<p>Mērvienību saraksts tiek lietots <a href="/help/?ssw=33&amp;skf_id=433">Pamatlīdzekļu ienākšanas dokumentu</a>, <a href="/help/?ssw=33&amp;skf_id=310">Iepirkumu dokumentu</a> un <a href="/help/?ssw=33&amp;skf_id=304">Pārdošanas dokumentu izveidošanā</a>.</p> 
+.. 124 =======================Mērvienību saraksts======================= 
+Lai Mērvienību sarakstam pievienotu jaunu mērvienību, Rīku joslā
+jānospiež poga , tiek atvērts logs, kur tekstlodziņā jāieraksta
+mērvienības nosaukums (saīsinājums, apzīmējums):
+
+
+
+
+
+
+
+Pēc Nosaukuma aizpildīšanas,ierakstu iespējams vai .
+
+
+
+Mērvienību saraksts tiek lietots `Pamatlīdzekļu ienākšanas
+dokumentu`_, `Iepirkumu dokumentu`_ un `Pārdošanas dokumentu
+izveidošanā`_.
+
+ 

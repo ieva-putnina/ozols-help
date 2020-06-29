@@ -1,0 +1,40 @@
+<P>&nbsp;</P>_x000D_
+<P>Programmas periodiska atjaunošana ir nepieciešama, lai varētu strādāt ar iespējami jaunāko programmas versiju, kas nodrošina jaunākās izmaiņas likumdošanā un programmas kvalitāti. </P>_x000D_
+<P>&nbsp;</P>_x000D_
+<P>Jaunas Programmatūras uzstādīšana ir sadalīta divās daļās:<BR>1.&nbsp;jaunākās klienta aplikācijas uzstādīšana,<BR>2.&nbsp;jaunākās SQL datu bāzes struktūras uzstādīšana.</P>_x000D_
+<P><BR>Ja viens no procesiem ir noritējis kļūdaini vai nepilnīgi, tad netiek garantēts klienta programmas korekta darbība. <BR>Klienta programmas un SQL datu bāzes jaunākās versijas uzstādīšana ir iespējama izmantojot klienta programmas interfeisu.</P>_x000D_
+<H5>Atjaunošanas ekrāna formu var izsaukt no:</H5>_x000D_
+<P>1. &nbsp;Rīki-&gt;<A href="/help/?ssw=33&amp;skf_id=721">Programmas jauninājumi</A>:</P>_x000D_
+<P>&nbsp;</P>_x000D_
+<P><IMG src="/help/Skin/help/img.aspx?pid=25741" border=0></P>_x000D_
+<P>&nbsp;</P>_x000D_
+<P>2. &nbsp;Konfigurācija-&gt;<A href="/help/?ssw=33&amp;skf_id=706">Lietotāja reģistrācijas loga</A>, nospiežot taustiņu kombināciju CTRL+ALT+M:</P>_x000D_
+<P>&nbsp;</P>_x000D_
+<P><IMG src="/help/Skin/help/img.aspx?pid=25742" border=0></P>_x000D_
+<H5>Lai veiktu jaunākās programmatūras uzstādīšanu:</H5>_x000D_
+<P>1. Izvēlnē <STRONG>Jaunumu</STRONG> <STRONG>ielāde</STRONG> ir jāizvēlas veids kādā tiks veikts jaunākās programmatūras uzstādīšana. Ir iespējami trīs varianti :</P>_x000D_
+<P>&nbsp;</P>_x000D_
+<P><IMG src="/help/Skin/help/img.aspx?pid=25743" border=0></P>_x000D_
+<P>&nbsp;</P>_x000D_
+<UL><LI>No Interneta caur klienta datoru: _x000D_
+<P>Tas nozīmē, ka programmatūras uzstādīšanas sistēmas faili tiks ielādēti datorā no Interneta, atkarībā no izmantotās klienta aplikācijas. Ja tiks konstatēts , ka faili ir ielādēti veiksmīgi (nebūs paziņojums par pretējo), ielādētie faili tiks ielādēti SQL servera datu bāzē. Nākošajā solī tiks uzstartēts SQL servera Darbs , kas izpildīs sistēmas failos ierakstītās komandu secības.&nbsp;</P>_x000D_
+<LI>No Interneta caur SQL serveri _x000D_
+<P>Tas nozīmē, ka programmatūras uzstādīšanas sistēmas faili tiks ielādēti SQL serverī no Interneta, atkarībā no izmantotās klienta aplikācijas. Ja tiks konstatēts , ka faili ir ielādēti veiksmīgi (nebūs paziņojums par pretējo), ielādētie faili tiks ielādēti SQL servera datu bāzē. Nākošajā solī tiks uzstartēts SQL servera Darbs , kas izpildīs sistēmas failos ierakstītās komandu secības.&nbsp;</P>_x000D_
+<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>SQL serverim ir jābūt pieejamam Internetam.&nbsp; </P>_x000D_
+<LI>No lokālā datu kataloga _x000D_
+<P>Tas nozīmē, ka programmatūras uzstādīšanas sistēmas faili ir iepriekš sagatavoti un ierakstīti kādā no datora failu sistēmas katalogiem. Obligāti ir jānorāda sagatavoto failu katalogs:</P>_x000D_
+<P>&nbsp;</P>_x000D_
+<P><IMG src="/help/Skin/help/img.aspx?pid=25744" border=0></P>_x000D_
+<P><BR>Ja tiks konstatēts , ka programmas atjaunošanas faili ir atbilstoši klienta programmatūras jauninājumu failiem, tiks veikta failu ielāde SQL servera datu bāzes tabulā. Pretējā gadījumā parādīsies paziņojums par failu neatbilstību dotajai sistēmai. Ja failu ielāde ir bijusi veiksmīga, tiks uzstartēts SQL servera darbs.</P>_x000D_
+<P>&nbsp;</P>_x000D_
+<P>2. Pēc izvēlētā veida norādīšanas, lai veiktu jaunākas versijas uzstādīšanu, nepieciešams nospiest pogu:</P>_x000D_
+<P>&nbsp;</P>_x000D_
+<P><IMG src="/help/Skin/help/img.aspx?pid=25745" border=0></P>_x000D_
+<P>Ir jāaizpilda SQL reģistrācijas ekrāna formas ievades lauki un jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25746" border=0>. Pēc visu iepriekšminēto darbību veikšanas&nbsp;Programmas atjaunošanas logā vēlreiz jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25746" border=0>.&nbsp;Ja reģistrācija ir noritējusi sekmīgi, nav bijuši paziņojumi par pretējo, tad tiks parādīts paziņojums par sekmīgu darba uzstartēšanu:</P>_x000D_
+<P>&nbsp;</P>_x000D_
+<P><IMG src="/help/Skin/help/img.aspx?pid=25747" border=0></P>_x000D_
+<P>&nbsp;</P>_x000D_
+<P>3. Jaunākas versijas uzstādīšana ilgst aptuveni 10-25 minūtes (atkarīgs no servera datora ātrdarbības). SQL servera darba izpildes vēsturei var sekot nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25748" border=0>&nbsp;un tiks atvērts <A href="/help/?ssw=33&amp;skf_id=735">Darba izpildes logs</A>. Ja programmas uzstādīšanas procedūra ir noritējusi veiksmīgi , tad SQL servera darba vēstures kolonnā „Rezultāts” ir ieraksts „Succeeded”.</P>_x000D_
+<P>Lai ielādētu jaunāko programmas versiju, nepieciešams aizvērt programmu un nākamajā pieslēgšanās reizē, izvēlēties opciju: Ielādēt:</P>_x000D_
+<P>&nbsp;</P>_x000D_
+<P><IMG src="/help/Skin/help/img.aspx?pid=25749" border=0></P></LI><UL>

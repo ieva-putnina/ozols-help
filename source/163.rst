@@ -1,15 +1,42 @@
-.. 163 =========================Paroles konfigurācija========================= <P>
-<P>&nbsp;</P>
-<P>Konfigurācija paredzēta&nbsp;Lietotāju paroļu&nbsp;iestādījumu definēšanai:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25865" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Paroles min.garums:</STRONG> minimālais simbolu skaits, kas ir jāsatur katra lietotāja parolei</P>
-<P><STRONG>Speciālo simbolu sk.:</STRONG>&nbsp; minimālais speciālo simbolu skaits, kāds būtu jāsatur katrai lietotāju parolei. </P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Speciālo simbolu uzskaitījums: <STRONG>! " # $ % &amp; ( ) * + , - . / : ; &lt; = &gt; ? @ [ \ ] ^ _ ` { | } ~</STRONG><BR></P>
-<P><STRONG>Ciparu skaits:</STRONG> minimālais ciparu skaits, kāds būtu jāsatur katrai lietotāju parolei</P>
-<P><STRONG>Lielo burtu skaits:</STRONG>&nbsp; minimālais lielo burtu skaits, kāds būtu jāsatur katrai lietotāju parolei</P>
-<P><STRONG>Paroles termiņš (dienās):</STRONG> nosaka lietotāj paroles derīguma termiņu. </P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Ja šī termiņa laikā lietotājs nav nomainījis savu iepriekšējo paroli pret jaunu, tad lietotāja konts sistēmā OZOLS tiek slēgts un lietotājs vairs nevar strādāt sistēmā. Ja termiņš nav noteikts, tad parole ir beztermiņa.</P>
-<P><STRONG>Brīdinājums pirms termiņa (dienās):</STRONG> ja ir noteikts sistēmas paroļu derīguma termiņš, tad ir iespēja iestādīt brīdinājumu, cik dienas pirms lietotāja paroles termiņa beigām brīdināt lietotāju.</P>
-<P>Lai saglabātu Paroles iestādījumus, nepieciešams nospiest pogu: <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>.</P> 
+.. 163 =========================Paroles konfigurācija========================= 
+
+
+
+Konfigurācija paredzētaLietotāju paroļuiestādījumu definēšanai:
+
+
+
+
+
+
+
+Paroles min.garums: minimālais simbolu skaits, kas ir jāsatur katra
+lietotāja parolei
+
+Speciālo simbolu sk.: minimālais speciālo simbolu skaits, kāds būtu
+jāsatur katrai lietotāju parolei.
+
+Speciālo simbolu uzskaitījums: ! " # $ % & ( ) * + , - . / : ; < = > ?
+@ [ \ ] ^ _ ` { | } ~
+
+
+Ciparu skaits: minimālais ciparu skaits, kāds būtu jāsatur katrai
+lietotāju parolei
+
+Lielo burtu skaits: minimālais lielo burtu skaits, kāds būtu jāsatur
+katrai lietotāju parolei
+
+Paroles termiņš (dienās): nosaka lietotāj paroles derīguma termiņu.
+
+Ja šī termiņa laikā lietotājs nav nomainījis savu iepriekšējo paroli
+pret jaunu, tad lietotāja konts sistēmā OZOLS tiek slēgts un lietotājs
+vairs nevar strādāt sistēmā. Ja termiņš nav noteikts, tad parole ir
+beztermiņa.
+
+Brīdinājums pirms termiņa (dienās): ja ir noteikts sistēmas paroļu
+derīguma termiņš, tad ir iespēja iestādīt brīdinājumu, cik dienas
+pirms lietotāja paroles termiņa beigām brīdināt lietotāju.
+
+Lai saglabātu Paroles iestādījumus, nepieciešams nospiest pogu: .
+
+ 

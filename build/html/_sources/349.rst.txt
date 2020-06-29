@@ -1,69 +1,185 @@
-.. 349 ==============================Bankas ieejošais maksājums============================== <P>&nbsp;</P>
-<P>Bankas ieejošais maksājums ir dokuments, kas noformē saņemtos naudas līdzekļus noteiktā bankas kontā. Bankas ieejošais maksājums ir jāveido, kad kontā tiek saņemta nauda no pircējiem vai citi ieskaitījumi. Izmantojot sasaisti ar <A href="/help/?ssw=33&amp;skf_id=160">Bankas elektronisko norēķinu sistēmu</A>, bankas ieejošos maksājumus var importēt datu bāzē. Dokuments tiek saglabāts žurnālā <A href="/help/?ssw=33&amp;skf_id=226">Bankas ieņēmumi</A>.</P>
-<H4>Jauna&nbsp;Bankas ieejošā maksājuma&nbsp;pievienošana</H4>
-<P>Izvēloties dokumenta veidu Bankas ieejošais maksājums, tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24988" border=0></P>
-<H5>Bankā&nbsp;ieejošā maksājuma Virsraksta aizpildīšana</H5>
-<P>&nbsp;</P>
-<P>Lai aizpildītu&nbsp;dokumenta Virsrakstu, nepieciešams:</P>
-<P>&nbsp;</P>
-<P>1. Norādīt Uzņēmuma bankas kontu, uz kuru tiek saņemta nauda no pircējiem vai citi ieskaitījumi.:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24724" border=0></P>
-<P>&nbsp;</P>
-<P>2. Norādīt Bankas ieejošā maksājuma numuru:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24810" border=0></P>
-<P>&nbsp;</P>
-<P>3. Izvēlēties Datumu, kurā šis&nbsp;dokuments tiek veidots:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24811" border=0></P>
-<P>&nbsp;</P>
-<P>4.&nbsp;Ievadīt nepieciešamo Bankas ieejošā maksājuma&nbsp;kopējo Dokumenta summu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24812" border=0></P>
-<P>&nbsp;</P>
-<P>5. No saraksta izvēlēties nepieciešamo Pircēju - fizisku vai juridisku personu, no kuras tiek saņemta nauda uzņēmuma bankas kontā:</P>
-<P>&nbsp;</P>
-<P>&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24816" border=0></P>
-<P>&nbsp;</P>
-<P>Izvēloties nepieciešamo Pircēju, lauki <STRONG>Nor.konts </STRONG>un&nbsp;<STRONG>R.Nr.</STRONG> tiks aizpildīti automātiski no <A href="/help/?ssw=33&amp;skf_id=312">Partnera kartiņas</A>.</P>
-<P>&nbsp;</P>
-<P>5. Laukā <STRONG>Teksts</STRONG> iespējams ievadīt Bankas ieejošā dokumenta paskaidrojošo informāciju:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24817" border=0></P>
-<P>&nbsp;</P>
-<H5>Bankas ieejošā maksājuma apstrāde, importējot datus no <A href="/help/?ssw=33&amp;skf_id=160">Bankas elektronisko norēķinu sistēmas</A></H5>
-<P>&nbsp;</P>
-<P>Ja ieejošie maksājumi tiek importēti no <A href="/help/?ssw=33&amp;skf_id=160">Bankas elektronisko norēķinu sistēmām</A>, tad maksājuma mērķis (lauks <STRONG>Teksts</STRONG>), partnera (lauks <STRONG>Pircējs</STRONG>)&nbsp;rekvizīti, dokumenta datums (lauks <STRONG>Datums</STRONG>)&nbsp;un dokumenta kopējā&nbsp;summa&nbsp;(lauks <STRONG>Summa</STRONG>) jau būs ieimportēti. </P>
-<P>&nbsp;</P>
-<P>Apstrādājot dokumentu, laukā&nbsp;<STRONG>Pircējs </STRONG>nepieciešams atšifrēt partneri, no kura nauda ir saņemta:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24820" border=0></P>
-<P>&nbsp;</P>
-<P>Ja datu bāzē tiks atrasts Partneris, kura nosaukums sakritīs ar importētā dokumenta virsrakstā norādīto nosaukumu, lauki <STRONG>Nor.konts </STRONG>un&nbsp;<STRONG>R.Nr.</STRONG> tiks aizpildīti automātiski no atšifrētā&nbsp;<A href="/help/?ssw=33&amp;skf_id=312">Partnera kartiņas</A>.</P>
-<H5>Bankas ieejošā maksājuma&nbsp;Satura aizpildīšana</H5>
-<P>Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams nospiest pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24818" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto summu.&nbsp;Pievienot nākamo satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>.</P>
-<P>&nbsp;</P>
-<P>Kad visi nepieciešamie lauki ir aizpildīti, Bankas ieejošais maksājums&nbsp;ir sagatavots un to ir iespējams:</P>
-<P>1. Saglabāt,&nbsp;nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;-&nbsp;dokuments tiks saglabāts un būs pieejams apskatei/labošanai/grāmatošanai&nbsp;&nbsp;<A href="/help/?ssw=33&amp;skf_id=226">Bankas ieņēmumu žurnālā</A>.</P>
-<P>2. Apstiprināt, nospiežot rīku joslā pogu <IMG src="/help/Skin/help/img.aspx?pid=24740" border=0>&nbsp;- Bankas ieejošais maksājums&nbsp;tiks Apstiprināts un to būs iespējams Grāmatot.</P>
-<H4>Bankas ieejošā maksājuma&nbsp;grāmatošana</H4>
-<P>Bankas ieejošo maksājumu iespējams grāmatot no atvērta dokumenta vai izvēloties (iezīmējot)&nbsp;dokumentu <A href="/help/?ssw=33&amp;skf_id=226">Bankas ieņēmumu žurnālā</A>.&nbsp;</P>
-<P>Lai iegrāmatotu Bankas ieejošo maksājumu, dokumentu nepieciešams Apstiprināt, nospiežot rīku joslā pogu <IMG src="/help/Skin/help/img.aspx?pid=24740" border=0>.</P>
-<P>Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā pogu <IMG src="/help/Skin/help/img.aspx?pid=24741" border=0>.</P>
-<P>&nbsp;</P>
-<P>Instrukcija - <A href="/help/?ssw=33&amp;skf_id=14044">Dokumentu grāmatošanas principi</A></P>
-<H4>Pievienotā&nbsp;Bankas ieejošā maksājuma labošana</H4>
-<P>Labojumus saglabātajā&nbsp;dokumentā iespējams veikt atverot dokumentu Bankas ieejošais maksājums, kurš pieejams apskatei/labošanai&nbsp;<A href="/help/?ssw=33&amp;skf_id=226">Bankas ieņēmumu žurnālā</A>. Lai veiktu labojumus,&nbsp;dokumentu&nbsp;nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>&nbsp;(ALT+A), un&nbsp;atvērtajā&nbsp;ierakstā iespējams veikt&nbsp;nepieciešamos labojumus:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24819" border=0><BR></P>
-<P>&nbsp;</P>
-<P>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P>
-<P>&nbsp;</P>
-<H4>&nbsp;</H4> 
+.. 349 ==============================Bankas ieejošais maksājums============================== 
+
+
+Bankas ieejošais maksājums ir dokuments, kas noformē saņemtos naudas
+līdzekļus noteiktā bankas kontā. Bankas ieejošais maksājums ir
+jāveido, kad kontā tiek saņemta nauda no pircējiem vai citi
+ieskaitījumi. Izmantojot sasaisti ar `Bankas elektronisko norēķinu
+sistēmu`_, bankas ieejošos maksājumus var importēt datu bāzē.
+Dokuments tiek saglabāts žurnālā `Bankas ieņēmumi`_.
+
+
+JaunaBankas ieejošā maksājumapievienošana
+`````````````````````````````````````````
+
+Izvēloties dokumenta veidu Bankas ieejošais maksājums, tiks atvērts
+jauns logs:
+
+
+
+
+
+
+Bankāieejošā maksājuma Virsraksta aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai aizpildītudokumenta Virsrakstu, nepieciešams:
+
+
+
+1. Norādīt Uzņēmuma bankas kontu, uz kuru tiek saņemta nauda no
+pircējiem vai citi ieskaitījumi.:
+
+
+
+
+
+
+
+2. Norādīt Bankas ieejošā maksājuma numuru:
+
+
+
+
+
+
+
+3. Izvēlēties Datumu, kurā šisdokuments tiek veidots:
+
+
+
+
+
+
+
+4.Ievadīt nepieciešamo Bankas ieejošā maksājumakopējo Dokumenta summu:
+
+
+
+
+
+
+
+5. No saraksta izvēlēties nepieciešamo Pircēju - fizisku vai juridisku
+personu, no kuras tiek saņemta nauda uzņēmuma bankas kontā:
+
+
+
+
+
+
+
+Izvēloties nepieciešamo Pircēju, lauki Nor.konts un R.Nr. tiks
+aizpildīti automātiski no `Partnera kartiņas`_.
+
+
+
+5. Laukā Teksts iespējams ievadīt Bankas ieejošā dokumenta
+paskaidrojošo informāciju:
+
+
+
+
+
+
+
+
+Bankas ieejošā maksājuma apstrāde, importējot datus no `Bankas
+elektronisko norēķinu sistēmas`_
+++++++++++++++++++++++++++++++++
+
+
+
+Ja ieejošie maksājumi tiek importēti no `Bankas elektronisko norēķinu
+sistēmām`_, tad maksājuma mērķis (lauks Teksts ), partnera (lauks
+Pircējs )rekvizīti, dokumenta datums (lauks Datums )un dokumenta
+kopējāsumma(lauks Summa ) jau būs ieimportēti.
+
+
+
+Apstrādājot dokumentu, laukā Pircējs nepieciešams atšifrēt partneri,
+no kura nauda ir saņemta:
+
+
+
+
+
+
+
+Ja datu bāzē tiks atrasts Partneris, kura nosaukums sakritīs ar
+importētā dokumenta virsrakstā norādīto nosaukumu, lauki Nor.konts un
+R.Nr. tiks aizpildīti automātiski no atšifrētā`Partnera kartiņas`_.
+
+
+Bankas ieejošā maksājumaSatura aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams
+nospiest pogu un tiks atvērts operācijas satura logs, kurā
+nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās
+dimensijas) un norādīt satura ieraksta summu:
+
+
+
+
+
+
+
+Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
+kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
+satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu .
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti, Bankas ieejošais
+maksājumsir sagatavots un to ir iespējams:
+
+1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
+apskatei/labošanai/grāmatošanai`Bankas ieņēmumu žurnālā`_.
+
+2. Apstiprināt, nospiežot rīku joslā pogu - Bankas ieejošais
+maksājumstiks Apstiprināts un to būs iespējams Grāmatot.
+
+
+Bankas ieejošā maksājumagrāmatošana
+```````````````````````````````````
+
+Bankas ieejošo maksājumu iespējams grāmatot no atvērta dokumenta vai
+izvēloties (iezīmējot)dokumentu `Bankas ieņēmumu žurnālā`_.
+
+Lai iegrāmatotu Bankas ieejošo maksājumu, dokumentu nepieciešams
+Apstiprināt, nospiežot rīku joslā pogu .
+
+Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu .
+
+
+
+Instrukcija - `Dokumentu grāmatošanas principi`_
+
+
+PievienotāBankas ieejošā maksājuma labošana
+```````````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu
+Bankas ieejošais maksājums, kurš pieejams apskatei/labošanai`Bankas
+ieņēmumu žurnālā`_. Lai veiktu labojumus,dokumentunepieciešams atvērt,
+izmantojot rīku joslas pogu (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus:
+
+
+
+
+
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+
+
+
+
+ 

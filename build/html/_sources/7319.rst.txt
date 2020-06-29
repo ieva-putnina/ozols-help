@@ -1,10 +1,29 @@
-.. 7319 ====================Pirmizrāžu plāns==================== <P>Pirmizrāžu plāna atskaitē ir redzami visi pievienotie<A href="/help/?ssw=73&amp;skf_id=7308"> notikumi</A>, kuru <A href="/help/?ssw=73&amp;skf_id=7316">darbības</A> veids ir Pirmizrāde. Pirmizrāžu plānā ir redzamas arī iestudējuma izmaksas, kuras tika nodefinētas pie <A href="/help/?ssw=73&amp;skf_id=7303">pasākuma </A>mākslinieciskajām izmaksām.</P>
-<P>Atskaiti iespējams sagatavot par konkrētu periodu pēc pasākuma veida un radošās brigādes:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26182" border=0></P>
-<P>&nbsp;</P>
-<P>Lai izdrukātu pirmizrāžu plānu, jāizvēlas saraksta funkcija Izdrukāt (<IMG src="/help/Skin/help/img.aspx?pid=26180" border=0>), un, ja nepieciešams mainīt izdrukas formu, tad saraksta funkciju izvēles sarakstā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=26177" border=0>(mainīt izdrukas formu), un, pēc izdrukas formas izvēles un saglabāšanas, jāizvēlas funkcija Izdrukāt&nbsp;:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26184" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26183" border=0></P> 
+.. 7319 ====================Pirmizrāžu plāns==================== 
+Pirmizrāžu plāna atskaitē ir redzami visi pievienotie` notikumi`_,
+kuru `darbības`_ veids ir Pirmizrāde. Pirmizrāžu plānā ir redzamas arī
+iestudējuma izmaksas, kuras tika nodefinētas pie `pasākuma
+`_mākslinieciskajām izmaksām.
+
+Atskaiti iespējams sagatavot par konkrētu periodu pēc pasākuma veida
+un radošās brigādes:
+
+
+
+
+
+
+
+Lai izdrukātu pirmizrāžu plānu, jāizvēlas saraksta funkcija Izdrukāt (
+), un, ja nepieciešams mainīt izdrukas formu, tad saraksta funkciju
+izvēles sarakstā jānospiež poga (mainīt izdrukas formu), un, pēc
+izdrukas formas izvēles un saglabāšanas, jāizvēlas funkcija Izdrukāt:
+
+
+
+
+
+
+
+
+
+ 

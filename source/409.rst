@@ -1,16 +1,48 @@
-.. 409 ======================Rīkojumu dokuments====================== <P>Lai strādājošā algu aprēķinā aprēķinātu, piemēram, atvaļinājuma naudu, kā arī pieņemtu/atlaistu darbinieku&nbsp;vai izpildītu citas darbības, kas veic izmaiņas strādājošā slodzes kalendārā, jāveido rīkojuma dokumenti.</P>
-<P>Rīkojumu dokumentu saraksts atrodas <A href="/help/?ssw=33&amp;skf_id=209">Rīkojumu dokumentu žurnālā</A>.<BR>Pievienojot jaunu strādājošo, pirmais rīkojums par pieņemšanu darbā tiek aizpildīts slodzes ievades formā. Pēc slodzes saglabāšanas šis rīkojums tiek saglabāts <A href="/help/?ssw=33&amp;skf_id=209">Rīkojumu žurnālā</A>, un, lai šis rīkojums piedalītos algu aprēķinos, tas <A href="/help/?ssw=33&amp;skf_id=209">Rīkojumu žurnālā</A> obligāti jāapstiprina.</P>
-<P>Lai pievienotu jaunu rīkojumu, rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25605" border=0>(Alt+P):</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25738" border=0> </P>
-<P><BR>&nbsp;</P>
-<P><STRONG>Slodze:</STRONG> strādājošais kuram tiek pievienots rīkojums;</P>
-<P><STRONG>Datums:</STRONG> datums, kurā iesniegts rīkojums;</P>
-<P><STRONG>Veids:</STRONG> rīkojuma veids (ar podziņu <IMG src="/help/Skin/help/img.aspx?pid=24635" border=0> tiek atvērts rīkojuma veidu saraksts);</P>
-<P><STRONG>Stājies spēkā no_ līdz_ :</STRONG> rīkojuma stāšanaš spēkā datums;</P>
-<P><STRONG>Statuss:</STRONG> rīkojuma statuss;</P>
-<P><STRONG>Pamatojums:</STRONG> iespējams nodefinēt pamatojumu;</P>
-<P><STRONG>Saturs&gt;&gt;:</STRONG> iespējams pievienot rīkojuma saturu.</P>
-<P>Lai rīkojumu saglabātu, jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>.</P>
-<P>Lai rīkojumu izdrukātu, rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=24944" border=0> (Ctrl+P). </P>
-<P>Rīkojuma veids nosaka vai un kāds kods tiks piemērots strādājošajam ziņojumā par darbinieku kustību. Rīkojuma veida konfigurācija nosaka, kādi darba laika uzskaites dati tiks pievienoti slodzes kalendāram.<BR>No rīkojuma var atvērt <IMG src="/help/Skin/help/img.aspx?pid=25739" border=0>, kā arī ja Rīkojuma veids ir "Pieņemšana darbā", no Rīkojuma dokumenta loga iespējams atvērt arī&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=25740" border=0>.</P> 
+.. 409 ======================Rīkojumu dokuments====================== 
+Lai strādājošā algu aprēķinā aprēķinātu, piemēram, atvaļinājuma naudu,
+kā arī pieņemtu/atlaistu darbiniekuvai izpildītu citas darbības, kas
+veic izmaiņas strādājošā slodzes kalendārā, jāveido rīkojuma
+dokumenti.
+
+Rīkojumu dokumentu saraksts atrodas `Rīkojumu dokumentu žurnālā`_.
+Pievienojot jaunu strādājošo, pirmais rīkojums par pieņemšanu darbā
+tiek aizpildīts slodzes ievades formā. Pēc slodzes saglabāšanas šis
+rīkojums tiek saglabāts `Rīkojumu žurnālā`_, un, lai šis rīkojums
+piedalītos algu aprēķinos, tas `Rīkojumu žurnālā`_ obligāti
+jāapstiprina.
+
+Lai pievienotu jaunu rīkojumu, rīku joslā jānospiež poga (Alt+P):
+
+
+
+
+
+
+
+
+Slodze: strādājošais kuram tiek pievienots rīkojums;
+
+Datums: datums, kurā iesniegts rīkojums;
+
+Veids: rīkojuma veids (ar podziņu tiek atvērts rīkojuma veidu
+saraksts);
+
+Stājies spēkā no_ līdz_ : rīkojuma stāšanaš spēkā datums;
+
+Statuss: rīkojuma statuss;
+
+Pamatojums: iespējams nodefinēt pamatojumu;
+
+Saturs>>: iespējams pievienot rīkojuma saturu.
+
+Lai rīkojumu saglabātu, jānospiež poga .
+
+Lai rīkojumu izdrukātu, rīku joslā jānospiež poga (Ctrl+P).
+
+Rīkojuma veids nosaka vai un kāds kods tiks piemērots strādājošajam
+ziņojumā par darbinieku kustību. Rīkojuma veida konfigurācija nosaka,
+kādi darba laika uzskaites dati tiks pievienoti slodzes kalendāram.
+No rīkojuma var atvērt , kā arī ja Rīkojuma veids ir "Pieņemšana
+darbā", no Rīkojuma dokumenta loga iespējams atvērt arī .
+
+ 

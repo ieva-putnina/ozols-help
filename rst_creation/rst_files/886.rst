@@ -1,17 +1,47 @@
-.. 886 ============Kampaņas============ <P><A href="/help/?ssw=33&amp;skf_id=843"></A>&nbsp;</P>
-<P>Sarakstā tiek saglabāti Kampaņu veidi, kas tiek izmantoti dažādu Ozolā reģistrēto <A href="/help/?ssw=33&amp;skf_id=743">Aktivitātāšu</A> detalizētākam aprakstam un sniedz iespēju CRM atskaitē - <A href="/help/?ssw=33&amp;skf_id=843">Visas aktivitātes</A>, kampaņu veidu izmantot kā datu atlases kritēriju.</P>
-<H5>Jaunas Kampaņas veida&nbsp;pievienošana:</H5>
-<P>Lai pievienotu jaunu&nbsp;Kampaņas veidu,&nbsp;rīku joslā jānospiež poga&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25934" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Kods:</STRONG> Nepieciešams ievadīt Kampaņas kodu (saīsinātu Nosaukuma atšifrējumu)</P>
-<P><STRONG>Nosaukums:</STRONG> Kampaņas pilns nosaukums</P>
-<P><STRONG>Spēkā no..līdz:</STRONG> Kampaņas darbības periods - spēkā no...līdz</P>
-<P><STRONG>Mērķis:</STRONG> Kampaņas mērķis</P>
-<P><STRONG>Mērķa auditorija:</STRONG> Uzņēmuma veidotās kampaņas mērķauditorija</P>
-<P>&nbsp;</P>
-<P>Ieraksts tiks saglabāts, izpildot komandu <IMG src="/help/Skin/help/img.aspx?pid=24710" border=0>.</P>
-<H5>Pievienotā Kampaņas veida&nbsp;labošana:</H5>
-<P>Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>&nbsp;(ALT+A), un&nbsp;atvērtajā logā veikt nepieciešamos labojumus.</P>
-<P>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P> 
+.. 886 ============Kampaņas============ 
+``_
+
+Sarakstā tiek saglabāti Kampaņu veidi, kas tiek izmantoti dažādu Ozolā
+reģistrēto `Aktivitātāšu`_ detalizētākam aprakstam un sniedz iespēju
+CRM atskaitē - `Visas aktivitātes`_, kampaņu veidu izmantot kā datu
+atlases kritēriju.
+
+
+Jaunas Kampaņas veidapievienošana:
+++++++++++++++++++++++++++++++++++
+
+Lai pievienotu jaunuKampaņas veidu,rīku joslā jānospiež poga un tiks
+atvērts jauns logs:
+
+
+
+
+
+
+
+Kods: Nepieciešams ievadīt Kampaņas kodu (saīsinātu Nosaukuma
+atšifrējumu)
+
+Nosaukums: Kampaņas pilns nosaukums
+
+Spēkā no..līdz: Kampaņas darbības periods - spēkā no...līdz
+
+Mērķis: Kampaņas mērķis
+
+Mērķa auditorija: Uzņēmuma veidotās kampaņas mērķauditorija
+
+
+
+Ieraksts tiks saglabāts, izpildot komandu .
+
+
+Pievienotā Kampaņas veidalabošana:
+++++++++++++++++++++++++++++++++++
+
+Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
+atvērt, izmantojot rīku joslas pogu (ALT+A), unatvērtajā logā veikt
+nepieciešamos labojumus.
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+ 

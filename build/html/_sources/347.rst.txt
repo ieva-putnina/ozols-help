@@ -1,71 +1,197 @@
-.. 347 =============================Bankas maksājuma uzdevums============================= <p>&nbsp;</p>
-<p>Bankas maksājuma uzdevums noformē naudas pārskaitījumu no uzņēmuma <a href="/help/?ssw=33&amp;skf_id=141">Banku konta</a>&nbsp;- pārskaitījums uzņēmuma piegādātājiem, algu izmaksas, nodokļu maksājumi, utt.. Maksājuma uzdevumus var drukāt, izmantojot iebūvēto izdrukas formu, vai eksportēt uz <a href="/help/?ssw=33&amp;skf_id=160">Bankas elektronisko norēķinu sistēmām</a>, lai tālāk nosūtītu apstrādei uz banku. Dokuments tiek saglabāts žurnālā <a href="/help/?ssw=33&amp;skf_id=224">Bankas izdevumi</a>.</p>
-<h4>Jauna Bankas maksājuma uzdevuma pievienošana</h4>
-<p>&nbsp;Izvēloties dokumenta veidu Bankas maksājuma uzdevums, tiks atvērts jauns logs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24991" border="0"></p>
-<h5>Bankas maksājuma uzdevuma Virsraksta aizpildīšana</h5>
-<p>&nbsp;</p>
-<p>Lai aizpildītu Bankas maksājuma uzdevuma Virsrakstu, nepieciešams:</p>
-<p>&nbsp;</p>
-<p>1. Norādīt Uzņēmuma bankas kontu, no kura šis maksājums tiks izpildīts:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24724" border="0"></p>
-<p>&nbsp;</p>
-<p>2. Izvēlēties Datumu, kurā šis Bankas maksājuma uzdevums tiek veidots:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24725" border="0"></p>
-<p>&nbsp;</p>
-<p>3. Norādīt nepieciešamo Bankas maksājuma valūtu un ievadīt kopējo Dokumenta summu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24726" border="0"></p>
-<p>&nbsp;</p>
-<p>4. No saraksta izvēlēties nepieciešamo partneri (Piegādātāju), kuram šis naudas pārskaitījums tiks noformēts:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24727" border="0"></p>
-<p>&nbsp;</p>
-<p>Izvēloties nepieciešamo Piegādātāju, lauki <strong>Nor.konts</strong>, <strong>Reģ.nr.</strong>, <strong>Banka</strong> un <strong>Kods</strong> tiks aizpildīti automātiski no <a href="/help/?ssw=33&amp;skf_id=312">Partnera kartiņas</a>.</p>
-<p>&nbsp;</p>
-<h5>Bankas maksājuma uzdevuma&nbsp;Satura aizpildīšana</h5>
-<p>Lai aizpildītu Bankas maksājuma uzdevuma Saturu, dokumenta satura daļā nepieciešams nospiest <img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24728" border="0"></p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto summu.&nbsp;Pievienot nākamo satura ierakstu iespējams, satura daļā nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24708" border="0">.</p>
-<p>&nbsp;</p>
-<h5>Maksājuma dokumenta Mērķa un Satura aizpildīšana</h5>
-<p><br>Maksājuma dokumentu lauki Mērķis un Saturs tiek drukāti maksājuma uzdevuma rindā Maksājuma mērķis. </p>
-<p>Lauku Bankas maksājuma uzdevuma Mērķis, iespējams aizpildīt manuāli vai izvēloties no <a href="/help/?ssw=33&amp;skf_id=147">Bankas paskaidrojumu saraksta</a>:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24729" border="0"></p>
-<p>&nbsp;</p>
-<p>Aktivizējot izvēli Saturs, laukā tiek salikti dokumenta satura finanšu (EK) kodi un summas, līdz ar to iespējams automatizēti iegūt informāciju par summas sadalījumu pa EK kodiem vai maksājuma PVN summu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24730" border="0"></p>
-<p>&nbsp;</p>
-<p>Sagatavojot Bankas maksājuma uzdevumu, dokumentam, kurš sagatavots izvēloties uzņēmuma <a href="/help/?ssw=33&amp;skf_id=141">Banku kontu</a>, kuram piesaistīta kāda no <a href="/help/?ssw=33&amp;skf_id=160">Bankas elektronisko norēķinu sistēmām</a>, ekrāna formā automātiski ir aktivizēta izvēle Eksportēt uz bankas elektronisko norēķinu sistēmu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24733" border="0">&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
-<p>Visi dokumenti, kuriem ir šāda izvēle, var tik eksportēti uz elektronisko banku norēķinu sistēmu, lai būtu iespējams veikt&nbsp;<a href="/help/?ssw=33&amp;skf_id=451">Datu apmaiņu ar banku</a>. </p>
-<p>&nbsp;</p>
-<h5>Maksājumu uzdevuma starpbankas datu aizpildīšana</h5>
-<p>&nbsp;</p>
-<p>Bankas izdevumu dokumentiem iespējams aizpildīt datus par starpbanku, Maksājuma uzdevuma logā aktivizējot izvēli Starpbanka:</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24732" border="0"></p>
-<p>Kad visi nepieciešamie lauki ir aizpildīti, Bankas maksājuma uzdevums ir sagatavots un to ir iespējams:</p>
-<p>1. Saglabāt,&nbsp;nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;-&nbsp;dokuments tiks saglabāts un būs pieejams apskatei/labošanai/grāmatošanai <a href="/help/?ssw=33&amp;skf_id=224">Bankas izdevumu žurnālā</a>.</p>
-<p>2. Apstiprināt, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24740" border="0">&nbsp;- Bankas maksājuma uzdevums tiks Apstiprināts un to būs iespējams Grāmatot.</p>
-<h4>Bankas maksājuma uzdevuma grāmatošana</h4>
-<p>Bankas maksājumu uzdevumu iespējams grāmatot no atvērta Bankas maksājuma uzdevuma dokumenta vai izvēloties (iezīmējot)&nbsp;dokumentu <a href="/help/?ssw=33&amp;skf_id=224">Bankas izdevumu žurnālā</a>. </p>
-<p>Lai iegrāmatotu Bankas maksājuma uzdevumu, dokumentu nepieciešams Apstiprināt, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24740" border="0">.</p>
-<p>Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24741" border="0">.</p>
-<p>&nbsp;</p>
-<p>Instrukcija - <a href="/help/?ssw=33&amp;skf_id=14044">Dokumentu grāmatošanas principi</a></p>
-<h4>Pievienotā Bankas&nbsp;maksājuma uzdevuma&nbsp;labošana</h4>
-<p>Labojumus saglabātajā&nbsp;dokumentā iespējams veikt atverot Bankas maksājuma uzdevumu, kurš pieejams apskatei/labošanai&nbsp;<a href="/help/?ssw=33&amp;skf_id=224">Bankas izdevumu žurnālā</a>. Lai veiktu labojumus&nbsp;Bankas maksājuma uzdevumā,&nbsp;dokumentu&nbsp;nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24709" border="0">&nbsp;(ALT+A), un&nbsp;atvērtajā&nbsp;ierakstā iespējams veikt&nbsp;nepieciešamos labojumus:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24736" border="0"><br></p>
-<p>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p> 
+.. 347 =============================Bankas maksājuma uzdevums============================= 
+
+
+Bankas maksājuma uzdevums noformē naudas pārskaitījumu no uzņēmuma
+`Banku konta`_- pārskaitījums uzņēmuma piegādātājiem, algu izmaksas,
+nodokļu maksājumi, utt.. Maksājuma uzdevumus var drukāt, izmantojot
+iebūvēto izdrukas formu, vai eksportēt uz `Bankas elektronisko
+norēķinu sistēmām`_, lai tālāk nosūtītu apstrādei uz banku. Dokuments
+tiek saglabāts žurnālā `Bankas izdevumi`_.
+
+
+Jauna Bankas maksājuma uzdevuma pievienošana
+````````````````````````````````````````````
+
+Izvēloties dokumenta veidu Bankas maksājuma uzdevums, tiks atvērts
+jauns logs:
+
+
+
+
+
+
+Bankas maksājuma uzdevuma Virsraksta aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai aizpildītu Bankas maksājuma uzdevuma Virsrakstu, nepieciešams:
+
+
+
+1. Norādīt Uzņēmuma bankas kontu, no kura šis maksājums tiks
+izpildīts:
+
+
+
+
+
+
+
+2. Izvēlēties Datumu, kurā šis Bankas maksājuma uzdevums tiek veidots:
+
+
+
+
+
+
+
+3. Norādīt nepieciešamo Bankas maksājuma valūtu un ievadīt kopējo
+Dokumenta summu:
+
+
+
+
+
+
+
+4. No saraksta izvēlēties nepieciešamo partneri (Piegādātāju), kuram
+šis naudas pārskaitījums tiks noformēts:
+
+
+
+
+
+
+
+Izvēloties nepieciešamo Piegādātāju, lauki Nor.konts , Reģ.nr. , Banka
+un Kods tiks aizpildīti automātiski no `Partnera kartiņas`_.
+
+
+
+
+Bankas maksājuma uzdevumaSatura aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu Bankas maksājuma uzdevuma Saturu, dokumenta satura daļā
+nepieciešams nospiest un tiks atvērts operācijas satura logs, kurā
+nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās
+dimensijas) un norādīt satura ieraksta summu:
+
+
+
+
+
+
+
+Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
+kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
+satura ierakstu iespējams, satura daļā nospiežot pogu .
+
+
+
+
+Maksājuma dokumenta Mērķa un Satura aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Maksājuma dokumentu lauki Mērķis un Saturs tiek drukāti maksājuma
+uzdevuma rindā Maksājuma mērķis.
+
+Lauku Bankas maksājuma uzdevuma Mērķis, iespējams aizpildīt manuāli
+vai izvēloties no `Bankas paskaidrojumu saraksta`_:
+
+
+
+
+
+
+
+Aktivizējot izvēli Saturs, laukā tiek salikti dokumenta satura finanšu
+(EK) kodi un summas, līdz ar to iespējams automatizēti iegūt
+informāciju par summas sadalījumu pa EK kodiem vai maksājuma PVN
+summu:
+
+
+
+
+
+
+
+Sagatavojot Bankas maksājuma uzdevumu, dokumentam, kurš sagatavots
+izvēloties uzņēmuma `Banku kontu`_, kuram piesaistīta kāda no `Bankas
+elektronisko norēķinu sistēmām`_, ekrāna formā automātiski ir
+aktivizēta izvēle Eksportēt uz bankas elektronisko norēķinu sistēmu:
+
+
+
+
+
+
+
+Visi dokumenti, kuriem ir šāda izvēle, var tik eksportēti uz
+elektronisko banku norēķinu sistēmu, lai būtu iespējams veikt`Datu
+apmaiņu ar banku`_.
+
+
+
+
+Maksājumu uzdevuma starpbankas datu aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Bankas izdevumu dokumentiem iespējams aizpildīt datus par starpbanku,
+Maksājuma uzdevuma logā aktivizējot izvēli Starpbanka:
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti, Bankas maksājuma uzdevums
+ir sagatavots un to ir iespējams:
+
+1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
+apskatei/labošanai/grāmatošanai `Bankas izdevumu žurnālā`_.
+
+2. Apstiprināt, nospiežot rīku joslā pogu - Bankas maksājuma uzdevums
+tiks Apstiprināts un to būs iespējams Grāmatot.
+
+
+Bankas maksājuma uzdevuma grāmatošana
+`````````````````````````````````````
+
+Bankas maksājumu uzdevumu iespējams grāmatot no atvērta Bankas
+maksājuma uzdevuma dokumenta vai izvēloties (iezīmējot)dokumentu
+`Bankas izdevumu žurnālā`_.
+
+Lai iegrāmatotu Bankas maksājuma uzdevumu, dokumentu nepieciešams
+Apstiprināt, nospiežot rīku joslā pogu .
+
+Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu .
+
+
+
+Instrukcija - `Dokumentu grāmatošanas principi`_
+
+
+Pievienotā Bankasmaksājuma uzdevumalabošana
+```````````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot Bankas
+maksājuma uzdevumu, kurš pieejams apskatei/labošanai`Bankas izdevumu
+žurnālā`_. Lai veiktu labojumusBankas maksājuma
+uzdevumā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+
+
+
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+
+
+
+
+ 

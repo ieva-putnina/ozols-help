@@ -1,36 +1,87 @@
-.. 303 ============Pilnvara============ <P>&nbsp;</P>
-<P>Izvēloties dokumenta veidu Pilnvara, tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P align=justify><IMG src="/help/Skin/help/img.aspx?pid=25532" border=0><BR></P>
-<H5 align=justify>Pilnvaras virsraksta&nbsp;aizpildīšana</H5>
-<P align=justify>Lai aizpildītu&nbsp;Pilnvaras&nbsp;Virsrakstu, nepieciešams:</P>
-<P align=justify><STRONG></STRONG>&nbsp;</P>
-<P>1. Pilnvaras Numuru ievadīt nav nepieciešams - sistēma automātiski piedāvā nākamo brīvo numuru pēc kārtas. </P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25534" border=0></P>
-<P>&nbsp;</P>
-<P>2. Norādīt datumu, kurā&nbsp;pilnvara tiek veidota un pilnvaras derīguma termiņu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25535" border=0></P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>3. Iespējams norādīt uzņēmuma bankas kontu, kuru nepieciešams uzrādīt Pilnvaras izsniedzēja - uzņēmuma rekvizītos:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25536" border=0></P>
-<P>&nbsp;</P>
-<P>4. Nepieciešams norādīt Piegādātāju - Partneri, no kura šī Pilnvara ir saņemta:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25537" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Ja&nbsp;piegādātājs nav datu bāzē, izmantojot komandu <IMG src="/help/Skin/help/img.aspx?pid=24743" border=0>&nbsp;atveras partneru saraksta logs un ir iespējams pievienot jaunu partneri partneru sarakstā. Partnera pievienošanu un aizpildīšanu skatīt <A href="/help/?ssw=33&amp;skf_id=312"><U><FONT color=#0000ff>Partneris</FONT></U></A>.</P>
-<P>&nbsp;</P>
-<P>5. Laukā "Pask.", iespējams ievadīt Pilnvaras paskaidrojošo tekstu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25538" border=0></P>
-<H5>Pilnvaras&nbsp;satura&nbsp;aizpildīšana</H5>
-<P>Lai aizpildītu Pilnvaras Saturu, dokumenta satura daļā nepieciešams nospiest <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25539" border=0></P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P> 
+.. 303 ============Pilnvara============ 
+
+
+Izvēloties dokumenta veidu Pilnvara, tiks atvērts jauns logs:
+
+
+
+
+
+
+
+Pilnvaras virsrakstaaizpildīšana
+++++++++++++++++++++++++++++++++
+
+Lai aizpildītuPilnvarasVirsrakstu, nepieciešams:
+
+
+
+1. Pilnvaras Numuru ievadīt nav nepieciešams - sistēma automātiski
+piedāvā nākamo brīvo numuru pēc kārtas.
+
+
+
+
+
+
+
+2. Norādīt datumu, kurāpilnvara tiek veidota un pilnvaras derīguma
+termiņu:
+
+
+
+
+
+
+
+
+
+3. Iespējams norādīt uzņēmuma bankas kontu, kuru nepieciešams uzrādīt
+Pilnvaras izsniedzēja - uzņēmuma rekvizītos:
+
+
+
+
+
+
+
+4. Nepieciešams norādīt Piegādātāju - Partneri, no kura šī Pilnvara ir
+saņemta:
+
+
+
+
+
+
+
+Japiegādātājs nav datu bāzē, izmantojot komandu atveras partneru
+saraksta logs un ir iespējams pievienot jaunu partneri partneru
+sarakstā. Partnera pievienošanu un aizpildīšanu skatīt ` Partneris `_.
+
+
+
+5. Laukā "Pask.", iespējams ievadīt Pilnvaras paskaidrojošo tekstu:
+
+
+
+
+
+
+Pilnvarassaturaaizpildīšana
++++++++++++++++++++++++++++
+
+Lai aizpildītu Pilnvaras Saturu, dokumenta satura daļā nepieciešams
+nospiest un tiks atvērts operācijas satura logs, kurā nepieciešams
+aizpildīt satura ierakstus:
+
+
+
+
+
+
+
+
+
+
+
+ 

@@ -1,6 +1,34 @@
-.. 686 ============Uzrēķini============ <br>Uzrēķinu sarakstā tiek saglabāti biežāk izmantojamie uzrēķinu 
-apraksti, ērtākai norēķinu dokumentu ievadei. Uzrēķina apraksts ir 
-informācija, kas ir kopīga visiem vienādiem saņemtajiem vai sniegtajiem uzrēķiniem (piemēram, soda naudas vai cita veida uzrēķins pie <a href="?ssw=33&amp;skf_id=304">Pārdošanas</a> vai <a href="?ssw=33&amp;skf_id=310">Iepirkuma</a> dokumenta). Uzrēķina apraksts satur informāciju par Grupu, 
-nosaukumu, kodu un mērvienību.<br><br>Uzrēķini var tikt uzskaitīti pa Noliktavām un grupēti, izmantojot&nbsp;<a href="?ssw=33&amp;skf_id=148">Grupu</a> sarakstu. <br><br>Lai pievienotu jaunu Uzrēķina aprakstu, rīku joslā jānospiež poga<span id="iozo_content_ctl00_lbltxt" class="txt"> <img src="Skin/help/img.aspx?pid=24708" border="0"></span> un tiks atvērts jauns logs, kur jāaizpilda nepieciešamie lauki:<br><br><img src="Skin/help/img.aspx?pid=26502" border="0"><br><b><br>Tips: </b>pazīme, kas norāda, ka tas ir uzrēķins;<b></b><br><b>Statuss: </b>iespēja norādīt, vai šim Uzrēķinam būs
- atļauta vai aizliegta datu ievade (Vai uzrēķinu varēs ievadīt 
-norēķinu dokumenta saturā);<br><b>Grupa:</b> jānorāda grupa, kurā šis uzrēķins atradīsies;<br><b>Kods:</b> uzrēķina saīsināts nosaukums;<br><b>Nosaukums:</b> uzrēķina pilns nosaukums;<br><b>Mērvienība: </b>uzrēķina mērvienība;<br><b>Fin.kat.:</b> ja uzņēmuma finanšu uzskaitē tiek izmantotas <a href="?ssw=33&amp;skf_id=701">Dimensijas</a> (piemēram, dimensija - <a href="?ssw=33&amp;skf_id=116">Finanšu kategorija</a>), tad iespējams piesaistīt uzrēķinam konkrētu <a href="?ssw=33&amp;skf_id=116">Finanšu kategorija</a> no klasifikatora, vai arī atstāt noklusēto iestādījumu [grupas] - šajā gadījumā fin.kat.tiks piesaistīta tāda, kāda definēta uzrēķinam piesaistītajai <a href="?ssw=33&amp;skf_id=148">Grupai</a>.<br><br>Pēc datu aizpildīšanas, uzrēķina aprakstu iespējams <span id="iozo_content_ctl00_lbltxt" class="txt"><img src="Skin/help/img.aspx?pid=24615" border="0"></span> vai<span id="iozo_content_ctl00_lbltxt" class="txt"><img src="Skin/help/img.aspx?pid=24617" border="0"></span>.<br><span id="iozo_content_ctl00_lbltxt" class="txt"></span> 
+.. 686 ============Uzrēķini============ 
+Uzrēķinu sarakstā tiek saglabāti biežāk izmantojamie uzrēķinu
+apraksti, ērtākai norēķinu dokumentu ievadei. Uzrēķina apraksts ir
+informācija, kas ir kopīga visiem vienādiem saņemtajiem vai
+sniegtajiem uzrēķiniem (piemēram, soda naudas vai cita veida uzrēķins
+pie `Pārdošanas`_ vai `Iepirkuma`_ dokumenta). Uzrēķina apraksts satur
+informāciju par Grupu, nosaukumu, kodu un mērvienību.
+
+Uzrēķini var tikt uzskaitīti pa Noliktavām un grupēti,
+izmantojot`Grupu`_ sarakstu.
+
+Lai pievienotu jaunu Uzrēķina aprakstu, rīku joslā jānospiež poga un
+tiks atvērts jauns logs, kur jāaizpilda nepieciešamie lauki:
+
+
+**
+Tips: **pazīme, kas norāda, ka tas ir uzrēķins; ****
+**Statuss: **iespēja norādīt, vai šim Uzrēķinam būs atļauta vai
+aizliegta datu ievade (Vai uzrēķinu varēs ievadīt norēķinu dokumenta
+saturā);
+**Grupa:** jānorāda grupa, kurā šis uzrēķins atradīsies;
+**Kods:** uzrēķina saīsināts nosaukums;
+**Nosaukums:** uzrēķina pilns nosaukums;
+**Mērvienība: **uzrēķina mērvienība;
+**Fin.kat.:** ja uzņēmuma finanšu uzskaitē tiek izmantotas
+`Dimensijas`_ (piemēram, dimensija - `Finanšu kategorija`_), tad
+iespējams piesaistīt uzrēķinam konkrētu `Finanšu kategorija`_ no
+klasifikatora, vai arī atstāt noklusēto iestādījumu [grupas] - šajā
+gadījumā fin.kat.tiks piesaistīta tāda, kāda definēta uzrēķinam
+piesaistītajai `Grupai`_.
+
+Pēc datu aizpildīšanas, uzrēķina aprakstu iespējams vai .
+
+ 

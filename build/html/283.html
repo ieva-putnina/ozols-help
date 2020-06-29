@@ -437,25 +437,80 @@
             
   <div class="section" id="rezultejoso-kodu-konfiguracija">
 <h1>Rezultējošo kodu konfigurācija<a class="headerlink" href="#rezultejoso-kodu-konfiguracija" title="Permalink to this headline">¶</a></h1>
-<p>&lt;H5&gt;Rezultējošo kodu konfigurēšana&lt;/H5&gt;
-&lt;P&gt;Rezultējošo kodu konfigurācija nosaka algu aprēķina algoritma pareizību. Ar sastādīto formulu palīdzību, ievadot algu aprēķinā &lt;A href=”/help/?ssw=33&amp;amp;skf_id=282”&gt;Ieejošo kodu vērtības&lt;/A&gt;, tiek izrēķināt algu rezultāts – aprēķināti nodokļi un noteikta summa izmaksai. Lai sakonfigurētu algu rezultātus, jāveido rezultējošie kodi.&lt;/P&gt;
-&lt;P&gt;Rezultējošais kods ir vērtība, kura tiek aprēķināta atbilstoši sastādītajai formulai. Formulu sastādīšanā tiek izmantoti ieejošo kodu numuri. Formulās var iekļaut ieejošos kodus, sistēmā iebūvētās vērtības, citus rezultātu numurus.&lt;/P&gt;
-&lt;P&gt;&amp;nbsp;&lt;/P&gt;
-&lt;P&gt;&lt;IMG src=”/help/Skin/help/img.aspx?pid=26353” border=0&gt;&lt;/P&gt;
-&lt;P&gt;&amp;nbsp;&lt;/P&gt;
-&lt;P&gt;Pievienojot rezultējošo kodu, jānorāda aprēķina modulis. Rezultējošajam kodam tiek piešķirts pirmais brīvais numurs. Lai pārnestu uz algu aprēķina rezultātiem ieejošos kodus, laukā Formula jāraksta atbilstošo mainīgā nosaukumu, piemēram, A[1] - LA_M (laika alga mēneša likme). Vairāku mainīgo summai izmanto saskaitīšanas zīmi, piemēram, A[1]+A[2]+A[3]. Tāpat var izmantot citas elementārās matemātikas operācijas, piemēram, A[1]/P_DD*(P_DD-D[1]), kur P_DD ir perioda darba dienu skaits, bet D[1] ir kavēto darba dienu skaits. Ar šādas formulas palīdzību tiek realizēta situācija, ka algas aprēķina laikā pievienojot kavētās darba dienas, rezultātos tiek attiecīgi samazināta aprēķinātās algas summa.&lt;BR&gt;Aprēķina formulās var arī izmantot jau iepriekš iegūtos rezultātus, tikai jāievēro, lai tie būtu izrēķināti iepriekš.&lt;/P&gt;
-&lt;P&gt;&amp;nbsp;&lt;/P&gt;
-&lt;P&gt;&lt;IMG src=”/help/Skin/help/img.aspx?pid=24545” border=0&gt;Aprēķina formulā jāizmanto tikai iepriekš aprēķinātie rezultāti. Rezultējošo kodu aprēķina secību norāda rezultējošo kodu vērtība „Rinda”.&lt;/P&gt;
-&lt;P&gt;&amp;nbsp;&lt;/P&gt;
-&lt;P&gt;Katrs algu aprēķina rezultāts, kas jāparāda algu lapiņā vai kopsavilkumā, ir jānoformē kā atsevišķs rezultējošais ieraksts. Pēc tam vairākus rezultējošos kodus var grupēt starpsummās.&lt;BR&gt;Rezultējošos ierakstus var neuzrādīt algu aprēķina rezultātos, piemēram, starpsummas, ja rezultējošo datu konfigurācijā laukā “Attēlot kā” ir iestādīta vērtība “Nerādīt”. Rezultējošajiem ierakstiem, kas sastāda aprēķināto algu, lauks “Attēlot kā:” ir jānorāda kā “Aprēķināts”. Savukārt visiem ieturējumiem (nodokļiem un ieturējumiem) ir jānorāda “Ieturēts”.&lt;BR&gt;Ja rezultāts ir izmaksa, tad laukā Izmaksāt jānorāda, kurš izmaksu saraksta veids tiks izmantots. Izmaksu saraksta veidiem jābūt iepriekš izveidotiem (&amp;gt;Saraksti &amp;gt; Alga &amp;gt; &lt;A href=”/help/?ssw=33&amp;amp;skf_id=280”&gt;Izmaksu sarakstu veidi&lt;/A&gt;).&lt;/P&gt;
-&lt;H5&gt;Algu aprēķina formulu sastādīšanas secība&lt;/H5&gt;
-&lt;P&gt;Formulu sastādīšanā būtu jāievēro zināma secība, jo vispirms iegūtie rezultāti jāizmanto citu formulu sastādīšanā. Optimālā secība, kuru ieteicams ievērot, sastādot algu aprēķina formulas:&lt;BR&gt;- Rezultāti, kas tiek aplikti ar visiem nodokļiem; &lt;BR&gt;- Ar sociālo nodokli apliekamās starpsummas;&lt;BR&gt;- Sociālais nodoklis darba ņēmējam;&lt;BR&gt;- Maksājumi, kas netiek aplikti ar sociālo nodokli vai/un ienākuma nodokli;&lt;BR&gt;- Ar ienākuma nodokli apliekamā summa;&lt;BR&gt;- Ienākuma nodoklis;&lt;BR&gt;- Citi ieturējumi;&lt;BR&gt;- Izmaksas. &lt;/P&gt;
-&lt;P&gt;&lt;BR&gt;Vispirms tiek summēti visi maksājumi, kas tiek aplikti ar visiem nodokļiem un izveidota starpsumma sociālā nodokļa aprēķināšanai. Tad tiek aprēķināts sociālais nodoklis darba ņēmējam. Ja uzņēmumā ir maksājumi, kuri netiek aplikti ar sociālo nodokli, bet tiek aplikti ar ienākuma nodokli, tad tālāk jāveic šo maksājumu aprēķins. Visi iepriekšminētie maksājumi tiek summēti ar ienākuma nodokli apliekamajā starpsummā (bruto), kura tiek izmantota ienākuma nodokļa aprēķināšanā. Tiek veikts ienākuma nodokļa aprēķins. Pēc tam tiek sagatavoti pārējie ieturējumi. &lt;/P&gt;
-&lt;H5&gt;Rezultējošo kodu konfigurēšana algu grāmatojumu izveidei&lt;/H5&gt;
-&lt;P&gt;Lai varētu izveidot algu grāmatojumu pirmdokumentu, rezultējošo kodu konfigurācijā algu aprēķina rezultātu kodiem nepieciešams norādīt debeta un kredīta kontus.&lt;/P&gt;
-&lt;P&gt;Ar komandpogas Atvērt&amp;nbsp;(Alt+A) palīdzību jāatver nepieciešamā rezultējošā koda konfigurācija un jāpievieno DB.konts un CR.konts. &lt;/P&gt;
-&lt;P&gt;&amp;nbsp;&lt;/P&gt;
-&lt;P&gt;&lt;IMG src=”/help/Skin/help/img.aspx?pid=24545” border=0&gt;Instrukcija: &lt;A href=”/help/?ssw=33&amp;amp;skf_id=14109”&gt;Grāmatvedisko kontu piesaistīšana algu rezultējošiem kodiem&lt;/A&gt;&lt;/P&gt;</p>
+<div class="section" id="rezultejoso-kodu-konfiguresana">
+<h2>Rezultējošo kodu konfigurēšana<a class="headerlink" href="#rezultejoso-kodu-konfiguresana" title="Permalink to this headline">¶</a></h2>
+<p>Rezultējošo kodu konfigurācija nosaka algu aprēķina algoritma
+pareizību. Ar sastādīto formulu palīdzību, ievadot algu aprēķinā
+<a href="#id1"><span class="problematic" id="id2">`Ieejošo kodu vērtības`_</span></a>, tiek izrēķināt algu rezultāts – aprēķināti
+nodokļi un noteikta summa izmaksai. Lai sakonfigurētu algu rezultātus,
+jāveido rezultējošie kodi.</p>
+<p>Rezultējošais kods ir vērtība, kura tiek aprēķināta atbilstoši
+sastādītajai formulai. Formulu sastādīšanā tiek izmantoti ieejošo kodu
+numuri. Formulās var iekļaut ieejošos kodus, sistēmā iebūvētās
+vērtības, citus rezultātu numurus.</p>
+<p>Pievienojot rezultējošo kodu, jānorāda aprēķina modulis.
+Rezultējošajam kodam tiek piešķirts pirmais brīvais numurs. Lai
+pārnestu uz algu aprēķina rezultātiem ieejošos kodus, laukā Formula
+jāraksta atbilstošo mainīgā nosaukumu, piemēram, A[1] - LA_M (laika
+alga mēneša likme). Vairāku mainīgo summai izmanto saskaitīšanas zīmi,
+piemēram, A[1]+A[2]+A[3]. Tāpat var izmantot citas elementārās
+matemātikas operācijas, piemēram, A[1]/P_DD*(P_DD-D[1]), kur P_DD ir
+perioda darba dienu skaits, bet D[1] ir kavēto darba dienu skaits. Ar
+šādas formulas palīdzību tiek realizēta situācija, ka algas aprēķina
+laikā pievienojot kavētās darba dienas, rezultātos tiek attiecīgi
+samazināta aprēķinātās algas summa.
+Aprēķina formulās var arī izmantot jau iepriekš iegūtos rezultātus,
+tikai jāievēro, lai tie būtu izrēķināti iepriekš.</p>
+<p>Aprēķina formulā jāizmanto tikai iepriekš aprēķinātie rezultāti.
+Rezultējošo kodu aprēķina secību norāda rezultējošo kodu vērtība
+„Rinda”.</p>
+<p>Katrs algu aprēķina rezultāts, kas jāparāda algu lapiņā vai
+kopsavilkumā, ir jānoformē kā atsevišķs rezultējošais ieraksts. Pēc
+tam vairākus rezultējošos kodus var grupēt starpsummās.
+Rezultējošos ierakstus var neuzrādīt algu aprēķina rezultātos,
+piemēram, starpsummas, ja rezultējošo datu konfigurācijā laukā
+“Attēlot kā” ir iestādīta vērtība “Nerādīt”. Rezultējošajiem
+ierakstiem, kas sastāda aprēķināto algu, lauks “Attēlot kā:” ir
+jānorāda kā “Aprēķināts”. Savukārt visiem ieturējumiem (nodokļiem un
+ieturējumiem) ir jānorāda “Ieturēts”.
+Ja rezultāts ir izmaksa, tad laukā Izmaksāt jānorāda, kurš izmaksu
+saraksta veids tiks izmantots. Izmaksu saraksta veidiem jābūt iepriekš
+izveidotiem (&gt;Saraksti &gt; Alga &gt; <a href="#id3"><span class="problematic" id="id4">`Izmaksu sarakstu veidi`_</span></a>).</p>
+</div>
+<div class="section" id="algu-aprekina-formulu-sastadisanas-seciba">
+<h2>Algu aprēķina formulu sastādīšanas secība<a class="headerlink" href="#algu-aprekina-formulu-sastadisanas-seciba" title="Permalink to this headline">¶</a></h2>
+<p>Formulu sastādīšanā būtu jāievēro zināma secība, jo vispirms iegūtie
+rezultāti jāizmanto citu formulu sastādīšanā. Optimālā secība, kuru
+ieteicams ievērot, sastādot algu aprēķina formulas:
+- Rezultāti, kas tiek aplikti ar visiem nodokļiem;
+- Ar sociālo nodokli apliekamās starpsummas;
+- Sociālais nodoklis darba ņēmējam;
+- Maksājumi, kas netiek aplikti ar sociālo nodokli vai/un ienākuma
+nodokli;
+- Ar ienākuma nodokli apliekamā summa;
+- Ienākuma nodoklis;
+- Citi ieturējumi;
+- Izmaksas.</p>
+<p>Vispirms tiek summēti visi maksājumi, kas tiek aplikti ar visiem
+nodokļiem un izveidota starpsumma sociālā nodokļa aprēķināšanai. Tad
+tiek aprēķināts sociālais nodoklis darba ņēmējam. Ja uzņēmumā ir
+maksājumi, kuri netiek aplikti ar sociālo nodokli, bet tiek aplikti ar
+ienākuma nodokli, tad tālāk jāveic šo maksājumu aprēķins. Visi
+iepriekšminētie maksājumi tiek summēti ar ienākuma nodokli apliekamajā
+starpsummā (bruto), kura tiek izmantota ienākuma nodokļa aprēķināšanā.
+Tiek veikts ienākuma nodokļa aprēķins. Pēc tam tiek sagatavoti pārējie
+ieturējumi.</p>
+</div>
+<div class="section" id="rezultejoso-kodu-konfiguresana-algu-gramatojumu-izveidei">
+<h2>Rezultējošo kodu konfigurēšana algu grāmatojumu izveidei<a class="headerlink" href="#rezultejoso-kodu-konfiguresana-algu-gramatojumu-izveidei" title="Permalink to this headline">¶</a></h2>
+<p>Lai varētu izveidot algu grāmatojumu pirmdokumentu, rezultējošo kodu
+konfigurācijā algu aprēķina rezultātu kodiem nepieciešams norādīt
+debeta un kredīta kontus.</p>
+<p>Ar komandpogas Atvērt(Alt+A) palīdzību jāatver nepieciešamā
+rezultējošā koda konfigurācija un jāpievieno DB.konts un CR.konts.</p>
+<p>Instrukcija: <a href="#id5"><span class="problematic" id="id6">`Grāmatvedisko kontu piesaistīšana algu rezultējošiem
+kodiem`_</span></a></p>
+</div>
 </div>
 
 

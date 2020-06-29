@@ -1,21 +1,48 @@
-.. 139 ===================================Numerācijas definīciju saraksts=================================== Iebūvētais numerators nodrošina dokumentu secīgu numerāciju. Numeratoru var sastādīt un mainīt, veidojot atsevišķu numerāciju katram dokumenta veidam vai katram bankas un kases kontam. Atsevišķu dokumentu numerāciju var noteikt arī atšķirīgu uzņēmumu datiem. Uzsākot darbu ar sistēmu, dokumentu numerācija tiek sākta automatizēti, ņemot vērā <a href="k_banka.html">Bankas</a>, <a href="k_kase.html">Kases</a>, <a href="k_krajumi.html">Krājumu</a> konfigurāciju.</p>
-<p>Veidojot dokumentus, numeratori tiek izveidoti automatizēti. Numeratoru var labot arī no dokumenta - laukā Numurs (dokumenta numurs) jāuzklikšķina ar peles labo pogu un jāizsauc numeratora ekrāna forma. Laukā <span class="komandas">Turpināt numerāciju no</span> jānorāda dokumenta numurs, no kura jāatsāk numerācija.</p>
-<hr size="1">
-<p><b>Nosaukums</b><br>
-Darba režīma - dokumenta nosaukums.</p>
-<p><b>Tips<br>
-</b>Numeratora tips. Informatīvs lauks, kas parāda, vai numerators ir izveidots automatizēti (system) vai to ir noteicis lietotājs (user defined).</p>
-<p><b>Dok.tbl</b><br>
-Dokumenta tabula. Tabulas nosaukums, kur tiek saglabāts numeratorā norādītais dokumenta veids. Lauks ir informatīvs.</p>
-<p><b>Uzņ.</b><br>
-Uzņēmums. Parāda, kura uzņēmuma dokumentiem numerators tiek izmantots.</p>
-<p><b>Num.v.tab</b><br>
-Dokumenta veida tabula. Tabulas nosaukums, no kura tiek ņemta informācija par dokumenta veidu. lauks ir informatīvs.</p>
-<p><b>Veids</b><br>
-Dokumenta veida tabulas ID. Lauks ir informatīvs.</p>
-<p><b>Numerators</b><br>
-Numeratora nosaukums.</p>
-<p><b>Num.ID</b><br>
-Numeratora ID. Lauks ir informatīvs.</p>
-<p><b>Numurs</b><br>
-Pēdējais izmantotais numurs. Numerācija dokumentam tiks turpināta sākot ar nākošo skaitli. Ja numerācija jāsāk ar 1, jānorāda 0.</p> 
+.. 139 ===================================Numerācijas definīciju saraksts=================================== Iebūvētais numerators nodrošina dokumentu secīgu numerāciju.
+Numeratoru var sastādīt un mainīt, veidojot atsevišķu numerāciju
+katram dokumenta veidam vai katram bankas un kases kontam. Atsevišķu
+dokumentu numerāciju var noteikt arī atšķirīgu uzņēmumu datiem.
+Uzsākot darbu ar sistēmu, dokumentu numerācija tiek sākta
+automatizēti, ņemot vērā `Bankas`_, `Kases`_, `Krājumu`_
+konfigurāciju.
+Veidojot dokumentus, numeratori tiek izveidoti automatizēti.
+Numeratoru var labot arī no dokumenta - laukā Numurs (dokumenta
+numurs) jāuzklikšķina ar peles labo pogu un jāizsauc numeratora ekrāna
+forma. Laukā Turpināt numerāciju no jānorāda dokumenta numurs, no kura
+jāatsāk numerācija.
+
+
+
+**Nosaukums**
+Darba režīma - dokumenta nosaukums.
+
+**Tips
+**Numeratora tips. Informatīvs lauks, kas parāda, vai numerators ir
+izveidots automatizēti (system) vai to ir noteicis lietotājs (user
+defined).
+
+**Dok.tbl**
+Dokumenta tabula. Tabulas nosaukums, kur tiek saglabāts numeratorā
+norādītais dokumenta veids. Lauks ir informatīvs.
+
+**Uzņ.**
+Uzņēmums. Parāda, kura uzņēmuma dokumentiem numerators tiek izmantots.
+
+**Num.v.tab**
+Dokumenta veida tabula. Tabulas nosaukums, no kura tiek ņemta
+informācija par dokumenta veidu. lauks ir informatīvs.
+
+**Veids**
+Dokumenta veida tabulas ID. Lauks ir informatīvs.
+
+**Numerators**
+Numeratora nosaukums.
+
+**Num.ID**
+Numeratora ID. Lauks ir informatīvs.
+
+**Numurs**
+Pēdējais izmantotais numurs. Numerācija dokumentam tiks turpināta
+sākot ar nākošo skaitli. Ja numerācija jāsāk ar 1, jānorāda 0.
+
+ 

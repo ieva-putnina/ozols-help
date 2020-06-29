@@ -1,16 +1,38 @@
-.. 14126 ===========================================================Iestādījumu konfigurācija strādājot ar OS Windows Vista=========================================================== <P>&nbsp;</P>
-<P>Lai darbs ar sistēmu Ozols būtu ērts un darbu režīmu logiem būtu pieejamas - vizuāli redzamas loga minimizēšanas/maksimizēšanas/aizvēršanas funkcijas, nepieciešams veikt sekojošas izmaiņas datora iestādījumos.</P>
-<P>&nbsp;</P>
-<P>1. My Computer-&gt;Properties-&gt;Performance:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26347" border=0></P>
-<P>&nbsp;</P>
-<P>2. -&gt; Adjust visual effects:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26348" border=0></P>
-<P>&nbsp;</P>
-<P>3. No lapas "visual effects" jāizņem ķeksis "enable desktop composition":</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26349" border=0></P>
-<P>&nbsp;</P>
-<P>&nbsp;</P> 
+.. 14126 ===========================================================Iestādījumu konfigurācija strādājot ar OS Windows Vista=========================================================== 
+
+
+Lai darbs ar sistēmu Ozols būtu ērts un darbu režīmu logiem būtu
+pieejamas - vizuāli redzamas loga
+minimizēšanas/maksimizēšanas/aizvēršanas funkcijas, nepieciešams veikt
+sekojošas izmaiņas datora iestādījumos.
+
+
+
+1. My Computer->Properties->Performance:
+
+
+
+
+
+
+
+2. -> Adjust visual effects:
+
+
+
+
+
+
+
+3. No lapas "visual effects" jāizņem ķeksis "enable desktop
+composition":
+
+
+
+
+
+
+
+
+
+ 

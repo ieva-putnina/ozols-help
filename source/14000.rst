@@ -1,9 +1,22 @@
-.. 14000 ===================================Sistēmas lietošanas instrukcija=================================== <P><A href="/help/?ssw=33&amp;skf_id=14068"></A>&nbsp;</P>
-<P>Sadaļā pieejamas sistēmas Ozols lietošanas instrukcijas, kas palīdzēs labāk izprasts programmas funkcionalitātes iespējas un darbības principus.</P>
-<P>&nbsp;</P>
-<P><A href="/help/?ssw=33&amp;skf_id=14010">Sistēmas lietošanas principi</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14065">Administratora instrukcijas</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14068">Darba uzsākšana</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14045">Dokumentu veidošanas principi</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14044">Grāmatojumu veidošanas principi</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14037">Sarakstu veidošanas principi</A></P> .. toctree::   :maxdepth: 6    14010.rst   14065.rst   14068.rst   14045.rst   14044.rst   14102.rst   14137.rst   14037.rst
+.. 14000 ===================================Sistēmas lietošanas instrukcija=================================== 
+``_
+
+Sadaļā pieejamas sistēmas Ozols lietošanas instrukcijas, kas palīdzēs
+labāk izprasts programmas funkcionalitātes iespējas un darbības
+principus.
+
+
+
+`Sistēmas lietošanas principi`_
+
+`Administratora instrukcijas`_
+
+`Darba uzsākšana`_
+
+`Dokumentu veidošanas principi`_
+
+`Grāmatojumu veidošanas principi`_
+
+`Sarakstu veidošanas principi`_
+
+ .. toctree::   :maxdepth: 6    14010.rst   14065.rst   14068.rst   14045.rst   14044.rst   14102.rst   14137.rst   14037.rst

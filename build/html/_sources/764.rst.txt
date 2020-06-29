@@ -1,27 +1,69 @@
-.. 764 ===============Apbalvojumi=============== <P>&nbsp;</P>
-<P>Apbalvojumu dokumentu žurnālā tiek saglabāti visi <A href="/help/?ssw=33&amp;skf_id=111">Strādājošo</A> kartiņās pievienotie apbalvojumi.</P>
-<P>Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Rīku joslā nopiežot pogu<IMG src="/help/Skin/help/img.aspx?pid=24535" border=0>(Ctrl+F), tiek atvērts filtra logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26085" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Struktūrv.</STRONG>: Konkrētas struktūrvienības strādājošo Apbalvojumi;</P>
-<P><STRONG>Amats</STRONG>: Apbalvojumus strādājošiem, atlasot datus pēc filtrā&nbsp;norādītā Amata nosaukuma;</P>
-<P><STRONG>Slodzes: </STRONG>Dokumentu žurnālā iespējams atlasīt datus - informāciju par Apbalvojumiem,&nbsp;par Aktīvajām vai Neaktīvajām slodzēm;</P>
-<P>&nbsp;</P>
-<P>Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25944" border=0>.</P>
-<H5>Jauna Apbalvojuma pievienošana </H5>
-<P>Jaunu Apbalvojuma ierakstu strādājošajam iespējams izveidot:</P>
-<P>&nbsp;</P>
-<P>1. <A href="/help/?ssw=33&amp;skf_id=111">Strādājošā aprakstā</A>, sadāļā Personāls - iespēja pievienot&nbsp; strādājošā dažādu veidu apbalvojumus, un arī pārkāpumus:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25777" border=0>&nbsp;</P>
-<P>&nbsp;</P>
-<P>2. Atrodoties <A href="/help/?ssw=33&amp;skf_id=764">Apbalvojumu dokumentu žurnālā</A> un rīku joslā&nbsp;nospiežot pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>:</P>
-<P>&nbsp;</P>
-<P>Izvēloties pievienot Apbalvojumus un sodus, jāizvēlas attiecīgais veids:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26086" border=0></P>
-<P>&nbsp;</P>
-<P>Izvēloties veidu, atzīmējot datumu un izveidojot aprakstu, datus jāsaglabā, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>. </P>
-<P>&nbsp;</P>
-<P>Pievienotie dati tiek saglabāti <A href="/help/?ssw=33&amp;skf_id=764">Apbalvojumu dokumentos</A>.</P> 
+.. 764 ===============Apbalvojumi=============== 
+
+
+Apbalvojumu dokumentu žurnālā tiek saglabāti visi `Strādājošo`_
+kartiņās pievienotie apbalvojumi.
+
+Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
+tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
+ekrāna formā. Rīku joslā nopiežot pogu (Ctrl+F), tiek atvērts filtra
+logs:
+
+
+
+
+
+
+
+Struktūrv. : Konkrētas struktūrvienības strādājošo Apbalvojumi;
+
+Amats : Apbalvojumus strādājošiem, atlasot datus pēc filtrānorādītā
+Amata nosaukuma;
+
+Slodzes: Dokumentu žurnālā iespējams atlasīt datus - informāciju par
+Apbalvojumiem,par Aktīvajām vai Neaktīvajām slodzēm;
+
+
+
+Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
+
+
+Jauna Apbalvojuma pievienošana
+++++++++++++++++++++++++++++++
+
+Jaunu Apbalvojuma ierakstu strādājošajam iespējams izveidot:
+
+
+
+1. `Strādājošā aprakstā`_, sadāļā Personāls - iespēja pievienot
+strādājošā dažādu veidu apbalvojumus, un arī pārkāpumus:
+
+
+
+
+
+
+
+2. Atrodoties `Apbalvojumu dokumentu žurnālā`_ un rīku joslānospiežot
+pogu :
+
+
+
+Izvēloties pievienot Apbalvojumus un sodus, jāizvēlas attiecīgais
+veids:
+
+
+
+
+
+
+
+Izvēloties veidu, atzīmējot datumu un izveidojot aprakstu, datus
+jāsaglabā, nospiežot pogu .
+
+
+
+Pievienotie dati tiek saglabāti `Apbalvojumu dokumentos`_.
+
+ 

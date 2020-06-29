@@ -1,1 +1,11 @@
-.. 188 ============Uzņēmumi============ <br>Uzņēmumu sarakstā tiek saglabāti pamatdati par uzņēmumiem, kuri ir pievienoti datu bāzei. Lai uzņēmuma pamatinofrmācija korekti tiktu uzrādīta visos darba režīmos, nepieciešams aizpildīt sekojošu informāciju:<br><br><img src="Skin/help/img.aspx?pid=26431" border="0"><br><br><br><span id="iozo_content_ctl00_lbltxt" class="txt">Pēc izmaiņu veikšanas, izmaiņas iespējams <img src="Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="Skin/help/img.aspx?pid=24617" border="0">.</span> 
+.. 188 ============Uzņēmumi============ 
+Uzņēmumu sarakstā tiek saglabāti pamatdati par uzņēmumiem, kuri ir
+pievienoti datu bāzei. Lai uzņēmuma pamatinofrmācija korekti tiktu
+uzrādīta visos darba režīmos, nepieciešams aizpildīt sekojošu
+informāciju:
+
+
+
+
+Pēc izmaiņu veikšanas, izmaiņas iespējams vai .
+ 

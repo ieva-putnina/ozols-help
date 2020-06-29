@@ -1,16 +1,44 @@
-.. 606 ============================Partnera adreses izdruka============================ <P>&nbsp;</P>
-<P>Atskaiti <STRONG>Partnera adreses izdruka </STRONG>izmanto, lai būtu iespējams izdrukāt Partnera adresi noteiktā, lietotājam vēlamā formātā (piemēram, uz aploksnēm vai veidlapām).</P>
-<P>&nbsp;</P>
-<P>Izvēlotes šo atskaiti, tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26072" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Partneris:</STRONG> Iespēja no <A href="/help/?ssw=33&amp;skf_id=112">Partneru saraksta</A>&nbsp;izvēlēties nepieciešamo <A href="/help/?ssw=33&amp;skf_id=312">Partneri</A>, par kuru dati - <A href="/help/?ssw=33&amp;skf_id=192">Adrese</A>,&nbsp;tiks drukāti;</P>
-<P><STRONG>Kontakpersona:</STRONG> Iespēja norādīt kādu no <A href="/help/?ssw=33&amp;skf_id=312">Partnerim</A> piesaistītajām <A href="/help/?ssw=33&amp;skf_id=189">Kontaktpersonām</A>.</P>
-<P><STRONG>Adrese:</STRONG> Lauks tiks aizpildīts automātiski, ielādējot izvēlētā <A href="/help/?ssw=33&amp;skf_id=312">Partnera aprakstā</A>&nbsp;norādīto <A href="/help/?ssw=33&amp;skf_id=192">Adresei</A>. Situācijās, ja Partnerim,&nbsp;<A href="/help/?ssw=33&amp;skf_id=312">Partnera aprakstā</A> norādītas vairākas <A href="/help/?ssw=33&amp;skf_id=192">Adreses</A> - šajā izvēlnes laukā iespējams izvēlēties attiecīgajā situācijā&nbsp;nepieciešamo.</P>
-<P>&nbsp;</P>
-<P>Ja visi vēlamie atlases kritēriji izvēlēti, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25620" border=0>, lai tiktu atvērts izdrukas logs, kur iespējams izvēlēties nepieciešamo izdrukas formu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26073" border=0></P>
-<P>&nbsp;</P>
-<P>Izvēloties nepieciešamo Iebūvēto izdrukas formu un nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25620" border=0>, tiks izdrukāta izvēlētā Partnera adrese norādītajā formātā.</P> 
+.. 606 ============================Partnera adreses izdruka============================ 
+
+
+Atskaiti Partnera adreses izdruka izmanto, lai būtu iespējams izdrukāt
+Partnera adresi noteiktā, lietotājam vēlamā formātā (piemēram, uz
+aploksnēm vai veidlapām).
+
+
+
+Izvēlotes šo atskaiti, tiks atvērts jauns logs:
+
+
+
+
+
+
+
+Partneris: Iespēja no `Partneru saraksta`_izvēlēties nepieciešamo
+`Partneri`_, par kuru dati - `Adrese`_,tiks drukāti;
+
+Kontakpersona: Iespēja norādīt kādu no `Partnerim`_ piesaistītajām
+`Kontaktpersonām`_.
+
+Adrese: Lauks tiks aizpildīts automātiski, ielādējot izvēlētā
+`Partnera aprakstā`_norādīto `Adresei`_. Situācijās, ja
+Partnerim,`Partnera aprakstā`_ norādītas vairākas `Adreses`_ - šajā
+izvēlnes laukā iespējams izvēlēties attiecīgajā situācijānepieciešamo.
+
+
+
+Ja visi vēlamie atlases kritēriji izvēlēti, jānospiež poga , lai tiktu
+atvērts izdrukas logs, kur iespējams izvēlēties nepieciešamo izdrukas
+formu:
+
+
+
+
+
+
+
+Izvēloties nepieciešamo Iebūvēto izdrukas formu un nospiežot pogu ,
+tiks izdrukāta izvēlētā Partnera adrese norādītajā formātā.
+
+ 

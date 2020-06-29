@@ -1,9 +1,28 @@
-.. 227 ==================Kases ieņēmumi================== <P>&nbsp;</P>
-<P>Kases&nbsp;ieņēmumu dokumentu žurnālā tiek saglabāti šādi kases ieņēmumu dokumenti:</P>
-<P>&nbsp;</P>
-<P><A href="/help/?ssw=33&amp;skf_id=474">Kasē atgriezts avanss</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=350">Kases ieņēmumu orderis</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=475">Naudas izņemšana no bankas konta</A></P>
-<P>&nbsp;</P>
-<P>Lai atlasītu dokumentus Kases ieņēmumu žurnālā, jāizmanto datu atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.</P>
-<P>Datu atlases kritērijus var saglabāt (<IMG src="/help/Skin/help/img.aspx?pid=24938" border=0>). Izvēloties izveidoto filtra sagatavi (<IMG src="/help/Skin/help/img.aspx?pid=24943" border=0>), filtrs tiek automatizēti aizpildīts no filtra sagataves.</P> 
+.. 227 ==================Kases ieņēmumi================== 
+
+
+Kasesieņēmumu dokumentu žurnālā tiek saglabāti šādi kases ieņēmumu
+dokumenti:
+
+
+
+`Kasē atgriezts avanss`_
+
+`Kases ieņēmumu orderis`_
+
+`Naudas izņemšana no bankas konta`_
+
+
+
+Lai atlasītu dokumentus Kases ieņēmumu žurnālā, jāizmanto datu atlases
+filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu
+atlases kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai
+ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās
+izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek
+izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura
+aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( ). Izvēloties izveidoto filtra
+sagatavi ( ), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+
+ 

@@ -1,8 +1,22 @@
-.. 7320 ==============Repertuārs============== <P>Repertuāra atskaitē ir redzami visi konkrētā periodā pievienotie <A href="/help/?ssw=73&amp;skf_id=7303">pasākumi</A>. Atskaiti iespējams sagatavot pēc pasākuma veida, <A href="http://www.its2.lv/LNO/Default.aspx?id=5000&amp;c_id=7315">telpas</A> un perioda:</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26181" border=0></P>
-<P>&nbsp;</P>
-<P>Sagatavoto atskaiti iespējams izdrukāt, izvēloties Saraksta funkciju Izdrukāt:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26173" border=0></P>
-<P>&nbsp;</P>
-<P>No repertuāra atskaites, aktivzējot repertuāra nosaukumu, iespējams atvērt <A href="/help/?ssw=73&amp;skf_id=7308">notikuma aprakstu</A>.</P> 
+.. 7320 ==============Repertuārs============== 
+Repertuāra atskaitē ir redzami visi konkrētā periodā pievienotie
+`pasākumi`_. Atskaiti iespējams sagatavot pēc pasākuma veida,
+`telpas`_ un perioda:
+
+
+
+
+
+Sagatavoto atskaiti iespējams izdrukāt, izvēloties Saraksta funkciju
+Izdrukāt:
+
+
+
+
+
+
+
+No repertuāra atskaites, aktivzējot repertuāra nosaukumu, iespējams
+atvērt `notikuma aprakstu`_.
+
+ 

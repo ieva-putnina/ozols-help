@@ -1,22 +1,72 @@
-.. 593 ==================================Atvaļinājuma rezerves aprēķins================================== <P>&nbsp;</P>
-<P>Atskaite parāda uzkrājumu neizmantotajam atvaļinājumam katram strādājošajam dienu un summu veidā.</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>1. Lai atskaite tiktu sagatavota pareizi, programmā jāveic precīza atvaļinājumu datu uzskaite. Uzsākot darbu ar programmu strādājošā <A href="/help/?ssw=33&amp;skf_id=207">Slodzei</A>&nbsp;norāda neizmantoto atvaļinājumu dienu skaitu uz konkrētu datumu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26199" border=0></P>
-<P>&nbsp;</P>
-<P>2. Programmā jābūt uzkrātiem datiem par nepieciešamajiem iepriekšējiem periodiem vidējās izpeļņas aprēķināšanai, <A href="/help/?ssw=33&amp;skf_id=207">Slodzes aprakstā</A>&nbsp;jābūt noteiktam <A href="/help/?ssw=33&amp;skf_id=284">Atvaļinājumu kalendāram</A>&nbsp;un tajā – atvaļinājumu dienu skaitam:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26200" border=0></P>
-<P>&nbsp;</P>
-<P>Piemēram, ja slodzei norādīts&nbsp;Atvalīn.kalendārs - 20 darba dienas, tas nozīmē, ka&nbsp;par katru pilnu nostrādāto mēnesi&nbsp;šim darbiniekam pienākas 1.67 atvaļinājuma diena (20 atvaļinājumā darba dienas gadā / 12 mēnešiem&nbsp;~ 1.67 atv.dienas par pilnu nostrādāto mēnesi).&nbsp;</P>
-<P><BR><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Sagatavojot atskaiti, tajā tiek iekļautas visas datu atlases filtram atbilstošās slodzes. Sagatavojot atskaiti, atskaitē tiek uzrādīti šādi dati:</P>
-<P>&nbsp;</P>
-<P><STRONG>Dien.alga</STRONG> - Strādājošā vidējā dienas izpeļņa uz filtrā atlasīto periodu;</P>
-<P><STRONG>Dien.atl.p.s.</STRONG> - Uzkrātais atvaļinājuma dienu atlikums perioda sākumā - filtra iestādījumos norādītajam periodam "Periods no...";</P>
-<P><STRONG>Summa p.s.</STRONG> - Uzkrātā atvaļinājuma summa perioda sākumā (vid.izpeļņa*uzkrāto atv.dienu skaits);</P>
-<P><STRONG>Per.pien.atv.d.</STRONG> - Strādājošam pienākošās atvaļinājuma dienas par atskaites filtrā atlasīto periodu;</P>
-<P><STRONG>Per.pien.apgr.</STRONG> - Perioda dienu skaita un izpeļņas summas apgrozījums, kas veidojas no strādājošam pienākošajām atvaļinājuma dienām par atskaites filtrā atlasīto periodu, reizināta ar vidējo dienas izpeļņu atbilstošajā periodā;</P>
-<P><STRONG>Per.izt.atv.d.</STRONG> - Filtrā atlasītā periodā iztērētās atvaļinājuma dienas - informācija tiek ņemta no Algu aprēķinā ielādētās informācijas no strādājošā slodzes kalendāra - Pievienotā <A href="/help/?ssw=33&amp;skf_id=209">Rīkojuma</A> par "Ikgadējo atvaļinājumu";</P>
-<P><STRONG>Per.izt.apgr.</STRONG> - Perioda iztērēto atvaļinājuma dienu skaita un izpeļņas summas apgrozījums - izmaksātā atvaļinājuma nauda atlasītajā periodā;</P>
-<P><STRONG>Dien.atl.p.b.</STRONG> - Uzkrātās atvaļinājuma dienu atlikums uz perioda beigām - uz filtra iestādījumos norādītajam periodam "Periods ...līdz".</P>
-<P><STRONG>Summa p.b.</STRONG> - Uzkrātā atvaļinājuma summa perioda&nbsp;beigās (vid.izpeļņa*uzkrāto atv.dienu skaits);</P> 
+.. 593 ==================================Atvaļinājuma rezerves aprēķins================================== 
+
+
+Atskaite parāda uzkrājumu neizmantotajam atvaļinājumam katram
+strādājošajam dienu un summu veidā.
+
+1. Lai atskaite tiktu sagatavota pareizi, programmā jāveic precīza
+atvaļinājumu datu uzskaite. Uzsākot darbu ar programmu strādājošā
+`Slodzei`_norāda neizmantoto atvaļinājumu dienu skaitu uz konkrētu
+datumu:
+
+
+
+
+
+
+
+2. Programmā jābūt uzkrātiem datiem par nepieciešamajiem iepriekšējiem
+periodiem vidējās izpeļņas aprēķināšanai, `Slodzes aprakstā`_jābūt
+noteiktam `Atvaļinājumu kalendāram`_un tajā – atvaļinājumu dienu
+skaitam:
+
+
+
+
+
+
+
+Piemēram, ja slodzei norādītsAtvalīn.kalendārs - 20 darba dienas, tas
+nozīmē, kapar katru pilnu nostrādāto mēnesišim darbiniekam pienākas
+1.67 atvaļinājuma diena (20 atvaļinājumā darba dienas gadā / 12
+mēnešiem~ 1.67 atv.dienas par pilnu nostrādāto mēnesi).
+
+
+Sagatavojot atskaiti, tajā tiek iekļautas visas datu atlases filtram
+atbilstošās slodzes. Sagatavojot atskaiti, atskaitē tiek uzrādīti šādi
+dati:
+
+
+
+Dien.alga - Strādājošā vidējā dienas izpeļņa uz filtrā atlasīto
+periodu;
+
+Dien.atl.p.s. - Uzkrātais atvaļinājuma dienu atlikums perioda sākumā -
+filtra iestādījumos norādītajam periodam "Periods no...";
+
+Summa p.s. - Uzkrātā atvaļinājuma summa perioda sākumā
+(vid.izpeļņa*uzkrāto atv.dienu skaits);
+
+Per.pien.atv.d. - Strādājošam pienākošās atvaļinājuma dienas par
+atskaites filtrā atlasīto periodu;
+
+Per.pien.apgr. - Perioda dienu skaita un izpeļņas summas apgrozījums,
+kas veidojas no strādājošam pienākošajām atvaļinājuma dienām par
+atskaites filtrā atlasīto periodu, reizināta ar vidējo dienas izpeļņu
+atbilstošajā periodā;
+
+Per.izt.atv.d. - Filtrā atlasītā periodā iztērētās atvaļinājuma dienas
+- informācija tiek ņemta no Algu aprēķinā ielādētās informācijas no
+strādājošā slodzes kalendāra - Pievienotā `Rīkojuma`_ par "Ikgadējo
+atvaļinājumu";
+
+Per.izt.apgr. - Perioda iztērēto atvaļinājuma dienu skaita un izpeļņas
+summas apgrozījums - izmaksātā atvaļinājuma nauda atlasītajā periodā;
+
+Dien.atl.p.b. - Uzkrātās atvaļinājuma dienu atlikums uz perioda beigām
+- uz filtra iestādījumos norādītajam periodam "Periods ...līdz".
+
+Summa p.b. - Uzkrātā atvaļinājuma summa periodabeigās
+(vid.izpeļņa*uzkrāto atv.dienu skaits);
+
+ 

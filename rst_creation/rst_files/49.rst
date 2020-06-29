@@ -1,14 +1,30 @@
-.. 49 ===============Virsgrāmata=============== <p>&nbsp;</p>
-<p>Virsgrāmata ir galvenā grāmatvedības sistēmas OZOLS finanšu uzskaites sastāvdaļa. Ar programmas palīdzību tiek uzturēti būtiskākie grāmatvedības sistēmas OZOLS saraksti - <a href="/help/?ssw=33&amp;skf_id=114">Kontu plāns</a>, dimensijas, <a href="/help/?ssw=33&amp;skf_id=146">Kontu atlikumi</a>&nbsp;finanšu gada sākumā, finanšu plāni. Tajā pieejami visi sistēmas grāmatojumu dati, kurus izmanto kontējumu atskaišu sagatavošanai. Ar Virsgrāmatas palīdzību var ievadīt manuālos grāmatojumus (bez pirmdokumentiem), kā arī sagatavot grāmatvedības atskaites. </p>
-<h5>Virsgrāmata nodrošina:</h5>
-<ul>
-<li>Datu uzskaites dimensiju lietošanas noteikšanu 
-</li><li>Kontu iestādīšanu automatizētai dokumentu grāmatošanai 
-</li><li>Analītiskās uzskaites lietošanas iestādīšanu kontos 
-</li><li>Kontu atlikumu ievadi 
-</li><li>Ieņēmumu un izdevumu&nbsp;kontroli pa finanšu kategorijām un projektiem 
-</li><li>Valūtas kursu&nbsp;svārstību aprēķinu 
-</li><li>Grāmatojumu periodu veidošanu 
-</li><li>Automatizētu kontu slēgšanas grāmatojumu izveidošanu 
-</li><li>Bilanču konsolidāciju 
-</li><li>Atskaišu sagatavošanu</li></ul> .. toctree::   :maxdepth: 6    51.rst   24.rst   849.rst   86.rst   14.rst
+.. 49 ===============Virsgrāmata=============== 
+
+
+Virsgrāmata ir galvenā grāmatvedības sistēmas OZOLS finanšu uzskaites
+sastāvdaļa. Ar programmas palīdzību tiek uzturēti būtiskākie
+grāmatvedības sistēmas OZOLS saraksti - `Kontu plāns`_, dimensijas,
+`Kontu atlikumi`_finanšu gada sākumā, finanšu plāni. Tajā pieejami
+visi sistēmas grāmatojumu dati, kurus izmanto kontējumu atskaišu
+sagatavošanai. Ar Virsgrāmatas palīdzību var ievadīt manuālos
+grāmatojumus (bez pirmdokumentiem), kā arī sagatavot grāmatvedības
+atskaites.
+
+
+Virsgrāmata nodrošina:
+++++++++++++++++++++++
+
+
++ Datu uzskaites dimensiju lietošanas noteikšanu
++ Kontu iestādīšanu automatizētai dokumentu grāmatošanai
++ Analītiskās uzskaites lietošanas iestādīšanu kontos
++ Kontu atlikumu ievadi
++ Ieņēmumu un izdevumukontroli pa finanšu kategorijām un projektiem
++ Valūtas kursusvārstību aprēķinu
++ Grāmatojumu periodu veidošanu
++ Automatizētu kontu slēgšanas grāmatojumu izveidošanu
++ Bilanču konsolidāciju
++ Atskaišu sagatavošanu
+
+
+ .. toctree::   :maxdepth: 6    51.rst   24.rst   849.rst   86.rst   14.rst

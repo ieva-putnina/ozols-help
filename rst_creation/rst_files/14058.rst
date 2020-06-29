@@ -1,160 +1,179 @@
-.. 14058 ========================================Konta norādīšana grāmatojuma šablonā======================================== <p><font style="BACKGROUND-COLOR: #ffffff"></font>&nbsp;</p>
-<p>Grāmatojuma šablonā laukā <strong>Konts </strong>iespējams norādīt konkrētu izvēlētu kontu no konta plāna vai noklusēto konta vērtību:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25125" border="0"></p>
-<p>&nbsp;</p>
-<p>Lauka <strong>Konts</strong> vērtības var būt dažādas, atkarīgs no izvēlētā darba režīma: </p>
-<p>&nbsp;</p>
-<p>
-<p></p><table border="0" cellpadding="0" cellspacing="2" width="100%">
-<tbody>
-<tr>
-<th width="100">Konta vērtība</th>
-<th width="200">Darba režīma nosaukums, kur konta vērtību iespējams izmantot</th>
-<th width="120">Paskaidrojums</th></tr>
-<tr>
-<td width="100">Bankas</td>
-<td width="200">
-<ul>
-<li>Algu izmaksu saraksti 
-</li><li>Bankā izmaksāts avanss 
-</li><li>Bankas komisija 
-</li><li>Ieejošais maksājums</li></ul></td>
-<td>Grāmatojumā tiks ielikts bankas konts, no pirmdokumentā norādītā bankas konta apraksta. Bankas kontam grāmatvedības konts tiek norādīts <a href="/help/?ssw=33&amp;skf_id=141">Bankas konta aprakstā</a>. </td></tr>
-<tr>
-<td width="100">Kases</td>
-<td width="200">
-<ul>
-<li><span style="FONT-SIZE: 8.5pt; FONT-FAMILY: Verdana; mso-fareast-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-ansi-language: LV; mso-fareast-language: LV; mso-bidi-language: AR-SA">Kasē izmaksāts avanss</span> 
-</li><li><span style="FONT-SIZE: 8.5pt; FONT-FAMILY: Verdana; mso-fareast-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-ansi-language: LV; mso-fareast-language: LV; mso-bidi-language: AR-SA">Kases ieņēmumu orderis</span> 
-</li><li><span style="FONT-SIZE: 8.5pt; FONT-FAMILY: Verdana; mso-fareast-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-ansi-language: LV; mso-fareast-language: LV; mso-bidi-language: AR-SA">Kases izdevumu orderis</span></li></ul></td>
-<td>Grāmatojumā tiks ielikts kases konts, no pirmdokumentā norādītā kases konta apraksta. Kases konta grāmatvedības konts tiek norādīts <a href="/help/?ssw=33&amp;skf_id=123">Kases konta aprakstā</a>.</td></tr>
-<tr>
-<td width="100">Avansu norēķinu</td>
-<td width="200">
-<ul>
-<li>Bankā izmaksāts avanss 
-</li><li>Kasē izmaksāts avanss</li></ul></td>
-<td>Grāmatojumā tiks ielikts&nbsp;avansu norēķinu personas&nbsp;konts no <a href="/help/?ssw=33&amp;skf_id=707">Grāmatojumu iestādījumiem</a>, vai <a href="/help/?ssw=33&amp;skf_id=112">Partnera apraksta</a>, ja Partnera aprakstā norādīts cits konts, kas atšķiras no kopīgos iestādījumos norādītā. </td></tr>
-<tr>
-<td width="100">Fin.kat.</td>
-<td width="200">
-<ul>
-<li>Avansa izdevums&nbsp;&nbsp; 
-</li><li>Bankā izmaksāts avanss&nbsp; 
-</li><li>Bankas komisija&nbsp; 
-</li><li>Ieejošais maksājums&nbsp;&nbsp; 
-</li><li>Iepirkuma dokuments 
-</li><li>Kasē izmaksāts avanss&nbsp; 
-</li><li>Kases ieņēmumu orderis 
-</li><li>Kases izdevumu orderis&nbsp;&nbsp; 
-</li><li>Maksājuma uzdevums 
-</li><li>Naudas pārsūtīšana 
-</li><li>Pārdošanas dokumenti</li></ul></td>
-<td>Konts grāmatojumā tiks ielikts no finanšu kategorijai (EK kodam) piesaistītā konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir “Saturs”. <a href="/help/?ssw=33&amp;skf_id=116">Finanšu kategorijām</a> ieņēmumu un izdevumu konti tiek norādīti to aprakstos.</td></tr>
-<tr>
-<td width="100">Piegādātāja</td>
-<td width="200">
-<ul>
-<li>Pamatlīdzekļu ienākšana 
-</li><li>Maksājuma uzdevums 
-</li><li>Kases izdevumu orderis 
-</li><li>Iepirkuma dokuments 
-</li><li>Bankas komisija </li></ul></td>
-<td>Grāmatojumā tiks ielikts piegādātāja konts no <a href="/help/?ssw=33&amp;skf_id=707">Grāmatojumu iestādījumiem</a>, vai <a href="/help/?ssw=33&amp;skf_id=112">Partnera apraksta</a>, ja Partnera aprakstā norādīts cits konts, kas atšķiras no kopīgos iestādījumos norādītā. </td></tr>
-<tr>
-<td width="100">Pircējs</td>
-<td width="200">
-<ul>
-<li>Pārdošanas dokumenti 
-</li><li>Ieejošais maksājums&nbsp;&nbsp; 
-</li><li>Kases ieņēmumu orderis</li></ul></td>
-<td>Grāmatojumā tiks ielikts pircēja konts no <a href="/help/?ssw=33&amp;skf_id=707">Grāmatojumu iestādījumiem</a>, vai <a href="/help/?ssw=33&amp;skf_id=112">Partnera apraksta</a>, ja Partnera aprakstā norādīts cits konts, kas atšķiras no kopīgos iestādījumos norādītā. </td></tr>
-<tr>
-<td width="100">Personas</td>
-<td width="200">
-<ul>
-<li>Avansa izdevums&nbsp;&nbsp; </li></ul></td>
-<td>Grāmatojumā tiks ielikts&nbsp;avansu norēķinu personas&nbsp;konts no <a href="/help/?ssw=33&amp;skf_id=707">Grāmatojumu iestādījumiem</a>, vai <a href="/help/?ssw=33&amp;skf_id=112">Partnera apraksta</a>, ja Partnera aprakstā norādīts cits konts, kas atšķiras no kopīgos iestādījumos norādītā. </td></tr>
-<tr>
-<td width="100">Rezultāta Cr</td>
-<td width="200">
-<ul>
-<li>Algu pirmdokumenta grāmatojums&nbsp;&nbsp; </li></ul></td>
-<td>Grāmatojumā tiks ielikts algu aprēķina rezultējošā koda kredīta konts, no algu rezultējošā koda apraksta. Algu rezultējošam kodam grāmatvedības konts tiek norādīts <a href="/help/?ssw=33&amp;skf_id=283">Rezultējošā koda aprakstā</a>.</td></tr>
-<tr>
-<td width="100">Rezultāta Db</td>
-<td width="200">
-<ul>
-<li>Algu pirmdokumenta grāmatojums&nbsp;&nbsp; </li></ul></td>
-<td>Grāmatojumā tiks ielikts algu aprēķina rezultējošā koda&nbsp;debeta konts, no algu rezultējošā koda apraksta. Algu rezultējošam kodam grāmatvedības konts tiek norādīts <a href="/help/?ssw=33&amp;skf_id=283">Rezultējošā koda aprakstā</a>.</td></tr>
-<tr>
-<td width="100">Grupas ieņ.</td>
-<td width="200">
-<ul>
-<li>Ražošana 
-</li><li>Pārdošanas dokumenti 
-</li><li>Nomenklaltūras pārsūtīšana</li></ul></td>
-<td>Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētās nomenklatūras/pakalpojuma grupas&nbsp;<a href="/help/?ssw=33&amp;skf_id=148">Grupas aprakstā</a>&nbsp;piesaistītā ieņēmuma konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir “Saturs”. </td></tr>
-<tr>
-<td width="100">Grupas izdev.</td>
-<td width="200">
-<ul>
-<li>Iepirkuma dokuments 
-</li><li>Nomenklatūras norakstīšana 
-</li><li>Nomenklaltūras pārsūtīšana 
-</li><li>Ražošana</li></ul></td>
-<td>Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētās nomenklatūras/pakalpojuma grupas&nbsp;<a href="/help/?ssw=33&amp;skf_id=148">Grupas aprakstā</a>&nbsp;piesaistītā izdevuma konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir “Saturs”. </td></tr>
-<tr>
-<td width="100">Grupas uzsk.</td>
-<td width="200">
-<ul>
-<li>Iepirkuma dokuments 
-</li><li>Nomenklatūras norakstīšana 
-</li><li>Nomenklaltūras pārsūtīšana 
-</li><li>Pārdošanas dokumenti 
-</li><li>Ražošana</li></ul></td>
-<td>Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētās nomenklatūras/pakalpojuma grupas&nbsp;<a href="/help/?ssw=33&amp;skf_id=148">Grupas aprakstā</a>&nbsp;piesaistītā&nbsp;uzskaites konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir “Saturs”. </td></tr>
-<tr>
-<td width="100">Nolietojuma</td>
-<td width="200">
-<ul>
-<li>Pamatlīdzekļu nolietojums 
-</li><li>Pamatlīdzekļu norakstīšana</li></ul></td>
-<td>Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētā Pamatlīdzekļa, tam piesaistītas <a href="/help/?ssw=33&amp;skf_id=129">Pamatlīdzekļu kategorijas</a>&nbsp;nolietojuma konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir “Saturs”. </td></tr>
-<tr>
-<td width="100">Pl.noliet.izd.k&nbsp;&nbsp;&nbsp;</td>
-<td width="200">
-<ul>
-<li>Pamatlīdzekļu norakstīšana 
-</li><li>Pamatlīdzekļu nolietojums</li></ul></td>
-<td>Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētā Pamatlīdzekļa, tam piesaistītas <a href="/help/?ssw=33&amp;skf_id=129">Pamatlīdzekļu kategorijas</a>&nbsp;nolietojuma izdevumu&nbsp;konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir “Saturs”. </td></tr>
-<tr>
-<td width="100">Pl.uzsk.konts</td>
-<td width="200">
-<ul>
-<li>Pamatlīdzekļu ienākšana 
-</li><li>Pamatlīdzekļu norakstīšana</li></ul></td>
-<td>Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētā Pamatlīdzekļa, tam piesaistītas <a href="/help/?ssw=33&amp;skf_id=129">Pamatlīdzekļu kategorijas</a>&nbsp;uzskaites konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir “Saturs”. </td></tr>
-<tr>
-<td width="100">Pārsūtīt no</td>
-<td width="200">
-<ul>
-<li>Naudas pārsūtīšana</li></ul></td>
-<td>Vērtību var norādīt naudas pārsūtīšanas dokumenta šablonā starp bankas kontiem. Bankas konts tiek ielikts grāmatojumā ,atbilstoši dokumentā norādītajam kontam, no kura nauda tiek sūtīta. Pārsūtīt no jāizvēlas grāmatojuma kredīta pusē.</td></tr>
-<tr>
-<td width="100">Pārsūtīt uz</td>
-<td width="200">
-<ul>
-<li>Naudas pārsūtīšana</li></ul></td>
-<td>Vērtību var norādīt naudas pārsūtīšanas dokumenta šablonā starp bankas kontiem. Bankas konts tiek ielikts grāmatojumā, atbilstoši dokumentā norādītajam kontam, uz kuru nauda tiek sūtīta. Pārsūtīt uz jāizvēlas grāmatojuma debeta pusē.</td></tr>
-<tr>
-<td width="100">Nav</td>
-<td width="200">
-<ul>
-<li>Visi darba režīmi</li></ul></td>
-<td>Ja lauku atstāj tukšu, konts grāmatojumā netiks ielikts. Šādi var rīkoties, ja grāmatošanas procesā grāmatvedis pats izvēlas kontu.</td></tr>
-<tr>
-<td></td></tr>
-<tr></tr></tbody>
-</table></p> 
+.. 14058 ========================================Konta norādīšana grāmatojuma šablonā======================================== 
+
+
+Grāmatojuma šablonā laukā Konts iespējams norādīt konkrētu izvēlētu
+kontu no konta plāna vai noklusēto konta vērtību:
+
+
+
+
+
+
+
+Lauka Konts vērtības var būt dažādas, atkarīgs no izvēlētā darba
+režīma:
+
+
+
+
+
+Konta vērtība Darba režīma nosaukums, kur konta vērtību iespējams
+izmantot Paskaidrojums Bankas
+
++ Algu izmaksu saraksti
++ Bankā izmaksāts avanss
++ Bankas komisija
++ Ieejošais maksājums
+
+Grāmatojumā tiks ielikts bankas konts, no pirmdokumentā norādītā
+bankas konta apraksta. Bankas kontam grāmatvedības konts tiek norādīts
+`Bankas konta aprakstā`_. Kases
+
++ Kasē izmaksāts avanss
++ Kases ieņēmumu orderis
++ Kases izdevumu orderis
+
+Grāmatojumā tiks ielikts kases konts, no pirmdokumentā norādītā kases
+konta apraksta. Kases konta grāmatvedības konts tiek norādīts `Kases
+konta aprakstā`_. Avansu norēķinu
+
++ Bankā izmaksāts avanss
++ Kasē izmaksāts avanss
+
+Grāmatojumā tiks ieliktsavansu norēķinu personaskonts no `Grāmatojumu
+iestādījumiem`_, vai `Partnera apraksta`_, ja Partnera aprakstā
+norādīts cits konts, kas atšķiras no kopīgos iestādījumos norādītā.
+Fin.kat.
+
++ Avansa izdevums
++ Bankā izmaksāts avanss
++ Bankas komisija
++ Ieejošais maksājums
++ Iepirkuma dokuments
++ Kasē izmaksāts avanss
++ Kases ieņēmumu orderis
++ Kases izdevumu orderis
++ Maksājuma uzdevums
++ Naudas pārsūtīšana
++ Pārdošanas dokumenti
+
+Konts grāmatojumā tiks ielikts no finanšu kategorijai (EK kodam)
+piesaistītā konta. Šī izvēle ir pieejama tikai tad, ja šablona
+ieraksta veids ir “Saturs”. `Finanšu kategorijām`_ ieņēmumu un
+izdevumu konti tiek norādīti to aprakstos. Piegādātāja
+
++ Pamatlīdzekļu ienākšana
++ Maksājuma uzdevums
++ Kases izdevumu orderis
++ Iepirkuma dokuments
++ Bankas komisija
+
+Grāmatojumā tiks ielikts piegādātāja konts no `Grāmatojumu
+iestādījumiem`_, vai `Partnera apraksta`_, ja Partnera aprakstā
+norādīts cits konts, kas atšķiras no kopīgos iestādījumos norādītā.
+Pircējs
+
++ Pārdošanas dokumenti
++ Ieejošais maksājums
++ Kases ieņēmumu orderis
+
+Grāmatojumā tiks ielikts pircēja konts no `Grāmatojumu
+iestādījumiem`_, vai `Partnera apraksta`_, ja Partnera aprakstā
+norādīts cits konts, kas atšķiras no kopīgos iestādījumos norādītā.
+Personas
+
++ Avansa izdevums
+
+Grāmatojumā tiks ieliktsavansu norēķinu personaskonts no `Grāmatojumu
+iestādījumiem`_, vai `Partnera apraksta`_, ja Partnera aprakstā
+norādīts cits konts, kas atšķiras no kopīgos iestādījumos norādītā.
+Rezultāta Cr
+
++ Algu pirmdokumenta grāmatojums
+
+Grāmatojumā tiks ielikts algu aprēķina rezultējošā koda kredīta konts,
+no algu rezultējošā koda apraksta. Algu rezultējošam kodam
+grāmatvedības konts tiek norādīts `Rezultējošā koda aprakstā`_.
+Rezultāta Db
+
++ Algu pirmdokumenta grāmatojums
+
+Grāmatojumā tiks ielikts algu aprēķina rezultējošā kodadebeta konts,
+no algu rezultējošā koda apraksta. Algu rezultējošam kodam
+grāmatvedības konts tiek norādīts `Rezultējošā koda aprakstā`_. Grupas
+ieņ.
+
++ Ražošana
++ Pārdošanas dokumenti
++ Nomenklaltūras pārsūtīšana
+
+Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētās
+nomenklatūras/pakalpojuma grupas`Grupas aprakstā`_piesaistītā ieņēmuma
+konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir
+“Saturs”. Grupas izdev.
+
++ Iepirkuma dokuments
++ Nomenklatūras norakstīšana
++ Nomenklaltūras pārsūtīšana
++ Ražošana
+
+Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētās
+nomenklatūras/pakalpojuma grupas`Grupas aprakstā`_piesaistītā izdevuma
+konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir
+“Saturs”. Grupas uzsk.
+
++ Iepirkuma dokuments
++ Nomenklatūras norakstīšana
++ Nomenklaltūras pārsūtīšana
++ Pārdošanas dokumenti
++ Ražošana
+
+Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētās
+nomenklatūras/pakalpojuma grupas`Grupas aprakstā`_piesaistītāuzskaites
+konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir
+“Saturs”. Nolietojuma
+
++ Pamatlīdzekļu nolietojums
++ Pamatlīdzekļu norakstīšana
+
+Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētā
+Pamatlīdzekļa, tam piesaistītas `Pamatlīdzekļu
+kategorijas`_nolietojuma konta. Šī izvēle ir pieejama tikai tad, ja
+šablona ieraksta veids ir “Saturs”. Pl.noliet.izd.k
+
++ Pamatlīdzekļu norakstīšana
++ Pamatlīdzekļu nolietojums
+
+Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētā
+Pamatlīdzekļa, tam piesaistītas `Pamatlīdzekļu
+kategorijas`_nolietojuma izdevumukonta. Šī izvēle ir pieejama tikai
+tad, ja šablona ieraksta veids ir “Saturs”. Pl.uzsk.konts
+
++ Pamatlīdzekļu ienākšana
++ Pamatlīdzekļu norakstīšana
+
+Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētā
+Pamatlīdzekļa, tam piesaistītas `Pamatlīdzekļu kategorijas`_uzskaites
+konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir
+“Saturs”. Pārsūtīt no
+
++ Naudas pārsūtīšana
+
+Vērtību var norādīt naudas pārsūtīšanas dokumenta šablonā starp bankas
+kontiem. Bankas konts tiek ielikts grāmatojumā ,atbilstoši dokumentā
+norādītajam kontam, no kura nauda tiek sūtīta. Pārsūtīt no jāizvēlas
+grāmatojuma kredīta pusē. Pārsūtīt uz
+
++ Naudas pārsūtīšana
+
+Vērtību var norādīt naudas pārsūtīšanas dokumenta šablonā starp bankas
+kontiem. Bankas konts tiek ielikts grāmatojumā, atbilstoši dokumentā
+norādītajam kontam, uz kuru nauda tiek sūtīta. Pārsūtīt uz jāizvēlas
+grāmatojuma debeta pusē. Nav
+
++ Visi darba režīmi
+
+Ja lauku atstāj tukšu, konts grāmatojumā netiks ielikts. Šādi var
+rīkoties, ja grāmatošanas procesā grāmatvedis pats izvēlas kontu.
+
+ 

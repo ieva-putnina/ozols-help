@@ -1,17 +1,48 @@
-.. 874 ================Atgādinātāji================ <P>&nbsp;</P>
-<P>Atgādinātāju žurnālā&nbsp;tiek saglabāti visi sagatavotie <A href="/help/?ssw=33&amp;skf_id=875">Atgādinājumu ieraksti</A>.&nbsp; </P>
-<P>&nbsp;</P>
-<P>Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.</P>
-<P>Datu atlases kritērijus var saglabāt (<IMG src="/help/Skin/help/img.aspx?pid=24938" border=0>). Izvēloties izveidoto filtra sagatavi (<IMG src="/help/Skin/help/img.aspx?pid=24943" border=0>), filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=24535" border=0>(Ctrl+F), tiek atvērts filtra logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25943" border=0></P>
-<P>&nbsp;</P>
-<P>Datus iespējams atlasīt pēc:</P>
-<P>&nbsp;</P>
-<P><STRONG>Atgādinātājs</STRONG>: Termiņa, kad beigsies ievadītā aktivitātes termiņš</P>
-<P><STRONG>Datums</STRONG>: Atgādinājuma pievienošanas datuma</P>
-<P><STRONG>Darba</STRONG> režīms: Darba režīma, kuram šis atgādinājums ir pievienots (ar ko atgādinātājs sasaistīts)</P>
-<P><STRONG>Persona</STRONG>: Atgādinājuma adresāts</P>
-<P><STRONG>Statuss</STRONG>: Pievienotā atgādinājuma statuss - vai atgādinājums ir Pabeigts vai Nepabeigts</P>
-<P>&nbsp;</P>
-<P>Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases kritērijiem,&nbsp;pēc filtra iestādījumu aizpildīšanas,&nbsp;jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25944" border=0>.</P> 
+.. 874 ================Atgādinātāji================ 
+
+
+Atgādinātāju žurnālātiek saglabāti visi sagatavotie `Atgādinājumu
+ieraksti`_.
+
+
+
+Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
+tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
+ekrāna formā. Filtru var uzlikt, lai ierobežotu kādu datu parādīšanu
+uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk sameklētu
+nepieciešamos datus. Filtrs tiek izmantots arī atskaišu sagatavošanā
+un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( ). Izvēloties izveidoto filtra
+sagatavi ( ), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā
+jānospiež poga (Ctrl+F), tiek atvērts filtra logs:
+
+
+
+
+
+
+
+Datus iespējams atlasīt pēc:
+
+
+
+Atgādinātājs : Termiņa, kad beigsies ievadītā aktivitātes termiņš
+
+Datums : Atgādinājuma pievienošanas datuma
+
+Darba režīms: Darba režīma, kuram šis atgādinājums ir pievienots (ar
+ko atgādinātājs sasaistīts)
+
+Persona : Atgādinājuma adresāts
+
+Statuss : Pievienotā atgādinājuma statuss - vai atgādinājums ir
+Pabeigts vai Nepabeigts
+
+
+
+Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
+kritērijiem,pēc filtra iestādījumu aizpildīšanas,jānospiež poga .
+
+ 

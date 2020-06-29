@@ -1,3 +1,65 @@
-.. 852 =========Jauns========= <p><br></p><p>Lai pievienotu jaunu plānu, vispirms nepieciešams nodefinēt <a href="?ssw=33&amp;skf_id=156">Plāna periodu</a>.</p><p>Pēc
- Plāna perioda nodefinēšanas, iespējams ievadīt budžeta plāna ierakstus 
-attiecīgajam plāna periodam, aizpildot nepieciešamos laukus:</p><p><br></p><p><img src="Skin/help/img.aspx?pid=26467" border="0"></p><p><br></p><p><b>Stājas spēkā:</b> nepieciešams norādīt datumu, no kura šis ieraksts stājas spēkā budžeta plāna izpildes atskaitē;<br></p><p><b>Algoritms:</b> iespēja norādīt, vai atbilstošai ieraksts tāmē būs attiecināms uz ieņēmumu vai izdevumu plānu;<br></p><p><b>Periods:</b> nepieciešams norādīt vēlamo plāna periodu, uz kuru tāme tiek gatavota;<br></p><p><b>Konts:</b> jānorāda grāmatvediskais konts, uz kuru ieņēmumi vai izdevumi tāmē tiek plānoti (var būt arī augstākā konta grupa);</p><p><b>EKK:</b> jānorāda EK kods atbilstoši kuram ieņēmumu vai izdevumu tāmes ieraksts tiek veidots;<br></p><p><b>Struktūrv.:</b> vajadzības gadījumā plāna tāmes ierakstu iespējams plānot struktūrvienības līmenī;<br></p><p><b>VFK:</b> jānorāda VFK kods atbilstoši kuram ieņēmumu vai izdevumu tāmes ieraksts tiek veidots;<br></p><p><b>Budž.-Proj.</b>: jānorāda Budžets, uz kuru tāmes ieraksts tiek plānots<br></p><p><b>Līgums:</b> ja tiek izmantota līguma dimensija uzņēmumā, iespējama budžeta tāmes plāna ievade arī sadalījumā pa līgumiem;<br></p><p><b>Partneris</b>: iespēja detalizēt budžeta plāna tāmes ierakstu, sadalījumā pa partneriem<br></p><p><b>Budžets:</b> nepieciešams norādīt plānotā tāmes ieraksta budžeta summu</p><p>Lai ieraksts tiktu saglabāts budžeta plānas tāmē, nepieciešams nospiest pogu <img src="Skin/help/img.aspx?pid=25621" border="0">.</p><p><img src="Skin/help/img.aspx?pid=24545" border="0">Budžeta sarakstā netiks saglabāti ieraksti ar identiskām dimensiju kombinācijām.</p> .. toctree::   :maxdepth: 5    378.rst
+.. 852 =========Jauns========= 
+
+
+
+Lai pievienotu jaunu plānu, vispirms nepieciešams nodefinēt `Plāna
+periodu`_.
+
+Pēc Plāna perioda nodefinēšanas, iespējams ievadīt budžeta plāna
+ierakstus attiecīgajam plāna periodam, aizpildot nepieciešamos laukus:
+
+
+
+
+
+
+
+
+
+**Stājas spēkā:** nepieciešams norādīt datumu, no kura šis ieraksts
+stājas spēkā budžeta plāna izpildes atskaitē;
+
+
+**Algoritms:** iespēja norādīt, vai atbilstošai ieraksts tāmē būs
+attiecināms uz ieņēmumu vai izdevumu plānu;
+
+
+**Periods:** nepieciešams norādīt vēlamo plāna periodu, uz kuru tāme
+tiek gatavota;
+
+
+**Konts:** jānorāda grāmatvediskais konts, uz kuru ieņēmumi vai
+izdevumi tāmē tiek plānoti (var būt arī augstākā konta grupa);
+
+**EKK:** jānorāda EK kods atbilstoši kuram ieņēmumu vai izdevumu tāmes
+ieraksts tiek veidots;
+
+
+**Struktūrv.:** vajadzības gadījumā plāna tāmes ierakstu iespējams
+plānot struktūrvienības līmenī;
+
+
+**VFK:** jānorāda VFK kods atbilstoši kuram ieņēmumu vai izdevumu
+tāmes ieraksts tiek veidots;
+
+
+**Budž.-Proj.**: jānorāda Budžets, uz kuru tāmes ieraksts tiek plānots
+
+
+**Līgums:** ja tiek izmantota līguma dimensija uzņēmumā, iespējama
+budžeta tāmes plāna ievade arī sadalījumā pa līgumiem;
+
+
+**Partneris**: iespēja detalizēt budžeta plāna tāmes ierakstu,
+sadalījumā pa partneriem
+
+
+**Budžets:** nepieciešams norādīt plānotā tāmes ieraksta budžeta summu
+
+Lai ieraksts tiktu saglabāts budžeta plānas tāmē, nepieciešams
+nospiest pogu .
+
+Budžeta sarakstā netiks saglabāti ieraksti ar identiskām dimensiju
+kombinācijām.
+
+ .. toctree::   :maxdepth: 5    378.rst

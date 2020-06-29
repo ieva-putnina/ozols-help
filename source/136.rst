@@ -1,10 +1,32 @@
-.. 136 ================================Kases paskaidrojumu saraksts================================ <P>&nbsp;</P>
-<P>Kases paskaidrojumu sarakstā tiek saglabāti biežāk izmantotie kases izdevumu un ieņēmumu pamatojumi. Paskaidrojumi tiek izmantoti kases dokumentu lauka Pamatojums aizpildīšanai.</P>
-<H5>Jauna&nbsp;Kases paskaidrojumu saraksta&nbsp;pievienošana:</H5>
-<P>Lai pievienotu jaunu&nbsp;Kases paskaidrojumu sarakstu,&nbsp;jānospiež poga&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24659" border=0></P>
-<P>Laukā Nosaukums, nepieciešams ierakstīt&nbsp;Kases paskaidrojuma nosaukumu. Ieraksts tiks saglabāts, izpildot komandu <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>.</P>
-<H5>Pievienotā&nbsp;Kases&nbsp;paskaidrojumu saraksta&nbsp;labošana:</H5>
-<P>Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>&nbsp;(ALT+A), un&nbsp;atvērtajā logā nomainīt Nosaukumu.</P>
-<P>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P> 
+.. 136 ================================Kases paskaidrojumu saraksts================================ 
+
+
+Kases paskaidrojumu sarakstā tiek saglabāti biežāk izmantotie kases
+izdevumu un ieņēmumu pamatojumi. Paskaidrojumi tiek izmantoti kases
+dokumentu lauka Pamatojums aizpildīšanai.
+
+
+JaunaKases paskaidrojumu sarakstapievienošana:
+++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai pievienotu jaunuKases paskaidrojumu sarakstu,jānospiež poga un
+tiks atvērts jauns logs:
+
+
+
+
+
+Laukā Nosaukums, nepieciešams ierakstītKases paskaidrojuma nosaukumu.
+Ieraksts tiks saglabāts, izpildot komandu .
+
+
+PievienotāKasespaskaidrojumu sarakstalabošana:
+++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
+atvērt, izmantojot rīku joslas pogu (ALT+A), unatvērtajā logā nomainīt
+Nosaukumu.
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+ 

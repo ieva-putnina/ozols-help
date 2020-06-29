@@ -1,2 +1,8 @@
-.. 7001 ============Saraksti============ <P>&nbsp;</P>
-<P>Dividenžu sarakstos nepieciešams pievienot uzņēmumā noteiktos <A href="/help/?ssw=70&amp;skf_id=7006">Akciju veidus</A> un nodefinēt&nbsp;<A href="/help/?ssw=70&amp;skf_id=7008">Koeficientus</A>&nbsp;noteiktam laika periodam, lai sekmīgi būtu iespējams veikt <A href="/help/?ssw=70&amp;skf_id=7011">Dividenžu aprēķinu</A>.</P> .. toctree::   :maxdepth: 5    7005.rst   7006.rst   7007.rst   7008.rst
+.. 7001 ============Saraksti============ 
+
+
+Dividenžu sarakstos nepieciešams pievienot uzņēmumā noteiktos `Akciju
+veidus`_ un nodefinēt`Koeficientus`_noteiktam laika periodam, lai
+sekmīgi būtu iespējams veikt `Dividenžu aprēķinu`_.
+
+ .. toctree::   :maxdepth: 5    7005.rst   7006.rst   7007.rst   7008.rst

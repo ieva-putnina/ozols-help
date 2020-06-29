@@ -1,13 +1,44 @@
-.. 14047 =======================Dokumenta anulēšana======================= <P>&nbsp;</P>
-<P align=justify>Anulēt dokumentu var no atvērtas dokumenta formas vai no dokumenta žurnāla, kur anulējamais dokuments ir atzīmēts ar kursoru. </P>
-<P align=justify>Anulētie dokumenti ir saglabāti datubāzē apskates režīmā un ir pieejami atjaunošanai.</P>
-<P align=justify>&nbsp;</P>
-<P align=justify>Lai anulētu dokumentu ir:</P>
-<P align=justify>1) jāatver dokuments no dokumentu žurnāla. (<STRONG>CtrL+A</STRONG>, komanda <IMG src="/help/Skin/help/img.aspx?pid=24705" border=0>&nbsp;no rīku joslas, nospiežot peles labo pogu un izvēloties komandu "Atvērt" vai komanda "Atvērt" no izvēlnes Dati)</P>
-<P align=justify>&nbsp;</P>
-<P align=justify>2) ja dokuments ir iegrāmatots,&nbsp;jāanulē grāmatojums. Ja grāmatojums ir arī apstiprināts, tad jānoņem apstiprinājums no grāmatojuma un tad jāanulē grāmatojums&nbsp;Atvērto grāmatojumu anulē, izmantojot komandu <IMG src="/help/Skin/help/img.aspx?pid=24717" border=0>&nbsp;no rīku joslas, komandu "Anulēt" no izvēlnes Dati vai nospiežot peles labo pogu un izvēloties komandu "Anulēt". Anulēts grāmatojums tiek saglabāts grāmatojumu žurnālā un nepieciešamības gadījumā šādu grāmatojumu ir iespējams atjaunot.</P>
-<P align=justify>3)&nbsp;pēc grāmatojuma anulēšanas ir jānoņem apstiprinājums&nbsp; no paša pirmdokumenta&nbsp;(<STRONG>CtrL+R; </STRONG>komanda <IMG src="/help/Skin/help/img.aspx?pid=24715" border=0>&nbsp;no rīku joslas; komanda "Apstiprināt" no izvēlnes Dati, vai nospiežot peles labo pogu izvēloties komandu "Apstiprināt"). Dokumenta apstiprināšana un apstiprinājuma noņemša tiek veikta ar vienām un tām pašām komandām. </P>
-<P align=justify>&nbsp;</P>
-<P align=justify>4)<STRONG> jāanulē dokuments</STRONG> (izmantojot komandu <IMG src="/help/Skin/help/img.aspx?pid=24717" border=0>&nbsp;no rīku joslas, komandu "Anulēt" no izvēlnes Dati vai nospiežot peles labo pogu un izvēloties komandu "Anulēt".)</P>
-<P align=justify>&nbsp;</P>
-<P align=justify>Lai anulēto dokumentu atjaunotu ir jālieto vēlreiz komanda "Anulēt"</P> 
+.. 14047 =======================Dokumenta anulēšana======================= 
+
+
+Anulēt dokumentu var no atvērtas dokumenta formas vai no dokumenta
+žurnāla, kur anulējamais dokuments ir atzīmēts ar kursoru.
+
+Anulētie dokumenti ir saglabāti datubāzē apskates režīmā un ir
+pieejami atjaunošanai.
+
+
+
+Lai anulētu dokumentu ir:
+
+1) jāatver dokuments no dokumentu žurnāla. ( CtrL+A , komanda no rīku
+joslas, nospiežot peles labo pogu un izvēloties komandu "Atvērt" vai
+komanda "Atvērt" no izvēlnes Dati)
+
+
+
+2) ja dokuments ir iegrāmatots,jāanulē grāmatojums. Ja grāmatojums ir
+arī apstiprināts, tad jānoņem apstiprinājums no grāmatojuma un tad
+jāanulē grāmatojumsAtvērto grāmatojumu anulē, izmantojot komandu no
+rīku joslas, komandu "Anulēt" no izvēlnes Dati vai nospiežot peles
+labo pogu un izvēloties komandu "Anulēt". Anulēts grāmatojums tiek
+saglabāts grāmatojumu žurnālā un nepieciešamības gadījumā šādu
+grāmatojumu ir iespējams atjaunot.
+
+3)pēc grāmatojuma anulēšanas ir jānoņem apstiprinājums no paša
+pirmdokumenta( CtrL+R; komanda no rīku joslas; komanda "Apstiprināt"
+no izvēlnes Dati, vai nospiežot peles labo pogu izvēloties komandu
+"Apstiprināt"). Dokumenta apstiprināšana un apstiprinājuma noņemša
+tiek veikta ar vienām un tām pašām komandām.
+
+
+
+4) jāanulē dokuments (izmantojot komandu no rīku joslas, komandu
+"Anulēt" no izvēlnes Dati vai nospiežot peles labo pogu un izvēloties
+komandu "Anulēt".)
+
+
+
+Lai anulēto dokumentu atjaunotu ir jālieto vēlreiz komanda "Anulēt"
+
+ 

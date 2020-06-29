@@ -1,27 +1,69 @@
-.. 6904 ========================Degvielas pasūtījums======================== <P>Lai izveidotu jaunu degvielas pasūtījumu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25573" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Pasūtījums uz:</STRONG> datums, uz kuru tiks veikst pasūtījums;</P>
-<P><STRONG>Degvielas bāze:</STRONG> nodefinētā degvielas bāza (ar bultiņu iespējams atvērt sarakstu);</P>
-<P><STRONG>Piegādāt: </STRONG>ja pasūtījums netiks piegādāts ar pašu piegādātāju, tad jāieliek ķeksītis;</P>
-<P><STRONG>Autopārvadātājs:</STRONG> pārvadātāja uzņēmums;</P>
-<P><STRONG>Automašīna:</STRONG> automašīna (reģ.Nr);</P>
-<P><STRONG>Autovadītājs:</STRONG> autovadītājs (ja automašīnai ir piesaistīts vadītājs, tad, izvēloties automašīnu, vadītājs tiek pievienots pasūtījumam kā autovadītājs);</P>
-<P><STRONG>Apmaksa:</STRONG> apmaksa tiek sasaistīta ar līgumā nodefinētajiem nosacījumiem par apmaksas termiņu (ja ļīgumā nav nodefinēts termiņš, tad ir iespējams izvēlēties apmaksas termiņu).</P>
-<P>Kad visi dati ievadīti, rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25561" border=0>. </P>
-<P>Lai pievienotu pasūtījuma saturu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25580" border=0>:</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25581" border=0></P>
-<P><STRONG>Izkraušanas adrese:</STRONG> pasūtījuma izkraušanas adrese;</P>
-<P><STRONG>Tvertne:</STRONG> nodefinētā tvertne no tvertņu saraksta (ja izkraušanas adresei nav piesaistīta izvēlētā tvertne, tiks parādīts ziņojums par neatbilstību);</P>
-<P><STRONG>Degvielas marka:</STRONG> degvielas marka, kura ir nodefinēta pie izvēlētās tvertnes;</P>
-<P><STRONG>Cena (Ls/litrā):</STRONG> piedāvātā cena lati/litrā;</P>
-<P><STRONG>Daudzums (litri):</STRONG> pasūtījuma daudzums litros;</P>
-<P><STRONG>Summa:</STRONG> apmaksas summa;</P>
-<P>Nospiežot pogu Pievienot, pasūtījuma saturs tiks pievienots pasūtījumam. Lai pievienotu jaunu pasūtījuma saturu, atkal jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25580" border=0> un jāaizpilda saturs.</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Lai veiktu citas darbības ar pasūtījumu un tā saturu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25582" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Ja ir nepieciešams dzēst visu pasūtījumu, rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25583" border=0> un tad turpat rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25584" border=0>.</P>
-<P>Visi izveidotie pasūtījumi tiek saglabāti sadaļā dokumenti <A href="/help/?ssw=69&amp;skf_id=6907">Pasūtījumu žurnālā</A>.</P> .. toctree::   :maxdepth: 4    6913.rst   6914.rst
+.. 6904 ========================Degvielas pasūtījums======================== 
+Lai izveidotu jaunu degvielas pasūtījumu:
+
+
+
+
+
+
+
+Pasūtījums uz: datums, uz kuru tiks veikst pasūtījums;
+
+Degvielas bāze: nodefinētā degvielas bāza (ar bultiņu iespējams atvērt
+sarakstu);
+
+Piegādāt: ja pasūtījums netiks piegādāts ar pašu piegādātāju, tad
+jāieliek ķeksītis;
+
+Autopārvadātājs: pārvadātāja uzņēmums;
+
+Automašīna: automašīna (reģ.Nr);
+
+Autovadītājs: autovadītājs (ja automašīnai ir piesaistīts vadītājs,
+tad, izvēloties automašīnu, vadītājs tiek pievienots pasūtījumam kā
+autovadītājs);
+
+Apmaksa: apmaksa tiek sasaistīta ar līgumā nodefinētajiem nosacījumiem
+par apmaksas termiņu (ja ļīgumā nav nodefinēts termiņš, tad ir
+iespējams izvēlēties apmaksas termiņu).
+
+Kad visi dati ievadīti, rīku joslā jānospiež poga .
+
+Lai pievienotu pasūtījuma saturu, jānospiež poga :
+
+
+
+Izkraušanas adrese: pasūtījuma izkraušanas adrese;
+
+Tvertne: nodefinētā tvertne no tvertņu saraksta (ja izkraušanas
+adresei nav piesaistīta izvēlētā tvertne, tiks parādīts ziņojums par
+neatbilstību);
+
+Degvielas marka: degvielas marka, kura ir nodefinēta pie izvēlētās
+tvertnes;
+
+Cena (Ls/litrā): piedāvātā cena lati/litrā;
+
+Daudzums (litri): pasūtījuma daudzums litros;
+
+Summa: apmaksas summa;
+
+Nospiežot pogu Pievienot, pasūtījuma saturs tiks pievienots
+pasūtījumam. Lai pievienotu jaunu pasūtījuma saturu, atkal jānospiež
+poga un jāaizpilda saturs.
+
+Lai veiktu citas darbības ar pasūtījumu un tā saturu:
+
+
+
+
+
+
+
+Ja ir nepieciešams dzēst visu pasūtījumu, rīku joslā jānospiež poga un
+tad turpat rīku joslā jānospiež poga .
+
+Visi izveidotie pasūtījumi tiek saglabāti sadaļā dokumenti `Pasūtījumu
+žurnālā`_.
+
+ .. toctree::   :maxdepth: 4    6913.rst   6914.rst

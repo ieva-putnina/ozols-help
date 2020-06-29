@@ -1,19 +1,47 @@
-.. 280 ==========================Izmaksu sarakstu veidi========================== <P>&nbsp;</P>
-<P>Izmaksu sarakstu veidu sarakstā tiek nodefinēti uzņēmumā izmantotie algu izmaksu sarakstu veidi (piem. avansi, starpizmaksa, izmaksa). Izmaksu sarakstu veidi tiek izmantoti veidojot izmaksu sarkstus <A href="/help/?ssw=33&amp;skf_id=238">Izmaksu sarkastu žurnālā</A>.</P>
-<P>&nbsp;</P>
-<P>&nbsp;Jauns izmaksu saraksts tiek pievienots ar pogu <IMG src="/help/Skin/help/img.aspx?pid=25605" border=0>.</P>
-<P>&nbsp;</P>
-<P>Izmaksu saraksts tiek labots ar pogu <IMG src="/help/Skin/help/img.aspx?pid=25603" border=0>.</P>
-<P>&nbsp;</P>
-<P>Izmaksu saraksts tiek dzēsts ar pogu <IMG src="/help/Skin/help/img.aspx?pid=25602" border=0>.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25674" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Kods</STRONG> - izmaksu saraksta veida kods.</P>
-<P><STRONG>Nosaukums</STRONG> - izmaksu saraksta veida nosaukums.</P>
-<P><STRONG>Izmaksa</STRONG> - jānorāda vai izmaksu saraksts tiks izmantots izmaksām bankā vai kasē.</P>
-<P><STRONG>Bankas/Kases konts</STRONG> - ir iespēja norādīt bankas kontu vai kasi. Ja viens izmaksu saraksta veids ir domāts izmaksām piem. no vairākām bankām, tad šis lauks ir jāatstāj tukšs.</P>
-<P><STRONG>Avansu izmaksu saraksta veids</STRONG> - šī izvēles rūtīņa jāatzīmē, ja izmaksu saraksts ir paredzēts algu avansu izmaksām.</P>
-<P>&nbsp;</P>
-<P><STRONG><IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>&nbsp;</STRONG>- jāspiež šī poga lai saglabātu ievadītos datus.</P>
-<P><STRONG><IMG src="/help/Skin/help/img.aspx?pid=25675" border=0></STRONG>&nbsp;- jāspiež šī poga, ja lietotājs nevēlas saglabāt aizpildītos datus.</P> 
+.. 280 ==========================Izmaksu sarakstu veidi========================== 
+
+
+Izmaksu sarakstu veidu sarakstā tiek nodefinēti uzņēmumā izmantotie
+algu izmaksu sarakstu veidi (piem. avansi, starpizmaksa, izmaksa).
+Izmaksu sarakstu veidi tiek izmantoti veidojot izmaksu sarkstus
+`Izmaksu sarkastu žurnālā`_.
+
+
+
+Jauns izmaksu saraksts tiek pievienots ar pogu .
+
+
+
+Izmaksu saraksts tiek labots ar pogu .
+
+
+
+Izmaksu saraksts tiek dzēsts ar pogu .
+
+
+
+
+
+
+
+Kods - izmaksu saraksta veida kods.
+
+Nosaukums - izmaksu saraksta veida nosaukums.
+
+Izmaksa - jānorāda vai izmaksu saraksts tiks izmantots izmaksām bankā
+vai kasē.
+
+Bankas/Kases konts - ir iespēja norādīt bankas kontu vai kasi. Ja
+viens izmaksu saraksta veids ir domāts izmaksām piem. no vairākām
+bankām, tad šis lauks ir jāatstāj tukšs.
+
+Avansu izmaksu saraksta veids - šī izvēles rūtīņa jāatzīmē, ja izmaksu
+saraksts ir paredzēts algu avansu izmaksām.
+
+
+
+- jāspiež šī poga lai saglabātu ievadītos datus.
+
+- jāspiež šī poga, ja lietotājs nevēlas saglabāt aizpildītos datus.
+
+ 

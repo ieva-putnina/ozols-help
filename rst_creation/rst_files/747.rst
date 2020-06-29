@@ -1,37 +1,158 @@
-.. 747 ===================Avansa izdevums=================== <p>Avansa izdevums noformē attaisnojošos izdevumus Avansu norēķinu personām. Avansu izdevumu dokumenti tiek saglabāti <a href="/help/?ssw=33&amp;skf_id=746">Avansa izdevumu žurnālā</a>. Avansa izdevumu dokumenti tiek piesaistīti avansu norēķiniem, lai nodrošinātu datu uzskaiti Avansu norēķinu personām. </p>
-<h4>Jauna Avansu izdevuma pievienošana</h4>
-<p>Jaunu Avansa izdevumu iespējams pievienot Avansu norēķinam, <a href="/help/?ssw=33&amp;skf_id=748">Avansa norēķina</a> formā, sadaļā Izdevumi, nospiežot pogu "Pievienot" vai arī izvēloties dokumenta veidu <a href="/help/?ssw=33&amp;skf_id=747">Avansa izdevums</a>.</p>
-<p>Veicot vienu no iepriekš minētajām darbībām, tiks atvērts jauns logs:</p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26535" border="0"><br></p>
-<h5>Avansa izdevuma Virsraksta aizpildīšana</h5>
-<p>Lai aizpildītu Avansa izdevuma Virsrakstu, nepieciešams:</p>
-<p>&nbsp;</p>
-<p>1. Laukā Persona, izvēlēties <a href="/help/?ssw=33&amp;skf_id=196">Avansu norēķinu personu</a>&nbsp;no saraksta&nbsp;:</p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26536" border="0"><br></p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Ja Avansa izdevuma dokuments tiks sagatavots, izmantojot iespēju pievienot jaunu Avansa izdevumu <a href="/help/?ssw=33&amp;skf_id=748">Avansa norēķina</a> formā, sadaļā Izdevumi, nospiežot pogu "Pievienot", lauks Persona jau būs automātiski aizpildīts no Avansu norēķina dokumentā aizpildītās informācijas.</p>
-<p>&nbsp;</p>
-<p>2. Laukā Dok.Sēr.-Nr. nepieciešams norādīt Avansu izdevuma dokumenta numuru (piem., čeka numuru):</p><p><br></p><p><img src="Skin/help/img.aspx?pid=26538" border="0"><br></p><p><br></p><p>3. Laukā Datums, nepieciešams norādīt Avansu norēķina perioda datumu, un Dok.dat.- avansu izdevuma dokumenta datums:</p>
-<p><br></p><p><img src="Skin/help/img.aspx?pid=26537" border="0"></p><p><br></p>
-<p>4. No saraksta izvēlēties nepieciešamo partneri (Piegādātāju), no kura šis izdevumu attaisnojošais dokuments ir saņemts:<br><br><img src="Skin/help/img.aspx?pid=26539" border="0"></p><p><br></p>
-<p>5. Norādiet kurš pēc kārtas Avansu norēķinā būs konkrētais Avansu izdevumu dokuments:<br></p><img src="Skin/help/img.aspx?pid=26540" border="0"><br><br>6. Paskaidrojuma laukā tiek norādīta informatīva informācija par Avansu izdevumu, piem., Komandējuma izdevums.<br><h5>Avansa izdevuma&nbsp;Satura aizpildīšana</h5>
-<p>Lai aizpildītu Avansa izdevuma Saturu, dokumenta satura daļā nepieciešams nospiest <img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25269" border="0"></p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto summu.&nbsp;Pievienot nākamo satura ierakstu iespējams, satura daļā nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24708" border="0">.</p> <br><h4>Avansa izdevuma&nbsp;grāmatošana</h4>
-<p>Avansu norēķinos tiek grāmatoti avansu izdevumu dokumenti – tiek kontēts katrs naudas izlietojumu dokuments (čekas, bankas kvīts utt.) atsevišķi. Avansu izdevuma grāmatojums tiek veidots kā atsevišķs dokuments – kontējums. Grāmatojums ir saistīts ar avansu izdevumu dokumentu.</p>
-<p>Avansa izdevuma iespējams grāmatot no atvērta Avansu izdevuma dokumenta vai izvēloties (iezīmējot)&nbsp;dokumentu <a href="/help/?ssw=33&amp;skf_id=746">Avansa izdevumu žurnālā</a>. </p>
-<p>Lai iegrāmatotu Avansu izdevumu, dokumentu nepieciešams Apstiprināt, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24740" border="0">.</p>
-<p>Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24741" border="0">.</p>
-<p>Grāmatojumā jāizvēlas grāmatojumu šablons – shēma, kā tiks iekontēta pirmdokumentā sagatavotā informācija:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25272" border="0"></p>
-<p>&nbsp;</p>
-<p>Grāmatojumu var izveidot arī, pievienojot nepieciešamos kontējumus ar komandu Pievienot.<br>Grāmatojot avansu izdevumu dokumentus, grāmatojumā ar šablonu palīdzību automatizēti tiek pārnesta visa informācija, ja ir pareizi aizpildīts pirmdokuments un izveidots grāmatojumu šablons. </p>
-<p>&nbsp;</p>
-<p>Instrukcija - <a href="/help/?ssw=33&amp;skf_id=14044">Dokumentu grāmatošanas principi</a></p>
-<h4>Pievienotā Avansa izdevuma labošana</h4>
-<p>Labojumus saglabātajā dokumentā iespējams veikt atverot Avansa izdevuma dokumentu, kurš pieejams apskatei/labošanai&nbsp;<a href="/help/?ssw=33&amp;skf_id=746">Avansa izdevumu žurnālā</a>&nbsp;vai arī atverot to <a href="/help/?ssw=33&amp;skf_id=232">Avansu norēķinu</a>, uz kuru šis Avansu izdevums attiecas un Avansu norēķina sadaļā Izdevumi, atverot nepieciešamo Avansa izdevuma dokumentu. Lai veiktu labojumus Avansu izdevumā, dokumentu nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24709" border="0">&nbsp;(ALT+A), un atvērtajā ierakstā iespējams veikt nepieciešamos labojumus. Pēc labojumu veikšanas, veiktā izmaiņas iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p> 
+.. 747 ===================Avansa izdevums=================== 
+Avansa izdevums noformē attaisnojošos izdevumus Avansu norēķinu
+personām. Avansu izdevumu dokumenti tiek saglabāti `Avansa izdevumu
+žurnālā`_. Avansa izdevumu dokumenti tiek piesaistīti avansu
+norēķiniem, lai nodrošinātu datu uzskaiti Avansu norēķinu personām.
+
+
+Jauna Avansu izdevuma pievienošana
+``````````````````````````````````
+
+Jaunu Avansa izdevumu iespējams pievienot Avansu norēķinam, `Avansa
+norēķina`_ formā, sadaļā Izdevumi, nospiežot pogu "Pievienot" vai arī
+izvēloties dokumenta veidu `Avansa izdevums`_.
+
+Veicot vienu no iepriekš minētajām darbībām, tiks atvērts jauns logs:
+
+
+
+
+
+
+
+Avansa izdevuma Virsraksta aizpildīšana
++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu Avansa izdevuma Virsrakstu, nepieciešams:
+
+
+
+1. Laukā Persona, izvēlēties `Avansu norēķinu personu`_no saraksta:
+
+
+
+
+
+
+
+
+Ja Avansa izdevuma dokuments tiks sagatavots, izmantojot iespēju
+pievienot jaunu Avansa izdevumu `Avansa norēķina`_ formā, sadaļā
+Izdevumi, nospiežot pogu "Pievienot", lauks Persona jau būs
+automātiski aizpildīts no Avansu norēķina dokumentā aizpildītās
+informācijas.
+
+
+
+2. Laukā Dok.Sēr.-Nr. nepieciešams norādīt Avansu izdevuma dokumenta
+numuru (piem., čeka numuru):
+
+
+
+
+
+
+
+
+
+
+3. Laukā Datums, nepieciešams norādīt Avansu norēķina perioda datumu,
+un Dok.dat.- avansu izdevuma dokumenta datums:
+
+
+
+
+
+
+
+
+
+4. No saraksta izvēlēties nepieciešamo partneri (Piegādātāju), no kura
+šis izdevumu attaisnojošais dokuments ir saņemts:
+
+
+
+
+
+
+5. Norādiet kurš pēc kārtas Avansu norēķinā būs konkrētais Avansu
+izdevumu dokuments:
+
+
+
+6. Paskaidrojuma laukā tiek norādīta informatīva informācija par
+Avansu izdevumu, piem., Komandējuma izdevums.
+
+
+Avansa izdevumaSatura aizpildīšana
+++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu Avansa izdevuma Saturu, dokumenta satura daļā
+nepieciešams nospiest un tiks atvērts operācijas satura logs, kurā
+nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās
+dimensijas) un norādīt satura ieraksta summu:
+
+
+
+
+
+
+
+Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
+kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
+satura ierakstu iespējams, satura daļā nospiežot pogu .
+
+
+
+Avansa izdevumagrāmatošana
+``````````````````````````
+
+Avansu norēķinos tiek grāmatoti avansu izdevumu dokumenti – tiek
+kontēts katrs naudas izlietojumu dokuments (čekas, bankas kvīts utt.)
+atsevišķi. Avansu izdevuma grāmatojums tiek veidots kā atsevišķs
+dokuments – kontējums. Grāmatojums ir saistīts ar avansu izdevumu
+dokumentu.
+
+Avansa izdevuma iespējams grāmatot no atvērta Avansu izdevuma
+dokumenta vai izvēloties (iezīmējot)dokumentu `Avansa izdevumu
+žurnālā`_.
+
+Lai iegrāmatotu Avansu izdevumu, dokumentu nepieciešams Apstiprināt,
+nospiežot rīku joslā pogu .
+
+Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu .
+
+Grāmatojumā jāizvēlas grāmatojumu šablons – shēma, kā tiks iekontēta
+pirmdokumentā sagatavotā informācija:
+
+
+
+
+
+
+
+Grāmatojumu var izveidot arī, pievienojot nepieciešamos kontējumus ar
+komandu Pievienot.
+Grāmatojot avansu izdevumu dokumentus, grāmatojumā ar šablonu
+palīdzību automatizēti tiek pārnesta visa informācija, ja ir pareizi
+aizpildīts pirmdokuments un izveidots grāmatojumu šablons.
+
+
+
+Instrukcija - `Dokumentu grāmatošanas principi`_
+
+
+Pievienotā Avansa izdevuma labošana
+```````````````````````````````````
+
+Labojumus saglabātajā dokumentā iespējams veikt atverot Avansa
+izdevuma dokumentu, kurš pieejams apskatei/labošanai`Avansa izdevumu
+žurnālā`_vai arī atverot to `Avansu norēķinu`_, uz kuru šis Avansu
+izdevums attiecas un Avansu norēķina sadaļā Izdevumi, atverot
+nepieciešamo Avansa izdevuma dokumentu. Lai veiktu labojumus Avansu
+izdevumā, dokumentu nepieciešams atvērt, izmantojot rīku joslas pogu
+(ALT+A), un atvērtajā ierakstā iespējams veikt nepieciešamos
+labojumus. Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+ 

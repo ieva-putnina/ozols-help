@@ -1,325 +1,73 @@
-.. 14051 =========================Darba režīmu pārskats========================= <P>&nbsp;</P>
-<P>
-<TABLE cellSpacing=2 cellPadding=0 width="100%" border=0>
-<TBODY>
-<TR>
-<TH width=120>Darba režīma nosaukums</TH>
-<TH width=156>Palaišana no izvēlnes</TH>
-<TH width=64>Taustiņu kombi-<BR>nācija</TH>
-<TH width=47>Rīku joslas poga</TH>
-<TH>Paskaidrojums</TH></TR>
-<TR>
-<TD width=120>
-<P>Pievienot</P></TD>
-<TD width=156>
-<P>Dati /&nbsp;Pievienot</P></TD>
-<TD width=64>
-<P>Alt+P</P></TD>
-<TD width=47>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24933" border=0></P></TD>
-<TD>
-<P>Ieraksta pievienošana</P></TD></TR>
-<TR>
-<TD width=120>Atvērt</TD>
-<TD width=156>Dati /&nbsp;Atvērt</TD>
-<TD width=64>Alt+A</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24932" border=0></TD>
-<TD>Ieraksta atvēršana</TD></TR>
-<TR>
-<TD width=120>Saglabāt</TD>
-<TD width=156>Dati / Saglabāt</TD>
-<TD width=64>Ctrl+S</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24938" border=0></TD>
-<TD>Informācijas saglabāšana</TD></TR>
-<TR>
-<TD width=120>Sagl.t&amp;Piev.</TD>
-<TD width=156>Dati / Sagl.t&amp;Piev.</TD>
-<TD width=64>F11</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24939" border=0></TD>
-<TD>Informācijas saglabāšana un pievienošana</TD></TR>
-<TR>
-<TD width=120>Saglabāt un aizvērt</TD>
-<TD width=156>Dati / Saglabāt un aizvērt</TD>
-<TD width=64>F12</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24938" border=0></TD>
-<TD>Informācijas saglabāšana un aizvēršana</TD></TR>
-<TR>
-<TD width=120>Kopēt ierakstu</TD>
-<TD width=156>Dati /&nbsp;Kopēt ierakstu</TD>
-<TD width=64></TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24940" border=0></TD>
-<TD>Informācijas kopēšana</TD></TR>
-<TR>
-<TD width=120>Dzēst</TD>
-<TD width=156>Dati /&nbsp;Dzēst</TD>
-<TD width=64>Alt+Z</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24941" border=0></TD>
-<TD>Ieraksta dzēšana</TD></TR>
-<TR>
-<TD width=120>Filtrs</TD>
-<TD width=156>Dati /&nbsp;Filtrs</TD>
-<TD width=64>Ctrl+F</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24942" border=0></TD>
-<TD>Filtra uzlikšana</TD></TR>
-<TR>
-<TD width=120>Meklēšana</TD>
-<TD width=156>Dati /&nbsp;Meklēt</TD>
-<TD width=64>Ctrl+M</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24943" border=0></TD>
-<TD>Dokumenta meklēšana</TD></TR>
-<TR>
-<TD width=120>Dokumentu izdruka</TD>
-<TD width=156>Dati /&nbsp;Drukāt</TD>
-<TD width=64>Ctrl+P</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24944" border=0></TD>
-<TD>Dokumenta izdrukāšana</TD></TR>
-<TR>
-<TD width=120>Dokumentu izdruka</TD>
-<TD width=156>Dati / HTML</TD>
-<TD width=64>Ctrl+H</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24945" border=0></TD>
-<TD>Dokumenta izdrukāšana HTML formātā</TD></TR>
-<TR>
-<TD width=120>Skats</TD>
-<TD width=156>Dati /&nbsp;Skats</TD>
-<TD width=64>Ctrl+H</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24946" border=0></TD>
-<TD>Skata maiņa</TD></TR>
-<TR>
-<TD width=120>Apstiprināt</TD>
-<TD width=156>Dati /&nbsp;Apstiprināt</TD>
-<TD width=64>Ctrl+R</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24937" border=0></TD>
-<TD>Dokumenta apstiprināšana</TD></TR>
-<TR>
-<TD width=120>Grāmatot</TD>
-<TD width=156>Dati /&nbsp;Grāmatojums</TD>
-<TD width=64>Ctrl+G</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24947" border=0></TD>
-<TD>Dokumenta grāmatošana</TD></TR>
-<TR>
-<TD width=120>Anulēt</TD>
-<TD width=156>Dati /&nbsp;Anulēt</TD>
-<TD width=64></TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24935" border=0></TD>
-<TD>Dokumenta anulēšana</TD></TR>
-<TR>
-<TD width=120>Saistīt</TD>
-<TD width=156>Dati / Saistīt</TD>
-<TD width=64>Ctrl+D</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24948" border=0></TD>
-<TD>Dokumentu saistīšana</TD></TR>
-<TR>
-<TD width=120>Koks</TD>
-<TD width=156>Dati / Koks</TD>
-<TD width=64></TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24949" border=0></TD>
-<TD>Sarakstu attēlošana kokveida formā</TD></TR>
-<TR>
-<TD width=120>Funkcijas</TD>
-<TD width=156>Dati / Funkcijas</TD>
-<TD width=64></TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24950" border=0></TD>
-<TD>Dažādu darba režīmu izsaukšanai</TD></TR>
-<TR>
-<TD width=120>Paņemt</TD>
-<TD width=156>Dati / Paņemt</TD>
-<TD width=64>Alt+M</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24951" border=0></TD>
-<TD>Ieraksta pārzīmēšana</TD></TR>
-<TR>
-<TD width=120>Kolonnas</TD>
-<TD width=156>Dati / Kolonnas</TD>
-<TD width=64>Ctrl+K</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24952" border=0></TD>
-<TD>Kolonnu konfigurēšana</TD></TR>
-<TR>
-<TD width=120>
-<P>EDS</P>
-<P>Iezīmēšana</P></TD>
-<TD width=156>
-<P>Dati / EDS</P>
-<P>Dati / Multi iez.</P></TD>
-<TD width=64>
-<P>&nbsp;</P>
-<P>Ctrl+Y</P></TD>
-<TD width=47>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24954" border=0></P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25897" border=0></P></TD>
-<TD>
-<P>Elektroniskā deklerēšanas sistēma</P>
-<P>Multi iezīmēšana</P></TD></TR>
-<TR>
-<TD width=120>LDL</TD>
-<TD width=156>Dati / LDL forma</TD>
-<TD width=64>Ctrl+L</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24955" border=0></TD>
-<TD></TD></TR>
-<TR>
-<TD width=120>Ieraksta informācija</TD>
-<TD width=156>Dati / Ier.info</TD>
-<TD width=64>Ctrl+I</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24956" border=0></TD>
-<TD>Ieraksta informācija</TD></TR>
-<TR>
-<TD width=120>Beigt darbu</TD>
-<TD width=156>Dati /&nbsp;Izeja</TD>
-<TD width=64>Alt+F4</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24957" border=0></TD>
-<TD>Datorprogrammas aizvēršana</TD></TR>
-<TR>
-<TD width=120>Atsaukt</TD>
-<TD width=156>Teksts /&nbsp;Atsaukt</TD>
-<TD width=64>Ctrl+Z</TD>
-<TD width=47></TD>
-<TD>Teksta atsaukšana</TD></TR>
-<TR>
-<TD width=120>Atsaukt atsaukto</TD>
-<TD width=156>Teksts /&nbsp;Atsaukt atsaukto</TD>
-<TD width=64>Ctrl+R</TD>
-<TD width=47></TD>
-<TD>Atsauktā teksta atjaunošana</TD></TR>
-<TR>
-<TD width=120>Izgriezt</TD>
-<TD width=156>Teksts /&nbsp;Izgriezt</TD>
-<TD width=64>Ctrl+X</TD>
-<TD width=47></TD>
-<TD>Teksta izgriešana</TD></TR>
-<TR>
-<TD width=120>Kopēt</TD>
-<TD width=156>Teksts /&nbsp; Kopēt</TD>
-<TD width=64>Ctrl+C</TD>
-<TD width=47></TD>
-<TD>Teksta kopēšana</TD></TR>
-<TR>
-<TD width=120>Nolikt</TD>
-<TD width=156>Teksts /&nbsp;Nolikt</TD>
-<TD width=64>Ctrl+V</TD>
-<TD width=47></TD>
-<TD>Teksta nolikšana</TD></TR>
-<TR>
-<TD width=120>Notīrīt</TD>
-<TD width=156>Teksts / Notīrīt</TD>
-<TD width=64></TD>
-<TD width=47></TD>
-<TD>Teksta notīrīšana</TD></TR>
-<TR>
-<TD width=120>Iezīmēt visu</TD>
-<TD width=156>Teksts / Iezīmēt visu</TD>
-<TD width=64>Ctrl+A</TD>
-<TD width=47></TD>
-<TD>Visa teksta iezīmēšana</TD></TR>
-<TR>
-<TD width=120>Pārvietot</TD>
-<TD width=156>Teksts / Pārvietot</TD>
-<TD width=64></TD>
-<TD width=47></TD>
-<TD>Teksta pārvietošana</TD></TR>
-<TR>
-<TD width=120>Meklēt</TD>
-<TD width=156></TD>
-<TD width=64>Ctrl+M</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24967" border=0></TD>
-<TD>Ierakstu meklēšana</TD></TR>
-<TR>
-<TD width=120>Meklēt vēl</TD>
-<TD width=156></TD>
-<TD width=64>Ctrl+F</TD>
-<TD width=47></TD>
-<TD></TD></TR>
-<TR>
-<TD width=120>Aizstāt</TD>
-<TD width=156></TD>
-<TD width=64>Ctrl+L</TD>
-<TD width=47></TD>
-<TD></TD></TR>
-<TR>
-<TD width=120><STRONG>Bufera reģistrs</STRONG></TD>
-<TD width=156></TD>
-<TD width=64></TD>
-<TD width=47></TD>
-<TD></TD></TR>
-<TR>
-<TD width=120>Pārlūka uzlikšana</TD>
-<TD width=156>Logs / Pārlūks</TD>
-<TD width=64>Ctrl+B</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24958" border=0></TD>
-<TD>Pārlūka atvēršana</TD></TR>
-<TR>
-<TD width=120>Pārlūka aizvēršana</TD>
-<TD width=156>Logs / Pārlūks</TD>
-<TD width=64>Ctrl+B</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24959" border=0></TD>
-<TD>Pārlūka aizvēršana</TD></TR>
-<TR>
-<TD width=120>Atpakaļ</TD>
-<TD width=156>Logs / Atpakaļ</TD>
-<TD width=64></TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24961" border=0></TD>
-<TD>Pāreja uz iepriekš apskatīto ekrāna formu</TD></TR>
-<TR>
-<TD width=120>Uz priekšu</TD>
-<TD width=156>Logs / Uz priekšu</TD>
-<TD width=64></TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24960" border=0></TD>
-<TD>Pāreja uz nākošo ekrāna formu</TD></TR>
-<TR>
-<TD width=120>Augstāk</TD>
-<TD width=156>Logs / Augstāk</TD>
-<TD width=64></TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24962" border=0></TD>
-<TD>Pāreja vienu līmeni augstāk pārlūkā</TD></TR>
-<TR>
-<TD width=120>Pārzīmēt</TD>
-<TD width=156>Logs / Pārzīmēt</TD>
-<TD width=64>F5</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24963" border=0></TD>
-<TD>Informācijas pārzīmēšana</TD></TR>
-<TR>
-<TD width=120></TD>
-<TD width=156>Logs / Sakārtot visus</TD>
-<TD width=64></TD>
-<TD width=47></TD>
-<TD>Sakārtot visus logus</TD></TR>
-<TR>
-<TD width=120></TD>
-<TD width=156>Logs / Jauns</TD>
-<TD width=64>Ctrl+N</TD>
-<TD width=47></TD>
-<TD>Atvērt jaunu ekrāna formu</TD></TR>
-<TR>
-<TD width=120>Nākamais</TD>
-<TD width=156>Logs / Nākamais</TD>
-<TD width=64>Ctrl+F1</TD>
-<TD width=47></TD>
-<TD>Nākamās ekrāna formas aktivizēšana</TD></TR>
-<TR>
-<TD width=120>Noslēpt</TD>
-<TD width=156>Logs / Hide</TD>
-<TD width=64></TD>
-<TD width=47></TD>
-<TD>Aktīvā loga noslēpšana</TD></TR>
-<TR>
-<TD width=120>Notīrīt</TD>
-<TD width=156>Logs / Notīrīt</TD>
-<TD width=64></TD>
-<TD width=47></TD>
-<TD></TD></TR>
-<TR>
-<TD width=120>Mani darbi</TD>
-<TD width=156>Logs / Mani darbi</TD>
-<TD width=64>F12</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24964" border=0></TD>
-<TD>Manu darbu saraksts</TD></TR>
-<TR>
-<TD width=120>Partnera informācija</TD>
-<TD width=156>Logs / Partn. info</TD>
-<TD width=64>F3</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24965" border=0></TD>
-<TD>Informācija par partneri</TD></TR>
-<TR>
-<TD width=120>Preces informācija</TD>
-<TD width=156>Logs / Preces info</TD>
-<TD width=64>F4</TD>
-<TD width=47><IMG src="/help/Skin/help/img.aspx?pid=24966" border=0></TD>
-<TD>Informācija par preci</TD></TR></TBODY></TABLE></P> 
+.. 14051 =========================Darba režīmu pārskats========================= 
+
+
+Darba režīma nosaukums Palaišana no izvēlnes Taustiņu kombi-
+nācija Rīku joslas poga Paskaidrojums
+Pievienot
+
+Dati /Pievienot
+
+Alt+P
+
+
+
+Ieraksta pievienošana
+Atvērt Dati /Atvērt Alt+A Ieraksta atvēršana Saglabāt Dati / Saglabāt
+Ctrl+S Informācijas saglabāšana Sagl.t&Piev. Dati / Sagl.t&Piev. F11
+Informācijas saglabāšana un pievienošana Saglabāt un aizvērt Dati /
+Saglabāt un aizvērt F12 Informācijas saglabāšana un aizvēršana Kopēt
+ierakstu Dati /Kopēt ierakstu Informācijas kopēšana Dzēst Dati /Dzēst
+Alt+Z Ieraksta dzēšana Filtrs Dati /Filtrs Ctrl+F Filtra uzlikšana
+Meklēšana Dati /Meklēt Ctrl+M Dokumenta meklēšana Dokumentu izdruka
+Dati /Drukāt Ctrl+P Dokumenta izdrukāšana Dokumentu izdruka Dati /
+HTML Ctrl+H Dokumenta izdrukāšana HTML formātā Skats Dati /Skats
+Ctrl+H Skata maiņa Apstiprināt Dati /Apstiprināt Ctrl+R Dokumenta
+apstiprināšana Grāmatot Dati /Grāmatojums Ctrl+G Dokumenta grāmatošana
+Anulēt Dati /Anulēt Dokumenta anulēšana Saistīt Dati / Saistīt Ctrl+D
+Dokumentu saistīšana Koks Dati / Koks Sarakstu attēlošana kokveida
+formā Funkcijas Dati / Funkcijas Dažādu darba režīmu izsaukšanai
+Paņemt Dati / Paņemt Alt+M Ieraksta pārzīmēšana Kolonnas Dati /
+Kolonnas Ctrl+K Kolonnu konfigurēšana
+EDS
+
+Iezīmēšana
+
+Dati / EDS
+
+Dati / Multi iez.
+
+
+
+Ctrl+Y
+
+
+
+
+
+Elektroniskā deklerēšanas sistēma
+
+Multi iezīmēšana
+LDL Dati / LDL forma Ctrl+L Ieraksta informācija Dati / Ier.info
+Ctrl+I Ieraksta informācija Beigt darbu Dati /Izeja Alt+F4
+Datorprogrammas aizvēršana Atsaukt Teksts /Atsaukt Ctrl+Z Teksta
+atsaukšana Atsaukt atsaukto Teksts /Atsaukt atsaukto Ctrl+R Atsauktā
+teksta atjaunošana Izgriezt Teksts /Izgriezt Ctrl+X Teksta izgriešana
+Kopēt Teksts / Kopēt Ctrl+C Teksta kopēšana Nolikt Teksts /Nolikt
+Ctrl+V Teksta nolikšana Notīrīt Teksts / Notīrīt Teksta notīrīšana
+Iezīmēt visu Teksts / Iezīmēt visu Ctrl+A Visa teksta iezīmēšana
+Pārvietot Teksts / Pārvietot Teksta pārvietošana Meklēt Ctrl+M
+Ierakstu meklēšana Meklēt vēl Ctrl+F Aizstāt Ctrl+L Bufera reģistrs
+Pārlūka uzlikšana Logs / Pārlūks Ctrl+B Pārlūka atvēršana Pārlūka
+aizvēršana Logs / Pārlūks Ctrl+B Pārlūka aizvēršana Atpakaļ Logs /
+Atpakaļ Pāreja uz iepriekš apskatīto ekrāna formu Uz priekšu Logs / Uz
+priekšu Pāreja uz nākošo ekrāna formu Augstāk Logs / Augstāk Pāreja
+vienu līmeni augstāk pārlūkā Pārzīmēt Logs / Pārzīmēt F5 Informācijas
+pārzīmēšana Logs / Sakārtot visus Sakārtot visus logus Logs / Jauns
+Ctrl+N Atvērt jaunu ekrāna formu Nākamais Logs / Nākamais Ctrl+F1
+Nākamās ekrāna formas aktivizēšana Noslēpt Logs / Hide Aktīvā loga
+noslēpšana Notīrīt Logs / Notīrīt Mani darbi Logs / Mani darbi F12
+Manu darbu saraksts Partnera informācija Logs / Partn. info F3
+Informācija par partneri Preces informācija Logs / Preces info F4
+Informācija par preci
+
+ 

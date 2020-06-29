@@ -1,10 +1,23 @@
-.. 14011 ========================Pieņemtie apzīmējumi======================== <P>&nbsp;</P>
-<P>Tālākajā tekstā izvēlnes komandas atzīmētas izmantojot &gt; simbolu. Piemēram, izvēlnes komanda</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25305" border=0></P>
-<P>&nbsp;</P>
-<P>tiks apzīmēta kā </P>
-<P>&nbsp;</P>
-<P><SPAN class=shadow>&gt;Dati &gt; Drukāt</SPAN></P>
-<P>&nbsp;</P>
-<P>vai atsevišķos gadījumos uzreiz tekstā: &gt;Dati &gt; Drukāt.</P> 
+.. 14011 ========================Pieņemtie apzīmējumi======================== 
+
+
+Tālākajā tekstā izvēlnes komandas atzīmētas izmantojot > simbolu.
+Piemēram, izvēlnes komanda
+
+
+
+
+
+
+
+tiks apzīmēta kā
+
+
+
+>Dati > Drukāt
+
+
+
+vai atsevišķos gadījumos uzreiz tekstā: >Dati > Drukāt.
+
+ 

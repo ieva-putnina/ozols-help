@@ -1,2 +1,8 @@
-.. 6801 ============Saraksti============ <P>&nbsp;</P>
-<P>Līgumu&nbsp;sarakstos nepieciešams pievienot uzņēmuma līgumu uzskaitē izmantotos&nbsp;<A href="/help/?ssw=68&amp;skf_id=649">Līgumu veidus</A>, kuri tiks izmantoti apmaksas plāna definēšanai.&nbsp;</P> .. toctree::   :maxdepth: 5    921.rst   920.rst   650.rst   649.rst   922.rst   923.rst
+.. 6801 ============Saraksti============ 
+
+
+Līgumusarakstos nepieciešams pievienot uzņēmuma līgumu uzskaitē
+izmantotos`Līgumu veidus`_, kuri tiks izmantoti apmaksas plāna
+definēšanai.
+
+ .. toctree::   :maxdepth: 5    921.rst   920.rst   650.rst   649.rst   922.rst   923.rst

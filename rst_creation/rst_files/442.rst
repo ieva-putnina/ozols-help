@@ -1,8 +1,28 @@
-.. 442 ============================================================Pamatlīdzekļu likvidācijas vērtības korekcijas dokuments============================================================ <P>Pamatlīdzekļu likvidācijas vērtības korekcijas dokuments tiek veidots, ja nepieciešams mainīt pamatlīdzekļa likvidācijas vērtību. Dokuments pēc saglabāšanas ir pieejams <A href="/help/?ssw=33&amp;skf_id=233">Pamatlīdzekļu dokumentu</A> žurnālā. Lai pievienotu jaunu pamatlīdzekļu likvidācijas vērtības korekcijas dokumentu, rīku joslā jānospiež paga<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>. Tiek atvērts logs, kur jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25500" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Pamatlīdzeklis:</STRONG> pamatlīdzekļa inventāra numurs;</P>
-<P><STRONG>Likvid.summa:</STRONG> jaunā likvidācijas summa;</P>
-<P><STRONG>Piezīmes</STRONG>: iespējams pierakstīt piezīmes.</P>
-<P>Kad pamatlīdzekļa likvidācijas summa ir ierakstīta, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=24710" border=0>. Dokumentam ir iespējams pievienot vairākus pamtlīdzekļus ar manītu likvidācijas vērtību. Lai atvērtu un, ja nepieciešams, dzēstu vai labotu dokumeta ierakstu, attiecīgi jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=24720" border=0> vai <IMG src="/help/Skin/help/img.aspx?pid=24719" border=0>. Kad visi ieraksti veikti, tad pamatlīdzekļa likvidācijas vērtības korekcijas dokumentā jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>. </P> 
+.. 442 ============================================================Pamatlīdzekļu likvidācijas vērtības korekcijas dokuments============================================================ 
+Pamatlīdzekļu likvidācijas vērtības korekcijas dokuments tiek veidots,
+ja nepieciešams mainīt pamatlīdzekļa likvidācijas vērtību. Dokuments
+pēc saglabāšanas ir pieejams `Pamatlīdzekļu dokumentu`_ žurnālā. Lai
+pievienotu jaunu pamatlīdzekļu likvidācijas vērtības korekcijas
+dokumentu, rīku joslā jānospiež paga . Tiek atvērts logs, kur
+jānospiež poga :
+
+
+
+
+
+
+
+Pamatlīdzeklis: pamatlīdzekļa inventāra numurs;
+
+Likvid.summa: jaunā likvidācijas summa;
+
+Piezīmes : iespējams pierakstīt piezīmes.
+
+Kad pamatlīdzekļa likvidācijas summa ir ierakstīta, jānospiež poga .
+Dokumentam ir iespējams pievienot vairākus pamtlīdzekļus ar manītu
+likvidācijas vērtību. Lai atvērtu un, ja nepieciešams, dzēstu vai
+labotu dokumeta ierakstu, attiecīgi jānospiež poga vai . Kad visi
+ieraksti veikti, tad pamatlīdzekļa likvidācijas vērtības korekcijas
+dokumentā jānospiež poga .
+
+ 

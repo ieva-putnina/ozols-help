@@ -1,7 +1,23 @@
-.. 4456 ==========================Nomenklatūras atlikumi========================== <P>&nbsp;</P>
-<P>Atskaitē -&nbsp;Nomenklatūras atlikumi&nbsp;materiāli atbildīgajām personām ir iespēja aplūkot uz savu vārdu reģistrētus krājumu atlikumus. Nomenklatūras atlikumus atskaitē iespējams sagrupēt pēc nomenklatūras grupas, atzīmējot izvēles rūtiņu "Grupēt pēc nomenklatūras grupas":</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25826" border=0></P>
-<P>&nbsp;</P>
-<P>Lai atskaitē netiktu iekļauti nomenklatūras ieraksti, kuriem uz filtrā norādīto datumu nav atlikuma, nepieciešams atzīmēt izvēles rūtiņu: "Nerādīt nomenklatūras bez atlikuma".</P>
-<P>Sagatavojot atskaiti, ir iespējams konkrētas kolonnas datus sakārtot augošā vai dilstošā secībā, pēc alfabēta,&nbsp;nospiežot uz kolonnas nosaukuma.</P> .. toctree::   :maxdepth: 3    5312.rst
+.. 4456 ==========================Nomenklatūras atlikumi========================== 
+
+
+Atskaitē -Nomenklatūras atlikumimateriāli atbildīgajām personām ir
+iespēja aplūkot uz savu vārdu reģistrētus krājumu atlikumus.
+Nomenklatūras atlikumus atskaitē iespējams sagrupēt pēc nomenklatūras
+grupas, atzīmējot izvēles rūtiņu "Grupēt pēc nomenklatūras grupas":
+
+
+
+
+
+
+
+Lai atskaitē netiktu iekļauti nomenklatūras ieraksti, kuriem uz filtrā
+norādīto datumu nav atlikuma, nepieciešams atzīmēt izvēles rūtiņu:
+"Nerādīt nomenklatūras bez atlikuma".
+
+Sagatavojot atskaiti, ir iespējams konkrētas kolonnas datus sakārtot
+augošā vai dilstošā secībā, pēc alfabēta,nospiežot uz kolonnas
+nosaukuma.
+
+ .. toctree::   :maxdepth: 3    5312.rst

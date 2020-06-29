@@ -1,20 +1,43 @@
-.. 14041 ==================================Hierarhisko sarakstu veidošana================================== <p>&nbsp;</p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Saraksti ir iepriekš sagatavota informācija, ko dokumentos pievieno fiksētās izvēles laukos ātrākai dokumenta sagatavošanai. </span></p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></span>&nbsp;</p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Sistēma uztur hierarhiski veidotus sarakstus un tie ir: </span></p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">1) pamatlīdzekļu kategoriju saraksts</span></p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">2) pamatlīdzekļu objektu saraksts</span></p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">3) krājumu kategoriju saraksts</span></p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">4) krājumu objektu saraksts</span></p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">5) struktūrvienību saraksts</span></p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">6) finanšu (EK) kodu saraksts</span></p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">7) preču grupas.</span></p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">8) kontu plāns u.c.</span></p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></span>&nbsp;</p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">Piemērs - pamatlīdzekļu kategoriju saraksts</span></p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></span>&nbsp;</p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></span></p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><img src="/help/Skin/help/img.aspx?pid=25152" border="0"></span></p>
-<p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--><o:p><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">
-</span></o:p></span></span></span></p><p class="MsoNormal" style="MARGIN: 6pt 0cm; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt"><span style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><o:p></o:p></span></p><o:p></o:p><o:p></o:p>
-<p></p> 
+.. 14041 ==================================Hierarhisko sarakstu veidošana================================== 
+
+
+Saraksti ir iepriekš sagatavota informācija, ko dokumentos pievieno
+fiksētās izvēles laukos ātrākai dokumenta sagatavošanai.
+
+
+
+Sistēma uztur hierarhiski veidotus sarakstus un tie ir:
+
+1) pamatlīdzekļu kategoriju saraksts
+
+2) pamatlīdzekļu objektu saraksts
+
+3) krājumu kategoriju saraksts
+
+4) krājumu objektu saraksts
+
+5) struktūrvienību saraksts
+
+6) finanšu (EK) kodu saraksts
+
+7) preču grupas.
+
+8) kontu plāns u.c.
+
+
+
+Piemērs - pamatlīdzekļu kategoriju saraksts
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

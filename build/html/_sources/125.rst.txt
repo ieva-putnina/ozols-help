@@ -1,10 +1,28 @@
-.. 125 ====================Dzīvesvietu kodi==================== <P>&nbsp;</P>
-<P>Dzīvesvietu kodu sarakstā ir pilnais dzīvesvietu kodu saraksts vai arī&nbsp;lietotājs var aizpildīt tikai uzņēmumā izmantotos dzīvesvietas kodus. Dzīvesvietu kodi tiek pievienoti <A href="/help/?ssw=33&amp;skf_id=208">Nodokļu dokumentiem</A>. Atskaišu sagatavošanā dzīvesvietas kodus iespējams izmantot kā datu atlases nosacījumu, piem. atlasīt datus, kuru dzīvesvietas kodi sākas ar 01 (Rīgā dzīvojošie).</P>
-<P>&nbsp;</P>
-<P>Jauns dzīvesvietas kods tiek pievienots ar pogu <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>. Pēc informācijas aizpildīšanas jāspiež poga <STRONG>Saglabāt</STRONG>, lai saglabātu ierakstu sistēmā.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25673" border=0></P>
-<P>&nbsp;</P>
-<P>&nbsp;&nbsp;&nbsp;Dzīvesvietas kodu labo ar pogu <IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>.</P>
-<P>&nbsp;</P>
-<P>&nbsp;&nbsp;&nbsp;Dzīvesvietas kodu dzēš ar pogu <IMG src="/help/Skin/help/img.aspx?pid=25602" border=0>.</P> 
+.. 125 ====================Dzīvesvietu kodi==================== 
+
+
+Dzīvesvietu kodu sarakstā ir pilnais dzīvesvietu kodu saraksts vai
+arīlietotājs var aizpildīt tikai uzņēmumā izmantotos dzīvesvietas
+kodus. Dzīvesvietu kodi tiek pievienoti `Nodokļu dokumentiem`_.
+Atskaišu sagatavošanā dzīvesvietas kodus iespējams izmantot kā datu
+atlases nosacījumu, piem. atlasīt datus, kuru dzīvesvietas kodi sākas
+ar 01 (Rīgā dzīvojošie).
+
+
+
+Jauns dzīvesvietas kods tiek pievienots ar pogu . Pēc informācijas
+aizpildīšanas jāspiež poga Saglabāt , lai saglabātu ierakstu sistēmā.
+
+
+
+
+
+
+
+Dzīvesvietas kodu labo ar pogu .
+
+
+
+Dzīvesvietas kodu dzēš ar pogu .
+
+ 

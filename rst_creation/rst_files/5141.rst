@@ -1,1 +1,2 @@
-.. 5141 =============Izglītība=============  .. toctree::   :maxdepth: 3    5500.rst
+.. 5141 =============Izglītība============= 
+ .. toctree::   :maxdepth: 3    5500.rst

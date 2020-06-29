@@ -1,19 +1,44 @@
-.. 14038 ========================================Jauna sarakstu ieraksta pievienošana======================================== <P>&nbsp;</P>
-<P>Lai pievienotu jaunu saraksta ierakstu:</P>
-<P>&nbsp;</P>
-<P>1) atvērtajā ekrāna formā jālieto komanda <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0></P>
-<P>2) jāaizpilda saraksta apraksts. </P>
-<P>&nbsp;</P>
-<P>Hierarhiskajos sarakstos jānorāda augstākais līmenis, zem kura ieraksts jāpievieno. Pievienojot augstāko līmeni, jānorāda, ka augstākā līmeņa nav.</P>
-<P>3) saraksta ieraksts tiek saglabāts, kad pielieto&nbsp;komandu <IMG src="/help/Skin/help/img.aspx?pid=24710" border=0></P>
-<P>&nbsp;</P>
-<P>Hierarhiskos sarakstus pēc to izveidošanas var brīvi labot, mainot to struktūru. </P>
-<P>Lai pārvietotu jau pievienotus ierakstus zem citiem apakšlīmeņiem:</P>
-<P>&nbsp;</P>
-<P>1) jāiezīmē ar peli tas ieraksts, kurš jāpārvieto</P>
-<P>2) jānospiež taustiņš Shift un ar peli jāvelk ieraksts līdz tam saraksta ierakstam, zem kura tas jānovieto.</P>
-<P class=MsoNormal style="MARGIN: 6pt 0cm; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN>&nbsp;</P>
-<P class=MsoNormal style="MARGIN: 6pt 0cm; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'"><o:p></o:p></SPAN>&nbsp;</P>
-<P class=MsoNormal style="MARGIN: 6pt 0cm"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-font-size: 12.0pt; mso-bidi-font-family: 'Times New Roman'"><o:p></o:p></SPAN>&nbsp;</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P> 
+.. 14038 ========================================Jauna sarakstu ieraksta pievienošana======================================== 
+
+
+Lai pievienotu jaunu saraksta ierakstu:
+
+
+
+1) atvērtajā ekrāna formā jālieto komanda
+
+2) jāaizpilda saraksta apraksts.
+
+
+
+Hierarhiskajos sarakstos jānorāda augstākais līmenis, zem kura
+ieraksts jāpievieno. Pievienojot augstāko līmeni, jānorāda, ka
+augstākā līmeņa nav.
+
+3) saraksta ieraksts tiek saglabāts, kad pielietokomandu
+
+
+
+Hierarhiskos sarakstus pēc to izveidošanas var brīvi labot, mainot to
+struktūru.
+
+Lai pārvietotu jau pievienotus ierakstus zem citiem apakšlīmeņiem:
+
+
+
+1) jāiezīmē ar peli tas ieraksts, kurš jāpārvieto
+
+2) jānospiež taustiņš Shift un ar peli jāvelk ieraksts līdz tam
+saraksta ierakstam, zem kura tas jānovieto.
+
+
+
+
+
+
+
+
+
+
+
+ 

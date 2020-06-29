@@ -1,30 +1,66 @@
-.. 884 ==========================Potenciālais partneris========================== <P>&nbsp;</P>
-<P>Jauna Potenciālā partnera pievienošana ir iespējama caur Potenciālo partneru sadaļu&nbsp;<A href="/help/?ssw=33&amp;skf_id=884">Potenciālais partneris</A>&nbsp; un <A href="/help/?ssw=33&amp;skf_id=842">Potenciālo partneru sarakstu</A>.</P>
-<P>Lai pievienotu jaunu Potenciālo partneri, rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25605" border=0>, tiek atvērts partnera datu logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26056" border=0></P>
-<P>&nbsp;</P>
-<P>Jānorāda, partnera <STRONG>Tips:</STRONG> Juridiska vai Fiziska persona;</P>
-<P><STRONG>Uzvārds:</STRONG></P>
-<P><STRONG>Vārds:</STRONG></P>
-<P><STRONG>Pers.kods:</STRONG></P>
-<P><STRONG>Mob.tālrunis</STRONG></P>
-<P><STRONG>Tālrunis:</STRONG></P>
-<P><STRONG>Epasts</STRONG></P>
-<P><STRONG>Faktiskā adrese</STRONG></P>
-<P><STRONG>Indekss</STRONG></P>
-<P><STRONG>Valsts</STRONG></P>
-<P><STRONG>Sektors</STRONG></P>
-<P><STRONG></STRONG>&nbsp;</P>
-<P>Juridiskai personai papildus lauki:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26057" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Nosaukums: </STRONG>Juridiskas personas Nosaukums;</P>
-<P><STRONG>Reģistrācijas nr.: </STRONG>Uzņēmuma reģistra datu bāzē reģistrētais nummurs;</P>
-<P><STRONG>Juridiskā adrese: </STRONG>Uzņēmuma Juridiskā adrese;</P>
-<P><STRONG>Pilsēta: </STRONG>Pilsēta;</P>
-<P><STRONG>Indekss: </STRONG>Pasta indekss;</P>
-<P><STRONG>Valsts: </STRONG>Valsts, kuru juridiskā persona pārstāv.</P>
-<P>&nbsp;</P>
-<P>Ja visi dati par Potenciālo partneri aizpildīti, tad tie jāsaglabā, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>.</P> 
+.. 884 ==========================Potenciālais partneris========================== 
+
+
+Jauna Potenciālā partnera pievienošana ir iespējama caur Potenciālo
+partneru sadaļu`Potenciālais partneris`_ un `Potenciālo partneru
+sarakstu`_.
+
+Lai pievienotu jaunu Potenciālo partneri, rīku joslā jānospiež poga ,
+tiek atvērts partnera datu logs:
+
+
+
+
+
+
+
+Jānorāda, partnera Tips: Juridiska vai Fiziska persona;
+
+Uzvārds:
+
+Vārds:
+
+Pers.kods:
+
+Mob.tālrunis
+
+Tālrunis:
+
+Epasts
+
+Faktiskā adrese
+
+Indekss
+
+Valsts
+
+Sektors
+
+
+
+Juridiskai personai papildus lauki:
+
+
+
+
+
+
+
+Nosaukums: Juridiskas personas Nosaukums;
+
+Reģistrācijas nr.: Uzņēmuma reģistra datu bāzē reģistrētais nummurs;
+
+Juridiskā adrese: Uzņēmuma Juridiskā adrese;
+
+Pilsēta: Pilsēta;
+
+Indekss: Pasta indekss;
+
+Valsts: Valsts, kuru juridiskā persona pārstāv.
+
+
+
+Ja visi dati par Potenciālo partneri aizpildīti, tad tie jāsaglabā,
+nospiežot pogu .
+
+ 

@@ -1,124 +1,268 @@
-.. 14015 ===================================Dažāda veida lauku aizpildīšana=================================== <H5>Datuma lauki</H5>
-<P>Datuma lauki ir paredzēti datuma ievadīšanai. Datuma laukus var aizpildīt no kalendāra vai ievadot ar klaviatūras palīdzību. Datuma lauku gada skaitlis aizpildās automātiski.</P>
-<P>&nbsp;</P>
-<P>Ievadiet datuma laukā vajadzīgās dienas datumu un mēnesi, spiediet taustiņu <STRONG>Tab</STRONG>, lai pārietu pie nākamā lauka aizpildīšanas. Sistēma automātiski papildinās lauku ar patreizējo gada skaitli. Gadījumā, ja dienas vai mēneša datums sastāv no viencipara skaitļa, nav nepieciešams ievadīt nulles šo skaitļu priekšā!<BR></P>
-<P>Datuma lauku var aizpildīt ar kalendāra palīdzību. Kalendāru var atvērt ar taustiņu kombinācijas <STRONG>Alt+</STRONG> <IMG src="/help/Skin/help/img.aspx?pid=24591" border=0>&nbsp;(bulta „Uz leju”) palīdzību vai izmantojot peli.</P>
-<P>&nbsp;</P>
-<P>Nepieciešamo datumu no kalendāra var izvēlēties ar peles palīdzību. Pašreizējās dienas datumu var izvēlēties ar datuma komandpogas palīdzību. Izmantojot datuma komandpogai blakus esošās pogas, var atvērt pagājušā vai nākamā mēneša datumus.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24592" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24593" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24626" border=0></P>
-<H5>Kalendārs</H5>
-<P>Datuma laukus var aizpildīt no kalendāra. Kalendāru var izsaukt ar taustiņu kombinācijas <STRONG>Alt+</STRONG> <IMG src="/help/Skin/help/img.aspx?pid=24591" border=0>&nbsp;palīdzību vai izmantojot <EM>peli</EM>.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24626" border=0></P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<UL>
-<LI><STRONG>Datuma izvēle ar klaviatūras palīdzību</STRONG></LI></UL>
-<P>Ar virziena taustiņiem ( <IMG src="/help/Skin/help/img.aspx?pid=24595" border=0>&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24597" border=0>&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24591" border=0>&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24596" border=0>&nbsp;) pārvietojieties uz izvēlēto datumu. Pa mēnešiem var pārvietoties ar taustiņu <STRONG>PageUp</STRONG> vai <STRONG>PageDown</STRONG> palīdzību. Pārvietoties pa gadu var ar taustiņu <STRONG>Ctrl+PageUp</STRONG> un <STRONG>Ctrl+PageDown</STRONG> palīdzību. Datuma izvēli veiciet ar taustiņa <STRONG>Enter</STRONG> palīdzību. Kalendāru bez datuma izvēles var aizvērt spiežot taustiņu <STRONG>Esc</STRONG>.</P>
-<P>&nbsp;</P>
-<UL>
-<LI><STRONG>Datuma izvēle ar <EM>peles </EM>palīdzību</STRONG></LI></UL>
-<P>Nepieciešamo datumu no kalendāra var izvēlēties ar <EM>peles</EM> palīdzību. Ar <EM>peli </EM>noklikšķiniet uz izvēlēto datumu. Pa mēnešiem pārvietojieties ar komandpogu <IMG src="/help/Skin/help/img.aspx?pid=24598" border=0>&nbsp;un <IMG src="/help/Skin/help/img.aspx?pid=24599" border=0>&nbsp;palīdzību. Lai aizvērtu kalendāru un ieliktu izvēlēto datumu datuma ievades laukā (no kura tika izsaukts kalendārs), spiediet komandpogu <STRONG>Turpināt</STRONG>. Kalendāru bez datuma izvēles var aizvērt spiežot komandpogu <STRONG>Atcelt</STRONG>. Uz šodienas datumu kalendāru var pārvietot ar komandpogu <STRONG>Šodiena</STRONG>. Jebkurā gadījumā pēc datuma izvēles jāspiež komandpoga <STRONG>Turpināt</STRONG> vai taustiņš <STRONG>Enter</STRONG>.</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>Ar <EM>peli </EM>ir ērti izvēlēties mēnešus. Šim nolūkam jānoklikšķina uz mēneša nosaukuma kalendāra virsrakstā. Atvērsies visa gada mēnešu izvēlne: </P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24625" border=0></P>
-<P>&nbsp;</P>
-<P>Tāpat, noklikšķinot uz gada skaitļa kalendāra virsrakstā, parādīsies gada maiņas komandpogas:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24624" border=0></P>
-<H5>Darbs ar tekstu</H5>
-<P>Darbā ar tekstu ir ērti ir izmantot iespēju īslaicīgi saglabāt tekstu datora atmiņā. Ja ir nepieciešams ievadīt vienu un to pašu informāciju vairākkārtīgi dažādās sistēmas formās, var izmantot datu kopēšanas, izgriešanas un nolikšanas iespējas.</P>
-<P>&nbsp;</P>
-<P>Iezīmējiet nepieciešamo tekstu un izmantojiet rīku joslas ikonas vai taustiņu kombinācijas, līdzīgi, kā MS Office programmās. Darbam ar tekstu jāizmanto rīku joslas komandas Izgriezt, Kopēt, Nolikt. Komandu aktivizēšanai var lietot arī taustiņu kombinācijas. </P>
-<P>&nbsp;</P>
-<P>Lai izgrieztu iezīmēto tekstu, jālieto taustiņu kombinācija <STRONG>Ctrl+X</STRONG>. Uzklikšķinot kursoru vietā, kur jānovieto teksts, jālieto taustiņu kombinācija <STRONG>Ctrl+V</STRONG>, lai noliktu izgriezto tekstu. Līdzīgi var kopēt iezīmēto tekstu, izmantojot kombināciju <STRONG>Ctrl+C</STRONG>. Komandu aktivizēšanas taustiņu kombinācijas ir redzamas galvenajā izvēlnē. </P>
-<P>&nbsp;</P>
-<P>Izmantojot teksta kopēšanas iespēju, var mainīt burtu reģistru no izvēlnes</P>
-<P>&nbsp;</P>
-<P><SPAN class=shadow>&gt;Teksts &gt; Bufera reģistrs</SPAN></P>
-<P>&nbsp;</P>
-<P>Teksta bufera reģistru var izmantot sekojoši:</P>
-<P>&nbsp;</P>
-<UL>
-<LI>ar taustiņu kombinācijas Ctrl+C palīdzību, jānokopē teksts; 
-<LI>ja tekstu nepieciešams pārvietot citā laukā, var izmantot teksta izgriešanas taustiņu kombināciju <STRONG>Ctrl+X</STRONG>; 
-<LI>no izvēlnes &gt;Teksts &gt; Bufera reģistrs jāizvēlas teksta reģistrs - Augšējais, Apakšējais vai Teikums; 
-<LI>ar taustiņu kombinācijas <STRONG>Ctrl+V</STRONG> palīdzību jānovieto teksts nepieciešamajā vietā.</LI></UL>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Bufera reģistru var izmantot tikai tādos ekrāna formu laukos, kur dati tiek ievadīti ar klaviatūras palīdzību. Fiksētās izvēles laukos bufera reģistrs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; nedarbosies<BR>&nbsp;</P>
-<TABLE>
-<TBODY>
-<TR>
-<TD>
-<H5>Bufera reģistrs</H5></TD>
-<TD>
-<H5>Paskaidrojums</H5></TD></TR>
-<TR>
-<TD>Augšējais</TD>
-<TD>Visi teksta burti ir lielie</TD></TR>
-<TR>
-<TD>Apakšējais</TD>
-<TD>Visi teksta burti ir mazie</TD></TR>
-<TR>
-<TD>Teikums</TD>
-<TD>Vārda pirmais burts ir lielais</TD></TR></TBODY></TABLE>
-<H5>Taustiņu lietošana</H5>
-<P>Visas nepieciešamās darbības grāmatvedības sistēmā var veikt ar taustiņu kombināciju palīdzību. Grāmatvedības sistēmas "Ozols" datorprogrammās izmantojamajiem taustiņiem <STRONG>Enter, Tab, Esc, Shift+Tab</STRONG> ir speciāla nozīme.</P>
-<P>&nbsp;</P>
-<P>Darbības apstiprināšanai lietojiet taustiņu <STRONG>Enter</STRONG>. Tomēr lietojiet šo taustiņu apdomīgi! Atšķirībā no DOS programmām, taustiņš <STRONG>Enter</STRONG> bieži vien aizver visu ekrāna formu – pievieno dokumentu.</P>
-<P>&nbsp;</P>
-<P>Nepareizas taustiņa lietošanas gadījumā, ja ir pievienots vēl nepabeigts dokumentu, nesāciet to veidot atkārtoti! Atrodiet šo ierakstu ekrāna formā un labojiet to, papildinot ar visu nepieciešamo informāciju.</P>
-<P>&nbsp;</P>
-<P>Taustiņu <STRONG>Enter</STRONG> var lietot, lai pievienotu izveidoto dokumentu pārējo dokumentu sarakstam vai apstiprinātu izvēlēto ierakstu fiksētas izvēles lauka aizpildīšanai. Atteikšanās gadījumā lietojiet taustiņu <STRONG>Esc</STRONG>. Šis taustiņš paredzēts arī formu aizvēršanai, aktivizējot komandu Atcelt vai Aizvērt.</P>
-<P>&nbsp;</P>
-<P>Pārvietoties pa formu laukiem uz leju iespējams, izmantojot taustiņu <STRONG>Tab</STRONG>. Pārvietoties uz augšu - lietojot taustiņu kombināciju <STRONG>Shift+Tab</STRONG>. Tomēr reizēm šāda veida darbības var aizņemt daudz laika. Taustiņu kombinācijas var izmantot, lai aktivizētu noteiktu komandu vai novietotu kursoru noteiktā ekrāna formas laukā. </P>
-<H5>Taustiņu kombinācijas</H5>
-<P>Darbā ar grāmatvedības sistēmu "Ozols", līdzīgi kā&nbsp; visās Windows programmās, var izmantot peli, bet jebkuru operāciju var veikt tikai ar klaviatūras palīdzību. Taustiņu kombināciju lietošana ir pilnīgi nepieciešama, ja jāievada liels datu daudzums – samazinās patērētais laiks un paaugstinās darba ražīgums. Taustiņu kombinācijas var lietot darbā ar tekstu.</P>
-<P>&nbsp;</P>
-<P>Atverot kādu no ekrāna formām, redzams, ka katra lauka nosaukumā ir pasvītrots kāds burts. Lietojiet taustiņu <STRONG>Alt+pasvītrotais burts</STRONG>, lai paātrināti piekļūtu Jums nepieciešamajam laukam! Īpaši ērti ir tas, ka šīs kombinācijas nebūt nav jāmācās no galvas, atverot jaunu formu, pasvītroto burtu un taustiņu lietošanas kombinācijas būs līdzīgas, un tās būs redzamas jūsu datora ekrānā.<BR></P>
-<P>Lai atvērtu izvēlni, piemēram, Atskaites, spiediet taustiņu <STRONG>Alt+E</STRONG> (burts "e" ir pasvītrots vārdā "Atskaites") un spiediet nākošo burta taustiņu, piemēram, atskaites nosaukumā pasvītroto A, lai atvērtu sociālās apdrošināšanas atskaites formu.</P>
-<P>&nbsp;</P>
-<P>Komandu aktivizēšanai, kas ir kopējas visai sistēmai, lietojiet taustiņa <STRONG>Ctrl+pasvītrotais burts</STRONG> kombināciju. Šādas komandas un arī to taustiņu kombinācijas ir redzamas izvērstā galvenajā izvēlnē.</P>
-<P>&nbsp;</P>
-<TABLE>
-<TBODY>
-<TR>
-<TD>
-<H5>Taustiņu kombinācija</H5></TD>
-<TD>
-<H5>Paskaidrojums</H5></TD></TR>
-<TR>
-<TD>Tab</TD>
-<TD>Pārvietošanās pa ekrāna formas laukiem uz leju</TD></TR>
-<TR>
-<TD>Shift+ Tab</TD>
-<TD>Pārvietošanās pa ekrāna formas laukiem uz augšu</TD></TR>
-<TR>
-<TD>Esc</TD>
-<TD>Ekrāna formas aizvēršana, komandas atcelšana</TD></TR>
-<TR>
-<TD>Enter</TD>
-<TD>Dialoga vai ekrāna formas aizvēršana, ieraksta pievienošana,<BR>labošana, fiksētās izvēles lauka aizpildīšana</TD></TR>
-<TR>
-<TD>Alt+ pasvītrotais burts</TD>
-<TD>Paātrināta pieeja laukam, komandas aktivizēšana</TD></TR>
-<TR>
-<TD>Ctrl+ pasvītrotais burts</TD>
-<TD>Kopējo darbību aktivizēšana galvenajā izvēlnē</TD></TR>
-<TR>
-<TD>Alt+ <IMG src="/help/Skin/help/img.aspx?pid=24591" border=0></TD>
-<TD>Fiksētās izvēles lauka izvēlnes atvēršana</TD></TR>
-<TR>
-<TD>Shift+ <IMG src="/help/Skin/help/img.aspx?pid=24591" border=0></TD>
-<TD>
-<P>Paplašinātā saraksta atvēršana, ja aiz lauka ir paplašinātās izvēlnes </P>
-<P>komandpoga (<IMG src="/help/Skin/help/img.aspx?pid=24714" border=0>)</P></TD></TR></TBODY></TABLE>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25300" border=0></P>
-<P>&nbsp;</P> 
+.. 14015 ===================================Dažāda veida lauku aizpildīšana=================================== 
+
+Datuma lauki
+++++++++++++
+
+Datuma lauki ir paredzēti datuma ievadīšanai. Datuma laukus var
+aizpildīt no kalendāra vai ievadot ar klaviatūras palīdzību. Datuma
+lauku gada skaitlis aizpildās automātiski.
+
+
+
+Ievadiet datuma laukā vajadzīgās dienas datumu un mēnesi, spiediet
+taustiņu Tab , lai pārietu pie nākamā lauka aizpildīšanas. Sistēma
+automātiski papildinās lauku ar patreizējo gada skaitli. Gadījumā, ja
+dienas vai mēneša datums sastāv no viencipara skaitļa, nav
+nepieciešams ievadīt nulles šo skaitļu priekšā!
+
+
+Datuma lauku var aizpildīt ar kalendāra palīdzību. Kalendāru var
+atvērt ar taustiņu kombinācijas Alt+ (bulta „Uz leju”) palīdzību vai
+izmantojot peli.
+
+
+
+Nepieciešamo datumu no kalendāra var izvēlēties ar peles palīdzību.
+Pašreizējās dienas datumu var izvēlēties ar datuma komandpogas
+palīdzību. Izmantojot datuma komandpogai blakus esošās pogas, var
+atvērt pagājušā vai nākamā mēneša datumus.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kalendārs
++++++++++
+
+Datuma laukus var aizpildīt no kalendāra. Kalendāru var izsaukt ar
+taustiņu kombinācijas Alt+ palīdzību vai izmantojot *peli*.
+
+
+
+
+
+
+
+
+
+
++ Datuma izvēle ar klaviatūras palīdzību
+
+
+Ar virziena taustiņiem ( ) pārvietojieties uz izvēlēto datumu. Pa
+mēnešiem var pārvietoties ar taustiņu PageUp vai PageDown palīdzību.
+Pārvietoties pa gadu var ar taustiņu Ctrl+PageUp un Ctrl+PageDown
+palīdzību. Datuma izvēli veiciet ar taustiņa Enter palīdzību.
+Kalendāru bez datuma izvēles var aizvērt spiežot taustiņu Esc .
+
+
+
+
++ Datuma izvēle ar *peles *palīdzību
+
+
+Nepieciešamo datumu no kalendāra var izvēlēties ar *peles* palīdzību.
+Ar *peli *noklikšķiniet uz izvēlēto datumu. Pa mēnešiem
+pārvietojieties ar komandpogu un palīdzību. Lai aizvērtu kalendāru un
+ieliktu izvēlēto datumu datuma ievades laukā (no kura tika izsaukts
+kalendārs), spiediet komandpogu Turpināt . Kalendāru bez datuma
+izvēles var aizvērt spiežot komandpogu Atcelt . Uz šodienas datumu
+kalendāru var pārvietot ar komandpogu Šodiena . Jebkurā gadījumā pēc
+datuma izvēles jāspiež komandpoga Turpināt vai taustiņš Enter .
+
+
+
+
+
+Ar *peli *ir ērti izvēlēties mēnešus. Šim nolūkam jānoklikšķina uz
+mēneša nosaukuma kalendāra virsrakstā. Atvērsies visa gada mēnešu
+izvēlne:
+
+
+
+
+
+
+
+Tāpat, noklikšķinot uz gada skaitļa kalendāra virsrakstā, parādīsies
+gada maiņas komandpogas:
+
+
+
+
+
+
+Darbs ar tekstu
++++++++++++++++
+
+Darbā ar tekstu ir ērti ir izmantot iespēju īslaicīgi saglabāt tekstu
+datora atmiņā. Ja ir nepieciešams ievadīt vienu un to pašu informāciju
+vairākkārtīgi dažādās sistēmas formās, var izmantot datu kopēšanas,
+izgriešanas un nolikšanas iespējas.
+
+
+
+Iezīmējiet nepieciešamo tekstu un izmantojiet rīku joslas ikonas vai
+taustiņu kombinācijas, līdzīgi, kā MS Office programmās. Darbam ar
+tekstu jāizmanto rīku joslas komandas Izgriezt, Kopēt, Nolikt. Komandu
+aktivizēšanai var lietot arī taustiņu kombinācijas.
+
+
+
+Lai izgrieztu iezīmēto tekstu, jālieto taustiņu kombinācija Ctrl+X .
+Uzklikšķinot kursoru vietā, kur jānovieto teksts, jālieto taustiņu
+kombinācija Ctrl+V , lai noliktu izgriezto tekstu. Līdzīgi var kopēt
+iezīmēto tekstu, izmantojot kombināciju Ctrl+C . Komandu aktivizēšanas
+taustiņu kombinācijas ir redzamas galvenajā izvēlnē.
+
+
+
+Izmantojot teksta kopēšanas iespēju, var mainīt burtu reģistru no
+izvēlnes
+
+
+
+>Teksts > Bufera reģistrs
+
+
+
+Teksta bufera reģistru var izmantot sekojoši:
+
+
+
+
++ ar taustiņu kombinācijas Ctrl+C palīdzību, jānokopē teksts;
++ ja tekstu nepieciešams pārvietot citā laukā, var izmantot teksta
+izgriešanas taustiņu kombināciju Ctrl+X ;
++ no izvēlnes >Teksts > Bufera reģistrs jāizvēlas teksta reģistrs -
+Augšējais, Apakšējais vai Teikums;
++ ar taustiņu kombinācijas Ctrl+V palīdzību jānovieto teksts
+  nepieciešamajā vietā.
+
+
+Bufera reģistru var izmantot tikai tādos ekrāna formu laukos, kur dati
+tiek ievadīti ar klaviatūras palīdzību. Fiksētās izvēles laukos bufera
+reģistrs nedarbosies
+
+
+
+
+Bufera reģistrs
++++++++++++++++
+
+
+
+Paskaidrojums
++++++++++++++
+Augšējais Visi teksta burti ir lielie Apakšējais Visi teksta burti ir
+mazie Teikums Vārda pirmais burts ir lielais
+
+
+Taustiņu lietošana
+++++++++++++++++++
+
+Visas nepieciešamās darbības grāmatvedības sistēmā var veikt ar
+taustiņu kombināciju palīdzību. Grāmatvedības sistēmas "Ozols"
+datorprogrammās izmantojamajiem taustiņiem Enter, Tab, Esc, Shift+Tab
+ir speciāla nozīme.
+
+
+
+Darbības apstiprināšanai lietojiet taustiņu Enter . Tomēr lietojiet šo
+taustiņu apdomīgi! Atšķirībā no DOS programmām, taustiņš Enter bieži
+vien aizver visu ekrāna formu – pievieno dokumentu.
+
+
+
+Nepareizas taustiņa lietošanas gadījumā, ja ir pievienots vēl
+nepabeigts dokumentu, nesāciet to veidot atkārtoti! Atrodiet šo
+ierakstu ekrāna formā un labojiet to, papildinot ar visu nepieciešamo
+informāciju.
+
+
+
+Taustiņu Enter var lietot, lai pievienotu izveidoto dokumentu pārējo
+dokumentu sarakstam vai apstiprinātu izvēlēto ierakstu fiksētas
+izvēles lauka aizpildīšanai. Atteikšanās gadījumā lietojiet taustiņu
+Esc . Šis taustiņš paredzēts arī formu aizvēršanai, aktivizējot
+komandu Atcelt vai Aizvērt.
+
+
+
+Pārvietoties pa formu laukiem uz leju iespējams, izmantojot taustiņu
+Tab . Pārvietoties uz augšu - lietojot taustiņu kombināciju Shift+Tab
+. Tomēr reizēm šāda veida darbības var aizņemt daudz laika. Taustiņu
+kombinācijas var izmantot, lai aktivizētu noteiktu komandu vai
+novietotu kursoru noteiktā ekrāna formas laukā.
+
+
+Taustiņu kombinācijas
++++++++++++++++++++++
+
+Darbā ar grāmatvedības sistēmu "Ozols", līdzīgi kā visās Windows
+programmās, var izmantot peli, bet jebkuru operāciju var veikt tikai
+ar klaviatūras palīdzību. Taustiņu kombināciju lietošana ir pilnīgi
+nepieciešama, ja jāievada liels datu daudzums – samazinās patērētais
+laiks un paaugstinās darba ražīgums. Taustiņu kombinācijas var lietot
+darbā ar tekstu.
+
+
+
+Atverot kādu no ekrāna formām, redzams, ka katra lauka nosaukumā ir
+pasvītrots kāds burts. Lietojiet taustiņu Alt+pasvītrotais burts , lai
+paātrināti piekļūtu Jums nepieciešamajam laukam! Īpaši ērti ir tas, ka
+šīs kombinācijas nebūt nav jāmācās no galvas, atverot jaunu formu,
+pasvītroto burtu un taustiņu lietošanas kombinācijas būs līdzīgas, un
+tās būs redzamas jūsu datora ekrānā.
+
+
+Lai atvērtu izvēlni, piemēram, Atskaites, spiediet taustiņu Alt+E
+(burts "e" ir pasvītrots vārdā "Atskaites") un spiediet nākošo burta
+taustiņu, piemēram, atskaites nosaukumā pasvītroto A, lai atvērtu
+sociālās apdrošināšanas atskaites formu.
+
+
+
+Komandu aktivizēšanai, kas ir kopējas visai sistēmai, lietojiet
+taustiņa Ctrl+pasvītrotais burts kombināciju. Šādas komandas un arī to
+taustiņu kombinācijas ir redzamas izvērstā galvenajā izvēlnē.
+
+
+
+
+
+Taustiņu kombinācija
+++++++++++++++++++++
+
+
+
+Paskaidrojums
++++++++++++++
+Tab Pārvietošanās pa ekrāna formas laukiem uz leju Shift+ Tab
+Pārvietošanās pa ekrāna formas laukiem uz augšu Esc Ekrāna formas
+aizvēršana, komandas atcelšana Enter Dialoga vai ekrāna formas
+aizvēršana, ieraksta pievienošana,
+labošana, fiksētās izvēles lauka aizpildīšana Alt+ pasvītrotais burts
+Paātrināta pieeja laukam, komandas aktivizēšana Ctrl+ pasvītrotais
+burts Kopējo darbību aktivizēšana galvenajā izvēlnē Alt+ Fiksētās
+izvēles lauka izvēlnes atvēršana Shift+
+Paplašinātā saraksta atvēršana, ja aiz lauka ir paplašinātās izvēlnes
+
+komandpoga ( )
+
+
+
+
+
+
+
+ 

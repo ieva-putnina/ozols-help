@@ -1,5 +1,13 @@
-.. 4203 ============Saraksti============ <P>&nbsp;</P>
-<P>Saraksti ir iepriekš sagatavota informācija, ko dokumentos pievieno fiksētās izvēles laukos ātrākai dokumenta sagatavošanai. </P>
-<P>&nbsp;</P>
-<P>Iespējams izveidot šādus sarakstus:</P>
-<P><A href="/help/?ssw=42&amp;skf_id=4207">Lietu slēgšanas iemesli</A></P> .. toctree::   :maxdepth: 5    4208.rst   4207.rst
+.. 4203 ============Saraksti============ 
+
+
+Saraksti ir iepriekš sagatavota informācija, ko dokumentos pievieno
+fiksētās izvēles laukos ātrākai dokumenta sagatavošanai.
+
+
+
+Iespējams izveidot šādus sarakstus:
+
+`Lietu slēgšanas iemesli`_
+
+ .. toctree::   :maxdepth: 5    4208.rst   4207.rst

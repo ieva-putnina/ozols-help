@@ -1,2 +1,6 @@
-.. 7004 =========Jauns========= <P>&nbsp;</P>
-<P>Izmantojot Dividenžu dokumentus iespējams pievienot jaunas <A href="/help/?ssw=70&amp;skf_id=7010">Akcijas</A>.&nbsp;</P> .. toctree::   :maxdepth: 5    7010.rst
+.. 7004 =========Jauns========= 
+
+
+Izmantojot Dividenžu dokumentus iespējams pievienot jaunas `Akcijas`_.
+
+ .. toctree::   :maxdepth: 5    7010.rst

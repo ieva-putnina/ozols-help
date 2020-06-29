@@ -1,1 +1,6 @@
-.. 7403 =============Atskaites============= <ul><li><a href="/files/Instrukcija_5DE.pdf" target=blank>Degvielas ražošanas atskaite 5DE</a></li></ul> .. toctree::   :maxdepth: 5    7425.rst   7419.rst   7418.rst   7420.rst
+.. 7403 =============Atskaites============= 
+
++ `Degvielas ražošanas atskaite 5DE`_
+
+
+ .. toctree::   :maxdepth: 5    7425.rst   7419.rst   7418.rst   7420.rst

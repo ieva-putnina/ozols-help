@@ -1,6 +1,11 @@
 .. 21 ============Saraksti============ 
-<p> </p>
-<p>Avansu sarakstos iespējams pievienot Avansu norēķinu paskaidrojumu sarakstus, kā arī apskatīt uzņēmuma Avansu personu sarakstu un papildināt jau esošo sarakstu ar jauniem ierakstiem.</p>
-<p>
-<br />
-</p> .. toctree::   :maxdepth: 5    196.rst   177.rst
+
+
+Avansu sarakstos iespējams pievienot Avansu norēķinu paskaidrojumu
+sarakstus, kā arī apskatīt uzņēmuma Avansu personu sarakstu un
+papildināt jau esošo sarakstu ar jauniem ierakstiem.
+
+
+
+
+ .. toctree::   :maxdepth: 5    196.rst   177.rst

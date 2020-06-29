@@ -1,108 +1,91 @@
-.. 4012 ==========Polise========== <p><b>Polises meklēšana<br>
-</b>Apdrošināšanas polises kartītes ekrāna formā ir jābūt iespējai ātri un ērti atrast nepieciešamo polisi. Ja tiek atrasta viena konkrēta polise, tad tā automātiski tiek parādīts tās apraksts, savādāk tiek atvērts saraksts no kura izvēlas nepieciešamo polisi. </p>
-<p><i>Lauki, pēc kuriem polisi meklēt:</i></p>
-<ul>
-<li>Polises numurs - Viennozīmīgi identificē polisi<br>
-Polises veids<br>
-Polises īpašnieks
-</li></ul>
-<p></p>
-<p><b>Kartītes lapaspuses</b></p>
-<ul>
-<li><b>Polises apraksts</b><br>
-Sērija<br>
-Numurs<br>
-Polises tips<br>
-Statuss<br>
-Noliktavas datums<br>
-Noliktavas operat.<br>
-Struktūrvienība<br>
-Aģents<br>
-Izdots aģentam<br>
-Izsniedza<br>
-Īpašnieks<br>
-Īpašnieka adrese<br>
-Īpašnieka banka<br>
-Izsniegts īpašniekam<br>
-Valūta<br>
-Apdr.obj.vērt.(īpašn.)<br>
-Apdr.obj.vērt.(apdr)<br>
-Prēmija<br>
-Atlaide<br>
-Maks.veids<br>
-Pārapdrošinātājs<br>
-Atsk.iesn.dat.<br>
-Samaksāts<br>
-Komisija<br>
-Anulēšanas datums<br>
-Anulēšanas summa
-</li></ul>
-<p></p>
-<ul>
-<li><b>Polises bilance</b><br>
-Debeta summa<br>
-Kredīta summa<br>
-Valūta<br>
-Konts<br>
-Struktūrvienība<br>
-Īpašnieks
-</li></ul>
-<p></p>
-<ul>
-<li><b>Grāmatojumi</b><br>
-Numurs<br>
-Datums<br>
-Veids<br>
-Paskaidrojums<br>
-Summa<br>
-Valūta<br>
-Debeta konts<br>
-Struktūrvienība<br>
-Partneris
-</li></ul>
-<p><b>Pirmdokumenti</b><br>
+.. 4012 ==========Polise========== 
+**Polises meklēšana
+**Apdrošināšanas polises kartītes ekrāna formā ir jābūt iespējai ātri
+un ērti atrast nepieciešamo polisi. Ja tiek atrasta viena konkrēta
+polise, tad tā automātiski tiek parādīts tās apraksts, savādāk tiek
+atvērts saraksts no kura izvēlas nepieciešamo polisi.
 
-Bankas/kases ieņēmumi<br>
+Lauki, pēc kuriem polisi meklēt:
 
-Bankas/kases izdevumi<br>
 
-Polises anulēšana<br>
++ Polises numurs - Viennozīmīgi identificē polisi Polises veids
+  Polises īpašnieks
 
+
+
+
+**Kartītes lapaspuses**
+
+
++ **Polises apraksts** Sērija Numurs Polises tips Statuss Noliktavas
+  datums Noliktavas operat. Struktūrvienība Aģents Izdots aģentam
+  Izsniedza Īpašnieks Īpašnieka adrese Īpašnieka banka Izsniegts
+  īpašniekam Valūta Apdr.obj.vērt.(īpašn.) Apdr.obj.vērt.(apdr) Prēmija
+  Atlaide Maks.veids Pārapdrošinātājs Atsk.iesn.dat. Samaksāts Komisija
+  Anulēšanas datums Anulēšanas summa
+
+
+
+
+
++ **Polises bilance** Debeta summa Kredīta summa Valūta Konts
+  Struktūrvienība Īpašnieks
+
+
+
+
+
++ **Grāmatojumi** Numurs Datums Veids Paskaidrojums Summa Valūta
+  Debeta konts Struktūrvienība Partneris
+
+
+**Pirmdokumenti**
+Bankas/kases ieņēmumi
+Bankas/kases izdevumi
+Polises anulēšana
 Polises pārapdrošināšana
-</p>
-<ul>
 
-</ul>
-<p><b>Grāmatojumu tipi<br>
-</b>Apmaksa<br>
-Komisija<br>
-Brokeru %<br>
-Anul./pārtrauktās komisija pārapdrošinātajām<br>
-Anul./pārtrauktās prēmija pārapdrošinātajām<br>
-Anulētās un pārtrauktās komisija<br>
-Anulētās un pārtrauktās prēmijas<br>
-Izmaksa saskaņā ar polises partraukšanu<br>
-Izmaksa<br>
-Apmaksātās prēmija pārapdrošināšana<br>
-Komisija cedentam<br>
-Komisija no pārapdrošinātajām<br>
-Prēmija<br>
-Prēmija pārapdrošinātajām<br>
-Prēmijas apmaksa</p>
-<p><i><b>Polises formas funkcijas:</b></i></p>
-<ul>
-<li>No apdrosināšanas polises formas iespējams:
 
-<ul>
-<li>Polises meklēšana
-</li><li>Pievienot/labot finanšu dokumentu, un polišu dokumentus atvērt skatīšanās režīmā
-</li><li>Iegrāmatot finanšu dokumentus
-</li><li>Izveidot neatkarīgus grāmatojumus napiesaistot to nevienam dokumentam
-</li><li>No apdrosināšanas polises formas iespējams
-</li></ul>
-</li><li>Elektroniski ieimportēto maksājumu uzdevumu atšifrēšana
-<ul>
-<li>Ieimportētajiem maksājumu uzdevumiem ir jāveido to atšifrēšanas algortims, kas automātiski noteiks par kuru polisi ir veikts maksājums
-</li><li>Neatšifrēto ieejošo maksājumu žurnāls, kuram operators iet cauri katru ver vaļā un piesaista atbilsto polisi, kur ir jāizveido darba režīms, kas operatoram viegli ļauj identificēt īsto polisi
-</li></ul>
-</li></ul> 
+
+
+**Grāmatojumu tipi
+**Apmaksa
+Komisija
+Brokeru %
+Anul./pārtrauktās komisija pārapdrošinātajām
+Anul./pārtrauktās prēmija pārapdrošinātajām
+Anulētās un pārtrauktās komisija
+Anulētās un pārtrauktās prēmijas
+Izmaksa saskaņā ar polises partraukšanu
+Izmaksa
+Apmaksātās prēmija pārapdrošināšana
+Komisija cedentam
+Komisija no pārapdrošinātajām
+Prēmija
+Prēmija pārapdrošinātajām
+Prēmijas apmaksa
+
+**Polises formas funkcijas:**
+
+
++ No apdrosināšanas polises formas iespējams:
+
+    + Polises meklēšana
+    + Pievienot/labot finanšu dokumentu, un polišu dokumentus atvērt
+      skatīšanās režīmā
+    + Iegrāmatot finanšu dokumentus
+    + Izveidot neatkarīgus grāmatojumus napiesaistot to nevienam
+      dokumentam
+    + No apdrosināšanas polises formas iespējams
+
++ Elektroniski ieimportēto maksājumu uzdevumu atšifrēšana
+
+    + Ieimportētajiem maksājumu uzdevumiem ir jāveido to atšifrēšanas
+      algortims, kas automātiski noteiks par kuru polisi ir veikts maksājums
+    + Neatšifrēto ieejošo maksājumu žurnāls, kuram operators iet cauri
+      katru ver vaļā un piesaista atbilsto polisi, kur ir jāizveido darba
+      režīms, kas operatoram viegli ļauj identificēt īsto polisi
+
+
+
+ 

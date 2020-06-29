@@ -1,1 +1,2 @@
-.. 5026 ===============Iestādījumi===============  .. toctree::   :maxdepth: 6    5227.rst   4494.rst   5253.rst   5017.rst   5284.rst
+.. 5026 ===============Iestādījumi=============== 
+ .. toctree::   :maxdepth: 6    5227.rst   4494.rst   5253.rst   5017.rst   5284.rst

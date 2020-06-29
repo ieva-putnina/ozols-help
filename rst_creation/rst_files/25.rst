@@ -1,7 +1,34 @@
-.. 25 =============Dokumenti============= <P>&nbsp;</P>
-<P>Lai veiktu algu aprēķinu jābūt pievienotiem <A href="/help/?ssw=33&amp;skf_id=111">Strādājošiem</A>, <A href="/help/?ssw=33&amp;skf_id=207">Slodzēm</A>, <A href="/help/?ssw=33&amp;skf_id=409">Rīkojumu dokumentiem par pieņemšanu darbā</A>, <A href="/help/?ssw=33&amp;skf_id=208">Nodokļu dokumentiem</A>, <A href="/help/?ssw=33&amp;skf_id=294">Pārskaitījumiem</A> un nodefinētai&nbsp;<A href="/help/?ssw=33&amp;skf_id=728">Algu tarifikācijai</A>. </P>
-<P>&nbsp;</P>
-<P>Kad <A href="/help/?ssw=33&amp;skf_id=207">Personāla slodzes</A>&nbsp;ir izveidotas:</P>
-<P><BR>1.Slodzēm jāpievieno <A href="/help/?ssw=33&amp;skf_id=208">Nodokļu dokumenti</A>.<BR>2.Ja nepieciešams, strādājošajiem jānosaka <A href="/help/?ssw=33&amp;skf_id=728">Algu tarifikācija</A>.<BR>3.Jāatver <A href="/help/?ssw=33&amp;skf_id=499">Algu periods</A>.<BR>4.Jāpievieno slodzes <A href="/help/?ssw=33&amp;skf_id=212">Algu aprēķinu žurnālā</A>.<BR>5.Jāizveido <A href="/help/?ssw=33&amp;skf_id=238">Izmaksu saraksts izmaksu saraksta&nbsp;žurnālā</A>.<BR>6.Jāaprēķina alga un jānosūta izmaksas uz izmaksu sarakstiem.<BR>7.Jāpārbauda algu aprēķina rezultāti, jāsagatavo <A href="/help/?ssw=33&amp;skf_id=57">Atskaites</A>.<BR>8.Jāatver nākamais algu aprēķina periods.<BR>9. Jāpievieno jauni strādājošie un jauni rīkojumi, jāpievieno slodzes atvērtajam algu aprēķina periodam.</P>
-<P><BR>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Lai algu aprēķinā tiktu piemērotas pareizas nodokļu likmes, jāpārbauda nodokļa aprēķina metožu sarakstu pareizība: <A href="/help/?ssw=33&amp;skf_id=223">Sociālo nodokļu metodes</A>&nbsp;un <A href="/help/?ssw=33&amp;skf_id=222">Ienākuma nodokļu metodes</A>, <A href="/help/?ssw=33&amp;skf_id=208">Nodokļu dokumentā</A> jāpievieno atbilstoša nodokļu aprēķina metode. Veicot algu aprēķinu <A href="/help/?ssw=33&amp;skf_id=212">Algu aprēķinu žurnālā</A>, jāpārbauda, vai tiek piemērots atbilstošais nodokļu dokuments.</P> .. toctree::   :maxdepth: 5    212.rst   681.rst   728.rst   239.rst   957.rst   238.rst   208.rst   294.rst   659.rst
+.. 25 =============Dokumenti============= 
+
+
+Lai veiktu algu aprēķinu jābūt pievienotiem `Strādājošiem`_,
+`Slodzēm`_, `Rīkojumu dokumentiem par pieņemšanu darbā`_, `Nodokļu
+dokumentiem`_, `Pārskaitījumiem`_ un nodefinētai`Algu tarifikācijai`_.
+
+
+
+Kad `Personāla slodzes`_ir izveidotas:
+
+
+1.Slodzēm jāpievieno `Nodokļu dokumenti`_.
+2.Ja nepieciešams, strādājošajiem jānosaka `Algu tarifikācija`_.
+3.Jāatver `Algu periods`_.
+4.Jāpievieno slodzes `Algu aprēķinu žurnālā`_.
+5.Jāizveido `Izmaksu saraksts izmaksu sarakstažurnālā`_.
+6.Jāaprēķina alga un jānosūta izmaksas uz izmaksu sarakstiem.
+7.Jāpārbauda algu aprēķina rezultāti, jāsagatavo `Atskaites`_.
+8.Jāatver nākamais algu aprēķina periods.
+9. Jāpievieno jauni strādājošie un jauni rīkojumi, jāpievieno slodzes
+atvērtajam algu aprēķina periodam.
+
+
+
+
+Lai algu aprēķinā tiktu piemērotas pareizas nodokļu likmes, jāpārbauda
+nodokļa aprēķina metožu sarakstu pareizība: `Sociālo nodokļu
+metodes`_un `Ienākuma nodokļu metodes`_, `Nodokļu dokumentā`_
+jāpievieno atbilstoša nodokļu aprēķina metode. Veicot algu aprēķinu
+`Algu aprēķinu žurnālā`_, jāpārbauda, vai tiek piemērots atbilstošais
+nodokļu dokuments.
+
+ .. toctree::   :maxdepth: 5    212.rst   681.rst   728.rst   239.rst   957.rst   238.rst   208.rst   294.rst   659.rst

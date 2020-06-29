@@ -1,27 +1,58 @@
-.. 14067 ===========Manuāla=========== <P>&nbsp;</P>
-<P>No izvēlnes nepieciešams aktivizēt darba režīmu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25750" border=0></P>
-<P>&nbsp;</P>
-<P>Tiks atvērts Programmas "Ozols" jauninājumu logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25752" border=0></P>
-<P>&nbsp;</P>
-<P>Ja Nesakrīt Nepieciešamā un Aktīvā programmas versijas, tad nepieciešams uzstādīt jaunāko programmas versija, to var izdarīt sekojoši:</P>
-<P>&nbsp;</P>
-<P>- Nepieciešams izvēlēties komandu: <IMG src="/help/Skin/help/img.aspx?pid=25753" border=0></P>
-<P>&nbsp;</P>
-<P>- Aizvērt programmu Ozols</P>
-<P>&nbsp;</P>
-<P>- Datu ielādes ekrāna formā&nbsp;nepieciešams izpildīt komandu&nbsp;[Run]</P>
-<P></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25754" border=0></P>
-<P>&nbsp;</P>
-<P>- Vēlreiz izpildīt komandu [Run]</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25755" border=0></P>
-<P>&nbsp;</P>
-<P>- Izpildīt komandu [UnZip]</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25756" border=0></P> 
+.. 14067 ===========Manuāla=========== 
+
+
+No izvēlnes nepieciešams aktivizēt darba režīmu:
+
+
+
+
+
+
+
+Tiks atvērts Programmas "Ozols" jauninājumu logs:
+
+
+
+
+
+
+
+Ja Nesakrīt Nepieciešamā un Aktīvā programmas versijas, tad
+nepieciešams uzstādīt jaunāko programmas versija, to var izdarīt
+sekojoši:
+
+
+
+- Nepieciešams izvēlēties komandu:
+
+
+
+- Aizvērt programmu Ozols
+
+
+
+- Datu ielādes ekrāna formānepieciešams izpildīt komandu[Run]
+
+
+
+
+
+
+
+
+
+- Vēlreiz izpildīt komandu [Run]
+
+
+
+
+
+
+
+- Izpildīt komandu [UnZip]
+
+
+
+
+
+ 

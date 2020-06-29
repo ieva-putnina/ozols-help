@@ -1,5 +1,15 @@
-.. 4459 ============Tikšanās============ <P>Notikumu žurnālā tiek saglabāti visi <A href="/help/?ssw=44&amp;skf_id=4462">izveidotie notikumi</A>.</P>
-<P>Notikumu ir iespējams atvērt caur katras <A href="/help/?ssw=44&amp;skf_id=4462">ielūgtās personas kalendāru</A>, caur <A href="/help/?ssw=44&amp;skf_id=4482">uzņēmuma kalendāru</A> (grafiku),&nbsp;caur <A href="/help/?ssw=44&amp;skf_id=4472">visu aktivitāšu sarakstu</A> un caur <A href="/help/?ssw=44&amp;skf_id=4459">notikumu žurnālu</A>.</P>
-<P>Atverot notikumu, tam iespējams veikt dažādas darbības. Lai notikums tiktu izpildīts, slēgts, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25895" border=0>, tiek atvērt logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25896" border=0></P> 
+.. 4459 ============Tikšanās============ 
+Notikumu žurnālā tiek saglabāti visi `izveidotie notikumi`_.
+
+Notikumu ir iespējams atvērt caur katras `ielūgtās personas
+kalendāru`_, caur `uzņēmuma kalendāru`_ (grafiku),caur `visu
+aktivitāšu sarakstu`_ un caur `notikumu žurnālu`_.
+
+Atverot notikumu, tam iespējams veikt dažādas darbības. Lai notikums
+tiktu izpildīts, slēgts, jānospiež poga , tiek atvērt logs:
+
+
+
+
+
+ 

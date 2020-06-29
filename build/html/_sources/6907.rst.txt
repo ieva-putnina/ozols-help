@@ -1,26 +1,62 @@
-.. 6907 ======================Pasūtījumu žurnāls====================== <P>Pasūtījuma žurnālā ir apkopoti visi pasūtījumi:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25578" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Num.:</STRONG> pasūtījuma numurs;</P>
-<P><STRONG>Datums:</STRONG> datums, kurā tika izveidots pasūtījums;</P>
-<P><STRONG>Degvielas bāze:</STRONG> nodefinētā degvielas bāze;</P>
-<P><STRONG>Pas. uz:</STRONG> datums uz kuru veikts pasūtījums;</P>
-<P><STRONG>Pasūtītājs:</STRONG> pasūtītājs, kurš veic pasūtījumu;</P>
-<P><STRONG>Pas. statuss:</STRONG> pasūtījuma statuss (iesniegts, apstiprināts, noraidīts, izpildīts)</P>
-<P><STRONG>Atbildīgā pers.:</STRONG> atbildīgā persona par pasūtījuma izpildi;</P>
-<P><STRONG>Daudzums (litri):</STRONG> degvielas daudzums litros;</P>
-<P><STRONG>Summa, Ls:</STRONG> pasūtījuma summa latos.</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Lai izveidotu jaunu degvielas pasūtījumu, degvielas pasūtījumu sadaļā Jauns jāizvēlas <A href="/help/?ssw=69&amp;skf_id=6904">Degvielas pasūtījums</A>.</P>
-<P>&nbsp;</P>
-<P>Ar filtra palīdzību iespējams atlasīt noteiktus pasūtījumus pēc dažādiem izvēlētiem kritērijiem:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25570" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Num.no_ līdz_ :</STRONG> pasūtījuma numurs;</P>
-<P><STRONG>Degvielas bāze:</STRONG> pasūtījumā nodefinētā degvielas bāze no saraksta;</P>
-<P><STRONG>Pasūtītājs:</STRONG> pasūtītājs, kurš veicis pasūtījumu (ar saraksta podziņu <IMG src="/help/Skin/help/img.aspx?pid=25564" border=0>izvēlas, ja vajag dzēst pasūtītāju, tad ar dzēšanas podziņu <IMG src="/help/Skin/help/img.aspx?pid=25571" border=0>, lai apskatītu izvēlētā pasūtītāja informāciju, tad podziņa <IMG src="/help/Skin/help/img.aspx?pid=25565" border=0>);</P>
-<P><STRONG>Datums no_ līdz_ :</STRONG> pasūtījuma datums (atvērt kalendāru ar podziņu <IMG src="/help/Skin/help/img.aspx?pid=25560" border=0>);</P>
-<P><STRONG>Pas.uz no_ līdz_ :</STRONG> datums uz kuru tika veikts pasūtījums (atvērt kalendāru ar podziņu <IMG src="/help/Skin/help/img.aspx?pid=25560" border=0>);</P>
-<P><STRONG>Pas. statuss:</STRONG> pasūtījuma statuss, ar bultiņu atverot statusa sarakstu (tiek sagatavots, mainīts atbildīgais, izpildīts, iesniegts piegādātājam, atcelts, apstiprināts);</P>
-<P>Kad visi kritēriji izvēlēti, jānospiež poga <STRONG>Atlasīt</STRONG>.</P> 
+.. 6907 ======================Pasūtījumu žurnāls====================== 
+Pasūtījuma žurnālā ir apkopoti visi pasūtījumi:
+
+
+
+
+
+
+
+Num.: pasūtījuma numurs;
+
+Datums: datums, kurā tika izveidots pasūtījums;
+
+Degvielas bāze: nodefinētā degvielas bāze;
+
+Pas. uz: datums uz kuru veikts pasūtījums;
+
+Pasūtītājs: pasūtītājs, kurš veic pasūtījumu;
+
+Pas. statuss: pasūtījuma statuss (iesniegts, apstiprināts, noraidīts,
+izpildīts)
+
+Atbildīgā pers.: atbildīgā persona par pasūtījuma izpildi;
+
+Daudzums (litri): degvielas daudzums litros;
+
+Summa, Ls: pasūtījuma summa latos.
+
+Lai izveidotu jaunu degvielas pasūtījumu, degvielas pasūtījumu sadaļā
+Jauns jāizvēlas `Degvielas pasūtījums`_.
+
+
+
+Ar filtra palīdzību iespējams atlasīt noteiktus pasūtījumus pēc
+dažādiem izvēlētiem kritērijiem:
+
+
+
+
+
+
+
+Num.no_ līdz_ : pasūtījuma numurs;
+
+Degvielas bāze: pasūtījumā nodefinētā degvielas bāze no saraksta;
+
+Pasūtītājs: pasūtītājs, kurš veicis pasūtījumu (ar saraksta podziņu
+izvēlas, ja vajag dzēst pasūtītāju, tad ar dzēšanas podziņu , lai
+apskatītu izvēlētā pasūtītāja informāciju, tad podziņa );
+
+Datums no_ līdz_ : pasūtījuma datums (atvērt kalendāru ar podziņu );
+
+Pas.uz no_ līdz_ : datums uz kuru tika veikts pasūtījums (atvērt
+kalendāru ar podziņu );
+
+Pas. statuss: pasūtījuma statuss, ar bultiņu atverot statusa sarakstu
+(tiek sagatavots, mainīts atbildīgais, izpildīts, iesniegts
+piegādātājam, atcelts, apstiprināts);
+
+Kad visi kritēriji izvēlēti, jānospiež poga Atlasīt .
+
+ 

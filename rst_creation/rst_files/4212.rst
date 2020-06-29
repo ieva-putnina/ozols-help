@@ -1,11 +1,37 @@
-.. 4212 ===================================Inventarizācijas lēmumu žurnāls=================================== <P>&nbsp;</P>
-<P>Žurnālu ir paredzēts lietot Atlīdzību lietu inventarizācijas laikā, kā rezultātā uz sistēmu Ozols tiks pārnestas visas aktīvas <A href="/help/?ssw=42&amp;skf_id=4205">Atlīdzību lietas</A>, t.i. tās ir tās atlīdzību lietas, kuras nav slēgtas, jo atlīdzību regresa lieta vēl ir aktīva.</P>
-<P>&nbsp;</P>
-<P>Žurnālam ir iespējams pievienot papildus kolonnas ar komandas "Kolonnas" (Ctrl+K) palīdzību</P>
-<P>&nbsp;</P>
-<P>Žurnālu ir iespējams sakārtot pēc jebkuras kolonnas, ar peli klikšķinot uz kolonnas pēc kuras ir nepieciešams sakārtojums</P>
-<P>&nbsp;</P>
-<P>Žurnālā ir iespējams meklēt nepieciešamos ierakstus izmantojot komandu "Meklēt" (Ctrl+M) vai "Filtrs" (Ctrl+F).</P>
-<P>&nbsp;</P>
-<P>Lai atlasītu dokumentus Inventarizācijas lēmumu žurnālā, jāizmanto datu atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.</P>
-<P>Datu atlases kritērijus var saglabāt (<IMG src="/help/Skin/help/img.aspx?pid=24938" border=0>). Izvēloties izveidoto filtra sagatavi (<IMG src="/help/Skin/help/img.aspx?pid=24943" border=0>), filtrs tiek automatizēti aizpildīts no filtra sagataves.</P> 
+.. 4212 ===================================Inventarizācijas lēmumu žurnāls=================================== 
+
+
+Žurnālu ir paredzēts lietot Atlīdzību lietu inventarizācijas laikā, kā
+rezultātā uz sistēmu Ozols tiks pārnestas visas aktīvas `Atlīdzību
+lietas`_, t.i. tās ir tās atlīdzību lietas, kuras nav slēgtas, jo
+atlīdzību regresa lieta vēl ir aktīva.
+
+
+
+Žurnālam ir iespējams pievienot papildus kolonnas ar komandas
+"Kolonnas" (Ctrl+K) palīdzību
+
+
+
+Žurnālu ir iespējams sakārtot pēc jebkuras kolonnas, ar peli
+klikšķinot uz kolonnas pēc kuras ir nepieciešams sakārtojums
+
+
+
+Žurnālā ir iespējams meklēt nepieciešamos ierakstus izmantojot komandu
+"Meklēt" (Ctrl+M) vai "Filtrs" (Ctrl+F).
+
+
+
+Lai atlasītu dokumentus Inventarizācijas lēmumu žurnālā, jāizmanto
+datu atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši
+norādītajiem datu atlases kritērijiem filtra ekrāna formā. Filtru var
+uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot
+nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus.
+Filtrs tiek izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu
+satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( ). Izvēloties izveidoto filtra
+sagatavi ( ), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+
+ 

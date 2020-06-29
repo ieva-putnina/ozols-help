@@ -1,12 +1,29 @@
-.. 14046 ======================Dokumenta kopēšana====================== <P>&nbsp;</P>
-<P>Dokumentus iespējams kopēt no dokumenta žurnāla. Kopējot dokumentu tas netiek atvērts.</P>
-<P>&nbsp;</P>
-<P>Lai dokumentu kopētu:</P>
-<P>&nbsp;</P>
-<P>1) ar kursoru dokumentu žurnālā jāatzīmē kopējamais dokuments (neatvērts)</P>
-<P>2) <STRONG>jākopē dokuments,</STRONG> izmantojot šādas iespējas:</P>
-<P>- komandu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24775" border=0>&nbsp;no rīku joslas</P>
-<P>- komandu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24773" border=0> no izvēlnes Dati</P>
-<P>- nospiežot peles labo pogu un izvēloties komandu "Kopēt"</P>
-<P>&nbsp;</P>
-<P>Jaunizveidotajā dokumentā tiek nokopēta visa informācija, kas ir bijusi tai dokumentā, kas tika kopēts.</P> 
+.. 14046 ======================Dokumenta kopēšana====================== 
+
+
+Dokumentus iespējams kopēt no dokumenta žurnāla. Kopējot dokumentu tas
+netiek atvērts.
+
+
+
+Lai dokumentu kopētu:
+
+
+
+1) ar kursoru dokumentu žurnālā jāatzīmē kopējamais dokuments
+(neatvērts)
+
+2) jākopē dokuments, izmantojot šādas iespējas:
+
+- komandu no rīku joslas
+
+- komandu no izvēlnes Dati
+
+- nospiežot peles labo pogu un izvēloties komandu "Kopēt"
+
+
+
+Jaunizveidotajā dokumentā tiek nokopēta visa informācija, kas ir
+bijusi tai dokumentā, kas tika kopēts.
+
+ 

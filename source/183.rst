@@ -1,5 +1,30 @@
-.. 183 ===============================Pamatlīdzekļu īpašuma veidi=============================== <P>Pamatlīdzekļu īpašuma veidu sarakstā jānodefinē uzņēmumā izmantotie pamatlīdzekļu īpašumu veidi (piem. <STRONG>Savi</STRONG>, <STRONG>Nomātie</STRONG>, <STRONG>Iznomātie</STRONG>, utt.). Šis saraksts (klasifikators) strādājot ar pamatlīdzekļu moduli nav obligāti jāizmanto. Ņemot uzskaitē jaunus pamatlīdzekļus vai pievienojot pamatlīdzekļu sākuma atlikumus katru pamatlīdzekli iespējams nodefinēt pie kāda no uzņēmumā izmantotā pamatlīdzekļu īpašuma veida. Pamatlīdzekļu atskaišu sagatavošanā pamatlīdzekļu&nbsp;īpašuma veidu ir iespējams izmantot kā datu (pamatīdzekļu)atlases nosacījumu, piem. atlasot tikai <STRONG>Dāvinātos</STRONG> pamatlīdzekļus.<BR><BR>Jauns pamatlīdzekļu īpašuma veids&nbsp;tiek pievienots pamatlīdzekļu īpašumu veidu sarakstā ar funkciju <IMG src="/help/Skin/help/img.aspx?pid=24532" border=0>. Pēc nepieciešamās informācijas aizpildīšanas jāspiež poga <STRONG>Saglabāt</STRONG>&nbsp;lai saglabātu jaunizveidoto ierakstu.</P>
-<P><BR><BR><IMG src="/help/Skin/help/img.aspx?pid=24531" border=0></P>
-<P>&nbsp;</P>
-<P>Pamatlīdzekļa īpašuma veidu labo ar funkciju <IMG src="/help/Skin/help/img.aspx?pid=24533" border=0>.</P>
-<P>Pamatlīdzekļu īpašuma veidu dzēš ar funkciju <IMG src="/help/Skin/help/img.aspx?pid=24534" border=0>. Pamatlīdzekļu īpašuma veidu sistēma neļauj dzēst, ja tas ir pievienots kādam sistēmā ievadītam pamatlīdzeklim.</P> 
+.. 183 ===============================Pamatlīdzekļu īpašuma veidi=============================== 
+Pamatlīdzekļu īpašuma veidu sarakstā jānodefinē uzņēmumā izmantotie
+pamatlīdzekļu īpašumu veidi (piem. Savi , Nomātie , Iznomātie , utt.).
+Šis saraksts (klasifikators) strādājot ar pamatlīdzekļu moduli nav
+obligāti jāizmanto. Ņemot uzskaitē jaunus pamatlīdzekļus vai
+pievienojot pamatlīdzekļu sākuma atlikumus katru pamatlīdzekli
+iespējams nodefinēt pie kāda no uzņēmumā izmantotā pamatlīdzekļu
+īpašuma veida. Pamatlīdzekļu atskaišu sagatavošanā
+pamatlīdzekļuīpašuma veidu ir iespējams izmantot kā datu
+(pamatīdzekļu)atlases nosacījumu, piem. atlasot tikai Dāvinātos
+pamatlīdzekļus.
+
+Jauns pamatlīdzekļu īpašuma veidstiek pievienots pamatlīdzekļu īpašumu
+veidu sarakstā ar funkciju . Pēc nepieciešamās informācijas
+aizpildīšanas jāspiež poga Saglabāt lai saglabātu jaunizveidoto
+ierakstu.
+
+
+
+
+
+
+
+Pamatlīdzekļa īpašuma veidu labo ar funkciju .
+
+Pamatlīdzekļu īpašuma veidu dzēš ar funkciju . Pamatlīdzekļu īpašuma
+veidu sistēma neļauj dzēst, ja tas ir pievienots kādam sistēmā
+ievadītam pamatlīdzeklim.
+
+ 

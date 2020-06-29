@@ -1,39 +1,112 @@
-.. 562 ===========Bilance=========== <p>&nbsp;</p>
-<p>Bilance ir konfigurējama atskaite, kas tiek saglabāta atskaišu <a href="/help/?ssw=33&amp;skf_id=531">Sarakstā</a>. Bilance tiek izveidota pēc sastādītās atskaites konfigurācijas. Atskaites konfigurācijā jāpievieno bilances rindas, atbilstoši gada pārskata veidlapas prasībām, un izteiksmes grāmatvedības datu ievietošanai bilances rindās.</p>
-<p>&nbsp;</p>
-<p>Lai būtu iespējams sagatavot atskaiti - Bilance,&nbsp;iepriekš jābūt izveidotai <a href="/help/?ssw=33&amp;skf_id=179">Grāmatojumu atskaišu konfigurācijai</a>.</p>
-<h4>Atskaites - Bilance - sagatavošana</h4>
+.. 562 ===========Bilance=========== 
 
-<p>1. Izvēloties Virsgrāmatas atskaiti - Bilance, tiks atvērt filtra logs, kur jānorāda nepieciešamie parametri, pēc kādiem atskaite tiks sagatavota:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25043" border="0"></p>
-<p>&nbsp;</p>
-<p>2. Nepieciešams norādīt attiecīgo profilu - <a href="/help/?ssw=33&amp;skf_id=179">atskaites konfigurāciju</a>, pēc kādiem konfigurācijas datiem atskaite tiks sagatavota:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25045" border="0"></p>
-<p>&nbsp;</p>
-<p>3. Nepieciešams norādīt periodu, par kuru atskaite tiks sagatavota, izvēloties kādu no definētajiem datuma nosacījumiem vai arī "cits" un ievadot datumus manuāli:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25046" border="0"></p>
-<p>4. Ja vienā Ozols datu bāzē tiek veikta grāmatvedības uzskaite vairākiem uzņēmumiem,&nbsp;filtrā iespējams izvēlēties, pēc kura uzņēmuma datiem atskaite tiks sagatavota:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25047" border="0"></p>
-<p>&nbsp;</p>
-<p>5.&nbsp;Iespēja norādīt cik zīmes aiz komata&nbsp;būtu jāuzrāda atskaitē:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25048" border="0"></p>
-<p>&nbsp;</p>
-<p>6. Atskaite tiks sagatavota, nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=25049" border="0">:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25052" border="0"></p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;1. Sadaļā "Dati" tiek parādīta sagatavotā atskaites informācija, pēc filtrā norādītajiem parametriem. Tiek parādītas bilances rindas un summas. Katrai bilances rindai tiek noteikts rindas sakārtojums, aktīvs vai pasīvs, teksta stils, rindas nosaukums un kods. Rindai var pievienot piezīmes numuru.</p>
-<p>&nbsp;&nbsp;&nbsp;2. Sadaļā "Virsraksts" tiek parādīta atskaites Virsraksta informācija - informācija par uzņēmumu (nosaukums, reģistrācijas nr., adrese, vadītājs) un atskaites nosaukums, kas nosaukumā ietver periodu, par kuru atskaite tiek sagatavota.</p>
-<p>&nbsp;&nbsp;&nbsp;3. Sadaļā "Papildus" tiek parādīta vispārēja informācija, kas ņemta no norādītajiem filtra parametriem sagatavojot atskaiti: izvēlētā atskaites konfigurācija, izvēlētais uzņēmums, pēc kura datiem šī atskaite tika sagatavota un norādītais zīmju skaits summām aiz komata. Ekrāna formā ir pieejams atskaišu konfigurācijas saraksts.</p>
-<p>&nbsp;</p>
-<p>7. Nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=25055" border="0">, komanda izsauc atskaites konfigurācijas ekrāna formu, to var papildināt neaizverot atskaiti.</p>
-<p>&nbsp;</p>
-<p>8. Ja pēc atskaites sagatavošanas veiktas izmaiņas <a href="/help/?ssw=33&amp;skf_id=179">atskaites konfigurācijā</a>,&nbsp; atskaiti pēc izmanītās konfigurācijas datiem var pārrēķināt, nospiežot pogu: <img src="/help/Skin/help/img.aspx?pid=25053" border="0">. Pārrēķinot atskaiti, tajā tiek parādīti jaunākie dati.</p>
-<p>9. Sagatavoto atskaiti iespējams saglabāt <a href="/help/?ssw=33&amp;skf_id=531">VID atskaišu sarakstā</a>, kur tā būs pieejama labošanai/drukāšanai, nospiežot pogu: <img src="/help/Skin/help/img.aspx?pid=25054" border="0">.</p>
-<p>&nbsp;</p>
-<p>10. Nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24617" border="0">&nbsp;atskaite sagatavota netiks un darbība tiks atcelta. Ja atskaite tiek izveidota un nav jāsaglabā, jālieto komanda <strong>Atcelt</strong><font color="#000000">. Ja atskaite ir saglabāta sarakstā, komandu&nbsp;<strong>Atcelt</strong> var izmantot, lai nesaglabātu atskaitē veiktās izmaiņas.</font></p> 
+
+Bilance ir konfigurējama atskaite, kas tiek saglabāta atskaišu
+`Sarakstā`_. Bilance tiek izveidota pēc sastādītās atskaites
+konfigurācijas. Atskaites konfigurācijā jāpievieno bilances rindas,
+atbilstoši gada pārskata veidlapas prasībām, un izteiksmes
+grāmatvedības datu ievietošanai bilances rindās.
+
+
+
+Lai būtu iespējams sagatavot atskaiti - Bilance,iepriekš jābūt
+izveidotai `Grāmatojumu atskaišu konfigurācijai`_.
+
+
+Atskaites - Bilance - sagatavošana
+``````````````````````````````````
+
+1. Izvēloties Virsgrāmatas atskaiti - Bilance, tiks atvērt filtra
+logs, kur jānorāda nepieciešamie parametri, pēc kādiem atskaite tiks
+sagatavota:
+
+
+
+
+
+
+
+2. Nepieciešams norādīt attiecīgo profilu - `atskaites
+konfigurāciju`_, pēc kādiem konfigurācijas datiem atskaite tiks
+sagatavota:
+
+
+
+
+
+
+
+3. Nepieciešams norādīt periodu, par kuru atskaite tiks sagatavota,
+izvēloties kādu no definētajiem datuma nosacījumiem vai arī "cits" un
+ievadot datumus manuāli:
+
+
+
+
+
+4. Ja vienā Ozols datu bāzē tiek veikta grāmatvedības uzskaite
+vairākiem uzņēmumiem,filtrā iespējams izvēlēties, pēc kura uzņēmuma
+datiem atskaite tiks sagatavota:
+
+
+
+
+
+
+
+5.Iespēja norādīt cik zīmes aiz komatabūtu jāuzrāda atskaitē:
+
+
+
+
+
+
+
+6. Atskaite tiks sagatavota, nospiežot pogu :
+
+
+
+
+
+
+
+1. Sadaļā "Dati" tiek parādīta sagatavotā atskaites informācija, pēc
+filtrā norādītajiem parametriem. Tiek parādītas bilances rindas un
+summas. Katrai bilances rindai tiek noteikts rindas sakārtojums,
+aktīvs vai pasīvs, teksta stils, rindas nosaukums un kods. Rindai var
+pievienot piezīmes numuru.
+
+2. Sadaļā "Virsraksts" tiek parādīta atskaites Virsraksta informācija
+- informācija par uzņēmumu (nosaukums, reģistrācijas nr., adrese,
+vadītājs) un atskaites nosaukums, kas nosaukumā ietver periodu, par
+kuru atskaite tiek sagatavota.
+
+3. Sadaļā "Papildus" tiek parādīta vispārēja informācija, kas ņemta no
+norādītajiem filtra parametriem sagatavojot atskaiti: izvēlētā
+atskaites konfigurācija, izvēlētais uzņēmums, pēc kura datiem šī
+atskaite tika sagatavota un norādītais zīmju skaits summām aiz komata.
+Ekrāna formā ir pieejams atskaišu konfigurācijas saraksts.
+
+
+
+7. Nospiežot pogu , komanda izsauc atskaites konfigurācijas ekrāna
+formu, to var papildināt neaizverot atskaiti.
+
+
+
+8. Ja pēc atskaites sagatavošanas veiktas izmaiņas `atskaites
+konfigurācijā`_, atskaiti pēc izmanītās konfigurācijas datiem var
+pārrēķināt, nospiežot pogu: . Pārrēķinot atskaiti, tajā tiek parādīti
+jaunākie dati.
+
+9. Sagatavoto atskaiti iespējams saglabāt `VID atskaišu sarakstā`_,
+kur tā būs pieejama labošanai/drukāšanai, nospiežot pogu: .
+
+
+
+10. Nospiežot pogu atskaite sagatavota netiks un darbība tiks atcelta.
+Ja atskaite tiek izveidota un nav jāsaglabā, jālieto komanda Atcelt .
+Ja atskaite ir saglabāta sarakstā, komandu Atcelt var izmantot, lai
+nesaglabātu atskaitē veiktās izmaiņas.
+
+ 

@@ -1,7 +1,20 @@
-.. 216 =============Kalendārs============= <P>&nbsp;</P>
-<P>Šajā sarakstā tiek&nbsp;attēlots kalendārs, atbilstoši filtrā norādītajiem kritērijiem. Izvēloties šo darba režīmu, sākotnēji tiek piedāvāts saraksta filtrs, kurā iespējams norādīt nepieciešamos datu atlases kritērijus: laika periodu un ievadīto uzņēmuma kalendāru, atbilstoši kuram dati tiks atlasīti:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26408" border=0></P>
-<P>&nbsp;</P>
-<P>Nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25944" border=0>, tiks atlasīts izvēlētais saraksts.</P>
-<P>&nbsp;</P> 
+.. 216 =============Kalendārs============= 
+
+
+Šajā sarakstā tiekattēlots kalendārs, atbilstoši filtrā norādītajiem
+kritērijiem. Izvēloties šo darba režīmu, sākotnēji tiek piedāvāts
+saraksta filtrs, kurā iespējams norādīt nepieciešamos datu atlases
+kritērijus: laika periodu un ievadīto uzņēmuma kalendāru, atbilstoši
+kuram dati tiks atlasīti:
+
+
+
+
+
+
+
+Nospiežot pogu , tiks atlasīts izvēlētais saraksts.
+
+
+
+ 

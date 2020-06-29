@@ -1,1 +1,26 @@
-.. 590 =======================Rezultāti vertikāli======================= Atskaite parāda algu aprēķina rezultātus, atbilstoši izvēlētajām sakonfigurētajām atskaišu kolonnām.<br>Sagatavojot atskaiti rezultāti vertikāli, atskaites filtrā jāizvēlas atskaišu Rezultāti - <a href="/help/?ssw=33&amp;skf_id=214">sakonfigurētās atskaišu kolonnas</a>, kas nosaka, kādi dati atskaitē tiks parādīti. Atskaite tiek sagatavota no izvēlnes:<br><br><img src="Skin/help/img.aspx?pid=26548" border="0"><br><br>Rezultātu atskaitē vertikāli datus var atlasīt pa aprēķina periodiem, atsevišķām struktūrvienībām, finansējumiem, amatiem, slodzes veidiem, personāla kategorijām. <br>Datus var grupēt pēc dažādiem datu uzskaites parametriem – struktūrvienībām, dzīvesvietas koda u.c. Ja strādājošajam ir vairākas slodzes, tad rezultātu atskaitē vertikāli vairākus slodzes datus var grupēt pēc personas. Datus var parādīt kā kopsavilkumu.<br>Atskaitē dati tiek parādīti vertikālā sarakstā. Atbilstoši izvēlētajām atskaites kolonnām datu atlases filtrā, atskaitē tiek parādīti visi aprēķinātie algu rezultāti strādājošajiem.<br><br><img src="Skin/help/img.aspx?pid=26549" border="0"><br><br>Atskaitei iespējams mainīt skatu, rīku joslā nospiežot pogu Skats <img src="Skin/help/img.aspx?pid=26550" border="0">, uz HTML, lai eksportētu uz MS Excel vai lai izdrukātu.<br> 
+.. 590 =======================Rezultāti vertikāli======================= Atskaite parāda algu aprēķina rezultātus, atbilstoši izvēlētajām
+sakonfigurētajām atskaišu kolonnām.
+Sagatavojot atskaiti rezultāti vertikāli, atskaites filtrā jāizvēlas
+atskaišu Rezultāti - `sakonfigurētās atskaišu kolonnas`_, kas nosaka,
+kādi dati atskaitē tiks parādīti. Atskaite tiek sagatavota no
+izvēlnes:
+
+
+
+Rezultātu atskaitē vertikāli datus var atlasīt pa aprēķina periodiem,
+atsevišķām struktūrvienībām, finansējumiem, amatiem, slodzes veidiem,
+personāla kategorijām.
+Datus var grupēt pēc dažādiem datu uzskaites parametriem –
+struktūrvienībām, dzīvesvietas koda u.c. Ja strādājošajam ir vairākas
+slodzes, tad rezultātu atskaitē vertikāli vairākus slodzes datus var
+grupēt pēc personas. Datus var parādīt kā kopsavilkumu.
+Atskaitē dati tiek parādīti vertikālā sarakstā. Atbilstoši izvēlētajām
+atskaites kolonnām datu atlases filtrā, atskaitē tiek parādīti visi
+aprēķinātie algu rezultāti strādājošajiem.
+
+
+
+Atskaitei iespējams mainīt skatu, rīku joslā nospiežot pogu Skats , uz
+HTML, lai eksportētu uz MS Excel vai lai izdrukātu.
+
+ 

@@ -1,1 +1,3 @@
-.. 14139 ====================================================4.Darba uzsākšana ar OZOLS ēdināšanas risinājumu==================================================== Lai atvērtu instrukciju darba uzsākšanai ar OZOLS ēdināšanas risinājumu spiediet <a href="/files/Edinasanas_risinajums.pdf">šeit</a> 
+.. 14139 ====================================================4.Darba uzsākšana ar OZOLS ēdināšanas risinājumu==================================================== Lai atvērtu instrukciju darba uzsākšanai ar OZOLS ēdināšanas
+risinājumu spiediet `šeit`_
+ 

@@ -1,6 +1,17 @@
-.. 145 =================================Kontu atlikumi (kopsavilkums)================================= <P>&nbsp;</P>
-<P>Kontu atlikumu kopsavilkumā tiek parādīti ievadītie kontu atlikumi, sasummējot&nbsp;atlikumu summas&nbsp;pa kontiem, nedalot summas pa datu uzskaites dimensijām un analītiku - partneriem:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25094" border=0>&nbsp;</P>
-<P>&nbsp;</P>
-<P>Kontu atlikumu kopsavilkuma saraksts ir informatīvs, atlikumi ir jāpievieno no saraksta <A href="/help/?ssw=33&amp;skf_id=146">Kontu atlikumi</A>.</P> 
+.. 145 =================================Kontu atlikumi (kopsavilkums)================================= 
+
+
+Kontu atlikumu kopsavilkumā tiek parādīti ievadītie kontu atlikumi,
+sasummējotatlikumu summaspa kontiem, nedalot summas pa datu uzskaites
+dimensijām un analītiku - partneriem:
+
+
+
+
+
+
+
+Kontu atlikumu kopsavilkuma saraksts ir informatīvs, atlikumi ir
+jāpievieno no saraksta `Kontu atlikumi`_.
+
+ 

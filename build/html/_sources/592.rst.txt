@@ -1,3 +1,17 @@
-.. 592 ================================Darba laika uzskaites tabele================================ <P>&nbsp;</P>
-<P>Darba laika uzskaites tabele parāda darba laika uzskaiti katram strādājošajam. Datus var sagatavot par vienu periodu, atsevišķi pa struktūrvienībām. Atskaites datus veido slodzes kalendāri, kur var noteikt strādājošā kavētās darba dienas, slimības dienas u.tml..</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Atskaites pareizu sagatavošanu nodrošina ieejoši darba laika uzskaites kodu tipu izmantošana un pareiza darba laika uzskaite strādājošā slodzes kalendārā.<BR>Darba laika uzskaites tabeli var sagatavot noteiktam aprēķina periodam, atlasot datus par struktūrvienībām, amatiem un citiem datu atlases kritērijiem.<BR>Tabele tiek sagatavota tikai HTML skatā.</P> 
+.. 592 ================================Darba laika uzskaites tabele================================ 
+
+
+Darba laika uzskaites tabele parāda darba laika uzskaiti katram
+strādājošajam. Datus var sagatavot par vienu periodu, atsevišķi pa
+struktūrvienībām. Atskaites datus veido slodzes kalendāri, kur var
+noteikt strādājošā kavētās darba dienas, slimības dienas u.tml..
+
+Atskaites pareizu sagatavošanu nodrošina ieejoši darba laika uzskaites
+kodu tipu izmantošana un pareiza darba laika uzskaite strādājošā
+slodzes kalendārā.
+Darba laika uzskaites tabeli var sagatavot noteiktam aprēķina
+periodam, atlasot datus par struktūrvienībām, amatiem un citiem datu
+atlases kritērijiem.
+Tabele tiek sagatavota tikai HTML skatā.
+
+ 

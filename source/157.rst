@@ -1,20 +1,99 @@
-.. 157 ==============================Pārdošanas dokumentu veidi============================== <p><br></p><p>Sarakstā tiek saglabāti&nbsp;pārdošanas dokumentu veidi, kas tiek izmantoti&nbsp;pārdošanas dokumentu aizpildīšanai.Atsevišķi dokumentu veidi tiek izmantoti, lai programmā veiktu noteiktas uzskaites funkcijas. Dokumentu veidus var izmantot, lai dokumentu žurnālos ar datu atlases filtru palīdzību parādītu tikai viena veida dokumentus, noteiktu atsevišķu dokumenta numerāciju <br></p>
-
-<h4>Jauna pārdošanas dokumenta veida pievienošana<br></h4>
-<p>Lai pievienotu jaunu&nbsp;pārdošanas dokumenta veidu, jāizmanto komanda&nbsp;<img src="/help/Skin/help/img.aspx?pid=24879" border="0">&nbsp; no rīku joslas (Alt+P) un tiks atvērts jauns logs: </p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26498" border="0"><br></p>
-<p><br></p><p><b>Veids</b>: ja tiek pievienots jauns pārdošanas dok.veids - jāizvēlas pārdošanas dokuments;</p><p><b>Dok.veids</b>: nepieciešams norādīts atbilstošo dokumenta veidu - Rēķins, Pavadzīmes vai Piedāvājums.</p>
-<p><i><strong></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rēķins</i> - izmantojams pakalpojumu ievadei, izmantojot rēķinu netiek noformēta preču/krājumu kustība Noliktavā; <br></p>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i> </i></strong><i>Stingrās uzskaites pavadzīme</i> - nodrošina stingrās uzskaites dokumenta numura un sērijas lauka 
-izmantošanu veidlapu izlietojuma uzskaitei, kā arī noformē preču/krājumu kustību 
-noliktavā.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <i>Piedāvājums</i> - izmantojams piedāvājumu dokumentu noformēšanai.<br></p>
-<p><b>VID.darījuma veids:</b> nepieciešams norādīt ierakstu no saraksta, atbilstoši darījuma veidam, kuri tiks noformēti ar šo pārdošanas dokumenta veidu,&nbsp;</p><p><b>VID.dok.veids:</b> nepieciešams norādīt atbilstošo VID noteikto dokumenta veidu;</p><p><b>Kods:</b> pārdošanas dokumenta veida kodējums - pazīme, kas būs piesaistīta konkrētajam pārdošanas dokumenta veidam;</p><p><b>Nosaukums</b>: jaunizveidotā pārdošanas dokumenta veida nosaukums;</p><p><b>Virsraksts:</b> jaunizveidotā pārdošanas dokumenta veida Virsraksts, kas tiks uzrādīts arī pārdošanas dok.izdrukā;</p><p><b>Opcijas:</b> iespējams atzīmēt jaunizveidotā pārdošanas dokumenta papildus funkcijas:</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Apmaksājams dokuments</i> - attiecīgais pārd.dokumenta veids tiks iekļauts neapmaksāto pārd.dokumentu atskaitē;</p><p><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Negrāmatojams dokuments</i> - attiecīgo pārd.dokumenta veidu nebūs iespējams grāmatot;</p><p><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Atļaut saglabāt nepilnīgi aizpildītu rēķinu</i> - dokumentu, ar attiecīgo veidu būs iespējams saglabāt pilnvērtīgi neaizpildītu;<br></p><i>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; Atļaut krājumu pievienošanu</i> - izmantojot šo veidu, būs iespējams sagatavot Pārdošanas dokumentu, kura saturā būs iespējams pievienot arī krājumus;<br><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Avansa rēķins</i> - iespēja sagatavot pārdošanas dokumentu kā avansa rēķinu.<br><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; Kredītrēķins</i> - attiecīgo pārdošanas dokumenta veidu būs iespējams saistīt ar bankas izdevuma dokumentu;&nbsp;
-<p>Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu <img src="/help/Skin/help/img.aspx?pid=24867" border="0">&nbsp; no rīku joslas vai (Ctrl+S).</p>
-<h4>Pārdošanas dokumenta veida labošana<br></h4>
+.. 157 ==============================Pārdošanas dokumentu veidi============================== 
 
 
-<p>Lai veiktu labojumus&nbsp;pārdošanas dokumenta veidā, ierakstu nepieciešams atvērt, izmantojot komandu <img src="/help/Skin/help/img.aspx?pid=24869" border="0">&nbsp; no rīku joslas (Alt+A). Atvērtajā logā iespējams mainīt jebkuru no laukos esošo informāciju. Pēc labojumu veikšanas, veiktās izmaiņas iespējams saglabāt ar komandu <img src="/help/Skin/help/img.aspx?pid=24867" border="0">&nbsp; no rīku joslas. <br></p>
-<h4>Pārdošanas&nbsp;dokumenta veida dzēšana<br></h4>
 
-<p>Lai dzēstu&nbsp;pārdošanas dokumenta veidu, jāizmanto komanda&nbsp;<img src="Skin/help/img.aspx?pid=25602" border="0">&nbsp; no rīku joslas. Ieraksts ir jādzēš neatvērtā veidā. <br></p> 
+Sarakstā tiek saglabātipārdošanas dokumentu veidi, kas tiek
+izmantotipārdošanas dokumentu aizpildīšanai.Atsevišķi dokumentu veidi
+tiek izmantoti, lai programmā veiktu noteiktas uzskaites funkcijas.
+Dokumentu veidus var izmantot, lai dokumentu žurnālos ar datu atlases
+filtru palīdzību parādītu tikai viena veida dokumentus, noteiktu
+atsevišķu dokumenta numerāciju
+
+
+
+
+Jauna pārdošanas dokumenta veida pievienošana
+
+Lai pievienotu jaunupārdošanas dokumenta veidu, jāizmanto komanda no
+rīku joslas (Alt+P) un tiks atvērts jauns logs:
+
+
+
+
+
+
+
+
+
+**Veids**: ja tiek pievienots jauns pārdošanas dok.veids - jāizvēlas
+pārdošanas dokuments;
+
+**Dok.veids**: nepieciešams norādīts atbilstošo dokumenta veidu -
+Rēķins, Pavadzīmes vai Piedāvājums.
+
+Rēķins - izmantojams pakalpojumu ievadei, izmantojot rēķinu netiek
+noformēta preču/krājumu kustība Noliktavā;
+
+
+Stingrās uzskaites pavadzīme - nodrošina stingrās uzskaites dokumenta
+numura un sērijas lauka izmantošanu veidlapu izlietojuma uzskaitei, kā
+arī noformē preču/krājumu kustību noliktavā.
+
+Piedāvājums - izmantojams piedāvājumu dokumentu noformēšanai.
+
+
+**VID.darījuma veids:** nepieciešams norādīt ierakstu no saraksta,
+atbilstoši darījuma veidam, kuri tiks noformēti ar šo pārdošanas
+dokumenta veidu,
+
+**VID.dok.veids:** nepieciešams norādīt atbilstošo VID noteikto
+dokumenta veidu;
+
+**Kods:** pārdošanas dokumenta veida kodējums - pazīme, kas būs
+piesaistīta konkrētajam pārdošanas dokumenta veidam;
+
+**Nosaukums**: jaunizveidotā pārdošanas dokumenta veida nosaukums;
+
+**Virsraksts:** jaunizveidotā pārdošanas dokumenta veida Virsraksts,
+kas tiks uzrādīts arī pārdošanas dok.izdrukā;
+
+**Opcijas:** iespējams atzīmēt jaunizveidotā pārdošanas dokumenta
+papildus funkcijas:
+
+Apmaksājams dokuments - attiecīgais pārd.dokumenta veids tiks iekļauts
+neapmaksāto pārd.dokumentu atskaitē;
+
+Negrāmatojams dokuments - attiecīgo pārd.dokumenta veidu nebūs
+iespējams grāmatot;
+
+Atļaut saglabāt nepilnīgi aizpildītu rēķinu - dokumentu, ar attiecīgo
+veidu būs iespējams saglabāt pilnvērtīgi neaizpildītu;
+
+Atļaut krājumu pievienošanu - izmantojot šo veidu, būs iespējams
+sagatavot Pārdošanas dokumentu, kura saturā būs iespējams pievienot
+arī krājumus;
+Avansa rēķins - iespēja sagatavot pārdošanas dokumentu kā avansa
+rēķinu.
+Kredītrēķins - attiecīgo pārdošanas dokumenta veidu būs iespējams
+saistīt ar bankas izdevuma dokumentu;
+Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu no rīku
+joslas vai (Ctrl+S).
+
+
+Pārdošanas dokumenta veida labošana
+
+Lai veiktu labojumuspārdošanas dokumenta veidā, ierakstu nepieciešams
+atvērt, izmantojot komandu no rīku joslas (Alt+A). Atvērtajā logā
+iespējams mainīt jebkuru no laukos esošo informāciju. Pēc labojumu
+veikšanas, veiktās izmaiņas iespējams saglabāt ar komandu no rīku
+joslas.
+
+
+
+Pārdošanasdokumenta veida dzēšana
+
+Lai dzēstupārdošanas dokumenta veidu, jāizmanto komanda no rīku
+joslas. Ieraksts ir jādzēš neatvērtā veidā.
+
+
+ 

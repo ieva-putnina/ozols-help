@@ -1,2 +1,10 @@
-.. 744 =================Korespondence================= <P>&nbsp;</P>
-<P>Korespondences žurnālā&nbsp;tiek saglabāti visi sagatavotie Ienākošās vai Izejošās&nbsp;<A href="/help/?ssw=33&amp;skf_id=745">Korespondences ieraksti</A>, kas piesaistīti kādam no sistēmā ievadītajiem dokumentiem (vai nu izmantojot taustiņu kombināciju CTRL+Q vai arī opciju no izvēlnes loga Dati-&gt;Jauna aktivitāte (CTRL+Q))</P> 
+.. 744 =================Korespondence================= 
+
+
+Korespondences žurnālātiek saglabāti visi sagatavotie Ienākošās vai
+Izejošās`Korespondences ieraksti`_, kas piesaistīti kādam no sistēmā
+ievadītajiem dokumentiem (vai nu izmantojot taustiņu kombināciju
+CTRL+Q vai arī opciju no izvēlnes loga Dati->Jauna aktivitāte
+(CTRL+Q))
+
+ 

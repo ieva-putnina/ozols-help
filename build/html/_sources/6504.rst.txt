@@ -1,9 +1,20 @@
-.. 6504 ========Rīki======== <P>&nbsp;</P>
-<P>Polišu Rīki nodrošina:</P>
-<P>&nbsp;</P>
-<P><A href="/help/?ssw=65&amp;skf_id=6523">Polišu darba virsmas attēlošanu</A></P>
-<P><A href="/help/?ssw=65&amp;skf_id=6525">Polišu importu</A></P>
-<P><A href="/help/?ssw=65&amp;skf_id=6512">Polišu izsniegšanu brokerim</A></P>
-<P><A href="/help/?ssw=65&amp;skf_id=6517">Polišu komisijas aprēķinu</A></P>
-<P><A href="/help/?ssw=65&amp;skf_id=6511">Polišu pievienošanu noliktavā</A></P>
-<P>&nbsp;</P> .. toctree::   :maxdepth: 5    6511.rst   6578.rst   6523.rst   6525.rst   6512.rst   6517.rst
+.. 6504 ========Rīki======== 
+
+
+Polišu Rīki nodrošina:
+
+
+
+`Polišu darba virsmas attēlošanu`_
+
+`Polišu importu`_
+
+`Polišu izsniegšanu brokerim`_
+
+`Polišu komisijas aprēķinu`_
+
+`Polišu pievienošanu noliktavā`_
+
+
+
+ .. toctree::   :maxdepth: 5    6511.rst   6578.rst   6523.rst   6525.rst   6512.rst   6517.rst

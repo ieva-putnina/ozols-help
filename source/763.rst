@@ -1,28 +1,73 @@
-.. 763 =============Izglītība============= <P>&nbsp;</P>
-<P>Izglītības&nbsp;dokumentu žurnālā tiek saglabāti visi <A href="/help/?ssw=33&amp;skf_id=111">Strādājošo</A> kartiņās pievienotie dati par&nbsp;izglītību.</P>
-<P>Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Rīku joslā nopiežot pogu<IMG src="/help/Skin/help/img.aspx?pid=24535" border=0>(Ctrl+F), tiek atvērts filtra logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26098" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Struktūrv.</STRONG>: Iespēja atlasīt informāciju par izglītību, konkrētā struktūrvienībā strādājošajiem;</P>
-<P><STRONG>Amats</STRONG>:&nbsp;Iespēja atlasīt izglītības datus&nbsp;strādājošiem pēc filtrā&nbsp;izvēlētā Amata nosaukuma;</P>
-<P><STRONG>Slodzes: </STRONG>Dokumentu žurnālā iespējams atlasīt datus - informāciju par Izglītību&nbsp;tikai Aktīvajām vai Neaktīvajām slodzēm.</P>
-<P>&nbsp;</P>
-<P>Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25944" border=0>.</P>
-<H5>Izglītības&nbsp;pievienošana </H5>
-<P>Jaunu&nbsp;Izglītības datu&nbsp;ierakstu strādājošajam iespējams izveidot:</P>
-<P>&nbsp;</P>
-<P>1. <A href="/help/?ssw=33&amp;skf_id=111">Strādājošā aprakstā</A>, sadāļā Personāls - iespēja pievienot&nbsp;informācijas par izglītību:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25779" border=0></P>
-<P>&nbsp;</P>
-<P>2. Atrodoties&nbsp;<A href="/help/?ssw=33&amp;skf_id=763">Izglītības dokumentu žurnālā</A> un rīku joslā&nbsp;nospiežot pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>:</P>
-<P>&nbsp;</P>
-<P>Izvēloties pievienot Izglītības datus, jāizvēlas slodze (strādājošais), kuram šī informācija tiks pievienota:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26099" border=0></P>
-<P>&nbsp;</P>
-<P>Nepieciešams norādīt atbilstošo veidu no saraksta, ievadīt Izglītības iestādes nosaukumu, laika termiņu no...līdz, kā arī iespēja ievadīt Izglītības dokumenta Sēriju un Nr.</P>
-<P>Dati tiek saglabāti nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>. </P>
-<P>&nbsp;</P>
-<P>Pievienotie ieraksti&nbsp;tiek saglabāti <A href="/help/?ssw=33&amp;skf_id=763">Izglītības dokumentos</A>.</P> 
+.. 763 =============Izglītība============= 
+
+
+Izglītībasdokumentu žurnālā tiek saglabāti visi `Strādājošo`_ kartiņās
+pievienotie dati parizglītību.
+
+Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
+tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
+ekrāna formā. Rīku joslā nopiežot pogu (Ctrl+F), tiek atvērts filtra
+logs:
+
+
+
+
+
+
+
+Struktūrv. : Iespēja atlasīt informāciju par izglītību, konkrētā
+struktūrvienībā strādājošajiem;
+
+Amats :Iespēja atlasīt izglītības datusstrādājošiem pēc filtrāizvēlētā
+Amata nosaukuma;
+
+Slodzes: Dokumentu žurnālā iespējams atlasīt datus - informāciju par
+Izglītībutikai Aktīvajām vai Neaktīvajām slodzēm.
+
+
+
+Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
+
+
+Izglītībaspievienošana
+++++++++++++++++++++++
+
+JaunuIzglītības datuierakstu strādājošajam iespējams izveidot:
+
+
+
+1. `Strādājošā aprakstā`_, sadāļā Personāls - iespēja
+pievienotinformācijas par izglītību:
+
+
+
+
+
+
+
+2. Atrodoties`Izglītības dokumentu žurnālā`_ un rīku joslānospiežot
+pogu :
+
+
+
+Izvēloties pievienot Izglītības datus, jāizvēlas slodze
+(strādājošais), kuram šī informācija tiks pievienota:
+
+
+
+
+
+
+
+Nepieciešams norādīt atbilstošo veidu no saraksta, ievadīt Izglītības
+iestādes nosaukumu, laika termiņu no...līdz, kā arī iespēja ievadīt
+Izglītības dokumenta Sēriju un Nr.
+
+Dati tiek saglabāti nospiežot pogu .
+
+
+
+Pievienotie ierakstitiek saglabāti `Izglītības dokumentos`_.
+
+ 

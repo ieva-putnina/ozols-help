@@ -1,21 +1,64 @@
-.. 4223 ============================Lietas kredītu reģistram============================ <P>&nbsp;</P>
-<P>Atskaite parāda informāciju par regresa lietām noteiktā laika periodā, kas iesniedzamas kredītu reģistram.&nbsp;Atskaiti iespējams sagatavot pēc dažādiem atlases kritērijiem. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.</P>
-<P>&nbsp;</P>
-<P>Atskaitē tiek uzrādīti dati tikai par regresu lietu parādiem, kas atbilst sekojošiem kritērijiem:</P>
-<UL>
-<LI>regresa lietas datums ir sākot no 2008.gada 1.janvāri;</LI>
-<LI>regresa lietā ir panākta vienošanās ar maksātāju;</LI>
-<LI>parāda summa ir sasniegusi 100,- LVL;<BR>maksājums ir nokavētas vairāk par 60 dienām;</LI></UL>
-<P>Sagatavojot atskaiti, kolonnās pieejama informācija par lietas nr., datumu, informācija par maksājuma grafika pirmo un pēdējo rēķina datumu, maksātāju, pamatsummu, proc.summu, maks.plān.sum., bilanci, kop.bilanci, atbildīgo juristu, kā arī informācija par korespondenci, kur iespējams redzēt datumu, kad veikta pēdējā korespondence un korespondences nosaukumu, kur informācija tiek ņemta no lietai piesaistītās korespondences nosaukuma.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24950" border=0>&nbsp;No atskaites Lietas kredītu reģistram, iespējams: </P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26321" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>1.</STRONG> Izmantojot rīku joslas pogu:<IMG src="/help/Skin/help/img.aspx?pid=26314" border=0>, nospiežot taustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams automatizēti visas iezīmētās lietas nodot kredītu reģistram. Pēc šīs funkcijas izpildes, tiks sagatavota korespondence, kurā nepieciešams norādīt atbilstošo stadiju:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26322" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>2.</STRONG> Izmantojot rīku joslas pogu:<IMG src="/help/Skin/help/img.aspx?pid=26314" border=0>, nospiežot taustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams automatizēti visas iezīmētās lietas izņemt no kredītu reģistra. Pēc šīs funkcijas izpildes, tiks sagatavota korespondence, kurā nepieciešams norādīt atbilstošo stadiju:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26323" border=0></P> 
+.. 4223 ============================Lietas kredītu reģistram============================ 
+
+
+Atskaite parāda informāciju par regresa lietām noteiktā laika periodā,
+kas iesniedzamas kredītu reģistram.Atskaiti iespējams sagatavot pēc
+dažādiem atlases kritērijiem. Dati uz ekrāna tiek parādīti atbilstoši
+norādītajiem datu atlases kritērijiem filtra ekrāna formā. Filtru var
+uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot
+nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus.
+Filtrs tiek izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu
+satura aizpildīšanā.
+
+
+
+Atskaitē tiek uzrādīti dati tikai par regresu lietu parādiem, kas
+atbilst sekojošiem kritērijiem:
+
+
++ regresa lietas datums ir sākot no 2008.gada 1.janvāri;
++ regresa lietā ir panākta vienošanās ar maksātāju;
++ parāda summa ir sasniegusi 100,- LVL; maksājums ir nokavētas vairāk
+  par 60 dienām;
+
+
+Sagatavojot atskaiti, kolonnās pieejama informācija par lietas nr.,
+datumu, informācija par maksājuma grafika pirmo un pēdējo rēķina
+datumu, maksātāju, pamatsummu, proc.summu, maks.plān.sum., bilanci,
+kop.bilanci, atbildīgo juristu, kā arī informācija par korespondenci,
+kur iespējams redzēt datumu, kad veikta pēdējā korespondence un
+korespondences nosaukumu, kur informācija tiek ņemta no lietai
+piesaistītās korespondences nosaukuma.
+
+
+
+No atskaites Lietas kredītu reģistram, iespējams:
+
+
+
+
+
+
+
+1. Izmantojot rīku joslas pogu: , nospiežot taustiņu CTRL+atzīmējot
+ierakstus no atskaites - iespējams automatizēti visas iezīmētās lietas
+nodot kredītu reģistram. Pēc šīs funkcijas izpildes, tiks sagatavota
+korespondence, kurā nepieciešams norādīt atbilstošo stadiju:
+
+
+
+
+
+
+
+2. Izmantojot rīku joslas pogu: , nospiežot taustiņu CTRL+atzīmējot
+ierakstus no atskaites - iespējams automatizēti visas iezīmētās lietas
+izņemt no kredītu reģistra. Pēc šīs funkcijas izpildes, tiks
+sagatavota korespondence, kurā nepieciešams norādīt atbilstošo
+stadiju:
+
+
+
+
+
+ 

@@ -1,11 +1,30 @@
-.. 722 =================Paroles maiņa================= <P>&nbsp;</P>
-<P>Savas paroles maiņu lietotāji var veikt neatkarīgi no paroles termiņa iestādījumiem.</P>
-<P>Izvēloties darba režīmu Paroles maiņa, tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25869" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Esošā parole:</STRONG> Jāievada esošā (administratora piešķirtā) parole</P>
-<P><STRONG>Jaunā parole:</STRONG>&nbsp;Jāievada jaunā parole, kas atbilstu noteiktajai <A href="/help/?ssw=33&amp;skf_id=163">Paroles konfigurācijai</A>. </P>
-<P><STRONG>Atkārtota parole:</STRONG> Atkārtoti jāievada jaunā parole. </P>
-<P>&nbsp;</P>
-<P>Nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>, parole tiek nomainīta un pēc jaunās paroles ievades, tiek pārbaudīta paroles atbilstība sistēmas OZOLS lietotāju <A href="/help/?ssw=33&amp;skf_id=163">Paroles minimālo prasību iestādījumiemi</A>. Ja kāda no prasībām netiek izpildīta, tad sistēma paziņo par neatbilstību un neļauj lietotājam nomainīt paroli.</P> 
+.. 722 =================Paroles maiņa================= 
+
+
+Savas paroles maiņu lietotāji var veikt neatkarīgi no paroles termiņa
+iestādījumiem.
+
+Izvēloties darba režīmu Paroles maiņa, tiks atvērts jauns logs:
+
+
+
+
+
+
+
+Esošā parole: Jāievada esošā (administratora piešķirtā) parole
+
+Jaunā parole: Jāievada jaunā parole, kas atbilstu noteiktajai `Paroles
+konfigurācijai`_.
+
+Atkārtota parole: Atkārtoti jāievada jaunā parole.
+
+
+
+Nospiežot pogu , parole tiek nomainīta un pēc jaunās paroles ievades,
+tiek pārbaudīta paroles atbilstība sistēmas OZOLS lietotāju `Paroles
+minimālo prasību iestādījumiemi`_. Ja kāda no prasībām netiek
+izpildīta, tad sistēma paziņo par neatbilstību un neļauj lietotājam
+nomainīt paroli.
+
+ 

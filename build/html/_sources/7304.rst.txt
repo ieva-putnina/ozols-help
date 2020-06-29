@@ -1,9 +1,31 @@
-.. 7304 ===================Struktūrvienība=================== <P>Pievienotās struktūrvienības tiek saglabātas <A href="/help/?ssw=73&amp;skf_id=7313">struktūrvienību sarakstā</A>. Struktūrvienības tiek izmantotas <A href="/help/?ssw=73&amp;skf_id=7305">jaunas personas</A> pievienošanai un <A href="/help/?ssw=73&amp;skf_id=7317">atskaišu</A> sagatavošanai.</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26188" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Kods:</STRONG> struktūrvienības nosaukuma saīsinājums vai apzīmējums;</P>
-<P><STRONG>Nosaukums:</STRONG> pilns struktūrvienības nosaukums;</P>
-<P><STRONG>Virsējais līmenis:</STRONG> ja nepieciešams, jānorāda pievienojamās struktūrvienības augstākais līmenis (<A href="/help/?ssw=73&amp;skf_id=14041">hierarhiski veidojot sarakstu</A>);</P>
-<P><STRONG>Izsaukumu skaits/mēn.:</STRONG> izsaukumu skaits mēnesī (tiek nodefinēts). Nodefinētasi izsaukuma skaits mēnesī ir saistīts ar notikumu pievienošanu konkrētai struktūrvienībai un <A href="/help/?ssw=73&amp;skf_id=7322">personālija darba pārskata atskaiti</A>;</P>
-<P><STRONG>Kārtas nr.:</STRONG> struktūrvienību saraksta kārtas nr.</P>
-<P>&nbsp;</P>Lai struktūrvienības ierakst tiktu saglabāts, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25829" border=0>. Lai pievienotu jaunu struktūrvienību, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25850" border=0> un jāpievieno jaunu struktūrvienības ierakstu. Lai, pēc saglabāšanas, labotu pievienotās struktūrvienības ierakstu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25832" border=0> un pēc labošanas ieraksts jāsaglabā. 
+.. 7304 ===================Struktūrvienība=================== 
+Pievienotās struktūrvienības tiek saglabātas `struktūrvienību
+sarakstā`_. Struktūrvienības tiek izmantotas `jaunas personas`_
+pievienošanai un `atskaišu`_ sagatavošanai.
+
+
+
+
+
+Kods: struktūrvienības nosaukuma saīsinājums vai apzīmējums;
+
+Nosaukums: pilns struktūrvienības nosaukums;
+
+Virsējais līmenis: ja nepieciešams, jānorāda pievienojamās
+struktūrvienības augstākais līmenis (`hierarhiski veidojot
+sarakstu`_);
+
+Izsaukumu skaits/mēn.: izsaukumu skaits mēnesī (tiek nodefinēts).
+Nodefinētasi izsaukuma skaits mēnesī ir saistīts ar notikumu
+pievienošanu konkrētai struktūrvienībai un `personālija darba pārskata
+atskaiti`_;
+
+Kārtas nr.: struktūrvienību saraksta kārtas nr.
+
+
+Lai struktūrvienības ierakst tiktu saglabāts, jānospiež poga . Lai
+pievienotu jaunu struktūrvienību, jānospiež poga un jāpievieno jaunu
+struktūrvienības ierakstu. Lai, pēc saglabāšanas, labotu pievienotās
+struktūrvienības ierakstu, jānospiež poga un pēc labošanas ieraksts
+jāsaglabā.
+ 

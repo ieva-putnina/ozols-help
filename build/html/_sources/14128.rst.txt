@@ -1,37 +1,101 @@
-.. 14128 ================================Atvaļinājuma naudas aprēķins================================ <p>&nbsp;</p>
-<p>Lai aprēķinātu atvaļinājuma naudu strādājošajam:</p>
-<p><br>1.Nepieciešams izveidot atbilstošu <a href="/help/?ssw=33&amp;skf_id=409">Rīkojumu dokumentu</a> par Ikgadējo atvaļinājumu&nbsp;(&gt;Dokumenti &gt; Personāla uzskaite &gt; <a href="/help/?ssw=33&amp;skf_id=209">Rīkojumu žurnāls</a>):</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26356" border="0"></p>
-<p>&nbsp;</p>Apstiprinot rīkojumu par atvaļinājumu, tiek saskaitītas atvaļinājuma dienas un pievienotas slodzes kalendāram. 
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Lai rīkojumu dokumenti piedalītos algu aprēķinos, tie obligāti jāapstiprina.</p>
-<p>&nbsp;</p>
-<p>2. Aprēķinot algu strādājošajam (&gt;Dokumenti &gt; Alga &gt; <a href="/help/?ssw=33&amp;skf_id=212">Algu aprēķinu žurnāls</a>), jāaizpilda ieejošie dati no slodzes kalendāra:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26357" border="0"></p>
-<p>&nbsp;</p>
-<p>Algu aprēķinā tiks&nbsp;ielādētas atbilstoši kalendāram&nbsp;esošās atvaļinājuma dienas&nbsp;un aprēķinātā vidējā dienas izpeļņa. Atbilstoši izveidotajām algu aprēķina formulām tiks aprēķināta atvaļinājuma naudas summa.</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26358" border="0"></p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Gadījumos, ja strādājošais mēneša sākumā iet atvaļinājumā un atvaļinājums noslēdzas tekošajā periodā - pēc atvaļinājuma seko vēl nostrādājamās darba dienas, tad darba devējam ir jāizmaksā alga līdz atvaļinājumam un atvaļinājuma alga, lai to nodrošinātu, algu aprēķina formā jāizmanto komanda "Aizpildīt ieejošos kodus no slodzes kalendāra līdz atvaļinājumam", kā rezultātā tiek ieimportētas kavētās kalendārās un kavētās darba dienas līdz mēneša beigām pēc atvaļinājuma:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26359" border="0"></p>
-<p>&nbsp;</p>
-<p>Algu aprēķinā tiks&nbsp;ielādētas atbilstoši kalendāram&nbsp;esošās atvaļinājuma dienas un aprēķinātā vidējā dienas izpeļņa. Atbilstoši izveidotajām algu aprēķina formulām tiks aprēķināta atvaļinājuma naudas summa, kā arī, ielādējot datus no algu tarifikācijas (4.poga), tiks ielādēta noteiktā mēneša likme un arī kavētās (vēl nenostrādātās)&nbsp;darba dienas un kalendārās dienas līdz mēneša beigām pēc atvaļinājuma:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26360" border="0"></p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Ja programmā nav datu dienas vidējās izpeļņas aprēķināšanai, lietotājam ir iespēja manuāli pievienot dienas vidējās izpeļņas kodu algu aprēķina kartiņā ieejošajos datos, izmantojot algu aprēķinā pieejamo pogu Pievienot un izvēloties atbilstošo algas kodu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26361" border="0"></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;<img src="/help/Skin/help/img.aspx?pid=24545" border="0">Pēc atvaļinājuma naudas aprēķina, aprēķinot atlikušo izmaksājamo algas daļu, lai tiktu pilnībā piemēroti noteiktie atvieglojumi un neapliekamais minimums, nepieciešams no algas aprēķina dzēst iepriekš ielādētās kavētās kalendārās un kavētās darba dienas!<br></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p> 
+.. 14128 ================================Atvaļinājuma naudas aprēķins================================ 
+
+
+Lai aprēķinātu atvaļinājuma naudu strādājošajam:
+
+
+1.Nepieciešams izveidot atbilstošu `Rīkojumu dokumentu`_ par Ikgadējo
+atvaļinājumu(>Dokumenti > Personāla uzskaite > `Rīkojumu žurnāls`_):
+
+
+
+
+
+
+Apstiprinot rīkojumu par atvaļinājumu, tiek saskaitītas atvaļinājuma
+dienas un pievienotas slodzes kalendāram.
+
+
+Lai rīkojumu dokumenti piedalītos algu aprēķinos, tie obligāti
+jāapstiprina.
+
+
+
+2. Aprēķinot algu strādājošajam (>Dokumenti > Alga > `Algu aprēķinu
+žurnāls`_), jāaizpilda ieejošie dati no slodzes kalendāra:
+
+
+
+
+
+
+
+Algu aprēķinā tiksielādētas atbilstoši kalendāramesošās atvaļinājuma
+dienasun aprēķinātā vidējā dienas izpeļņa. Atbilstoši izveidotajām
+algu aprēķina formulām tiks aprēķināta atvaļinājuma naudas summa.
+
+
+
+
+
+
+
+Gadījumos, ja strādājošais mēneša sākumā iet atvaļinājumā un
+atvaļinājums noslēdzas tekošajā periodā - pēc atvaļinājuma seko vēl
+nostrādājamās darba dienas, tad darba devējam ir jāizmaksā alga līdz
+atvaļinājumam un atvaļinājuma alga, lai to nodrošinātu, algu aprēķina
+formā jāizmanto komanda "Aizpildīt ieejošos kodus no slodzes kalendāra
+līdz atvaļinājumam", kā rezultātā tiek ieimportētas kavētās kalendārās
+un kavētās darba dienas līdz mēneša beigām pēc atvaļinājuma:
+
+
+
+
+
+
+
+Algu aprēķinā tiksielādētas atbilstoši kalendāramesošās atvaļinājuma
+dienas un aprēķinātā vidējā dienas izpeļņa. Atbilstoši izveidotajām
+algu aprēķina formulām tiks aprēķināta atvaļinājuma naudas summa, kā
+arī, ielādējot datus no algu tarifikācijas (4.poga), tiks ielādēta
+noteiktā mēneša likme un arī kavētās (vēl nenostrādātās)darba dienas
+un kalendārās dienas līdz mēneša beigām pēc atvaļinājuma:
+
+
+
+
+
+
+
+Ja programmā nav datu dienas vidējās izpeļņas aprēķināšanai,
+lietotājam ir iespēja manuāli pievienot dienas vidējās izpeļņas kodu
+algu aprēķina kartiņā ieejošajos datos, izmantojot algu aprēķinā
+pieejamo pogu Pievienot un izvēloties atbilstošo algas kodu:
+
+
+
+
+
+
+
+
+
+Pēc atvaļinājuma naudas aprēķina, aprēķinot atlikušo izmaksājamo algas
+daļu, lai tiktu pilnībā piemēroti noteiktie atvieglojumi un
+neapliekamais minimums, nepieciešams no algas aprēķina dzēst iepriekš
+ielādētās kavētās kalendārās un kavētās darba dienas!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

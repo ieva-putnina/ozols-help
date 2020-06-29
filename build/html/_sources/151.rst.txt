@@ -1,22 +1,57 @@
-.. 151 ========================================Pamatlīdzekļi un nemateriālie aktīvi======================================== <P>Pamatlīdzekļu un nemateriālo aktīvu žurnālā tiek parādīta informācija par visiem uzņēmuma pamatlīdzekļiem. Atverot pamatlīdzekli vai nemateriālo aktīvu, ir iespējams redzēt visas darbības, kuras veiktas ar šo pamatlīdzekli vai nemateriālo aktīvu.</P>
-<P>Izmantojot Rīku joslā pogu<IMG src="/help/Skin/help/img.aspx?pid=24535" border=0>, tiek atvērts filtra logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25499" border=0></P>
-<P>&nbsp;</P>
-<P>Ar filtru iespējams atlasīt pamatlīdzekļus un nemateriālos aktīvus:</P>
-<P><STRONG>Meklēt:</STRONG> iespējams izvērsti meklēt pamatlīdzekļus vai nemateriālos aktīvus pēc dažādiem kritērijiem (Piem., skapis- tiks atlasīti visi pamatlīdzekļi, kuriem nosaukumā ir vārds skapis);</P>
-<P><STRONG>Numurs no ... līdz ...:</STRONG> iespējams atlasīt pamatlīdzekļus vai nemateriālos aktīvus no noteikta inventāra numura līdz noteiktam numuram, vai arī tikai pēc viena numura;</P>
-<P><STRONG>Iegādes datums:</STRONG> pēc iegādes datuma;</P>
-<P><STRONG>Stājies ekspl.:</STRONG> pēc stāšanās ekspluatācijā datuma;</P>
-<P><STRONG>Izslēgts:</STRONG> pēc izslēgšanas datuma;</P>
-<P><STRONG>Piegādātājs:</STRONG> atlasīt pēc pamatlīdzekļa un/vai nemateriālā aktīva piegādātāja;</P>
-<P><STRONG>Piegādātāja valsts:</STRONG> pēc piegādātāja valsts;</P>
-<P><STRONG>Piezīme:</STRONG> dažādas piezīmes (piem., Admin. izdevumi);</P>
-<P><STRONG>Īpašuma veids:</STRONG> pēc īpašuma veida (piem., Savi);</P>
-<P><STRONG>Pl/Nem.aktīvs:</STRONG> iespējams atlasīt tikai pamatlīdzekļus vai nemateriālos aktīvus;</P>
-<P><STRONG>Iegādes vērtība no ... līdz ...:</STRONG> iegādes vērtība;</P>
-<P><STRONG>Max.atlīdzība no ... līdz ...:</STRONG> apdrošināšanas atlīdzības vērtība;</P>
-<P><STRONG>Garantijas term.līdz:</STRONG> garantijas termiņš;</P>
-<P><STRONG>Iekļaut izslēgtos pamatlīdzekļus:</STRONG> iespējams atlasīta arī izslēgtos pamatlīdzekļus;</P>
-<P><STRONG>Rādīt tikai dubultos PL inventarizācijas numurus:</STRONG> atlasīt tikai tos pamatlīdzekļus, kuriem ir dubultie inventarizācijas numuri.</P>
-<P>Norādot visus atlasīšanas kritērijus, jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=25379" border=0>.</P> 
+.. 151 ========================================Pamatlīdzekļi un nemateriālie aktīvi======================================== 
+Pamatlīdzekļu un nemateriālo aktīvu žurnālā tiek parādīta informācija
+par visiem uzņēmuma pamatlīdzekļiem. Atverot pamatlīdzekli vai
+nemateriālo aktīvu, ir iespējams redzēt visas darbības, kuras veiktas
+ar šo pamatlīdzekli vai nemateriālo aktīvu.
+
+Izmantojot Rīku joslā pogu , tiek atvērts filtra logs:
+
+
+
+
+
+
+
+Ar filtru iespējams atlasīt pamatlīdzekļus un nemateriālos aktīvus:
+
+Meklēt: iespējams izvērsti meklēt pamatlīdzekļus vai nemateriālos
+aktīvus pēc dažādiem kritērijiem (Piem., skapis- tiks atlasīti visi
+pamatlīdzekļi, kuriem nosaukumā ir vārds skapis);
+
+Numurs no ... līdz ...: iespējams atlasīt pamatlīdzekļus vai
+nemateriālos aktīvus no noteikta inventāra numura līdz noteiktam
+numuram, vai arī tikai pēc viena numura;
+
+Iegādes datums: pēc iegādes datuma;
+
+Stājies ekspl.: pēc stāšanās ekspluatācijā datuma;
+
+Izslēgts: pēc izslēgšanas datuma;
+
+Piegādātājs: atlasīt pēc pamatlīdzekļa un/vai nemateriālā aktīva
+piegādātāja;
+
+Piegādātāja valsts: pēc piegādātāja valsts;
+
+Piezīme: dažādas piezīmes (piem., Admin. izdevumi);
+
+Īpašuma veids: pēc īpašuma veida (piem., Savi);
+
+Pl/Nem.aktīvs: iespējams atlasīt tikai pamatlīdzekļus vai nemateriālos
+aktīvus;
+
+Iegādes vērtība no ... līdz ...: iegādes vērtība;
+
+Max.atlīdzība no ... līdz ...: apdrošināšanas atlīdzības vērtība;
+
+Garantijas term.līdz: garantijas termiņš;
+
+Iekļaut izslēgtos pamatlīdzekļus: iespējams atlasīta arī izslēgtos
+pamatlīdzekļus;
+
+Rādīt tikai dubultos PL inventarizācijas numurus: atlasīt tikai tos
+pamatlīdzekļus, kuriem ir dubultie inventarizācijas numuri.
+
+Norādot visus atlasīšanas kritērijus, jānospiež poga .
+
+ 

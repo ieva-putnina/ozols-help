@@ -1,1 +1,2 @@
-.. 6771 =============Atskaites=============  .. toctree::   :maxdepth: 5    6782.rst
+.. 6771 =============Atskaites============= 
+ .. toctree::   :maxdepth: 5    6782.rst

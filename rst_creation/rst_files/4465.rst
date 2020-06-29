@@ -1,16 +1,38 @@
-.. 4465 =================Korespondence================= <P>Pievienojot jaunu korespondenci, tiek atvērts logs, kur jāievada attiecīgā informācija:</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25883" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Partneris</STRONG>: partneris,&nbsp;uz kuru attiecas&nbsp;korespondence;</P>
-<P><STRONG>Kontaktpersona</STRONG>: kontaktpersona, ar kuru tika veikta korespondence;</P>
-<P><STRONG>Iztērētais laiks</STRONG>: iztērētais laiks;</P>
-<P><STRONG>Datums</STRONG>: datums, kurā notikusi korespondence; </P>
-<P><STRONG>Virsraksts</STRONG>: korespondences virsraksts, nosaukums;</P>
-<P><STRONG>Izcelsme</STRONG>: iespējams norādīt korespondences izcelsmi;</P>
-<P><STRONG>Kampaņa</STRONG>: iespējams norādīt kampaņu;</P>
-<P><STRONG>Projekts</STRONG>: iespējams norādīt projektu;</P>
-<P><STRONG>Līgums</STRONG>: jānorāda piesaistītais līgums;</P>
-<P><STRONG>Ieraksta tiesības</STRONG>: iespējams norādīt ieraksta tiesības;</P>
-<P><STRONG>Apraksts</STRONG>: korespondences apraksts.</P>
-<P>Ja visa informācija ievadīta, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25829" border=0>&nbsp;un ir iespējams izveidot jaunu korespondenci, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25831" border=0>. Vai, lai saglabātu un aizvērtu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25828" border=0>. Visas pievienotās korespondences tiek saglabāts <A href="/help/?ssw=44&amp;skf_id=4460">korespondenču žurnālā</A>.</P>
-<P>&nbsp;</P> 
+.. 4465 =================Korespondence================= 
+Pievienojot jaunu korespondenci, tiek atvērts logs, kur jāievada
+attiecīgā informācija:
+
+
+
+
+
+Partneris : partneris,uz kuru attiecaskorespondence;
+
+Kontaktpersona : kontaktpersona, ar kuru tika veikta korespondence;
+
+Iztērētais laiks : iztērētais laiks;
+
+Datums : datums, kurā notikusi korespondence;
+
+Virsraksts : korespondences virsraksts, nosaukums;
+
+Izcelsme : iespējams norādīt korespondences izcelsmi;
+
+Kampaņa : iespējams norādīt kampaņu;
+
+Projekts : iespējams norādīt projektu;
+
+Līgums : jānorāda piesaistītais līgums;
+
+Ieraksta tiesības : iespējams norādīt ieraksta tiesības;
+
+Apraksts : korespondences apraksts.
+
+Ja visa informācija ievadīta, jānospiež poga un ir iespējams izveidot
+jaunu korespondenci, nospiežot pogu . Vai, lai saglabātu un aizvērtu,
+jānospiež poga . Visas pievienotās korespondences tiek saglabāts
+`korespondenču žurnālā`_.
+
+
+
+ 

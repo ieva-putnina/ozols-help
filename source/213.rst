@@ -1,7 +1,20 @@
-.. 213 ===================Aprēķinu moduļi=================== <P>&nbsp;</P>
-<P>Algu aprēķinu moduļu sarakstā tiek veidoti algu aprēķinu moduļi, kas tiek izmantoti&nbsp;algu konfigurācijā <A href="/help/?ssw=33&amp;skf_id=282">Ieejošo kodu konfigurācijā</A>&nbsp;un <A href="/help/?ssw=33&amp;skf_id=283">Rezultējošo kodu konfigurācijā</A>. Aprēķinot algas pietiek ar vienu algu aprēķina moduli. Otrs aprēķinu modulis jāveido, ja uzņēmumā būtiski mainās algu aprēķinu politika un algoritms.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26350" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Nosaukums</STRONG> - jānorāda algu aprēķina moduļa nosaukums.</P>
-<P><STRONG>Piezīmes</STRONG> - iespēja norādīt algu aprēķina moduļa piezīmes.</P> 
+.. 213 ===================Aprēķinu moduļi=================== 
+
+
+Algu aprēķinu moduļu sarakstā tiek veidoti algu aprēķinu moduļi, kas
+tiek izmantotialgu konfigurācijā `Ieejošo kodu konfigurācijā`_un
+`Rezultējošo kodu konfigurācijā`_. Aprēķinot algas pietiek ar vienu
+algu aprēķina moduli. Otrs aprēķinu modulis jāveido, ja uzņēmumā
+būtiski mainās algu aprēķinu politika un algoritms.
+
+
+
+
+
+
+
+Nosaukums - jānorāda algu aprēķina moduļa nosaukums.
+
+Piezīmes - iespēja norādīt algu aprēķina moduļa piezīmes.
+
+ 

@@ -1,1 +1,2 @@
-.. 6916 ===============Rezervācija===============  .. toctree::   :maxdepth: 4    6917.rst
+.. 6916 ===============Rezervācija=============== 
+ .. toctree::   :maxdepth: 4    6917.rst

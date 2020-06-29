@@ -1,32 +1,79 @@
-.. 14104 =========================================Preču cenošana no Iepirkumu dokumenta========================================= <P>&nbsp;</P>
-<P>Jāatlasa vēlamie iepirkuma dokumenti un atverot iepirkuma dokumentu, kura iepirkuma saturs ir preces, dokumenta logā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25814" border=0> un jāizvēlas funkcija Cenot:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26125" border=0></P>
-<P>&nbsp;</P>
-<P>Izvēloties cenošanas funkciju, tiek atvērt cenošanas logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26126" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Spēkā no:</STRONG> datums, no kura stājas spēkā izveidotās cenas;</P>
-<P><STRONG>Atb.cena:</STRONG> atbalsta cena (pēdēja preces iepirkuma cena, kura tiek ņemta no iepirkuma dokumenta satura ieraksta);</P>
-<P><STRONG>Noliktava:</STRONG> <A href="/help/?ssw=33&amp;skf_id=142">noliktava</A> uz kuru attieksies izveidotās cenas;</P>
-<P><STRONG>Cenas veids:</STRONG> jāizvēlas, kuram no nodefinētajiem <A href="/help/?ssw=33&amp;skf_id=105">cenu veidiem</A> tiks izveidotas preču cenas;</P>
-<P><STRONG>Uzcenojums (%):</STRONG> ir iespējams ierakstīt noteiktu uzcenojuma procentu, un, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=26128" border=0>, visas iepirkuma dokumenta preces tiek uzcenotas. </P>
-<P>Lai cenas tiktu saglabātas, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>.</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Ir iespējams arī manuāli ierakstīt Cenu vai cenu ar PVN, un programma automātiski aprēķinās uzcenojumu (%).</P>
-<P>Izveidotās cenas tiek saglabātas <A href="/help/?ssw=33&amp;skf_id=749">cenu sarakstā</A>.</P>
-<P>&nbsp;</P>
-<P><STRONG>Iepirkuma dokumentā, izvēloties funkciju Cenot ar dokumentu:</STRONG></P>
-<P><STRONG></STRONG>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26129" border=0></P>
-<P>&nbsp;</P>
-<P>Teik atvērt Cenošanas dokuments:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26130" border=0></P>
-<P>&nbsp;</P>
-<P>Automātiski <STRONG>Atbalsta cena</STRONG> tiek norādīta Pēdējā iepirkuma cena;</P>
-<P><STRONG>Spēkā no:</STRONG> datums, no kura stājas spēkā izveidotās cenas;</P>
-<P><STRONG>Noliktava:</STRONG> <A href="/help/?ssw=33&amp;skf_id=142">noliktava</A> tiek automātiski notādītā tā, kura ir norādīta iepirkuma dokumentā;</P>
-<P><STRONG>Izsniedza:</STRONG> iespējams norādīt <A href="/help/?ssw=33&amp;skf_id=312">atbildīgo personu</A>;</P>
-<P><STRONG>Cenas veids:</STRONG> jānorāda <A href="/help/?ssw=33&amp;skf_id=105">cenu veids</A>;</P>
-<P>Tad, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=26131" border=0>, tiek atvērt logs, kur jānorāda <A href="/help/?ssw=33&amp;skf_id=159">cenošanas metode</A> (ja norāda manuālo metodi, tad cenošana jāveic manuāli norādot procentuālu uzcenojumu), un tiek norādīts iepirkuma dokuments, no kura tiek veikta cenošana. Jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25619" border=0>, lai tiktu veikta cenošana un aizpildītos cenošanas dokumenta saturs. Cenošanas dokuments tiek saglabāts <A href="/help/?ssw=33&amp;skf_id=231">Cenošanas dokumentu žurnālā</A>, kur tiek saglabāti arī manuāli pievienotie <A href="/help/?ssw=33&amp;skf_id=374">cenošanas dokumenti</A>.</P> 
+.. 14104 =========================================Preču cenošana no Iepirkumu dokumenta========================================= 
+
+
+Jāatlasa vēlamie iepirkuma dokumenti un atverot iepirkuma dokumentu,
+kura iepirkuma saturs ir preces, dokumenta logā jānospiež poga un
+jāizvēlas funkcija Cenot:
+
+
+
+
+
+
+
+Izvēloties cenošanas funkciju, tiek atvērt cenošanas logs:
+
+
+
+
+
+
+
+Spēkā no: datums, no kura stājas spēkā izveidotās cenas;
+
+Atb.cena: atbalsta cena (pēdēja preces iepirkuma cena, kura tiek ņemta
+no iepirkuma dokumenta satura ieraksta);
+
+Noliktava: `noliktava`_ uz kuru attieksies izveidotās cenas;
+
+Cenas veids: jāizvēlas, kuram no nodefinētajiem `cenu veidiem`_ tiks
+izveidotas preču cenas;
+
+Uzcenojums (%): ir iespējams ierakstīt noteiktu uzcenojuma procentu,
+un, nospiežot pogu , visas iepirkuma dokumenta preces tiek uzcenotas.
+
+Lai cenas tiktu saglabātas, jānospiež poga .
+
+Ir iespējams arī manuāli ierakstīt Cenu vai cenu ar PVN, un programma
+automātiski aprēķinās uzcenojumu (%).
+
+Izveidotās cenas tiek saglabātas `cenu sarakstā`_.
+
+
+
+Iepirkuma dokumentā, izvēloties funkciju Cenot ar dokumentu:
+
+
+
+
+
+
+
+Teik atvērt Cenošanas dokuments:
+
+
+
+
+
+
+
+Automātiski Atbalsta cena tiek norādīta Pēdējā iepirkuma cena;
+
+Spēkā no: datums, no kura stājas spēkā izveidotās cenas;
+
+Noliktava: `noliktava`_ tiek automātiski notādītā tā, kura ir norādīta
+iepirkuma dokumentā;
+
+Izsniedza: iespējams norādīt `atbildīgo personu`_;
+
+Cenas veids: jānorāda `cenu veids`_;
+
+Tad, nospiežot pogu , tiek atvērt logs, kur jānorāda `cenošanas
+metode`_ (ja norāda manuālo metodi, tad cenošana jāveic manuāli
+norādot procentuālu uzcenojumu), un tiek norādīts iepirkuma dokuments,
+no kura tiek veikta cenošana. Jānospiež poga , lai tiktu veikta
+cenošana un aizpildītos cenošanas dokumenta saturs. Cenošanas
+dokuments tiek saglabāts `Cenošanas dokumentu žurnālā`_, kur tiek
+saglabāti arī manuāli pievienotie `cenošanas dokumenti`_.
+
+ 

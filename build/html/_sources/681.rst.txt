@@ -1,38 +1,112 @@
-.. 681 ==========================================Algu grāmatojumu pirmdokumentu žurnāls========================================== <p>&nbsp;</p>
-<p>Algu grāmatojumu pirmdokuments tiek veikts, balstoties uz veikto algu aprēķinu rezultātiem. Algu grāmatojumu pirmdokumentu žurnālā tiek saglabāti visi sistēmā izveidotie algu grāmatojumu pirmdokumenti. </p>
-<h5>Algu&nbsp;grāmatojuma pirmdokumenta&nbsp;pievienošana </h5><div><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Instrukcija par automatizētu nodokļu dokumentu ielādi no EDS sistēmas pieejama <a href="/files/Instrukcija_EANG_ieladei.pdf">šeit</a>!<br></div>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Pirms algu grāmatojuma pirmdokumenta veidošanas, jābūt veiktiem algu aprēķiniem tekošajā periodā!</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Pirms algu grāmatojuma pirmdokumenta veidošanas, algu rezultējošiem kodiem - ABruto, IIN, Soc_dn, Soc_dd un Riska_nod - <a href="/help/?ssw=33&amp;skf_id=14109">jābūt piesaistītiem DB un CR grāmatvediskajiem kontiem!</a></p>
-<p>&nbsp;</p>
-<p>Jauns algu&nbsp;grāmatojumu pirmdokuments&nbsp;tiek pievienots,&nbsp;rīku joslā&nbsp;nospiežot pogu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24708" border="0">:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26140" border="0"></p>
-<p>&nbsp;</p>
-<p>Nepieciešams aizpildīt sekojošus datus:</p>
-<p>&nbsp;</p>
-<p><strong>Datums:</strong> grāmatojuma datums (Piemēram, mēneša pēdējās dienas datums)</p>
-<p><strong>Nosaukums:</strong> brīvā formā ievadīts pirmdokumenta nosaukums (Piemēram, Alga par oktobri)</p>
-<p>&nbsp;</p>
-<p>Pēd dokumenta virsraksta aizpildīšanas, nepieciešams aizpildīt dokumenta saturu no algu aprēķina rezultātiem, izmantojot Algu grāmatojuma pirmdokumenta ekrāna formā pieejamo pogu: <img src="/help/Skin/help/img.aspx?pid=26131" border="0"></p>
-<p>&nbsp;</p>
-<p>Izpildot šo darbību, tiks atvērts Filtra logs, kur nepieciešams atzīmēt datu atlases kritērijus:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26141" border="0"></p>
-<p>&nbsp;</p>
-<p>Datu atlases Filtrā, <strong>obligāts nosacījum - </strong>norādīt&nbsp;<strong>Aprēķina periodu</strong> (izmantojot kura perioda algu aprēķinu rezultātus tiks sagatavots grāmatojums) un grupēšanas parametrus (<strong>obligāts nosacījums - grupēt pēc konta</strong> - dati atbilstoši tiks sagrupēt pa <a href="/help/?ssw=33&amp;skf_id=14109">grāmatvediskajiem kontiem, kādi ir nodefinēti algu rezultējošiem kodiem</a>).</p>
-<p>Pārējie filtra iestādījumi ir lietotāja brīvi definējami un izmantojami detalizētākai informācijas atlasei (līdz ar to, sniedz iespēju sagatavot algu grāmatojumu pirmdokumentu vienas struktūrvienības, amata, slodzes veida, personāla kategorijas, utt. ietvaros).</p>
-<p>&nbsp;</p>
-<p>Datu atlases filtrā nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=25619" border="0">, tiks sagatavots Algu grāmatojumu pirmdokuments pēc filtrā norādītajiem atlases kritēriejiem:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26142" border="0"></p>
-<p>&nbsp;</p>
-<p>Kad dokumenta saturs ir aizpildītsi, Algu grāmatojuma pirmdokuments ir sagatavots un to ir iespējams:</p>
-<p>1. Saglabāt,&nbsp;nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;-&nbsp;dokuments tiks saglabāts un būs pieejams apskatei/labošanai/grāmatošanai <a href="/help/?ssw=33&amp;skf_id=681">Algu grāmatojumu pirmdokumentu žurnālā</a>.</p>
-<p>2. Apstiprināt, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24740" border="0">&nbsp;- dokuments tiks Apstiprināts un to būs iespējams Grāmatot.</p>
-<h5>Algu grāmatojumu pirmdokumenta&nbsp;grāmatošana</h5>
-<p>Algu grāmatojumu pirmdokumentu&nbsp;iespējams grāmatot no atvērta dokumenta vai izvēloties (iezīmējot)&nbsp;dokumentu <a href="/help/?ssw=33&amp;skf_id=681">Algu grāmatojumu pirmdokumentu žurnālā</a>. </p>
-<p>Dokumentu&nbsp;iespējams grāmatot, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24741" border="0">&nbsp;- tiks atvērts Algu pirmdokumenta grāmatojums, kas sagatavots balstoties uz Algu pirmdokumenta grāmtojuma šablona (informācija tiešā veidā no pirmdokument tiek pārnesta uz grāmatojumu):</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26143" border="0"></p>
-<p>&nbsp;</p>
-<p>Instrukcija - <a href="/help/?ssw=33&amp;skf_id=14044">Dokumentu grāmatošanas principi</a></p> 
+.. 681 ==========================================Algu grāmatojumu pirmdokumentu žurnāls========================================== 
+
+
+Algu grāmatojumu pirmdokuments tiek veikts, balstoties uz veikto algu
+aprēķinu rezultātiem. Algu grāmatojumu pirmdokumentu žurnālā tiek
+saglabāti visi sistēmā izveidotie algu grāmatojumu pirmdokumenti.
+
+
+Algugrāmatojuma pirmdokumentapievienošana
++++++++++++++++++++++++++++++++++++++++++
+Instrukcija par automatizētu nodokļu dokumentu ielādi no EDS sistēmas
+pieejama `šeit`_!
+
+Pirms algu grāmatojuma pirmdokumenta veidošanas, jābūt veiktiem algu
+aprēķiniem tekošajā periodā!
+
+Pirms algu grāmatojuma pirmdokumenta veidošanas, algu rezultējošiem
+kodiem - ABruto, IIN, Soc_dn, Soc_dd un Riska_nod - `jābūt
+piesaistītiem DB un CR grāmatvediskajiem kontiem!`_
+
+
+
+Jauns algugrāmatojumu pirmdokumentstiek pievienots,rīku joslānospiežot
+pogu :
+
+
+
+
+
+
+
+Nepieciešams aizpildīt sekojošus datus:
+
+
+
+Datums: grāmatojuma datums (Piemēram, mēneša pēdējās dienas datums)
+
+Nosaukums: brīvā formā ievadīts pirmdokumenta nosaukums (Piemēram,
+Alga par oktobri)
+
+
+
+Pēd dokumenta virsraksta aizpildīšanas, nepieciešams aizpildīt
+dokumenta saturu no algu aprēķina rezultātiem, izmantojot Algu
+grāmatojuma pirmdokumenta ekrāna formā pieejamo pogu:
+
+
+
+Izpildot šo darbību, tiks atvērts Filtra logs, kur nepieciešams
+atzīmēt datu atlases kritērijus:
+
+
+
+
+
+
+
+Datu atlases Filtrā, obligāts nosacījum - norādīt Aprēķina periodu
+(izmantojot kura perioda algu aprēķinu rezultātus tiks sagatavots
+grāmatojums) un grupēšanas parametrus ( obligāts nosacījums - grupēt
+pēc konta - dati atbilstoši tiks sagrupēt pa `grāmatvediskajiem
+kontiem, kādi ir nodefinēti algu rezultējošiem kodiem`_).
+
+Pārējie filtra iestādījumi ir lietotāja brīvi definējami un
+izmantojami detalizētākai informācijas atlasei (līdz ar to, sniedz
+iespēju sagatavot algu grāmatojumu pirmdokumentu vienas
+struktūrvienības, amata, slodzes veida, personāla kategorijas, utt.
+ietvaros).
+
+
+
+Datu atlases filtrā nospiežot pogu , tiks sagatavots Algu grāmatojumu
+pirmdokuments pēc filtrā norādītajiem atlases kritēriejiem:
+
+
+
+
+
+
+
+Kad dokumenta saturs ir aizpildītsi, Algu grāmatojuma pirmdokuments ir
+sagatavots un to ir iespējams:
+
+1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
+apskatei/labošanai/grāmatošanai `Algu grāmatojumu pirmdokumentu
+žurnālā`_.
+
+2. Apstiprināt, nospiežot rīku joslā pogu - dokuments tiks
+Apstiprināts un to būs iespējams Grāmatot.
+
+
+Algu grāmatojumu pirmdokumentagrāmatošana
++++++++++++++++++++++++++++++++++++++++++
+
+Algu grāmatojumu pirmdokumentuiespējams grāmatot no atvērta dokumenta
+vai izvēloties (iezīmējot)dokumentu `Algu grāmatojumu pirmdokumentu
+žurnālā`_.
+
+Dokumentuiespējams grāmatot, nospiežot rīku joslā pogu - tiks atvērts
+Algu pirmdokumenta grāmatojums, kas sagatavots balstoties uz Algu
+pirmdokumenta grāmtojuma šablona (informācija tiešā veidā no
+pirmdokument tiek pārnesta uz grāmatojumu):
+
+
+
+
+
+
+
+Instrukcija - `Dokumentu grāmatošanas principi`_
+
+ 

@@ -1,15 +1,39 @@
-.. 5039 ==========================================Budžeta grozījumu pieprasījumu žurnāls========================================== <P>Budžeta pieprasīšanai tiek izveidoti Budžeta pieprasījuma dokumenti, kuri tiek saglabāti <A href="/help/?ssw=66&amp;skf_id=5035">Budžeta pieprasījumu</A> žurnālā.</P>
-<H5>Jauna budžeta pieprasījuma pievienošana</H5>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Konkrēta lietotāja kontā (konfigurācijās) norāda ar kuru uzņēmumu lietotājam ir tiesības strādāt.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Uz gadu ir iespējams izveidot 1 dokumentu par 1 budžetu vienam uzņēmumam. Ja dokuments ir jau izveidots, pieprasījuma izvēlnē neparādās periods - gads.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26292" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Uzņēmums:</STRONG> no izvēlnes, nospiežot uz bultiņu, norāda uzņēmumu, kuram tiks veidots budžeta pieprasījums;</P>
-<P><STRONG>Datums:</STRONG> norāda datumu, kurā tiek sagatavots piepasījuma dokuments;</P>
-<P><STRONG>Periods:</STRONG> par kuru periodu tiek pieprasīts budžets.</P>
-<P>Lai saglabātu pieprasījumu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25799" border=0></P>
-<P>Pieprasījums tiek saglabāts Budžeta pieprasījumu žurnālā:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26294" border=0></P> 
+.. 5039 ==========================================Budžeta grozījumu pieprasījumu žurnāls========================================== 
+Budžeta pieprasīšanai tiek izveidoti Budžeta pieprasījuma dokumenti,
+kuri tiek saglabāti `Budžeta pieprasījumu`_ žurnālā.
+
+
+Jauna budžeta pieprasījuma pievienošana
++++++++++++++++++++++++++++++++++++++++
+
+Konkrēta lietotāja kontā (konfigurācijās) norāda ar kuru uzņēmumu
+lietotājam ir tiesības strādāt.
+
+
+
+Uz gadu ir iespējams izveidot 1 dokumentu par 1 budžetu vienam
+uzņēmumam. Ja dokuments ir jau izveidots, pieprasījuma izvēlnē
+neparādās periods - gads.
+
+
+
+
+
+
+
+Uzņēmums: no izvēlnes, nospiežot uz bultiņu, norāda uzņēmumu, kuram
+tiks veidots budžeta pieprasījums;
+
+Datums: norāda datumu, kurā tiek sagatavots piepasījuma dokuments;
+
+Periods: par kuru periodu tiek pieprasīts budžets.
+
+Lai saglabātu pieprasījumu, jānospiež poga
+
+Pieprasījums tiek saglabāts Budžeta pieprasījumu žurnālā:
+
+
+
+
+
+ 

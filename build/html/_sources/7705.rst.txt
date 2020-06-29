@@ -1,1 +1,2 @@
-.. 7705 ========Rīki========  .. toctree::   :maxdepth: 5    7706.rst
+.. 7705 ========Rīki======== 
+ .. toctree::   :maxdepth: 5    7706.rst

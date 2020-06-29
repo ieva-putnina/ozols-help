@@ -1,1 +1,5 @@
-.. 914 ===========================Avansa izdevumu žurnāls=========================== Avansu izdevumu žurnālā tiek saglabāti visi avansu norēķinu personu <a href="/help/?ssw=33&amp;skf_id=747">avansu izdevumu</a> dokumenti. Dokumentus iespējams atfiltrēt pa periodiem, personām, piegādātājiem, u.c., saistītās informācijas.<br> 
+.. 914 ===========================Avansa izdevumu žurnāls=========================== Avansu izdevumu žurnālā tiek saglabāti visi avansu norēķinu personu
+`avansu izdevumu`_ dokumenti. Dokumentus iespējams atfiltrēt pa
+periodiem, personām, piegādātājiem, u.c., saistītās informācijas.
+
+ 

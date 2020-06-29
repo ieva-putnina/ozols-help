@@ -1,27 +1,61 @@
-.. 6511 ============================Datu salīdzināšana ar AS============================ <P>&nbsp;</P>
-<P>Polišu pievienošanas rīks tiek izmantots, lai&nbsp;Noliktavā pievienotu saņemtās Polises no Apdrošināšanas sabiedrībām:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25450" border=0></P>
-<P>&nbsp;</P>
-<P>1. Lai Polises pievienotu Noliktavā, nepieciešams norādīt pievienojamo Polišu veidu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25451" border=0></P>
-<P>&nbsp;</P>
-<P>2. Apdrošināšanas sabiedrību, no kuras šīs polises tiek saņemtas:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25452" border=0></P>
-<P>&nbsp;</P>
-<P>3. Datumu, kurā polises saņemtas no AS:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25453" border=0></P>
-<P>&nbsp;</P>
-<P>4. Polises sērijas numuru (ja Polisēm sērijas nr. nav, tad šo lauku var neaizpildīt)</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25454" border=0></P>
-<P>&nbsp;</P>
-<P>5. Polises numuri, no kura, līdz kuram Polises no AS&nbsp;nepieciešams pievienot&nbsp;Noliktavā. Laukā "Numura zīmju skaits", jānorāda Polises numura zīmju skaita vērtība:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25455" border=0></P>
-<P>&nbsp;</P>
-<P>6. Nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25456" border=0>, Noliktavā tiks pievienotas saņemtās Polises.</P>
-<P>&nbsp;</P> 
+.. 6511 ============================Datu salīdzināšana ar AS============================ 
+
+
+Polišu pievienošanas rīks tiek izmantots, laiNoliktavā pievienotu
+saņemtās Polises no Apdrošināšanas sabiedrībām:
+
+
+
+
+
+
+
+1. Lai Polises pievienotu Noliktavā, nepieciešams norādīt pievienojamo
+Polišu veidu:
+
+
+
+
+
+
+
+2. Apdrošināšanas sabiedrību, no kuras šīs polises tiek saņemtas:
+
+
+
+
+
+
+
+3. Datumu, kurā polises saņemtas no AS:
+
+
+
+
+
+
+
+4. Polises sērijas numuru (ja Polisēm sērijas nr. nav, tad šo lauku
+var neaizpildīt)
+
+
+
+
+
+
+
+5. Polises numuri, no kura, līdz kuram Polises no ASnepieciešams
+pievienotNoliktavā. Laukā "Numura zīmju skaits", jānorāda Polises
+numura zīmju skaita vērtība:
+
+
+
+
+
+
+
+6. Nospiežot pogu , Noliktavā tiks pievienotas saņemtās Polises.
+
+
+
+ 

@@ -1,2 +1,23 @@
-.. 950 =========================Ieņēmumi no pircējiem========================= Atskaite tiek sagatavota, attēlojot bankas ieņēmumus un ar tiem saistītos pārdošanas dokumentus.<br>Lai sagatavotu atskaiti, filtrā nepieciešams norādīt datu atlases kritērijus.<br>Atskaiti var sagatavot atsevišķi par katru no partneriem, atlasīt 
-dokumentus pēc to veida, numura vai summas. Atskaiti var sagatavot:<br>- norādītajā laika periodā (datums);<br>- par vienu konkrētu partneri;<br>- pēc konkrētām dimensijām;<br>- valūtas;<br>- iekļaujot vai neiekļaujot neapstiprinātos dokumentus<br><br><img src="Skin/help/img.aspx?pid=26560" border="0"><br><br>Atskaitē ir redzama informācija par bankas ieņēmumu un saistītajiem pārdošanas dokumentiem, to datumiem:<br><br><img src="Skin/help/img.aspx?pid=26561" border="0"><br><br>Atskaiti ir iespējams drukāt, nospiežot rīku joslā pogu <img src="Skin/help/img.aspx?pid=25813" border="0"> un izvēloties izdrukas formu.<br> 
+.. 950 =========================Ieņēmumi no pircējiem========================= Atskaite tiek sagatavota, attēlojot bankas ieņēmumus un ar tiem
+saistītos pārdošanas dokumentus.
+Lai sagatavotu atskaiti, filtrā nepieciešams norādīt datu atlases
+kritērijus.
+Atskaiti var sagatavot atsevišķi par katru no partneriem, atlasīt
+dokumentus pēc to veida, numura vai summas. Atskaiti var sagatavot:
+- norādītajā laika periodā (datums);
+- par vienu konkrētu partneri;
+- pēc konkrētām dimensijām;
+- valūtas;
+- iekļaujot vai neiekļaujot neapstiprinātos dokumentus
+
+
+
+Atskaitē ir redzama informācija par bankas ieņēmumu un saistītajiem
+pārdošanas dokumentiem, to datumiem:
+
+
+
+Atskaiti ir iespējams drukāt, nospiežot rīku joslā pogu un izvēloties
+izdrukas formu.
+
+ 

@@ -1,33 +1,84 @@
-.. 843 =====================Visas aktivitātes===================== <P>&nbsp;</P>
-<P>Atskaiti <STRONG>Visas aktivitātes</STRONG> izmanto, lai atlasītu visas vai viena noteikta veida aktivitātes pēc dažādiem izvēlētiem atlases kritērijiem.</P>
-<P>Aktivitāšu veidi:</P>
-<P><A href="/help/?ssw=33&amp;skf_id=743">Darba uzdevumi</A>;</P>
-<P><A href="/help/?ssw=33&amp;skf_id=743">Notikumi</A>;</P>
-<P><A href="/help/?ssw=33&amp;skf_id=745">ieg./izg. korespondences</A>;</P>
-<P><A href="/help/?ssw=33&amp;skf_id=743">Piedāvājumi</A>.</P>
-<P>&nbsp;</P>
-<P>Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.</P>
-<P>Datu atlases kritērijus var saglabāt (<IMG src="/help/Skin/help/img.aspx?pid=24938" border=0>). Izvēloties izveidoto filtra sagatavi (<IMG src="/help/Skin/help/img.aspx?pid=24943" border=0>), filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=24535" border=0>(Ctrl+F), tiek atvērts filtra logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26047" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Nosaukums:</STRONG> iespējams atlasīt aktivitātes pēc nosaukuma;</P>
-<P><STRONG>Statuss:</STRONG> aktivitātes statuss (Paziņots, Anulēts, Apskatīts, Apstiprināts, Izpilde atlikta, Izpildīts, Neizpildīts), iespēja atlasīt aktivitātes pēc to statusa;</P>
-<P><STRONG>Veids:</STRONG> aktivitātes veids (<A href="/help/?ssw=33&amp;skf_id=743">Darba uzdevums</A>, <A href="/help/?ssw=33&amp;skf_id=743">Notikums</A>, <A href="/help/?ssw=33&amp;skf_id=745">ieg./izg. korespondence</A>, <A href="/help/?ssw=33&amp;skf_id=743">Piedāvājums</A>);</P>
-<P><STRONG>Prioritāte:</STRONG> aktivitātes prioritāte;</P>
-<P><STRONG>Partneris:</STRONG> aktivitātes, kuras attiecas uz noteiktu <A href="/help/?ssw=33&amp;skf_id=312">partneri</A>;</P>
-<P><STRONG>Sektors:</STRONG> partneru dalījums <A href="/help/?ssw=33&amp;skf_id=810">sektoros</A>;</P>
-<P><STRONG>Izpildes termiņš:</STRONG> aktivitāšu atlasīšana pēc izpildes termiņa (datums vai periods);</P>
-<P><STRONG>Reģistrēts:</STRONG> aktivitāšu reģistrācijas termiņš;</P>
-<P><STRONG>Izpildīts:</STRONG> iespēja atlasīt izpildītās aktivitātes pēc izpildes datuma vai perioda;</P>
-<P><STRONG>Izmaiņas:</STRONG> reģistrēto izmaiņu datums vai periods;</P>
-<P><STRONG>Lietotājs:</STRONG> programmas lietotājs;</P>
-<P><STRONG>Piefiksēja:</STRONG> lietotājs, kurš piefiksēja aktivitāti;</P>
-<P><STRONG>Adresāts:</STRONG> partneris, kuram adresēta aktivitāte;</P>
-<P><STRONG>Izpildija:</STRONG> aktivitātes izpildītājs;</P>
-<P><STRONG>VFK:</STRONG> <A href="/help/?ssw=33&amp;skf_id=701">dimensiju</A> dalījums;</P>
-<P><STRONG>Kampaņa:</STRONG> noteiktai kampaņai piesaistītās aktivitātes;</P>
-<P><STRONG>Numurs no:</STRONG> aktivitāšu numurs;</P>
-<P><STRONG>Versija no:</STRONG> programmas versija.</P>
-<P>Ja visi vēlamie atlases kritēriji izvēlēti, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25619" border=0>, lai tiktu sagatavota atskaite par atlasītajiem datiem.</P>
-<P>No sagatavotās aktivitāšu atskaites ir iespējams atvērt izvēlēto aktivitāti, nospiežot pogu<IMG src="/help/Skin/help/img.aspx?pid=25603" border=0>.</P> 
+.. 843 =====================Visas aktivitātes===================== 
+
+
+Atskaiti Visas aktivitātes izmanto, lai atlasītu visas vai viena
+noteikta veida aktivitātes pēc dažādiem izvēlētiem atlases
+kritērijiem.
+
+Aktivitāšu veidi:
+
+`Darba uzdevumi`_;
+
+`Notikumi`_;
+
+`ieg./izg. korespondences`_;
+
+`Piedāvājumi`_.
+
+
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( ). Izvēloties izveidoto filtra
+sagatavi ( ), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā
+jānospiež poga (Ctrl+F), tiek atvērts filtra logs:
+
+
+
+
+
+
+
+Nosaukums: iespējams atlasīt aktivitātes pēc nosaukuma;
+
+Statuss: aktivitātes statuss (Paziņots, Anulēts, Apskatīts,
+Apstiprināts, Izpilde atlikta, Izpildīts, Neizpildīts), iespēja
+atlasīt aktivitātes pēc to statusa;
+
+Veids: aktivitātes veids (`Darba uzdevums`_, `Notikums`_, `ieg./izg.
+korespondence`_, `Piedāvājums`_);
+
+Prioritāte: aktivitātes prioritāte;
+
+Partneris: aktivitātes, kuras attiecas uz noteiktu `partneri`_;
+
+Sektors: partneru dalījums `sektoros`_;
+
+Izpildes termiņš: aktivitāšu atlasīšana pēc izpildes termiņa (datums
+vai periods);
+
+Reģistrēts: aktivitāšu reģistrācijas termiņš;
+
+Izpildīts: iespēja atlasīt izpildītās aktivitātes pēc izpildes datuma
+vai perioda;
+
+Izmaiņas: reģistrēto izmaiņu datums vai periods;
+
+Lietotājs: programmas lietotājs;
+
+Piefiksēja: lietotājs, kurš piefiksēja aktivitāti;
+
+Adresāts: partneris, kuram adresēta aktivitāte;
+
+Izpildija: aktivitātes izpildītājs;
+
+VFK: `dimensiju`_ dalījums;
+
+Kampaņa: noteiktai kampaņai piesaistītās aktivitātes;
+
+Numurs no: aktivitāšu numurs;
+
+Versija no: programmas versija.
+
+Ja visi vēlamie atlases kritēriji izvēlēti, jānospiež poga , lai tiktu
+sagatavota atskaite par atlasītajiem datiem.
+
+No sagatavotās aktivitāšu atskaites ir iespējams atvērt izvēlēto
+aktivitāti, nospiežot pogu .
+
+ 

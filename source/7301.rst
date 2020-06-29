@@ -1,1 +1,2 @@
-.. 7301 ==================================Mākslinieciskā darba plānošana==================================  .. toctree::   :maxdepth: 6    7317.rst   7309.rst   7302.rst   7323.rst   7311.rst
+.. 7301 ==================================Mākslinieciskā darba plānošana================================== 
+ .. toctree::   :maxdepth: 6    7317.rst   7309.rst   7302.rst   7323.rst   7311.rst

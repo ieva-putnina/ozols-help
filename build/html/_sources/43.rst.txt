@@ -1,9 +1,52 @@
-.. 43 =============Noliktava============= <P>Komponents „Noliktava” paredzēts preču un krājumu&nbsp;uzskaitei un&nbsp;tirdzniecībai. Kopā ar Norēķiniem tā veido pilnu preču un saistību uzskaiti uzņēmuma noliktavā un grāmatvedībā. </P>
-<H5>Noliktavas uzskaites modulis nodrošina: </H5>
-<UL>
-<LI>Krājumu un preču uzskaiti pa struktūrvienībām, atrašanās vietām,&nbsp;nomenklatūras un atbildīgajām personām<BR>Tiek nodrošināta nomenklatūras uzskaite pa vairākiem datu uzskaites kritērijiem. Tiek uzturēti brīvi definējami hierarhiski objektu, struktūrvienību&nbsp;un nomenklatūras grupu&nbsp;saraksti, ar kuru palīdzību var sistematizēt un detalizēt krājumu un preču&nbsp;uzskaiti. Katram nomenklatūras atlikumam var definēt materiāli atbildīgo personu. 
-<LI>Krājumu un preču&nbsp;uzskaites dokumentu veidošanu<BR>Ar Noliktavas moduļa palīdzību,&nbsp;paredzēta nomenklatūras iekšējās kustības dokumentu veidošana - <A href="/help/?ssw=33&amp;skf_id=693">Nomenklatūras norakstīšana</A>, <A href="/help/?ssw=33&amp;skf_id=691">Nomenklatūras pārsūtīšana</A>&nbsp;un <A href="/help/?ssw=33&amp;skf_id=692">Nomenklatūras pārsūtīšana uz</A>, kā arī <A href="/help/?ssw=33&amp;skf_id=756">Ražošanas dokumentu</A>&nbsp;veidošana.&nbsp;Nomenklatūru iespējams&nbsp;pārsūtīt starp struktūrvienībām, atrašanās vietām vai atbildīgajām personām. 
-<LI>Preču uzskaiti pēc nepārtrauktās inventarizācijas metodes <BR>Programmas uzbūve nodrošina preču uzskaiti kontā 213 pēc nepārtrauktās inventarizācijas metodes. Veidojot un grāmatojot preču iepirkuma un pārdošanas dokumentus, vienlaicīgi tiek veikta preču uzskaite iepirkuma cenās un fiksēta preces pārdošanas cena. 
-<LI>Iepirkuma cenas noteikšana ar FIFO metodi <BR>Programma nodrošina preču uzskaites cenu automatizētu aprēķinu pārdošanas dokumenta izrakstīšanas laikā. Iegrāmatojot pārdošanas dokumentu tiek veiktas divas uzskaites funkcijas – iegrāmatota preces pārdošana un norakstīta prece no noliktavas uzskaites cenās. 
-<LI>Preču uzskaiti pēc periodiskās inventarizācijas metodes <BR>Atkarībā no izvēlētās uzskaites metodes un izmantotajiem grāmatojumu šabloniem, preču uzskaiti var organizēt arī pēc periodiskās inventarizācijas metodes. 
-<LI>Nomenklatūras atskaišu un izdruku iegūšanu<BR>Nomenklatūras apgrozījuma, atlikumu un kustības atskaites ir iegūstamas par jebkuru norādīto atskaites periodu, katrai struktūrvienībai un objektam atsevišķi vai atbilstoši izvēlētajiem datu atlases kritērijiem – visiem kopā. Atskaites var pasūtīt atsevišķiem datu uzskaites grāmatvediskajiem kontiem, kā arī izvēlēties dažādus citus datu atlases kritērijus. Ir pieejams nomenklatūras inventarizācijas saraksts un pieņemšanas- nodošanas aktu izdrukas. Atskaites var veidot pa ienākošajiem, izejošajiem vai iekšējās kustības dokumentiem, cenu lapām, pasūtījumu izpildi, neapmaksātajiem iepirkumu un pārdošanas dokumentiem. Iespējama preču apgrozījuma bilanču sastādīšana pa preču daudzumiem vai summām.</LI></UL> .. toctree::   :maxdepth: 6    52.rst   3.rst   845.rst   6.rst
+.. 43 =============Noliktava============= 
+Komponents „Noliktava” paredzēts preču un krājumuuzskaitei
+untirdzniecībai. Kopā ar Norēķiniem tā veido pilnu preču un saistību
+uzskaiti uzņēmuma noliktavā un grāmatvedībā.
+
+
+Noliktavas uzskaites modulis nodrošina:
++++++++++++++++++++++++++++++++++++++++
+
+
++ Krājumu un preču uzskaiti pa struktūrvienībām, atrašanās
+vietām,nomenklatūras un atbildīgajām personām Tiek nodrošināta
+nomenklatūras uzskaite pa vairākiem datu uzskaites kritērijiem. Tiek
+uzturēti brīvi definējami hierarhiski objektu, struktūrvienībuun
+nomenklatūras grupusaraksti, ar kuru palīdzību var sistematizēt un
+detalizēt krājumu un prečuuzskaiti. Katram nomenklatūras atlikumam var
+definēt materiāli atbildīgo personu.
++ Krājumu un prečuuzskaites dokumentu veidošanu Ar Noliktavas moduļa
+palīdzību,paredzēta nomenklatūras iekšējās kustības dokumentu
+veidošana - `Nomenklatūras norakstīšana`_, `Nomenklatūras
+pārsūtīšana`_un `Nomenklatūras pārsūtīšana uz`_, kā arī `Ražošanas
+dokumentu`_veidošana.Nomenklatūru iespējamspārsūtīt starp
+struktūrvienībām, atrašanās vietām vai atbildīgajām personām.
++ Preču uzskaiti pēc nepārtrauktās inventarizācijas metodes Programmas
+uzbūve nodrošina preču uzskaiti kontā 213 pēc nepārtrauktās
+inventarizācijas metodes. Veidojot un grāmatojot preču iepirkuma un
+pārdošanas dokumentus, vienlaicīgi tiek veikta preču uzskaite
+iepirkuma cenās un fiksēta preces pārdošanas cena.
++ Iepirkuma cenas noteikšana ar FIFO metodi Programma nodrošina preču
+uzskaites cenu automatizētu aprēķinu pārdošanas dokumenta
+izrakstīšanas laikā. Iegrāmatojot pārdošanas dokumentu tiek veiktas
+divas uzskaites funkcijas – iegrāmatota preces pārdošana un norakstīta
+prece no noliktavas uzskaites cenās.
++ Preču uzskaiti pēc periodiskās inventarizācijas metodes Atkarībā no
+izvēlētās uzskaites metodes un izmantotajiem grāmatojumu šabloniem,
+preču uzskaiti var organizēt arī pēc periodiskās inventarizācijas
+metodes.
++ Nomenklatūras atskaišu un izdruku iegūšanu Nomenklatūras
+  apgrozījuma, atlikumu un kustības atskaites ir iegūstamas par jebkuru
+  norādīto atskaites periodu, katrai struktūrvienībai un objektam
+  atsevišķi vai atbilstoši izvēlētajiem datu atlases kritērijiem –
+  visiem kopā. Atskaites var pasūtīt atsevišķiem datu uzskaites
+  grāmatvediskajiem kontiem, kā arī izvēlēties dažādus citus datu
+  atlases kritērijus. Ir pieejams nomenklatūras inventarizācijas
+  saraksts un pieņemšanas- nodošanas aktu izdrukas. Atskaites var veidot
+  pa ienākošajiem, izejošajiem vai iekšējās kustības dokumentiem, cenu
+  lapām, pasūtījumu izpildi, neapmaksātajiem iepirkumu un pārdošanas
+  dokumentiem. Iespējama preču apgrozījuma bilanču sastādīšana pa preču
+  daudzumiem vai summām.
+
+
+ .. toctree::   :maxdepth: 6    52.rst   3.rst   845.rst   6.rst

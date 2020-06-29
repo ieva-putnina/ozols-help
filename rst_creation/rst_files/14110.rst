@@ -1,33 +1,77 @@
-.. 14110 =============================================================================Datu bāzes atjaunošana no BackUp faila, izmantojot SQL Enterprise Manager============================================================================= <P>&nbsp;</P>
-<P>Lai atjaunotu Ozols datu bāzi, nepieciešama SQL Server Enterprise Manager programmatūra.</P>
-<P>&nbsp;</P>
-<P>1. Nepieciešams&nbsp;pievienot jaunu SQL Server Group:</P>
-<P>&nbsp;</P>
-<P>SQL Server Group -&gt; Peles labais taustiņš -&gt;New SQL Server Registration:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26242" border=0></P>
-<P>&nbsp;</P>
-<P>2. Nepieciešams pievienot datu bāzi, atjaunojot (Restore)&nbsp;to no esošā backup faila:</P>
-<P>&nbsp;</P>
-<P>Serveris-&gt; Databases-&gt; Peles labais taustiņš -&gt; All Tasks -&gt; Restore Database:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26246" border=0></P>
-<P>&nbsp;</P>
-<P>Izvēloties šo darbību, nepieciešams norādīt datu bāzes vārdu: OZOLS, ceļu uz&nbsp;backup failu, no kura dati tiks atjaunoti:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26247" border=0></P>
-<P>&nbsp;</P>
-<P>Pēc tam, apstirpinot darbības ar OK, datu bāze tiks pievienota, atjaunojot datus no backup faila.</P>
-<P>&nbsp;</P>
-<P>3. Nepieciešams pievienot Ozols lietotājus:</P>
-<P>&nbsp;</P>
-<P>Vispirms jāizdzēš esošie lietotājvārdi no datu bāzes -&gt; Datu bāze-&gt; Users-&gt;Iezīmēt nepieciešamo loginu-&gt;Dzēst ierakstu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26249" border=0></P>
-<P>&nbsp;</P>
-<P>Pēc tam jāpievieno jaunie lietotāji-&gt;Security-&gt;Logins-&gt;Peles labais taustiņš: "New Login"</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26248" border=0></P>
-<P>&nbsp;</P>
-<P>Jāievada lietotāja vārds, jānorāda SQL vai Windows autentifikācija un jāatzīmē atbilstošās <A href="/help/?ssw=33&amp;skf_id=14086">Datu bāzes lietotāju tiesības darba režīmiem</A>.</P>
-<P>&nbsp;</P> 
+.. 14110 =============================================================================Datu bāzes atjaunošana no BackUp faila, izmantojot SQL Enterprise Manager============================================================================= 
+
+
+Lai atjaunotu Ozols datu bāzi, nepieciešama SQL Server Enterprise
+Manager programmatūra.
+
+
+
+1. Nepieciešamspievienot jaunu SQL Server Group:
+
+
+
+SQL Server Group -> Peles labais taustiņš ->New SQL Server
+Registration:
+
+
+
+
+
+
+
+2. Nepieciešams pievienot datu bāzi, atjaunojot (Restore)to no esošā
+backup faila:
+
+
+
+Serveris-> Databases-> Peles labais taustiņš -> All Tasks -> Restore
+Database:
+
+
+
+
+
+
+
+Izvēloties šo darbību, nepieciešams norādīt datu bāzes vārdu: OZOLS,
+ceļu uzbackup failu, no kura dati tiks atjaunoti:
+
+
+
+
+
+
+
+Pēc tam, apstirpinot darbības ar OK, datu bāze tiks pievienota,
+atjaunojot datus no backup faila.
+
+
+
+3. Nepieciešams pievienot Ozols lietotājus:
+
+
+
+Vispirms jāizdzēš esošie lietotājvārdi no datu bāzes -> Datu bāze->
+Users->Iezīmēt nepieciešamo loginu->Dzēst ierakstu:
+
+
+
+
+
+
+
+Pēc tam jāpievieno jaunie lietotāji->Security->Logins->Peles labais
+taustiņš: "New Login"
+
+
+
+
+
+
+
+Jāievada lietotāja vārds, jānorāda SQL vai Windows autentifikācija un
+jāatzīmē atbilstošās `Datu bāzes lietotāju tiesības darba režīmiem`_.
+
+
+
+ 

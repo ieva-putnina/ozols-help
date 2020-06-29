@@ -1,5 +1,15 @@
-.. 4470 ============Kampaņas============ <P>Kapmaņu sarakstā tiek saglabātas visas <A href="/help/?ssw=44&amp;skf_id=4469">pievienotās kampaņas</A>. </P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25833" border=0></P>
-<P>&nbsp;</P>
-<P>Lai apsaktītu visus kampaņai pievienotos datus, jāuzklikšķina un kampaņas nosaukuma. Tiek atvērts kampaņas apraksts, kuru, ja nepieciešams, ir iespējams labot, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25832" border=0>, tad pēc labošanas nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25829" border=0>.</P> 
+.. 4470 ============Kampaņas============ 
+Kapmaņu sarakstā tiek saglabātas visas `pievienotās kampaņas`_.
+
+
+
+
+
+
+
+Lai apsaktītu visus kampaņai pievienotos datus, jāuzklikšķina un
+kampaņas nosaukuma. Tiek atvērts kampaņas apraksts, kuru, ja
+nepieciešams, ir iespējams labot, nospiežot pogu , tad pēc labošanas
+nospiežot pogu .
+
+ 

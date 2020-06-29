@@ -1,4 +1,12 @@
-.. 7310 ============Notikumi============ <P>Notikumu žurnālā tiek saglabāti visi <A href="/help/?ssw=73&amp;skf_id=7308">pievienotie notikumu</A>. Notikumu žurnālā ir redzams notikumu sākuma un beigu laiki, <A href="/help/?ssw=73&amp;skf_id=7312">nosaukums</A>, <A href="/help/?ssw=73&amp;skf_id=7316">darbība</A>,<A href="/help/?ssw=73&amp;skf_id=7315"> telpa/vieta</A> un notikumu statuss.</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26190" border=0></P>
-<P>&nbsp;</P>
-<P>Aktivizējot pasākuma nosaukumu, iespējams atvērt <A href="/help/?ssw=73&amp;skf_id=7308">notikuma aprakstu</A>.</P> 
+.. 7310 ============Notikumi============ 
+Notikumu žurnālā tiek saglabāti visi `pievienotie notikumu`_. Notikumu
+žurnālā ir redzams notikumu sākuma un beigu laiki, `nosaukums`_,
+`darbība`_,` telpa/vieta`_ un notikumu statuss.
+
+
+
+
+
+Aktivizējot pasākuma nosaukumu, iespējams atvērt `notikuma aprakstu`_.
+
+ 

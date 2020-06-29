@@ -1,6 +1,11 @@
-.. 4202 =============Atskaites============= <P>No Regresa moduļa sistēmā pieejamas sekojošas atskaites:</P>
-<UL>
-<LI><A href="/help/?ssw=42&amp;skf_id=4216">Atlīdzību lietu atskaite</A></LI>
-<LI><A href="/help/?ssw=42&amp;skf_id=4223">Lietas kredītu reģistram</A></LI>
-<LI><A href="/help/?ssw=42&amp;skf_id=4217">Regresu lietu atskaite</A></LI>
-<LI><A href="/help/?ssw=42&amp;skf_id=4219">Regresu lietu parādi</A></LI></UL> .. toctree::   :maxdepth: 5    4216.rst   4223.rst   4224.rst   4217.rst   4219.rst
+.. 4202 =============Atskaites============= 
+No Regresa moduļa sistēmā pieejamas sekojošas atskaites:
+
+
++ `Atlīdzību lietu atskaite`_
++ `Lietas kredītu reģistram`_
++ `Regresu lietu atskaite`_
++ `Regresu lietu parādi`_
+
+
+ .. toctree::   :maxdepth: 5    4216.rst   4223.rst   4224.rst   4217.rst   4219.rst

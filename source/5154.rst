@@ -1,1 +1,2 @@
-.. 5154 ================Darba līgums================  .. toctree::   :maxdepth: 4    5195.rst
+.. 5154 ================Darba līgums================ 
+ .. toctree::   :maxdepth: 4    5195.rst

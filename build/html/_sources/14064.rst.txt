@@ -1,8 +1,24 @@
-.. 14064 ===========================================Klienta programmas versijas atjaunošana=========================================== <P>&nbsp;</P>
-<P>Pēc tam kad ir veikta <A href="/help/?ssw=33&amp;skf_id=14066">Datu bāzes versijas atjaunošana</A>, Klienta programmas versija tiek atjaunota automātiski, kur pēc programmas startēšanas tiek aktivizēta ekrāna forma:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25749" border=0></P>
-<P>&nbsp;</P>
-<P>Pēc [Ielādēt] komandpogas nospiešanas tiek ielādēta jaunākā klienta programmas versija no datu bāzes.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Ja gadījumā kādu tehnisku iemeslu dēļ Klienta programmas versiju neizdodas atjaunot, tādā gadījumā ir&nbsp; jāpārliecinās vai katalogā kurā atrodas OZOLS.exe lietotājam ir tiesības rakstīt datus, ja ir tad jāveic <A href="/help/?ssw=33&amp;skf_id=14067">manuāla programmas atjaunošana</A>&nbsp;</P> .. toctree::   :maxdepth: 4    14067.rst
+.. 14064 ===========================================Klienta programmas versijas atjaunošana=========================================== 
+
+
+Pēc tam kad ir veikta `Datu bāzes versijas atjaunošana`_, Klienta
+programmas versija tiek atjaunota automātiski, kur pēc programmas
+startēšanas tiek aktivizēta ekrāna forma:
+
+
+
+
+
+
+
+Pēc [Ielādēt] komandpogas nospiešanas tiek ielādēta jaunākā klienta
+programmas versija no datu bāzes.
+
+
+
+Ja gadījumā kādu tehnisku iemeslu dēļ Klienta programmas versiju
+neizdodas atjaunot, tādā gadījumā ir jāpārliecinās vai katalogā kurā
+atrodas OZOLS.exe lietotājam ir tiesības rakstīt datus, ja ir tad
+jāveic `manuāla programmas atjaunošana`_
+
+ .. toctree::   :maxdepth: 4    14067.rst

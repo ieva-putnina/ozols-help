@@ -1,1 +1,34 @@
-.. 749 =========Cenas========= <br>Sarakstā tiek saglabāti ierakstu ar preču cenām, kas veidotas balstoties uz Cenošanas dokumentu. <br><br><span id="iozo_content_ctl00_lbltxt" class="txt"><img src="Skin/help/img.aspx?pid=24545" border="0">Instrukcija par preču cenošanu: <a href="?ssw=33&amp;skf_id=14104">Preču cenošana no Iepirkumu dokumenta</a><br><br>Tāpat arī šajā sarakstā iespējams pievienot preču cenas konkrētai precei manuāli.<br>Lai pievienotu jaunu cenu esošajai precei, </span><span id="iozo_content_ctl00_lbltxt" class="txt">jāizmanto komanda <img src="Skin/help/img.aspx?pid=24879" border="0">&nbsp;no rīku joslas (Alt+P) un tiks atvērts jauns logs:<br><br><img src="Skin/help/img.aspx?pid=26499" border="0"><br><br><b>Cenošanas.dok.:</b> lauks netiks aizpildīts, ja ieraksts būs pievienots manuāli nevis no <a href="?ssw=33&amp;skf_id=374">Cenošanas dokumenta</a>;<br><b>Noliktava:</b> <a href="?ssw=33&amp;skf_id=142">Noliktava</a>, uz kuru izveidotā cena būs spēkā;<br><b>Veids:</b> <a href="?ssw=33&amp;skf_id=105">Cenas veids</a>, kuru iespējams piesaistīt konkrētam partnerim, norādot to <a href="?ssw=33&amp;skf_id=312">Partnera</a> aprakstā;<br><b>Datums:</b> datums, no kura šī izveidotā cena būs spēkā;<br><b>Prece:</b> no saraksta iespējams izvēlēties <a href="?ssw=33&amp;skf_id=106">Nomenklatūru</a>, kurai cena tiek noteikta;<br><b>Cena p.v.bez PVN: </b>nepieciešams ievadīt cenu veidam atbilstošo cenu pamatvalūtā bez PVN<br><b>Cena p.v.ar PVN:</b> automātiski tiek noteikta cena ar PVN pamatvalūtā, balstoties uz cenu bez PVN un noteiktu PVN likmi <a href="?ssw=33&amp;skf_id=148">Grupai</a>, kurā atrodas šī prece, kas tiek cenota.<br><b>Piezīmes:</b> brīvā formā iespējams ievadīt piezīmes par attiecīgo ierakstu.<br></span>Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu <img src="Skin/help/img.aspx?pid=24867" border="0">&nbsp;no rīku joslas vai&nbsp;(Ctrl+S)<span id="iozo_content_ctl00_lbltxt" class="txt"><br><br></span> 
+.. 749 =========Cenas========= 
+Sarakstā tiek saglabāti ierakstu ar preču cenām, kas veidotas
+balstoties uz Cenošanas dokumentu.
+
+Instrukcija par preču cenošanu: `Preču cenošana no Iepirkumu
+dokumenta`_
+
+Tāpat arī šajā sarakstā iespējams pievienot preču cenas konkrētai
+precei manuāli.
+Lai pievienotu jaunu cenu esošajai precei, jāizmanto komanda no rīku
+joslas (Alt+P) un tiks atvērts jauns logs:
+
+
+
+**Cenošanas.dok.:** lauks netiks aizpildīts, ja ieraksts būs
+pievienots manuāli nevis no `Cenošanas dokumenta`_;
+**Noliktava:** `Noliktava`_, uz kuru izveidotā cena būs spēkā;
+**Veids:** `Cenas veids`_, kuru iespējams piesaistīt konkrētam
+partnerim, norādot to `Partnera`_ aprakstā;
+**Datums:** datums, no kura šī izveidotā cena būs spēkā;
+**Prece:** no saraksta iespējams izvēlēties `Nomenklatūru`_, kurai
+cena tiek noteikta;
+**Cena p.v.bez PVN: **nepieciešams ievadīt cenu veidam atbilstošo cenu
+pamatvalūtā bez PVN
+**Cena p.v.ar PVN:** automātiski tiek noteikta cena ar PVN
+pamatvalūtā, balstoties uz cenu bez PVN un noteiktu PVN likmi
+`Grupai`_, kurā atrodas šī prece, kas tiek cenota.
+**Piezīmes:** brīvā formā iespējams ievadīt piezīmes par attiecīgo
+ierakstu.
+Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu no rīku
+joslas vai(Ctrl+S)
+
+
+ 

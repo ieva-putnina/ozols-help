@@ -1,2 +1,7 @@
-.. 614 =================Sistēmas kodi================= <P>&nbsp;</P>
-<P>Sistēmas algoritmā iebūvētie kodi, kas izmantoti Algu <A href="/help/?ssw=33&amp;skf_id=283">Rezultējošo kodu konfigurācijā.</A></P> 
+.. 614 =================Sistēmas kodi================= 
+
+
+Sistēmas algoritmā iebūvētie kodi, kas izmantoti Algu `Rezultējošo
+kodu konfigurācijā.`_
+
+ 

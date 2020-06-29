@@ -1,20 +1,59 @@
-.. 892 =====================================================================PVN2: Pārskats par preču piegādēm un sniegtajiem pakalpojumiem ES===================================================================== <p>&nbsp;</p>
-<p>PVN deklarācijas pielikums tiek sagatavots pēc Ministru kabineta 
-noteikumiem. Atskaite tiek saglabāta 
-kā pielikums PVN mēneša deklarācijai atskaišu <a href="/help/?ssw=33&amp;skf_id=531">Sarakstā</a>,
- un atskaites datus nepieciešamības gadījumā var pārrēķināt. Atskaite 
-tiek sagatavota par darījumu summu pamat valūtā, iekļaujot pārdošanas dokumentu valūtu, partneri un partnera reģistrācijas numuru.</p>
-<p>&nbsp;</p>
-<p>Lai būtu iespējams sagatavot Pārskatu par preču piegādēm un sniegtajiem pakalpojumiem ES,&nbsp;iepriekš jābūt izveidotai <a href="/help/?ssw=33&amp;skf_id=179">Grāmatojumu atskaišu konfigurācijai</a>.</p>
-<h5>Pārskata par preču piegādēm un sniegtajiem pakalpojumiem ES (PVN2)&nbsp;sagatavošana</h5>
-<p>&nbsp;</p>
-<p>1. Izvēloties PVN deklarācijas pielikumu: PVN2: pārskats par preču piegādēm un sniegtajiem pakalpojumiem ES, tiks atvērt filtra logs, kur jānorāda nepieciešamie 
-parametri, pēc kādiem atskaite tiks sagatavota.</p><p>&nbsp;</p>
-<p>2. Nepieciešams norādīt attiecīgo profilu (45.rindas konfigurāciju) - <a href="/help/?ssw=33&amp;skf_id=179">atskaites konfigurāciju</a>, pēc kādiem konfigurācijas datiem atskaite tiks sagatavota.<br></p>
-<p>&nbsp; <br></p>3.&nbsp;Pārskats&nbsp; par preču piegādēm un sniegtajiem pakalpojumiem ES tiks sagatavots, nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=25049" border="0">:
-<p>&nbsp;</p>4. Ekrāna formā ir pieejams atskaišu konfigurācijas saraksts. Nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=25055" border="0">, komanda izsauc atskaites konfigurācijas ekrāna formu, to var papildināt neaizverot atskaiti.
-<p>&nbsp;</p>
-<p>5. Ja pēc atskaites sagatavošanas veiktas izmaiņas <a href="/help/?ssw=33&amp;skf_id=179">atskaites konfigurācijā</a>,&nbsp; atskaiti pēc izmanītās konfigurācijas datiem var pārrēķināt, nospiežot pogu: <img src="/help/Skin/help/img.aspx?pid=25053" border="0">. Pārrēķinot atskaiti, tajā tiek parādīti jaunākie dati.</p>
-<p>6. Sagatavoto atskaiti iespējams saglabāt <a href="/help/?ssw=33&amp;skf_id=531">VID atskaišu sarakstā</a>, kur tā būs pieejama labošanai/drukāšanai, nospiežot pogu: <img src="/help/Skin/help/img.aspx?pid=25054" border="0">.</p>
-<p>&nbsp;</p>
-<p>7. Nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24617" border="0">&nbsp;atskaite sagatavota netiks un darbība tiks atcelta. Ja atskaite tiek izveidota un nav jāsaglabā, jālieto komanda <strong>Atcelt</strong>. <br></p> 
+.. 892 =====================================================================PVN2: Pārskats par preču piegādēm un sniegtajiem pakalpojumiem ES===================================================================== 
+
+
+PVN deklarācijas pielikums tiek sagatavots pēc Ministru kabineta
+noteikumiem. Atskaite tiek saglabāta kā pielikums PVN mēneša
+deklarācijai atskaišu `Sarakstā`_, un atskaites datus nepieciešamības
+gadījumā var pārrēķināt. Atskaite tiek sagatavota par darījumu summu
+pamat valūtā, iekļaujot pārdošanas dokumentu valūtu, partneri un
+partnera reģistrācijas numuru.
+
+
+
+Lai būtu iespējams sagatavot Pārskatu par preču piegādēm un
+sniegtajiem pakalpojumiem ES,iepriekš jābūt izveidotai `Grāmatojumu
+atskaišu konfigurācijai`_.
+
+
+Pārskata par preču piegādēm un sniegtajiem pakalpojumiem ES
+(PVN2)sagatavošana
+++++++++++++++++++
+
+
+
+1. Izvēloties PVN deklarācijas pielikumu: PVN2: pārskats par preču
+piegādēm un sniegtajiem pakalpojumiem ES, tiks atvērt filtra logs, kur
+jānorāda nepieciešamie parametri, pēc kādiem atskaite tiks sagatavota.
+
+
+
+2. Nepieciešams norādīt attiecīgo profilu (45.rindas konfigurāciju) -
+`atskaites konfigurāciju`_, pēc kādiem konfigurācijas datiem atskaite
+tiks sagatavota.
+
+
+
+
+3.Pārskats par preču piegādēm un sniegtajiem pakalpojumiem ES tiks
+sagatavots, nospiežot pogu :
+
+4. Ekrāna formā ir pieejams atskaišu konfigurācijas saraksts.
+Nospiežot pogu , komanda izsauc atskaites konfigurācijas ekrāna formu,
+to var papildināt neaizverot atskaiti.
+
+
+5. Ja pēc atskaites sagatavošanas veiktas izmaiņas `atskaites
+konfigurācijā`_, atskaiti pēc izmanītās konfigurācijas datiem var
+pārrēķināt, nospiežot pogu: . Pārrēķinot atskaiti, tajā tiek parādīti
+jaunākie dati.
+
+6. Sagatavoto atskaiti iespējams saglabāt `VID atskaišu sarakstā`_,
+kur tā būs pieejama labošanai/drukāšanai, nospiežot pogu: .
+
+
+
+7. Nospiežot pogu atskaite sagatavota netiks un darbība tiks atcelta.
+Ja atskaite tiek izveidota un nav jāsaglabā, jālieto komanda Atcelt .
+
+
+ 

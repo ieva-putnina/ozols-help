@@ -1,10 +1,26 @@
-.. 6909 ===========Tvertne=========== <P>Lai pievienotu jaunu Tvertni:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25568" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Kods:</STRONG> Tvertnes kods (nosaukuma saīsinājums vai apzīmējums);</P>
-<P><STRONG>Nosaukums:</STRONG> Tvertnes nosaukums;</P>
-<P><STRONG>Adrese:</STRONG> no adrešu saraksta, ar bultiņas pogu, jāizvēlas adresi, kurai tiks pievienota šī jaunā tvertne;</P>
-<P><STRONG>Degv. marka:</STRONG> degvielas marka, kura ir attiecināma uz šo tvertni, jāizvēlas ar bultiņas pogu.</P>
-<P>Kad visi dati ievadīti, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25561" border=0> un, lai pievienotu jaunu tvertni, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25563" border=0>. Ja jaunas tvertnes vairs netiks pievienotas, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25562" border=0> pēc pēdējās tvertnes pievienošanas.</P>
-<P>Visas pievienotās tvertnes ir redzamas <A href="/help/?ssw=69&amp;skf_id=6911">tvertņu sarakstā</A>.</P></FONT> 
+.. 6909 ===========Tvertne=========== 
+Lai pievienotu jaunu Tvertni:
+
+
+
+
+
+
+
+Kods: Tvertnes kods (nosaukuma saīsinājums vai apzīmējums);
+
+Nosaukums: Tvertnes nosaukums;
+
+Adrese: no adrešu saraksta, ar bultiņas pogu, jāizvēlas adresi, kurai
+tiks pievienota šī jaunā tvertne;
+
+Degv. marka: degvielas marka, kura ir attiecināma uz šo tvertni,
+jāizvēlas ar bultiņas pogu.
+
+Kad visi dati ievadīti, jānospiež poga un, lai pievienotu jaunu
+tvertni, jānospiež poga . Ja jaunas tvertnes vairs netiks pievienotas,
+jānospiež poga pēc pēdējās tvertnes pievienošanas.
+
+Visas pievienotās tvertnes ir redzamas `tvertņu sarakstā`_.
+
+ 

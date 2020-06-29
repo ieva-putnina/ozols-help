@@ -1,42 +1,124 @@
-.. 586 =========================Pamatlīdzekļu kustība========================= <P>Pamatlīdzekļu kustības atskaite tiek sagatavota par norādīto periodu pēc noteiktiem izvēlētajiem kritērijiem. Filtrs jāaizpilda, lai sagatavotu atskaiti.</P>
-<P>Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra logā. Filtru var uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.</P>
-<P>Datu atlases kritērijus var saglabāt (<IMG src="/help/Skin/help/img.aspx?pid=24938" border=0>). Izvēloties izveidoto filtra sagatavi (<IMG src="/help/Skin/help/img.aspx?pid=24943" border=0>),&nbsp;filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, rīku joslā jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=24535" border=0>(Ctrl+F), tiek atvērts filtra logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25509" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Noliet. veids:</STRONG> jāizvēlas nolietojuma aprēķināšanas veids <IMG src="/help/Skin/help/img.aspx?pid=25505" border=0> (uzņēmuma vai nodokļiem);</P>
-<P><STRONG>Periods:</STRONG> periods par kuru tiks veidota atskaite;</P>
-<P><STRONG>Stājies ekspl.:</STRONG> pamatlīdzekļu vai nemateriālo aktīvu stāšanās ekspluatācijā datums (periods);</P>
-<P><STRONG>Uzņēmums:</STRONG> atskaite par vienu noteiktu uzņēmumu;</P>
-<P><STRONG>Kategorija no:</STRONG> kustība no pamatlīdzekļu kategorijas;</P>
-<P><STRONG>Kategorija uz:</STRONG> kustība uz pamatlīdzekļu kategoriju;</P>
-<P><STRONG>Objekts no:</STRONG> objekts, no kura tika veikta pamatlīdzekļu kustība;</P>
-<P><STRONG>Objekts uz:</STRONG> objekts, uz kuru tika veikta pamatlīdzekļu kustība;</P>
-<P><STRONG>Struktūrv.no:</STRONG> stuktūrvienība, no kuras tika veikta pamatlīdzekļu kustība;</P>
-<P><STRONG>Struktūrv.uz:</STRONG> stuktūrvienība, uz kuru tika veikta pamatlīdzekļu kustība;</P>
-<P><STRONG>Atb.pers.no:</STRONG> atlasīt pēc atbildīgās personas, no kuras notika pamatlīdzekļu kustība;</P>
-<P><STRONG>Atb.pers.uz:</STRONG> atlasīt pēc atbildīgās personas, uz kuru notika pamatlīdzekļu kustība;</P>
-<STRONG>Inventāra nr.no...līdz... :</STRONG> iespēja atlasīt pēc pamatlīdzekļu inventāra numura; 
-<P><STRONG>Dok. nr.no... līdz...:</STRONG> iespēja atlasīt arī pēc pamatlīdzekļu dokumenta numura;</P>
-<P><STRONG>Pl./Nem.aktīvs:</STRONG> iespējams izvēlēties pamatlīdzekļus vai nemateriālos aktīvus;</P>
-<P><STRONG>Grupēt pēc:</STRONG> <IMG src="/help/Skin/help/img.aspx?pid=25510" border=0> jāizvēlas pēc kura kritērija grupēt;</P>
-<P><STRONG>Iekļaut nolietojuma dokumentus:</STRONG> lai iekļautu atskaitē arī pamatlīdzekļu nolietojuma dokumentus;</P>
-<P><STRONG>Iekļaut izslēgtos pamatlīdzekļus:</STRONG> lai iekļautu atskaitē arī izslēgtos pamatlīdzekļus;</P>
-<P><STRONG>Iekļaut neapstiprinātos dokumentus:</STRONG> lai iekļautu atskaitē arī neapstiprinātos kustību dokumentus</P>
-<P>Kad filtra loga kritēriji ir izvēlēti, ir iespējams nodefinēt Papildus filtra parametrus, nospiežot pogu<IMG src="/help/Skin/help/img.aspx?pid=24535" border=0> atvērtajā filtra logā. Tiek atvērts papildus filtra nosacījumu logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25529" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Dok. Veids:</STRONG> sarakstlodziņa labajā pusē, noklikšķinot uz podziņu<IMG src="/help/Skin/help/img.aspx?pid=25530" border=0> tiek atvērts dokumenta veidu izvēlņu saraksts, kur iespējams izvēlēties kādu no pamatlīdzekļu dokumenta veidiem;</P>
-<P><STRONG>Pl.Izsl.datums:</STRONG> pamatlīdzekļu izslēgšanas datums (periods);</P>
-<P><STRONG>Piegādātāja valsts:</STRONG> piegādātāja valsts no <A href="/help/?ssw=33&amp;skf_id=103">Valstu saraksta</A>;</P>
-<P><STRONG>Pl.nosaukums:</STRONG> pamatlīdzekļa nosaukums;</P>
-<P><STRONG>Īpašuma veids:</STRONG> īpašuma veids kurš nodefinēts <A href="/help/?ssw=33&amp;skf_id=183">pamatlīdzekļu īpašuma veidu sarakstā</A>;</P>
-<P><STRONG>Amats:</STRONG> iespējams izvēlēties atbildīgās personas amatu kurš nodefinēts <A href="/help/?ssw=33&amp;skf_id=186">Amatu sarakstā</A>;</P>
-<P><STRONG>Pazīme:</STRONG> pazīme, kura nodefinēta <A href="/help/?ssw=33&amp;skf_id=130">Pamatlīdzekļu pazīmju sarakstā</A>;</P>
-<P>Kad papildus filtra kritēriji izvēlēti, jānospiež paga<IMG src="/help/Skin/help/img.aspx?pid=25533" border=0> . Kad arī pamatlīdzekļu kustību filtra logā visi atskaites datu kritēriji izvēlēti, jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=25504" border=0>.</P>
-<P>Sagatavotos atskaites datus ir iespējams arī izdrukāt. Lai drukātu datus, rīko joslā jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=24944" border=0> (Ctrl+P), un jāizvēlās iebūvētā izdrukas forma "pamatlīdzekļu kustība", jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=25507" border=0>. Katru pamatlīdzekļa kustības dokumentu ir iespējams arī atvērt un apsaktīties tā saturu. Lai atvērtu dokumentu, rīku joslā janospiež poga<IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>, tiek atvērta pamatlīdzekļu kartīte;</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25524" border=0></P>
-<P>&nbsp;</P>
-<P>Pamatlīdzekļu kartītē redzams pamatlīdzekļa apraksts un dokumenti, kuri sasitīti ar šo pamatlīdzekli. Lai atvērtu kādu no šiem, ar pamatlīdzekli saistītajiem dokumentiem, jāizvēlas attiecīgais dokuments un jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=25525" border=0>, tā tiek atvērts izvēlētais pirmdokuments. Lai atvērtu pamatlīdzekļa aprakstu un/vai mainītu Derīgās lietošanas laiku, jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=25526" border=0>. Lai aizvērtu dokumentu, jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=25527" border=0>.</P> 
+.. 586 =========================Pamatlīdzekļu kustība========================= 
+Pamatlīdzekļu kustības atskaite tiek sagatavota par norādīto periodu
+pēc noteiktiem izvēlētajiem kritērijiem. Filtrs jāaizpilda, lai
+sagatavotu atskaiti.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra logā. Filtru var uzlikt, lai ierobežotu kādu datu
+parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk
+sameklētu nepieciešamos datus. Filtrs tiek izmantots arī atskaišu
+sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( ). Izvēloties izveidoto filtra
+sagatavi ( ),filtrs tiek automatizēti aizpildīts no filtra sagataves.
+Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, rīku joslā
+jānospiež poga (Ctrl+F), tiek atvērts filtra logs:
+
+
+
+
+
+
+
+Noliet. veids: jāizvēlas nolietojuma aprēķināšanas veids (uzņēmuma vai
+nodokļiem);
+
+Periods: periods par kuru tiks veidota atskaite;
+
+Stājies ekspl.: pamatlīdzekļu vai nemateriālo aktīvu stāšanās
+ekspluatācijā datums (periods);
+
+Uzņēmums: atskaite par vienu noteiktu uzņēmumu;
+
+Kategorija no: kustība no pamatlīdzekļu kategorijas;
+
+Kategorija uz: kustība uz pamatlīdzekļu kategoriju;
+
+Objekts no: objekts, no kura tika veikta pamatlīdzekļu kustība;
+
+Objekts uz: objekts, uz kuru tika veikta pamatlīdzekļu kustība;
+
+Struktūrv.no: stuktūrvienība, no kuras tika veikta pamatlīdzekļu
+kustība;
+
+Struktūrv.uz: stuktūrvienība, uz kuru tika veikta pamatlīdzekļu
+kustība;
+
+Atb.pers.no: atlasīt pēc atbildīgās personas, no kuras notika
+pamatlīdzekļu kustība;
+
+Atb.pers.uz: atlasīt pēc atbildīgās personas, uz kuru notika
+pamatlīdzekļu kustība;
+Inventāra nr.no...līdz... : iespēja atlasīt pēc pamatlīdzekļu
+inventāra numura;
+Dok. nr.no... līdz...: iespēja atlasīt arī pēc pamatlīdzekļu dokumenta
+numura;
+
+Pl./Nem.aktīvs: iespējams izvēlēties pamatlīdzekļus vai nemateriālos
+aktīvus;
+
+Grupēt pēc: jāizvēlas pēc kura kritērija grupēt;
+
+Iekļaut nolietojuma dokumentus: lai iekļautu atskaitē arī
+pamatlīdzekļu nolietojuma dokumentus;
+
+Iekļaut izslēgtos pamatlīdzekļus: lai iekļautu atskaitē arī izslēgtos
+pamatlīdzekļus;
+
+Iekļaut neapstiprinātos dokumentus: lai iekļautu atskaitē arī
+neapstiprinātos kustību dokumentus
+
+Kad filtra loga kritēriji ir izvēlēti, ir iespējams nodefinēt Papildus
+filtra parametrus, nospiežot pogu atvērtajā filtra logā. Tiek atvērts
+papildus filtra nosacījumu logs:
+
+
+
+
+
+
+
+Dok. Veids: sarakstlodziņa labajā pusē, noklikšķinot uz podziņu tiek
+atvērts dokumenta veidu izvēlņu saraksts, kur iespējams izvēlēties
+kādu no pamatlīdzekļu dokumenta veidiem;
+
+Pl.Izsl.datums: pamatlīdzekļu izslēgšanas datums (periods);
+
+Piegādātāja valsts: piegādātāja valsts no `Valstu saraksta`_;
+
+Pl.nosaukums: pamatlīdzekļa nosaukums;
+
+Īpašuma veids: īpašuma veids kurš nodefinēts `pamatlīdzekļu īpašuma
+veidu sarakstā`_;
+
+Amats: iespējams izvēlēties atbildīgās personas amatu kurš nodefinēts
+`Amatu sarakstā`_;
+
+Pazīme: pazīme, kura nodefinēta `Pamatlīdzekļu pazīmju sarakstā`_;
+
+Kad papildus filtra kritēriji izvēlēti, jānospiež paga . Kad arī
+pamatlīdzekļu kustību filtra logā visi atskaites datu kritēriji
+izvēlēti, jānospiež poga .
+
+Sagatavotos atskaites datus ir iespējams arī izdrukāt. Lai drukātu
+datus, rīko joslā jānospiež poga (Ctrl+P), un jāizvēlās iebūvētā
+izdrukas forma "pamatlīdzekļu kustība", jānospiež poga . Katru
+pamatlīdzekļa kustības dokumentu ir iespējams arī atvērt un
+apsaktīties tā saturu. Lai atvērtu dokumentu, rīku joslā janospiež
+poga , tiek atvērta pamatlīdzekļu kartīte;
+
+
+
+
+
+
+
+Pamatlīdzekļu kartītē redzams pamatlīdzekļa apraksts un dokumenti,
+kuri sasitīti ar šo pamatlīdzekli. Lai atvērtu kādu no šiem, ar
+pamatlīdzekli saistītajiem dokumentiem, jāizvēlas attiecīgais
+dokuments un jānospiež poga , tā tiek atvērts izvēlētais
+pirmdokuments. Lai atvērtu pamatlīdzekļa aprakstu un/vai mainītu
+Derīgās lietošanas laiku, jānospiež poga . Lai aizvērtu dokumentu,
+jānospiež poga .
+
+ 

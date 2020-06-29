@@ -1,9 +1,22 @@
-.. 4201 =============Dokumenti============= <P>&nbsp;</P>
-<P>Grāmatvedības sistēmā Ozols datu uzskaite notiek nodrošinot identificēto datu - pirmdokumentu&nbsp;automātisku pārnesi no CSNRZRS uz OZOLS. Dokumenti tiek sagrupēti dokumentu žurnālos. </P>
-<P>Dokumentu žurnāli ir pieejami no izvēlnes <A href="/help/?ssw=42&amp;skf_id=4201" target=_self>Dokumenti</A>&nbsp;un tie sīkāk tiek sadalīti pēc operāciju nozīmes: </P>
-<UL>
-<LI><A href="/help/?ssw=42&amp;skf_id=4209" target=_self>CSNg. žurnāls</A></LI>
-<LI><A href="/help/?ssw=42&amp;skf_id=4205" target=_self>Atlīdzību lietu žurnāls</A></LI>
-<LI><A href="/help/?ssw=42&amp;skf_id=4211" target=_self>Neatšifrētie bankas ieņēmumi&nbsp;</A></LI>
-<LI><A href="/help/?ssw=42&amp;skf_id=4210" target=_self>Regresa lietu žurnāls </A></LI></UL>
-<P>Dokumentu veidošanā tiek izmantota pārnestā informācija no CNSRZRS un sistēmā OZOLS esošie saraksti. Saraksti ir pieejami no izvēlnes <A href="/help/?ssw=42&amp;skf_id=4203" target=_self>Saraksti</A>&nbsp;. Saraksti tiek izmantoti LTAB moduļa darba režīmā.</P> .. toctree::   :maxdepth: 5    4225.rst   4205.rst   4209.rst   4212.rst   4211.rst   4226.rst   4210.rst   4214.rst   4220.rst
+.. 4201 =============Dokumenti============= 
+
+
+Grāmatvedības sistēmā Ozols datu uzskaite notiek nodrošinot
+identificēto datu - pirmdokumentuautomātisku pārnesi no CSNRZRS uz
+OZOLS. Dokumenti tiek sagrupēti dokumentu žurnālos.
+
+Dokumentu žurnāli ir pieejami no izvēlnes `Dokumenti`_un tie sīkāk
+tiek sadalīti pēc operāciju nozīmes:
+
+
++ `CSNg. žurnāls`_
++ `Atlīdzību lietu žurnāls`_
++ `Neatšifrētie bankas ieņēmumi`_
++ `Regresa lietu žurnāls `_
+
+
+Dokumentu veidošanā tiek izmantota pārnestā informācija no CNSRZRS un
+sistēmā OZOLS esošie saraksti. Saraksti ir pieejami no izvēlnes
+`Saraksti`_. Saraksti tiek izmantoti LTAB moduļa darba režīmā.
+
+ .. toctree::   :maxdepth: 5    4225.rst   4205.rst   4209.rst   4212.rst   4211.rst   4226.rst   4210.rst   4214.rst   4220.rst

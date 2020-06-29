@@ -1,60 +1,160 @@
-.. 838 ====================Darbu pasūtījums==================== <P>Pēc režīma atvēršanas tiek atvērts darbu pasūtījuma ievades ekrāna logs, kur iespējams mainīt darbu pasūtījuma dokumenta veidu: </P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25853" border=0></P>
-<P>&nbsp;</P>
-<P>tad, kad darbu pasūtījuma dokumenta veids izvēlēts, tad jāievada informācija:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25852" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Projekta vadītājs</STRONG>: projektu vadītājs tiek aizpildīts automātiski, no sistēmas lietotāja reģistrācijas informācijas;</P>
-<P><STRONG>Numurs</STRONG>: dokumenta numurs;</P>
-<P><STRONG>Projekts</STRONG>: projekta izvēlnē ir iespējams izvēlēties attiecīgā projektu vadītāja projektus;</P>
-<P><STRONG>Datums ... uz kuru ...:</STRONG> datums, kurā izveidots darbu pasūtījums, un uz kuru datumu;</P>
-<P><STRONG>Klients</STRONG>: partnesi, klients, kuram tiek sagatavots pasūtījums;</P>
-<P><STRONG>Kontaktpersona</STRONG>: ja partnerim ir piesaistīta kontaktpersona, tad iespējams izvēlēties kontaktpersonu;</P>
-<P><STRONG>Adresāts</STRONG>: pasūtījuma izpildītājs, pēc noklusējuma kā adresāts tiek norādīts, pats darbu pasūtījumu sagatavotājs. Tas ir saistīt ar to, ka darbu pasūtījumu ir iespējams, koriģēt līdz brīdim, kamēr tas nav nosūtīts adresātam. Darbu pasūtījums tiek izsūtīts adresātam pēc pasūtījuma saglabāšanas, tāpēc tiek rekomendēts adresātu norādīt tikai, kad pasūtījums ir aizpildīts pilnībā. Citam adresātam adresētus pasūtījums labot nav iespējams.</P>
-<P><STRONG>Nosaukums</STRONG>: </P>
-<P><STRONG>Raksturojums</STRONG>:</P>
-<P><STRONG>Darba veids</STRONG>:</P>
-<P><STRONG>Izpildes laiks no ... līdz ...:</STRONG> projekta izpildes termiņš;</P>
-<P><STRONG>Cena</STRONG>: projekta izmaksas.</P>
-<P>Lai saglabātu darbu pasūtījumu, jānospiež poga Saglabāt. Saglabātais darbu pasūtījums tiek saglabāts <A href="/help/?ssw=46&amp;skf_id=839">darbu pasūtījumu žurnālā</A>.</P>
-<P>&nbsp;</P>
-<P>No <A href="/help/?ssw=46&amp;skf_id=289">projektu dokumentu žurnāla</A> ar funkcijas palīdzību, automātiskai un ērtākai darba pasūtījuma sagatavošanai, ja ir nepieciešams sagatavot pasūtījumu noteikta projekta ietvaros, ir iespējams izmantot projektu žurnālā esošu funkciju – Darbu pasūtījums. Pirms funkcijas izsaukšanas, nepieciešams iezīmēt izvēlēto projektu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25854" border=0></P>
-<P>&nbsp;</P>
-<P>Funkcija –-&gt; Darbu pasūtījums</P>
-<P>Ar funkcijas palīdzību pamat informācija darbu pasūtījumā tiek aizpildīta no projektu. Atliek aizpildīt tikai pasūtījumam raksturīgo informāciju:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25855" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Informācijas apmaiņa, e-pasts adresātam.</STRONG></P>
-<P>Pēc Darbu pasūtījuma saglabāšanas adresātam tiek nosūtīts informatīvs e-pasts ar pamat informāciju par darbu pasūtījumu. Lai iepazītos ar pasūtījuma detaļām, ir jāizmanto interneta norāde uz attiecīgo darbu pasūtījumu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25856" border=0></P>
-<P>&nbsp;</P>
-<P>Darba uzdevumus - darbu pasūtījums iOzols vidē:</P>
-<P>Atverot Darbu pasūtījuma aprakstu no hipersaites informatīvajā e-pastā, atveras Darba uzdevums iOzols vidē, kas satur sekojošu informāciju:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25857" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Partneris un Kontaktpersona</STRONG>: partneris, klients, kuram darba uzdevums paredzēts;</P>
-<P>Darba uzdevuma sagatavošanas numurs un datums;<BR><STRONG>Adresāts</STRONG>: attiecīgā persona, kurai darba uzdevums jāpilda;</P>
-<P><STRONG>Statuss</STRONG>: norāda uz uzdevuma statusu – vai tas ir izpildīts, atcelts, apskatīts u.c.;</P>
-<P><STRONG>Izpildes termiņš</STRONG>: darba uzdevuma izpildes termiņš;</P>
-<P><STRONG>Ieraksta tiesības</STRONG>: nosaka to, kādas ir tiesības attiecīgajam darba uzdevumam. Publiskošanas gadījumā, tam tiek piešķirtas tiesības <STRONG>Publicēt internetā</STRONG>, kas arī dod iespēju šo uzdevumu atvērt publiskajā vidē, kādā to redz klients;</P>
-<P><STRONG>Projekts</STRONG>: kura ietvaros tiek pildīts uzdevums;</P>
-<P><STRONG>Pakalpojums</STRONG>: pakalpojuma nosaukums;</P>
-<P>Darba uzdevuma apraksts.</P>
-<P>Aizpildot šo pašu informāciju tukšā formā iespējams sagatavot jaunu darba uzdevumu iOzols vidē.<BR>Atkarībā no darba uzdevuma tiesībām, ir iespēja informēt klientu par darba uzdevuma publiskošanu ar e-pasta vēstules palīdzību:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25858" border=0></P>
-<P>&nbsp;</P>
-<P>Zem darba uzdevuma ir informācija par tā komentāriem un vēsturi, kas attēlo, piemēram, adresāta maiņu, iztērēto laiku un komentāru. Kā arī šeit tiek attēloti tie komentāri, kas pievienoti darba uzdevuma publiskajā – klienta daļā.<BR>Komentāru pievienošana iespējama ar funkcijām, kas atrodas rīkjoslā zem darba uzdevuma:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25859" border=0></P>
-<P>&nbsp;</P>
-<P>Darba uzdevuma komentāri:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25860" border=0></P> 
+.. 838 ====================Darbu pasūtījums==================== 
+Pēc režīma atvēršanas tiek atvērts darbu pasūtījuma ievades ekrāna
+logs, kur iespējams mainīt darbu pasūtījuma dokumenta veidu:
+
+
+
+
+
+
+
+tad, kad darbu pasūtījuma dokumenta veids izvēlēts, tad jāievada
+informācija:
+
+
+
+
+
+
+
+Projekta vadītājs : projektu vadītājs tiek aizpildīts automātiski, no
+sistēmas lietotāja reģistrācijas informācijas;
+
+Numurs : dokumenta numurs;
+
+Projekts : projekta izvēlnē ir iespējams izvēlēties attiecīgā projektu
+vadītāja projektus;
+
+Datums ... uz kuru ...: datums, kurā izveidots darbu pasūtījums, un uz
+kuru datumu;
+
+Klients : partnesi, klients, kuram tiek sagatavots pasūtījums;
+
+Kontaktpersona : ja partnerim ir piesaistīta kontaktpersona, tad
+iespējams izvēlēties kontaktpersonu;
+
+Adresāts : pasūtījuma izpildītājs, pēc noklusējuma kā adresāts tiek
+norādīts, pats darbu pasūtījumu sagatavotājs. Tas ir saistīt ar to, ka
+darbu pasūtījumu ir iespējams, koriģēt līdz brīdim, kamēr tas nav
+nosūtīts adresātam. Darbu pasūtījums tiek izsūtīts adresātam pēc
+pasūtījuma saglabāšanas, tāpēc tiek rekomendēts adresātu norādīt
+tikai, kad pasūtījums ir aizpildīts pilnībā. Citam adresātam adresētus
+pasūtījums labot nav iespējams.
+
+Nosaukums :
+
+Raksturojums :
+
+Darba veids :
+
+Izpildes laiks no ... līdz ...: projekta izpildes termiņš;
+
+Cena : projekta izmaksas.
+
+Lai saglabātu darbu pasūtījumu, jānospiež poga Saglabāt. Saglabātais
+darbu pasūtījums tiek saglabāts `darbu pasūtījumu žurnālā`_.
+
+
+
+No `projektu dokumentu žurnāla`_ ar funkcijas palīdzību, automātiskai
+un ērtākai darba pasūtījuma sagatavošanai, ja ir nepieciešams
+sagatavot pasūtījumu noteikta projekta ietvaros, ir iespējams izmantot
+projektu žurnālā esošu funkciju – Darbu pasūtījums. Pirms funkcijas
+izsaukšanas, nepieciešams iezīmēt izvēlēto projektu:
+
+
+
+
+
+
+
+Funkcija –-> Darbu pasūtījums
+
+Ar funkcijas palīdzību pamat informācija darbu pasūtījumā tiek
+aizpildīta no projektu. Atliek aizpildīt tikai pasūtījumam raksturīgo
+informāciju:
+
+
+
+
+
+
+
+Informācijas apmaiņa, e-pasts adresātam.
+
+Pēc Darbu pasūtījuma saglabāšanas adresātam tiek nosūtīts informatīvs
+e-pasts ar pamat informāciju par darbu pasūtījumu. Lai iepazītos ar
+pasūtījuma detaļām, ir jāizmanto interneta norāde uz attiecīgo darbu
+pasūtījumu:
+
+
+
+
+
+
+
+Darba uzdevumus - darbu pasūtījums iOzols vidē:
+
+Atverot Darbu pasūtījuma aprakstu no hipersaites informatīvajā
+e-pastā, atveras Darba uzdevums iOzols vidē, kas satur sekojošu
+informāciju:
+
+
+
+
+
+
+
+Partneris un Kontaktpersona : partneris, klients, kuram darba uzdevums
+paredzēts;
+
+Darba uzdevuma sagatavošanas numurs un datums;
+Adresāts : attiecīgā persona, kurai darba uzdevums jāpilda;
+
+Statuss : norāda uz uzdevuma statusu – vai tas ir izpildīts, atcelts,
+apskatīts u.c.;
+
+Izpildes termiņš : darba uzdevuma izpildes termiņš;
+
+Ieraksta tiesības : nosaka to, kādas ir tiesības attiecīgajam darba
+uzdevumam. Publiskošanas gadījumā, tam tiek piešķirtas tiesības
+Publicēt internetā , kas arī dod iespēju šo uzdevumu atvērt publiskajā
+vidē, kādā to redz klients;
+
+Projekts : kura ietvaros tiek pildīts uzdevums;
+
+Pakalpojums : pakalpojuma nosaukums;
+
+Darba uzdevuma apraksts.
+
+Aizpildot šo pašu informāciju tukšā formā iespējams sagatavot jaunu
+darba uzdevumu iOzols vidē.
+Atkarībā no darba uzdevuma tiesībām, ir iespēja informēt klientu par
+darba uzdevuma publiskošanu ar e-pasta vēstules palīdzību:
+
+
+
+
+
+
+
+Zem darba uzdevuma ir informācija par tā komentāriem un vēsturi, kas
+attēlo, piemēram, adresāta maiņu, iztērēto laiku un komentāru. Kā arī
+šeit tiek attēloti tie komentāri, kas pievienoti darba uzdevuma
+publiskajā – klienta daļā.
+Komentāru pievienošana iespējama ar funkcijām, kas atrodas rīkjoslā
+zem darba uzdevuma:
+
+
+
+
+
+
+
+Darba uzdevuma komentāri:
+
+
+
+
+
+ 

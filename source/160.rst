@@ -1,30 +1,85 @@
-.. 160 =========================================Bankas elektronisko norēķinu sistēmas========================================= <p>&nbsp;</p>
-<p>Šajā sarakstā iespējams pievienot nepieciešamās norēķinu sistēmas. Norēķinu sistēmas aprakstā jānorāda ceļš uz katalogiem, kuri tiek izmantoti datu apmaiņai starp grāmatvedības sistēmu un bankas norēķinu sistēmu.</p>
+.. 160 =========================================Bankas elektronisko norēķinu sistēmas========================================= 
 
-<h4>Jaunas Elektronisko norēķinu sistēmas pievienošana:</h4>
-<p>Lai pievienotu jaunu elektronisko norēķinu sistēmu jānospiež poga&nbsp;<img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiks atvērts jauns logs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24581" border="0"></p>
-<p>&nbsp;</p>
-<p>Nepieciešams izvēlēties atbilstošo bankas sistēmu no saraksta:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24584" border="0"></p>
-<p>&nbsp;</p>
-<p>Jānorāda "ceļš" importa un eksporta katalogam:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24583" border="0"></p>
-<p>&nbsp;</p>
-<h4>Papildiespēju atzīmēšana Elektronisko norēķinu sistēmai:</h4><p><img src="/help/Skin/help/img.aspx?pid=24588" border="0"></p>
-<p>Atzīmējot šo izvēles rūtiņu, būs iespējams importēt visus programmā sagatavotos izejošos maksājumus - <a href="/help/?ssw=33&amp;skf_id=224">Bankas izdevumu dokumentus</a>,&nbsp; kuriem <a href="/help/?ssw=33&amp;skf_id=347">Bankas maksājuma uzdevumā</a>&nbsp; būs atzīmēta pazīme "Eksportēt uz bankas elektronisko norēķinu sistēmu".</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24589" border="0"></p>
-<p>Atzīmējot šo izvēles rūtiņu, iespēja no elektronisko norēķinu sistēmas&nbsp;neimportēt programmā bankas komisijas dokumentus. Šo iespēju ieteicams atzīmēt, ja&nbsp;šo&nbsp;dokumentu apjoms ir liels un tādēļ nevēlaties bankas komisijas dokumentus importēt sistēmā automātiski kā atsevišķus dokumentus.</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24590" border="0"></p>
-<p>Atzīmējot šo izvēles rūtiņu, eksportējot bankas izdevumu dokumentus, iepriekš sagatavotais fails tiks pārrakstīts (dzēsts) un aizstāts ar jaunizveidoto failu.</p>
-<p>&nbsp;</p>
-<p>Kad visi nepieciešamie lauki ir aizpildīti, lai saglabātu Elektronisko norēķinu sistēmu, nepieciešams nospiest pogu <img src="/help/Skin/help/img.aspx?pid=24615" border="0">.</p>
-<h4>Pievienotās&nbsp;Elektronisko norēķinu sistēmas labošana:</h4>
-<p>Lai veiktu labojumus pievienotajā Elektronisko norēķinu sistēmā, ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24709" border="0">&nbsp;(ALT+A), un&nbsp;atvērtajā logā iespējams veikt&nbsp;nepieciešamos labojumus:</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24616" border="0"></p>
-<p>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p> 
+
+Šajā sarakstā iespējams pievienot nepieciešamās norēķinu sistēmas.
+Norēķinu sistēmas aprakstā jānorāda ceļš uz katalogiem, kuri tiek
+izmantoti datu apmaiņai starp grāmatvedības sistēmu un bankas norēķinu
+sistēmu.
+
+
+
+Jaunas Elektronisko norēķinu sistēmas pievienošana:
+```````````````````````````````````````````````````
+
+Lai pievienotu jaunu elektronisko norēķinu sistēmu jānospiež poga un
+tiks atvērts jauns logs:
+
+
+
+
+
+
+
+Nepieciešams izvēlēties atbilstošo bankas sistēmu no saraksta:
+
+
+
+
+
+
+
+Jānorāda "ceļš" importa un eksporta katalogam:
+
+
+
+
+
+
+
+
+Papildiespēju atzīmēšana Elektronisko norēķinu sistēmai:
+````````````````````````````````````````````````````````
+
+
+
+Atzīmējot šo izvēles rūtiņu, būs iespējams importēt visus programmā
+sagatavotos izejošos maksājumus - `Bankas izdevumu dokumentus`_,
+kuriem `Bankas maksājuma uzdevumā`_ būs atzīmēta pazīme "Eksportēt uz
+bankas elektronisko norēķinu sistēmu".
+
+
+
+
+
+Atzīmējot šo izvēles rūtiņu, iespēja no elektronisko norēķinu
+sistēmasneimportēt programmā bankas komisijas dokumentus. Šo iespēju
+ieteicams atzīmēt, jašodokumentu apjoms ir liels un tādēļ nevēlaties
+bankas komisijas dokumentus importēt sistēmā automātiski kā atsevišķus
+dokumentus.
+
+
+
+
+
+Atzīmējot šo izvēles rūtiņu, eksportējot bankas izdevumu dokumentus,
+iepriekš sagatavotais fails tiks pārrakstīts (dzēsts) un aizstāts ar
+jaunizveidoto failu.
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti, lai saglabātu Elektronisko
+norēķinu sistēmu, nepieciešams nospiest pogu .
+
+
+PievienotāsElektronisko norēķinu sistēmas labošana:
+```````````````````````````````````````````````````
+
+Lai veiktu labojumus pievienotajā Elektronisko norēķinu sistēmā,
+ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu (ALT+A),
+unatvērtajā logā iespējams veiktnepieciešamos labojumus:
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+ 

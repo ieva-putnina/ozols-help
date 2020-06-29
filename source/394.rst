@@ -1,34 +1,82 @@
-.. 394 ==========Līgums========== <p>&nbsp;</p>
-<p>Līgumi tiek izmantoti, lai uzskaitītu uzņēmuma attiecības un saistības ar pircējiem un piegādātājiem.</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25485" border="0"></p>
-<p>&nbsp;</p>
-<h5>1. Dokuments</h5>
-<p>Lapaspusē Dokuments ir jāaizpilda Līguma dokumenta pamat dati</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26414" border="0"></p>
-<p><strong></strong>&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;<img src="/help/Skin/help/img.aspx?pid=26415" border="0"></p>
-<p>Līgums (līguma veids):</p>
-<p>&nbsp;&nbsp;&nbsp;<img src="/help/Skin/help/img.aspx?pid=26416" border="0"></p>
-<p>&nbsp;</p>
-<p>Brokeru uzņēmumiem ir vēl viena papildus izvēlne pie Līguma - ar ko tiks slēgts sadarbības&nbsp;līgums:</p>
-<p>&nbsp;&nbsp;&nbsp;<img src="/help/Skin/help/img.aspx?pid=26417" border="0"></p>
-<p>&nbsp;</p>
-<p><strong>Numurs - </strong>Programmas piešķirtais numurs pēc kārtas.</p>
-<p><strong>Datums </strong>- Līguma pievienošanas sistēmai datums.</p>
-<p><strong>Iekšējais num.</strong> - Iekšējais numurs, kas brīvi ir tikts sagatavots uzņēmuma iekšienē.</p>
-<p><strong>Ārējais num. </strong>- Numurs, kas ir redzams līguma slēdzējam.</p>
-<p><strong>Piedāvājums - </strong>Iespēja Līgumu sasaistīt ar esošu izveidotu sistēmā Piedāvājumu, kur lauciņā atspoguļojas Piedāvājuma numurs</p>
-<p>&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;<img src="/help/Skin/help/img.aspx?pid=26121" border="0"></p>
-<p><strong></strong>&nbsp;</p>
-<p><strong>Nosaukums </strong>- Līguma nosaukums. Informācija par ko tiek slēgts līgums.</p>
-<p><strong>Partneris -</strong>&nbsp;jānorāda partneris ar kuru tiek slēgts līgums.</p>
-<p><strong>Termiņš -</strong> iespēja norādīt uz kādu termiņu vai bez termiņu noslēgts līgums, un no kura datuma stājās spēkā.</p>
-<p><strong>Līguma valoda</strong> - ja ir vairāku valodu līgumi, tad ir iespēja norādīt konkrētam līgumam valodu.</p>
-<p>Atkarībā no līguma veida, iespēja norādīt līguma summu uz visu līgumu, Summa dienā vai Summa mēnesī.</p>
-<p>Ja konkrētajā līgumā ir atrunāta soda naudas aprēķināšana, tad jānorāda Soda % dienā.</p>
-<p><strong></strong>&nbsp;</p>
-<p><a href="/help/?ssw=68&amp;skf_id=237"><strong>Līguma kopēšana</strong></a></p>
-<p>Līgumu žurnālā, atzīmējot konkrēto līgumu, jānospiež peles labais taustiņš un jāizvēlas Kopēt. Tiek nokopēts līgums.<br></p> 
+.. 394 ==========Līgums========== 
+
+
+Līgumi tiek izmantoti, lai uzskaitītu uzņēmuma attiecības un saistības
+ar pircējiem un piegādātājiem.
+
+
+
+
+
+
+
+
+1. Dokuments
+++++++++++++
+
+Lapaspusē Dokuments ir jāaizpilda Līguma dokumenta pamat dati
+
+
+
+
+
+
+
+
+
+Līgums (līguma veids):
+
+
+
+
+
+Brokeru uzņēmumiem ir vēl viena papildus izvēlne pie Līguma - ar ko
+tiks slēgts sadarbībaslīgums:
+
+
+
+
+
+Numurs - Programmas piešķirtais numurs pēc kārtas.
+
+Datums - Līguma pievienošanas sistēmai datums.
+
+Iekšējais num. - Iekšējais numurs, kas brīvi ir tikts sagatavots
+uzņēmuma iekšienē.
+
+Ārējais num. - Numurs, kas ir redzams līguma slēdzējam.
+
+Piedāvājums - Iespēja Līgumu sasaistīt ar esošu izveidotu sistēmā
+Piedāvājumu, kur lauciņā atspoguļojas Piedāvājuma numurs
+
+
+
+
+
+
+
+Nosaukums - Līguma nosaukums. Informācija par ko tiek slēgts līgums.
+
+Partneris - jānorāda partneris ar kuru tiek slēgts līgums.
+
+Termiņš - iespēja norādīt uz kādu termiņu vai bez termiņu noslēgts
+līgums, un no kura datuma stājās spēkā.
+
+Līguma valoda - ja ir vairāku valodu līgumi, tad ir iespēja norādīt
+konkrētam līgumam valodu.
+
+Atkarībā no līguma veida, iespēja norādīt līguma summu uz visu līgumu,
+Summa dienā vai Summa mēnesī.
+
+Ja konkrētajā līgumā ir atrunāta soda naudas aprēķināšana, tad
+jānorāda Soda % dienā.
+
+
+
+` Līguma kopēšana `_
+
+Līgumu žurnālā, atzīmējot konkrēto līgumu, jānospiež peles labais
+taustiņš un jāizvēlas Kopēt. Tiek nokopēts līgums.
+
+
+ 

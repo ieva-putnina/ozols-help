@@ -1,9 +1,35 @@
-.. 14055 ========================Grāmatojuma labošana======================== <P><FONT style="BACKGROUND-COLOR: #808080" color=#ffffff></FONT><A href="/help/?ssw=33&amp;skf_id=521"></A>&nbsp;</P>
-<P>Grāmatojumus var labot no grāmatojumu žurnāla, atverot no pirmdokumenta vai sameklējot grāmatojumu kādā atskaitē, piemēram, <A href="/help/?ssw=33&amp;skf_id=521">Operāciju pārskats</A>. </P>
-<H5>Grāmatojumus var labot:</H5>
-<P>1. Atverot grāmatojumu no <A href="/help/?ssw=33&amp;skf_id=131">Grāmatojumu žurnāla</A> <SPAN class=shadow>&gt;Dokumenti &gt; Virsgrāmata &gt; Grāmatojumu žurnāls</SPAN></P>
-<P>Ja grāmatojums ir apstiprināts, jāatceļ apstiprinājums (Ctrl+R vai&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24937" border=0>). Jālabo grāmatojums. Grāmatojums atkārtoti jāapstiprina (Ctrl+R vai&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24937" border=0>).</P>
-<P>&nbsp;&nbsp;&nbsp;&nbsp;</P>
-<P>2. Atverot grāmatojumu no pirmdokumenta</SPAN></P>
-<P dir=ltr style="MARGIN-RIGHT: 0px">No dokumentu žurnāla, jāatver pirmdokuments (Alt+A vai&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24932" border=0>) un jāatver grāmatojums (Ctrl+G vai&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24947" border=0>). Grāmatojumam jānoņem apstiprinājums (Ctrl+R vai <IMG src="/help/Skin/help/img.aspx?pid=24937" border=0>). Pēc grāmatojuma labošanas, tas jāapstiprina (Ctrl+R vai&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24937" border=0>).</P>
-<P dir=ltr style="MARGIN-RIGHT: 0px"><BR>3. Atverot grāmatojumu no <A href="/help/?ssw=33&amp;skf_id=521">Operāciju pārskata</A><BR>Operāciju pārskata ieraksts ir viens grāmatojums un to var atvērt ar peles dubultklikšķa palīdzību. Ja grāmatojums ir apstiprināts, jānoņem apstiprinājums (Ctrl+R vai&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24937" border=0>), jālabo grāmatojums. Labotais grāmatojums jāapstiprina. Operāciju pārskata atskaiti var pārzīmēt (F5), lai labojumi tiktu parādīti uz ekrāna atvērtajā atskaitē.<BR></P> 
+.. 14055 ========================Grāmatojuma labošana======================== 
+``_
+
+Grāmatojumus var labot no grāmatojumu žurnāla, atverot no
+pirmdokumenta vai sameklējot grāmatojumu kādā atskaitē, piemēram,
+`Operāciju pārskats`_.
+
+
+Grāmatojumus var labot:
++++++++++++++++++++++++
+
+1. Atverot grāmatojumu no `Grāmatojumu žurnāla`_ >Dokumenti >
+Virsgrāmata > Grāmatojumu žurnāls
+
+Ja grāmatojums ir apstiprināts, jāatceļ apstiprinājums (Ctrl+R vai ).
+Jālabo grāmatojums. Grāmatojums atkārtoti jāapstiprina (Ctrl+R vai ).
+
+
+
+2. Atverot grāmatojumu no pirmdokumenta
+
+No dokumentu žurnāla, jāatver pirmdokuments (Alt+A vai ) un jāatver
+grāmatojums (Ctrl+G vai ). Grāmatojumam jānoņem apstiprinājums (Ctrl+R
+vai ). Pēc grāmatojuma labošanas, tas jāapstiprina (Ctrl+R vai ).
+
+
+3. Atverot grāmatojumu no `Operāciju pārskata`_
+Operāciju pārskata ieraksts ir viens grāmatojums un to var atvērt ar
+peles dubultklikšķa palīdzību. Ja grāmatojums ir apstiprināts, jānoņem
+apstiprinājums (Ctrl+R vai ), jālabo grāmatojums. Labotais grāmatojums
+jāapstiprina. Operāciju pārskata atskaiti var pārzīmēt (F5), lai
+labojumi tiktu parādīti uz ekrāna atvērtajā atskaitē.
+
+
+ 

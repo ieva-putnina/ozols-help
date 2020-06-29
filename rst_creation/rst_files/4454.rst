@@ -1,3 +1,13 @@
-.. 4454 =============Noliktava============= <P>&nbsp;</P>
-<P>iOzols Noliktavas modulis paredzēts krājumu uzskaitei pa materiāi atbildīgajām personām, kur, izmantojot web interfeisu, uzņēmuma krājumu materiāli atbildīgajām personām ir iespēja aplūkot uz savu vārdu reģistrētus krājumu atlikumus un veikt &nbsp;<A href="/help/?ssw=44&amp;skf_id=4487">Nomenklatūras norakstīšanu</A>. Pēc norakstīšanas dokumenta apstiprināšanas, tas ir pieejams OZOLS <A href="/help/?ssw=33&amp;skf_id=43">Noliktavas</A> modulī. </P>
-<P>&nbsp;</P> .. toctree::   :maxdepth: 5    4485.rst   4455.rst   14090.rst   4487.rst   5249.rst
+.. 4454 =============Noliktava============= 
+
+
+iOzols Noliktavas modulis paredzēts krājumu uzskaitei pa materiāi
+atbildīgajām personām, kur, izmantojot web interfeisu, uzņēmuma
+krājumu materiāli atbildīgajām personām ir iespēja aplūkot uz savu
+vārdu reģistrētus krājumu atlikumus un veikt `Nomenklatūras
+norakstīšanu`_. Pēc norakstīšanas dokumenta apstiprināšanas, tas ir
+pieejams OZOLS `Noliktavas`_ modulī.
+
+
+
+ .. toctree::   :maxdepth: 5    4485.rst   4455.rst   14090.rst   4487.rst   5249.rst

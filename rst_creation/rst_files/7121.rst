@@ -1,25 +1,61 @@
-.. 7121 ========Čeki======== <P>Čeku žurnālā tiek saglabāti visi, no kases ieimportētie, realizācijas čeki. Dokumentu sarakstā tiek attēlots:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26113" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Čeka nr.:</STRONG> čeka numurs;</P>
-<P><STRONG>Datums:</STRONG> datums un laiks;</P>
-<P><STRONG>Prece:</STRONG> preces kods;</P>
-<P><STRONG>Daudzums:</STRONG> realizētās preces daudzums vienā čekā;</P>
-<P><STRONG>Cena:</STRONG> preces realizācijas cena;</P>
-<P><STRONG>Summa:</STRONG> preces cenu summa;</P>
-<P><STRONG>Atlaide:</STRONG> atlaide, ja tāda tiek pielietota.</P>
-<P>Pievienojot papildus kolonnas, iespējams redzēt arī papildus informāciju.</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Lai no ieimportētajiem realizācijas čekiem tiktu uzģenerēti pārdošanas dokumenti, kuri būs pieejami <A href="/help/?ssw=33&amp;skf_id=204">pārdošanas dokumentu žurnālā</A>, jāveic realizācijas dokumentu sagatavošanas funkcija:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26114" border=0></P>
-<P>&nbsp;</P>
-<P>Kad šī funkcija ir veikta, <A href="/help/?ssw=33&amp;skf_id=204">pārdošanas dokumentu žurnāla</A> tika pievienotas kases pavadzīmes ar Paskaidrojuma tekstu Realizācija no POS:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26115" border=0></P>
-<P>&nbsp;</P>
-<P>Uzģenerētos pārdošanas dokumentus (kases pavadzīmes) nepieciešams atvērt, nospiežot rīku joslā pogu <IMG src="/help/Skin/help/img.aspx?pid=25603" border=0>, un jāpievieno pircējs (piem., Klients): </P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26116" border=0></P>
-<P>&nbsp;</P>
-<P>Kad Pircēja lauks aizpildīts, dokuments jāapstiprina un, ja nepieciešams, <A href="/help/?ssw=33&amp;skf_id=14044">jāiegrāmato</A>.</P> 
+.. 7121 ========Čeki======== 
+Čeku žurnālā tiek saglabāti visi, no kases ieimportētie, realizācijas
+čeki. Dokumentu sarakstā tiek attēlots:
+
+
+
+
+
+
+
+Čeka nr.: čeka numurs;
+
+Datums: datums un laiks;
+
+Prece: preces kods;
+
+Daudzums: realizētās preces daudzums vienā čekā;
+
+Cena: preces realizācijas cena;
+
+Summa: preces cenu summa;
+
+Atlaide: atlaide, ja tāda tiek pielietota.
+
+Pievienojot papildus kolonnas, iespējams redzēt arī papildus
+informāciju.
+
+Lai no ieimportētajiem realizācijas čekiem tiktu uzģenerēti pārdošanas
+dokumenti, kuri būs pieejami `pārdošanas dokumentu žurnālā`_, jāveic
+realizācijas dokumentu sagatavošanas funkcija:
+
+
+
+
+
+
+
+Kad šī funkcija ir veikta, `pārdošanas dokumentu žurnāla`_ tika
+pievienotas kases pavadzīmes ar Paskaidrojuma tekstu Realizācija no
+POS:
+
+
+
+
+
+
+
+Uzģenerētos pārdošanas dokumentus (kases pavadzīmes) nepieciešams
+atvērt, nospiežot rīku joslā pogu , un jāpievieno pircējs (piem.,
+Klients):
+
+
+
+
+
+
+
+Kad Pircēja lauks aizpildīts, dokuments jāapstiprina un, ja
+nepieciešams, `jāiegrāmato`_.
+
+ 

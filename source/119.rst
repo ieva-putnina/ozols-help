@@ -1,13 +1,35 @@
-.. 119 ===========Valūtas=========== <P>Valūtu saraksts daļēji tiek importēts Ozols programmas ieviešanas procesā.</P>
-<P>Valūtu saraksts tiek izmantots <A href="/help/?ssw=33&amp;skf_id=747">jauna Avansu dokumenta</A>, <A href="/help/?ssw=33&amp;skf_id=846">jauna Finanšu</A>, <A href="/help/?ssw=33&amp;skf_id=848">jauna Norēķinu</A>, <A href="/help/?ssw=33&amp;skf_id=105">Cenu veidu</A>, <A href="/help/?ssw=33&amp;skf_id=312">Partneru</A>, <A href="/help/?ssw=33&amp;skf_id=433">Pamatlīdzekļu ienākšanas dokumentu</A> un <A href="/help/?ssw=33&amp;skf_id=146">Virsgrāmatas</A> dokumentu izveidē.</P>
-<P>Lai apskatītu detalizētu Valūtas aprakstu, Rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25420" border=0>.</P>
-<P>Lai pievienotu jaunu Valūtu sarakstam, Rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25417" border=0>, tiek atvētrs logs, kur katrā tekstlodziņā jāieraksta informācija par valūtu (piem. skatīt attēlu):</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25383" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Valūta:</STRONG> Valūtas apzīmējums;</P>
-<P><STRONG>Nosaukums:</STRONG> Valūtas pilns nosaukums;</P>
-<P><STRONG>Vienības, Daļas:</STRONG> Iespējams norādīt Vienību un un Daļu precīzu locījumu;</P>
-<P>Atzīmējot izvēles rūtiņu <IMG src="/help/Skin/help/img.aspx?pid=25428" border=0>: dokumentu izveidē šī Valūta nebūs pieejama;</P>
-<P><STRONG>Pamatvalūta</STRONG> - Valsts pamatvalūta.</P>
-<P>Pēc tekstlodziņu aizpildīšanas, jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>.</P> 
+.. 119 ===========Valūtas=========== 
+Valūtu saraksts daļēji tiek importēts Ozols programmas ieviešanas
+procesā.
+
+Valūtu saraksts tiek izmantots `jauna Avansu dokumenta`_, `jauna
+Finanšu`_, `jauna Norēķinu`_, `Cenu veidu`_, `Partneru`_,
+`Pamatlīdzekļu ienākšanas dokumentu`_ un `Virsgrāmatas`_ dokumentu
+izveidē.
+
+Lai apskatītu detalizētu Valūtas aprakstu, Rīku joslā jānospiež poga .
+
+Lai pievienotu jaunu Valūtu sarakstam, Rīku joslā jānospiež poga ,
+tiek atvētrs logs, kur katrā tekstlodziņā jāieraksta informācija par
+valūtu (piem. skatīt attēlu):
+
+
+
+
+
+
+
+Valūta: Valūtas apzīmējums;
+
+Nosaukums: Valūtas pilns nosaukums;
+
+Vienības, Daļas: Iespējams norādīt Vienību un un Daļu precīzu
+locījumu;
+
+Atzīmējot izvēles rūtiņu : dokumentu izveidē šī Valūta nebūs pieejama;
+
+Pamatvalūta - Valsts pamatvalūta.
+
+Pēc tekstlodziņu aizpildīšanas, jānospiež poga .
+
+ 

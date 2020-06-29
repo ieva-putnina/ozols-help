@@ -1,20 +1,57 @@
-.. 14115 ========================================================Avansu (starpmaksājumu) izmaksu sarakstu izveidošana======================================================== <P>&nbsp;</P>
-<P>Lai izveidotu avansu un citu starpmaksājumu izmaksu sarakstus, nepieciešams veidot atsevišķu izmaksu sarakstu, kurā tiek norādīts atbilstošais izmaksu saraksta veids un laukā Maksājums - algu aprēķina rezultāta kods (Avanss), uz kura izmaksas aprēķinā jāparāda. </P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26279" border=0></P>
-<P>&nbsp;</P>
-<P>Pēc šāda izmaksu saraksta izveidošanas, ir iespējams aizpildīt avansu izmaksu sarakstu, no iepriekš nodefinētajiem Pārskaitījumiem <A href="/help/?ssw=33&amp;skf_id=294">Pārskaitījumu žurnālā</A>. Lai aizpildītu izmaksu sarakstu, nepieciešams izmantot rīku joslas pogu <IMG src="/help/Skin/help/img.aspx?pid=25814" border=0>&nbsp;un izvēlēties funkciju:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26281" border=0></P>
-<P>&nbsp;</P>
-<P>Izpildot funkciju "Aizpildīt sarakstu no avansu pārskaitījumiem" un avansu izmaksu saraksta aizpildīšanas logā, nospiežot pogu "Aizpildīt izmaksu sarakstu", tiks ielādēti iepriekš <A href="/help/?ssw=33&amp;skf_id=294">Pārskaitījumos</A>&nbsp;nodefinētie avansu pārskaitījumi:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26282" border=0></P>
-<P>&nbsp;</P>
-<P>Aizverot logu "avansu izmaksu saraksta aizpildīšana" un atverot izveidoto izmaksu sarakstu, datus ir iespējams koriģēt, dzēšot nevajadzīgos vai arī atverot esošos ierakstus un labojot avansu maksājumu summas:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26283" border=0></P>
-<P>&nbsp;</P>
-<P>Pēc nepieciešamo korekciju veikšanas, sarakstu nepieciešams saglabāt, nospiežot pogu: <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>.</P>
-<P>&nbsp;</P>
-<P><BR><BR>&nbsp;</P> 
+.. 14115 ========================================================Avansu (starpmaksājumu) izmaksu sarakstu izveidošana======================================================== 
+
+
+Lai izveidotu avansu un citu starpmaksājumu izmaksu sarakstus,
+nepieciešams veidot atsevišķu izmaksu sarakstu, kurā tiek norādīts
+atbilstošais izmaksu saraksta veids un laukā Maksājums - algu aprēķina
+rezultāta kods (Avanss), uz kura izmaksas aprēķinā jāparāda.
+
+
+
+
+
+
+
+Pēc šāda izmaksu saraksta izveidošanas, ir iespējams aizpildīt avansu
+izmaksu sarakstu, no iepriekš nodefinētajiem Pārskaitījumiem
+`Pārskaitījumu žurnālā`_. Lai aizpildītu izmaksu sarakstu,
+nepieciešams izmantot rīku joslas pogu un izvēlēties funkciju:
+
+
+
+
+
+
+
+Izpildot funkciju "Aizpildīt sarakstu no avansu pārskaitījumiem" un
+avansu izmaksu saraksta aizpildīšanas logā, nospiežot pogu "Aizpildīt
+izmaksu sarakstu", tiks ielādēti iepriekš `Pārskaitījumos`_nodefinētie
+avansu pārskaitījumi:
+
+
+
+
+
+
+
+Aizverot logu "avansu izmaksu saraksta aizpildīšana" un atverot
+izveidoto izmaksu sarakstu, datus ir iespējams koriģēt, dzēšot
+nevajadzīgos vai arī atverot esošos ierakstus un labojot avansu
+maksājumu summas:
+
+
+
+
+
+
+
+Pēc nepieciešamo korekciju veikšanas, sarakstu nepieciešams saglabāt,
+nospiežot pogu: .
+
+
+
+
+
+
+
+ 

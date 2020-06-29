@@ -1,12 +1,27 @@
-.. 14010 ================================Sistēmas lietošanas principi================================ <P>&nbsp;</P>
-<P>Sistēmas lietošanas pamatprincipi darbam ar sarakstiem, dokumentiem, atskaitēm un to drukāšanas iespējām sistēmā Ozols:</P>
-<P>&nbsp;</P>
-<P><A href="/help/?ssw=33&amp;skf_id=14013">Darba režīmu izkārtojums un pieejamās komandas</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14051">Darba režīmu pārskats</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14016">Darbs ar atskaitēm</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14014">Darbs ar dokumentiem</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14012">Darbs ar programmu</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14015">Dažāda veida lauku aizpildīšana</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14034">Dokumentu drukāšana</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14011">Pieņemtie apzīmējumi</A></P>
-<P>&nbsp;</P> .. toctree::   :maxdepth: 5    14013.rst   14051.rst   14016.rst   14014.rst   14012.rst   14125.rst   14015.rst   14100.rst   14034.rst   14011.rst   14101.rst
+.. 14010 ================================Sistēmas lietošanas principi================================ 
+
+
+Sistēmas lietošanas pamatprincipi darbam ar sarakstiem, dokumentiem,
+atskaitēm un to drukāšanas iespējām sistēmā Ozols:
+
+
+
+`Darba režīmu izkārtojums un pieejamās komandas`_
+
+`Darba režīmu pārskats`_
+
+`Darbs ar atskaitēm`_
+
+`Darbs ar dokumentiem`_
+
+`Darbs ar programmu`_
+
+`Dažāda veida lauku aizpildīšana`_
+
+`Dokumentu drukāšana`_
+
+`Pieņemtie apzīmējumi`_
+
+
+
+ .. toctree::   :maxdepth: 5    14013.rst   14051.rst   14016.rst   14014.rst   14012.rst   14125.rst   14015.rst   14100.rst   14034.rst   14011.rst   14101.rst

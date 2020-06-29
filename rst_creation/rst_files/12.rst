@@ -1,1 +1,2 @@
-.. 12 =================Konfigurācija=================  .. toctree::   :maxdepth: 6    13.rst   706.rst   19.rst   722.rst
+.. 12 =================Konfigurācija================= 
+ .. toctree::   :maxdepth: 6    13.rst   706.rst   19.rst   722.rst

@@ -1,16 +1,53 @@
-.. 560 =============================Norēķini ar piegādātājiem============================= <p><br></p><p>Atskaiti par norēķiniem ar piegādātājiem iespējams sagatavot pēc noteiktiem atlasīšanas kritērijiem.</p>
-<p>Filtrs jāaizpilda, lai sagatavotu atskaiti.</p>
-<p>Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.</p>
-<p>Datu atlases kritērijus var saglabāt (<img src="/help/Skin/help/img.aspx?pid=24938" border="0">). Izvēloties izveidoto filtra sagatavi (<img src="/help/Skin/help/img.aspx?pid=24943" border="0">), filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež poga <img src="/help/Skin/help/img.aspx?pid=24535" border="0">(Ctrl+F), tiek atvērts filtra logs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25626" border="0"></p>
-<p>&nbsp;</p>
-<p><strong>Datums:</strong> periods, par kuru tiks gatavota atskaite;</p>
-<p><strong>Uzņēmums:</strong> uzņēmums, par kuru tiks gatavota atskaite;</p>
-<p><strong>Valūta:</strong> norēķinu valūta;</p>
-<p><strong>Partneris:</strong> piegādātājs, partneris;</p>
-<p><strong>Ek.kods:</strong> dimensiju dalījums;</p>
-<p><strong>VFK:</strong> dimensiju dalījums;</p>
-<p><strong>Grupēt pa:</strong> iespēja grupēt pa dienām vai partneriem (piegādātājiem);</p>
-<p><strong>Iekļaut neapstiprinātos dokumentus:</strong> atskaitē iekļaut arī neapstiprinātos dokumentus.</p>
-<p><br></p><p>Sagatavojot atskaiti, iespējams definēt arī papildus filtra nosacījumus (izvēloties dokumenta veidu) un nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=25621" border="0">, un, ja filtrā visi atskaites kritēriji izvēlēti, jānospiež poga <img src="/help/Skin/help/img.aspx?pid=25619" border="0">. Sagatavotos atskaites datus ir iespējams arī izdrukāt. Lai drukātu datus, rīko joslā jānospiež poga<img src="/help/Skin/help/img.aspx?pid=24944" border="0"> (Ctrl+P), un jānospiež poga <img src="/help/Skin/help/img.aspx?pid=25620" border="0">.</p> 
+.. 560 =============================Norēķini ar piegādātājiem============================= 
+
+
+
+Atskaiti par norēķiniem ar piegādātājiem iespējams sagatavot pēc
+noteiktiem atlasīšanas kritērijiem.
+
+Filtrs jāaizpilda, lai sagatavotu atskaiti.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( ). Izvēloties izveidoto filtra
+sagatavi ( ), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā
+jānospiež poga (Ctrl+F), tiek atvērts filtra logs:
+
+
+
+
+
+
+
+Datums: periods, par kuru tiks gatavota atskaite;
+
+Uzņēmums: uzņēmums, par kuru tiks gatavota atskaite;
+
+Valūta: norēķinu valūta;
+
+Partneris: piegādātājs, partneris;
+
+Ek.kods: dimensiju dalījums;
+
+VFK: dimensiju dalījums;
+
+Grupēt pa: iespēja grupēt pa dienām vai partneriem (piegādātājiem);
+
+Iekļaut neapstiprinātos dokumentus: atskaitē iekļaut arī
+neapstiprinātos dokumentus.
+
+
+
+
+Sagatavojot atskaiti, iespējams definēt arī papildus filtra
+nosacījumus (izvēloties dokumenta veidu) un nospiežot pogu , un, ja
+filtrā visi atskaites kritēriji izvēlēti, jānospiež poga . Sagatavotos
+atskaites datus ir iespējams arī izdrukāt. Lai drukātu datus, rīko
+joslā jānospiež poga (Ctrl+P), un jānospiež poga .
+
+ 

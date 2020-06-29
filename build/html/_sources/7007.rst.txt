@@ -1,19 +1,49 @@
-.. 7007 ===============Koeficienti=============== <P>&nbsp;</P>
-<P>Sarakstā tiek saglabāti koeficienti, kuru vērtību iespējams&nbsp;nodefinēt konkrētam laika periodam.</P>
-<H5>Jauna Koeficienta pievienošana:</H5>
-<P>Lai pievienotu&nbsp;koeficientu rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25459" border=0></P>
-<P>&nbsp;</P>
-<P>1. Atvērtajā Koeficienta apraksta logā iespējams norādīt&nbsp;Koeficienta darbības periodu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25460" border=0></P>
-<P>&nbsp;</P>
-<P>2. Koeficienta kodu un vērtību:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25461" border=0></P>
-<P>&nbsp;</P>
-<P>Ieraksts tiks saglabāts, izpildot komandu <IMG src="/help/Skin/help/img.aspx?pid=24710" border=0>.</P>
-<H5>Pievienotā Koeficienta apraksta labošana:</H5>
-<P>Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu <IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>(ALT+A), un atvērtajā logā veikt labojumus.</P>
-<P>Pēc labojumu veikšanas, veiktās izmaiņas iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0> vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P> 
+.. 7007 ===============Koeficienti=============== 
+
+
+Sarakstā tiek saglabāti koeficienti, kuru vērtību iespējamsnodefinēt
+konkrētam laika periodam.
+
+
+Jauna Koeficienta pievienošana:
++++++++++++++++++++++++++++++++
+
+Lai pievienotukoeficientu rīku joslā jānospiež poga un tiks atvērts
+jauns logs:
+
+
+
+
+
+
+
+1. Atvērtajā Koeficienta apraksta logā iespējams norādītKoeficienta
+darbības periodu:
+
+
+
+
+
+
+
+2. Koeficienta kodu un vērtību:
+
+
+
+
+
+
+
+Ieraksts tiks saglabāts, izpildot komandu .
+
+
+Pievienotā Koeficienta apraksta labošana:
++++++++++++++++++++++++++++++++++++++++++
+
+Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
+atvērt, izmantojot rīku joslas pogu (ALT+A), un atvērtajā logā veikt
+labojumus.
+
+Pēc labojumu veikšanas, veiktās izmaiņas iespējams vai .
+
+ 

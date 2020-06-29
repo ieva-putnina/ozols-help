@@ -1,6 +1,20 @@
-.. 389 ============Kontakts============ <P>&nbsp;</P>
-<P>Jauns kontakts kā kontaktpersona tiek pievienots jau esošam partnerim:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25720" border=0></P>
-<P>&nbsp;</P>
-<P>Tiek izvēlēts partneris, kuram tiks pievienota šī kontaktpersona. Ir iespējams norādīt kontaktpersonas kontaktus, kā ārī piesaistīt <A href="/help/?ssw=33&amp;skf_id=113">kontaktpersonu grupām</A>. Jaunu kontaktpersonu ir iespējams pievienot arī caur <A href="/help/?ssw=33&amp;skf_id=312">Partnera pievienošanu</A>, <A href="/help/?ssw=33&amp;skf_id=112">partneru sarakstu</A> un&nbsp;<A href="/help/?ssw=33&amp;skf_id=189">kontaktu&nbsp;sarakstu</A>. Lai saglabātu pievienotot kontaktpersonu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>. Visi pievienotie kontakti tiek saglabāti <A href="/help/?ssw=33&amp;skf_id=189">kontaktu sarakstā</A>.</P> 
+.. 389 ============Kontakts============ 
+
+
+Jauns kontakts kā kontaktpersona tiek pievienots jau esošam partnerim:
+
+
+
+
+
+
+
+Tiek izvēlēts partneris, kuram tiks pievienota šī kontaktpersona. Ir
+iespējams norādīt kontaktpersonas kontaktus, kā ārī piesaistīt
+`kontaktpersonu grupām`_. Jaunu kontaktpersonu ir iespējams pievienot
+arī caur `Partnera pievienošanu`_, `partneru sarakstu`_
+un`kontaktusarakstu`_. Lai saglabātu pievienotot kontaktpersonu,
+jānospiež poga . Visi pievienotie kontakti tiek saglabāti `kontaktu
+sarakstā`_.
+
+ 

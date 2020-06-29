@@ -1,19 +1,67 @@
-.. 211 ================Algu periodi================ <p>&nbsp;</p>
-<p>Šajā sarakstā tiek nodefinēti algu periodi algu aprēķiniem. Aktīvais algu periods tiek norādīts <a href="/help/?ssw=33&amp;skf_id=499">Rīkos - Algu perioda atvēršanā</a>. Lai veiktu algu aprēķinu par mēnesi nepieciešams šo periodu izveidot Algu periodu sarakstā un pēc tam norādīt šo periodu kā aktīvu <a href="/help/?ssw=33&amp;skf_id=499">Algu perioda atvēršanā</a>. Algu aprēķins ir iespējams tikai aktīvajā algu periodā.</p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26521" border="0"><br></p>
-<p>&nbsp;</p>
-<p><strong>Sākuma datums</strong> - jānorāda perioda sākuma datums (mēneša pirmā diena).</p>
-<p><strong>Beigu datums</strong> - jānorāda perioda beigu datums (mēneša&nbsp;pēdējā diena).</p>
-<p><strong>Kods </strong>- perioda kods.</p>
-<p><strong>Nosaukums</strong> - perioda nosaukums.</p>
-<p><strong>Aprēķina modulis</strong> - jānorāda <a href="/help/?ssw=33&amp;skf_id=213">Aprēķina modulis</a>, ja uzņēmumā tiek izmantoti vairāki.</p>
-<p><strong>Piezīmes</strong> - iespēja aizpildīt piezīmes par periodu.</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Vairāku uzņēmumu uzskaitē, algu periodi visiem uzņēmumiem ir kopīgi.</p>
-<h5>Perioda konfigurācijas datu izmantošana</h5>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Lai pareizi tiktu piemēroti konfigurācijas dati algu aprēķinā, jāpievērš uzmanība sekojošajam:</p>
-<p><br>1. Pievienojot jaunu periodu <a href="/help/?ssw=33&amp;skf_id=222">Ienākuma nodokļa</a>&nbsp;un <a href="/help/?ssw=33&amp;skf_id=223">Sociālo nodokļa</a> metožu sarakstos tiek izveidoti jauni ieraksti atbilstošajam periodam ar tādām pašām nodokļa un atvieglojumu likmēm, kā tas ir norādīts iepriekšējā periodā. Ja likmes ir mainījušās, tad tās pirms algu aprēķina uzsākšanas atbilstošajā periodā ir jānomaina.</p>
-<p><br>2. <a href="/help/?ssw=33&amp;skf_id=217">Notikumu sarakstā</a> jāpievieno izmaiņas no standarta kalendāra, kas attiecas uz visiem darbiniekiem - perioda brīvdienas, darba dienas, kas iekrīt brīvdienās, īsās darba dienas. Notikumu saraksta ieraksti nodrošina pareizu perioda darba dienu aprēķinu.</p>
-<p><br>3. <a href="/help/?ssw=33&amp;skf_id=212">Algu aprēķinu žurnālā</a>, atvērtajā algu aprēķinā ar taustiņa F4 palīdzību var atvērt perioda datus, kur tiek parādīti piemērojamās nodokļu likmes un atvieglojumi strādājošajam. Lai pareizi tiktu aprēķināta alga, perioda datiem jābūt noteiktiem.</p>
-<p><br>4. Pievienojot jaunu algu aprēķina periodu, tajā tiek pārnestas iepriekšējā algu periodā pievienotās <a href="/help/?ssw=33&amp;skf_id=281">Algu tarifikācijas konstantes</a>. Ja konstantes vērtības jāmaina, tas jādara pirms algu aprēķina uzsākšanas algu aprēķina perioda aprakstā.<br></p> 
+.. 211 ================Algu periodi================ 
+
+
+Šajā sarakstā tiek nodefinēti algu periodi algu aprēķiniem. Aktīvais
+algu periods tiek norādīts `Rīkos - Algu perioda atvēršanā`_. Lai
+veiktu algu aprēķinu par mēnesi nepieciešams šo periodu izveidot Algu
+periodu sarakstā un pēc tam norādīt šo periodu kā aktīvu `Algu perioda
+atvēršanā`_. Algu aprēķins ir iespējams tikai aktīvajā algu periodā.
+
+
+
+
+
+
+
+
+Sākuma datums - jānorāda perioda sākuma datums (mēneša pirmā diena).
+
+Beigu datums - jānorāda perioda beigu datums (mēnešapēdējā diena).
+
+Kods - perioda kods.
+
+Nosaukums - perioda nosaukums.
+
+Aprēķina modulis - jānorāda `Aprēķina modulis`_, ja uzņēmumā tiek
+izmantoti vairāki.
+
+Piezīmes - iespēja aizpildīt piezīmes par periodu.
+
+
+
+Vairāku uzņēmumu uzskaitē, algu periodi visiem uzņēmumiem ir kopīgi.
+
+
+Perioda konfigurācijas datu izmantošana
++++++++++++++++++++++++++++++++++++++++
+
+Lai pareizi tiktu piemēroti konfigurācijas dati algu aprēķinā,
+jāpievērš uzmanība sekojošajam:
+
+
+1. Pievienojot jaunu periodu `Ienākuma nodokļa`_un `Sociālo nodokļa`_
+metožu sarakstos tiek izveidoti jauni ieraksti atbilstošajam periodam
+ar tādām pašām nodokļa un atvieglojumu likmēm, kā tas ir norādīts
+iepriekšējā periodā. Ja likmes ir mainījušās, tad tās pirms algu
+aprēķina uzsākšanas atbilstošajā periodā ir jānomaina.
+
+
+2. `Notikumu sarakstā`_ jāpievieno izmaiņas no standarta kalendāra,
+kas attiecas uz visiem darbiniekiem - perioda brīvdienas, darba
+dienas, kas iekrīt brīvdienās, īsās darba dienas. Notikumu saraksta
+ieraksti nodrošina pareizu perioda darba dienu aprēķinu.
+
+
+3. `Algu aprēķinu žurnālā`_, atvērtajā algu aprēķinā ar taustiņa F4
+palīdzību var atvērt perioda datus, kur tiek parādīti piemērojamās
+nodokļu likmes un atvieglojumi strādājošajam. Lai pareizi tiktu
+aprēķināta alga, perioda datiem jābūt noteiktiem.
+
+
+4. Pievienojot jaunu algu aprēķina periodu, tajā tiek pārnestas
+iepriekšējā algu periodā pievienotās `Algu tarifikācijas konstantes`_.
+Ja konstantes vērtības jāmaina, tas jādara pirms algu aprēķina
+uzsākšanas algu aprēķina perioda aprakstā.
+
+
+ 

@@ -1,6 +1,16 @@
-.. 4428 ===================Kontaktpersonas=================== <P>Kontaktpersonu sarakstā tiek saglabāti visi <A href="/help/?ssw=44&amp;skf_id=4438">kontaktpersonu</A> pievienotie dati.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25877" border=0></P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>Kontaktpersonu sarakstā, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25831" border=0>, iespējams <A href="/help/?ssw=44&amp;skf_id=4438">pievienot jaunu kontaktpersonu</A>. </P> 
+.. 4428 ===================Kontaktpersonas=================== 
+Kontaktpersonu sarakstā tiek saglabāti visi `kontaktpersonu`_
+pievienotie dati.
+
+
+
+
+
+
+
+
+
+Kontaktpersonu sarakstā, nospiežot pogu , iespējams `pievienot jaunu
+kontaktpersonu`_.
+
+ 

@@ -1,38 +1,105 @@
-.. 114 ===============Kontu plāns=============== <p><br></p><p>Sarakstā tiek saglabāti grāmatvediskie konti, kas tiek izmantoti <a href="/help/?ssw=33&amp;skf_id=14044">dokumentu grāmatošanai</a>, <a href="/help/?ssw=33&amp;skf_id=135">grāmatojumu šablonos</a> un <a href="/help/?ssw=33&amp;skf_id=529">Virsgrāmatas</a> atskaišu sagatavošanai. Kontu plānu var izveidot neierobežoti plašu un hierarhisku. <a href="/help/?ssw=33&amp;skf_id=14041">Hierarhiskais</a> kontu plāns nodrošina datu grupēšanu uz augstākajiem kontu līmeņiem.</p>
-<h4>Jauna konta pievienošana</h4>
-<p>Lai kontu plānā pievienotu jaunu kontu , jāizmanto komanda <img src="/help/Skin/help/img.aspx?pid=24708" border="0"> no rīku joslas (Alt+P) un tiks atvērts jauns logs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26136" border="0"></p>
-<p>&nbsp;</p>
-<p><strong>Augstākais konts:</strong> kontam, kuru jāpievieno kā subkontu (zemāka līmeņa kontu), jānorāda augstāk esošais konts. Ja augstāka līmeņa konts nav, tad kā augstāko kontu norāda [Nav]:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26133" border="0"></p>
-<p>&nbsp;</p>
-<p><strong>Konts:</strong> jānorāda konts;</p>
-<p><strong>Nosaukums:</strong> jānorāda konta nosaukums;</p>
-<p><strong>Statuss:</strong> jānorāda vai kontam ir atļauta, aizliegta datu ievade, vai arī ieraksts ir slēgts:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26134" border="0"></p>
-<p>&nbsp;</p>
-<p><strong>Aizliegt datu ievadi</strong> -kontu nevarēs izmantot grāmatojumos, bet varēs izmantot veidojot atskaites. Šo konta statusu vēlams izmantot augstākajiem kontu līmeņiem hierarhiskajā kontu plānā. <br><strong>Atļaut datu ievadi</strong> - šo statusu izmantot pievienojot jaunu kontu, kuru varēs izmantot grāmatojot dokumentus. </p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Abu augstāk minēto statusu maiņa esošajiem kontiem, neietekmē vēsturiski grāmatotos dokumentus un atskaites.</p>
-<p><br><strong>Ieraksts ir slēgts</strong> - kontu nevarēs izmantot grāmatojumos un veidojot atskaites.</p>
-<p>&nbsp;</p>
-<p><strong>Konta atlikums:</strong> konta atlikuma un grāmatojuma puses (debetā, kredītā vai abos):</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26135" border="0"></p>
-<p>&nbsp;</p>
-<p><strong>Dimensiju lietošana grāmatojumos:</strong></p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26137" border="0"></p>
-<p>&nbsp;</p>
-<p><strong>Lietot obligāti:</strong> dimensija tiks lietota grāmatojumā. Grāmatojumu nebūs iespējams saglabāt, ja netiks norādīta attiecīgā dimensija;</p>
-<p><strong>Lietot pēc izvēles:</strong> grāmatojot iespējams izvēlēties, lietot vai nelietot;</p>
-<p><strong>Nelietot:</strong> grāmatojumos netiks lietotā attiecīgā dimensija.</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26138" border="0">&nbsp;- tiek lietots, lai attiecīgajam kontam tiktu rēķinātas <a href="/help/?ssw=33&amp;skf_id=675">valūtu kursu svārstības</a>:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26139" border="0">&nbsp;- tiek lietots, ja nepieciešams <a href="/help/?ssw=33&amp;skf_id=675">valūtu kursu svārstību</a> sadalījums pa dimensijām</p>
-<p>Lai konts tiktu pievienots un saglabāts kontu plānā, jānospiež poga <img src="/help/Skin/help/img.aspx?pid=25621" border="0">.</p>
-<p>Lai veiktu izmaiņas pievienotajos kontos, ieraksts ir jāatver, rīku joslā nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24869" border="0"> un jāveic izmaiņas. Lai saglabātu veiktās izmaiņas ir jānospiež poga <img src="/help/Skin/help/img.aspx?pid=24867" border="0">.</p> 
+.. 114 ===============Kontu plāns=============== 
+
+
+
+Sarakstā tiek saglabāti grāmatvediskie konti, kas tiek izmantoti
+`dokumentu grāmatošanai`_, `grāmatojumu šablonos`_ un `Virsgrāmatas`_
+atskaišu sagatavošanai. Kontu plānu var izveidot neierobežoti plašu un
+hierarhisku. `Hierarhiskais`_ kontu plāns nodrošina datu grupēšanu uz
+augstākajiem kontu līmeņiem.
+
+
+Jauna konta pievienošana
+````````````````````````
+
+Lai kontu plānā pievienotu jaunu kontu , jāizmanto komanda no rīku
+joslas (Alt+P) un tiks atvērts jauns logs:
+
+
+
+
+
+
+
+Augstākais konts: kontam, kuru jāpievieno kā subkontu (zemāka līmeņa
+kontu), jānorāda augstāk esošais konts. Ja augstāka līmeņa konts nav,
+tad kā augstāko kontu norāda [Nav]:
+
+
+
+
+
+
+
+Konts: jānorāda konts;
+
+Nosaukums: jānorāda konta nosaukums;
+
+Statuss: jānorāda vai kontam ir atļauta, aizliegta datu ievade, vai
+arī ieraksts ir slēgts:
+
+
+
+
+
+
+
+Aizliegt datu ievadi -kontu nevarēs izmantot grāmatojumos, bet varēs
+izmantot veidojot atskaites. Šo konta statusu vēlams izmantot
+augstākajiem kontu līmeņiem hierarhiskajā kontu plānā.
+Atļaut datu ievadi - šo statusu izmantot pievienojot jaunu kontu, kuru
+varēs izmantot grāmatojot dokumentus.
+
+
+
+Abu augstāk minēto statusu maiņa esošajiem kontiem, neietekmē
+vēsturiski grāmatotos dokumentus un atskaites.
+
+
+Ieraksts ir slēgts - kontu nevarēs izmantot grāmatojumos un veidojot
+atskaites.
+
+
+
+Konta atlikums: konta atlikuma un grāmatojuma puses (debetā, kredītā
+vai abos):
+
+
+
+
+
+
+
+Dimensiju lietošana grāmatojumos:
+
+
+
+
+
+
+
+Lietot obligāti: dimensija tiks lietota grāmatojumā. Grāmatojumu nebūs
+iespējams saglabāt, ja netiks norādīta attiecīgā dimensija;
+
+Lietot pēc izvēles: grāmatojot iespējams izvēlēties, lietot vai
+nelietot;
+
+Nelietot: grāmatojumos netiks lietotā attiecīgā dimensija.
+
+
+
+- tiek lietots, lai attiecīgajam kontam tiktu rēķinātas `valūtu kursu
+svārstības`_:
+
+
+
+- tiek lietots, ja nepieciešams `valūtu kursu svārstību`_ sadalījums
+pa dimensijām
+
+Lai konts tiktu pievienots un saglabāts kontu plānā, jānospiež poga .
+
+Lai veiktu izmaiņas pievienotajos kontos, ieraksts ir jāatver, rīku
+joslā nospiežot pogu un jāveic izmaiņas. Lai saglabātu veiktās
+izmaiņas ir jānospiež poga .
+
+ 

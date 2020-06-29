@@ -1,7 +1,20 @@
-.. 785 ====================Ziņojumu žurnāls==================== <P>&nbsp;</P>
-<P>Ziņojumu žurnālā&nbsp;tiek saglabāti visi sagatavotie Ziņojumi, kas pievienoti Dokumentu žurnālā.</P>
-<H5>Jauna ziņojuma pievienošana </H5>
-<P>Jaunu&nbsp;Ziņojumu iespējams pievienot, nospiežot&nbsp;Rīku joslā esošo pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25946" border=0></P>
-<P>&nbsp;</P></SPAN> 
+.. 785 ====================Ziņojumu žurnāls==================== 
+
+
+Ziņojumu žurnālātiek saglabāti visi sagatavotie Ziņojumi, kas
+pievienoti Dokumentu žurnālā.
+
+
+Jauna ziņojuma pievienošana
++++++++++++++++++++++++++++
+
+JaunuZiņojumu iespējams pievienot, nospiežotRīku joslā esošo pogu un
+tiks atvērts jauns logs:
+
+
+
+
+
+
+
+ 

@@ -1,1 +1,25 @@
-.. 117 ====================Struktūrvienības==================== <br>Struktūrvienību klasifikatoru iespējams veidot hierarhisku, veidojot detalizācijas līmeni atbilstoši uzņēmuma vajadzībām. Lai pievienotu jaunu ierakstu, rīku joslā nepieciešams nospiest pogu <img src="Skin/help/img.aspx?pid=25605" border="0"> un aizpildīt sekojošus laukus:<br><br><img src="file:///C:/Users/INESE%7E1.ITS/AppData/Local/Temp/moz-screenshot-5.png" alt=""><img src="Skin/help/img.aspx?pid=26432" border="0"><br> <br><b>Virslīmenis: </b>jānorāda augstākais līmenis, zem kura šis ieraksts tiks pievienots. Ja tāda nav, tad jānorāda izvēlne [Nav];<br><b>Kods:</b> saīsināts struktūrvienības nosaukums;<br><b>Nosaukums:</b> struktūrvienības pilns nosaukums;<br><b>Statuss:</b> norādīt statusu, vai dati uz šo ierakstu tiks vadīti, vai nē (rekomendējams likt statusu "Aizliegt datu ievadi", ja šī struktūrvienība būs augstākā līmeņa un kalpos datu apvienošanai);<br><b>Tips:</b> iespēja norādīt struktūrvienības tipu (apakšstruktūrvienība, struktūrdaļa, utt.);<br><b>Atb.persona</b>: iespēja piesaistīt struktūrvienībai atbildīgo personu.<br><br>Lai saglabātu izmaiņas, jānospiež poga <span id="iozo_content_ctl00_lbltxt" class="txt"><img src="Skin/help/img.aspx?pid=24867" border="0">.</span><span id="iozo_content_ctl00_lbltxt" class="txt"> </span> Lai veiktu izmaiņas pievienotajos struktūrvienību aprakstos, ieraksts ir jāatver, rīku joslā nospiežot pogu <span id="iozo_content_ctl00_lbltxt" class="txt"><img src="Skin/help/img.aspx?pid=24869" border="0"></span><span id="iozo_content_ctl00_lbltxt" class="txt"></span>.<br> 
+.. 117 ====================Struktūrvienības==================== 
+Struktūrvienību klasifikatoru iespējams veidot hierarhisku, veidojot
+detalizācijas līmeni atbilstoši uzņēmuma vajadzībām. Lai pievienotu
+jaunu ierakstu, rīku joslā nepieciešams nospiest pogu un aizpildīt
+sekojošus laukus:
+
+
+
+**Virslīmenis: **jānorāda augstākais līmenis, zem kura šis ieraksts
+tiks pievienots. Ja tāda nav, tad jānorāda izvēlne [Nav];
+**Kods:** saīsināts struktūrvienības nosaukums;
+**Nosaukums:** struktūrvienības pilns nosaukums;
+**Statuss:** norādīt statusu, vai dati uz šo ierakstu tiks vadīti, vai
+nē (rekomendējams likt statusu "Aizliegt datu ievadi", ja šī
+struktūrvienība būs augstākā līmeņa un kalpos datu apvienošanai);
+**Tips:** iespēja norādīt struktūrvienības tipu (apakšstruktūrvienība,
+struktūrdaļa, utt.);
+**Atb.persona**: iespēja piesaistīt struktūrvienībai atbildīgo
+personu.
+
+Lai saglabātu izmaiņas, jānospiež poga . Lai veiktu izmaiņas
+pievienotajos struktūrvienību aprakstos, ieraksts ir jāatver, rīku
+joslā nospiežot pogu .
+
+ 

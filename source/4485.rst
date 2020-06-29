@@ -1,4 +1,11 @@
-.. 4485 =============Atskaites============= <P>&nbsp;</P>
-<P>iOzols Noliktavas modulī pieejamās Atskaites:<BR></P>
-<P><A href="/help/?ssw=44&amp;skf_id=4457">Nomenklatūras apgrozījums</A></P>
-<P><A href="/help/?ssw=44&amp;skf_id=4456">Nomenklatūras atlikumi</A></P> .. toctree::   :maxdepth: 4    4457.rst   4456.rst   4516.rst
+.. 4485 =============Atskaites============= 
+
+
+iOzols Noliktavas modulī pieejamās Atskaites:
+
+
+`Nomenklatūras apgrozījums`_
+
+`Nomenklatūras atlikumi`_
+
+ .. toctree::   :maxdepth: 4    4457.rst   4456.rst   4516.rst

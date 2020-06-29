@@ -1,10 +1,28 @@
-.. 14080 ========================Polises parakstīšana======================== <P><A href="/help/?ssw=65&amp;skf_id=14083"></A>&nbsp;</P>
-<P>Polises parakstīšana tiek grāmatota, balstoties uz iepriekš sagatavoto Polišu parakstīšanas <A href="/help/?ssw=65&amp;skf_id=14083">Grāmatojuma šablonu</A>&nbsp;(Darba režīms - Polises parakstīšana (POP)).</P>
-<P>Polise tiek iegrāmatota brīdī, kad tiek aizpildīti nepieciešamie <A href="/help/?ssw=65&amp;skf_id=6521">Polises</A> lauki un ieraksts tiek saglabāts.</P>
-<P>&nbsp;</P>
-<P>Izveidotais grāmatojums pieejams Polises aprakstā, sadaļā "Grāmatojumi":</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25370" border=0></P>
-<P>&nbsp;</P>
-<P>Kā arī, ja papildus Polišu modulim iegādāts Ozols bāzes modulis, grāmatojums pieejams <A href="/help/?ssw=33&amp;skf_id=131">Grāmatojumu žurnālā</A>, atlasot datus pēc grāmatojuma veida "Polises parakstīšana (POP)".</P>
-<P>&nbsp;</P> 
+.. 14080 ========================Polises parakstīšana======================== 
+``_
+
+Polises parakstīšana tiek grāmatota, balstoties uz iepriekš sagatavoto
+Polišu parakstīšanas `Grāmatojuma šablonu`_(Darba režīms - Polises
+parakstīšana (POP)).
+
+Polise tiek iegrāmatota brīdī, kad tiek aizpildīti nepieciešamie
+`Polises`_ lauki un ieraksts tiek saglabāts.
+
+
+
+Izveidotais grāmatojums pieejams Polises aprakstā, sadaļā
+"Grāmatojumi":
+
+
+
+
+
+
+
+Kā arī, ja papildus Polišu modulim iegādāts Ozols bāzes modulis,
+grāmatojums pieejams `Grāmatojumu žurnālā`_, atlasot datus pēc
+grāmatojuma veida "Polises parakstīšana (POP)".
+
+
+
+ 

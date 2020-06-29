@@ -1,33 +1,89 @@
-.. 129 =============================Pamatlīdzekļu kategorijas============================= <p>&nbsp;</p>
-<p>Pamatlīdzekļu kategoriju sarakstā jānodefinē uzņēmumā izmantotās pamatlīdzekļu kategorijas.</p>
-<p>&nbsp;</p>
-<p>
-</p><p></p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Pamatlīdzekļu kategorijas pamatlīdzekļu uzskaitē ir jāizmanto <u>obligāti</u>, jo pamatlīdzekļu kategorijās tiek definēti dati, kas tiek izmantoti pamatlīdzekļu operācijās:</p>
-<ul>
-<li>pamatlīdzekļu uzskaites, nolietojuma un izdevumu grāmatvediskie konti; 
-</li><li>pamatlīdzekļu nolietojuma normas finanšu un nodokļu vajadzībām.</li></ul>
-<p>&nbsp;</p>
-<p>Pamatlīdzekļu atskaišu sagatavošanā pamatlīdzekļu kategorijas ir iespējams izmantot kā datu (pamatlīdzekļu) atlases un grupēšanas nosacījumu.</p>
-<p>&nbsp;</p>
-<p>Jaunu pamatlīdzekļu kategoriju pievieno pamatlīdzekļu kategoriju sarakstā ar funkciju <img src="Skin/help/img.aspx?pid=25605" border="0">. Pēc datu aizpildīšanas jāspiež poga <strong>Saglabāt</strong> lai saglabātu jaunizveidoto ierakstu.</p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26435" border="0"><br></p>
-<p>&nbsp;</p>
-<p>Pamatlīdzekļu kategoriju saraksts ir hierarhisks un pievienojot jaunu kategoriju laukā <strong>Augstākā kateg.</strong> jānorāda kāds ir jaunā ieraksta augstākais līmenis. Ja jaunajam ierakstam nav augstākā līmeņa un jaunais ieraksts ir virsējais līmenis, tad laukā <strong>Augstākā kateg.</strong> jānorāda vērtība <strong>[Nav]</strong>.</p>
-<p>&nbsp;</p>
-<p>Laukā <strong>Statuss</strong> tiek definēts&nbsp;pamatlīdzekļu kategorijas&nbsp;statuss ņemot uzskaitē jaunus pamatlīdzekļus un veidojot atskaites:</p>
-<ul>
-<li><strong>Aizliegt datu ievadi</strong> - kategoriju <u>nevar</u> izmantot&nbsp;pievienojot jaunu pamatlīdzekli, bet&nbsp;<u>var</u> izmantot veidojot atskaites. Šo kategorijas statusu vēlams izmantot augstākajiem pamatlīdzekļu kategoriju līmeņiem hierarhiskajā kategoriju sarakstā. 
-</li><li><strong>Atļaut datu ievadi</strong> - šo kategoriju <u>var</u> izmantot pievienojot jaunu pamatlīdzekli un <u>var</u> izmantot&nbsp;kā atlases nosacījumu&nbsp;veidojot atskaites. 
-</li><li><strong>Ieraksts ir slēgts</strong> - šo kategoriju <u>nevar</u> izmantot pievienojot jaunu pamatlīdzekli un&nbsp;<u>nevar</u> izmantot kā atlases nosacījumu&nbsp;veidojot atskaites.</li></ul>
-<p>&nbsp;</p>
-<p>Sistēmā strādājot ar vairākiem uzņēmumiem papildus laukā <strong>Uzņēmums</strong> jānorāda uzņēmums, kurš jauno pamatlīdzekļu kategoriju izmantos, vai jānorāda vērtības <strong>(Visas)</strong>, ja šo pamatlīdzekļu kategoriju izmantos visi datu bāzē izveidotie uzņēmumi.</p>
-<p>&nbsp;</p>
-<p>Laukā <strong>Pamatl.uzsk.konts</strong> jānorāda pamatlīdzekļa uzskaites konts.</p>
-<p>Laukā <strong>Nolietojuma konts</strong> jānorāda pamatlīdzekļa nolietojuma konts.</p>
-<p>Laukos <strong>Norakst.izd.konts</strong> un <strong>Noliet.izd.konts</strong> jānorāda pamatlīdzekļu izdevuma konts.</p>
-<p>&nbsp;</p>
-<p>Pamatlīdzekļu kategoriju labo ar funkciju <img src="Skin/help/img.aspx?pid=25603" border="0">.</p>
-<p>Pamatlīdzekļu kategoriju dzēš ar funkciju <img src="Skin/help/img.aspx?pid=25602" border="0">. Pamatlīdzekļu kategoriju sistēma neļauj dzēst, ja tas ir pievienots kādam sistēmā ievadītam pamatlīdzeklim.</p>
+.. 129 =============================Pamatlīdzekļu kategorijas============================= 
+
+
+Pamatlīdzekļu kategoriju sarakstā jānodefinē uzņēmumā izmantotās
+pamatlīdzekļu kategorijas.
+
+
+
+
+
+
+
+Pamatlīdzekļu kategorijas pamatlīdzekļu uzskaitē ir jāizmanto obligāti
+, jo pamatlīdzekļu kategorijās tiek definēti dati, kas tiek izmantoti
+pamatlīdzekļu operācijās:
+
+
++ pamatlīdzekļu uzskaites, nolietojuma un izdevumu grāmatvediskie
+  konti;
++ pamatlīdzekļu nolietojuma normas finanšu un nodokļu vajadzībām.
+
+
+
+
+Pamatlīdzekļu atskaišu sagatavošanā pamatlīdzekļu kategorijas ir
+iespējams izmantot kā datu (pamatlīdzekļu) atlases un grupēšanas
+nosacījumu.
+
+
+
+Jaunu pamatlīdzekļu kategoriju pievieno pamatlīdzekļu kategoriju
+sarakstā ar funkciju . Pēc datu aizpildīšanas jāspiež poga Saglabāt
+lai saglabātu jaunizveidoto ierakstu.
+
+
+
+
+
+
+
+
+Pamatlīdzekļu kategoriju saraksts ir hierarhisks un pievienojot jaunu
+kategoriju laukā Augstākā kateg. jānorāda kāds ir jaunā ieraksta
+augstākais līmenis. Ja jaunajam ierakstam nav augstākā līmeņa un
+jaunais ieraksts ir virsējais līmenis, tad laukā Augstākā kateg.
+jānorāda vērtība [Nav] .
+
+
+
+Laukā Statuss tiek definētspamatlīdzekļu kategorijasstatuss ņemot
+uzskaitē jaunus pamatlīdzekļus un veidojot atskaites:
+
+
++ Aizliegt datu ievadi - kategoriju nevar izmantotpievienojot jaunu
+  pamatlīdzekli, bet var izmantot veidojot atskaites. Šo kategorijas
+  statusu vēlams izmantot augstākajiem pamatlīdzekļu kategoriju līmeņiem
+  hierarhiskajā kategoriju sarakstā.
++ Atļaut datu ievadi - šo kategoriju var izmantot pievienojot jaunu
+  pamatlīdzekli un var izmantotkā atlases nosacījumuveidojot atskaites.
++ Ieraksts ir slēgts - šo kategoriju nevar izmantot pievienojot jaunu
+  pamatlīdzekli un nevar izmantot kā atlases nosacījumuveidojot
+  atskaites.
+
+
+
+
+Sistēmā strādājot ar vairākiem uzņēmumiem papildus laukā Uzņēmums
+jānorāda uzņēmums, kurš jauno pamatlīdzekļu kategoriju izmantos, vai
+jānorāda vērtības (Visas) , ja šo pamatlīdzekļu kategoriju izmantos
+visi datu bāzē izveidotie uzņēmumi.
+
+
+
+Laukā Pamatl.uzsk.konts jānorāda pamatlīdzekļa uzskaites konts.
+
+Laukā Nolietojuma konts jānorāda pamatlīdzekļa nolietojuma konts.
+
+Laukos Norakst.izd.konts un Noliet.izd.konts jānorāda pamatlīdzekļu
+izdevuma konts.
+
+
+
+Pamatlīdzekļu kategoriju labo ar funkciju .
+
+Pamatlīdzekļu kategoriju dzēš ar funkciju . Pamatlīdzekļu kategoriju
+sistēma neļauj dzēst, ja tas ir pievienots kādam sistēmā ievadītam
+pamatlīdzeklim.
+
  

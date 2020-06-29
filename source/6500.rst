@@ -1,10 +1,20 @@
-.. 6500 ===========Polises=========== <P>&nbsp;</P>
-<P>Polišu modulis&nbsp;paredzēts apdrošināšanas brokeru sabiedrībām, kas veic vairāku apdrošinātāju polišu pārdošanu. </P>
-<H5>Polišu uzskaite nodrošina sekojošu funkcionalitāti: </H5>
-<UL>
-<LI><A href="/help/?ssw=65&amp;skf_id=6521">Polises</A> paraksts (ar lietotāja definējamiem laukiem) 
-<LI>Apmaksas grafiks (integrēts grāmatvedības uzskaitē) 
-<LI>Faili (attēli vai jebkurš cits fails) 
-<LI>Polišu <A href="/help/?ssw=65&amp;skf_id=6518">Pielikumi</A>/dublikāti 
-<LI>Brokera, aģentu, starpnieku <A href="/help/?ssw=65&amp;skf_id=6516">Komisijas aprēķins</A>
-<LI><A href="/help/?ssw=65&amp;skf_id=6516">Komisijas uzskaite</A> starp Brokeri un Apdrošināšanas sabiedrībām <BR></LI></UL> .. toctree::   :maxdepth: 6    6503.rst   6502.rst   14077.rst   6520.rst   6595.rst   6504.rst   6501.rst
+.. 6500 ===========Polises=========== 
+
+
+Polišu modulisparedzēts apdrošināšanas brokeru sabiedrībām, kas veic
+vairāku apdrošinātāju polišu pārdošanu.
+
+
+Polišu uzskaite nodrošina sekojošu funkcionalitāti:
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++ `Polises`_ paraksts (ar lietotāja definējamiem laukiem)
++ Apmaksas grafiks (integrēts grāmatvedības uzskaitē)
++ Faili (attēli vai jebkurš cits fails)
++ Polišu `Pielikumi`_/dublikāti
++ Brokera, aģentu, starpnieku `Komisijas aprēķins`_
++ `Komisijas uzskaite`_ starp Brokeri un Apdrošināšanas sabiedrībām
+
+
+ .. toctree::   :maxdepth: 6    6503.rst   6502.rst   14077.rst   6520.rst   6595.rst   6504.rst   6501.rst

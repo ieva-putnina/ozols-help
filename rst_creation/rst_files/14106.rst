@@ -1,25 +1,74 @@
-.. 14106 =============================================Valūtas konvertācijas dokumentu veidošana============================================= <P>&nbsp;</P>
-<P>1. Lai izveidotu valūtas konvertāciju, nepieciešams sagatavot bankas izdevumu dokumentu, kur dokumenta Virsrakstā nepieciešams izvēlēties atbilstošo konvertējamo valūtu un norādīt komercbankas kursu, pēc kāda darījums ir noticis:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26146" border=0></P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Balstoties uz izveidoto pirmdokumentu, tiek veidots Grāmatojums, kurā tiek&nbsp;iegrāmatota konvertācijas darījumā rezultātā izveidojusies peļņa vai zaudējumi.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Pirms dokumenta grāmatošanas, nepieciešams pārliecināties, vai ir aizpildīti visi nepieciešamie grāmatvedisko kontu iestādījumi sadaļā: Konfigurācija-&gt;Iestādījumi-&gt;Kopīgie-&gt;<A href="/help/?ssw=33&amp;skf_id=707">Virsgrāmata</A>&nbsp;(Obligāts nosacījums korekta konvertācijas dokumenta izveidošanaii ir aizpildīti grāmatvediskie&nbsp;konti: Starpkonta ekvivalents, Peļņa no konvertācijas un Zaudējumi no konvertācijas)</P>
-<P>2. Balstoties uz sagatavoto pirmdokumentu, nepieciešams veidot Grāmatojumu, rīku joslā nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=26148" border=0>&nbsp;un grāmatojuma logā jāizvēlas poga <IMG src="/help/Skin/help/img.aspx?pid=25814" border=0>, lai izvēloties Ieņēmumu vai Izdevumu konvertāciju:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26149" border=0></P>
-<P>&nbsp;</P>
-<P>3. Izvēloties atbilstošo konvertācijas veidu, tiks atvērts Konvertēšanas logs, kur jānorāda konvertējamā valūta un konvertējamās valūtas summa:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26150" border=0></P>
-<P>&nbsp;</P>
-<P>4. Konvertācija tiks veikta un atbilstošas grāmatojuma ieraksta rindiņas izveidotas, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=26151" border=0>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26152" border=0></P>
-<P>&nbsp;</P>
-<P>Rezultātā grāmatojumā ir izveidojušās 3 ieraksta rindiņas:</P>
-<P>1)&nbsp;&nbsp;Summa valūtā no pirmdokumenta (Db. Konvertācijas starpkonts - Cr. Bankas konts)</P>
-<P>2)&nbsp;&nbsp;Summa pamatvalūtā no pirmdokumenta (pēc pirmdokumenta Virsrakstā norādībā komercbankas kursa) (Db. Norēķini ar piegādātājiem - Cr. Konvertācijas starpkonts)</P>
-<P>3)&nbsp;&nbsp;Starpība starp komerbankas un Latvijas Bankas valūtas kursa - summa pamatvalūtā, kas izveidojusies konvertācijas rezultātā un izmantojot Starpkontu, iegrāmatota uz grāmatvedisko kontu "Peļņa no konvertācijas" (Db. Konvertācijas starpkonts - Cr. Peļņa no konvertācijas)</P> 
+.. 14106 =============================================Valūtas konvertācijas dokumentu veidošana============================================= 
+
+
+1. Lai izveidotu valūtas konvertāciju, nepieciešams sagatavot bankas
+izdevumu dokumentu, kur dokumenta Virsrakstā nepieciešams izvēlēties
+atbilstošo konvertējamo valūtu un norādīt komercbankas kursu, pēc kāda
+darījums ir noticis:
+
+
+
+
+
+
+
+
+
+Balstoties uz izveidoto pirmdokumentu, tiek veidots Grāmatojums, kurā
+tiekiegrāmatota konvertācijas darījumā rezultātā izveidojusies peļņa
+vai zaudējumi.
+
+
+
+Pirms dokumenta grāmatošanas, nepieciešams pārliecināties, vai ir
+aizpildīti visi nepieciešamie grāmatvedisko kontu iestādījumi sadaļā:
+Konfigurācija->Iestādījumi->Kopīgie->`Virsgrāmata`_(Obligāts
+nosacījums korekta konvertācijas dokumenta izveidošanaii ir aizpildīti
+grāmatvediskiekonti: Starpkonta ekvivalents, Peļņa no konvertācijas un
+Zaudējumi no konvertācijas)
+
+2. Balstoties uz sagatavoto pirmdokumentu, nepieciešams veidot
+Grāmatojumu, rīku joslā nospiežot pogu un grāmatojuma logā jāizvēlas
+poga , lai izvēloties Ieņēmumu vai Izdevumu konvertāciju:
+
+
+
+
+
+
+
+3. Izvēloties atbilstošo konvertācijas veidu, tiks atvērts
+Konvertēšanas logs, kur jānorāda konvertējamā valūta un konvertējamās
+valūtas summa:
+
+
+
+
+
+
+
+4. Konvertācija tiks veikta un atbilstošas grāmatojuma ieraksta
+rindiņas izveidotas, nospiežot pogu :
+
+
+
+
+
+
+
+Rezultātā grāmatojumā ir izveidojušās 3 ieraksta rindiņas:
+
+1)Summa valūtā no pirmdokumenta (Db. Konvertācijas starpkonts - Cr.
+Bankas konts)
+
+2)Summa pamatvalūtā no pirmdokumenta (pēc pirmdokumenta Virsrakstā
+norādībā komercbankas kursa) (Db. Norēķini ar piegādātājiem - Cr.
+Konvertācijas starpkonts)
+
+3)Starpība starp komerbankas un Latvijas Bankas valūtas kursa - summa
+pamatvalūtā, kas izveidojusies konvertācijas rezultātā un izmantojot
+Starpkontu, iegrāmatota uz grāmatvedisko kontu "Peļņa no
+konvertācijas" (Db. Konvertācijas starpkonts - Cr. Peļņa no
+konvertācijas)
+
+ 

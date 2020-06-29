@@ -1,16 +1,46 @@
-.. 224 ===================Bankas izdevumi=================== <P>&nbsp;</P>
-<P>Bankas izdevumu dokumenti ir sadalīti pa veidiem pēc operāciju nozīmes. Izvēloties kādu no dokumentu veidiem, tiek aktivizēti dokumenta sagatavošanai nepieciešamie lauki. Neatkarīgi no dokumentu veida, sagatavotie maksājuma uzdevumi tiek drukāti standartizētā veidā, izmantojot iebūvēto izdrukas formu.</P>
-<P>Bankas izdevumu dokumentu žurnālā tiek saglabāti šādi bankas izdevumu dokumenti:</P>
-<P>&nbsp;</P>
-<P><A href="/help/?ssw=33&amp;skf_id=469">Bankā izmaksāts avanss</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=468">Bankas budžeta maksājums</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=466">Bankas komisija</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=347">Bankas maksājuma uzdevums</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=467">Bankas maksājums ar maksājumu karti</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=475">Naudas izņemšana no bankas konta</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=470">Naudas pārsūtīšana starp bankas kontiem</A></P>
-<P>&nbsp;</P>
-<P>Lai atlasītu dokumentus Bankas izdevumu žurnālā, jāizmanto datu atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.</P>
-<P>Datu atlases kritērijus var saglabāt (<IMG src="/help/Skin/help/img.aspx?pid=24938" border=0>). Izvēloties izveidoto filtra sagatavi (<IMG src="/help/Skin/help/img.aspx?pid=24943" border=0>), filtrs tiek automatizēti aizpildīts no filtra sagataves.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Instrukcija - <A href="/help/?ssw=33&amp;skf_id=14106">Valūtas konvertācijas dokumentu veidošana</A></P> 
+.. 224 ===================Bankas izdevumi=================== 
+
+
+Bankas izdevumu dokumenti ir sadalīti pa veidiem pēc operāciju
+nozīmes. Izvēloties kādu no dokumentu veidiem, tiek aktivizēti
+dokumenta sagatavošanai nepieciešamie lauki. Neatkarīgi no dokumentu
+veida, sagatavotie maksājuma uzdevumi tiek drukāti standartizētā
+veidā, izmantojot iebūvēto izdrukas formu.
+
+Bankas izdevumu dokumentu žurnālā tiek saglabāti šādi bankas izdevumu
+dokumenti:
+
+
+
+`Bankā izmaksāts avanss`_
+
+`Bankas budžeta maksājums`_
+
+`Bankas komisija`_
+
+`Bankas maksājuma uzdevums`_
+
+`Bankas maksājums ar maksājumu karti`_
+
+`Naudas izņemšana no bankas konta`_
+
+`Naudas pārsūtīšana starp bankas kontiem`_
+
+
+
+Lai atlasītu dokumentus Bankas izdevumu žurnālā, jāizmanto datu
+atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem
+datu atlases kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai
+ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās
+izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek
+izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura
+aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( ). Izvēloties izveidoto filtra
+sagatavi ( ), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+
+
+
+Instrukcija - `Valūtas konvertācijas dokumentu veidošana`_
+
+ 

@@ -1,13 +1,33 @@
-.. 4439 ==========Adrese========== <P>Jauna adrese tiek pievienota jau esošam Partnerim:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25836" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Partneris:</STRONG> partneris, kuram tiks pievienota jauna adrese (iespējams izvēlēties no partneru saraksta caur pogu <IMG src="/help/Skin/help/img.aspx?pid=25837" border=0>);</P>
-<P><STRONG>Adrese</STRONG>: jānodefinē adrese, izvēloties no saraksta veidu (biroja,&nbsp;deklarētā, faktiskā, juridiskā, u.c.) un precīzi norādot adresi;</P>
-<P><STRONG>Pilsēta</STRONG>: pilsēta;</P>
-<P><STRONG>Indekss</STRONG>: pasta indekss;</P>
-<P><STRONG>Valsts</STRONG>: no valstu saraksta jāizvēlas partnera adreses valsts;</P>
-<P><STRONG>Piezīmes</STRONG>: iespējams pievienot piezīmes.</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25839" border=0>: partnerim šī adrese ir kā galvenā adrese, noklusētā adrese.</P>
-<P>Ja visi dati ievadīti, lai tos saglabātu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25829" border=0>, adrese tiek saglabāta <A href="/help/?ssw=44&amp;skf_id=4432">adrešu žurnālā</A>, un, lai labotu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25832" border=0>, bet lai pievienotu jaunu adresi, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25831" border=0>.</P>
-<P>Visas pievienotās adreses tiek saglabātas <A href="/help/?ssw=44&amp;skf_id=4432">adrešu žurnālā</A>.</P> 
+.. 4439 ==========Adrese========== 
+Jauna adrese tiek pievienota jau esošam Partnerim:
+
+
+
+
+
+
+
+Partneris: partneris, kuram tiks pievienota jauna adrese (iespējams
+izvēlēties no partneru saraksta caur pogu );
+
+Adrese : jānodefinē adrese, izvēloties no saraksta veidu
+(biroja,deklarētā, faktiskā, juridiskā, u.c.) un precīzi norādot
+adresi;
+
+Pilsēta : pilsēta;
+
+Indekss : pasta indekss;
+
+Valsts : no valstu saraksta jāizvēlas partnera adreses valsts;
+
+Piezīmes : iespējams pievienot piezīmes.
+
+: partnerim šī adrese ir kā galvenā adrese, noklusētā adrese.
+
+Ja visi dati ievadīti, lai tos saglabātu, jānospiež poga , adrese tiek
+saglabāta `adrešu žurnālā`_, un, lai labotu, jānospiež poga , bet lai
+pievienotu jaunu adresi, jānospiež poga .
+
+Visas pievienotās adreses tiek saglabātas `adrešu žurnālā`_.
+
+ 

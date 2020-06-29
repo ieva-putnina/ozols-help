@@ -1,7 +1,22 @@
-.. 195 ==============================Atbildīgo personu saraksts============================== <P>&nbsp;</P>
-<P>Atbildīgo personu saraksts tiek veidots, pievienojot Jaunu&nbsp;<A href="/help/?ssw=33&amp;skf_id=312">Partneri</A>&nbsp;un Partnera apraksta&nbsp;Datu logā atzīmējot izvēles rūtiņu <IMG src="/help/Skin/help/img.aspx?pid=25419" border=0>. </P>
-<P>Lai apskatītu Atbildīgās personas aprakstu, Rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25603" border=0>, tiks atvērts logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26060" border=0></P>
-<P>&nbsp;</P>
-<P>Atbildīgo personu saraksts tiek lietots veidojot <A href="/help/?ssw=33&amp;skf_id=433">jaunus Pamatlīdzekļu ienākšanas dokumentus</A>, <A href="/help/?ssw=33&amp;skf_id=828">Pamatlīdzekļu pieņemšanu eksplutācijā</A>, <A href="/help/?ssw=33&amp;skf_id=437">Pamatlīdzekļu pārsūtīšanas dokumentus</A>, <A href="/help/?ssw=33&amp;skf_id=693">Nomeklatūras norakstīšanas</A>, <A href="/help/?ssw=33&amp;skf_id=687">Nomeklatūras pārsūtīšanas dokumentus</A>.</P> 
+.. 195 ==============================Atbildīgo personu saraksts============================== 
+
+
+Atbildīgo personu saraksts tiek veidots, pievienojot
+Jaunu`Partneri`_un Partnera aprakstaDatu logā atzīmējot izvēles rūtiņu
+.
+
+Lai apskatītu Atbildīgās personas aprakstu, Rīku joslā jānospiež poga
+, tiks atvērts logs:
+
+
+
+
+
+
+
+Atbildīgo personu saraksts tiek lietots veidojot `jaunus Pamatlīdzekļu
+ienākšanas dokumentus`_, `Pamatlīdzekļu pieņemšanu eksplutācijā`_,
+`Pamatlīdzekļu pārsūtīšanas dokumentus`_, `Nomeklatūras
+norakstīšanas`_, `Nomeklatūras pārsūtīšanas dokumentus`_.
+
+ 

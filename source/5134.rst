@@ -1,6 +1,15 @@
-.. 5134 =================Paroles maiņa================= <P>&nbsp;</P>
-<P>Lai tiktu nomainīta parole, nepieciešams aizpildīt sekojošus laukus:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26390" border=0></P>
-<P>&nbsp;</P>
-<P>Nospiežot pogu "Mainīt paroli" - parole tiks nomainīta un turpmākām pieslēgšanās jāizmanto jaunievadītā parole.</P> 
+.. 5134 =================Paroles maiņa================= 
+
+
+Lai tiktu nomainīta parole, nepieciešams aizpildīt sekojošus laukus:
+
+
+
+
+
+
+
+Nospiežot pogu "Mainīt paroli" - parole tiks nomainīta un turpmākām
+pieslēgšanās jāizmanto jaunievadītā parole.
+
+ 

@@ -1,2 +1,8 @@
-.. 253 ===========================Maksājumu dzēšanas akti=========================== <p>&nbsp;</p>
-<p>Maksājumu dzēšanas akti ir paredzēti <a href="/help/?ssw=33&amp;skf_id=350">Kases</a>/<a href="/help/?ssw=33&amp;skf_id=349">Bankas ieņēmumu</a>/<a href="/help/?ssw=33&amp;skf_id=347">izdevumu</a> nenosegto summu dzēšanai, ja nav atbilstoša norēķinu dokumenta.</p> 
+.. 253 ===========================Maksājumu dzēšanas akti=========================== 
+
+
+Maksājumu dzēšanas akti ir paredzēti `Kases`_/`Bankas
+ieņēmumu`_/`izdevumu`_ nenosegto summu dzēšanai, ja nav atbilstoša
+norēķinu dokumenta.
+
+ 

@@ -1,30 +1,69 @@
-.. 14109 ===============================================================Grāmatvedisko kontu piesaistīšana algu rezultējošiem kodiem=============================================================== <P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Pirms algu grāmatojuma pirmdokumenta veidošanas, algu rezultējošiem kodiem - ABruto, IIN, Soc_dn, Soc_dd un Riska_nod - jābūt piesaistītiem Db un Cr grāmatvediskajiem kontiem!</P>
-<P>&nbsp;</P>
-<P>Nepieciešamās darbības veicamas no darba režīma: <STRONG>Alga-&gt;Konfigurācija-&gt;Rezultējošo kodu konfigurācija:</STRONG></P>
-<P>&nbsp;</P>
-<P>1. Rezultējošo kodu sarakstā, nepieciešams atrast kodu ABruto un atvērt ierakstu;</P>
-<P>&nbsp;</P>
-<P>2. Atvērtajā logā, laukos DB.konts un CR.konts jānorāda atbilstošais debeta un kredīta konts:<BR></P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26236" border=0></P>
-<P>&nbsp;</P>
-<P>3. Ieraksts tiks saglabāts, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>.</P>
-<P>&nbsp;</P>
-<P>4. Secīgi, pārējiem nepieciešamajiem algu rezultējošiem kodiem jāpiesaista grāmatvediskais konts:</P>
-<P>&nbsp;</P>
-<P>Iedzīvotāju ienākumu nodoklis (IIN):</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26237" border=0></P>
-<P>&nbsp;</P>
-<P>Darba devēja aprēķinātais VSAOI:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26238" border=0></P>
-<P>&nbsp;</P>
-<P>Sociālais nodoklis darba ņēmēja:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26240" border=0></P>
-<P>&nbsp;</P>
-<P>Riska nodeva:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26241" border=0>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </P>
-<P>&nbsp;</P> 
+.. 14109 ===============================================================Grāmatvedisko kontu piesaistīšana algu rezultējošiem kodiem=============================================================== 
+
+
+Pirms algu grāmatojuma pirmdokumenta veidošanas, algu rezultējošiem
+kodiem - ABruto, IIN, Soc_dn, Soc_dd un Riska_nod - jābūt
+piesaistītiem Db un Cr grāmatvediskajiem kontiem!
+
+
+
+Nepieciešamās darbības veicamas no darba režīma:
+Alga->Konfigurācija->Rezultējošo kodu konfigurācija:
+
+
+
+1. Rezultējošo kodu sarakstā, nepieciešams atrast kodu ABruto un
+atvērt ierakstu;
+
+
+
+2. Atvērtajā logā, laukos DB.konts un CR.konts jānorāda atbilstošais
+debeta un kredīta konts:
+
+
+
+
+
+
+3. Ieraksts tiks saglabāts, nospiežot pogu .
+
+
+
+4. Secīgi, pārējiem nepieciešamajiem algu rezultējošiem kodiem
+jāpiesaista grāmatvediskais konts:
+
+
+
+Iedzīvotāju ienākumu nodoklis (IIN):
+
+
+
+
+
+
+
+Darba devēja aprēķinātais VSAOI:
+
+
+
+
+
+
+
+Sociālais nodoklis darba ņēmēja:
+
+
+
+
+
+
+
+Riska nodeva:
+
+
+
+
+
+
+
+ 

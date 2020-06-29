@@ -1,78 +1,62 @@
-.. 14034 =======================Dokumentu drukāšana======================= <P>&nbsp;</P>
-<P>Grāmatvedības sistēmas "Ozols" datorprogrammās var izdrukāt dokumentus, dokumentu žurnālus un sagatavotās atskaites. Dokumentu žurnālus un grāmatvedības dokumentus var izdrukāt no atvērtām ekrāna formām. Izdrukas iespējas ir iebūvētas datorprogrammā un par iespēju izmantot drukāšanu liecina aktīva rīku joslas komanda Drukāt.</P>
-<P>&nbsp;</P>
-<P>Izveidotos dokumentus var izdrukāt, izmantojot rīku joslu vai no galvenās izvēlnes</P>
-<P>&nbsp;</P>
-<P>
-<TABLE cellSpacing=0 cellPadding=0 border=0>
-<TBODY>
-<TR>
-<TD class="tmenu</TD">
-<TD class=tmenu width=82>Dati / Drukāt</TD></TR></TBODY></TABLE></P>
-<P>&nbsp;</P>
-<P>Izdrukas ekrāna formā var izvēlēties iebūvēto izdrukas formu, kopējo vai individuālo formu, aktivizējot attiecīgos pārslēdžus Iebūvētā, Kopīgā vai Individuālā. Atskaiti var eksportēt uz teksta failu, MS Excel 5.0 failu, MS Visual Foxpro 5.0 failu, Dbase 3 failu.</P>
-<P>&nbsp;</P>
-<P>Logā Kopiju skaits var norādīt izdrukājamo kopiju skaitu.</P>
-<P>&nbsp;</P>
-<P>Izdrukas dialoga ekrāna formu var atvērt, aktivizējot izvēles rūtiņu Izsaukt izdrukas dialogu un spiežot komandpogu Drukāt.</P>
-<P>&nbsp;</P>
-<P>Dokumentus var izdrukāt ar atdalošajām joslām. Dokumentu izdrukā var iestādīt dažādus fontu veidus. Ja atskaišu izdrukām ir izvēlēts fonts, tā nosaukums parādās izdrukas ekrāna formā blakus komandpogai Fonts.</P>
-<P>&nbsp;</P>
-<TABLE>
-<TBODY>
-<TR>
-<TD><B>Objekts</B></TD>
-<TD><B>Paskaidrojums</B></TD></TR>
-<TR>
-<TD>Iebūvētā</TD>
-<TD>Iebūvētās izdrukas izmantošana</TD></TR>
-<TR>
-<TD>Kopējā</TD>
-<TD>Kopējās izdrukas izmantošana</TD></TR>
-<TR>
-<TD>Individuālā</TD>
-<TD>Individuālās izdrukas izmantošana</TD></TR>
-<TR>
-<TD>Atvērt</TD>
-<TD>Iebūvētās izdrukas formas atvēršana</TD></TR>
-<TR>
-<TD>Labot</TD>
-<TD>Kopējās izdrukas formas labošana</TD></TR>
-<TR>
-<TD>Labot formu</TD>
-<TD>Individuālās izdrukas formas labošana</TD></TR>
-<TR>
-<TD>Eksportēt</TD>
-<TD>Datu eksportēšana uz norādīto faila veidu</TD></TR>
-<TR>
-<TD>Atvērt</TD>
-<TD>Norādītā faila veida atvēršana</TD></TR>
-<TR>
-<TD>Fonts</TD>
-<TD>Atskaišu izdrukas fonta iestādīšana</TD></TR>
-<TR>
-<TD>Kopiju skaits</TD>
-<TD>Drukājamo kopiju skaita norādīšana</TD></TR>
-<TR>
-<TD>Izdrukas parametri</TD>
-<TD>Izdrukas dialoga izsaukšana</TD></TR>
-<TR>
-<TD>Palīgs</TD>
-<TD>Palīdzības sistēmas izsaukšana</TD></TR>
-<TR>
-<TD>Teksts</TD>
-<TD>Dokumenta atvēršana teksta failā</TD></TR>
-<TR>
-<TD>Apskatīt</TD>
-<TD>Dokumenta priekšapskate</TD></TR>
-<TR>
-<TD>Drukāt</TD>
-<TD>Dokumenta drukāšana</TD></TR>
-<TR>
-<TD>Aizvērt</TD>
-<TD>
-<P>Ekrāna formas aizvēršana</P></TD></TR></TBODY></TABLE>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25301" border=0></P>
-<P>&nbsp;</P>
-<P>&nbsp;</P> .. toctree::   :maxdepth: 4    14035.rst
+.. 14034 =======================Dokumentu drukāšana======================= 
+
+
+Grāmatvedības sistēmas "Ozols" datorprogrammās var izdrukāt
+dokumentus, dokumentu žurnālus un sagatavotās atskaites. Dokumentu
+žurnālus un grāmatvedības dokumentus var izdrukāt no atvērtām ekrāna
+formām. Izdrukas iespējas ir iebūvētas datorprogrammā un par iespēju
+izmantot drukāšanu liecina aktīva rīku joslas komanda Drukāt.
+
+
+
+Izveidotos dokumentus var izdrukāt, izmantojot rīku joslu vai no
+galvenās izvēlnes
+
+
+
+Dati / Drukāt
+
+
+
+Izdrukas ekrāna formā var izvēlēties iebūvēto izdrukas formu, kopējo
+vai individuālo formu, aktivizējot attiecīgos pārslēdžus Iebūvētā,
+Kopīgā vai Individuālā. Atskaiti var eksportēt uz teksta failu, MS
+Excel 5.0 failu, MS Visual Foxpro 5.0 failu, Dbase 3 failu.
+
+
+
+Logā Kopiju skaits var norādīt izdrukājamo kopiju skaitu.
+
+
+
+Izdrukas dialoga ekrāna formu var atvērt, aktivizējot izvēles rūtiņu
+Izsaukt izdrukas dialogu un spiežot komandpogu Drukāt.
+
+
+
+Dokumentus var izdrukāt ar atdalošajām joslām. Dokumentu izdrukā var
+iestādīt dažādus fontu veidus. Ja atskaišu izdrukām ir izvēlēts fonts,
+tā nosaukums parādās izdrukas ekrāna formā blakus komandpogai Fonts.
+
+
+**Objekts** **Paskaidrojums** Iebūvētā Iebūvētās izdrukas izmantošana
+Kopējā Kopējās izdrukas izmantošana Individuālā Individuālās izdrukas
+izmantošana Atvērt Iebūvētās izdrukas formas atvēršana Labot Kopējās
+izdrukas formas labošana Labot formu Individuālās izdrukas formas
+labošana Eksportēt Datu eksportēšana uz norādīto faila veidu Atvērt
+Norādītā faila veida atvēršana Fonts Atskaišu izdrukas fonta
+iestādīšana Kopiju skaits Drukājamo kopiju skaita norādīšana Izdrukas
+parametri Izdrukas dialoga izsaukšana Palīgs Palīdzības sistēmas
+izsaukšana Teksts Dokumenta atvēršana teksta failā Apskatīt Dokumenta
+priekšapskate Drukāt Dokumenta drukāšana Aizvērt
+Ekrāna formas aizvēršana
+
+
+
+
+
+
+
+
+
+ .. toctree::   :maxdepth: 4    14035.rst

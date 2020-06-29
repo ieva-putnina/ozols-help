@@ -1,2 +1,14 @@
-.. 35 =============Dokumenti============= <P><A href="/help/?ssw=33&amp;skf_id=178"></A>&nbsp;</P>
-<P>Sistēmā tiek nodrošināta&nbsp;<A href="/help/?ssw=33&amp;skf_id=178">Budžeta plānu</A>&nbsp;uzturēšana. Izdevumu un ieņēmumu plānus var noteikt jebkurai datu uzskaites dimensijai. <BR>Sistēmā ir iebūvēta <A href="/help/?ssw=33&amp;skf_id=178">Budžeta plānu</A>&nbsp; ievade pa kontiem un visām uzskaites dimensijām. Tādā veidā iespējama budžeta plānošana jebkurā struktūrvienību līmenī. Tas nozīmē, ka ir iespējams iegūt izdevumu tāmes pa kontiem un uzskaites dimensijām noteiktam laika periodam un reālā laikā kontrolēt naudas līdzekļu atlikumu katram kontam un dimensijai. <BR></P> .. toctree::   :maxdepth: 5    178.rst
+.. 35 =============Dokumenti============= 
+``_
+
+Sistēmā tiek nodrošināta`Budžeta plānu`_uzturēšana. Izdevumu un
+ieņēmumu plānus var noteikt jebkurai datu uzskaites dimensijai.
+Sistēmā ir iebūvēta `Budžeta plānu`_ ievade pa kontiem un visām
+uzskaites dimensijām. Tādā veidā iespējama budžeta plānošana jebkurā
+struktūrvienību līmenī. Tas nozīmē, ka ir iespējams iegūt izdevumu
+tāmes pa kontiem un uzskaites dimensijām noteiktam laika periodam un
+reālā laikā kontrolēt naudas līdzekļu atlikumu katram kontam un
+dimensijai.
+
+
+ .. toctree::   :maxdepth: 5    178.rst

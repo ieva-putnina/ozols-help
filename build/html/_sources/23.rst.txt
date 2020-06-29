@@ -1,1 +1,37 @@
-.. 23 ============Saraksti============ <br><a href="?ssw=33&amp;skf_id=122">Apmaksas veidi</a><br><br><a href="?ssw=33&amp;skf_id=185">Atlaižu grupas</a><br><br><a href="?ssw=33&amp;skf_id=857">Bankas kontu grupas</a><br><br><a href="?ssw=33&amp;skf_id=749">Cenas</a><br><br><a href="?ssw=33&amp;skf_id=105">Cenu veidi</a><br><br><a href="?ssw=33&amp;skf_id=897">Cenu veidu kursi</a><br><br><a href="?ssw=33&amp;skf_id=991">Debitoru korespondences komentāri</a><br><br><a href="?ssw=33&amp;skf_id=148">Grupas</a><br><br><a href="?ssw=33&amp;skf_id=158">Iepirkumu dokumentu veidi</a><br><br><a href="?ssw=33&amp;skf_id=108">Pakalpojumi</a><br><br><a href="?ssw=33&amp;skf_id=157">Pārdošanas dokumentu veidi</a><br><br><a href="?ssw=33&amp;skf_id=768">Standartizētie nosaukumi</a><br><br><a href="?ssw=33&amp;skf_id=140">Teksta sagataves</a><br><br><a href="?ssw=33&amp;skf_id=686">Uzrēķini</a><br><br><br><br><br><br><br><br> .. toctree::   :maxdepth: 5    860.rst   861.rst   122.rst   322.rst   333.rst   132.rst   384.rst   185.rst   859.rst   858.rst   857.rst   750.rst   749.rst   361.rst   896.rst   105.rst   897.rst   991.rst   992.rst   372.rst   362.rst   148.rst   158.rst   767.rst   306.rst   108.rst   157.rst   863.rst   862.rst   769.rst   768.rst   370.rst   140.rst   686.rst
+.. 23 ============Saraksti============ 
+`Apmaksas veidi`_
+
+`Atlaižu grupas`_
+
+`Bankas kontu grupas`_
+
+`Cenas`_
+
+`Cenu veidi`_
+
+`Cenu veidu kursi`_
+
+`Debitoru korespondences komentāri`_
+
+`Grupas`_
+
+`Iepirkumu dokumentu veidi`_
+
+`Pakalpojumi`_
+
+`Pārdošanas dokumentu veidi`_
+
+`Standartizētie nosaukumi`_
+
+`Teksta sagataves`_
+
+`Uzrēķini`_
+
+
+
+
+
+
+
+
+ .. toctree::   :maxdepth: 5    860.rst   861.rst   122.rst   322.rst   333.rst   132.rst   384.rst   185.rst   859.rst   858.rst   857.rst   750.rst   749.rst   361.rst   896.rst   105.rst   897.rst   991.rst   992.rst   372.rst   362.rst   148.rst   158.rst   767.rst   306.rst   108.rst   157.rst   863.rst   862.rst   769.rst   768.rst   370.rst   140.rst   686.rst

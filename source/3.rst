@@ -1,6 +1,20 @@
-.. 3 =============Dokumenti============= <P>&nbsp;</P>
-<P>Noliktavas uzskaite tiek organizēta, izmantojot komponentes <A href="/help/?ssw=33&amp;skf_id=44">Norēķini</A>&nbsp;un <A href="/help/?ssw=33&amp;skf_id=43">Noliktava</A>. Norēķinu daļa izmantojama darbam ar <A href="/help/?ssw=33&amp;skf_id=210">Iepirkumu dokumentiem</A> un <A href="/help/?ssw=33&amp;skf_id=204">Pārdošanas dokumentiem</A>. Noliktavas dokumenti&nbsp;izmantojami preču un krājumu uzskaitei noliktavā. Izmantojot Noliktavas dokumentus, iespējams noformēt nomenklatūras iekšējās kustības dokumentus, veidot cenošanas un ražošanas dokumentus, kā arī ievadīt nomenklatūras atlikumus uz perioda sākumu.</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P> .. toctree::   :maxdepth: 5    231.rst   688.rst   866.rst   930.rst   107.rst   711.rst   221.rst   215.rst   220.rst   755.rst   997.rst   7811.rst
+.. 3 =============Dokumenti============= 
+
+
+Noliktavas uzskaite tiek organizēta, izmantojot komponentes
+`Norēķini`_un `Noliktava`_. Norēķinu daļa izmantojama darbam ar
+`Iepirkumu dokumentiem`_ un `Pārdošanas dokumentiem`_. Noliktavas
+dokumentiizmantojami preču un krājumu uzskaitei noliktavā. Izmantojot
+Noliktavas dokumentus, iespējams noformēt nomenklatūras iekšējās
+kustības dokumentus, veidot cenošanas un ražošanas dokumentus, kā arī
+ievadīt nomenklatūras atlikumus uz perioda sākumu.
+
+
+
+
+
+
+
+
+
+ .. toctree::   :maxdepth: 5    231.rst   688.rst   866.rst   930.rst   107.rst   711.rst   221.rst   215.rst   220.rst   755.rst   997.rst   7811.rst

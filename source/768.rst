@@ -1,16 +1,48 @@
-.. 768 ============================Standartizētie nosaukumi============================ <br><p>Sarakstā tiek saglabāti standartizētie nosaukumi - paskaidrojošais/vispārējais nomenklatūras nosaukums, kas tiek piesaistīts <a href="?ssw=33&amp;skf_id=106">Nomenklatūras</a> kartiņas sadaļā "Nomenklatūra" un ir pieejams kolonnas veidā <a href="?ssw=33&amp;skf_id=106">Nomenklatūras</a> sarakstā.<br></p><h4>Jauna Standartizētā nosaukuma pievienošana</h4>
+.. 768 ============================Standartizētie nosaukumi============================ 
 
-<p>Lai pievienotu jaunu standartizēto nosaukumu, kuru būs iespējams piesaistīt nomenklatūras kartiņas aprakstā, sadaļā "nomenklatūra", jāizmanto komanda <img src="Skin/help/img.aspx?pid=24879" border="0">&nbsp;&nbsp; no rīku joslas (Alt+P) un tiks atvērts jauns logs: </p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26503" border="0"><br></p>
-<p>&nbsp;</p>
-<p>Laukā "Nosaukums" jāraksta jaunizveidotais standartizētais nosaukums.</p>
-<p>&nbsp;</p>
-<p>Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu&nbsp;<img src="Skin/help/img.aspx?pid=24867" border="0">&nbsp; no rīku joslas vai (Ctrl+S) vai atcelts , ja tiks izmantota komanda <img src="Skin/help/img.aspx?pid=24617" border="0">.</p>
+Sarakstā tiek saglabāti standartizētie nosaukumi -
+paskaidrojošais/vispārējais nomenklatūras nosaukums, kas tiek
+piesaistīts `Nomenklatūras`_ kartiņas sadaļā "Nomenklatūra" un ir
+pieejams kolonnas veidā `Nomenklatūras`_ sarakstā.
 
-<h4>Standartizētā nosaukuma labošana</h4><p>Lai veiktu labojumus, ierakstu nepieciešams atvērt, izmantojot komandu&nbsp;<img src="Skin/help/img.aspx?pid=24869" border="0">&nbsp;
- no rīku joslas (Alt+A). Atvērtajā logā iespējams mainīt nosaukumu. Pēc 
-labojumu veikšanas, veiktās izmaiņas iespējams saglabāt ar komandu&nbsp;&nbsp;<img src="Skin/help/img.aspx?pid=24867" border="0"> no rīku joslas. </p>
-<h4>Ieraksta dzēšana</h4>
 
-<p>Lai dzēstu ierakstu, jāizmanto komanda&nbsp;&nbsp;<img src="Skin/help/img.aspx?pid=25602" border="0"> no rīku joslas. Ieraksts ir jādzēš neatvērtā veidā.</p> 
+
+Jauna Standartizētā nosaukuma pievienošana
+``````````````````````````````````````````
+
+Lai pievienotu jaunu standartizēto nosaukumu, kuru būs iespējams
+piesaistīt nomenklatūras kartiņas aprakstā, sadaļā "nomenklatūra",
+jāizmanto komanda no rīku joslas (Alt+P) un tiks atvērts jauns logs:
+
+
+
+
+
+
+
+
+Laukā "Nosaukums" jāraksta jaunizveidotais standartizētais nosaukums.
+
+
+
+Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu no rīku
+joslas vai (Ctrl+S) vai atcelts , ja tiks izmantota komanda .
+
+
+
+Standartizētā nosaukuma labošana
+````````````````````````````````
+
+Lai veiktu labojumus, ierakstu nepieciešams atvērt, izmantojot komandu
+no rīku joslas (Alt+A). Atvērtajā logā iespējams mainīt nosaukumu. Pēc
+labojumu veikšanas, veiktās izmaiņas iespējams saglabāt ar komandu no
+rīku joslas.
+
+
+Ieraksta dzēšana
+````````````````
+
+Lai dzēstu ierakstu, jāizmanto komanda no rīku joslas. Ieraksts ir
+jādzēš neatvērtā veidā.
+
+ 

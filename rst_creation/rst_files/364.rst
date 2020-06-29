@@ -1,11 +1,25 @@
-.. 364 ==================================Elektronisko norēķinu sistēmas================================== <P>Lai pievienotu jaunu elektronisko norēķinu sistēmu jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=24532" border=0>&nbsp;un tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24581" border=0></P>
-<P>&nbsp;</P>
-<P>Nepieciešams izvēlēties atbilstošo bankas sistēmu no saraksta:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24584" border=0></P>
-<P>&nbsp;</P>
-<P>Jānorāda "ceļš" importa un eksporta katalogam:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24583" border=0></P> 
+.. 364 ==================================Elektronisko norēķinu sistēmas================================== 
+Lai pievienotu jaunu elektronisko norēķinu sistēmu jānospiež poga un
+tiks atvērts jauns logs:
+
+
+
+
+
+
+
+Nepieciešams izvēlēties atbilstošo bankas sistēmu no saraksta:
+
+
+
+
+
+
+
+Jānorāda "ceļš" importa un eksporta katalogam:
+
+
+
+
+
+ 

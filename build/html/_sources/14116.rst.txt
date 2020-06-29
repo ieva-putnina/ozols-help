@@ -1,11 +1,37 @@
-.. 14116 =====================================================================Izmaksu sarakstu eksports uz banku elektronisko norēķinu sistēmām===================================================================== <P>&nbsp;</P>
-<P>Sagatavotos algu, avansu vai&nbsp;starpizmaksu&nbsp;izmaksu sarakstus var eksportēt uz failiem elektronisko norēķinu veikšanai banku pieprasītajā formātā. Sarakstus var eksportēt uz Unibankas DBF faila formātu, Telehansanet faila formātu vai Krājbankas XLS faila formātu. </P>
-<P>&nbsp;</P>
-<P>Lai eksportētu izmaksu sarakstu:<BR>1.Jāatver vai jāiezimē nepieciešamais izmaksu saraksts, kura summas jāeksportē un jālieto komanda Funkcijas-&gt;Eksportēt izmaksu sarakstu:</P>
-<P><BR><IMG src="/help/Skin/help/img.aspx?pid=26284" border=0></P>
-<P>&nbsp;</P>
-<P>2. Ekrāna formā jānorāda, uz kuru faila formātu dati jāeksportē, jānorāda katalogs, kurā fails jāizveido un jānorāda faila nosaukums. Lauka Fails dati tiks ievietoti automatizēti:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26285" border=0></P>
-<P>&nbsp;</P>
-<P>Jālieto komanda Eksportēt datu eksportam.<BR><BR>3. Izmantojot komandu Eksportēt, tiks izveidots fails bankas pieprasītajā formātā, kuru tālāk attiecīgi ir jāimportē bankas elektronisko norēķinu sistēmā vai jānosūta bankai maksājuma uzdevumu izpildīšanai.</P> 
+.. 14116 =====================================================================Izmaksu sarakstu eksports uz banku elektronisko norēķinu sistēmām===================================================================== 
+
+
+Sagatavotos algu, avansu vaistarpizmaksuizmaksu sarakstus var
+eksportēt uz failiem elektronisko norēķinu veikšanai banku
+pieprasītajā formātā. Sarakstus var eksportēt uz Unibankas DBF faila
+formātu, Telehansanet faila formātu vai Krājbankas XLS faila formātu.
+
+
+
+Lai eksportētu izmaksu sarakstu:
+1.Jāatver vai jāiezimē nepieciešamais izmaksu saraksts, kura summas
+jāeksportē un jālieto komanda Funkcijas->Eksportēt izmaksu sarakstu:
+
+
+
+
+
+
+2. Ekrāna formā jānorāda, uz kuru faila formātu dati jāeksportē,
+jānorāda katalogs, kurā fails jāizveido un jānorāda faila nosaukums.
+Lauka Fails dati tiks ievietoti automatizēti:
+
+
+
+
+
+
+
+Jālieto komanda Eksportēt datu eksportam.
+
+3. Izmantojot komandu Eksportēt, tiks izveidots fails bankas
+pieprasītajā formātā, kuru tālāk attiecīgi ir jāimportē bankas
+elektronisko norēķinu sistēmā vai jānosūta bankai maksājuma uzdevumu
+izpildīšanai.
+
+ 

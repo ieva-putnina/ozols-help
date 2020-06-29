@@ -1,13 +1,49 @@
-.. 294 =================Pārskaitījumi================= <P>&nbsp;</P>
-<P>Izmantojot Pārskaitījumu žurnālu, iespējams nodefinēt ikmēneša izmaksājamos avansus.<BR>Nodefinētie avansi dod iespēju automatizēti veidot avansu izmaksu sarakstus par avansu summām, kas katru mēnesi atkārtojas.Šīs automatizēti pievienotās summas avansu izmaksu sarakstā pēc tam ir arī iespēja koriģēt pēc aktīvā perioda aktuālās informācijas.<BR>Pārskaitījumu žurnālā tiek pievienots katra strādājošā ikmēneša avansa summa. Izvēloties slodzi lietotājam laukā Bankas konts ir iespēja nodefinēt strādājošā bankas kontu uz kuru tiks pārskaitīts avanss. <BR><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Veidojot avansu izmaksas ierakstu obligāti sadaļā Maksājuma tips ir jānorāda Avanss.<BR></P>
-<P>Jaunu&nbsp;Pārskaitījumu strādājošajam iespējams pievienot, rīku joslā nospiežot pogu: <IMG src="/help/Skin/help/img.aspx?pid=25605" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26252" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Slodze:</STRONG> no saraksta jāizvēlas strādājošā slodze, kurai Avansu pārskaitījums tiks definēts</P>
-<P><STRONG>Konts:</STRONG> atbilstoši izvēlētajai slodzei, tiks ielādēts&nbsp;<A href="/help/?ssw=33&amp;skf_id=312">Partnera kartiņā</A>&nbsp;ievadītais strādājošā Privātkonts</P>
-<P><STRONG>Maksājuma tips:</STRONG> nepieciešams izvēlēties tipu: "Avansa maksājums"</P>
-<P><STRONG>Summa:</STRONG> nepieciešams ievadīt pārskaitāmā avansa summu<BR><STRONG>Spēkā no:</STRONG> nepieciešams norādīt&nbsp;Avansa pārskaitījuma&nbsp;spēkā stāšanas datumu no (mēneša pirmais datums, no kura šis avansa pārskaitījums ir spēkā)</P>
-<P><STRONG>Spēkā līdz:&nbsp;</STRONG>ja nav zināms konkrēts datums, līdz kuram noteiktais&nbsp;pārskaitījums būs spēkā, šo datumu&nbsp;var neaizpildīt<STRONG>&nbsp;</STRONG></P>
-<P><STRONG></STRONG>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Daudzdimensiju uzskaitē (budžeti, ekonomiskās klasifikācijas kodi, utt.) lietotājam papildus obligāti veidojot avansu izmaksas ierakstu jānorāda no kādām dimensijām avanss tiks veidots. Jānorāda summa, un jānorāda periods, kurā nodefinētā avansa summa ir aktīva.</P> 
+.. 294 =================Pārskaitījumi================= 
+
+
+Izmantojot Pārskaitījumu žurnālu, iespējams nodefinēt ikmēneša
+izmaksājamos avansus.
+Nodefinētie avansi dod iespēju automatizēti veidot avansu izmaksu
+sarakstus par avansu summām, kas katru mēnesi atkārtojas.Šīs
+automatizēti pievienotās summas avansu izmaksu sarakstā pēc tam ir arī
+iespēja koriģēt pēc aktīvā perioda aktuālās informācijas.
+Pārskaitījumu žurnālā tiek pievienots katra strādājošā ikmēneša avansa
+summa. Izvēloties slodzi lietotājam laukā Bankas konts ir iespēja
+nodefinēt strādājošā bankas kontu uz kuru tiks pārskaitīts avanss.
+Veidojot avansu izmaksas ierakstu obligāti sadaļā Maksājuma tips ir
+jānorāda Avanss.
+
+
+JaunuPārskaitījumu strādājošajam iespējams pievienot, rīku joslā
+nospiežot pogu:
+
+
+
+
+
+
+
+Slodze: no saraksta jāizvēlas strādājošā slodze, kurai Avansu
+pārskaitījums tiks definēts
+
+Konts: atbilstoši izvēlētajai slodzei, tiks ielādēts`Partnera
+kartiņā`_ievadītais strādājošā Privātkonts
+
+Maksājuma tips: nepieciešams izvēlēties tipu: "Avansa maksājums"
+
+Summa: nepieciešams ievadīt pārskaitāmā avansa summu
+Spēkā no: nepieciešams norādītAvansa pārskaitījumaspēkā stāšanas
+datumu no (mēneša pirmais datums, no kura šis avansa pārskaitījums ir
+spēkā)
+
+Spēkā līdz: ja nav zināms konkrēts datums, līdz kuram
+noteiktaispārskaitījums būs spēkā, šo datumuvar neaizpildīt
+
+
+
+Daudzdimensiju uzskaitē (budžeti, ekonomiskās klasifikācijas kodi,
+utt.) lietotājam papildus obligāti veidojot avansu izmaksas ierakstu
+jānorāda no kādām dimensijām avanss tiks veidots. Jānorāda summa, un
+jānorāda periods, kurā nodefinētā avansa summa ir aktīva.
+
+ 

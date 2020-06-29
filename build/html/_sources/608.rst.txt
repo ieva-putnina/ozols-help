@@ -1,2 +1,9 @@
-.. 608 ===============================Štatu saraksta aizpildījums=============================== <P>&nbsp;</P>
-<P>Atskaites parāda štatu saraksta aizpildījumu uzņēmumā noteiktā laika periodā. Ja štatu saraksts, nav pilnībā aizpildīts, atskaitē iespējams iegūt datus par vakancēm.<BR></P> 
+.. 608 ===============================Štatu saraksta aizpildījums=============================== 
+
+
+Atskaites parāda štatu saraksta aizpildījumu uzņēmumā noteiktā laika
+periodā. Ja štatu saraksts, nav pilnībā aizpildīts, atskaitē iespējams
+iegūt datus par vakancēm.
+
+
+ 

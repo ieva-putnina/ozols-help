@@ -1,9 +1,25 @@
-.. 7307 ===========Darbība=========== <P>Pievienotās un saglabātās darbības tiek saglabātas <A href="/help/?ssw=73&amp;skf_id=7316">darbības sarakstā</A>.</P>
-<P>Darbību saraksts&nbsp;tiek izmantotas <A href="/help/?ssw=73&amp;skf_id=7308">notikumu </A>pievienošanā <A href="/help/?ssw=73&amp;skf_id=7317">atskaišu</A> sagatavošanā.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26185" border=0></P>
-<P><STRONG>Kods:</STRONG> darbības nosaukuma apzīmējums, saīsinājums;</P>
-<P><STRONG>Nosaukums:</STRONG> darbības pilns nosaukums;</P>
-<P><STRONG>Darbības veids:</STRONG> no saraksta jāizvēlas darbības veids;</P>
-<P>Iespējams pievienot dažādas <STRONG>piezīmes</STRONG>.</P>
-<P>Lai pievienotā darbība tiktu saglabāta, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25829" border=0>, un, ja nepieciešams pievienot vēl citu darbību, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25850" border=0> un jāpievieno jauna darbība. Lai, pēc saglabāšanas, labotu pievienotās&nbsp;darbības ierakstus, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25832" border=0> un pēc labošanas ieraksts jāsaglabā.</P> 
+.. 7307 ===========Darbība=========== 
+Pievienotās un saglabātās darbības tiek saglabātas `darbības
+sarakstā`_.
+
+Darbību sarakststiek izmantotas `notikumu `_pievienošanā `atskaišu`_
+sagatavošanā.
+
+
+
+
+
+Kods: darbības nosaukuma apzīmējums, saīsinājums;
+
+Nosaukums: darbības pilns nosaukums;
+
+Darbības veids: no saraksta jāizvēlas darbības veids;
+
+Iespējams pievienot dažādas piezīmes .
+
+Lai pievienotā darbība tiktu saglabāta, jānospiež poga , un, ja
+nepieciešams pievienot vēl citu darbību, jānospiež poga un jāpievieno
+jauna darbība. Lai, pēc saglabāšanas, labotu pievienotāsdarbības
+ierakstus, jānospiež poga un pēc labošanas ieraksts jāsaglabā.
+
+ 

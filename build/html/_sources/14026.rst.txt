@@ -1,5 +1,10 @@
-.. 14026 ========================Darba vietu apraksts======================== <P>&nbsp;</P>
-<UL>
-<LI><A href="/help/?ssw=42&amp;skf_id=14027">Atlīdzību daļa</A></LI>
-<LI><A href="/help/?ssw=42&amp;skf_id=14028">Finanšu daļa</A></LI>
-<LI><A href="/help/?ssw=42&amp;skf_id=14029">Juridiskā daļa</A></LI></UL> .. toctree::   :maxdepth: 4    14027.rst   14028.rst   14029.rst
+.. 14026 ========================Darba vietu apraksts======================== 
+
+
+
++ `Atlīdzību daļa`_
++ `Finanšu daļa`_
++ `Juridiskā daļa`_
+
+
+ .. toctree::   :maxdepth: 4    14027.rst   14028.rst   14029.rst

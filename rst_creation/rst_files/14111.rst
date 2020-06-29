@@ -1,31 +1,69 @@
-.. 14111 =================================Algu aprēķinu veikšanas shēma================================= <P>&nbsp;</P>
-<P>Lai veiktu algu aprēķinus, nepieciešams secīgi veikt šādas darbības:</P>
-<P>&nbsp;</P>
-<P>1. Algu perioda atvēršana -&gt; Alga-&gt;Rīki-&gt;<A href="/help/?ssw=33&amp;skf_id=499">Algu perioda atvēršana</A></P>
-<P>&nbsp;</P>
-<P>2. Avansu <A href="/help/?ssw=33&amp;skf_id=238">Izmaksu saraksta</A> izveidošana</P>
-<P>&nbsp;</P>
-<P>3. Avansu izmaksu saraksta aizpildīšana no&nbsp;<A href="/help/?ssw=33&amp;skf_id=294">Pārskaitījumu</A>&nbsp;žurnāla</P>
-<P>&nbsp;</P>
-<P>4.&nbsp;Avansu <A href="/help/?ssw=33&amp;skf_id=238">Izmaksu sarakstu</A> apstiprināšana</P>
-<P>&nbsp;</P>
-<P>5. Avansu izmaksu sarakstu apmaksāšana bankā/kasē</P>
-<P>&nbsp;</P>
-<P>6.&nbsp;Avansu izmaksu saraksts eksports uz bankas elektronisko norēķinu sistēmu</P>
-<P>&nbsp;</P>
-<P>7. <A href="/help/?ssw=33&amp;skf_id=209">Rīkojumu</A> ievadīšana strādājošajiem par attiecīgo algu aprēķina periodu</P>
-<P>&nbsp;</P>
-<P>8.Algu aprēķinu veikšana -&gt; Alga-&gt;Rīki-&gt;<A href="/help/?ssw=33&amp;skf_id=498">Algu aprēķins</A></P>
-<P>&nbsp;</P>
-<P>9.Nepieciešamo izmaiņu veikšana algu aprēķinos kārtējā algu aprēķina periodā</P>
-<P>&nbsp;</P>
-<P>10. Algu <A href="/help/?ssw=33&amp;skf_id=238">Izmaksu sarakstu</A>&nbsp;zveidošana</P>
-<P>&nbsp;</P>
-<P>11. Izmaksu sarakstu aizpildīšana no algu aprēķiniem -&gt; Alga-&gt;Rīki-&gt;<A href="/help/?ssw=33&amp;skf_id=498">Algu aprēķins</A>&nbsp;-&gt; Starpību starp aprēķināto un ieturēto palaist uz izmaksu sarakstiem</P>
-<P>&nbsp;</P>
-<P>12. <A href="/help/?ssw=33&amp;skf_id=238">Izmaksu sarakstu</A> apstiprināšana</P>
-<P>&nbsp;</P>
-<P>13. Izmaksu sarakstu apmaksāšana bankā</P>
-<P>&nbsp;</P>
-<P>14. Izmaksu saraksts eksports uz bankas elektronisko norēķinu sistēmu</P>
-<P>&nbsp;</P> 
+.. 14111 =================================Algu aprēķinu veikšanas shēma================================= 
+
+
+Lai veiktu algu aprēķinus, nepieciešams secīgi veikt šādas darbības:
+
+
+
+1. Algu perioda atvēršana -> Alga->Rīki->`Algu perioda atvēršana`_
+
+
+
+2. Avansu `Izmaksu saraksta`_ izveidošana
+
+
+
+3. Avansu izmaksu saraksta aizpildīšana no`Pārskaitījumu`_žurnāla
+
+
+
+4.Avansu `Izmaksu sarakstu`_ apstiprināšana
+
+
+
+5. Avansu izmaksu sarakstu apmaksāšana bankā/kasē
+
+
+
+6.Avansu izmaksu saraksts eksports uz bankas elektronisko norēķinu
+sistēmu
+
+
+
+7. `Rīkojumu`_ ievadīšana strādājošajiem par attiecīgo algu aprēķina
+periodu
+
+
+
+8.Algu aprēķinu veikšana -> Alga->Rīki->`Algu aprēķins`_
+
+
+
+9.Nepieciešamo izmaiņu veikšana algu aprēķinos kārtējā algu aprēķina
+periodā
+
+
+
+10. Algu `Izmaksu sarakstu`_zveidošana
+
+
+
+11. Izmaksu sarakstu aizpildīšana no algu aprēķiniem ->
+Alga->Rīki->`Algu aprēķins`_-> Starpību starp aprēķināto un ieturēto
+palaist uz izmaksu sarakstiem
+
+
+
+12. `Izmaksu sarakstu`_ apstiprināšana
+
+
+
+13. Izmaksu sarakstu apmaksāšana bankā
+
+
+
+14. Izmaksu saraksts eksports uz bankas elektronisko norēķinu sistēmu
+
+
+
+ 

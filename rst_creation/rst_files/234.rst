@@ -1,10 +1,24 @@
-.. 234 ============================================Savstarpējo norēķinu salīdzināšanas akti============================================ <p><br></p><p>Savstarpējo norēķinu salīdzināšanas dokumentu žurnālā saraksta veidā&nbsp;tiek saglabāti izveidotie <a href="?ssw=33&amp;skf_id=342">Savstarpējo norēķinu salīdzināšanas akti</a>.</p>
-<p>&nbsp;</p>
-<p>Lai atlasītu dokumentus Savstarpējo norēķinu salīdzināšanas dokumentu žurnālā, jāizmanto datu 
-atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem 
-datu atlases kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai 
-ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās 
-izdrukas, vai arī ātrāk sameklētu nepieciešamos datus.</p>
-<p>Datu atlases kritērijus var saglabāt (<img src="Skin/help/img.aspx?pid=24938" border="0">). Izvēloties izveidoto filtra sagatavi (<img src="Skin/help/img.aspx?pid=24943" border="0">), filtrs tiek automatizēti aizpildīts no filtra sagataves. </p>
-<p>Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases 
-kritērijiem,&nbsp;pēc filtra iestādījumu aizpildīšanas,&nbsp;jānospiež poga <img src="Skin/help/img.aspx?pid=25944" border="0">.</p> 
+.. 234 ============================================Savstarpējo norēķinu salīdzināšanas akti============================================ 
+
+
+
+Savstarpējo norēķinu salīdzināšanas dokumentu žurnālā saraksta
+veidātiek saglabāti izveidotie `Savstarpējo norēķinu salīdzināšanas
+akti`_.
+
+
+
+Lai atlasītu dokumentus Savstarpējo norēķinu salīdzināšanas dokumentu
+žurnālā, jāizmanto datu atlases filtrs. Dati uz ekrāna tiek parādīti
+atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā.
+Filtru var uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna,
+iegūstot nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos
+datus.
+
+Datu atlases kritērijus var saglabāt ( ). Izvēloties izveidoto filtra
+sagatavi ( ), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+
+Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
+kritērijiem,pēc filtra iestādījumu aizpildīšanas,jānospiež poga .
+
+ 

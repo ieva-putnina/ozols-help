@@ -1,1 +1,2 @@
-.. 7900 =============Ēdināšana=============  .. toctree::   :maxdepth: 6    7903.rst   7902.rst   7904.rst   7905.rst   7901.rst
+.. 7900 =============Ēdināšana============= 
+ .. toctree::   :maxdepth: 6    7903.rst   7902.rst   7904.rst   7905.rst   7901.rst

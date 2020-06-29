@@ -1,20 +1,65 @@
-.. 478 ====================Izmaksu saraksts==================== <P>&nbsp;</P>
-<P>Izmaksu sarakstos tiek saglabātas algu vai avansu izmaksu summas, tos var drukāt vai eksportēt datus uz banku elektronisko norēķinu sistēmu noteiktā formātā.</P>
-<P>Tiks atvērts izmaksu saraksta virsraksts:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26251" border=0></P>
-<P>&nbsp;</P>
-<P>Izmaksu saraksta virsraksts tiek izmantots saraksta izdrukāšanā un izmaksājamo summu parādīšanā. Izmaksu sarakstā nepieciešams aizpildīt šādus laukus:<BR></P>
-<P><STRONG>Saraksta veids:</STRONG> Nepieciešams norādīt atbilstošo izmaksu saraksta veidu - Avanss bankā/kasē; Alga bankā/kasē vai Starpizmaksa bankā/kasē</P>
-<P><STRONG>Periods:</STRONG> Nepieciešams norādīt atbilstošo algu aprēķinu periodu, par kuru izmaksas tiek veidotas</P>
-<P><STRONG>Struktūrvienība:</STRONG> Nav obligāti aizpildāms. Aizpilda tikai gadījumos, ja izmaksu sarakstus nepieciešams dalīt uzņēmuma struktūrvienību ietvaros</P>
-<P><STRONG>Bankas/Kases konts:</STRONG> Nepieciešams norādīt uzņēmuma bankas vai kases kontu, no kura maksājums tiks veikts</P>
-<P><STRONG>Saraksta banka:</STRONG> Nepieciešams uzrādīt banku, kurai šis saraksts tiks veidots - atbilstoši no algu aprēķiniem uz šo sarakstu būs iespējams nosūtīt to strādājošo aprēķinātās algas, kur strādājošā bankas privātkonts sakritīs ar izmaksu sarakstā norādīto. Gadījumā, ja tiek izmantots kāds no bankas piedāvātajiem pakalpojumiem, kur tiek veidot uz uzņēmumu viens saraksts un tālāk banka pati sadala pa komercbankām, tad šajā gadījumā izmaksu sarakstā Saraksta banka NAV jānorāda.</P>
-<P><STRONG>Maksājums:</STRONG> Nepieciešams izvēlēties atbilstošo maksājumu - Alga, Avanss vai Starpizmaksa</P>
-<P><STRONG>Numurs:</STRONG> Automātiski tiek piešķirts nākamais brīvais izmaksu saraksta numurs pēc kārtas</P>
-<P><STRONG>Datums:</STRONG> Nepieciešams norādīt izmaksu saraksta datumu</P>
-<P><STRONG>Termiņš:</STRONG> Nepieciešams norādīt izmaksas termiņu</P>
-<P><STRONG>Nosaukums:</STRONG> Brīvā formā iespējams ievadīt izmaksu saraksta nosaukumu (Piemēram, Algu izmaksa par janvāri)</P>
-<P>Dati par <STRONG>atbildīgo personu, galveno grāmatvedi</STRONG> un <STRONG>uzņēmuma vadītāju</STRONG> tiek ņemti no uzņēmuma aprakstā ievadītās informācijas. Ja <A href="/help/?ssw=33&amp;skf_id=703">Uzņēmuma informācijas</A>&nbsp;visi lauki ir aizpildīti korketi, tad arī šajā logā informācija aizpildīsies automātiski un nebūs jāvada manuāli.</P>
-<P>&nbsp;</P>
-<P>Pēc izmaksu saraksta aizpildīšanas, sarakstu nepieciešams saglabāt, nospiežot pogu: <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>.<BR></P> 
+.. 478 ====================Izmaksu saraksts==================== 
+
+
+Izmaksu sarakstos tiek saglabātas algu vai avansu izmaksu summas, tos
+var drukāt vai eksportēt datus uz banku elektronisko norēķinu sistēmu
+noteiktā formātā.
+
+Tiks atvērts izmaksu saraksta virsraksts:
+
+
+
+
+
+
+
+Izmaksu saraksta virsraksts tiek izmantots saraksta izdrukāšanā un
+izmaksājamo summu parādīšanā. Izmaksu sarakstā nepieciešams aizpildīt
+šādus laukus:
+
+
+Saraksta veids: Nepieciešams norādīt atbilstošo izmaksu saraksta veidu
+- Avanss bankā/kasē; Alga bankā/kasē vai Starpizmaksa bankā/kasē
+
+Periods: Nepieciešams norādīt atbilstošo algu aprēķinu periodu, par
+kuru izmaksas tiek veidotas
+
+Struktūrvienība: Nav obligāti aizpildāms. Aizpilda tikai gadījumos, ja
+izmaksu sarakstus nepieciešams dalīt uzņēmuma struktūrvienību ietvaros
+
+Bankas/Kases konts: Nepieciešams norādīt uzņēmuma bankas vai kases
+kontu, no kura maksājums tiks veikts
+
+Saraksta banka: Nepieciešams uzrādīt banku, kurai šis saraksts tiks
+veidots - atbilstoši no algu aprēķiniem uz šo sarakstu būs iespējams
+nosūtīt to strādājošo aprēķinātās algas, kur strādājošā bankas
+privātkonts sakritīs ar izmaksu sarakstā norādīto. Gadījumā, ja tiek
+izmantots kāds no bankas piedāvātajiem pakalpojumiem, kur tiek veidot
+uz uzņēmumu viens saraksts un tālāk banka pati sadala pa komercbankām,
+tad šajā gadījumā izmaksu sarakstā Saraksta banka NAV jānorāda.
+
+Maksājums: Nepieciešams izvēlēties atbilstošo maksājumu - Alga, Avanss
+vai Starpizmaksa
+
+Numurs: Automātiski tiek piešķirts nākamais brīvais izmaksu saraksta
+numurs pēc kārtas
+
+Datums: Nepieciešams norādīt izmaksu saraksta datumu
+
+Termiņš: Nepieciešams norādīt izmaksas termiņu
+
+Nosaukums: Brīvā formā iespējams ievadīt izmaksu saraksta nosaukumu
+(Piemēram, Algu izmaksa par janvāri)
+
+Dati par atbildīgo personu, galveno grāmatvedi un uzņēmuma vadītāju
+tiek ņemti no uzņēmuma aprakstā ievadītās informācijas. Ja `Uzņēmuma
+informācijas`_visi lauki ir aizpildīti korketi, tad arī šajā logā
+informācija aizpildīsies automātiski un nebūs jāvada manuāli.
+
+
+
+Pēc izmaksu saraksta aizpildīšanas, sarakstu nepieciešams saglabāt,
+nospiežot pogu: .
+
+
+ 

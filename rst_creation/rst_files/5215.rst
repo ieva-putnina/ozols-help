@@ -1,1 +1,2 @@
-.. 5215 ===================Projektu vadība===================  .. toctree::   :maxdepth: 5    5220.rst   5219.rst   5217.rst
+.. 5215 ===================Projektu vadība=================== 
+ .. toctree::   :maxdepth: 5    5220.rst   5219.rst   5217.rst

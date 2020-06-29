@@ -1,14 +1,26 @@
-.. 612 ====================================================Atskaite par algu budžetu un tā faktisko izpildi==================================================== Algu budžetēšanu var veikt pa personāla amatiem. Izveidojot <a href="/help/?ssw=33&amp;skf_id=186">amatus</a> tiek noteikts, cik un kādas ir uzņēmuma štata vietas un kāds ir to budžets. Pieņemot darbiniekus, <a href="/help/?ssw=33&amp;skf_id=207">slodzes</a>
- aprakstā norādītais amats veido štata vietu aizpildījumu. Atskaite 
-parāda noteikto budžetu amatam un tā reālo izlietojumu no veiktā algu 
-aprēķina. Ja visas štata vietas nav aizpildītas, atskaitē amats tiek 
-parādīts kā vakance.<br>
-Datu uzskaite ir jāveic tā, lai vienā amatā uzskaitītu personas ar 
-vienādu atalgojumu. Nosakot amatam budžetu un aprēķinot strādājošo 
-algas, atskaite parāda noteikto plānu un izpildi – rezultātu aprēķinu. 
-Plāns var tikt noteikts vairākiem algu aprēķina rezultātiem un līdz ar 
-to arī attiecīgi tiek iegūti dati par noteiktā algu budžeta izpildi pa 
-atsevišķiem algu aprēķina posteņiem – <a href="/help/?ssw=33&amp;skf_id=591">rezultātiem</a>. Atskaitē tiek atšifrētas faktiski aprēķināto rezultātu summas.<br>
-Atskaiti var sagatavot pa atsevišķiem aprēķina periodiem, 
-struktūrvienībām, var atlasīt datus pēc amatiem, grupēt pēc amatiem vai 
-struktūrvienības.<br><br><img src="Skin/help/img.aspx?pid=26553" border="0"><br><br>Atskaite parādā arī kopējo noteikto budžetu amatam un faktisko summas izlietojumu. Kolonnā starpība tiek aprēķināts, vai budžetam vēl ir atlikums, vai arī tas ir pārtērēts.<br>Atskaite par algu budžetu un tā faktisko izpildi tiek sagatavota tikai HTML skatā.<br> 
+.. 612 ====================================================Atskaite par algu budžetu un tā faktisko izpildi==================================================== Algu budžetēšanu var veikt pa personāla amatiem. Izveidojot `amatus`_
+tiek noteikts, cik un kādas ir uzņēmuma štata vietas un kāds ir to
+budžets. Pieņemot darbiniekus, `slodzes`_ aprakstā norādītais amats
+veido štata vietu aizpildījumu. Atskaite parāda noteikto budžetu
+amatam un tā reālo izlietojumu no veiktā algu aprēķina. Ja visas štata
+vietas nav aizpildītas, atskaitē amats tiek parādīts kā vakance.
+Datu uzskaite ir jāveic tā, lai vienā amatā uzskaitītu personas ar
+vienādu atalgojumu. Nosakot amatam budžetu un aprēķinot strādājošo
+algas, atskaite parāda noteikto plānu un izpildi – rezultātu aprēķinu.
+Plāns var tikt noteikts vairākiem algu aprēķina rezultātiem un līdz ar
+to arī attiecīgi tiek iegūti dati par noteiktā algu budžeta izpildi pa
+atsevišķiem algu aprēķina posteņiem – `rezultātiem`_. Atskaitē tiek
+atšifrētas faktiski aprēķināto rezultātu summas.
+Atskaiti var sagatavot pa atsevišķiem aprēķina periodiem,
+struktūrvienībām, var atlasīt datus pēc amatiem, grupēt pēc amatiem
+vai struktūrvienības.
+
+
+
+Atskaite parādā arī kopējo noteikto budžetu amatam un faktisko summas
+izlietojumu. Kolonnā starpība tiek aprēķināts, vai budžetam vēl ir
+atlikums, vai arī tas ir pārtērēts.
+Atskaite par algu budžetu un tā faktisko izpildi tiek sagatavota tikai
+HTML skatā.
+
+ 

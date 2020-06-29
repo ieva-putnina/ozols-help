@@ -1,14 +1,48 @@
-.. 6517 =============================Polišu komisijas aprēķins============================= <h5>Priekšnosacījumi brokeru komisijas sekmīgam aprēķinam</h5>
-<p>1. Sadarbības līgumu ievade (sadarbības līgumi ar starpniekiem un apdrošināšanas sabiedrībām)<br></p>
-<p></p>
-<p>2. Korekti aizpildīta informācija Polises aprakstā</p>
-<h5>Polišu komisijas aprēķinu veikšana</h5>
-<p>1. Lai aprēķinātu Polišu komisijas, nepieciešams norādīt periodu (vēlams vienu mēnesi, lai aprēķina process neieilgtu), par kuru šis aprēķins tiks veikts:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26410" border="0"></p>
-<p>&nbsp;</p>
-<p>2. Izvēloties nepieciešamo aprēķina periodu, nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=25439" border="0"> tiks aprēķinātas Polišu komisijas, balstoties uz Konfigurācija&gt;Iestādījumi&gt;Kopīgie&gt;<a href="/help/?ssw=33&amp;skf_id=739">Dažādi</a> noteikto Brokera komisijas aprēķina algoritmu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25440" border="0"></p>
-<p>&nbsp;</p>
-<p>Prēmijas apgrozījums - līgumā nodefinēto procentu aprēķins no perioda kopējās prēmijas apgrozījuma.</p><p>Samaksātā prēmija - līgumā nodefinēto procentu aprēķins no periodā izrakstīto polišu samaksātas prēmijas apjoma.</p><p>Vienības - konkrētā periodā parakstīto prēmiju komisijas tiek aprēķināta vienībās.</p> 
+.. 6517 =============================Polišu komisijas aprēķins============================= 
+
+Priekšnosacījumi brokeru komisijas sekmīgam aprēķinam
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+1. Sadarbības līgumu ievade (sadarbības līgumi ar starpniekiem un
+apdrošināšanas sabiedrībām)
+
+
+
+
+2. Korekti aizpildīta informācija Polises aprakstā
+
+
+Polišu komisijas aprēķinu veikšana
+++++++++++++++++++++++++++++++++++
+
+1. Lai aprēķinātu Polišu komisijas, nepieciešams norādīt periodu
+(vēlams vienu mēnesi, lai aprēķina process neieilgtu), par kuru šis
+aprēķins tiks veikts:
+
+
+
+
+
+
+
+2. Izvēloties nepieciešamo aprēķina periodu, nospiežot pogu tiks
+aprēķinātas Polišu komisijas, balstoties uz
+Konfigurācija>Iestādījumi>Kopīgie>`Dažādi`_ noteikto Brokera komisijas
+aprēķina algoritmu:
+
+
+
+
+
+
+
+Prēmijas apgrozījums - līgumā nodefinēto procentu aprēķins no perioda
+kopējās prēmijas apgrozījuma.
+
+Samaksātā prēmija - līgumā nodefinēto procentu aprēķins no periodā
+izrakstīto polišu samaksātas prēmijas apjoma.
+
+Vienības - konkrētā periodā parakstīto prēmiju komisijas tiek
+aprēķināta vienībās.
+
+ 

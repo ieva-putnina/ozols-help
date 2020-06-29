@@ -1,22 +1,59 @@
-.. 4462 ============Tikšanās============ <P>Lai pievienotu, reģistrētu jaunu Notikumu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25890" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Partneris</STRONG>: partneris, klients uz kuru attieksies šis notikums;</P>
-<P><STRONG>Kontaktpersona</STRONG>: partnera kontaktpersona;</P>
-<P><STRONG>Virsraksts</STRONG>: notikuma virsraksts, nosaukums;</P>
-<P><STRONG>Izcelsme</STRONG>: notikuma izcelsme;</P>
-<P><STRONG>Ielūgtās personas</STRONG>: iespējams pievienot vairākas personas, kuras tiks ielūgtas uz notikumu (tiks nosūtīts e-pasts ar paziņojumu un ierakstīts katras ielūgtās <A href="/help/?ssw=44&amp;skf_id=4426">personas kalendārā</A> un &nbsp;<A href="/help/?ssw=44&amp;skf_id=4482">uzņēmuma kalendārā</A>, grafikā), vai arī izņemt no ielūgto personu saraksta;</P>
-<P><STRONG>Līgums</STRONG>: iespējams izvēlēties partnerim piesaistītu līgumu uz kuru attiecas notikums;</P>
-<P><STRONG>Atgādināt... minūtes pirms notikuma</STRONG>: iespējams uzlikt atgādinātāju pirms notikuma izpildes (tiks atgādināts visām ielūgtajām personām);</P>
-<P><STRONG>Notikuma laiks</STRONG>: notikuma datums un laiks;</P>
-<P><STRONG>Ieraksta tiesības</STRONG>: iespējams norādīt ieraksta tiesības;</P>
-<P><STRONG>Projekts</STRONG>:&nbsp; notikumam iespējams piesaistīt projektu;</P>
-<P><STRONG>Kampaņa</STRONG>: iespējams piesaistīt kampaņu;</P>
-<P><STRONG>Apraksts</STRONG>: notikuma apraksts.</P>
-<P>Ja visa notikuma informācija ievadīta, lai saglabātu notikumu,&nbsp;jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25829" border=0>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25894" border=0></P>
-<P>&nbsp;</P>
-<P>Saglabājot notikumu, tā Statuss ir Paziņots. Izveidotam notikumam iespējams veikt dažādas darbības, un tās&nbsp;pa e-pastu&nbsp;tiks paziņotas katrai ielūgtajai personai. </P>
-<P>Lai pievienotu jaunu notikumu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25831" border=0>. Bet, lai saglabātu un aizvērtu notikumu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25828" border=0>. Notikumu iespējams izdrukāt, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25892" border=0>, un/vai labot, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25893" border=0>. Visi pievienotie notikumi tiek saglabāti <A href="/help/?ssw=44&amp;skf_id=4459">Notikumu žurnālā</A>, tie ir redzami <A href="/help/?ssw=44&amp;skf_id=4482">uzņēmuma kalendārā</A> un ielūgto <A href="/help/?ssw=44&amp;skf_id=4426">personu kalendārā (grafikā),</A>&nbsp;un <A href="/help/?ssw=44&amp;skf_id=4472">visu aktivitāšu sarakstā</A>.</P> .. toctree::   :maxdepth: 4    4463.rst
+.. 4462 ============Tikšanās============ 
+Lai pievienotu, reģistrētu jaunu Notikumu:
+
+
+
+
+
+
+
+Partneris : partneris, klients uz kuru attieksies šis notikums;
+
+Kontaktpersona : partnera kontaktpersona;
+
+Virsraksts : notikuma virsraksts, nosaukums;
+
+Izcelsme : notikuma izcelsme;
+
+Ielūgtās personas : iespējams pievienot vairākas personas, kuras tiks
+ielūgtas uz notikumu (tiks nosūtīts e-pasts ar paziņojumu un
+ierakstīts katras ielūgtās `personas kalendārā`_ un `uzņēmuma
+kalendārā`_, grafikā), vai arī izņemt no ielūgto personu saraksta;
+
+Līgums : iespējams izvēlēties partnerim piesaistītu līgumu uz kuru
+attiecas notikums;
+
+Atgādināt... minūtes pirms notikuma : iespējams uzlikt atgādinātāju
+pirms notikuma izpildes (tiks atgādināts visām ielūgtajām personām);
+
+Notikuma laiks : notikuma datums un laiks;
+
+Ieraksta tiesības : iespējams norādīt ieraksta tiesības;
+
+Projekts : notikumam iespējams piesaistīt projektu;
+
+Kampaņa : iespējams piesaistīt kampaņu;
+
+Apraksts : notikuma apraksts.
+
+Ja visa notikuma informācija ievadīta, lai saglabātu
+notikumu,jānospiež poga :
+
+
+
+
+
+
+
+Saglabājot notikumu, tā Statuss ir Paziņots. Izveidotam notikumam
+iespējams veikt dažādas darbības, un tāspa e-pastutiks paziņotas
+katrai ielūgtajai personai.
+
+Lai pievienotu jaunu notikumu, jānospiež poga . Bet, lai saglabātu un
+aizvērtu notikumu, jānospiež poga . Notikumu iespējams izdrukāt,
+nospiežot pogu , un/vai labot, nospiežot pogu . Visi pievienotie
+notikumi tiek saglabāti `Notikumu žurnālā`_, tie ir redzami `uzņēmuma
+kalendārā`_ un ielūgto `personu kalendārā (grafikā),`_un `visu
+aktivitāšu sarakstā`_.
+
+ .. toctree::   :maxdepth: 4    4463.rst

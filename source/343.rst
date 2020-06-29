@@ -1,22 +1,114 @@
-.. 343 =========================Apmaksas atgādinājums========================= <p><span class="shadow"></span><br></p><p>Apmaksas atgādinājums tiek veidots, lai paziņotu uzņēmuma debitoriem par nenokārtotām saistībā uz konkrētu datumu.<br></p>
-<h4>Jauna&nbsp;apmaksas atgādinājuma&nbsp;pievienošana</h4>
+.. 343 =========================Apmaksas atgādinājums========================= 
 
-<p align="justify">Lai pievienotu jaunu&nbsp;apmaksas atgādinājuma&nbsp;dokumentu, atrodoties zem moduļa "Norēķini", sadaļas "Dokumenti",&nbsp; jāizvēlas&nbsp;Apmaksas atgādinājumu&nbsp;žurnāls un komanda <img src="/help/Skin/help/img.aspx?pid=24879" border="0">&nbsp; vai arī jāizvēlas uzreiz dokuments "Apmaksas atgādinājums" un tiks atvērts jauns logs:</p>
-<p align="justify">&nbsp;</p>
-<p align="justify"><img src="Skin/help/img.aspx?pid=26485" border="0"><br></p>
-<h4>Apmaksas atgādinājuma virsraksta aizpildīšana</h4><p align="justify">Lai aizpildītu&nbsp;Apmaksas atgādinājuma&nbsp;Virsrakstu, nepieciešams aizpildīt sekojošus laukus:</p><p align="justify"><br></p><p align="justify">Numurs: numurs šajā laukā tiek ģenerēts automātiski pēc kārtas;</p><p align="justify">Datums: nepieciešams norādīt datumu, uz kuru apmaksas atgādinājums tiek veidots;</p><p align="justify">Pircējs: no saraksta nepieciešams izvēlēties debitoru, kuram apmaksas atgādinājums tiks sagatavots;</p><p align="justify"><span id="iozo_content_ctl00_lbltxt" class="txt"><img src="Skin/help/img.aspx?pid=24545" border="0"></span>Ja pircējs nav datu bāzē, izmantojot komandu <img src="Skin/help/img.aspx?pid=24743" border="0">&nbsp;atveras partneru saraksta logs un ir iespējams pievienot jaunu pircēju partneru sarakstā. Lai pievienotu jaunu <a href="?ssw=33&amp;skf_id=312">Partneri</a>, jāizmanto komanda <img src="Skin/help/img.aspx?pid=24879" border="0">&nbsp;no rīku joslas un atveras jauna partnera ievades kartiņa.</p><p align="justify"></p>Pasta adrese: dati tiks aizpildīti automātiski pēc pircēja izvēles. Lai papildinātu esošo informāciju, iespējams izmantot <img src="Skin/help/img.aspx?pid=24743" border="0"> pogu.<p><br></p><p>Tekstu informatīvajos laukos - Virsraksts/Teksts - iespējams izveidot sagatavēs, lai turpmāk šie lauki aizpildītos automātiski. Lai izveidotu sagataves, nepieciešams izmantot Apmaksas atgādinājuma logā pieejamo funkciju - Teksta sagataves:</p><p><br></p><p><img src="Skin/help/img.aspx?pid=26486" border="0"><br></p>
 
-<p>&nbsp;</p>Izvēloties funkciju "Teksta sagataves", tiks atvērts logs, kurā&nbsp;jāievada informācija, kuru būs nepieciešams redzēt apmaksas atgādinājumā. Saglabājot šo informāciju, tā tiks automātiski ielādēta, sagatavojot jaunu apmaksas atgādinājumu.&nbsp;
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26487" border="0"><br></p>
-<h4>Apmaksas atgādinājuma&nbsp;satura aizpildīšana</h4>
-<p>Lai aizpildītu&nbsp;Apmaksas atgādinājuma Saturu, nepieciešams izmantot&nbsp;dokumentā esošo komandu funkcija - aizpildīt.&nbsp;</p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26486" border="0"></p>
-<p>&nbsp;</p>
-<p>Izvēloties komandu Aizpildīt tiks atvērts filtrs, kurā jāizvēlas parametri no atskaites "Neapmaksātie pārdošanas dokumenti" pēc kuriem tiks aizpildīts Apmaksas atgādinājums. Pircējs filtrā parādās noklusētais tas, kurš ir izvēlēts apmaksas atgādinājuma virsrakstā:</p><p><br></p><p><img src="Skin/help/img.aspx?pid=26488" border="0"><br></p>
 
-<p></p><p>Lai aizpildītu apmaksas atgādinājuma saturu no augstāk minētā filtra un jāizmanto komanda <img src="Skin/help/img.aspx?pid=25619" border="0">.</p>
-<h4>Pievienotā&nbsp;Apmaksas atgādinājuma&nbsp;labošana</h4>
+Apmaksas atgādinājums tiek veidots, lai paziņotu uzņēmuma debitoriem
+par nenokārtotām saistībā uz konkrētu datumu.
 
-<p>Labojumus saglabātajā&nbsp;Apmaksas atgādinājumā&nbsp;iespējams veikt atverot Apmaksas atgādinājumu, kurš vienlaicīgi pieejams apskatei/labošanai&nbsp;apmaksas atgādinājumu žurnālā. Lai veiktu labojumus apmaksas atgādinājumā, šo dokumentu nepieciešams atvērt, izmantojot komandu <img src="/help/Skin/help/img.aspx?pid=24709" border="0">&nbsp;no rīku joslas un atvērtajā ierakstā iespējams veikt nepieciešamos labojumus. Pēc labojumu veikšanas, veiktās izmaiņas iespējams <img src="/help/Skin/help/img.aspx?pid=24867" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p> 
+
+
+Jaunaapmaksas atgādinājumapievienošana
+``````````````````````````````````````
+
+Lai pievienotu jaunuapmaksas atgādinājumadokumentu, atrodoties zem
+moduļa "Norēķini", sadaļas "Dokumenti", jāizvēlasApmaksas
+atgādinājumužurnāls un komanda vai arī jāizvēlas uzreiz dokuments
+"Apmaksas atgādinājums" un tiks atvērts jauns logs:
+
+
+
+
+
+
+
+Apmaksas atgādinājuma virsraksta aizpildīšana
+`````````````````````````````````````````````
+
+Lai aizpildītuApmaksas atgādinājumaVirsrakstu, nepieciešams aizpildīt
+sekojošus laukus:
+
+
+
+
+Numurs: numurs šajā laukā tiek ģenerēts automātiski pēc kārtas;
+
+Datums: nepieciešams norādīt datumu, uz kuru apmaksas atgādinājums
+tiek veidots;
+
+Pircējs: no saraksta nepieciešams izvēlēties debitoru, kuram apmaksas
+atgādinājums tiks sagatavots;
+
+Ja pircējs nav datu bāzē, izmantojot komandu atveras partneru saraksta
+logs un ir iespējams pievienot jaunu pircēju partneru sarakstā. Lai
+pievienotu jaunu `Partneri`_, jāizmanto komanda no rīku joslas un
+atveras jauna partnera ievades kartiņa.
+
+
+Pasta adrese: dati tiks aizpildīti automātiski pēc pircēja izvēles.
+Lai papildinātu esošo informāciju, iespējams izmantot pogu.
+
+
+
+Tekstu informatīvajos laukos - Virsraksts/Teksts - iespējams izveidot
+sagatavēs, lai turpmāk šie lauki aizpildītos automātiski. Lai
+izveidotu sagataves, nepieciešams izmantot Apmaksas atgādinājuma logā
+pieejamo funkciju - Teksta sagataves:
+
+
+
+
+
+
+
+
+Izvēloties funkciju "Teksta sagataves", tiks atvērts logs,
+kurājāievada informācija, kuru būs nepieciešams redzēt apmaksas
+atgādinājumā. Saglabājot šo informāciju, tā tiks automātiski ielādēta,
+sagatavojot jaunu apmaksas atgādinājumu.
+
+
+
+
+
+
+Apmaksas atgādinājumasatura aizpildīšana
+````````````````````````````````````````
+
+Lai aizpildītuApmaksas atgādinājuma Saturu, nepieciešams
+izmantotdokumentā esošo komandu funkcija - aizpildīt.
+
+
+
+
+
+
+
+Izvēloties komandu Aizpildīt tiks atvērts filtrs, kurā jāizvēlas
+parametri no atskaites "Neapmaksātie pārdošanas dokumenti" pēc kuriem
+tiks aizpildīts Apmaksas atgādinājums. Pircējs filtrā parādās
+noklusētais tas, kurš ir izvēlēts apmaksas atgādinājuma virsrakstā:
+
+
+
+
+
+
+
+
+
+Lai aizpildītu apmaksas atgādinājuma saturu no augstāk minētā filtra
+un jāizmanto komanda .
+
+
+PievienotāApmaksas atgādinājumalabošana
+```````````````````````````````````````
+
+Labojumus saglabātajāApmaksas atgādinājumāiespējams veikt atverot
+Apmaksas atgādinājumu, kurš vienlaicīgi pieejams
+apskatei/labošanaiapmaksas atgādinājumu žurnālā. Lai veiktu labojumus
+apmaksas atgādinājumā, šo dokumentu nepieciešams atvērt, izmantojot
+komandu no rīku joslas un atvērtajā ierakstā iespējams veikt
+nepieciešamos labojumus. Pēc labojumu veikšanas, veiktās izmaiņas
+iespējams vai .
+
+ 

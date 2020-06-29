@@ -1,12 +1,27 @@
-.. 279 ======================Ieejošo kodu veidi====================== <P>&nbsp;</P>
-<P>Šajā sarakstā tiek nodefinēti algu <A href="/help/?ssw=33&amp;skf_id=282">ieejošo kodu</A> veidi. </P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26352" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Kods</STRONG> - jānorāda kods.</P>
-<P><STRONG>Nosaukums</STRONG> - jānorāda nosaukums.</P>
-<P><STRONG>Mērvienība</STRONG> - jānorāda mērvienība (piem. LVL, stundas, darba dienas, kalendārās dienas, utt.).</P>
-<P><STRONG>Zīmes aiz komata</STRONG> - jānorāda veidam zīmes aiz komata.</P>
-<P><STRONG>Piezīmes</STRONG> - iespēja norādīt veida piezīmes.</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P> 
+.. 279 ======================Ieejošo kodu veidi====================== 
+
+
+Šajā sarakstā tiek nodefinēti algu `ieejošo kodu`_ veidi.
+
+
+
+
+
+
+
+Kods - jānorāda kods.
+
+Nosaukums - jānorāda nosaukums.
+
+Mērvienība - jānorāda mērvienība (piem. LVL, stundas, darba dienas,
+kalendārās dienas, utt.).
+
+Zīmes aiz komata - jānorāda veidam zīmes aiz komata.
+
+Piezīmes - iespēja norādīt veida piezīmes.
+
+
+
+
+
+ 

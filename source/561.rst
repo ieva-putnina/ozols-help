@@ -1,39 +1,112 @@
-.. 561 ===========================Naudas plūsmas pārskats=========================== <P><A href="/help/?ssw=33&amp;skf_id=531"></A>&nbsp;</P>
-<P>Naudas plūsmas atskaiti var sastādīt pēc tiešās metodes. Atskaitei ir konfigurējamas datu rindas, kurās norāda no kuriem grāmatvedības kontiem summas tiks parādītas. Atskaite ir saglabājama atskaišu <A href="/help/?ssw=33&amp;skf_id=531">Sarakstā</A>.</P>
-<P>&nbsp;</P>
-<P>Lai būtu iespējams sagatavot Naudas plūsmas pārskatu,&nbsp;iepriekš jābūt izveidotai <A href="/help/?ssw=33&amp;skf_id=179">Grāmatojumu atskaišu konfigurācijai</A>.</P>
-<H5>Naudas plūsmas pārskata&nbsp;sagatavošana</H5>
-<P>&nbsp;</P>
-<P>1. Izvēloties Virsgrāmatas atskaiti - Naudas plūsmas pārskats, tiks atvērt filtra logs, kur jānorāda nepieciešamie parametri, pēc kādiem atskaite tiks sagatavota:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25059" border=0></P>
-<P>&nbsp;</P>
-<P>2. Nepieciešams norādīt attiecīgo profilu - <A href="/help/?ssw=33&amp;skf_id=179">atskaites konfigurāciju</A>, pēc kādiem konfigurācijas datiem atskaite tiks sagatavota:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25060" border=0></P>
-<P>&nbsp;</P>
-<P>3. Nepieciešams norādīt periodu, par kuru atskaite tiks sagatavota, izvēloties kādu no definētajiem datuma nosacījumiem vai arī "cits" un ievadot datumus manuāli:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25046" border=0></P>
-<P>4. Ja vienā Ozols datu bāzē tiek veikta grāmatvedības uzskaite vairākiem uzņēmumiem,&nbsp;filtrā iespējams izvēlēties, pēc kura uzņēmuma datiem atskaite tiks sagatavota:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25047" border=0></P>
-<P>&nbsp;</P>
-<P>5.&nbsp;Iespēja norādīt cik zīmes aiz komata&nbsp;būtu jāuzrāda atskaitē:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25048" border=0></P>
-<P>&nbsp;</P>
-<P>6. Atskaite tiks sagatavota, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25049" border=0>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25061" border=0></P>
-<P>&nbsp;</P>
-<P>&nbsp;&nbsp;&nbsp;1. Sadaļā "Dati" tiek parādīta sagatavotā atskaites informācija, pēc filtrā norādītajiem parametriem. Tiek parādītas&nbsp;Naudas plūsmas pārskata&nbsp;rindas un summas.&nbsp;Katrai rindai tiek noteikts rindas sakārtojums, teksta stils, rindas nosaukums un kods.</P>
-<P>&nbsp;&nbsp;&nbsp;2. Sadaļā "Virsraksts" tiek parādīta atskaites Virsraksta informācija - informācija par uzņēmumu (nosaukums, reģistrācijas nr., adrese, vadītājs) un atskaites nosaukums, kas nosaukumā ietver periodu, par kuru atskaite tiek sagatavota.</P>
-<P>&nbsp;&nbsp;&nbsp;3. Sadaļā "Papildus" tiek parādīta vispārēja informācija, kas ņemta no norādītajiem filtra parametriem sagatavojot atskaiti: izvēlētā atskaites konfigurācija, izvēlētais uzņēmums, pēc kura datiem šī atskaite tika sagatavota un norādītais zīmju skaits summām aiz komata. Ekrāna formā ir pieejams atskaišu konfigurācijas saraksts.</P>
-<P>&nbsp;</P>
-<P>7. Nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25055" border=0>, komanda izsauc atskaites konfigurācijas ekrāna formu, to var papildināt neaizverot atskaiti.</P>
-<P>&nbsp;</P>
-<P>8. Ja pēc atskaites sagatavošanas veiktas izmaiņas <A href="/help/?ssw=33&amp;skf_id=179">atskaites konfigurācijā</A>,&nbsp; atskaiti pēc izmanītās konfigurācijas datiem var pārrēķināt, nospiežot pogu: <IMG src="/help/Skin/help/img.aspx?pid=25053" border=0>. Pārrēķinot atskaiti, tajā tiek parādīti jaunākie dati.</P>
-<P>9. Sagatavoto atskaiti iespējams saglabāt <A href="/help/?ssw=33&amp;skf_id=531">VID atskaišu sarakstā</A>, kur tā būs pieejama labošanai/drukāšanai, nospiežot pogu: <IMG src="/help/Skin/help/img.aspx?pid=25054" border=0>.</P>
-<P>&nbsp;</P>
-<P>10. Nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>&nbsp;atskaite sagatavota netiks un darbība tiks atcelta. Ja atskaite tiek izveidota un nav jāsaglabā, jālieto komanda <STRONG>Atcelt</STRONG>. Ja atskaite ir saglabāta sarakstā, komandu&nbsp;<STRONG>Atcelt</STRONG> var izmantot, lai nesaglabātu atskaitē veiktās izmaiņas.</P> 
+.. 561 ===========================Naudas plūsmas pārskats=========================== 
+``_
+
+Naudas plūsmas atskaiti var sastādīt pēc tiešās metodes. Atskaitei ir
+konfigurējamas datu rindas, kurās norāda no kuriem grāmatvedības
+kontiem summas tiks parādītas. Atskaite ir saglabājama atskaišu
+`Sarakstā`_.
+
+
+
+Lai būtu iespējams sagatavot Naudas plūsmas pārskatu,iepriekš jābūt
+izveidotai `Grāmatojumu atskaišu konfigurācijai`_.
+
+
+Naudas plūsmas pārskatasagatavošana
++++++++++++++++++++++++++++++++++++
+
+
+
+1. Izvēloties Virsgrāmatas atskaiti - Naudas plūsmas pārskats, tiks
+atvērt filtra logs, kur jānorāda nepieciešamie parametri, pēc kādiem
+atskaite tiks sagatavota:
+
+
+
+
+
+
+
+2. Nepieciešams norādīt attiecīgo profilu - `atskaites
+konfigurāciju`_, pēc kādiem konfigurācijas datiem atskaite tiks
+sagatavota:
+
+
+
+
+
+
+
+3. Nepieciešams norādīt periodu, par kuru atskaite tiks sagatavota,
+izvēloties kādu no definētajiem datuma nosacījumiem vai arī "cits" un
+ievadot datumus manuāli:
+
+
+
+
+
+4. Ja vienā Ozols datu bāzē tiek veikta grāmatvedības uzskaite
+vairākiem uzņēmumiem,filtrā iespējams izvēlēties, pēc kura uzņēmuma
+datiem atskaite tiks sagatavota:
+
+
+
+
+
+
+
+5.Iespēja norādīt cik zīmes aiz komatabūtu jāuzrāda atskaitē:
+
+
+
+
+
+
+
+6. Atskaite tiks sagatavota, nospiežot pogu :
+
+
+
+
+
+
+
+1. Sadaļā "Dati" tiek parādīta sagatavotā atskaites informācija, pēc
+filtrā norādītajiem parametriem. Tiek parādītasNaudas plūsmas
+pārskatarindas un summas.Katrai rindai tiek noteikts rindas
+sakārtojums, teksta stils, rindas nosaukums un kods.
+
+2. Sadaļā "Virsraksts" tiek parādīta atskaites Virsraksta informācija
+- informācija par uzņēmumu (nosaukums, reģistrācijas nr., adrese,
+vadītājs) un atskaites nosaukums, kas nosaukumā ietver periodu, par
+kuru atskaite tiek sagatavota.
+
+3. Sadaļā "Papildus" tiek parādīta vispārēja informācija, kas ņemta no
+norādītajiem filtra parametriem sagatavojot atskaiti: izvēlētā
+atskaites konfigurācija, izvēlētais uzņēmums, pēc kura datiem šī
+atskaite tika sagatavota un norādītais zīmju skaits summām aiz komata.
+Ekrāna formā ir pieejams atskaišu konfigurācijas saraksts.
+
+
+
+7. Nospiežot pogu , komanda izsauc atskaites konfigurācijas ekrāna
+formu, to var papildināt neaizverot atskaiti.
+
+
+
+8. Ja pēc atskaites sagatavošanas veiktas izmaiņas `atskaites
+konfigurācijā`_, atskaiti pēc izmanītās konfigurācijas datiem var
+pārrēķināt, nospiežot pogu: . Pārrēķinot atskaiti, tajā tiek parādīti
+jaunākie dati.
+
+9. Sagatavoto atskaiti iespējams saglabāt `VID atskaišu sarakstā`_,
+kur tā būs pieejama labošanai/drukāšanai, nospiežot pogu: .
+
+
+
+10. Nospiežot pogu atskaite sagatavota netiks un darbība tiks atcelta.
+Ja atskaite tiek izveidota un nav jāsaglabā, jālieto komanda Atcelt .
+Ja atskaite ir saglabāta sarakstā, komandu Atcelt var izmantot, lai
+nesaglabātu atskaitē veiktās izmaiņas.
+
+ 

@@ -1,11 +1,18 @@
-.. 14065 ===============================Administratora instrukcijas=============================== <P>&nbsp;</P>
-<P>OZOLS sistēmā iebūvētos administrēšanas rīkus var izmantot visu galveno administrēšanas funkciju veikšanai:</P>
-<UL>
-<LI><A href="/help/?ssw=33&amp;skf_id=194">Lietotāju pievienošana un pārvaldība</A> 
-<LI><A href="/help/?ssw=33&amp;skf_id=162">Lietotāju grupu pārvaldība</A> 
-<LI><A href="/help/?ssw=33&amp;skf_id=169">Lietotāju tiesību noteikšana&nbsp;darba režīmiem</A> 
-<LI><A href="/help/?ssw=33&amp;skf_id=737">Datu rezerves kopiju veikšana</A> 
-<LI><A href="/help/?ssw=33&amp;skf_id=721">Jaunu versiju uzstādīšana</A> 
-<LI><A href="/help/?ssw=33&amp;skf_id=735">Datu bāzes procesu pārvaldībai</A>
-<LI><A href="/help/?ssw=33&amp;skf_id=722">Paroles maiņa</A>
-<LI><A href="/help/?ssw=33&amp;skf_id=163">Paroles konfigurācija</A></LI></UL> .. toctree::   :maxdepth: 5    14110.rst   14096.rst   14086.rst   14095.rst   14066.rst   14064.rst   14098.rst
+.. 14065 ===============================Administratora instrukcijas=============================== 
+
+
+OZOLS sistēmā iebūvētos administrēšanas rīkus var izmantot visu
+galveno administrēšanas funkciju veikšanai:
+
+
++ `Lietotāju pievienošana un pārvaldība`_
++ `Lietotāju grupu pārvaldība`_
++ `Lietotāju tiesību noteikšanadarba režīmiem`_
++ `Datu rezerves kopiju veikšana`_
++ `Jaunu versiju uzstādīšana`_
++ `Datu bāzes procesu pārvaldībai`_
++ `Paroles maiņa`_
++ `Paroles konfigurācija`_
+
+
+ .. toctree::   :maxdepth: 5    14110.rst   14096.rst   14086.rst   14095.rst   14066.rst   14064.rst   14098.rst

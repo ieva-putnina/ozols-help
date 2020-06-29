@@ -1,1 +1,2 @@
-.. 6923 ===========================TERM klientu pasūtījumi===========================  .. toctree::   :maxdepth: 5    6927.rst   6924.rst
+.. 6923 ===========================TERM klientu pasūtījumi=========================== 
+ .. toctree::   :maxdepth: 5    6927.rst   6924.rst

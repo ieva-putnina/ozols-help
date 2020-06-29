@@ -1,1 +1,7 @@
-.. 989 ===============Saraksts...=============== <br>Sarakstā tiek saglabātas un pieejamas atvēršanai/izdrukai/labošanai iepriekš sagatavotās atskaites:<br><br><a href="?ssw=33&amp;skf_id=990">Ievedums–Intrastat–1A</a><br> 
+.. 989 ===============Saraksts...=============== 
+Sarakstā tiek saglabātas un pieejamas atvēršanai/izdrukai/labošanai
+iepriekš sagatavotās atskaites:
+
+`Ievedums–Intrastat–1A`_
+
+ 

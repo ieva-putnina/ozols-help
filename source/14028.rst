@@ -1,17 +1,36 @@
-.. 14028 ================Finanšu daļa================ <P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>Finanšu daļas darbinieki:</P>
-<OL>
-<LI>saņem no <A href="/help/?ssw=42&amp;skf_id=14027" target=_self>Atlīdzību daļas</A> dokumentu veidā lēmumus par atlīdzības izmaksu Atlīdzības lietā; 
-<LI>pievieno kreditora kartiņā (personai vai uzņēmumam, kas saņems atlīdzību) norēķinu rekvizītus; 
-<LI>pārbauda vai Lietu žurnālā nonākusi lieta no CSNRZRS ar kontējumu uz nekonkrēto kreditoru kontu; 
-<LI>pārkontē kreditoru no nekonkrētā kreditora konta uz konkrēto, piesaistot attiecīgo Piegādātāju (kreditoru); 
-<LI>veic maksājumu, norādot dinamikā Atlīdzību lietas numuru; 
-<LI>saņem no <A href="/help/?ssw=42&amp;skf_id=14029" target=_self>Juridiskā daļas</A>&nbsp;dokumentus par attiecīgo Atlīdzību lietu:</LI><AL>
-<UL>
-<LI>ja Regresa lieta netiek ierosināta, Lietu žurnālā izmaksāto atlīdzību noraksta izdevumos; 
-<LI>ja Regresa lieta tiek ierosināta, Lietu žurnālā nekonkrēto debitoru pārkontē uz konkrēto;</LI></UL></AL>
-<LI>&nbsp;Lietu žurnālā uzskaita saņemtos maksājumus attiecīgajā Regresa lietā.</LI></OL>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<H1>&nbsp;</H1> 
+.. 14028 ================Finanšu daļa================ 
+
+
+
+
+Finanšu daļas darbinieki:
+
+
+#. saņem no `Atlīdzību daļas`_ dokumentu veidā lēmumus par atlīdzības
+izmaksu Atlīdzības lietā;
+#. pievieno kreditora kartiņā (personai vai uzņēmumam, kas saņems
+atlīdzību) norēķinu rekvizītus;
+#. pārbauda vai Lietu žurnālā nonākusi lieta no CSNRZRS ar kontējumu
+uz nekonkrēto kreditoru kontu;
+#. pārkontē kreditoru no nekonkrētā kreditora konta uz konkrēto,
+piesaistot attiecīgo Piegādātāju (kreditoru);
+#. veic maksājumu, norādot dinamikā Atlīdzību lietas numuru;
+#. saņem no `Juridiskā daļas`_dokumentus par attiecīgo Atlīdzību
+   lietu:
+
+    + ja Regresa lieta netiek ierosināta, Lietu žurnālā izmaksāto
+    atlīdzību noraksta izdevumos;
+    + ja Regresa lieta tiek ierosināta, Lietu žurnālā nekonkrēto debitoru
+      pārkontē uz konkrēto;
+
+#. Lietu žurnālā uzskaita saņemtos maksājumus attiecīgajā Regresa
+   lietā.
+
+
+
+
+
+
+
+
+ 

@@ -1,28 +1,63 @@
-.. 4443 ==================Darba uzdevums================== <P>Visi pievienotie darba uzdevumi tiek saglabāti <A href="/help/?ssw=44&amp;skf_id=4442">darba uzdevumu žurnālā</A>.</P>
-<P>Pievienojot jaunu darba uzdevumu, tiek atvērt logs:</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25880" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Partneris</STRONG>: partneris, klients uz kuru attiecas šis darba uzdevums;</P>
-<P><STRONG>Kontaktpersona</STRONG>: kontaktpersona, kura ir piesaistīta partnerim;</P>
-<P><STRONG>Virsraksts</STRONG>: darba uzdevuma virsraksts, nosaukums;</P>
-<P><STRONG>Adresāts</STRONG>: kam adresāts šis darba uzdevums;</P>
-<P><STRONG>Prioritāte</STRONG>: iespējams noteikt prioritāti;</P>
-<P><STRONG>Atgādināt......pirms beigu termiņa</STRONG>: iespējams uzlikt atgādinātāju, norādot laiku pirms termiņa beigām;</P>
-<P><STRONG>Izpildes term.:</STRONG> darba uzdevuma izpildes termiņš;</P>
-<P><STRONG>Ieraksta tiesības</STRONG>: iespējams norādīt ieraksta tiesības;</P>
-<P><STRONG>Projekts</STRONG>:&nbsp;uz kuru projektu attiecināms darba uzdevums;</P>
-<P><STRONG>Versija</STRONG>: programmas versija;</P>
-<P><STRONG>Pakalpojums</STRONG>: iespējams norādīt pakalpojumu;</P>
-<P><STRONG>Līgums</STRONG>: partnerim piesaistītie līgumi (iespējams izvēlēties);</P>
-<P><STRONG>Kampaņa</STRONG>: iespējams piesaistīt kampaņu;</P>
-<P><STRONG>Apraksts</STRONG>: darba uzdevuma apraksts, kuru iespējams noformēr kā Word.</P>
-<P>Ja visa informācija ievadīta, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25829" border=0>.</P>
-<P>Darba uzdevums tiek saglabāts un, ja adresātam ir norādīta e-pasta adrese, tad adresāts saņem šo darba uzdevumu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25881" border=0></P>
-<P>&nbsp;</P>
-<P>Veicot jebkādas darbības ar izveidoto darba uzdevumu, informācija tiek saglabāta zem darba uzdevuma sadaļā Darbības:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25882" border=0></P>
-<P>&nbsp;</P>
-<P>Visas veiktās darbības tiek nosūtītas partnerim. Arī Izpildītam darba uzdevuma ir iespējams veikt dažādas darbības.</P> .. toctree::   :maxdepth: 4    4451.rst   5027.rst   4471.rst   4452.rst
+.. 4443 ==================Darba uzdevums================== 
+Visi pievienotie darba uzdevumi tiek saglabāti `darba uzdevumu
+žurnālā`_.
+
+Pievienojot jaunu darba uzdevumu, tiek atvērt logs:
+
+
+
+
+
+Partneris : partneris, klients uz kuru attiecas šis darba uzdevums;
+
+Kontaktpersona : kontaktpersona, kura ir piesaistīta partnerim;
+
+Virsraksts : darba uzdevuma virsraksts, nosaukums;
+
+Adresāts : kam adresāts šis darba uzdevums;
+
+Prioritāte : iespējams noteikt prioritāti;
+
+Atgādināt......pirms beigu termiņa : iespējams uzlikt atgādinātāju,
+norādot laiku pirms termiņa beigām;
+
+Izpildes term.: darba uzdevuma izpildes termiņš;
+
+Ieraksta tiesības : iespējams norādīt ieraksta tiesības;
+
+Projekts :uz kuru projektu attiecināms darba uzdevums;
+
+Versija : programmas versija;
+
+Pakalpojums : iespējams norādīt pakalpojumu;
+
+Līgums : partnerim piesaistītie līgumi (iespējams izvēlēties);
+
+Kampaņa : iespējams piesaistīt kampaņu;
+
+Apraksts : darba uzdevuma apraksts, kuru iespējams noformēr kā Word.
+
+Ja visa informācija ievadīta, jānospiež poga .
+
+Darba uzdevums tiek saglabāts un, ja adresātam ir norādīta e-pasta
+adrese, tad adresāts saņem šo darba uzdevumu:
+
+
+
+
+
+
+
+Veicot jebkādas darbības ar izveidoto darba uzdevumu, informācija tiek
+saglabāta zem darba uzdevuma sadaļā Darbības:
+
+
+
+
+
+
+
+Visas veiktās darbības tiek nosūtītas partnerim. Arī Izpildītam darba
+uzdevuma ir iespējams veikt dažādas darbības.
+
+ .. toctree::   :maxdepth: 4    4451.rst   5027.rst   4471.rst   4452.rst

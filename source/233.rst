@@ -1,29 +1,56 @@
-.. 233 ===========================Pamatlīdzekļu dokumenti=========================== <p>Pamatlīdzekļu&nbsp;dokumentu žurnālā tiek parādīta informācija par uzņēmuma dokumentiem, kuri saistīti ar Pamatlīdzekļiem:</p>
-<ul>
-<li><a href="/help/?ssw=33&amp;skf_id=436">Pamatlīdzekļu atlikumu ievades dokumenti</a>; 
-</li><li><a href="/help/?ssw=33&amp;skf_id=812">Pamatlīdzekļu derīgās lietošanas termiņa maiņas dokumenti</a>; 
-</li><li><a href="/help/?ssw=33&amp;skf_id=433">Pamatlīdzekļu ienākšanas dokumenti</a>; 
-</li><li><a href="/help/?ssw=33&amp;skf_id=462">Pamatlīdzekļu inventarizācijas dokumenti</a>; 
-</li><li><a href="/help/?ssw=33&amp;skf_id=442">Pamatlīdzekļu likvidācijas vērtības korekcijas dokumenti</a>; 
-</li><li><a href="/help/?ssw=33&amp;skf_id=440">Pamatlīdzekļu nolietojuma dokumenti</a>; 
-</li><li><a href="/help/?ssw=33&amp;skf_id=441">Pamatlīdzekļu norakstīšanas dokumenti</a>; 
-</li><li><a href="/help/?ssw=33&amp;skf_id=828">Pamatlīdzekļu pieņemšanas ekspluatācijā dokumenti</a>; 
-</li><li><a href="/help/?ssw=33&amp;skf_id=432">Pamatlīdzekļu sadales dokumenti</a>; 
-</li><li><a href="/help/?ssw=33&amp;skf_id=820">Pamatlīdzekļu norakstīšanas dokumenti (daļēji)</a>; 
-</li><li><a href="/help/?ssw=33&amp;skf_id=817">Pamatlīdzekļu papildināšanas dokumenti</a>; 
-</li><li><a href="/help/?ssw=33&amp;skf_id=438">Pamatlīdzekļu pārvērtēšanas dokumenti</a>; 
-</li><li><a href="/help/?ssw=33&amp;skf_id=437">Pamatlīdzekļu pārsūtīšanas dokumenti</a>.</li></ul>
-<p>Lai atlasītu precīzāku dokumenta veidu, Rīku joslā jānospiež poga <img src="/help/Skin/help/img.aspx?pid=24535" border="0">(Ctrl+F), tiek atvērts logs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25433" border="0"></p>
-<p>&nbsp;</p>
-<p>Atlasīšana ir iespējama atlasot pēc:</p>
-<ul>
-<li>piegādātāja; 
-</li><li>datuma; 
-</li><li>numura; 
-</li><li>dokumenta veida; 
-</li><li>atzīmējot izvēles rūtiņu <img src="/help/Skin/help/img.aspx?pid=25435" border="0"> un skatlodziņā tiek rādīta pēdējā izvēle. Lai sarakstu atvērtu, jānoklikšķina uz bultiņas saraksta labajā pusē <img src="/help/Skin/help/img.aspx?pid=25434" border="0"> un jāizvēlas attiecīgie dokumenti; 
-</li><li>atzīmējot izvēles rūtiņu <img src="/help/Skin/help/img.aspx?pid=25436" border="0">, tiks atlasīti arī anulētie dokumenti.</li></ul>
-<p>Kad visi vēlamie dokumenta atlasīšanas kritēriji ir atzīmēti, jānospiež poga<img src="/help/Skin/help/img.aspx?pid=25379" border="0">.</p>
-<p>Kad dokuments ir atlasīts, to ir iespējams detalizētāk apskatīt, Rīku joslā nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=25420" border="0">(Alt+A).</p><p><br></p><p>Instrukcija par vairāku Pamatlīdzekļu automatizētu apstrādi pieejama <a href="/files/Instrukcija_vairaku_PL_apstrade.pdf">šeit</a><br></p> 
+.. 233 ===========================Pamatlīdzekļu dokumenti=========================== 
+Pamatlīdzekļudokumentu žurnālā tiek parādīta informācija par uzņēmuma
+dokumentiem, kuri saistīti ar Pamatlīdzekļiem:
+
+
++ `Pamatlīdzekļu atlikumu ievades dokumenti`_;
++ `Pamatlīdzekļu derīgās lietošanas termiņa maiņas dokumenti`_;
++ `Pamatlīdzekļu ienākšanas dokumenti`_;
++ `Pamatlīdzekļu inventarizācijas dokumenti`_;
++ `Pamatlīdzekļu likvidācijas vērtības korekcijas dokumenti`_;
++ `Pamatlīdzekļu nolietojuma dokumenti`_;
++ `Pamatlīdzekļu norakstīšanas dokumenti`_;
++ `Pamatlīdzekļu pieņemšanas ekspluatācijā dokumenti`_;
++ `Pamatlīdzekļu sadales dokumenti`_;
++ `Pamatlīdzekļu norakstīšanas dokumenti (daļēji)`_;
++ `Pamatlīdzekļu papildināšanas dokumenti`_;
++ `Pamatlīdzekļu pārvērtēšanas dokumenti`_;
++ `Pamatlīdzekļu pārsūtīšanas dokumenti`_.
+
+
+Lai atlasītu precīzāku dokumenta veidu, Rīku joslā jānospiež poga
+(Ctrl+F), tiek atvērts logs:
+
+
+
+
+
+
+
+Atlasīšana ir iespējama atlasot pēc:
+
+
++ piegādātāja;
++ datuma;
++ numura;
++ dokumenta veida;
++ atzīmējot izvēles rūtiņu un skatlodziņā tiek rādīta pēdējā izvēle.
+  Lai sarakstu atvērtu, jānoklikšķina uz bultiņas saraksta labajā pusē
+  un jāizvēlas attiecīgie dokumenti;
++ atzīmējot izvēles rūtiņu , tiks atlasīti arī anulētie dokumenti.
+
+
+Kad visi vēlamie dokumenta atlasīšanas kritēriji ir atzīmēti,
+jānospiež poga .
+
+Kad dokuments ir atlasīts, to ir iespējams detalizētāk apskatīt, Rīku
+joslā nospiežot pogu (Alt+A).
+
+
+
+
+Instrukcija par vairāku Pamatlīdzekļu automatizētu apstrādi pieejama
+`šeit`_
+
+
+ 

@@ -1,21 +1,70 @@
-.. 148 ==========Grupas========== <p><br></p><p>Sarakstā tiek saglabātas grupas, kas tiek izmantotas, lai krājumus/preces vai pakalpojumus grupētu, atbilstoši uzņēmumā noteiktajai uzskaites sistēmai, kā arī saskaņā ar grāmatvedības noteiktu dalījumu kontu griezumā. Grupa tiek norādīta pakalpojumu vai nomenklatūras kartiņas aprakstā. Grupu sarakstu var izveidot neierobežoti plašu un hierarhisku. Hierarhiskais grupu saraksts nodrošina datu grupēšanu uz augstākajiem grupu saraksta līmeņiem.</p>
-<h4>Jaunas nomenklatūras grupas pievienošana</h4>
-<p>Lai pievienotu jaunu nomenklatūras grupu, jāizmanto komanda <img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;no rīku joslas (Alt+P) un tiks atvērts jauns logs:</p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26520" border="0"><br></p>
-<p>&nbsp;</p>
-<p>Atvērtajā logā jāaizpilda nepieciešamie lauki:<br></p>
-<p>&nbsp;</p>
-<p><strong>Virslīmenis</strong>: jānorāda augstākais līmenis, zem kura šis ieraksts tiks pievienots. Ja tāda nav, tad jānorāda izvēlne [NAV];</p><p><span id="iozo_content_ctl00_lbltxt" class="txt"></span><strong>Kods:</strong> jānorāda grupas nosaukuma saīsinājums, kas dos iespēju iepirkuma dokumentos ātrāk atrast nepieciešamo grupu:</p>
+.. 148 ==========Grupas========== 
 
 
 
-<p><strong>Nosaukums</strong>: norāda grupas pilnu nosaukumu</p>
+Sarakstā tiek saglabātas grupas, kas tiek izmantotas, lai
+krājumus/preces vai pakalpojumus grupētu, atbilstoši uzņēmumā
+noteiktajai uzskaites sistēmai, kā arī saskaņā ar grāmatvedības
+noteiktu dalījumu kontu griezumā. Grupa tiek norādīta pakalpojumu vai
+nomenklatūras kartiņas aprakstā. Grupu sarakstu var izveidot
+neierobežoti plašu un hierarhisku. Hierarhiskais grupu saraksts
+nodrošina datu grupēšanu uz augstākajiem grupu saraksta līmeņiem.
 
-<p><strong></strong><strong>Statuss</strong>: jānorāda statuss, vai dati uz šo ierakstu tiks vadīti, vai nē (rekomendējams likt statusu "Aizliegt datu ievadi", ja šī grupa tiks izmantota kā augstākā līmeņa un kalpos datu apvienošanai);<br></p><p><strong>Nodoklis</strong>: jānorāda kāda nodokļa likme&nbsp;norēķina dokumentā būs konkrētajai nomenklatūras grupai. </p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=24545" border="0">Uzņēmuma grāmatvedim laukos, kas paredzēti grāmatvedisko kontu ievadei, iespējams norādīt katrai grupai atbilstošos uzskaites, izdevumu un ieņēmumu kontus.<br></p><br><p>Jaunizveidotais grupas ieraksts tiks saglabāts pēc komandas <img src="/help/Skin/help/img.aspx?pid=24867" border="0">&nbsp;aktivizēšanas.</p>
-<p>&nbsp;</p>
-<p>Lai veiktu izmaiņas jaunizveidotajā nomenklatūras grupā, ieraksts ir jāatver ar komandu <img src="/help/Skin/help/img.aspx?pid=24869" border="0">&nbsp;no rīku joslas un jāveic izmaiņas. Lai saglabātu veiktās izmaiņas ir jāizmanto komandu <img src="/help/Skin/help/img.aspx?pid=24867" border="0">&nbsp;no rīku joslas.</p>
-<p>&nbsp;</p>
-<p>Lai dzēstu nomenklatūras grupu ir jāizmanto komanda <img src="Skin/help/img.aspx?pid=25602" border="0">. Dzēšot nomenklatūras grupas ieraksts nav jāatver.</p> 
+
+Jaunas nomenklatūras grupas pievienošana
+````````````````````````````````````````
+
+Lai pievienotu jaunu nomenklatūras grupu, jāizmanto komanda no rīku
+joslas (Alt+P) un tiks atvērts jauns logs:
+
+
+
+
+
+
+
+
+Atvērtajā logā jāaizpilda nepieciešamie lauki:
+
+
+
+
+Virslīmenis : jānorāda augstākais līmenis, zem kura šis ieraksts tiks
+pievienots. Ja tāda nav, tad jānorāda izvēlne [NAV];
+
+Kods: jānorāda grupas nosaukuma saīsinājums, kas dos iespēju iepirkuma
+dokumentos ātrāk atrast nepieciešamo grupu:
+
+Nosaukums : norāda grupas pilnu nosaukumu
+
+Statuss : jānorāda statuss, vai dati uz šo ierakstu tiks vadīti, vai
+nē (rekomendējams likt statusu "Aizliegt datu ievadi", ja šī grupa
+tiks izmantota kā augstākā līmeņa un kalpos datu apvienošanai);
+
+
+Nodoklis : jānorāda kāda nodokļa likmenorēķina dokumentā būs
+konkrētajai nomenklatūras grupai.
+
+
+
+Uzņēmuma grāmatvedim laukos, kas paredzēti grāmatvedisko kontu
+ievadei, iespējams norādīt katrai grupai atbilstošos uzskaites,
+izdevumu un ieņēmumu kontus.
+
+
+
+Jaunizveidotais grupas ieraksts tiks saglabāts pēc komandas
+aktivizēšanas.
+
+
+
+Lai veiktu izmaiņas jaunizveidotajā nomenklatūras grupā, ieraksts ir
+jāatver ar komandu no rīku joslas un jāveic izmaiņas. Lai saglabātu
+veiktās izmaiņas ir jāizmanto komandu no rīku joslas.
+
+
+
+Lai dzēstu nomenklatūras grupu ir jāizmanto komanda . Dzēšot
+nomenklatūras grupas ieraksts nav jāatver.
+
+ 

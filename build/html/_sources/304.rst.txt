@@ -1,51 +1,192 @@
-.. 304 ====================Izejošais rēķins==================== <br>Norēķinu uzskaitei par uzņēmuma pircējiem un piegādātājiem, kā arī preču 
-uzskaitei noliktavās tiek izmantoti iepirkuma un pārdošanas dokumenti. <p></p>
-<p>Pārdošanas dokumenti ir pieejami no izvēlnes <span class="shadow">&gt;Dokumenti &gt; Norēķini &gt; Pārdošanas dokumenti</span></p><p></p><h4>Jauna&nbsp;pārdošanas dokumenta pievienošana <br></h4>
-
-Izmantojot Pārdošanas 
-dokumentus, tiek realizēts preces, krājumi vai pakalpojumi uzņēmuma pircējiem. Iespējams izmantot dažādus pārdošanas dokumentu veidus, kurus iespējams definēt Norēķinu Sarakstos:<a href="?ssw=33&amp;skf_id=157">Pārdošanas dokumentu veidi</a>. 
-<p align="justify">&nbsp;</p>
-
-<p align="justify">Lai pievienotu jaunu pārdošanas dokumentu, atrodoties 
-zem moduļa "Norēķini", sadaļas "Dokumenti", jāizvēlas pārdošanas
-dokumentu žurnāls un komanda <img src="Skin/help/img.aspx?pid=24879" border="0">&nbsp; vai arī jāizvēlas Norēķini-&gt;Jauns-&gt;Pārdošanas dokuments un tiks atvērts jauns pārdošanas dokuments:</p><p></p><br><img src="Skin/help/img.aspx?pid=26474" border="0"><br><h4>Pārdošanas&nbsp;dokumenta virsraksta aizpildīšana</h4>
-
-<p align="justify">Lai aizpildītu&nbsp;Pārdošanas dokumenta Virsrakstu, nepieciešams:</p><p align="justify"><br></p>
-<p align="justify"><span id="iozo_content_ctl00_lbltxt" class="txt"><b>1.</b> Izvēlēties iepirkuma dokumenta veidu, nospiežot uz dokumenta veida nosaukumu:</span></p>
-<p align="justify">&nbsp;</p>
-<p align="justify"><span id="iozo_content_ctl00_lbltxt" class="txt"><img src="Skin/help/img.aspx?pid=26475" border="0"><br></span></p>
-<p align="justify">&nbsp;</p>
-<p align="justify">Pārdošanas&nbsp;dokumenta veidi ir definējami Sarakstā: <a href="/help/?ssw=33&amp;skf_id=157">Pārdošanas dokumentu veidi</a></p><p><strong></strong>&nbsp;</p>
-<p><b>2.</b> Nepieciešams aizpildīt pārējos laukus Pārdošanas dokumenta virsrakstā:</p><p><br></p><p><img src="Skin/help/img.aspx?pid=26476" border="0"><br></p><p><br></p><p> <b>Numurs:</b> lauks tiek aizpildīts automātiski un paredzēts uzņēmuma iekšējai uzskaitei. Numuri programmā tiek automātiski veidoti pēc kārtas;</p>
-<p><b>Datums:</b> nepieciešams norādīt pārdošanas dokumenta izrakstīšanas datumu;</p><p> <b>Nolikt.:</b> nepieciešams norādīt noliktavu, no kuras pakalpojums/preces tiek izrakstīta;</p>
-<p><span id="iozo_content_ctl00_lbltxt" class="txt"><img src="Skin/help/img.aspx?pid=24545" border="0"></span>Ja uzņēmums uzskaita&nbsp;izejošās preces, krājumus, inventāru pa noliktavām, tad programmā jāizveido tik <a href="?ssw=33&amp;skf_id=142">Noliktavas</a> cik nepieciešams. Noliktava jānorāda pārdošanas dokumentu aizpildīšanā, pat, ja operācija nav saistīta ar preču kustību noliktavās. <br></p><p><b>Dokuments:</b> izvēloties dokumenta veidu "Pavadzīme", nepieciešams aizpildīt šos laukus, izvēloties sēriju un numuru sarakstā, kas ievadīti <a href="?ssw=33&amp;skf_id=180">Stingrās uzskaites dokumentu</a> žurnālā.<br></p><b>Pircējs:</b> nepieciešams izvēlēties partneri no saraksta. <br>
+.. 304 ====================Izejošais rēķins==================== 
+Norēķinu uzskaitei par uzņēmuma pircējiem un piegādātājiem, kā arī
+preču uzskaitei noliktavās tiek izmantoti iepirkuma un pārdošanas
+dokumenti.
 
 
-<p><span id="iozo_content_ctl00_lbltxt" class="txt"><img src="Skin/help/img.aspx?pid=24545" border="0"></span>Ja pircējs nav datu bāzē, izmantojot komandu <img src="/help/Skin/help/img.aspx?pid=24743" border="0">&nbsp;atveras partneru saraksta logs un ir iespējams pievienot jaunu pircēju partneru sarakstā. Lai pievienotu jaunu <a href="?ssw=33&amp;skf_id=312">Partneri</a>, jāizmanto komanda <img src="/help/Skin/help/img.aspx?pid=24879" border="0">&nbsp;no rīku joslas un atveras jauna partnera ievades kartiņa.</p>
-<b>Apmaksas veids:</b> <span id="iozo_content_ctl00_lbltxt" class="txt">iespēja norādīt pārdošanas dokumenta apmaksas termiņu. Šo termiņu iespējams piesaistīt konkrētam partnerim, definējot to <a href="?ssw=33&amp;skf_id=112">Partnera</a> aprakstā, sadaļā "Pārējie dati";</span>
-<p><b>Termiņš:</b> <span id="iozo_content_ctl00_lbltxt" class="txt">lauks tiek aprēķināts automātiski, ja aizpildīts lauks - apmaksas veids. </span></p>
-<p><b>Paskaidrojums:</b> brīvi definējams lauks. Paskaidrojumu iespējams ievadīt ar roku vai izvēlēties jau iepriekš sagatavotu paskaidrojuma tekstu. <br></p><p><span id="iozo_content_ctl00_lbltxt" class="txt"><img src="Skin/help/img.aspx?pid=24545" border="0">Lai pievienotu jaunu <a href="?ssw=33&amp;skf_id=370">Paskaidrojuma tekstu</a>, jāizmanto komanda <img src="Skin/help/img.aspx?pid=24635" border="0">un pievienot.</span></p><h4>Pārdošanas&nbsp;dokumenta satura aizpildīšana</h4>
+Pārdošanas dokumenti ir pieejami no izvēlnes >Dokumenti > Norēķini >
+Pārdošanas dokumenti
 
 
-<p>Lai aizpildītu Pārdošanas dokumenta Saturu, dokumenta satura daļā nepieciešams izmantot komandu <img src="/help/Skin/help/img.aspx?pid=24879" border="0">&nbsp;un tiks atvērts pārdošanas satura logs:</p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26477" border="0"><br></p>
-<p>&nbsp;</p>
-<p>Aizpildot satura laukus, vispirms nepieciešams norādīt iepirkuma veidu: krājums, pakalpojums, pamatlīdzeklis vai prece:</p><p><br></p><img src="Skin/help/img.aspx?pid=26478" border="0"><br><p>&nbsp;</p>
-<p>Tālāk nepieciešams norādīt preces nosaukumu, uzņēmumā izmantotās dimensijas un norādīt satura ieraksta daudzumu,&nbsp;summu un nodokli. Lai saglabātu satura ierakstu, jāizmanto komanda <img src="/help/Skin/help/img.aspx?pid=24867" border="0">&nbsp;vai komanda <img src="/help/Skin/help/img.aspx?pid=24617" border="0">&nbsp;lai atceltu satura ieraksta rindu. Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas kopsummā veido dokumenta Virsrakstā norādīto summu. Lai pievienotu nākamo satura ierakstu, jāizmanto komanda <img src="/help/Skin/help/img.aspx?pid=24879" border="0">.</p><p><br></p><p>Sagatavotās pavadzīmes apakšējā daļā iespējams izvēlēties valūtu, pavadzīmes izsniedzēju un saņēmēju:&nbsp;</p><p><br></p><p><img src="Skin/help/img.aspx?pid=26479" border="0"><br></p><p><br></p><p><b>Valūta:</b> iespēja izvēlēties saņemtā iepirkuma dokumenta valūtu.Ja valūta ir LVL, tad blakus esošais lauks "Kurss" būs tukšs. Ievadot 
-kādu no citām valūtām, piemēram, EUR, blakus laukā "Kurss" automātiski 
-parādīsies Latvijas Bankas kurss uz rēķina saņemšanas datumu. <br></p>
-<p><img src="Skin/help/img.aspx?pid=24545" border="0">Ja valūtas
- kurss dienas sākumā nav ievadīts, tad parādīsies lodziņš kur tiks 
-piedāvāts ielādēt Latvijas bankas valūtas kursus uz rēķina saņemšanas 
-dienu. Lai ielādētu Bankas kursus ir jāizvēlas komanda <img src="Skin/help/img.aspx?pid=24902" border="0">. Nospiežot pogu <img src="Skin/help/img.aspx?pid=24867" border="0">&nbsp;tiks
- ielādēti visi Latvijas Banka kursi tām valūtām, kuras ir definētas 
-programmā. Iepirkuma dokumentā parādīsies attiecīgajai dokumenta valūtai
- atbilstošais kurss.</p>
-<p>Izsniedza: Atbildīgā persona no <a href="?ssw=33&amp;skf_id=112">Partneru</a> saraksta.<br></p><h4>Pārdošanas dokumenta grāmatošana</h4>
 
-<p>Pārdošanas&nbsp;dokumentu iespējams grāmatot no atvērta&nbsp;Pārdošanas dokumenta vai izvēloties (iezīmējot) dokumentu&nbsp;Pārdošanas dokumentu žurnālā. Lai iegrāmatotu&nbsp;Pārdošanas dokumentu, nepieciešams vispirms apstiprināt dokumentu, izmantojot komandu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24740" border="0">&nbsp;no rīku joslas. Apstiprinātu dokumentu ir iespējams grāmatot, izmantojot komandu <img src="/help/Skin/help/img.aspx?pid=24741" border="0">. Dokumentu grāmatošanu skatīt <a href="/help/?ssw=33&amp;skf_id=14044">Dokumentu grāmatošanas principi</a>.</p>
 
-<h4>Pievienotā&nbsp;pārdošanas dokumenta labošana</h4>
+Jaunapārdošanas dokumenta pievienošana
+Izmantojot Pārdošanas dokumentus, tiek realizēts preces, krājumi vai
+pakalpojumi uzņēmuma pircējiem. Iespējams izmantot dažādus pārdošanas
+dokumentu veidus, kurus iespējams definēt Norēķinu
+Sarakstos:`Pārdošanas dokumentu veidi`_.
 
-<p>Labojumus saglabātajā&nbsp;Pārdošanas dokumentā iespējams veikt atverot Pārdošanas dokumentu, kurš vienlaicīgi pieejams apskatei/labošanai&nbsp;pārdošanas dokumentu žurnālā. Lai veiktu labojumus Pārdošanas dokumentā, šo dokumentu nepieciešams atvērt, izmantojot komandu <img src="/help/Skin/help/img.aspx?pid=24709" border="0">&nbsp;no rīku joslas un atvērtajā ierakstā iespējams veikt nepieciešamos labojumus. Pēc labojumu veikšanas, veiktās izmaiņas iespējams <img src="/help/Skin/help/img.aspx?pid=24867" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p><p></p> 
+
+Lai pievienotu jaunu pārdošanas dokumentu, atrodoties zem moduļa
+"Norēķini", sadaļas "Dokumenti", jāizvēlas pārdošanas dokumentu
+žurnāls un komanda vai arī jāizvēlas Norēķini->Jauns->Pārdošanas
+dokuments un tiks atvērts jauns pārdošanas dokuments:
+
+
+
+
+
+
+Pārdošanasdokumenta virsraksta aizpildīšana
+```````````````````````````````````````````
+
+Lai aizpildītuPārdošanas dokumenta Virsrakstu, nepieciešams:
+
+
+
+
+**1.** Izvēlēties iepirkuma dokumenta veidu, nospiežot uz dokumenta
+veida nosaukumu:
+
+
+
+
+
+
+
+
+Pārdošanasdokumenta veidi ir definējami Sarakstā: `Pārdošanas
+dokumentu veidi`_
+
+
+
+**2.** Nepieciešams aizpildīt pārējos laukus Pārdošanas dokumenta
+virsrakstā:
+
+
+
+
+
+
+
+
+
+
+**Numurs:** lauks tiek aizpildīts automātiski un paredzēts uzņēmuma
+iekšējai uzskaitei. Numuri programmā tiek automātiski veidoti pēc
+kārtas;
+
+**Datums:** nepieciešams norādīt pārdošanas dokumenta izrakstīšanas
+datumu;
+
+**Nolikt.:** nepieciešams norādīt noliktavu, no kuras
+pakalpojums/preces tiek izrakstīta;
+
+Ja uzņēmums uzskaitaizejošās preces, krājumus, inventāru pa
+noliktavām, tad programmā jāizveido tik `Noliktavas`_ cik
+nepieciešams. Noliktava jānorāda pārdošanas dokumentu aizpildīšanā,
+pat, ja operācija nav saistīta ar preču kustību noliktavās.
+
+
+**Dokuments:** izvēloties dokumenta veidu "Pavadzīme", nepieciešams
+aizpildīt šos laukus, izvēloties sēriju un numuru sarakstā, kas
+ievadīti `Stingrās uzskaites dokumentu`_ žurnālā.
+
+**Pircējs:** nepieciešams izvēlēties partneri no saraksta.
+
+Ja pircējs nav datu bāzē, izmantojot komandu atveras partneru saraksta
+logs un ir iespējams pievienot jaunu pircēju partneru sarakstā. Lai
+pievienotu jaunu `Partneri`_, jāizmanto komanda no rīku joslas un
+atveras jauna partnera ievades kartiņa.
+**Apmaksas veids:** iespēja norādīt pārdošanas dokumenta apmaksas
+termiņu. Šo termiņu iespējams piesaistīt konkrētam partnerim,
+definējot to `Partnera`_ aprakstā, sadaļā "Pārējie dati";
+**Termiņš:** lauks tiek aprēķināts automātiski, ja aizpildīts lauks -
+apmaksas veids.
+
+**Paskaidrojums:** brīvi definējams lauks. Paskaidrojumu iespējams
+ievadīt ar roku vai izvēlēties jau iepriekš sagatavotu paskaidrojuma
+tekstu.
+
+
+Lai pievienotu jaunu `Paskaidrojuma tekstu`_, jāizmanto komanda un
+pievienot.
+
+
+Pārdošanasdokumenta satura aizpildīšana
+```````````````````````````````````````
+
+Lai aizpildītu Pārdošanas dokumenta Saturu, dokumenta satura daļā
+nepieciešams izmantot komandu un tiks atvērts pārdošanas satura logs:
+
+
+
+
+
+
+
+
+Aizpildot satura laukus, vispirms nepieciešams norādīt iepirkuma
+veidu: krājums, pakalpojums, pamatlīdzeklis vai prece:
+
+
+
+
+
+
+
+Tālāk nepieciešams norādīt preces nosaukumu, uzņēmumā izmantotās
+dimensijas un norādīt satura ieraksta daudzumu,summu un nodokli. Lai
+saglabātu satura ierakstu, jāizmanto komanda vai komanda lai atceltu
+satura ieraksta rindu. Dokumenta saturs var sastāvēt no vairākiem
+satura ierakstiem, kas kopsummā veido dokumenta Virsrakstā norādīto
+summu. Lai pievienotu nākamo satura ierakstu, jāizmanto komanda .
+
+
+
+
+Sagatavotās pavadzīmes apakšējā daļā iespējams izvēlēties valūtu,
+pavadzīmes izsniedzēju un saņēmēju:
+
+
+
+
+
+
+
+
+
+
+**Valūta:** iespēja izvēlēties saņemtā iepirkuma dokumenta valūtu.Ja
+valūta ir LVL, tad blakus esošais lauks "Kurss" būs tukšs. Ievadot
+kādu no citām valūtām, piemēram, EUR, blakus laukā "Kurss" automātiski
+parādīsies Latvijas Bankas kurss uz rēķina saņemšanas datumu.
+
+
+Ja valūtas kurss dienas sākumā nav ievadīts, tad parādīsies lodziņš
+kur tiks piedāvāts ielādēt Latvijas bankas valūtas kursus uz rēķina
+saņemšanas dienu. Lai ielādētu Bankas kursus ir jāizvēlas komanda .
+Nospiežot pogu tiks ielādēti visi Latvijas Banka kursi tām valūtām,
+kuras ir definētas programmā. Iepirkuma dokumentā parādīsies
+attiecīgajai dokumenta valūtai atbilstošais kurss.
+
+Izsniedza: Atbildīgā persona no `Partneru`_ saraksta.
+
+
+
+Pārdošanas dokumenta grāmatošana
+````````````````````````````````
+
+Pārdošanasdokumentu iespējams grāmatot no atvērtaPārdošanas dokumenta
+vai izvēloties (iezīmējot) dokumentuPārdošanas dokumentu žurnālā. Lai
+iegrāmatotuPārdošanas dokumentu, nepieciešams vispirms apstiprināt
+dokumentu, izmantojot komandu no rīku joslas. Apstiprinātu dokumentu
+ir iespējams grāmatot, izmantojot komandu . Dokumentu grāmatošanu
+skatīt `Dokumentu grāmatošanas principi`_.
+
+
+
+Pievienotāpārdošanas dokumenta labošana
+```````````````````````````````````````
+
+Labojumus saglabātajāPārdošanas dokumentā iespējams veikt atverot
+Pārdošanas dokumentu, kurš vienlaicīgi pieejams
+apskatei/labošanaipārdošanas dokumentu žurnālā. Lai veiktu labojumus
+Pārdošanas dokumentā, šo dokumentu nepieciešams atvērt, izmantojot
+komandu no rīku joslas un atvērtajā ierakstā iespējams veikt
+nepieciešamos labojumus. Pēc labojumu veikšanas, veiktās izmaiņas
+iespējams vai .
+
+
+
+ 

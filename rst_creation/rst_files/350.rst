@@ -1,75 +1,207 @@
-.. 350 ==========================Kases ieņēmumu orderis========================== <p>&nbsp;</p>
-<p>Kases ieņēmumu orderis jāveido, kad tiek saņemta nauda kasē no uzņēmuma darījuma partneriem. Kases ieņēmumu orderi tiek saglabāti dokumentu žurnālā <a href="/help/?ssw=33&amp;skf_id=227">Kases ieņēmumi</a>, un dokumentam ir iebūvēta standarta izdrukas forma. Darījuma atšifrēšanai pa finanšu (EK) kodiem, jāaizpilda dokumenta saturs. Lai dokumenta izdrukā parādītos grāmatojumu konti, dokuments pirms izdrukāšanas ir jāiegrāmato.</p>
-<h4>Jauna&nbsp;Kases ieņēmumu ordera&nbsp;pievienošana</h4>
-<p>Izvēloties dokumenta veidu Kases ieņēmumu orderis, tiks atvērts jauns logs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24995" border="0"></p>
-<h5>Kases&nbsp;ieņēmumu ordera&nbsp;Virsraksta aizpildīšana</h5>
-<p>&nbsp;</p>
-<p>Lai aizpildītu Kases&nbsp;ieņēmumu ordera Virsrakstu, nepieciešams:</p>
-<p>&nbsp;</p>
-<p>1. Norādīt Uzņēmuma kasi, uz kuru&nbsp;saņemta nauda kasē no uzņēmuma darījuma partneriem:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24826" border="0"></p>
-<p>&nbsp;</p>
-<p>2. Izvēlēties Datumu, kurā šis&nbsp;Kases&nbsp;ieņēmumu orderis&nbsp;tiek veidots:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24811" border="0"></p>
-<p>&nbsp;</p>
-<p>3.&nbsp;Ievadīt kopējo Kases&nbsp;ieņēmumu ordera summu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24812" border="0"></p>
-<p>&nbsp;</p>
-<p>4. No saraksta izvēlēties nepieciešamo&nbsp;<strong>Maksātāju</strong> - Juridisku vai fizisku personu, no kura nauda kasē tiek saņemta:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24859" border="0"></p>
-<p>&nbsp;</p>
-<p>5. No saraksta izvēlēties nepieciešamo <strong>Personu</strong> - fizisku personu, no kuras nauda kasē tiek saņemta:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24828" border="0"></p>
-<p>&nbsp;</p>
-<p>Aizpildot lauku <strong>Persona</strong>, lauks <strong>Pers.dok.</strong> tiks aizpildīts automātiski, pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24862" border="0"></p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Noformējot skaidras naudas operāciju Juridiskai personai, laukā <strong>Piegādātājs</strong> jāvada Juridiskās personas nosaukums un laukā <strong>Persona</strong> - Fiziskās personas nosaukums, kura šo Juridisko personu pārstāv. Noformējot skaidras naudas operāciju fiziskai personai, gan laukā <strong>Piegādātājs</strong>, gan <strong>Persona</strong>, jānorāda Fiziskas personas nosaukums. </p>
-<h5>Kases ieņēmumu ordera&nbsp;Satura aizpildīšana</h5>
-<p>Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams nospiest pogu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24818" border="0"></p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto summu.&nbsp;Pievienot nākamo satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24708" border="0">.</p>
-<h5>Kases&nbsp;ieņēmumu ordera Pamatojuma aizpildīšana</h5>
-<p><br>Kases&nbsp;ieņēmuma ordera&nbsp;lauks&nbsp;<strong>Pamatojums</strong> tiek drukāts kases&nbsp;ieņēmumu ordera rindā Pamatojums. </p>
-<p>Lauku Kases&nbsp;ieņēmumu ordera<strong> Pamatojums</strong>, iespējams aizpildīt manuāli vai izvēloties no <a href="/help/?ssw=33&amp;skf_id=136">Kases paskaidrojumu saraksta</a>:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24835" border="0"></p>
-<p>&nbsp;</p>
-<h5>Dokumentu piesaiste Kases ieņēmumu orderim</h5>
-<p>&nbsp;</p>
-<p>Kases ieņēmumu orderim iespējams piesaistīt&nbsp;Stingrās uzskaites dokumentus&nbsp;no <a href="/help/?ssw=33&amp;skf_id=286">Darījumu apliecinošo kvīšu</a>, <a href="/help/?ssw=33&amp;skf_id=252">Kultūras un citu pasākumu ieejas biļešu</a>&nbsp;vai <a href="/help/?ssw=33&amp;skf_id=773">Caurlaižu</a>&nbsp;žurnāla,&nbsp;nospiežot uz lauka Dokumenti labajā pusē esošās lupas pogas un pievienojot nepieciešamo Stingrās uzskaites dokumentu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24868" border="0"></p>
-<p>&nbsp;</p>
-<p>Kad izvēlēts nepieciešamais uzskaites dokuments un ierakstīta dokumenta summa, ierakstu iespējams pievienot, nospiežot <img src="/help/Skin/help/img.aspx?pid=24874" border="0">&nbsp;vai arī, ja nevēlaties dokumentu pievienot - <img src="/help/Skin/help/img.aspx?pid=24875" border="0">.</p>
-<p>&nbsp;</p>
-<p>Lai izvēlētos uzskaites dokumentus piesaistītu Kases ieņēmumu orderim, logā "Darījumu apliecinošās kvītis" nepieciešams nospiest <img src="/help/Skin/help/img.aspx?pid=24876" border="0">&nbsp;un dokuments tiks&nbsp;pievienots Kases ieņēmumu orderim:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24877" border="0"></p>
-<p>&nbsp;</p>
-<p>Kad visi nepieciešamie lauki ir aizpildīti, Kases ieņēmumu orderis ir sagatavots un to ir iespējams:</p>
-<p>1. Saglabāt,&nbsp;nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;-&nbsp;dokuments tiks saglabāts un būs pieejams apskatei/labošanai/grāmatošanai&nbsp;<a href="/help/?ssw=33&amp;skf_id=227">Kases ieņēmumu žurnālā</a>.</p>
-<p>2. Apstiprināt, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24740" border="0">&nbsp;- Kases ieņēmumu orderis tiks Apstiprināts un to būs iespējams Grāmatot.</p>
-<h4>Kases ieņēmumu ordera&nbsp;grāmatošana</h4>
-<p>Kases ieņēmumu orderi&nbsp;iespējams grāmatot no atvērta dokumenta vai izvēloties (iezīmējot)&nbsp;dokumentu <a href="/help/?ssw=33&amp;skf_id=227">Kases ieņēmumu žurnālā</a>.</p>
-<p>Lai iegrāmatotu Kases ieņēmumu orderi, dokumentu nepieciešams Apstiprināt, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24740" border="0">.</p>
-<p>Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24741" border="0">.</p>
-<p>&nbsp;</p>
-<p>Instrukcija - <a href="/help/?ssw=33&amp;skf_id=14044">Dokumentu grāmatošanas principi</a></p>
-<h4>Pievienotā&nbsp;Kases ieņēmumu ordera labošana</h4>
-<p>Labojumus saglabātajā&nbsp;dokumentā iespējams veikt atverot dokumentu Kases ieņēmumu orderis, kurš pieejams apskatei/labošanai&nbsp;<a href="/help/?ssw=33&amp;skf_id=227">Kases ieņēmumu žurnālā</a>.</p>
-<p>Lai veiktu labojumus,&nbsp;dokumentu&nbsp;nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24709" border="0">&nbsp;(ALT+A), un&nbsp;atvērtajā&nbsp;ierakstā iespējams veikt&nbsp;nepieciešamos labojumus:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24878" border="0"><br></p>
-<p>&nbsp;</p>
-<p>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p> 
+.. 350 ==========================Kases ieņēmumu orderis========================== 
+
+
+Kases ieņēmumu orderis jāveido, kad tiek saņemta nauda kasē no
+uzņēmuma darījuma partneriem. Kases ieņēmumu orderi tiek saglabāti
+dokumentu žurnālā `Kases ieņēmumi`_, un dokumentam ir iebūvēta
+standarta izdrukas forma. Darījuma atšifrēšanai pa finanšu (EK)
+kodiem, jāaizpilda dokumenta saturs. Lai dokumenta izdrukā parādītos
+grāmatojumu konti, dokuments pirms izdrukāšanas ir jāiegrāmato.
+
+
+JaunaKases ieņēmumu orderapievienošana
+``````````````````````````````````````
+
+Izvēloties dokumenta veidu Kases ieņēmumu orderis, tiks atvērts jauns
+logs:
+
+
+
+
+
+
+Kasesieņēmumu orderaVirsraksta aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai aizpildītu Kasesieņēmumu ordera Virsrakstu, nepieciešams:
+
+
+
+1. Norādīt Uzņēmuma kasi, uz kurusaņemta nauda kasē no uzņēmuma
+darījuma partneriem:
+
+
+
+
+
+
+
+2. Izvēlēties Datumu, kurā šisKasesieņēmumu orderistiek veidots:
+
+
+
+
+
+
+
+3.Ievadīt kopējo Kasesieņēmumu ordera summu:
+
+
+
+
+
+
+
+4. No saraksta izvēlēties nepieciešamo Maksātāju - Juridisku vai
+fizisku personu, no kura nauda kasē tiek saņemta:
+
+
+
+
+
+
+
+5. No saraksta izvēlēties nepieciešamo Personu - fizisku personu, no
+kuras nauda kasē tiek saņemta:
+
+
+
+
+
+
+
+Aizpildot lauku Persona , lauks Pers.dok. tiks aizpildīts automātiski,
+pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:
+
+
+
+
+
+
+
+Noformējot skaidras naudas operāciju Juridiskai personai, laukā
+Piegādātājs jāvada Juridiskās personas nosaukums un laukā Persona -
+Fiziskās personas nosaukums, kura šo Juridisko personu pārstāv.
+Noformējot skaidras naudas operāciju fiziskai personai, gan laukā
+Piegādātājs , gan Persona , jānorāda Fiziskas personas nosaukums.
+
+
+Kases ieņēmumu orderaSatura aizpildīšana
+++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams
+nospiest pogu un tiks atvērts operācijas satura logs, kurā
+nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās
+dimensijas) un norādīt satura ieraksta summu:
+
+
+
+
+
+
+
+Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
+kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
+satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu .
+
+
+Kasesieņēmumu ordera Pamatojuma aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+Kasesieņēmuma orderalauks Pamatojums tiek drukāts kasesieņēmumu ordera
+rindā Pamatojums.
+
+Lauku Kasesieņēmumu ordera Pamatojums , iespējams aizpildīt manuāli
+vai izvēloties no `Kases paskaidrojumu saraksta`_:
+
+
+
+
+
+
+
+
+Dokumentu piesaiste Kases ieņēmumu orderim
+++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Kases ieņēmumu orderim iespējams piesaistītStingrās uzskaites
+dokumentusno `Darījumu apliecinošo kvīšu`_, `Kultūras un citu pasākumu
+ieejas biļešu`_vai `Caurlaižu`_žurnāla,nospiežot uz lauka Dokumenti
+labajā pusē esošās lupas pogas un pievienojot nepieciešamo Stingrās
+uzskaites dokumentu:
+
+
+
+
+
+
+
+Kad izvēlēts nepieciešamais uzskaites dokuments un ierakstīta
+dokumenta summa, ierakstu iespējams pievienot, nospiežot vai arī, ja
+nevēlaties dokumentu pievienot - .
+
+
+
+Lai izvēlētos uzskaites dokumentus piesaistītu Kases ieņēmumu orderim,
+logā "Darījumu apliecinošās kvītis" nepieciešams nospiest un dokuments
+tikspievienots Kases ieņēmumu orderim:
+
+
+
+
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti, Kases ieņēmumu orderis ir
+sagatavots un to ir iespējams:
+
+1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
+apskatei/labošanai/grāmatošanai`Kases ieņēmumu žurnālā`_.
+
+2. Apstiprināt, nospiežot rīku joslā pogu - Kases ieņēmumu orderis
+tiks Apstiprināts un to būs iespējams Grāmatot.
+
+
+Kases ieņēmumu orderagrāmatošana
+````````````````````````````````
+
+Kases ieņēmumu orderiiespējams grāmatot no atvērta dokumenta vai
+izvēloties (iezīmējot)dokumentu `Kases ieņēmumu žurnālā`_.
+
+Lai iegrāmatotu Kases ieņēmumu orderi, dokumentu nepieciešams
+Apstiprināt, nospiežot rīku joslā pogu .
+
+Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu .
+
+
+
+Instrukcija - `Dokumentu grāmatošanas principi`_
+
+
+PievienotāKases ieņēmumu ordera labošana
+````````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu Kases
+ieņēmumu orderis, kurš pieejams apskatei/labošanai`Kases ieņēmumu
+žurnālā`_.
+
+Lai veiktu labojumus,dokumentunepieciešams atvērt, izmantojot rīku
+joslas pogu (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos
+labojumus:
+
+
+
+
+
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+ 

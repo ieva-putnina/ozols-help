@@ -1,17 +1,47 @@
-.. 50 =========================Datu apmaiņa ar banku========================= <P>&nbsp;</P>
-<P><SPAN class="labelis "></SPAN>Grāmatvedības sistēmā Ozols ir iebūvētas iespējas izmantot banku elektroniskās norēķinu sistēmas. Sasaiste ar banku sistēmām nodrošina datu apmaiņu starp programmām, paātrinot datu apstrādes procesus.</P>
-<H5>Sasaiste ar banku elektronisko norēķinu sistēmām nodrošina:</H5>
-<UL>
-<LI>Sagatavoto maksājuma uzdevumu eksportu<BR>Sagatavotos maksājuma uzdevumus, budžeta maksājuma uzdevumus, valūtas maksājuma uzdevumus un starptautiskos maksājuma uzdevumus var eksportēt no grāmatvedības sistēmas Ozols, lai pēc tam tos importētu banku elektronisko norēķinu sistēmā un nosūtītu uz banku izpildei.
-<LI><SPAN class="">Kontu izrakstu importu grāmatvedības sistēmā</SPAN><BR>No banku elektronisko norēķinu sistēmām automātiski tiek importēti un saglabāti OZOLS datu bāzē ienākošie maksājumi, bankas komisijas, debetkaršu norēķinu un citi dokumenti.</LI></UL>
-<P>&nbsp;</P>
-<P>Sasaiste ar banku elektronisko norēķinu sistēmām nodrošina tikai datu eksportu un importu starp grāmatvedības un bankas norēķinu programmām. Datu apmaiņas iespēju var lietot, ja tiek izmantota kāda no banku piedāvātajām elektronisko norēķinu sistēmām un banka ir nodrošinājusi savā sistēmā datu importa un eksporta iespējas. </P>
-<P>&nbsp;</P>
-<P>Datu apmaiņa šobrīd ir iespējama ar sejojošām banku elektronisko norēķinu sistēmām: <BR></P>
-<UL>
-<LI>Telehansanet (Hansabanka) 
-<LI>Telehansa 6 (Hansabanka) 
-<LI>Akmens (Unibanka) 
-<LI>HipoNet (Hipotēku un zemes banka) 
-<LI>Valsts kases elektronisko norēķinu sistēma 
-<LI>FiDAViSta elektroniskie norēķini&nbsp; <BR></LI></UL> .. toctree::   :maxdepth: 6    65.rst   64.rst
+.. 50 =========================Datu apmaiņa ar banku========================= 
+
+
+Grāmatvedības sistēmā Ozols ir iebūvētas iespējas izmantot banku
+elektroniskās norēķinu sistēmas. Sasaiste ar banku sistēmām nodrošina
+datu apmaiņu starp programmām, paātrinot datu apstrādes procesus.
+
+
+Sasaiste ar banku elektronisko norēķinu sistēmām nodrošina:
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++ Sagatavoto maksājuma uzdevumu eksportu Sagatavotos maksājuma
+uzdevumus, budžeta maksājuma uzdevumus, valūtas maksājuma uzdevumus un
+starptautiskos maksājuma uzdevumus var eksportēt no grāmatvedības
+sistēmas Ozols, lai pēc tam tos importētu banku elektronisko norēķinu
+sistēmā un nosūtītu uz banku izpildei.
++ Kontu izrakstu importu grāmatvedības sistēmā No banku elektronisko
+  norēķinu sistēmām automātiski tiek importēti un saglabāti OZOLS datu
+  bāzē ienākošie maksājumi, bankas komisijas, debetkaršu norēķinu un
+  citi dokumenti.
+
+
+
+
+Sasaiste ar banku elektronisko norēķinu sistēmām nodrošina tikai datu
+eksportu un importu starp grāmatvedības un bankas norēķinu programmām.
+Datu apmaiņas iespēju var lietot, ja tiek izmantota kāda no banku
+piedāvātajām elektronisko norēķinu sistēmām un banka ir nodrošinājusi
+savā sistēmā datu importa un eksporta iespējas.
+
+
+
+Datu apmaiņa šobrīd ir iespējama ar sejojošām banku elektronisko
+norēķinu sistēmām:
+
+
+
++ Telehansanet (Hansabanka)
++ Telehansa 6 (Hansabanka)
++ Akmens (Unibanka)
++ HipoNet (Hipotēku un zemes banka)
++ Valsts kases elektronisko norēķinu sistēma
++ FiDAViSta elektroniskie norēķini
+
+
+ .. toctree::   :maxdepth: 6    65.rst   64.rst

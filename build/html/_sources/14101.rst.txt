@@ -1,66 +1,174 @@
-.. 14101 ==============================Rēķinu sūtīšana pa e-pastu============================== <P>&nbsp;</P>
-<P>Rēķinu sūtīšana pa e-pastu kalpo ērtākai un ātrākai elektroniska formāta rēķinu nosūtīšanai.</P>
-<H5>Rēķinu sagatavošana sūtīšanai&nbsp;pa e-pastu.</H5>
-<P>Rēķinus sagatavo, veidojot&nbsp;maksājuma plānu un <A href="/help/?ssw=65&amp;skf_id=6510">ģenerējot rēķinus</A>, vai&nbsp;arī <A href="/help/?ssw=33&amp;skf_id=304">izveidojot pārdošanas dokumentu</A>.</P>
-<P>&nbsp;</P>
-<P>Priekšnosacījumi sekmīgai rēķinu nosūtīšanai elektroniskā formātā pa e-pastu</P>
-<P>&nbsp;</P>
-<P>1. Pirms&nbsp;rēķinu <A href="/help/?ssw=65&amp;skf_id=6510">ģenerēšanas</A> vai&nbsp;<A href="/help/?ssw=33&amp;skf_id=304">veidošanas</A>,&nbsp;<A href="/help/?ssw=33&amp;skf_id=312">partneru kartiņā</A>&nbsp;&nbsp;jabūt norādītam korespondējošam e-pastam un ieliktam ķeksītim - Automātiski sūtīt rēķinus un apmaksas atgādinātājus pa e-pastu:</P>
-<P><IMG border=0 src="/help/Skin/help/img.aspx?pid=26375"></P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>2. Ja rēķins jau ir sagatavots,<A href="/help/?ssw=33&amp;skf_id=204">Pārdošanas dokumentu žurnālā</A> nepieciešams pārbaudīt, vai jau esošo rēķinu klientiem ir norādīta korespondējošā e-pasta adrese. </P>
-<P>&nbsp;</P>
-<P>Lai to izdarītu, <A href="/help/?ssw=33&amp;skf_id=204">Pārdošanas dokumentu žurnālā</A>&nbsp;nepieciešams pievienot papildus kolonnu e-pasts, rīku joslā nospiežot pogu &nbsp;<IMG border=0 src="/help/Skin/help/img.aspx?pid=26016">:</P>
-<P>&nbsp;</P>
-<P><IMG border=0 src="/help/Skin/help/img.aspx?pid=26017"></P>
-<P>&nbsp;</P>
-<P>Ja kolonnā E-pasts nebūs e-pasta adrese, tad izvēlētais rēķins netiks nosūtīts:</P>
-<P>&nbsp;</P>
-<P><IMG border=0 src="/help/Skin/help/img.aspx?pid=26018"></P>
-<P>&nbsp;</P>
-<P>Ja kolonnā e-pasts būs e-pasts/i, tad attiecīgajam Partnerim rēķinu būs iespējams nosūtīt uz norādīto e-pastu:</P>
-<P>&nbsp;</P>
-<P><IMG border=0 src="/help/Skin/help/img.aspx?pid=26019"></P>
-<P>&nbsp;</P>
-<P>Lai&nbsp;Pārdošanas dokumentu žurnālā&nbsp;esošā rēķina klientam pievienotu korespondējošo e-pasta adresi - jāatver rēķinu un, ar dubultklikšķi uz pircēja nosaukuma pirmo lauku, jāatver &nbsp;Partnera kartiņu. Jāatver Partnera kartiņas sadaļa Pārējie dati, un jāieraksta korespondējošais e-pasts un jāieliek ķeksītis "Sūtīt rēķinus un apmaksas atgādinājumus uz e-pastu":</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>Pēc korespondējošā e-pasta adreses ierakstīšanas, jāsaglabā Partnera kartiņa, jāaizver rēķins un, esot Pārdošanas dokumentu žurnālā, uz klaviatūras jānospiež taustiņš F5.&nbsp;Pēc F5 taustiņa nospiešanas, e-pasta&nbsp;kolonnā parādīsies ievadītais klienta korespondējošais&nbsp;e-pasts.</P>
-<P>&nbsp;</P>
-<P>Ja <A href="/help/?ssw=33&amp;skf_id=312">partneru kartiņā</A>&nbsp;būs&nbsp;aizpildīts lauks&nbsp;korespondējošais e-pasts, tad <A href="/help/?ssw=65&amp;skf_id=6510">ģenerējot</A>&nbsp;vai <A href="/help/?ssw=33&amp;skf_id=304">izveidojot</A> rēķinu, e-pasta adreses lauks tiks aizpildīts automātiski.</P>
-<P>&nbsp;</P>
-<H5>Rēķinu sūtīšana&nbsp;pa e-pastu</H5>
-<P>Lai nosūtītu rēķinu&nbsp;pa e-pastu, <A href="/help/?ssw=33&amp;skf_id=204">pārdošanas dokumentus</A>&nbsp;iespējams&nbsp;atlasīt pēc nepieciešamajiem filtra kritērijiem (Dokumenta veida, Datuma, Termiņa vai citiem):</P>
-<P>&nbsp;</P>
-<P><IMG border=0 src="/help/Skin/help/img.aspx?pid=26021"></P>
-<P>&nbsp;</P>
-<P>Lai&nbsp;vajadzīgie dati tiktu atlasīti,&nbsp;jānospiež poga <IMG border=0 src="/help/Skin/help/img.aspx?pid=25944">.</P>
-<P>&nbsp;</P>
-<P>Pēc vajadzīgo datu atlasīšanas, nepieciešams aktivizēt multi iezīmēšanas komandu, lai atzīmētu rēķinus, kurus sūtīt uz e-pastu:</P>
-<P>&nbsp;</P>
-<P>&nbsp;&nbsp;&nbsp;1. Ar taustiņu kombināciju Ctrl+Y</P>
-<P>vai</P>
-<P>&nbsp;&nbsp;&nbsp;2. <A href="/help/?ssw=65&amp;skf_id=14051">Rīku</A> joslā uzspiežot uz Multi iezīmēšanas ikonas <IMG border=0 src="/help/Skin/help/img.aspx?pid=25897"></P>
-<P>&nbsp;</P>
-<P>Atzīmēt nepieciešamos ierakstus iespējams, nospiežot uz klaviatūras taustiņu CTRL, to turot un ar peles kreiso taustiņu atzīmējot nepieciešamos ierakstus. Lai atzīmētu vairākus apgabalus, nepieciešams izmantot klavitatūras taustiņu Shift.</P>
-<P>&nbsp;</P>
-<P>Atzīmējot attiecīgos dokumentus, kuriem ir e-pasta adrese un kurus ir nepieciešams izsūtīt, <A href="/help/?ssw=65&amp;skf_id=14051">rīku</A>&nbsp;joslā jānospiež poga <IMG border=0 src="/help/Skin/help/img.aspx?pid=25814">&nbsp;un jāizvēlas funkcija:&nbsp;atlasīto/iezīmēto dokumentu sūtīšana pa e-pastu.</P>
-<P>&nbsp;</P>
-<P><IMG border=0 src="/help/Skin/help/img.aspx?pid=26022"></P>
-<P>&nbsp;</P>
-<P>Pēc funkcijas izvēles, programma parādīs paziņojumu par to cik dokumenti ir atlasīti apstiprināti un dokumentu skaitu, kuriem nav norādīts e-pasts:</P>
-<P>&nbsp;</P>
-<P><IMG border=0 src="/help/Skin/help/img.aspx?pid=26023"></P>
-<P>&nbsp;</P>
-<P><IMG border=0 src="/help/Skin/help/img.aspx?pid=24545">Obligāti aizpildāmais logs ir&nbsp;<STRONG>No kā - </STRONG>ja šis logs nebūs aizpildīts, tad programmu e-pastu nosūtīt neļaus.</P>
-<P>&nbsp;</P>
-<P>Ja logs No kā ir aizpildīts, tad&nbsp;e-pastu nosūtīšanai nepieciešams&nbsp;nospiest pogu <IMG border=0 src="/help/Skin/help/img.aspx?pid=26024">.</P>
-<P>&nbsp;</P>
-<P>Pēc pogas sūtīt nospiešanas&nbsp;programma sagatavos un nosūtīs atlasītos rēķinus Partneriem, piedāvājot iespēju apskatīt vēstules: </P>
-<P>&nbsp;</P>
-<P><IMG border=0 src="/help/Skin/help/img.aspx?pid=26025"></P>
-<P>&nbsp;</P>
-<P>Nospiežot pogu&nbsp;JĀ, programma piedāvās apskatīt nosūtītos e-pastus partneriem. Spiežot pogu NĒ, nosūtīšanas funkcijas darbs tiks pabeigts.</P>
-<P>Ieraksti ar nosūtītajiem rēķiniem tiek saglabāti Pasta modulī <A href="/help/?ssw=33&amp;skf_id=298">nosūtīto vēstuļu žurnālā</A>.</P> 
+.. 14101 ==============================Rēķinu sūtīšana pa e-pastu============================== 
+
+
+Rēķinu sūtīšana pa e-pastu kalpo ērtākai un ātrākai elektroniska
+formāta rēķinu nosūtīšanai.
+
+
+Rēķinu sagatavošana sūtīšanaipa e-pastu.
+++++++++++++++++++++++++++++++++++++++++
+
+Rēķinus sagatavo, veidojotmaksājuma plānu un `ģenerējot rēķinus`_,
+vaiarī `izveidojot pārdošanas dokumentu`_.
+
+
+
+Priekšnosacījumi sekmīgai rēķinu nosūtīšanai elektroniskā formātā pa
+e-pastu
+
+
+
+1. Pirmsrēķinu `ģenerēšanas`_ vai`veidošanas`_,`partneru
+kartiņā`_jabūt norādītam korespondējošam e-pastam un ieliktam ķeksītim
+- Automātiski sūtīt rēķinus un apmaksas atgādinātājus pa e-pastu:
+
+
+
+
+
+
+
+2. Ja rēķins jau ir sagatavots,`Pārdošanas dokumentu žurnālā`_
+nepieciešams pārbaudīt, vai jau esošo rēķinu klientiem ir norādīta
+korespondējošā e-pasta adrese.
+
+
+
+Lai to izdarītu, `Pārdošanas dokumentu žurnālā`_nepieciešams pievienot
+papildus kolonnu e-pasts, rīku joslā nospiežot pogu :
+
+
+
+
+
+
+
+Ja kolonnā E-pasts nebūs e-pasta adrese, tad izvēlētais rēķins netiks
+nosūtīts:
+
+
+
+
+
+
+
+Ja kolonnā e-pasts būs e-pasts/i, tad attiecīgajam Partnerim rēķinu
+būs iespējams nosūtīt uz norādīto e-pastu:
+
+
+
+
+
+
+
+LaiPārdošanas dokumentu žurnālāesošā rēķina klientam pievienotu
+korespondējošo e-pasta adresi - jāatver rēķinu un, ar dubultklikšķi uz
+pircēja nosaukuma pirmo lauku, jāatver Partnera kartiņu. Jāatver
+Partnera kartiņas sadaļa Pārējie dati, un jāieraksta korespondējošais
+e-pasts un jāieliek ķeksītis "Sūtīt rēķinus un apmaksas atgādinājumus
+uz e-pastu":
+
+
+
+
+
+
+
+Pēc korespondējošā e-pasta adreses ierakstīšanas, jāsaglabā Partnera
+kartiņa, jāaizver rēķins un, esot Pārdošanas dokumentu žurnālā, uz
+klaviatūras jānospiež taustiņš F5.Pēc F5 taustiņa nospiešanas,
+e-pastakolonnā parādīsies ievadītais klienta korespondējošaise-pasts.
+
+
+
+Ja `partneru kartiņā`_būsaizpildīts laukskorespondējošais e-pasts, tad
+`ģenerējot`_vai `izveidojot`_ rēķinu, e-pasta adreses lauks tiks
+aizpildīts automātiski.
+
+
+
+
+Rēķinu sūtīšanapa e-pastu
++++++++++++++++++++++++++
+
+Lai nosūtītu rēķinupa e-pastu, `pārdošanas
+dokumentus`_iespējamsatlasīt pēc nepieciešamajiem filtra kritērijiem
+(Dokumenta veida, Datuma, Termiņa vai citiem):
+
+
+
+
+
+
+
+Laivajadzīgie dati tiktu atlasīti,jānospiež poga .
+
+
+
+Pēc vajadzīgo datu atlasīšanas, nepieciešams aktivizēt multi
+iezīmēšanas komandu, lai atzīmētu rēķinus, kurus sūtīt uz e-pastu:
+
+
+
+1. Ar taustiņu kombināciju Ctrl+Y
+
+vai
+
+2. `Rīku`_ joslā uzspiežot uz Multi iezīmēšanas ikonas
+
+
+
+Atzīmēt nepieciešamos ierakstus iespējams, nospiežot uz klaviatūras
+taustiņu CTRL, to turot un ar peles kreiso taustiņu atzīmējot
+nepieciešamos ierakstus. Lai atzīmētu vairākus apgabalus, nepieciešams
+izmantot klavitatūras taustiņu Shift.
+
+
+
+Atzīmējot attiecīgos dokumentus, kuriem ir e-pasta adrese un kurus ir
+nepieciešams izsūtīt, `rīku`_joslā jānospiež poga un jāizvēlas
+funkcija:atlasīto/iezīmēto dokumentu sūtīšana pa e-pastu.
+
+
+
+
+
+
+
+Pēc funkcijas izvēles, programma parādīs paziņojumu par to cik
+dokumenti ir atlasīti apstiprināti un dokumentu skaitu, kuriem nav
+norādīts e-pasts:
+
+
+
+
+
+
+
+Obligāti aizpildāmais logs ir No kā - ja šis logs nebūs aizpildīts,
+tad programmu e-pastu nosūtīt neļaus.
+
+
+
+Ja logs No kā ir aizpildīts, tade-pastu nosūtīšanai
+nepieciešamsnospiest pogu .
+
+
+
+Pēc pogas sūtīt nospiešanasprogramma sagatavos un nosūtīs atlasītos
+rēķinus Partneriem, piedāvājot iespēju apskatīt vēstules:
+
+
+
+
+
+
+
+Nospiežot poguJĀ, programma piedāvās apskatīt nosūtītos e-pastus
+partneriem. Spiežot pogu NĒ, nosūtīšanas funkcijas darbs tiks
+pabeigts.
+
+Ieraksti ar nosūtītajiem rēķiniem tiek saglabāti Pasta modulī
+`nosūtīto vēstuļu žurnālā`_.
+
+ 

@@ -1,39 +1,86 @@
-.. 6901 ========================Degvielas pasūtījumi======================== <P>Tehniskās prasības Veiksmīgam darbam ar Degvielas pasūtījumu moduli nodrošina interneta pārlūkprogrammas Internet Explorer 5.5 vai 6.0 SP1, Netscape Navigator 7.0 vai Mozilla Firefox 1.5. Lūdzu, pārliecinieties vai Jūs izmantojat minētās pārlūkprogrammas. <BR>Pārlūkprogrammu jaunākās versijas Jūs varat lejupielādēt to izstrādātāju interneta mājaslapās <A href="http://www.microsoft.com">www.microsoft.com</A>,<A href="http://www.netscape.com">www.netscape.com</A>, <A href="http://www.getfirefox.com">www.getfirefox.com</A>. <BR>Pārlūkprogrammai, kura tiek izmantota darbam ar Degvielas pasūtījumiem, jāatļauj sīkdatņu (cookies) izmantošana un ērtākai lietošanai ieteicams atļaut arī uznirstošo (pop-up) logu izmantošanu.</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Lai uzsāktu darbu ar Degvielas pasūtījumiem:</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25686" border=0> Atverot Explorer interneta pārlūkprogrammu, Izvēlņu joslā jānospiež poga Tools un jāizvēlas Internet Options..(skatīt attēlu):</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25553" border=0></P>
-<P>&nbsp;</P>
-<UL>
-<LI>
-<DIV align=left>tiek atvērts Internet Options logs, kur sadaļā Privacy pie Pop-up Blocker jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25554" border=0> (skatīt attēlu):</DIV></LI></UL>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25555" border=0></P>
-<UL>
-<LI>
-<DIV align=left>tiek atvērts logs Pop-up Blocker Settings, kur augšējā lodziņā jāieraksta adrese <STRONG>mnth.lv</STRONG> un jānospiež poga Add (skatīt attēlu):</DIV></LI></UL>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25556" border=0></P>
-<UL>
-<LI>
-<DIV align=left>kad adrese ir pievienota, ar pogu Close jāaizver logs, un Internet Options logā jānospiež poga OK.</DIV></LI></UL>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25687" border=0>Atverot Mozilla interneta pārlūkprogrammu, rīku joslā jānospiež poga Tools un jāizvēlas Options... (skatīt attēlu):</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25676" border=0></P>
-<P>&nbsp;</P>
-<P>Tiek atvērts Options logs, un jāizvēlas sadaļa Content <IMG src="/help/Skin/help/img.aspx?pid=25688" border=0>, un, pie Block pop-up windows, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25690" border=0>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25689" border=0></P>
-<P>&nbsp;</P>
-<P>Tiek atvērts Allowed Sites - Popups logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25692" border=0></P>
-<P>&nbsp;</P>
-<P>Lodziņā "Address of web site" jāieraksta adrese mnth.lv un jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25693" border=0>. Tad jāaizver logi, nospiežot pogu OK.</P>
-<UL>
-<LI>
-<DIV align=left>Interneta adreses logā jāieraksta adrese <A href="http://www.sales.mnth.lv"><STRONG>www.sales.mnth.lv</STRONG></A></DIV>
-<LI>
-<DIV align=left>jāieraksta lietotājvārds un parole, un jānospiež poga Apstiprināt, lai uzsāktu darbu ar Degvielas pasūtījumiem:</DIV></LI></UL>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25557" border=0></P>
-<UL>
-<LI>
-<DIV align=left>ievadot sākotnējo paroli pirmo reizi, drošības apsvērumu dēļ, programma piedāvās obligāto paroles maiņu. Turpmāk uzsākot darbu ar programmu, būs jālieto jaunā parole.</DIV></LI></UL> .. toctree::   :maxdepth: 6    6921.rst   6906.rst   6905.rst   6931.rst   6926.rst   6910.rst   6923.rst
+.. 6901 ========================Degvielas pasūtījumi======================== 
+Tehniskās prasības Veiksmīgam darbam ar Degvielas pasūtījumu moduli
+nodrošina interneta pārlūkprogrammas Internet Explorer 5.5 vai 6.0
+SP1, Netscape Navigator 7.0 vai Mozilla Firefox 1.5. Lūdzu,
+pārliecinieties vai Jūs izmantojat minētās pārlūkprogrammas.
+Pārlūkprogrammu jaunākās versijas Jūs varat lejupielādēt to
+izstrādātāju interneta mājaslapās
+`www.microsoft.com`_,`www.netscape.com`_, `www.getfirefox.com`_.
+Pārlūkprogrammai, kura tiek izmantota darbam ar Degvielas
+pasūtījumiem, jāatļauj sīkdatņu (cookies) izmantošana un ērtākai
+lietošanai ieteicams atļaut arī uznirstošo (pop-up) logu izmantošanu.
+
+Lai uzsāktu darbu ar Degvielas pasūtījumiem:
+
+Atverot Explorer interneta pārlūkprogrammu, Izvēlņu joslā jānospiež
+poga Tools un jāizvēlas Internet Options..(skatīt attēlu):
+
+
+
+
+
+
+
+
++ tiek atvērts Internet Options logs, kur sadaļā Privacy pie Pop-up
+  Blocker jānospiež poga (skatīt attēlu):
+
+
+
+
+
++ tiek atvērts logs Pop-up Blocker Settings, kur augšējā lodziņā
+  jāieraksta adrese mnth.lv un jānospiež poga Add (skatīt attēlu):
+
+
+
+
+
++ kad adrese ir pievienota, ar pogu Close jāaizver logs, un Internet
+  Options logā jānospiež poga OK.
+
+
+Atverot Mozilla interneta pārlūkprogrammu, rīku joslā jānospiež poga
+Tools un jāizvēlas Options... (skatīt attēlu):
+
+
+
+
+
+
+
+Tiek atvērts Options logs, un jāizvēlas sadaļa Content , un, pie Block
+pop-up windows, jānospiež poga :
+
+
+
+
+
+
+
+Tiek atvērts Allowed Sites - Popups logs:
+
+
+
+
+
+
+
+Lodziņā "Address of web site" jāieraksta adrese mnth.lv un jānospiež
+poga . Tad jāaizver logi, nospiežot pogu OK.
+
+
++ Interneta adreses logā jāieraksta adrese ` www.sales.mnth.lv `_
++ jāieraksta lietotājvārds un parole, un jānospiež poga Apstiprināt,
+  lai uzsāktu darbu ar Degvielas pasūtījumiem:
+
+
+
+
+
++ ievadot sākotnējo paroli pirmo reizi, drošības apsvērumu dēļ,
+  programma piedāvās obligāto paroles maiņu. Turpmāk uzsākot darbu ar
+  programmu, būs jālieto jaunā parole.
+
+
+ .. toctree::   :maxdepth: 6    6921.rst   6906.rst   6905.rst   6931.rst   6926.rst   6910.rst   6923.rst

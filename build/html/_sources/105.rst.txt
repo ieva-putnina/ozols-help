@@ -1,4 +1,56 @@
-.. 105 ==============Cenu veidi============== <br>Sarakstā tiek saglabāti cenu veidi, kas tiek izmantoti <a href="?ssw=33&amp;skf_id=231">Cenošanas dokumentos</a> dažādu cenu noteikšanai <a href="?ssw=33&amp;skf_id=106">precēm</a>. Iespējams izveidot neierobežotu daudzumu cenu veidu, kurus iespējams piesaistīt pircējam , norādot atbilstošo cenu veidu&nbsp;<a href="?ssw=33&amp;skf_id=312">Partnera apraksta</a> sadaļā "Pārējie dati", lai tādā veidā atšķirīgām pircēju grupām varētu definēt atšķirīgus cenu veidus. <br><h4>Jauna Cenu veida pievienošana</h4>
-<p>Lai pievienotu jaunu Cenu veidu,&nbsp;rīku joslā jānospiež poga&nbsp;<img src="Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiks atvērts jauns logs:</p><p><br></p><p><img src="Skin/help/img.aspx?pid=26500" border="0"><br></p><br><p><strong>Nosaukums:</strong> Jāpiešķir cenas veida nosaukums (piemēram, patstāvīgo klientu cena)<br></p>
-<p>&nbsp;</p>
-<p>Izmantojot pogu <img src="Skin/help/img.aspx?pid=24708" border="0">, cenu veidam iespējams piesaistīt uz konkrētu datumu valūtu un valūtas kursu:<br></p><p><br></p><p><img src="Skin/help/img.aspx?pid=26501" border="0"></p><p><br></p><p><b>Veids:</b> lauks automātiski tiek aizpildīts no pievienotā cenas veida nosaukuma lauka;</p><p><b>Datums: </b>datums, uz kuru valūta un valūtas kurss tiek noteikts;</p><p><b>Valūta:</b> no saraksta iespējams izvēlēties atbilstošo valūtu, kas piesaistīta definētajam cenas veidam;</p><p><b>Kurss:</b> nepieciešams ievadīt valūtas kursu uz izvēlēto datumu.</p><p><br></p><p>Ieraksts tiks saglabāts, izpildot komandu <img src="Skin/help/img.aspx?pid=24710" border="0">.</p> 
+.. 105 ==============Cenu veidi============== 
+Sarakstā tiek saglabāti cenu veidi, kas tiek izmantoti `Cenošanas
+dokumentos`_ dažādu cenu noteikšanai `precēm`_. Iespējams izveidot
+neierobežotu daudzumu cenu veidu, kurus iespējams piesaistīt pircējam
+, norādot atbilstošo cenu veidu`Partnera apraksta`_ sadaļā "Pārējie
+dati", lai tādā veidā atšķirīgām pircēju grupām varētu definēt
+atšķirīgus cenu veidus.
+
+
+Jauna Cenu veida pievienošana
+`````````````````````````````
+
+Lai pievienotu jaunu Cenu veidu,rīku joslā jānospiež poga un tiks
+atvērts jauns logs:
+
+
+
+
+
+
+
+
+Nosaukums: Jāpiešķir cenas veida nosaukums (piemēram, patstāvīgo
+klientu cena)
+
+
+
+
+Izmantojot pogu , cenu veidam iespējams piesaistīt uz konkrētu datumu
+valūtu un valūtas kursu:
+
+
+
+
+
+
+
+
+
+
+**Veids:** lauks automātiski tiek aizpildīts no pievienotā cenas veida
+nosaukuma lauka;
+
+**Datums: **datums, uz kuru valūta un valūtas kurss tiek noteikts;
+
+**Valūta:** no saraksta iespējams izvēlēties atbilstošo valūtu, kas
+piesaistīta definētajam cenas veidam;
+
+**Kurss:** nepieciešams ievadīt valūtas kursu uz izvēlēto datumu.
+
+
+
+
+Ieraksts tiks saglabāts, izpildot komandu .
+
+ 

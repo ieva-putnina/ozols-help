@@ -1,11 +1,16 @@
-.. 14027 ==================Atlīdzību daļa================== <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">Atlīdzības daļas darbinieki:</P>
-<UL>
-<LI>
-<DIV class=MsoNormal style="MARGIN: 0cm 0cm 0pt 75pt; TEXT-INDENT: -18pt; mso-list: l0 level2 lfo1; tab-stops: list 75.0pt">ievada CSNRZRS informāciju par CSNg;</DIV></LI>
-<LI>
-<DIV class=MsoNormal style="MARGIN: 0cm 0cm 0pt 75pt; TEXT-INDENT: -18pt; mso-list: l0 level2 lfo1; tab-stops: list 75.0pt">ievada CSNRZRS Zaudējuma pieteikumu(us), kas attiecas uz&nbsp; ceļu satiksmes negadījumu. Zaudējuma pieteikums ir Atlīdzību lieta;</DIV></LI>
-<LI>
-<DIV class=MsoNormal style="MARGIN: 0cm 0cm 0pt 75pt; TEXT-INDENT: -18pt; mso-list: l0 level2 lfo1; tab-stops: list 75.0pt">pieņem un ievada sistēmā lēmumu par atlīdzības izmaksu Atlīdzības lietā;</DIV></LI>
-<LI>
-<DIV class=MsoNormal style="MARGIN: 0cm 0cm 0pt 75pt; TEXT-INDENT: -18pt; mso-list: l0 level2 lfo1; tab-stops: list 75.0pt">iesniedz <A href="/help/?ssw=42&amp;skf_id=14028" target=_self>Finanšu daļā</A> pieņemto lēmumu par atlīdzības izmaksu Atlīdzības lietā.</DIV></LI></UL> 
+.. 14027 ==================Atlīdzību daļa================== 
+
+
+Atlīdzības daļas darbinieki:
+
+
++ ievada CSNRZRS informāciju par CSNg;
++ ievada CSNRZRS Zaudējuma pieteikumu(us), kas attiecas uz ceļu
+  satiksmes negadījumu. Zaudējuma pieteikums ir Atlīdzību lieta;
++ pieņem un ievada sistēmā lēmumu par atlīdzības izmaksu Atlīdzības
+  lietā;
++ iesniedz `Finanšu daļā`_ pieņemto lēmumu par atlīdzības izmaksu
+  Atlīdzības lietā.
+
+
+ 

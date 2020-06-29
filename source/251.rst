@@ -1,31 +1,77 @@
-.. 251 ========================Darba līgumu žurnāls======================== <P><A href="/help/?ssw=33&amp;skf_id=251"></A>&nbsp;</P>
-<P>Darba līgumu žurnālā tiek saglabāti visi <A href="/help/?ssw=33&amp;skf_id=207">slodzei&nbsp;</A>pievienotie darba līgumi. </P>
-<P>Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Rīku joslā nopiežot pogu<IMG src="/help/Skin/help/img.aspx?pid=24535" border=0>(Ctrl+F), tiek atvērts filtra logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26089" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Datums:</STRONG> Filtrā iespēja atlasīt datus pēc&nbsp;līguma datuma no...līdz</P>
-<P><STRONG>Spēkā no:</STRONG> Filtrā iespēja atlasīt datus pēc&nbsp;līguma stāšanās spēkā&nbsp;datuma no...līdz</P>
-<P>&nbsp;</P>
-<P>Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25944" border=0>.</P>
-<H5>Jauna Darba līguma&nbsp;pievienošana </H5>
-<P>Darba līgumu strādājošajam iespējams pievienot:</P>
-<P>1. Strādājošā <A href="/help/?ssw=33&amp;skf_id=207">Slodzes</A> aprakstā, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25696" border=0>;</P>
-<P>&nbsp;</P>
-<P>2. Atrodoties&nbsp;<A href="/help/?ssw=33&amp;skf_id=251">Darba līgumu žurnālā</A>&nbsp;un rīku joslā&nbsp;nospiežot pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>;</P>
-<P>&nbsp;</P>
-<P>Lai aizpildītu Darba līgumu, jāizvēlas <A href="/help/?ssw=33&amp;skf_id=111">Strādājošais</A> (<A href="/help/?ssw=33&amp;skf_id=207">slodze</A> ), uz kuru attieksies darba līgums:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25737" border=0></P>
-<P>&nbsp;</P>
-<P>Informācija pārējos Darba līguma dokumenta laukos - Struktrūvienība, Amats, Slodzes veids, Pers.kategorija - automātiski tiek ielādēta no slodzes aprakstā norādītās.</P>
-<P>&nbsp;</P>
-<P>Laukā "Spēkā no", nepieciešams ievadīt Darba līguma spēkā stāšanās datumu, kā arī norādīt līguma termiņu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26090" border=0></P>
-<P>&nbsp;</P>
-<P>Darba līgumā iespējams ievadīt arī noteiktu pamatalgu: <IMG src="/help/Skin/help/img.aspx?pid=26091" border=0>&nbsp;- lauks ir informatīvs un netiek saistīts ar Strādājošā Algu aprēķinu!</P>
-<P>&nbsp;</P>
-<P>Dati tiek saglabāti, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>.</P>
-<P>&nbsp;</P>
-<P>Pievienotie un saglabātie dati tiek saglabāti&nbsp;<A href="/help/?ssw=33&amp;skf_id=251">Darba līgumu žurnālā</A>.</P> 
+.. 251 ========================Darba līgumu žurnāls======================== 
+``_
+
+Darba līgumu žurnālā tiek saglabāti visi `slodzei`_pievienotie darba
+līgumi.
+
+Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
+tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
+ekrāna formā. Rīku joslā nopiežot pogu (Ctrl+F), tiek atvērts filtra
+logs:
+
+
+
+
+
+
+
+Datums: Filtrā iespēja atlasīt datus pēclīguma datuma no...līdz
+
+Spēkā no: Filtrā iespēja atlasīt datus pēclīguma stāšanās spēkādatuma
+no...līdz
+
+
+
+Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
+
+
+Jauna Darba līgumapievienošana
+++++++++++++++++++++++++++++++
+
+Darba līgumu strādājošajam iespējams pievienot:
+
+1. Strādājošā `Slodzes`_ aprakstā, nospiežot pogu ;
+
+
+
+2. Atrodoties`Darba līgumu žurnālā`_un rīku joslānospiežot pogu ;
+
+
+
+Lai aizpildītu Darba līgumu, jāizvēlas `Strādājošais`_ (`slodze`_ ),
+uz kuru attieksies darba līgums:
+
+
+
+
+
+
+
+Informācija pārējos Darba līguma dokumenta laukos - Struktrūvienība,
+Amats, Slodzes veids, Pers.kategorija - automātiski tiek ielādēta no
+slodzes aprakstā norādītās.
+
+
+
+Laukā "Spēkā no", nepieciešams ievadīt Darba līguma spēkā stāšanās
+datumu, kā arī norādīt līguma termiņu:
+
+
+
+
+
+
+
+Darba līgumā iespējams ievadīt arī noteiktu pamatalgu: - lauks ir
+informatīvs un netiek saistīts ar Strādājošā Algu aprēķinu!
+
+
+
+Dati tiek saglabāti, nospiežot pogu .
+
+
+
+Pievienotie un saglabātie dati tiek saglabāti`Darba līgumu žurnālā`_.
+
+ 

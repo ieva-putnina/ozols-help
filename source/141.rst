@@ -1,35 +1,97 @@
-.. 141 ===============Banku konti=============== <p>&nbsp;</p>
-<p>Sarakstā tiek saglabāti uzņēmuma banku konti, un tajā var pievienot neierobežotu skaitu kontus. Banku konti tiek izmantoti bankas ieejošo un izejošo dokumentu sagatavošanā. Konta aprakstā var norādīt grāmatojumu kontu un sasaistīt ar uzņēmuma struktūrvienību, nodrošinot bankas dokumentu automatizētu grāmatošanu. Banku kontiem var noteikt elektronisko norēķinu sistēmu izmantošanu. Banku kontu var būt dažādās valūtās.</p>
-<h4>Jauna&nbsp;Bankas konta&nbsp;pievienošana:</h4>
-<p>Lai pievienotu jaunu Bankas kontu, rīku joslā&nbsp;jānospiež poga&nbsp;<img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiks atvērts jauns logs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24673" border="0"></p>
-<p>&nbsp;</p>
-<p>Atvērtajā&nbsp;Bankas konta&nbsp;apraksta logā iespējams norādīt&nbsp;Bankas kodu (saīsināts nosaukums), Nosaukumu, Norādīt uzņēmumu, uz kuru šis bankas konts ir attiecināms.</p>
-<p>&nbsp;</p>
-<p>Laukā Bankas konts, nepieciešams ierakstīt bankas konta numuru IBAN formātā un norādīt attiecīgās bankas kodu (Piemēram, HABALV22):</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24701" border="0"></p>
-<p>&nbsp;</p>
-<p>Laukā Valūta, nepieciešams norādīt bankas kontam atbilstošo valūtu:</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24702" border="0"></p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Ja uzņēmums izmanto&nbsp;multivalūtu kontu, tad Banku kontu sarakstā jāpievieno katrai valūtai atbilstošs ieraksts (bankas konts).</p>
-<p>&nbsp;</p>
-<p>Lai <a href="/help/?ssw=33&amp;skf_id=226">Bankas ieņēmumu</a>&nbsp;un <a href="/help/?ssw=33&amp;skf_id=224">Bankas izdevumu</a>&nbsp;dokumentu grāmatošanas procesu padarītu ērtāku un būtu iespēja grāmatot Bankas dokumentus, izmantojot <a href="/help/?ssw=33&amp;skf_id=135">Grāmatojumu šablonus</a>, bankas konta aprakstā,&nbsp;sadaļā Dažādi,&nbsp;nepieciešams piesaistīt grāmatvedisko kontu no <a href="/help/?ssw=33&amp;skf_id=114">Kontu plāna</a>:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24703" border="0"></p>
-<p>&nbsp;</p>
-<h5>Bankas elektronisko norēķinu sistēmas piesaiste uzņēmuma Bankas kontam</h5>
-<p>&nbsp;</p>
-<p>Lai izmantotu <a href="/help/?ssw=33&amp;skf_id=451">Datu apmaiņa ar banku</a>, pievienotajam Bankas kontam nepieciešams norādīt atbilstošu <a href="/help/?ssw=33&amp;skf_id=160">Bankas elektronisko norēķinu sistēmu</a>, izvēloties sistēmu no sarakstā piedāvātajām:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24704" border="0"></p>
-<p>&nbsp;</p>
-<p>Kad visi nepieciešamie lauki ir aizpildīti, lai saglabātu jaunu Bankas kontu, nepieciešams nospiest pogu <img src="/help/Skin/help/img.aspx?pid=24615" border="0">.</p>
-<h4>Pievienotā Bankas konta labošana:</h4>
-<p>Lai veiktu labojumus pievienotajā&nbsp;Bankas konta&nbsp;aprakstā, ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24709" border="0">&nbsp;(ALT+A), un&nbsp;atvērtajā&nbsp;ierakstā iespējams veikt&nbsp;nepieciešamos labojumus:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24707" border="0"></p>
-<p>&nbsp;</p>
-<p>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p>
-<p>&nbsp;</p> 
+.. 141 ===============Banku konti=============== 
+
+
+Sarakstā tiek saglabāti uzņēmuma banku konti, un tajā var pievienot
+neierobežotu skaitu kontus. Banku konti tiek izmantoti bankas ieejošo
+un izejošo dokumentu sagatavošanā. Konta aprakstā var norādīt
+grāmatojumu kontu un sasaistīt ar uzņēmuma struktūrvienību, nodrošinot
+bankas dokumentu automatizētu grāmatošanu. Banku kontiem var noteikt
+elektronisko norēķinu sistēmu izmantošanu. Banku kontu var būt dažādās
+valūtās.
+
+
+JaunaBankas kontapievienošana:
+``````````````````````````````
+
+Lai pievienotu jaunu Bankas kontu, rīku joslājānospiež poga un tiks
+atvērts jauns logs:
+
+
+
+
+
+
+
+AtvērtajāBankas kontaapraksta logā iespējams norādītBankas kodu
+(saīsināts nosaukums), Nosaukumu, Norādīt uzņēmumu, uz kuru šis bankas
+konts ir attiecināms.
+
+
+
+Laukā Bankas konts, nepieciešams ierakstīt bankas konta numuru IBAN
+formātā un norādīt attiecīgās bankas kodu (Piemēram, HABALV22):
+
+
+
+
+
+Laukā Valūta, nepieciešams norādīt bankas kontam atbilstošo valūtu:
+
+
+
+
+
+Ja uzņēmums izmantomultivalūtu kontu, tad Banku kontu sarakstā
+jāpievieno katrai valūtai atbilstošs ieraksts (bankas konts).
+
+
+
+Lai `Bankas ieņēmumu`_un `Bankas izdevumu`_dokumentu grāmatošanas
+procesu padarītu ērtāku un būtu iespēja grāmatot Bankas dokumentus,
+izmantojot `Grāmatojumu šablonus`_, bankas konta aprakstā,sadaļā
+Dažādi,nepieciešams piesaistīt grāmatvedisko kontu no `Kontu plāna`_:
+
+
+
+
+
+
+
+
+Bankas elektronisko norēķinu sistēmas piesaiste uzņēmuma Bankas kontam
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai izmantotu `Datu apmaiņa ar banku`_, pievienotajam Bankas kontam
+nepieciešams norādīt atbilstošu `Bankas elektronisko norēķinu
+sistēmu`_, izvēloties sistēmu no sarakstā piedāvātajām:
+
+
+
+
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti, lai saglabātu jaunu Bankas
+kontu, nepieciešams nospiest pogu .
+
+
+Pievienotā Bankas konta labošana:
+`````````````````````````````````
+
+Lai veiktu labojumus pievienotajāBankas kontaaprakstā, ierakstu
+nepieciešams atvērt, izmantojot rīku joslas pogu (ALT+A),
+unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+
+
+
+
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+
+
+ 

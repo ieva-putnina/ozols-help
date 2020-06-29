@@ -1,31 +1,126 @@
-.. 358 ==========================Norēķina dzēšanas akts========================== <br>Iepirkuma un pārdošanas dokumentu saistību dzēšanai tiek izmantoti Norēķinu dzēšanas akti<br>Norēķinu dzēšanas akti ir pieejami no izvēlnes &gt;Dokumenti &gt; Norēķini &gt; Norēķinu dzēšanas akti<br><h4>Jauna&nbsp;norēķinu dzēšanas akta pievienošana</h4>
+.. 358 ==========================Norēķina dzēšanas akts========================== 
+Iepirkuma un pārdošanas dokumentu saistību dzēšanai tiek izmantoti
+Norēķinu dzēšanas akti
+Norēķinu dzēšanas akti ir pieejami no izvēlnes >Dokumenti > Norēķini >
+Norēķinu dzēšanas akti
 
-<p align="justify">Ar&nbsp;norēķinu dzēšanas aktiem tiek dzēstas iepirkuma un pārdošanas dokumentu saistību summas, kuras nav iespējams&nbsp;nosegt ar bankas vai kases&nbsp;ieejošiem un izejošiem dokumentiem. <br></p>
-<p align="justify"><br></p>
-<p align="justify">Lai pievienotu jaunu norēķinu dzēšanas dokumentu, atrodoties zem moduļa "Norēķini", sadaļas "Dokumenti", jāizvēlas Norēķinu dzēšanas&nbsp;dokumentu žurnāls un komanda <img src="/help/Skin/help/img.aspx?pid=24879" border="0">&nbsp; vai arī jāizvēlas uzreiz dokuments "Norēķinu dzēšanas akts" un tiks atvērts jauns logs:</p>
-<p align="justify">&nbsp;</p>
-<p align="justify"><img src="Skin/help/img.aspx?pid=26489" border="0"><br></p>
-<p align="justify"><br></p><p align="justify">Sagatavojot norēķinu dzēšanas aktu, iespējams norādīt atbilstošo 
-dzēšanas akta veidu - Iepirkumu vai Pārdošanas norēķinu dzēšanas akts:</p>
-<p>&nbsp;</p>
-<p><strong>Iepirkuma&nbsp;norēķinu dzēšanas akts&nbsp;-</strong> Norēķinu dzēšanas akta veids. Ar iepirkuma norēķinu dzēšanas aktu tiek dzēstas iepirkuma dokumenta summas.</p>
-<p><strong>Pārdošanas&nbsp;norēķinu dzēšanas akts&nbsp;-</strong> Norēķinu dzēšanas akta veids. Ar&nbsp;pārdošanas norēķinu dzēšanas aktu tiek dzēstas iepirkuma dokumenta summas.</p><h4>Norēķinu dzēšanas akta&nbsp;virsraksta aizpildīšana</h4>
 
-<p align="justify">Lai aizpildītu&nbsp;Norēķinu dzēšanas akta&nbsp;Virsrakstu, nepieciešams aizpildīt sekojošus laukus dokumenta Virsrakstā:</p><p align="justify"><br></p><p align="justify"><img src="Skin/help/img.aspx?pid=26490" border="0"><br></p>
-<p align="justify">&nbsp;</p>
-<p align="justify"><b>Numurs:</b> lauks tiek aizpildīts automātiski, ģenerējot nākamo brīvo numuru pēc kārtas;</p><p align="justify"><b>Datums:</b> nepieciešams norādīt norēķinu dzēšanas akta datumu;</p><p align="justify"><b>Partneris</b>: no saraksta nepieciešams izvēlēties Partneri, kura iepirkumu vai pārdošanas dokuments tiks dzēsts;</p><p align="justify"><b>Summa:</b> nepieciešams norādīt norēķinu dzēšanas akta summu un valūtu;</p><p align="justify"><b>Pamatojums:</b> brīvā formā iespējams ievadīt pamatojuma informāciju par akta sagatavošanas iemesliem;<br></p>
-<h4>Norēķinu dzēšanas akta&nbsp;satura aizpildīšana</h4><p>Lai aizpildītu&nbsp;Norēķinu dzēšanas&nbsp;akta Saturu, dokumenta satura daļā nepieciešams izmantot komandu <img src="/help/Skin/help/img.aspx?pid=24879" border="0">&nbsp;un tiks atvērts&nbsp;norēķinu dzēšanas akta satura logs:</p>
-<p>&nbsp;</p>
-<p>&nbsp;<img src="Skin/help/img.aspx?pid=26491" border="0"><br></p>
-<p>&nbsp;</p>
-<p>Aizpildot satura lauku nepieciešams aizpildīt uzņēmumā izmantotās dimensijas. Summas lauks tiks aizpildīts automātiski no norēķinu dzēšanas akta virsraksta daļas.</p>
+Jaunanorēķinu dzēšanas akta pievienošana
+````````````````````````````````````````
 
-<p>Lai saglabātu satura ierakstu, jāizmanto komanda <img src="/help/Skin/help/img.aspx?pid=24867" border="0">&nbsp;vai komanda <img src="/help/Skin/help/img.aspx?pid=24617" border="0">, lai atceltu satura ieraksta rindu. Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas kopsummā veido dokumenta Virsrakstā norādīto summu. Lai pievienotu nākamo satura ierakstu, jāizmanto komanda <img src="/help/Skin/help/img.aspx?pid=24879" border="0">. <br></p>
+Arnorēķinu dzēšanas aktiem tiek dzēstas iepirkuma un pārdošanas
+dokumentu saistību summas, kuras nav iespējamsnosegt ar bankas vai
+kasesieejošiem un izejošiem dokumentiem.
 
-<h4>Norēķinu dzēšanas akta grāmatošana</h4>
 
-<p>Norēķinu dzēšanas aktu&nbsp;iespējams grāmatot no atvērta Norēķinu dzēšanas akta vai izvēloties (iezīmējot) dokumentu Norēķinu dzēšanas aktu žurnālā. Lai iegrāmatotu Norēķinu dzēšanas aktu, nepieciešams vispirms apstiprināt dokumentu, izmantojot komandu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24740" border="0">&nbsp;no rīku joslas. Apstiprinātu dokumentu ir iespējams grāmatot, izmantojot komandu <img src="/help/Skin/help/img.aspx?pid=24741" border="0">. Dokumentu grāmatošanu skatīt <a href="/help/?ssw=33&amp;skf_id=14044">Dokumentu grāmatošanas principi</a>.</p>
 
-<h4>Pievienotā norēķinu dzēšanas akta labošana</h4>
 
-<p>Labojumus saglabātajā&nbsp;Norēķinu dzēšanas aktā&nbsp;iespējams veikt atverot Norēķinu dzēšanas aktu, kurš vienlaicīgi pieejams apskatei/labošanai&nbsp;norēķinu dzēšanas aktu&nbsp;žurnālā. Lai veiktu labojumus norēķinu dzēšanas aktā, šo dokumentu nepieciešams atvērt, izmantojot komandu <img src="/help/Skin/help/img.aspx?pid=24709" border="0">&nbsp;no rīku joslas un atvērtajā ierakstā iespējams veikt nepieciešamos labojumus. Pēc labojumu veikšanas, veiktās izmaiņas iespējams <img src="/help/Skin/help/img.aspx?pid=24867" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0"></p> 
+
+Lai pievienotu jaunu norēķinu dzēšanas dokumentu, atrodoties zem
+moduļa "Norēķini", sadaļas "Dokumenti", jāizvēlas Norēķinu
+dzēšanasdokumentu žurnāls un komanda vai arī jāizvēlas uzreiz
+dokuments "Norēķinu dzēšanas akts" un tiks atvērts jauns logs:
+
+
+
+
+
+
+
+
+
+Sagatavojot norēķinu dzēšanas aktu, iespējams norādīt atbilstošo
+dzēšanas akta veidu - Iepirkumu vai Pārdošanas norēķinu dzēšanas akts:
+
+
+
+Iepirkumanorēķinu dzēšanas akts- Norēķinu dzēšanas akta veids. Ar
+iepirkuma norēķinu dzēšanas aktu tiek dzēstas iepirkuma dokumenta
+summas.
+
+Pārdošanasnorēķinu dzēšanas akts- Norēķinu dzēšanas akta veids.
+Arpārdošanas norēķinu dzēšanas aktu tiek dzēstas iepirkuma dokumenta
+summas.
+
+
+Norēķinu dzēšanas aktavirsraksta aizpildīšana
+`````````````````````````````````````````````
+
+Lai aizpildītuNorēķinu dzēšanas aktaVirsrakstu, nepieciešams aizpildīt
+sekojošus laukus dokumenta Virsrakstā:
+
+
+
+
+
+
+
+
+
+**Numurs:** lauks tiek aizpildīts automātiski, ģenerējot nākamo brīvo
+numuru pēc kārtas;
+
+**Datums:** nepieciešams norādīt norēķinu dzēšanas akta datumu;
+
+**Partneris**: no saraksta nepieciešams izvēlēties Partneri, kura
+iepirkumu vai pārdošanas dokuments tiks dzēsts;
+
+**Summa:** nepieciešams norādīt norēķinu dzēšanas akta summu un
+valūtu;
+
+**Pamatojums:** brīvā formā iespējams ievadīt pamatojuma informāciju
+par akta sagatavošanas iemesliem;
+
+
+
+Norēķinu dzēšanas aktasatura aizpildīšana
+`````````````````````````````````````````
+
+Lai aizpildītuNorēķinu dzēšanasakta Saturu, dokumenta satura daļā
+nepieciešams izmantot komandu un tiks atvērtsnorēķinu dzēšanas akta
+satura logs:
+
+
+
+
+
+
+
+
+Aizpildot satura lauku nepieciešams aizpildīt uzņēmumā izmantotās
+dimensijas. Summas lauks tiks aizpildīts automātiski no norēķinu
+dzēšanas akta virsraksta daļas.
+
+Lai saglabātu satura ierakstu, jāizmanto komanda vai komanda , lai
+atceltu satura ieraksta rindu. Dokumenta saturs var sastāvēt no
+vairākiem satura ierakstiem, kas kopsummā veido dokumenta Virsrakstā
+norādīto summu. Lai pievienotu nākamo satura ierakstu, jāizmanto
+komanda .
+
+
+
+
+Norēķinu dzēšanas akta grāmatošana
+``````````````````````````````````
+
+Norēķinu dzēšanas aktuiespējams grāmatot no atvērta Norēķinu dzēšanas
+akta vai izvēloties (iezīmējot) dokumentu Norēķinu dzēšanas aktu
+žurnālā. Lai iegrāmatotu Norēķinu dzēšanas aktu, nepieciešams vispirms
+apstiprināt dokumentu, izmantojot komandu no rīku joslas. Apstiprinātu
+dokumentu ir iespējams grāmatot, izmantojot komandu . Dokumentu
+grāmatošanu skatīt `Dokumentu grāmatošanas principi`_.
+
+
+
+Pievienotā norēķinu dzēšanas akta labošana
+``````````````````````````````````````````
+
+Labojumus saglabātajāNorēķinu dzēšanas aktāiespējams veikt atverot
+Norēķinu dzēšanas aktu, kurš vienlaicīgi pieejams
+apskatei/labošanainorēķinu dzēšanas aktužurnālā. Lai veiktu labojumus
+norēķinu dzēšanas aktā, šo dokumentu nepieciešams atvērt, izmantojot
+komandu no rīku joslas un atvērtajā ierakstā iespējams veikt
+nepieciešamos labojumus. Pēc labojumu veikšanas, veiktās izmaiņas
+iespējams vai
+
+ 

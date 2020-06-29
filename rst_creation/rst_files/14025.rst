@@ -1,9 +1,15 @@
-.. 14025 ================Instrukcijas================ <OL>
-<LI><A href="/help/?ssw=42&amp;skf_id=14030">CSNRZRS un OZOLS integrēšanas procesa apraksts</A></LI>
-<LI><A href="/help/?ssw=42&amp;skf_id=14026">Darba vietu apraksts</A></LI>
-<UL>
-<LI><A href="/help/?ssw=42&amp;skf_id=14027">Atlīdzību daļa</A></LI>
-<LI><A href="/help/?ssw=42&amp;skf_id=14028">Finanšu daļa</A></LI>
-<LI><A href="/help/?ssw=42&amp;skf_id=14029">Juridiskā daļa</A></LI></UL>
-<LI><A href="/help/?ssw=42&amp;skf_id=14031">Izmaksu veikšana atlīdzību lietās</A></LI></OL>
-<P>&nbsp;</P> .. toctree::   :maxdepth: 5    14030.rst   14026.rst   14031.rst
+.. 14025 ================Instrukcijas================ 
+
+#. `CSNRZRS un OZOLS integrēšanas procesa apraksts`_
+#. `Darba vietu apraksts`_
+
+    + `Atlīdzību daļa`_
+    + `Finanšu daļa`_
+    + `Juridiskā daļa`_
+
+#. `Izmaksu veikšana atlīdzību lietās`_
+
+
+
+
+ .. toctree::   :maxdepth: 5    14030.rst   14026.rst   14031.rst

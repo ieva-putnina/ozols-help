@@ -1,17 +1,52 @@
-.. 810 ===========Sektori=========== <P>&nbsp;</P>
-<P>CRM (Partneru) sarakstā iespējams nodefinēt uzņēmumā izmantotos Partneru sektorus, kas&nbsp;dod iespēju iegūt detalizētu informāciju par Partneriem, grupējot tos sektoru griezumā. Sektoru saraksts ir kokveida klasifikators, kas sniedz iespēju veidot sarakstu vairākos detalizācijas līmeņos.</P>
-<P>Lai pievienotu jaunu ierakstu esošajā sarakstā, rīku joslā nepieciešams nospiest pogu <IMG src="/help/Skin/help/img.aspx?pid=25605" border=0>, tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25940" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Virslīmenis</STRONG>: Iespēja norādīt augstāko sektoru līmeni, zem kura ieraksts atradīsies (Ja ieraksts tiek pievienots kā Virslīmenis, tad šajā laukā jāizvēlas iespēja [Nav])</P>
-<P><STRONG>Kods</STRONG>: Sektora pilnā nosaukuma saīsinājums</P>
-<P><STRONG>Nosaukums</STRONG>: Sektora nosaukums</P>
-<P><STRONG>Statuss</STRONG>: Ierakstam iespēja norādīt ieraksta tiesību statusu: [Atļaut datu ievadi] - ierakstiem, uz kuriem dati reāli tiks vadīti; [Aizliegt datu ievadi] - ierakstiem, kuri kalpos kā Virslīmeņi, informācija apkopošana, bet tiešā veidā dati vadīti netiks. </P>
-<P>Ieraksts tiks saglabāts, izpildot komandu <IMG src="/help/Skin/help/img.aspx?pid=24710" border=0>.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Lai datus par Partneriem varētu atlasīt Sektoru griezumā, izveidotos ierakstus no Sektoru klasifikatora nepieciešams piesaistīt <A href="/help/?ssw=33&amp;skf_id=112">Partneriem</A>, sadaļā "Pārējie dati":</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25941" border=0></P>
-<P>&nbsp;</P>
-<P>Nospiežot pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24710" border=0>, dati tiks saglabāti un CRM (Partneru) atskaitē <A href="/help/?ssw=33&amp;skf_id=883">Visi partneri</A>, kā arī citās atskaitēs (Tā piemēram,&nbsp;Virsgrāmatas atskaitēs-&gt;<A href="/help/?ssw=33&amp;skf_id=522">Konta izraksts</A>, u.c. (datu atlases kritērijus atzīmējot papildus filtrā&nbsp;)) datus būs iespējams atlasīt Sektoru klasifikatora griezumā.</P> 
+.. 810 ===========Sektori=========== 
+
+
+CRM (Partneru) sarakstā iespējams nodefinēt uzņēmumā izmantotos
+Partneru sektorus, kasdod iespēju iegūt detalizētu informāciju par
+Partneriem, grupējot tos sektoru griezumā. Sektoru saraksts ir
+kokveida klasifikators, kas sniedz iespēju veidot sarakstu vairākos
+detalizācijas līmeņos.
+
+Lai pievienotu jaunu ierakstu esošajā sarakstā, rīku joslā
+nepieciešams nospiest pogu , tiks atvērts jauns logs:
+
+
+
+
+
+
+
+Virslīmenis : Iespēja norādīt augstāko sektoru līmeni, zem kura
+ieraksts atradīsies (Ja ieraksts tiek pievienots kā Virslīmenis, tad
+šajā laukā jāizvēlas iespēja [Nav])
+
+Kods : Sektora pilnā nosaukuma saīsinājums
+
+Nosaukums : Sektora nosaukums
+
+Statuss : Ierakstam iespēja norādīt ieraksta tiesību statusu: [Atļaut
+datu ievadi] - ierakstiem, uz kuriem dati reāli tiks vadīti; [Aizliegt
+datu ievadi] - ierakstiem, kuri kalpos kā Virslīmeņi, informācija
+apkopošana, bet tiešā veidā dati vadīti netiks.
+
+Ieraksts tiks saglabāts, izpildot komandu .
+
+
+
+Lai datus par Partneriem varētu atlasīt Sektoru griezumā, izveidotos
+ierakstus no Sektoru klasifikatora nepieciešams piesaistīt
+`Partneriem`_, sadaļā "Pārējie dati":
+
+
+
+
+
+
+
+Nospiežot pogu , dati tiks saglabāti un CRM (Partneru) atskaitē `Visi
+partneri`_, kā arī citās atskaitēs (Tā piemēram,Virsgrāmatas
+atskaitēs->`Konta izraksts`_, u.c. (datu atlases kritērijus atzīmējot
+papildus filtrā)) datus būs iespējams atlasīt Sektoru klasifikatora
+griezumā.
+
+ 

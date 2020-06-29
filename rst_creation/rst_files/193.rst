@@ -1,9 +1,23 @@
-.. 193 =========================Uzņēmējdarbības veidi========================= <P>Uzņēmējdarbības veidu sarakstu iespējams izmantot pievienojot <A href="/help/?ssw=33&amp;skf_id=312">jaunu Partneri</A> (juridisku personu), kur tiek norādīts Uzņēmējdarbības veids:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25426" border=0></P>
-<P>Lai pievienotu jaunu Uzņēmējdarbības veidu, Rīku joslā jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=25417" border=0>, tiek atvērts logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25427" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Kods:</STRONG> saīsināts Uzņēmējdarbības veida nosaukums.</P>
-<P><STRONG>Nosaukums:</STRONG> Uzņēmējdarbības veida pilns nosaukums.</P> 
+.. 193 =========================Uzņēmējdarbības veidi========================= 
+Uzņēmējdarbības veidu sarakstu iespējams izmantot pievienojot `jaunu
+Partneri`_ (juridisku personu), kur tiek norādīts Uzņēmējdarbības
+veids:
+
+
+
+
+
+Lai pievienotu jaunu Uzņēmējdarbības veidu, Rīku joslā jānospiež poga
+, tiek atvērts logs:
+
+
+
+
+
+
+
+Kods: saīsināts Uzņēmējdarbības veida nosaukums.
+
+Nosaukums: Uzņēmējdarbības veida pilns nosaukums.
+
+ 

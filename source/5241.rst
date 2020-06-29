@@ -1,1 +1,2 @@
-.. 5241 ===============Uzstādījumi===============  .. toctree::   :maxdepth: 5    4468.rst
+.. 5241 ===============Uzstādījumi=============== 
+ .. toctree::   :maxdepth: 5    4468.rst

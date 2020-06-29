@@ -1,18 +1,65 @@
-.. 6521 ==========Polise========== <P>&nbsp;</P>
-<P>Darba režīms Polise paredzēts pilnas informācijas iegūšanai par Polisi - Polises pamatinformāciju, Brokeri, Asistentu, Piesaistītāju un komisijas %, kā arī maksājuma plāniem, pirmdokumentiem un grāmatojumiem saistībā ar šo polisi.</P>
-<P>&nbsp;</P>
-<P>Izvēloties darba režīmu Polise, tiks atvērts šāds logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25467" border=0></P>
-<P>&nbsp;</P>
-<H5>1. Polises apraksta Info lapa</H5>
-<P><!--StartFragment -->Info sadaļā jūs varēsiet redzēt visu informāciju, kas atiecās uz katru polišu līgumu. Šajā sadaļā jūs datus nevarēsiet izlabot, tikai aplūkot.<BR>Info sadaļa veidojas no sadaļas "Labot". Tiklīdz sadaļā labot jūs izdarīsiet kādus datu ierakstus tā šī informācija parādīsies sadaļā Info.<BR>Laukus kurus jūs varat aplūkot: </P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25469" border=0></P>
-<H5>2. Sadaļa "Labot"</H5>
-<H5>3. Komentāri</H5>
-<H5>4. Faili</H5>
-<H5>5. Pielikumi</H5>
-<H5>6. Maksājumu plāns</H5>
-<H5>7. Pirmdokumenti </H5>
-<H5>8. Grāmatojumi</H5>
-<H5>9. Bilande</H5> 
+.. 6521 ==========Polise========== 
+
+
+Darba režīms Polise paredzēts pilnas informācijas iegūšanai par Polisi
+- Polises pamatinformāciju, Brokeri, Asistentu, Piesaistītāju un
+komisijas %, kā arī maksājuma plāniem, pirmdokumentiem un
+grāmatojumiem saistībā ar šo polisi.
+
+
+
+Izvēloties darba režīmu Polise, tiks atvērts šāds logs:
+
+
+
+
+
+
+
+
+1. Polises apraksta Info lapa
++++++++++++++++++++++++++++++
+
+Info sadaļā jūs varēsiet redzēt visu informāciju, kas atiecās uz katru
+polišu līgumu. Šajā sadaļā jūs datus nevarēsiet izlabot, tikai
+aplūkot.
+Info sadaļa veidojas no sadaļas "Labot". Tiklīdz sadaļā labot jūs
+izdarīsiet kādus datu ierakstus tā šī informācija parādīsies sadaļā
+Info.
+Laukus kurus jūs varat aplūkot:
+
+
+
+
+2. Sadaļa "Labot"
++++++++++++++++++
+
+
+3. Komentāri
+++++++++++++
+
+
+4. Faili
+++++++++
+
+
+5. Pielikumi
+++++++++++++
+
+
+6. Maksājumu plāns
+++++++++++++++++++
+
+
+7. Pirmdokumenti
+++++++++++++++++
+
+
+8. Grāmatojumi
+++++++++++++++
+
+
+9. Bilande
+++++++++++
+
+ 

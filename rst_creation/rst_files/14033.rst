@@ -1,25 +1,90 @@
-.. 14033 =================================Komponentu un uzņēmuma izvēle================================= <H5>Lietotāju licenču, komponentu un uzņēmumu izmantošana</H5>
-<P>Vienlaicīgs lietotāju pieslēgums katram no komponentiem tiek ierobežots ar iegādāto licenču skaitu. Lietotājs var izmantot dažādu uzņēmumu datus. Uzņēmumu un komponentu datu lietošanu jānosaka sākot darbu ar sistēmu.</P>
-<H5>Pieteikšanās uzņēmuma un komponentu izmantošanai</H5>
-<P>Reģistrējoties sistēmā tiks parādīta komponentu izvēles ekrāna forma. </P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24699" border=0></P>
-<P>&nbsp;</P>
-<P>Kolonnā licenču skaits parādās uzņēmuma iegādāto licenču skaits. Komponentu izvēles ekrāna formā redzams, kuras komponentes var izmantot. Ja licenču skaits ir vienāds ar izmantoto licenču skaitu, tad pieslēgties šādam komponentam nebūs iespējams, jo jau tiek izmantotas visas iegādātās licences. </P>
-<P>&nbsp;</P>
-<P>Uzklikšķinot uz komponenta ieraksta, tiek atvērta informatīva ekrāna forma, kurā redzams, kuri lietotāji izmanto komponenta licences.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24700" border=0><BR></P>
-<P>Ja lietotāju ir vairāk, nekā iegādāto licenču un vienlaicīgs darbs ar komponentiem visiem nav iespējams, tad ekrāna formā (&gt;Palīgs &gt; Komponenti un uzņēmuma izvēle) jāaktivizē komanda Rādīt komponentu izvēli sākot darbu. Uzsākot darbu ar programmu, komponentu izvēles forma vienmēr tiks aktivizēta.</P>
-<P><BR><IMG src="/help/Skin/help/img.aspx?pid=24539" border=0></P>
-<P>&nbsp;</P>
-<P>Laukā Uzņēmums tiek parādīts uzņēmums, kura datiem lietotājs vēlas pieslēgties. Ja lietotājam ir pieejami vairāku uzņēmumu dati, tad sākot darbu ar sistēmu jānorāda viens uzņēmums – tas, kuram tiks veikta datu ievade un apstrāde.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24698" border=0></P>
-<P>&nbsp;</P>
-<P>Lai varētu veidot jaunus dokumentus, lietotājam sākot darbu ar sistēmu jānorāda viens uzņēmums, kura dati tiks lietoti.<BR>Lai parādītu visus lietotājam pieejamos uzņēmumu datus vienlaicīgi, jāaktivizē komanda Rādīt sarakstos visus pieejamos uzņēmumus. Šajā darba režīmā dokumentu žurnālos un atskaitēs varēs iegūt kopsavilkuma datus par visiem lietotāja uzņēmumiem, bet pievienot jaunus dokuments varēs tam uzņēmumam, kas uzsākot darbu norādīts laukā Uzņēmums.</P>
-<H5>Komponentu un uzņēmumu maiņa</H5>
-<P>Ja lietotājs ir strādājis ar programmu un lietojis noteikta uzņēmuma datus, tad pārslēgties uz cita uzņēmuma datiem var no darba režīma:</P>
-<P><SPAN class=C:\www\Portals\help.css>&gt; Palīgs &gt; Uzņēmuma izvēle</SPAN><BR>Lai pārslēgtos uz cita uzņēmuma datiem, jāizvēlas uzņēmums laukā Uzņēmums un var izmantot iespēju parādīt visu uzņēmumu datus kopā, aktivizējot komandu: <IMG src="/help/Skin/help/img.aspx?pid=24541" border=0></P>
-<H5>Atteikšanās no komponentu izmantošanas</H5>
-<P>Lai atteiktos no komponenta izmantošanas un to varētu izmantot citi lietotāji, ja ir ierobežots licenču skaits, jābeidz darbs ar programmu. <BR>Beidzot darbu ar programmu, tiek beigta arī komponentu izmantošana. </P> 
+.. 14033 =================================Komponentu un uzņēmuma izvēle================================= 
+
+Lietotāju licenču, komponentu un uzņēmumu izmantošana
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Vienlaicīgs lietotāju pieslēgums katram no komponentiem tiek
+ierobežots ar iegādāto licenču skaitu. Lietotājs var izmantot dažādu
+uzņēmumu datus. Uzņēmumu un komponentu datu lietošanu jānosaka sākot
+darbu ar sistēmu.
+
+
+Pieteikšanās uzņēmuma un komponentu izmantošanai
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+Reģistrējoties sistēmā tiks parādīta komponentu izvēles ekrāna forma.
+
+
+
+
+
+
+
+Kolonnā licenču skaits parādās uzņēmuma iegādāto licenču skaits.
+Komponentu izvēles ekrāna formā redzams, kuras komponentes var
+izmantot. Ja licenču skaits ir vienāds ar izmantoto licenču skaitu,
+tad pieslēgties šādam komponentam nebūs iespējams, jo jau tiek
+izmantotas visas iegādātās licences.
+
+
+
+Uzklikšķinot uz komponenta ieraksta, tiek atvērta informatīva ekrāna
+forma, kurā redzams, kuri lietotāji izmanto komponenta licences.
+
+
+
+
+
+
+Ja lietotāju ir vairāk, nekā iegādāto licenču un vienlaicīgs darbs ar
+komponentiem visiem nav iespējams, tad ekrāna formā (>Palīgs >
+Komponenti un uzņēmuma izvēle) jāaktivizē komanda Rādīt komponentu
+izvēli sākot darbu. Uzsākot darbu ar programmu, komponentu izvēles
+forma vienmēr tiks aktivizēta.
+
+
+
+
+
+
+Laukā Uzņēmums tiek parādīts uzņēmums, kura datiem lietotājs vēlas
+pieslēgties. Ja lietotājam ir pieejami vairāku uzņēmumu dati, tad
+sākot darbu ar sistēmu jānorāda viens uzņēmums – tas, kuram tiks
+veikta datu ievade un apstrāde.
+
+
+
+
+
+
+
+Lai varētu veidot jaunus dokumentus, lietotājam sākot darbu ar sistēmu
+jānorāda viens uzņēmums, kura dati tiks lietoti.
+Lai parādītu visus lietotājam pieejamos uzņēmumu datus vienlaicīgi,
+jāaktivizē komanda Rādīt sarakstos visus pieejamos uzņēmumus. Šajā
+darba režīmā dokumentu žurnālos un atskaitēs varēs iegūt kopsavilkuma
+datus par visiem lietotāja uzņēmumiem, bet pievienot jaunus dokuments
+varēs tam uzņēmumam, kas uzsākot darbu norādīts laukā Uzņēmums.
+
+
+Komponentu un uzņēmumu maiņa
+++++++++++++++++++++++++++++
+
+Ja lietotājs ir strādājis ar programmu un lietojis noteikta uzņēmuma
+datus, tad pārslēgties uz cita uzņēmuma datiem var no darba režīma:
+
+> Palīgs > Uzņēmuma izvēle
+Lai pārslēgtos uz cita uzņēmuma datiem, jāizvēlas uzņēmums laukā
+Uzņēmums un var izmantot iespēju parādīt visu uzņēmumu datus kopā,
+aktivizējot komandu:
+
+
+Atteikšanās no komponentu izmantošanas
+++++++++++++++++++++++++++++++++++++++
+
+Lai atteiktos no komponenta izmantošanas un to varētu izmantot citi
+lietotāji, ja ir ierobežots licenču skaits, jābeidz darbs ar
+programmu.
+Beidzot darbu ar programmu, tiek beigta arī komponentu izmantošana.
+
+ 

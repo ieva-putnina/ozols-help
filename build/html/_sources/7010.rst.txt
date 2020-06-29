@@ -1,24 +1,56 @@
-.. 7010 ===========Akcijas=========== <P>&nbsp;</P>
-<P>Izvēloties dokumenta veidu Akcijas, tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25462" border=0></P>
-<P>&nbsp;</P>
-<P>Lai Akciju žurnālā tiktu pievienota jauna akcija, nepieciešams:</P>
-<P>&nbsp;</P>
-<P>1. No <A href="/help/?ssw=33&amp;skf_id=112">Partneru</A> saraksta izvēlēties personu, kurš ir Akcijas turētājs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25463" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Informācija par partnera valsti un statusu tiek ņemta no <A href="/help/?ssw=33&amp;skf_id=112">Partnera</A> aprakstā norādītās Partnera Valsts (Ja Partnerim valsts norādīta Latvija - rezident, ja cita valsts - nerezidents).</P>
-<P>&nbsp;</P>
-<P>2. Norādīt atbilstošo veidu Akcijai, kas tiks pievienota:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25464" border=0></P>
-<P>&nbsp;</P>
-<P>3. Ievadīt nepieciešamo akciju skaitu un ievadīt laika periodu, no kura, līdz kuram datumam šīs akcijas būs pie norādītā Partnera - akcijas turētāja:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25465" border=0></P>
-<P>&nbsp;</P>
-<P>4. Pēc&nbsp;satura ierakstu aizpildīšanas,&nbsp;ierakstu iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P>
-<P>&nbsp;</P>
-<P>Saglabātie ieraksti - pievienotās Akcijas, būs pieejams apskatei/labošanai <A href="/help/?ssw=70&amp;skf_id=7009">Akciju žurnālā</A>.</P> 
+.. 7010 ===========Akcijas=========== 
+
+
+Izvēloties dokumenta veidu Akcijas, tiks atvērts jauns logs:
+
+
+
+
+
+
+
+Lai Akciju žurnālā tiktu pievienota jauna akcija, nepieciešams:
+
+
+
+1. No `Partneru`_ saraksta izvēlēties personu, kurš ir Akcijas
+turētājs:
+
+
+
+
+
+
+
+Informācija par partnera valsti un statusu tiek ņemta no `Partnera`_
+aprakstā norādītās Partnera Valsts (Ja Partnerim valsts norādīta
+Latvija - rezident, ja cita valsts - nerezidents).
+
+
+
+2. Norādīt atbilstošo veidu Akcijai, kas tiks pievienota:
+
+
+
+
+
+
+
+3. Ievadīt nepieciešamo akciju skaitu un ievadīt laika periodu, no
+kura, līdz kuram datumam šīs akcijas būs pie norādītā Partnera -
+akcijas turētāja:
+
+
+
+
+
+
+
+4. Pēcsatura ierakstu aizpildīšanas,ierakstu iespējams vai .
+
+
+
+Saglabātie ieraksti - pievienotās Akcijas, būs pieejams
+apskatei/labošanai `Akciju žurnālā`_.
+
+ 

@@ -1,21 +1,64 @@
-.. 806 =============Personāls============= <P>&nbsp;</P>
-<P>Personāla atskaitē tiek attēloti porsonāla dati, par <A href="/help/?ssw=33&amp;skf_id=111">strādājošam</A> pievienotajiem datiem. Atskaitē iespējams redzēt personāla datus: vārds un uzvārds, vecums, stāžs, amats, dzimšanas datums, adrese, e-pasts, u.c.</P>
-<P>Filtrs (rīku joslā poga <IMG src="/help/Skin/help/img.aspx?pid=24535" border=0>(Ctrl+F)) jāaizpilda, lai sagatavotu atskaiti.</P>
-<P>Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.</P>
-<P>Datu atlases kritērijus var saglabāt (<IMG src="/help/Skin/help/img.aspx?pid=24938" border=0>). Izvēloties izveidoto filtra sagatavi (<IMG src="/help/Skin/help/img.aspx?pid=24635" border=0>), filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=24535" border=0>(Ctrl+F), tiek atvērts filtra logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25783" border=0></P>
-<P>&nbsp;</P>
-<P>kur izvēloties&nbsp;kritērijus, un nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25619" border=0>, tiek sagatavota atskaite pēc izvēlētajiem kritērijiem.Izveidoto atskaiti ir iespējams izdrukāt, mainot skatu, rīku joslā nospiežot pogu<IMG src="/help/Skin/help/img.aspx?pid=24946" border=0>Skats, un tad nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24944" border=0>(Ctrl+P).</P>
-<P>&nbsp;</P>
-<P>Sagatavojot datus pēc izvēlētajiem Filtra kritērijiem, tiks sagatavota atskaite ar standarta izveidotajām kolonnām. Lai esošo atskaiti papildinātu ar papildus nepieciešamajām kolonnām, nepieciešams Rīku joslā nospiest pogu <IMG src="/help/Skin/help/img.aspx?pid=26016" border=0>, tiks atvērts logs, kur no kreisās puses uz labo, iespējams pievienot papildus kolonnas, kas būs pieejamas uz ekrāna:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26402" border=0></P>
-<P>&nbsp;</P>
-<P>Lai datus no atskaites atlasītu, pēc kādas no izvēlētajām kolonnām, iespējams izmantot Summējošā pārlūka grupēšanas un atlases iespējas, izvēloties nepieciešamo datu atlases un grupēšanas kritēriju no saraksta:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26403" border=0></P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P> 
+.. 806 =============Personāls============= 
+
+
+Personāla atskaitē tiek attēloti porsonāla dati, par `strādājošam`_
+pievienotajiem datiem. Atskaitē iespējams redzēt personāla datus:
+vārds un uzvārds, vecums, stāžs, amats, dzimšanas datums, adrese,
+e-pasts, u.c.
+
+Filtrs (rīku joslā poga (Ctrl+F)) jāaizpilda, lai sagatavotu atskaiti.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( ). Izvēloties izveidoto filtra
+sagatavi ( ), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā
+jānospiež poga (Ctrl+F), tiek atvērts filtra logs:
+
+
+
+
+
+
+
+kur izvēlotieskritērijus, un nospiežot pogu , tiek sagatavota atskaite
+pēc izvēlētajiem kritērijiem.Izveidoto atskaiti ir iespējams izdrukāt,
+mainot skatu, rīku joslā nospiežot pogu Skats, un tad nospiežot pogu
+(Ctrl+P).
+
+
+
+Sagatavojot datus pēc izvēlētajiem Filtra kritērijiem, tiks sagatavota
+atskaite ar standarta izveidotajām kolonnām. Lai esošo atskaiti
+papildinātu ar papildus nepieciešamajām kolonnām, nepieciešams Rīku
+joslā nospiest pogu , tiks atvērts logs, kur no kreisās puses uz labo,
+iespējams pievienot papildus kolonnas, kas būs pieejamas uz ekrāna:
+
+
+
+
+
+
+
+Lai datus no atskaites atlasītu, pēc kādas no izvēlētajām kolonnām,
+iespējams izmantot Summējošā pārlūka grupēšanas un atlases iespējas,
+izvēloties nepieciešamo datu atlases un grupēšanas kritēriju no
+saraksta:
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

@@ -1,7 +1,23 @@
-.. 733 ================Individuālie================ <P>&nbsp;</P>
-<P>Katram lietotājam individuāli iespējams nodefinēt iestādījumus, kas būs pieejami tikai šī lietotāja kontam (ielogojoties sistēmā ar piešķirto lietotājvārdu un paroli):</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26354" border=0></P>
-<P>&nbsp;</P>
-<P>Neveikt algu pārrēķinu tūlīt pēc datu ievades - ja šī izvēles rūtiņa būs atzīmēta, tad veicot algu aprēķinus ar šī lietotāja kontu, algu pārrēķini netiks veikti automātiski, bet tos būs iespējams veikt manuāli.</P>
-<P>Izmaksu summu automātiski ielikt izmaksu sarakstā - atzīmējot šo izvēles rūtiņu, aprēķinātā summa automātiski tiks nostūīta uz iepriekš sagatavoto Izmaksu sarakstu <A href="/help/?ssw=33&amp;skf_id=238">Izmaksu sarakstu žurnālā.</A></P> 
+.. 733 ================Individuālie================ 
+
+
+Katram lietotājam individuāli iespējams nodefinēt iestādījumus, kas
+būs pieejami tikai šī lietotāja kontam (ielogojoties sistēmā ar
+piešķirto lietotājvārdu un paroli):
+
+
+
+
+
+
+
+Neveikt algu pārrēķinu tūlīt pēc datu ievades - ja šī izvēles rūtiņa
+būs atzīmēta, tad veicot algu aprēķinus ar šī lietotāja kontu, algu
+pārrēķini netiks veikti automātiski, bet tos būs iespējams veikt
+manuāli.
+
+Izmaksu summu automātiski ielikt izmaksu sarakstā - atzīmējot šo
+izvēles rūtiņu, aprēķinātā summa automātiski tiks nostūīta uz iepriekš
+sagatavoto Izmaksu sarakstu `Izmaksu sarakstu žurnālā.`_
+
+ 

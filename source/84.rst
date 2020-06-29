@@ -1,2 +1,9 @@
-.. 84 =============Dokumenti============= <P>&nbsp;</P>
-<P>Izmantojot Līgumu dokumentus, iespējams pievienot dažāda veida Līgumus <A href="/help/?ssw=68&amp;skf_id=237">Līgumu žurnālā</A>, fiksēt iepirkumu procedūru Iepirkumus <A href="/help/?ssw=68&amp;skf_id=678">Iepirkumu žurnālā</A>, pievienot <A href="/help/?ssw=68&amp;skf_id=296">Pilnvaras</A>, kā arī balstoties uz Līgumu nosacījumiem, definēt <A href="/help/?ssw=68&amp;skf_id=645">Apmaksas plānus</A>.</P> .. toctree::   :maxdepth: 5    645.rst   678.rst   242.rst   6810.rst   237.rst
+.. 84 =============Dokumenti============= 
+
+
+Izmantojot Līgumu dokumentus, iespējams pievienot dažāda veida Līgumus
+`Līgumu žurnālā`_, fiksēt iepirkumu procedūru Iepirkumus `Iepirkumu
+žurnālā`_, pievienot `Pilnvaras`_, kā arī balstoties uz Līgumu
+nosacījumiem, definēt `Apmaksas plānus`_.
+
+ .. toctree::   :maxdepth: 5    645.rst   678.rst   242.rst   6810.rst   237.rst

@@ -1,12 +1,33 @@
-.. 7303 ============Pasākums============ <P>Pievienotie pasākumi tiek saglabāti <A href="/help/?ssw=73&amp;skf_id=7312">pasākumu sarakstā</A>. Pasākumu saraksts tiek izmantots pievienojot <A href="/help/?ssw=73&amp;skf_id=7308">jaunus notikumus</A> un veidojot dažādas <A href="/help/?ssw=73&amp;skf_id=7317">atskaites</A>.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26186" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Kods:</STRONG> pasākuma nosaukuma saīsinājums, apzīmējums;</P>
-<P><STRONG>Nosaukums:</STRONG> pilns pasākuma nosaukums;</P>
-<P><STRONG>Pasākuma veids:</STRONG> no saraksta jānorāda pasākuma veids;</P>
-<P><STRONG>Komponists:</STRONG> jānorāda pasākuma komponists;</P>
-<P><STRONG>Māksl.izmaksas:</STRONG> mākslinieciskās izmaksas;</P>
-<P><STRONG>Tehniskās vajadzības:</STRONG> attiecīgajam pasākumam iespējams nodefinēt tehniskās vajadzības;</P>
-<P>Radošā brigāde un pasākuma dalībnieki tiek pievienoti pievienojot <A href="/help/?ssw=73&amp;skf_id=7308">notikumu</A>.</P>
-<P>Lai pasākums tiktu saglabāts <A href="/help/?ssw=73&amp;skf_id=7312">pasākumu sarakstā</A>, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25829" border=0>, un, lai pievienotu jaunu pasākumu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25850" border=0>un jāpievieno jauns pasākums. Lai, pēc saglabāšanas, labotu pievienotā pasākuma ierakstus, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25832" border=0>&nbsp;un pēc labošanas ieraksts jāsaglabā.</P> 
+.. 7303 ============Pasākums============ 
+Pievienotie pasākumi tiek saglabāti `pasākumu sarakstā`_. Pasākumu
+saraksts tiek izmantots pievienojot `jaunus notikumus`_ un veidojot
+dažādas `atskaites`_.
+
+
+
+
+
+
+
+Kods: pasākuma nosaukuma saīsinājums, apzīmējums;
+
+Nosaukums: pilns pasākuma nosaukums;
+
+Pasākuma veids: no saraksta jānorāda pasākuma veids;
+
+Komponists: jānorāda pasākuma komponists;
+
+Māksl.izmaksas: mākslinieciskās izmaksas;
+
+Tehniskās vajadzības: attiecīgajam pasākumam iespējams nodefinēt
+tehniskās vajadzības;
+
+Radošā brigāde un pasākuma dalībnieki tiek pievienoti pievienojot
+`notikumu`_.
+
+Lai pasākums tiktu saglabāts `pasākumu sarakstā`_, jānospiež poga ,
+un, lai pievienotu jaunu pasākumu, jānospiež poga un jāpievieno jauns
+pasākums. Lai, pēc saglabāšanas, labotu pievienotā pasākuma ierakstus,
+jānospiež poga un pēc labošanas ieraksts jāsaglabā.
+
+ 

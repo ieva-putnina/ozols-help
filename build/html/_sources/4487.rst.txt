@@ -1,32 +1,100 @@
-.. 4487 ==============================Nomenklatūras norakstīšana============================== <H5>Nomenklatūras norakstīšanas dokumenta virsraksta aizpildīšana</H5>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25791" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Dokumenta</STRONG> <STRONG>Nr</STRONG>.: Neaizpildot šo lauku manuāli, automātiski tiks piedāvāts nākamais brīvais numurs pēc kārtas</P>
-<P><STRONG>Datums</STRONG>: Veidojot jaunu Nomenklatūras norakstīšanas dokumentu, automātiski tiek piedāvāts tekošais dienas datums, kuru ir iespējams nomainīt, nospiežot uz „Kalendāra” pogas lauka „Datums” labajā pusē:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25792" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Struktūrvienība</STRONG>: Informācija par lietotāja struktūrvienību, no kuras krājumi tiks norakstīti. Sadaļā <A href="/help/?ssw=44&amp;skf_id=4468">Konfigurācija</A> lietotājam, kurš ir kā atbildīgā persona vairākās struktūrvienībās, ir iespēja nomainīt (no saraksta izvēlēties) struktūrvienību, lai varētu veidotu norakstīšanas dokumentu, kurā tiks norakstīti krājumi no izvēlētās struktūrvienības.</P>
-<P><STRONG>Noliktava:</STRONG>&nbsp; Lietotājam tiek piedāvāta iespēja izvēlēties Noliktavu, no kuras tiks norakstīta nomenklatūra (izvēles laukā tiks piedāvātas tikai tās Noliktavas, uz kurām lietotājam būs noteiktas lietotāja tiesības):</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25793" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Nomenklatūras grupa:</STRONG>&nbsp;Nepieciešams izvēlēties krājumu grupu, no kuras nomenklatūra tiks norakstīta.</P>
-<P>&nbsp;</P>
-<P>Kad aizpildīti visi nepieciešamie lauki, ierakstus nepieciešams saglabāt:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25797" border=0></P>
-<P>&nbsp;</P>
-<H5>Norakstāmo nomenklatūras daudzumu pievienošana nomenklatūras norakstīšanas dokumentam</H5>
-<P>Pēc Virsraksta saglabāšanas, tiks atvērts nomenklatūras saraksts. Nomenklatūras sarakstā ieraksti sakārtoti ņemot vērā šādus nosacījumus: </P>
-<P><BR>1) Grupas numurs augošā secībā; <BR>2) Nomenklatūras nosaukums alfabēta (A-&gt;Z) secībā. </P>
-<P><BR>Lietotājam, aizpildot kolonnas „Norakstīts” laukus, iespējams norakstīt nepieciešamos nomenklatūras daudzumus. Ievadot norakstāmo daudzumu, automātiski tiks uzrādīts atlikušais daudzums (Beigu atl.):<BR></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25798" border=0></P>
-<P>&nbsp;</P>
-<P>Pēc pogas&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=25799" border=0> nospiešanas, lietotājam ir iespēja pārbaudīt vai norakstāmie daudzumi ir atzīmēti korekti un, nepieciešamības gadījumā, vēl ir iespēja veikt labojumus.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Kad lietotājs ir pārliecinājies, ka visi norakstāmie daudzumi ir ievadīti pareizi un labojumus/izmaiņas vairs nebūs nepieciešams veikt, dokumentu ir nepieciešams Apstiprināt, lai to varētu Izdrukāt - PĒC DOKUMENTA APSTIPRINĀŠANAS IERAKSTUS LABOT VAIRS NAV IESPĒJAMS!<BR></P>
-<P>&nbsp;</P>
-<P>Pēc dokumenta apstiprināšanas, dokumentu iespējams izdrukāt: <A href="/help/?ssw=44&amp;skf_id=14093">Norakstīšanas akta izdruka</A>&nbsp;</P>
-<P>Saglabātie dokumenti apskatei pieeja<A href="/help/?ssw=44&amp;skf_id=4455">Iekšējās kustības dokumentu žurnālā</A>.</P> 
+.. 4487 ==============================Nomenklatūras norakstīšana============================== 
+
+Nomenklatūras norakstīšanas dokumenta virsraksta aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+Dokumenta Nr .: Neaizpildot šo lauku manuāli, automātiski tiks
+piedāvāts nākamais brīvais numurs pēc kārtas
+
+Datums : Veidojot jaunu Nomenklatūras norakstīšanas dokumentu,
+automātiski tiek piedāvāts tekošais dienas datums, kuru ir iespējams
+nomainīt, nospiežot uz „Kalendāra” pogas lauka „Datums” labajā pusē:
+
+
+
+
+
+
+
+Struktūrvienība : Informācija par lietotāja struktūrvienību, no kuras
+krājumi tiks norakstīti. Sadaļā `Konfigurācija`_ lietotājam, kurš ir
+kā atbildīgā persona vairākās struktūrvienībās, ir iespēja nomainīt
+(no saraksta izvēlēties) struktūrvienību, lai varētu veidotu
+norakstīšanas dokumentu, kurā tiks norakstīti krājumi no izvēlētās
+struktūrvienības.
+
+Noliktava: Lietotājam tiek piedāvāta iespēja izvēlēties Noliktavu, no
+kuras tiks norakstīta nomenklatūra (izvēles laukā tiks piedāvātas
+tikai tās Noliktavas, uz kurām lietotājam būs noteiktas lietotāja
+tiesības):
+
+
+
+
+
+
+
+Nomenklatūras grupa: Nepieciešams izvēlēties krājumu grupu, no kuras
+nomenklatūra tiks norakstīta.
+
+
+
+Kad aizpildīti visi nepieciešamie lauki, ierakstus nepieciešams
+saglabāt:
+
+
+
+
+
+
+
+
+Norakstāmo nomenklatūras daudzumu pievienošana nomenklatūras
+norakstīšanas dokumentam
+++++++++++++++++++++++++
+
+Pēc Virsraksta saglabāšanas, tiks atvērts nomenklatūras saraksts.
+Nomenklatūras sarakstā ieraksti sakārtoti ņemot vērā šādus
+nosacījumus:
+
+
+1) Grupas numurs augošā secībā;
+2) Nomenklatūras nosaukums alfabēta (A->Z) secībā.
+
+
+Lietotājam, aizpildot kolonnas „Norakstīts” laukus, iespējams
+norakstīt nepieciešamos nomenklatūras daudzumus. Ievadot norakstāmo
+daudzumu, automātiski tiks uzrādīts atlikušais daudzums (Beigu atl.):
+
+
+
+
+
+
+
+
+Pēc pogas nospiešanas, lietotājam ir iespēja pārbaudīt vai norakstāmie
+daudzumi ir atzīmēti korekti un, nepieciešamības gadījumā, vēl ir
+iespēja veikt labojumus.
+
+
+
+Kad lietotājs ir pārliecinājies, ka visi norakstāmie daudzumi ir
+ievadīti pareizi un labojumus/izmaiņas vairs nebūs nepieciešams veikt,
+dokumentu ir nepieciešams Apstiprināt, lai to varētu Izdrukāt - PĒC
+DOKUMENTA APSTIPRINĀŠANAS IERAKSTUS LABOT VAIRS NAV IESPĒJAMS!
+
+
+
+
+Pēc dokumenta apstiprināšanas, dokumentu iespējams izdrukāt:
+`Norakstīšanas akta izdruka`_
+
+Saglabātie dokumenti apskatei pieeja`Iekšējās kustības dokumentu
+žurnālā`_.
+
+ 

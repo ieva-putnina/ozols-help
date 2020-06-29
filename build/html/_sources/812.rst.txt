@@ -1,20 +1,59 @@
-.. 812 =============================================================Pamatlīdzekļu derīgās lietošanas termiņa maiņas dokuments============================================================= <P>Darbības ar pamatlīdzekļiem (piem., derīgās lietošanas termiņu maiņa), kura rezultātā pagarinās vai samazinās derīgās lietošanas termiņš un tiek mainīts paredzamais pamatlīzdekļa kalpošanas laiks, jāreģistrē Pamatlīdzekļu derīgās lietošanas termiņa maiņas dokumentā. Dokuments pēc saglabāšanas ir pieejams <A href="/help/?ssw=33&amp;skf_id=233">Pamatlīdzekļu dokumentu</A> žurnālā.</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Pirms pamatlīdzekļu derīgās lietošanas termiņa maiņas, jāpārliecinās vai visiem pamatlīdzekļiem, kuriem tiks mainīts derīgās lietošanas termiņš, ir aprēķināts nolietojums.</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Ja tika izveidots <A href="/help/?ssw=33&amp;skf_id=817">Pamatlīzdekļu papildināšanas dokuments</A> šim pamatlīdzeklim, un tur tika mainīts derīgās lietošanas termiņš, tad šis (Pamatlīdzekļu derīgās lietošanas termiņa maiņas dokuments) nav jāveido.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25490" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Pamatlīdzeklis:</STRONG> jāizvēlas pamatlīdzeklis, kuram tiks mainīts derīgās lietošanas termiņš;</P>
-<P><STRONG>Dokumentam: </STRONG>automatizēti, izvēloties pamatlīdzekli, tiek parādīti visi, ar pamatlīdzekli saistītie dokumenti. Jāizvēlas dokuments, saistībā ar kuru tiek mainīts derīgās lietošanas termiņš.</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25491" border=0>iespējams apskatīt pamatlīdzekļa aprakstu un dokumentu saturus, kuri saistīti ar pamatlīdzekli;</P>
-<P><STRONG>Iepriekšējais derīgās lietošanas laiks</STRONG></P>
-<P><STRONG>Stājies ekspluatācijā:</STRONG> iepriekšējais derīgās lietošanas laiks, datums, kad pamatlīdzeklis stājies ekspluatācijā;</P>
-<P><STRONG>mēn.:</STRONG> iepriekšējais derīgās lietošanas termiņš mēnešos;</P>
-<P><STRONG>Der.liet.beig.dat.:</STRONG> iepriekšējā derīgās lietošanas termiņa beigu datums;</P>
-<P><STRONG>Jaunais derīgās lietošanas laiks</STRONG></P>
-<P><STRONG>Stājies ekspl.:</STRONG> datums, kad pamatlīdzeklis stājies ekspluatācijā;</P>
-<P><STRONG>mēn.:</STRONG> jaunais derīgās lietošanas termiņš mēnešos;</P>
-<P><STRONG>Der.liet.beig.dat.:</STRONG> jaunais derīgās lietošanas termiņa beigu datums;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25492" border=0></P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25496" border=0>ja pamatlīdzeklis sastāv no vairākām atsevišķām daļām, tad iespējams arī pārējām daļām mainīt derīgās lietošanas termiņu.</P>
-<P>Attiecīgās izmaiņas jāsaglabā, nospiežot pogu Saglabāt. Nospiežot pogu Atcelt, visas izmaiņas tiek atceltas.</P> 
+.. 812 =============================================================Pamatlīdzekļu derīgās lietošanas termiņa maiņas dokuments============================================================= 
+Darbības ar pamatlīdzekļiem (piem., derīgās lietošanas termiņu maiņa),
+kura rezultātā pagarinās vai samazinās derīgās lietošanas termiņš un
+tiek mainīts paredzamais pamatlīzdekļa kalpošanas laiks, jāreģistrē
+Pamatlīdzekļu derīgās lietošanas termiņa maiņas dokumentā. Dokuments
+pēc saglabāšanas ir pieejams `Pamatlīdzekļu dokumentu`_ žurnālā.
+
+Pirms pamatlīdzekļu derīgās lietošanas termiņa maiņas, jāpārliecinās
+vai visiem pamatlīdzekļiem, kuriem tiks mainīts derīgās lietošanas
+termiņš, ir aprēķināts nolietojums.
+
+Ja tika izveidots `Pamatlīzdekļu papildināšanas dokuments`_ šim
+pamatlīdzeklim, un tur tika mainīts derīgās lietošanas termiņš, tad
+šis (Pamatlīdzekļu derīgās lietošanas termiņa maiņas dokuments) nav
+jāveido.
+
+
+
+
+
+
+
+Pamatlīdzeklis: jāizvēlas pamatlīdzeklis, kuram tiks mainīts derīgās
+lietošanas termiņš;
+
+Dokumentam: automatizēti, izvēloties pamatlīdzekli, tiek parādīti
+visi, ar pamatlīdzekli saistītie dokumenti. Jāizvēlas dokuments,
+saistībā ar kuru tiek mainīts derīgās lietošanas termiņš.
+
+iespējams apskatīt pamatlīdzekļa aprakstu un dokumentu saturus, kuri
+saistīti ar pamatlīdzekli;
+
+Iepriekšējais derīgās lietošanas laiks
+
+Stājies ekspluatācijā: iepriekšējais derīgās lietošanas laiks, datums,
+kad pamatlīdzeklis stājies ekspluatācijā;
+
+mēn.: iepriekšējais derīgās lietošanas termiņš mēnešos;
+
+Der.liet.beig.dat.: iepriekšējā derīgās lietošanas termiņa beigu
+datums;
+
+Jaunais derīgās lietošanas laiks
+
+Stājies ekspl.: datums, kad pamatlīdzeklis stājies ekspluatācijā;
+
+mēn.: jaunais derīgās lietošanas termiņš mēnešos;
+
+Der.liet.beig.dat.: jaunais derīgās lietošanas termiņa beigu datums;
+
+
+
+ja pamatlīdzeklis sastāv no vairākām atsevišķām daļām, tad iespējams
+arī pārējām daļām mainīt derīgās lietošanas termiņu.
+
+Attiecīgās izmaiņas jāsaglabā, nospiežot pogu Saglabāt. Nospiežot pogu
+Atcelt, visas izmaiņas tiek atceltas.
+
+ 

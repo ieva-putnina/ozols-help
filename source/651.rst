@@ -1,39 +1,111 @@
-.. 651 ====================Maksājumu kartes==================== <P>&nbsp;</P>
-<P>Sarakstā tiek saglabātas katra <A href="/help/?ssw=33&amp;skf_id=312">Partnera</A>&nbsp;aprakstam piesaistītās maksājumu, degvielas, u.c.&nbsp;kartes.</P>
-<P>Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Rīku joslā nopiežot pogu<IMG src="/help/Skin/help/img.aspx?pid=24535" border=0>(Ctrl+F), tiek atvērts filtra logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26102" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Derīg.term.beigas</STRONG>: Iespēja atlasīt datus par kartēm, pēc ievadītā derīguma termiņa (attiecībā pret tekošās dienas datumu);</P>
-<P><STRONG>Īpašnieks</STRONG>: Iespēja atlasīt datus pēc partnera maksājuma kartes Īpašnieka;</P>
-<P>&nbsp;</P>
-<P>Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25944" border=0>.</P>
-<H5>Partnera maksājumu kartes pievienošana </H5>
-<P>Partneru maksājumu kartes tiek pievienotas:</P>
-<P>1.&nbsp;<A href="/help/?ssw=33&amp;skf_id=312">Partnera</A>&nbsp;aprakstā caur pogu <IMG src="/help/Skin/help/img.aspx?pid=25716" border=0>;</P>
-<P>2. Atrodoties&nbsp;<A href="/help/?ssw=33&amp;skf_id=651">Partneru maksājumu karšu sarakstā</A>, rīku joslā&nbsp;nospiežot pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=25605" border=0>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26104" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Īpašnieks: </STRONG>Nepieciešams no Partneru saraksta&nbsp;izvēlēties maksājuma kartes īpašnieku (kartes izsniedzēju);</P>
-<P><STRONG>Partneris: </STRONG>No Partneru saraksta jānorāda maksājuma kartes turētājs (kuram karte ir izsniegta);</P>
-<P><STRONG>Kods: </STRONG>Kartes kods </P>
-<P><STRONG>Nosaukums: </STRONG>Maksājuma kartes nosaukums (veidojas automātiski no izvēlētā Partnera nosaukuma - Īpašnieka nosaukums + kartes kods) - nepieciešamības gadījumā, izdzēšot tekstu, lauku iespējams aizpildīt arī manuāli;</P>
-<P><STRONG>Izsn.datums: </STRONG>Partnera maksājuma kartes izsniegšanas datums;</P>
-<P><STRONG>Derīg.term.: </STRONG>Partnera maksājuma kartes lietošanas derīguma termiņš;</P>
-<P><STRONG>Mēneša limits: </STRONG>Uzņēmumā noteiktais summas limits (informatīvs lauks, kas sniedz tikai informatīvu informāciju par noteiktajiem ierobežojumiem) pakalpojumu izmantošanai no norādītā kartes īpašnieka;</P>
-<P><STRONG>Pakalpojums: </STRONG>Iespēja norādīt <A href="/help/?ssw=33&amp;skf_id=108">Pakalpojumu</A>, kas saistīts ar šo Partnera maksājuma karti un Kartes īpašnieku.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Lai maksājumu kartes varētu izmantot ne tikai informatīvi - informācijas iegūšanai par uzņēmuma darbiniekiem piederošajām kartēm, bet arī kā datu uzskaites dimensiju, lai iegūtu detalizētas atskaites par veiktajiem darījumiem saistībā ar kartēm, sadaļā Konfigurācija-&gt;Iestādījumi-&gt;Kopīgie-&gt;<A href="/help/?ssw=33&amp;skf_id=701">Dimensijas</A>-&gt;Citi, nepieciešams norādīt, ka tiks izmantota dimensija "Kartes":</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26105" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Pie nosacījuma, ja <A href="/help/?ssw=33&amp;skf_id=701">Dimensiju</A> iestādījumos būs atzīmēta izvēles rūtiņa "Kartes", <A href="/help/?ssw=33&amp;skf_id=310">Iepirkuma dokumentā</A> Virsrakstā norādot <A href="/help/?ssw=33&amp;skf_id=312">Partneri</A>i, kurš ir norādīts kā Īpašnieks kādai no pievienotajām maksājuma kartērm, pievienojot <A href="/help/?ssw=33&amp;skf_id=310">Iepirkuma dokumenta</A> satura ierakstu, tiks attēlots papildus lauks "kartes", kur no izvēlnes tiks piedāvāta iespēja norādīt kādu no pievienotajām Partnera maksājumu kartēm:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26106" border=0></P>
-<P>&nbsp;</P>
-<P>Šādā veidā iespējams nodrošinā detalizētu uzskaiti par katru karti&nbsp;individuāli, no atskaites&nbsp;&nbsp;<A href="/help/?ssw=33&amp;skf_id=648">Dimensiju apgrozījums</A>, iegūstot informāciju par <A href="/help/?ssw=33&amp;skf_id=210">Iepirkumu dokumentiem</A>&nbsp; Kartes dimensijas griezumā. </P>
-<P>&nbsp;</P>
-<P>Nospiežot&nbsp;pogu <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>, ieraksts tiks pievienots datu bāzei.</P>
-<P>&nbsp;</P>
-<P>Visas partnerim pievienotās kartes tiek saglabātas <A href="/help/?ssw=33&amp;skf_id=651">Partneru maksājumu karšu sarakstā</A>.</P> 
+.. 651 ====================Maksājumu kartes==================== 
+
+
+Sarakstā tiek saglabātas katra `Partnera`_aprakstam piesaistītās
+maksājumu, degvielas, u.c.kartes.
+
+Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
+tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
+ekrāna formā. Rīku joslā nopiežot pogu (Ctrl+F), tiek atvērts filtra
+logs:
+
+
+
+
+
+
+
+Derīg.term.beigas : Iespēja atlasīt datus par kartēm, pēc ievadītā
+derīguma termiņa (attiecībā pret tekošās dienas datumu);
+
+Īpašnieks : Iespēja atlasīt datus pēc partnera maksājuma kartes
+Īpašnieka;
+
+
+
+Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
+
+
+Partnera maksājumu kartes pievienošana
+++++++++++++++++++++++++++++++++++++++
+
+Partneru maksājumu kartes tiek pievienotas:
+
+1.`Partnera`_aprakstā caur pogu ;
+
+2. Atrodoties`Partneru maksājumu karšu sarakstā`_, rīku joslānospiežot
+pogu :
+
+
+
+
+
+
+
+Īpašnieks: Nepieciešams no Partneru sarakstaizvēlēties maksājuma
+kartes īpašnieku (kartes izsniedzēju);
+
+Partneris: No Partneru saraksta jānorāda maksājuma kartes turētājs
+(kuram karte ir izsniegta);
+
+Kods: Kartes kods
+
+Nosaukums: Maksājuma kartes nosaukums (veidojas automātiski no
+izvēlētā Partnera nosaukuma - Īpašnieka nosaukums + kartes kods) -
+nepieciešamības gadījumā, izdzēšot tekstu, lauku iespējams aizpildīt
+arī manuāli;
+
+Izsn.datums: Partnera maksājuma kartes izsniegšanas datums;
+
+Derīg.term.: Partnera maksājuma kartes lietošanas derīguma termiņš;
+
+Mēneša limits: Uzņēmumā noteiktais summas limits (informatīvs lauks,
+kas sniedz tikai informatīvu informāciju par noteiktajiem
+ierobežojumiem) pakalpojumu izmantošanai no norādītā kartes īpašnieka;
+
+Pakalpojums: Iespēja norādīt `Pakalpojumu`_, kas saistīts ar šo
+Partnera maksājuma karti un Kartes īpašnieku.
+
+
+
+Lai maksājumu kartes varētu izmantot ne tikai informatīvi -
+informācijas iegūšanai par uzņēmuma darbiniekiem piederošajām kartēm,
+bet arī kā datu uzskaites dimensiju, lai iegūtu detalizētas atskaites
+par veiktajiem darījumiem saistībā ar kartēm, sadaļā
+Konfigurācija->Iestādījumi->Kopīgie->`Dimensijas`_->Citi, nepieciešams
+norādīt, ka tiks izmantota dimensija "Kartes":
+
+
+
+
+
+
+
+Pie nosacījuma, ja `Dimensiju`_ iestādījumos būs atzīmēta izvēles
+rūtiņa "Kartes", `Iepirkuma dokumentā`_ Virsrakstā norādot
+`Partneri`_i, kurš ir norādīts kā Īpašnieks kādai no pievienotajām
+maksājuma kartērm, pievienojot `Iepirkuma dokumenta`_ satura ierakstu,
+tiks attēlots papildus lauks "kartes", kur no izvēlnes tiks piedāvāta
+iespēja norādīt kādu no pievienotajām Partnera maksājumu kartēm:
+
+
+
+
+
+
+
+Šādā veidā iespējams nodrošinā detalizētu uzskaiti par katru
+kartiindividuāli, no atskaites`Dimensiju apgrozījums`_, iegūstot
+informāciju par `Iepirkumu dokumentiem`_ Kartes dimensijas griezumā.
+
+
+
+Nospiežotpogu , ieraksts tiks pievienots datu bāzei.
+
+
+
+Visas partnerim pievienotās kartes tiek saglabātas `Partneru maksājumu
+karšu sarakstā`_.
+
+ 

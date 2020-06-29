@@ -1,5 +1,38 @@
-.. 156 ===========Periodi=========== <p>Sarakstā tiek saglabāti nodefinētie periodi <a href="/help/?ssw=33&amp;skf_id=48">budžeta izpildes</a> uzskaites veikšanai un dokumentu slēgšanai.<br></p>
-<h4>Plāna perioda pievienošana<br></h4>
-<p>Plāna periodu izmato <a href="/help/?ssw=33&amp;skf_id=48">budžeta izpildes</a> uzskaitei. Lai pievienotu jaunu plāna periodu, rīku joslā jānospiež poga <img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiek atvērts jauns logs:</p><p><br></p>
-<p><img src="/help/Skin/help/img.aspx?pid=25360" border="0"><br><br>Plāna periodu pievieno, norādot perioda veidu – PP (Plāna periods), norādot perioda garumu (diena, nedēļa, mēnesis, gads), un perioda sākuma un beigu datumu.</p><h4>Dokumentu perioda pievienošana</h4>
-<p>Dokumentu periodu izmanto nodefinētā <a href="/help/?ssw=33&amp;skf_id=453">perioda dokumentu slēgšanai</a>. Lai pievienotu jaunu dokumentu periodu, rīku joslā jānospiež poga <img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiek atvērts jauns logs:, kur jānorāda perioda veids - Dokumentu periods (tiek slēgts), perioda garums - diena, nedēļa, mēnesis, gads, un izvēlētā perioda sākuma un beigu datumu:</p><br><br><p><img src="Skin/help/img.aspx?pid=26437" border="0"><br><br></p> 
+.. 156 ===========Periodi=========== 
+Sarakstā tiek saglabāti nodefinētie periodi `budžeta izpildes`_
+uzskaites veikšanai un dokumentu slēgšanai.
+
+
+
+Plāna perioda pievienošana
+
+Plāna periodu izmato `budžeta izpildes`_ uzskaitei. Lai pievienotu
+jaunu plāna periodu, rīku joslā jānospiež poga un tiek atvērts jauns
+logs:
+
+
+
+
+
+
+Plāna periodu pievieno, norādot perioda veidu – PP (Plāna periods),
+norādot perioda garumu (diena, nedēļa, mēnesis, gads), un perioda
+sākuma un beigu datumu.
+
+
+Dokumentu perioda pievienošana
+``````````````````````````````
+
+Dokumentu periodu izmanto nodefinētā `perioda dokumentu slēgšanai`_.
+Lai pievienotu jaunu dokumentu periodu, rīku joslā jānospiež poga un
+tiek atvērts jauns logs:, kur jānorāda perioda veids - Dokumentu
+periods (tiek slēgts), perioda garums - diena, nedēļa, mēnesis, gads,
+un izvēlētā perioda sākuma un beigu datumu:
+
+
+
+
+
+
+
+ 

@@ -1,41 +1,107 @@
-.. 465 ====================Avansa maksājums==================== <P>Ja saņemto un atpakaļ atgriezto avansu summu uzskaite netiek veikta ar kases un bankas dokumentu palīdzību, iespējams izmantot avansa dokumenta veidu avansa maksājums. Dokuments tiks saglabāts <A href="/help/?ssw=33&amp;skf_id=232">Avansu norēķinu</A>&nbsp;žurnālā.</P>
-<H4>Jauna&nbsp;Avansu maksājuma pievienošana</H4>
-<P>Izvēloties dokumenta veidu Avansa maksājums, tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25253" border=0></P>
-<H5>Avansa pieprasījuma Virsraksta aizpildīšana</H5>
-<P>&nbsp;</P>
-<P>Lai aizpildītu&nbsp;dokumenta Virsrakstu, nepieciešams:</P>
-<P>&nbsp;</P>
-<P>1. Norādīt Uzņēmuma struktūrvienību, kam piesaistīta Avansu norēķina persona, kurai šis Avansa maksājums tiks veikts:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25254" border=0></P>
-<P>&nbsp;</P>
-<P>2. No saraksta izvēlēties nepieciešamo <A href="/help/?ssw=33&amp;skf_id=196">Avansu personu</A>,&nbsp; kurai šis dokuments tiks noformēts:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25255" border=0></P>
-<P>&nbsp;</P>
-<P>3. Izvēlēties Datumu, kurā šis&nbsp;Avansa pieprasījums tiek veidots:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24811" border=0></P>
-<P>&nbsp;</P>
-<P>4.&nbsp;Ievadīt kopējo Avansa pieprasījuma summu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24812" border=0></P>
-<H5>Avansa pieprasījuma Satura aizpildīšana</H5>
-<P>Lai aizpildītu&nbsp;Avansa pieprasījuma&nbsp;Saturu, dokumenta satura daļā nepieciešams nospiest <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25256" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto summu.&nbsp;Pievienot nākamo satura ierakstu iespējams, satura daļā nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>.</P>
-<P>&nbsp;</P>
-<H4>Pievienotā Avansa maksājuma labošana</H4>
-<P>Labojumus saglabātajā&nbsp;dokumentā iespējams veikt atverot Avansa pieprasījumu, kurš pieejams apskatei/labošanai <A href="/help/?ssw=33&amp;skf_id=232">Avansu norēķinu</A>&nbsp;žurnālā.&nbsp; Lai veiktu labojumus&nbsp;Avansa pieprasījumā,&nbsp;dokumentu&nbsp;nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>&nbsp;(ALT+A), un&nbsp;atvērtajā&nbsp;ierakstā iespējams veikt&nbsp;nepieciešamos labojumus:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25257" border=0><BR></P>
-<P>&nbsp;</P>
-<P>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P> 
+.. 465 ====================Avansa maksājums==================== 
+Ja saņemto un atpakaļ atgriezto avansu summu uzskaite netiek veikta ar
+kases un bankas dokumentu palīdzību, iespējams izmantot avansa
+dokumenta veidu avansa maksājums. Dokuments tiks saglabāts `Avansu
+norēķinu`_žurnālā.
+
+
+JaunaAvansu maksājuma pievienošana
+``````````````````````````````````
+
+Izvēloties dokumenta veidu Avansa maksājums, tiks atvērts jauns logs:
+
+
+
+
+
+
+Avansa pieprasījuma Virsraksta aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai aizpildītudokumenta Virsrakstu, nepieciešams:
+
+
+
+1. Norādīt Uzņēmuma struktūrvienību, kam piesaistīta Avansu norēķina
+persona, kurai šis Avansa maksājums tiks veikts:
+
+
+
+
+
+
+
+2. No saraksta izvēlēties nepieciešamo `Avansu personu`_, kurai šis
+dokuments tiks noformēts:
+
+
+
+
+
+
+
+3. Izvēlēties Datumu, kurā šisAvansa pieprasījums tiek veidots:
+
+
+
+
+
+
+
+4.Ievadīt kopējo Avansa pieprasījuma summu:
+
+
+
+
+
+
+Avansa pieprasījuma Satura aizpildīšana
++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītuAvansa pieprasījumaSaturu, dokumenta satura daļā
+nepieciešams nospiest un tiks atvērts operācijas satura logs, kurā
+nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās
+dimensijas) un norādīt satura ieraksta summu:
+
+
+
+
+
+
+
+Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
+kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
+satura ierakstu iespējams, satura daļā nospiežot pogu .
+
+
+
+
+Pievienotā Avansa maksājuma labošana
+````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot Avansa
+pieprasījumu, kurš pieejams apskatei/labošanai `Avansu
+norēķinu`_žurnālā. Lai veiktu labojumusAvansa
+pieprasījumā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+
+
+
+
+
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+
+
+
+
+
+
+
+
+ 

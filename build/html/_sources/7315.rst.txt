@@ -1,1 +1,2 @@
-.. 7315 ==========Telpas========== Telpu saraksts veidojas no <A href="/help/?ssw=73&amp;skf_id=7306">pievienotajiem telpu</A> ierakstiem. 
+.. 7315 ==========Telpas========== Telpu saraksts veidojas no `pievienotajiem telpu`_ ierakstiem.
+ 

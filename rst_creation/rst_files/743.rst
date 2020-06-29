@@ -1,48 +1,138 @@
-.. 743 ==============Aktivitāte============== <H5>Jaunas Aktivitātes pievienošana </H5>
-<P>Jaunu&nbsp;Aktivitāti iespējams izveidot:</P>
-<P>1.&nbsp;Atrodoties kādā no Dokumetnu žurnāliem: <A href="/help/?ssw=33&amp;skf_id=879">Piedāvājumu žurnāls</A>, <A href="/help/?ssw=33&amp;skf_id=785">Ziņojumu žurnāls</A>, <A href="/help/?ssw=33&amp;skf_id=742">Notikumu žurnāls</A>&nbsp;vai <A href="/help/?ssw=33&amp;skf_id=874">Atgādinātāji</A>&nbsp;un rīku joslā&nbsp;jānospiežot pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>;&nbsp;</P>
-<P>2. No jebkura darba režīma, izmantojot taustiņu kombināciju CTRL+Q, tiks atvērts jauns izvēlnes logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25929" border=0></P>
-<P>&nbsp;</P>
-<P>Izvēloties atbilstošo aktivitātes veidu un nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25619" border=0> vai atrodoties kādā no žurnāliem un rīku&nbsp;joslā nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>, tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25930" border=0></P>
-<P>&nbsp;</P>
-<P>1. Nepieciešams ievadīt Piedāvājuma <STRONG>Numuru</STRONG> un norādīt atbilstošo <STRONG>Prioritātes</STRONG> līmeni</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>CRM veidotajām aktivitātēm iespējams norādīt&nbsp;4 dažādus Prioritātes līmeņus, atbilstoši aktivitātes nozīmīgumam (sākot no: n - neitrāls līdz !!! - ļoti aktuāls)</P>
-<P>&nbsp;</P>
-<P>2. <STRONG>Virsraksta</STRONG> laukā iespējams brīvā tekstā ievadīt Piedāvājuma Virsrakstu</P>
-<P>3. Laukā <STRONG>Meklēt</STRONG>, iespējams ievadīt meklēšanas kritērijus,&nbsp;lai ērtāk atrastu nepieciešamo informāciju. Laukā <STRONG>Meklēt</STRONG> ievadot meklējamo objektu un nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25931" border=0>, dati tiks atrasti, atbilstoši norādītajai Meklēšanas Konfigurācijai (<IMG src="/help/Skin/help/img.aspx?pid=25932" border=0>)&nbsp;. </P>
-<P>4. Laukā <STRONG>Partneris</STRONG>, nepieciešams no saraksta izvēlēties Partneri, kuram Piedāvājums tiks sagatavots:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25933" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Ja Piedāvājums tiks sagatavots, izmantojot taustiņu kombināciju CTRL+Q, lauks Partneris tiks automātiski aizpildīts (Piemēram, ja atrodoties Iepirkumu dokumentu žurnālā, no atvērta iepirkuma dokumentu, kur Piegādātājs norādīts Partneris "X", tiks nospiesta taustiņu kombinācija CTRL+Q, tad izvēloties aktivitātes veidu: Piedāvājums un nospiežot pogu "Sagatavot", automātiski Piedāvājuma logā jau būs aizpildīts Partnera lauks).</P>
-<P>&nbsp;</P>
-<P>Nospiežot pogu pie partnera ieraksta <IMG src="/help/Skin/help/img.aspx?pid=26051" border=0>, nepieciešams izvēlēties atbilstošo <A href="/help/?ssw=33&amp;skf_id=884"><STRONG>potenciālo partneri</STRONG></A> no <A href="/help/?ssw=33&amp;skf_id=842">potenciālo partneru saraksta</A>, vai, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24635" border=0> partnera lauka labajā pusē, iespējams pievienot jaunu <A href="/help/?ssw=33&amp;skf_id=884">potenciālo partneri.</A></P>
-<P>&nbsp;</P>
-<P>5. <STRONG>Kontaktpersonas</STRONG> laukā iespējams norādīt partnera <A href="/help/?ssw=33&amp;skf_id=389">kontaktpersonu</A>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26052" border=0></P>
-<P>&nbsp;</P>
-<P>6. Laukā <STRONG>Adresāts</STRONG>, jānorāda par piedāvājumu atbildīgā persona.</P>
-<P>7. Laukā <STRONG>Piedāvājuma datums</STRONG>, jānorāda datums, kad piedāvājums būs aktuāls, un, ja nepieciešams,&nbsp;iespējams norādīt&nbsp;datumu un laiku par atgādinājumu pirms piedāvājuma laika.</P>
-<P>&nbsp;</P>
-<P>Pēc piedāvājuma virsraksta lauku aizpildīšanas, jāpievieno piedāvājuma apraksts un/vai kāda no darbībām:</P>
-<P><BR><IMG src="/help/Skin/help/img.aspx?pid=26053" border=0></P>
-<P>&nbsp;</P>
-<P>Lai pievienotu jaunu darbību, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25605" border=0>, tiek atvērts jaunas darbības logs, kur jāizvēlās attiecīgā darbība (Komentārs, Mainīt atbildīgo, Atcelt aktivitāti), iespēja ierakstīt komentāru un&nbsp;arī iztērēto laiku. </P>
-<P>Lai saglabātu pievienoto informāciju, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>.</P>
-<P>&nbsp;</P>
-<P>Piedāvājuma sadaļā <STRONG>Citi,</STRONG> iespējams norādīt piedāvājuma <STRONG>stadijas</STRONG> (no 1. stadijas - piedāvājuma sākumstadijas, līdz 4.stadijai - beidzamā stadija, kad, piemēram, ar partneri tiek parakstīts līgums). Piedāvājumam ir iespējams piesaistīt arī <STRONG>kampaņu</STRONG>, <STRONG>līguma grupas</STRONG> un <STRONG>Projektu</STRONG>. </P>
-<P><STRONG>Cena</STRONG> ir informatīvs lauks, kur iespējams norādīt piedāvājuma cenu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26054" border=0></P>
-<P>&nbsp;</P>
-<P>Neaizverot Aktivitāšu logu, caur funkciju iespējams atvērt visas partnera aktivitātes vai pievienot jaunu saistītu aktivitāti. Lai veiktu attiecīgo funkciju, aktivitātes logā jānospiež pogu <IMG src="/help/Skin/help/img.aspx?pid=25814" border=0> un jāizvēlās attiecīgā funkcija:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26055" border=0></P>
-<P>&nbsp;</P>
-<P>Atkarībā no izvēlētās funkcijas, tiek atvērtas visas partnerim piesaistītās aktivitātes (piedāvājumi, notikumi, ienākošās/izejošās korespondences, darba uzdevumi) vai izveidota jauna aktivitāte.</P> 
+.. 743 ==============Aktivitāte============== 
+
+Jaunas Aktivitātes pievienošana
++++++++++++++++++++++++++++++++
+
+JaunuAktivitāti iespējams izveidot:
+
+1.Atrodoties kādā no Dokumetnu žurnāliem: `Piedāvājumu žurnāls`_,
+`Ziņojumu žurnāls`_, `Notikumu žurnāls`_vai `Atgādinātāji`_un rīku
+joslājānospiežot pogu ;
+
+2. No jebkura darba režīma, izmantojot taustiņu kombināciju CTRL+Q,
+tiks atvērts jauns izvēlnes logs:
+
+
+
+
+
+
+
+Izvēloties atbilstošo aktivitātes veidu un nospiežot pogu vai
+atrodoties kādā no žurnāliem un rīkujoslā nospiežot pogu , tiks
+atvērts jauns logs:
+
+
+
+
+
+
+
+1. Nepieciešams ievadīt Piedāvājuma Numuru un norādīt atbilstošo
+Prioritātes līmeni
+
+
+
+CRM veidotajām aktivitātēm iespējams norādīt4 dažādus Prioritātes
+līmeņus, atbilstoši aktivitātes nozīmīgumam (sākot no: n - neitrāls
+līdz !!! - ļoti aktuāls)
+
+
+
+2. Virsraksta laukā iespējams brīvā tekstā ievadīt Piedāvājuma
+Virsrakstu
+
+3. Laukā Meklēt , iespējams ievadīt meklēšanas kritērijus,lai ērtāk
+atrastu nepieciešamo informāciju. Laukā Meklēt ievadot meklējamo
+objektu un nospiežot pogu , dati tiks atrasti, atbilstoši norādītajai
+Meklēšanas Konfigurācijai ( ).
+
+4. Laukā Partneris , nepieciešams no saraksta izvēlēties Partneri,
+kuram Piedāvājums tiks sagatavots:
+
+
+
+
+
+
+
+Ja Piedāvājums tiks sagatavots, izmantojot taustiņu kombināciju
+CTRL+Q, lauks Partneris tiks automātiski aizpildīts (Piemēram, ja
+atrodoties Iepirkumu dokumentu žurnālā, no atvērta iepirkuma
+dokumentu, kur Piegādātājs norādīts Partneris "X", tiks nospiesta
+taustiņu kombinācija CTRL+Q, tad izvēloties aktivitātes veidu:
+Piedāvājums un nospiežot pogu "Sagatavot", automātiski Piedāvājuma
+logā jau būs aizpildīts Partnera lauks).
+
+
+
+Nospiežot pogu pie partnera ieraksta , nepieciešams izvēlēties
+atbilstošo ` potenciālo partneri `_ no `potenciālo partneru
+saraksta`_, vai, nospiežot pogu partnera lauka labajā pusē, iespējams
+pievienot jaunu `potenciālo partneri.`_
+
+
+
+5. Kontaktpersonas laukā iespējams norādīt partnera `kontaktpersonu`_:
+
+
+
+
+
+
+
+6. Laukā Adresāts , jānorāda par piedāvājumu atbildīgā persona.
+
+7. Laukā Piedāvājuma datums , jānorāda datums, kad piedāvājums būs
+aktuāls, un, ja nepieciešams,iespējams norādītdatumu un laiku par
+atgādinājumu pirms piedāvājuma laika.
+
+
+
+Pēc piedāvājuma virsraksta lauku aizpildīšanas, jāpievieno piedāvājuma
+apraksts un/vai kāda no darbībām:
+
+
+
+
+
+
+Lai pievienotu jaunu darbību, jānospiež poga , tiek atvērts jaunas
+darbības logs, kur jāizvēlās attiecīgā darbība (Komentārs, Mainīt
+atbildīgo, Atcelt aktivitāti), iespēja ierakstīt komentāru unarī
+iztērēto laiku.
+
+Lai saglabātu pievienoto informāciju, jānospiež poga .
+
+
+
+Piedāvājuma sadaļā Citi, iespējams norādīt piedāvājuma stadijas (no 1.
+stadijas - piedāvājuma sākumstadijas, līdz 4.stadijai - beidzamā
+stadija, kad, piemēram, ar partneri tiek parakstīts līgums).
+Piedāvājumam ir iespējams piesaistīt arī kampaņu , līguma grupas un
+Projektu .
+
+Cena ir informatīvs lauks, kur iespējams norādīt piedāvājuma cenu:
+
+
+
+
+
+
+
+Neaizverot Aktivitāšu logu, caur funkciju iespējams atvērt visas
+partnera aktivitātes vai pievienot jaunu saistītu aktivitāti. Lai
+veiktu attiecīgo funkciju, aktivitātes logā jānospiež pogu un
+jāizvēlās attiecīgā funkcija:
+
+
+
+
+
+
+
+Atkarībā no izvēlētās funkcijas, tiek atvērtas visas partnerim
+piesaistītās aktivitātes (piedāvājumi, notikumi, ienākošās/izejošās
+korespondences, darba uzdevumi) vai izveidota jauna aktivitāte.
+
+ 

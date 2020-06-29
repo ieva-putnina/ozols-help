@@ -1,14 +1,35 @@
-.. 4469 ===========Kampaņa=========== <P>Pievienotās kampaņas tiek saglabātas <A href="/help/?ssw=44&amp;skf_id=4470">kampaņu žurnālā</A>, un tiek lietotas <A href="/help/?ssw=44&amp;skf_id=5016">Kontaktu kampaņu organizātorā</A>.</P>
-<P>Jaunas kampaņas pievienošana:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25827" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Kods:</STRONG> brīvi nodefinēts kampaņas kods (piemēram, nosaukuma saīsinājums);</P>
-<P><STRONG>Nosaukums:</STRONG> kampaņas nosaukums;</P>
-<P><STRONG>Sākuma dat.:</STRONG> kampaņas sākuma datums;</P>
-<P><STRONG>Beigu dat.:</STRONG> kampaņas beigu datums;</P>
-<P><STRONG>Kampaņas mērķis:</STRONG> nodefinēts kampaņas mērķis;</P>
-<P><STRONG>Mērķauditorija:</STRONG> kampaņas mērķauditorija;</P>
-<P><STRONG>Kampaņas veids:</STRONG> veids no kampaņas veidu saraksta;</P>
-<P><STRONG>Šablons:</STRONG> iespējams pievienot kādu no izveidotajiem <A href="/help/?ssw=44&amp;skf_id=5014">šabloniem</A>;</P>
-<P>Kad visi kapmaņas dati aizpildīti, lai saglabātu kampaņu <A href="/help/?ssw=44&amp;skf_id=4470">kampaņu sarakstā</A>, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25829" border=0>, un lai pievienotu jaunu kampaņu, tad jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25831" border=0>, bet, ja netiks pievienota jauna kampaņa, tad jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25828" border=0>. Lai dzēstu kamapņu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25830" border=0>.</P> 
+.. 4469 ===========Kampaņa=========== 
+Pievienotās kampaņas tiek saglabātas `kampaņu žurnālā`_, un tiek
+lietotas `Kontaktu kampaņu organizātorā`_.
+
+Jaunas kampaņas pievienošana:
+
+
+
+
+
+
+
+Kods: brīvi nodefinēts kampaņas kods (piemēram, nosaukuma
+saīsinājums);
+
+Nosaukums: kampaņas nosaukums;
+
+Sākuma dat.: kampaņas sākuma datums;
+
+Beigu dat.: kampaņas beigu datums;
+
+Kampaņas mērķis: nodefinēts kampaņas mērķis;
+
+Mērķauditorija: kampaņas mērķauditorija;
+
+Kampaņas veids: veids no kampaņas veidu saraksta;
+
+Šablons: iespējams pievienot kādu no izveidotajiem `šabloniem`_;
+
+Kad visi kapmaņas dati aizpildīti, lai saglabātu kampaņu `kampaņu
+sarakstā`_, jānospiež poga , un lai pievienotu jaunu kampaņu, tad
+jānospiež poga , bet, ja netiks pievienota jauna kampaņa, tad
+jānospiež poga . Lai dzēstu kamapņu, jānospiež poga .
+
+ 

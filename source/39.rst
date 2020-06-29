@@ -1,14 +1,57 @@
-.. 39 ========Alga======== <P><A href="/help/?ssw=33&skf_id=117"></A> </P>
-<P>Algu modulis paredzēts jebkura veida atalgojumu aprēķinam, algu vēsturisko datu uzkrāšanai, kā arī visu ar darba ņēmēju atalgojumu saistīto atskaišu un pārskatu sagatavošanai. Tā kā algu aprēķins tiek veikts, izmantojot uzņēmuma <A href="/help/?ssw=33&skf_id=111">Strādājošo</A>, <A href="/help/?ssw=33&skf_id=117">Struktūrvienību</A> un <A href="/help/?ssw=33&skf_id=207">Slodžu</A> datus, algu aprēķina darbībai nepieciešams <A href="/help/?ssw=33&skf_id=47">Personāla</A> uzskaites modulis. </P>
-<P> </P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Ja tiek iegādātas licences tikai Algu modulim (bez Personāla moduļa licences iegādes), tad Algu aprēķinus iespējams veikt izmantojot Personāla moduļa darba režīmus, kuriem pilnā Personāla moduļa licenci nav nepieciešams iegādāties. Iegādājoties tikai Algu moduli, lietotājam iespējams izmantot sekojošus Personāla moduļa darba režīmus: <A href="/help/?ssw=33&skf_id=209">Rīkojumu žurnāls</A>, <A href="/help/?ssw=33&skf_id=186">Amati</A>, <A href="/help/?ssw=33&skf_id=284">Atvaļinājumu kalendāri</A>, <A href="/help/?ssw=33&skf_id=218">Kalendāri</A>, <A href="/help/?ssw=33&skf_id=216">Kalendārs</A>, <A href="/help/?ssw=33&skf_id=217">Notikumu saraksts</A>, <A href="/help/?ssw=33&skf_id=127">Personāla kategorijas</A>, <A href="/help/?ssw=33&skf_id=128">Profesiju klasifikators</A>, <A href="/help/?ssw=33&skf_id=207">Slodzes</A>, <A href="/help/?ssw=33&skf_id=288">Slodžu veidi</A>, <A href="/help/?ssw=33&skf_id=111">Strādājošie</A>. Šo darba režīmu izmantošana sniedz iespēju lietotājam izmantot Algu moduli pilnvērtīgi, taču nenodrošina pilnu Personāla uzskaites funkcionalitāti (t.i.<A href="/help/?ssw=33&skf_id=764">Apbalvojumu</A>, <A href="/help/?ssw=33&skf_id=765">Cita informācijas</A>, <A href="/help/?ssw=33&skf_id=763">Izglītības datu</A>, <A href="/help/?ssw=33&skf_id=762">Karjeras</A>,  <A href="/help/?ssw=33&skf_id=798">Sertifikātu</A>, u.c. personāla papilddatu ievadi, kā arī <A href="/help/?ssw=33&skf_id=651">Maksājumu karšu uzskaiti</A>, <A href="/help/?ssw=33&skf_id=251">Darba līgumu žurnāla reģistru</A>, <A href="/help/?ssw=33&skf_id=791">Iesniegumu žurnāls</A> un Personāla vadības <A href="/help/?ssw=33&skf_id=30">Atskaites</A>)</P>
-<P> </P>
-<P>Algu modulis nodrošina: </P>
-<UL>
-<LI>Pilnībā automatizētu algu aprēķinu kārtējam periodam, kā arī nākošajiem periodiem (atvaļinājuma aprēķins) un iepriekšējiem periodiem (algu pārrēķins par slēgtajiem periodiem).<BR>Katrā periodā var tikt izmantots savs aprēķina algoritms; 
-<LI>Neierobežotu izmaksas veidu izmantošanu, ar ārkārtīgi elastīgu <A href="/help/?ssw=33&skf_id=28">konfigurēšanas</A> sistēmu, tādā veidā ļaujot izmantot jebkurus ieejošo datu veidus – likmes, darba laika uzskaites vienības (stundas, dienas), gabaldarba uzskaites vienības, tarifus, koeficientus, utt.; 
-<LI>Atšķirīgu algu aprēķina algoritmu uzturēšanu katrā periodā, kas ir svarīgi, mainoties likumdošanā noteiktajām nodokļu likmēm un citiem algu aprēķina parametriem; 
-<LI>Algu aprēķinu neierobežotam skaitam <A href="/help/?ssw=33&skf_id=111">Strādājošo</A> brīvā algu periodā (parasti mēnesis, bet iespējams ir arī cits periods, piemēram, nedēļa, ceturksnis, utt.; 
-<LI>Strādājošo personisko kontu uzturēšanu visa finanšu gada garumā, iesniegto nodokļu dokumentu saglabāšanu, izmaksu sarakstu eksportu uz banku elektronisko norēķinu sistēmām; 
-<LI>Sociālās apdrošināšanas datu uzglabāšanu, kā arī pārskatu sagatavošanu un eksportu sociālās apdrošināšanas iestāžu vajadzībām; 
-<LI>Visu LR likumdošanai atbilstošo algas <A href="/help/?ssw=33&skf_id=59">pārskatu</A> automatizētu sagatavošanu un uzglabāšanu. <BR></LI></UL> .. toctree::   :maxdepth: 6    57.rst   25.rst   844.rst   28.rst   29.rst   8.rst
+.. 39 ========Alga======== 
+``_
+
+Algu modulis paredzēts jebkura veida atalgojumu aprēķinam, algu
+vēsturisko datu uzkrāšanai, kā arī visu ar darba ņēmēju atalgojumu
+saistīto atskaišu un pārskatu sagatavošanai. Tā kā algu aprēķins tiek
+veikts, izmantojot uzņēmuma `Strādājošo`_, `Struktūrvienību`_ un
+`Slodžu`_ datus, algu aprēķina darbībai nepieciešams `Personāla`_
+uzskaites modulis.
+
+
+
+Ja tiek iegādātas licences tikai Algu modulim (bez Personāla moduļa
+licences iegādes), tad Algu aprēķinus iespējams veikt izmantojot
+Personāla moduļa darba režīmus, kuriem pilnā Personāla moduļa licenci
+nav nepieciešams iegādāties. Iegādājoties tikai Algu moduli,
+lietotājam iespējams izmantot sekojošus Personāla moduļa darba
+režīmus: `Rīkojumu žurnāls`_, `Amati`_, `Atvaļinājumu kalendāri`_,
+`Kalendāri`_, `Kalendārs`_, `Notikumu saraksts`_, `Personāla
+kategorijas`_, `Profesiju klasifikators`_, `Slodzes`_, `Slodžu
+veidi`_, `Strādājošie`_. Šo darba režīmu izmantošana sniedz iespēju
+lietotājam izmantot Algu moduli pilnvērtīgi, taču nenodrošina pilnu
+Personāla uzskaites funkcionalitāti (t.i.`Apbalvojumu`_, `Cita
+informācijas`_, `Izglītības datu`_, `Karjeras`_, `Sertifikātu`_, u.c.
+personāla papilddatu ievadi, kā arī `Maksājumu karšu uzskaiti`_,
+`Darba līgumu žurnāla reģistru`_, `Iesniegumu žurnāls`_ un Personāla
+vadības `Atskaites`_)
+
+
+
+Algu modulis nodrošina:
+
+
++ Pilnībā automatizētu algu aprēķinu kārtējam periodam, kā arī
+nākošajiem periodiem (atvaļinājuma aprēķins) un iepriekšējiem
+periodiem (algu pārrēķins par slēgtajiem periodiem). Katrā periodā var
+tikt izmantots savs aprēķina algoritms;
++ Neierobežotu izmaksas veidu izmantošanu, ar ārkārtīgi elastīgu
+`konfigurēšanas`_ sistēmu, tādā veidā ļaujot izmantot jebkurus ieejošo
+datu veidus – likmes, darba laika uzskaites vienības (stundas,
+dienas), gabaldarba uzskaites vienības, tarifus, koeficientus, utt.;
++ Atšķirīgu algu aprēķina algoritmu uzturēšanu katrā periodā, kas ir
+svarīgi, mainoties likumdošanā noteiktajām nodokļu likmēm un citiem
+algu aprēķina parametriem;
++ Algu aprēķinu neierobežotam skaitam `Strādājošo`_ brīvā algu periodā
+(parasti mēnesis, bet iespējams ir arī cits periods, piemēram, nedēļa,
+ceturksnis, utt.;
++ Strādājošo personisko kontu uzturēšanu visa finanšu gada garumā,
+iesniegto nodokļu dokumentu saglabāšanu, izmaksu sarakstu eksportu uz
+banku elektronisko norēķinu sistēmām;
++ Sociālās apdrošināšanas datu uzglabāšanu, kā arī pārskatu
+sagatavošanu un eksportu sociālās apdrošināšanas iestāžu vajadzībām;
++ Visu LR likumdošanai atbilstošo algas `pārskatu`_ automatizētu
+  sagatavošanu un uzglabāšanu.
+
+
+ .. toctree::   :maxdepth: 6    57.rst   25.rst   844.rst   28.rst   29.rst   8.rst

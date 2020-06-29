@@ -1,26 +1,84 @@
-.. 14016 ======================Darbs ar atskaitēm====================== <h5>Filtra izmantošana</h5>
-<p>Kad ir sagatavota atskaite, bet tajā ir jāatlasa citi dati, nekā tika noteikts atskaites sagatavošanas filtrā, jālieto komanda Filtrs <img src="/help/Skin/help/img.aspx?pid=24535" border="0">, lai izsauktu filtra formu. Norādot jaunus atskaites sagatavošanas parametrus, atskaite tiks pārzīmēta pēc norādītajiem filtra kritērijiem. <br><br>
-</p><p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Ja atskaite jau ir sagatavota, lai to&nbsp;izsauktu no jauna, nav jāaktivizē atskaites izsaukšana no izvēlnes Atskaites, bet jālieto komanda Filtrs.</p>
-<h5>Neapstiprināto grāmatojumu iekļaušana atskaitēs</h5><h><img src="/help/Skin/help/img.aspx?pid=24546" border="0"></h> 
-<p>&nbsp;</p>
-<p>Lai atskaitēs tiktu iekļauti arī neapstiprinātie grāmatojumi, izvēlei jābūt aktivizētai. 
-</p><p>
-</p><p>
-</p><p>
-</p><p>
-</p><p>
-</p><p>
-</p><p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Iesakām datus sagatavot vienveidīgi un apstiprināt visus izveidotos grāmatojumus.</p>
-<h5>Atskaišu pārzīmēšana</h5>
-<p>No Atskaitēm ir iespējams atvērt grāmatojumus. Atverot grāmatojumu, to, ja nepieciešams, var labot. Kad tiek laboti grāmatojumi, atskaites formā jāspiež taustiņš <strong>F5</strong>, lai pārzīmētu atskaiti. Ja uz ekrāna ir atvērtas vairākas savstarpēji saistītas atskaites, tad katra no tām ir jāpārzīmē. Pārzīmējot atskaites datus, atskaitē tiek parādīti grāmatojuma labojumi.</p>
-<h5>Saistīto atskaišu atvēršana</h5>
-<p>Sagatavojot virsgrāmatas atskaites, atkarībā no atskaites specifikas, tajās ir iebūvētas iespējas atvērt atskaites rindiņas. Tādejādi no vienas atskaites ir iespējams atvērt citu atskaiti, kas parāda datu detalizāciju. Piemēram, no Virsgrāmatas rindas var atvērt Konta korespondences atskaiti, no kuras var atvērt Operāciju pārskatu. Operāciju pārskata ieraksti ir grāmatojumi, un tos atverot var atvērt arī pašu pirmdokumentu. </p>
-<p>&nbsp;</p>
-<p>Izmantojot komandu Funkcijas, no Virsgrāmatas var atvērt vairākas grāmatvedības atskaites. 
-</p><p>
-</p><p>
-</p><p>
-</p><p>
-</p><p>
-</p><p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25286" border="0"></p> 
+.. 14016 ======================Darbs ar atskaitēm====================== 
+
+Filtra izmantošana
+++++++++++++++++++
+
+Kad ir sagatavota atskaite, bet tajā ir jāatlasa citi dati, nekā tika
+noteikts atskaites sagatavošanas filtrā, jālieto komanda Filtrs , lai
+izsauktu filtra formu. Norādot jaunus atskaites sagatavošanas
+parametrus, atskaite tiks pārzīmēta pēc norādītajiem filtra
+kritērijiem.
+
+
+
+Ja atskaite jau ir sagatavota, lai toizsauktu no jauna, nav jāaktivizē
+atskaites izsaukšana no izvēlnes Atskaites, bet jālieto komanda
+Filtrs.
+
+
+Neapstiprināto grāmatojumu iekļaušana atskaitēs
++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai atskaitēs tiktu iekļauti arī neapstiprinātie grāmatojumi, izvēlei
+jābūt aktivizētai.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Iesakām datus sagatavot vienveidīgi un apstiprināt visus izveidotos
+grāmatojumus.
+
+
+Atskaišu pārzīmēšana
+++++++++++++++++++++
+
+No Atskaitēm ir iespējams atvērt grāmatojumus. Atverot grāmatojumu,
+to, ja nepieciešams, var labot. Kad tiek laboti grāmatojumi, atskaites
+formā jāspiež taustiņš F5 , lai pārzīmētu atskaiti. Ja uz ekrāna ir
+atvērtas vairākas savstarpēji saistītas atskaites, tad katra no tām ir
+jāpārzīmē. Pārzīmējot atskaites datus, atskaitē tiek parādīti
+grāmatojuma labojumi.
+
+
+Saistīto atskaišu atvēršana
++++++++++++++++++++++++++++
+
+Sagatavojot virsgrāmatas atskaites, atkarībā no atskaites specifikas,
+tajās ir iebūvētas iespējas atvērt atskaites rindiņas. Tādejādi no
+vienas atskaites ir iespējams atvērt citu atskaiti, kas parāda datu
+detalizāciju. Piemēram, no Virsgrāmatas rindas var atvērt Konta
+korespondences atskaiti, no kuras var atvērt Operāciju pārskatu.
+Operāciju pārskata ieraksti ir grāmatojumi, un tos atverot var atvērt
+arī pašu pirmdokumentu.
+
+
+
+Izmantojot komandu Funkcijas, no Virsgrāmatas var atvērt vairākas
+grāmatvedības atskaites.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

@@ -1,4 +1,11 @@
-.. 5183 ====================Anketas un mērķi==================== <P>&nbsp;</P>
-<P>Šis darba režīms ir paredzēts&nbsp;Novērtēšanas anketas aizpildīšanai Vadītājam.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0><A href="/help/?ssw=44&amp;skf_id=5181"><STRONG>Novērtēšanas anketas aizpildīšana</STRONG></A></P> .. toctree::   :maxdepth: 4    5181.rst   5185.rst
+.. 5183 ====================Anketas un mērķi==================== 
+
+
+Šis darba režīms ir paredzētsNovērtēšanas anketas aizpildīšanai
+Vadītājam.
+
+
+
+` Novērtēšanas anketas aizpildīšana `_
+
+ .. toctree::   :maxdepth: 4    5181.rst   5185.rst

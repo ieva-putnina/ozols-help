@@ -1,15 +1,53 @@
-.. 991 =====================================Debitoru korespondences komentāri===================================== <p><br></p><p>Sarakstā tiek saglabāti debitoru korespondences komentāri - paskaidrojumu teksti, kas tiek izmantoti Debitoru korespondences uzturēšanai, izmantojot CRM funkcionalitāti - pievienojot komentārus atskaitē <a href="?ssw=33&amp;skf_id=555">Pircēju parādi</a>. <br></p><h4>Jauna debitoru korespondences komentāra pievienošana<br></h4>
+.. 991 =====================================Debitoru korespondences komentāri===================================== 
 
-<p>Lai pievienotu jaunu komentāra tekstu, jāizmanto komanda <img src="Skin/help/img.aspx?pid=24879" border="0">&nbsp;&nbsp; no rīku joslas (Alt+P) un tiks atvērts jauns logs: </p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26506" border="0"><br></p>
-<p>&nbsp;</p>
-<p><b>Nosaukums: </b>nepieciešams ierakstīt jaunizveidotā korespondences komentāra nosaukums;</p><p><b>Apraksts: </b>iespēja ievadīt īsu komentāra aprakstu - paskaidrojošo informāciju.</p><p><br></p>
-<p>Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu&nbsp;<img src="Skin/help/img.aspx?pid=24867" border="0">&nbsp; no rīku joslas vai (Ctrl+S) vai atcelts , ja tiks izmantota komanda <img src="Skin/help/img.aspx?pid=24617" border="0">.</p>
 
-<h4>Debitoru korespondences komentāra ieraksta labošana</h4><p>Lai veiktu labojumus komentāra ierakstā, to nepieciešams atvērt, izmantojot komandu&nbsp;<img src="Skin/help/img.aspx?pid=24869" border="0">&nbsp;
- no rīku joslas (Alt+A). Atvērtajā logā iespējams mainīt nosaukumu. Pēc 
-labojumu veikšanas, veiktās izmaiņas iespējams saglabāt ar komandu&nbsp;&nbsp;<img src="Skin/help/img.aspx?pid=24867" border="0"> no rīku joslas. </p>
-<h4>Ieraksta dzēšana</h4>
 
-<p>Lai dzēstu ierakstu, jāizmanto komanda&nbsp;&nbsp;<img src="Skin/help/img.aspx?pid=25602" border="0"> no rīku joslas. Ieraksts ir jādzēš neatvērtā veidā.</p> 
+Sarakstā tiek saglabāti debitoru korespondences komentāri -
+paskaidrojumu teksti, kas tiek izmantoti Debitoru korespondences
+uzturēšanai, izmantojot CRM funkcionalitāti - pievienojot komentārus
+atskaitē `Pircēju parādi`_.
+
+
+
+Jauna debitoru korespondences komentāra pievienošana
+
+Lai pievienotu jaunu komentāra tekstu, jāizmanto komanda no rīku
+joslas (Alt+P) un tiks atvērts jauns logs:
+
+
+
+
+
+
+
+
+**Nosaukums: **nepieciešams ierakstīt jaunizveidotā korespondences
+komentāra nosaukums;
+
+**Apraksts: **iespēja ievadīt īsu komentāra aprakstu - paskaidrojošo
+informāciju.
+
+
+
+
+Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu no rīku
+joslas vai (Ctrl+S) vai atcelts , ja tiks izmantota komanda .
+
+
+
+Debitoru korespondences komentāra ieraksta labošana
+```````````````````````````````````````````````````
+
+Lai veiktu labojumus komentāra ierakstā, to nepieciešams atvērt,
+izmantojot komandu no rīku joslas (Alt+A). Atvērtajā logā iespējams
+mainīt nosaukumu. Pēc labojumu veikšanas, veiktās izmaiņas iespējams
+saglabāt ar komandu no rīku joslas.
+
+
+Ieraksta dzēšana
+````````````````
+
+Lai dzēstu ierakstu, jāizmanto komanda no rīku joslas. Ieraksts ir
+jādzēš neatvērtā veidā.
+
+ 

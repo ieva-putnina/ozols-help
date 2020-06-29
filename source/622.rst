@@ -1,1 +1,3 @@
-.. 622 =========================================Algu konfigurācijas sistēmas mainīgie========================================= Algu konfigurācijas sistēmas mainīgo saraksts ir informatīvs, kura dati tiek izmantoti veidojot sistēmas <A href="/help/?ssw=33&skf_id=283">algu aprēķinu konfigurāciju</A>. 
+.. 622 =========================================Algu konfigurācijas sistēmas mainīgie========================================= Algu konfigurācijas sistēmas mainīgo saraksts ir informatīvs, kura
+dati tiek izmantoti veidojot sistēmas `algu aprēķinu konfigurāciju`_.
+ 

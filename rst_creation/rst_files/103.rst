@@ -1,17 +1,42 @@
-.. 103 ===================Valstu saraksts=================== <P>Valstu saraksts tiek importēts programmā, ieviešanas procesā, bet to ir iespējams arī labot vai papildināt.</P>
-<P>Valstu sarakstā ir norādīs Valsts kods (LV), saraksta numurs un Valsts nosaukums (LATVIA).</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25369" border=0></P>
-<P>&nbsp;</P>
-<P>Valstu sarakstu izmanto pievienojot<A href="/help/?ssw=33&amp;skf_id=312">Partneri</A> un aizpildot <A href="/help/?ssw=33&amp;skf_id=433">Pamatlīdzekļu ienākšanas dokumentu</A>virsrakstu. Lai apskatītu detalizētāku izvēlētās Valsts aprakstu, jānospiež Rīku joslā poga <IMG src="/help/Skin/help/img.aspx?pid=25420" border=0>(ALT+A), tiek atvērts logs:</FONT></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25371" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Kods</STRONG>- Valsts kods;</P>
-<P><STRONG>Numurs -</STRONG>numurs pēc kārtas sarakstā;</P>
-<P><STRONG>Nosaukums</STRONG> - Valsts nosaukums;</P>
-<P><STRONG>Tautība</STRONG> - Valsts tautība;</P>
-<P><STRONG>Valūta</STRONG> - Valsts valūta;</P>
-<P><STRONG>Piezīmes</STRONG> - iespējams ierakstīt dažādas piezīmes;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25372" border=0>- Latvija kā pamatvalsts (noklusētā valsts).</P>
-<P>Aprakstu ir iespējams labot vai papildināt, beigās nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P> 
+.. 103 ===================Valstu saraksts=================== 
+Valstu saraksts tiek importēts programmā, ieviešanas procesā, bet to
+ir iespējams arī labot vai papildināt.
+
+Valstu sarakstā ir norādīs Valsts kods (LV), saraksta numurs un Valsts
+nosaukums (LATVIA).
+
+
+
+
+
+
+
+Valstu sarakstu izmanto pievienojot`Partneri`_ un aizpildot
+`Pamatlīdzekļu ienākšanas dokumentu`_virsrakstu. Lai apskatītu
+detalizētāku izvēlētās Valsts aprakstu, jānospiež Rīku joslā poga
+(ALT+A), tiek atvērts logs:
+
+
+
+
+
+
+
+Kods - Valsts kods;
+
+Numurs - numurs pēc kārtas sarakstā;
+
+Nosaukums - Valsts nosaukums;
+
+Tautība - Valsts tautība;
+
+Valūta - Valsts valūta;
+
+Piezīmes - iespējams ierakstīt dažādas piezīmes;
+
+- Latvija kā pamatvalsts (noklusētā valsts).
+
+Aprakstu ir iespējams labot vai papildināt, beigās nospiežot pogu vai
+.
+
+ 

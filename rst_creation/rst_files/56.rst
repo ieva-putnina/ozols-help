@@ -1,1 +1,26 @@
-.. 56 =============Atskaites============= <br><a href="?ssw=33&amp;skf_id=648">Dimensiju apgrozījums</a><br><br><a href="?ssw=33&amp;skf_id=644">Iepirkumu dokumenti</a><br><br><a href="?ssw=33&amp;skf_id=541">Neapmaksātie iepirkumu dokumenti</a><br><br><a href="?ssw=33&amp;skf_id=540">Neapmaksātie pārdošanas dokumenti</a><br><br><a href="?ssw=33&amp;skf_id=5012">Neapmaksāto pārdošanas dokumentu sodi</a><br><br><a href="?ssw=33&amp;skf_id=560">Norēķini ar piegādātājiem</a><br><br><a href="?ssw=33&amp;skf_id=610">Norēķini ar pircējiem</a><br><br><a href="?ssw=33&amp;skf_id=757">Norēķinu atlikumu salīdzināšana</a><br><br><a href="?ssw=33&amp;skf_id=584">Parādi piegādātājiem</a><br><br><a href="?ssw=33&amp;skf_id=539">Pārdošanas dokumenti</a><br><br><a href="?ssw=33&amp;skf_id=583">Pircēju apgrozījums</a><br><br><a href="?ssw=33&amp;skf_id=555">Pircēju parādi</a><br> .. toctree::   :maxdepth: 5    648.rst   644.rst   542.rst   1018.rst   1036.rst   541.rst   540.rst   5012.rst   560.rst   610.rst   757.rst   584.rst   539.rst   751.rst   583.rst   555.rst
+.. 56 =============Atskaites============= 
+`Dimensiju apgrozījums`_
+
+`Iepirkumu dokumenti`_
+
+`Neapmaksātie iepirkumu dokumenti`_
+
+`Neapmaksātie pārdošanas dokumenti`_
+
+`Neapmaksāto pārdošanas dokumentu sodi`_
+
+`Norēķini ar piegādātājiem`_
+
+`Norēķini ar pircējiem`_
+
+`Norēķinu atlikumu salīdzināšana`_
+
+`Parādi piegādātājiem`_
+
+`Pārdošanas dokumenti`_
+
+`Pircēju apgrozījums`_
+
+`Pircēju parādi`_
+
+ .. toctree::   :maxdepth: 5    648.rst   644.rst   542.rst   1018.rst   1036.rst   541.rst   540.rst   5012.rst   560.rst   610.rst   757.rst   584.rst   539.rst   751.rst   583.rst   555.rst

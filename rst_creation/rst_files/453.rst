@@ -1,1 +1,28 @@
-.. 453 ====================Perioda slēgšana==================== Perioda slēgšana tiek izmantota iepriekšējā perioda dokumentu slēgšanai. Slēgtos dokumentus nav iespējams labot bez to atslēgšanas.<br><h4>Lai slēgtu perioda dokumentus<br></h4><ol><li>Kopējie saraksti-><a href="/help/?ssw=33&skf_id=156">Periodi</a> - jāpievieno <b>dokumentu periods</b> par kuru nepieciešams slēgt dokumentus. Pēc perioda pievienošanas iespējams uzsākt perioda dokumentu slēgšanu.</li><br><li>Jānorāda uzņēmums (ja vienā datu bāzē tiek veikta uzskaite par vairākiem uzņēmumiem), jānorāda pievienotais Dokumentu periods, jāatzīmē dokumenti, kuri tiks slēgti un jānospiež poga Slēgt/Atslēgt:<p></li></ol><img src="Skin/help/img.aspx?pid=26438" border="0"></p><br><br>Pēc atzīmēto dokumentu slēgšanas konkrētajā periodā, sistēmas lietotājiem, veicot darbības ar slēgtā perioda dokumentiem, tiks parādīts paziņojums un aizlieta darbība ar dokumentu:<br><br><img src="Skin/help/img.aspx?pid=26439" border="0"><br><br>Lai atslēgtu perioda dokumentus, jāveic tādas pat darbības kā pie perioda dokumentu slēgšanas - jāatzīmē dokumenti izņemot atzīmes,kurus nepieciešams atslēgt un jānospiež poga <img src="Skin/help/img.aspx?pid=26440" border="0">. Ar šo pogu tiek gan slēgti gan atslēgti konkrētā perioda dokumenti.<br> 
+.. 453 ====================Perioda slēgšana==================== Perioda slēgšana tiek izmantota iepriekšējā perioda dokumentu
+slēgšanai. Slēgtos dokumentus nav iespējams labot bez to atslēgšanas.
+
+
+Lai slēgtu perioda dokumentus
+
+
+#. Kopējie saraksti->`Periodi`_ - jāpievieno **dokumentu periods** par
+   kuru nepieciešams slēgt dokumentus. Pēc perioda pievienošanas
+   iespējams uzsākt perioda dokumentu slēgšanu.
+#. Jānorāda uzņēmums (ja vienā datu bāzē tiek veikta uzskaite par
+   vairākiem uzņēmumiem), jānorāda pievienotais Dokumentu periods,
+   jāatzīmē dokumenti, kuri tiks slēgti un jānospiež poga Slēgt/Atslēgt:
+
+
+
+Pēc atzīmēto dokumentu slēgšanas konkrētajā periodā, sistēmas
+lietotājiem, veicot darbības ar slēgtā perioda dokumentiem, tiks
+parādīts paziņojums un aizlieta darbība ar dokumentu:
+
+
+
+Lai atslēgtu perioda dokumentus, jāveic tādas pat darbības kā pie
+perioda dokumentu slēgšanas - jāatzīmē dokumenti izņemot atzīmes,kurus
+nepieciešams atslēgt un jānospiež poga . Ar šo pogu tiek gan slēgti
+gan atslēgti konkrētā perioda dokumenti.
+
+ 

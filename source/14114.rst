@@ -1,24 +1,134 @@
-.. 14114 ====================================Algu aprēķinā iebūvētās komandas==================================== <P>&nbsp;</P>
-<P>No Algu aprēķina ekrāna formas ir pieejamas vairākas komandas, ar kurām var aktivizēt dažādus darba režīmus datu apskatei, labošanai vai pievienošanai:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26272" border=0></P>
-<P><BR><STRONG>1.Slodzes kalendārs <BR></STRONG>Komanda izsauc strādājošā slodzes kalendāru, kur tiek parādīti darba laika uzskaites kodi – kavētās dienas, slimības dienas, atvaļinājuma dienas, nostrādātās stundas u.c. atbilstoši izveidotajai algu aprēķina konfigurācijai.</P>
-<P><BR><STRONG>2.Aizpildīt ieejošos kodus no slodzes kalendāra līdz atvaļinājumam</STRONG><BR>Ja strādājošā darba laiks tiek uzskaitīts, izmantojot standarta kalendāru un strādājošā kalendāru, kur tiek fiksēts strādājošā kavētās darba dienas, atvaļinājuma dienas u.c. algu aprēķinā vērtības, izmantojot šo komandu, var pievienot automatizēti no kalendāra tajos gadījumos, kad strādājošais mēneša sākumā iet atvaļinājumā un darba devējam ir jāizmaksā alga līdz atvaļinājumam un atvaļinājuma alga, kā arī gadījumos, ja atvaļinājuma&nbsp;nauda tiek rēķināta par nākamo periodu un&nbsp;nepieciešams, lai neapliekamais minimums tiktu piemērots tikai par aprēķināto algas daļu un atvaļinājuma naudu.&nbsp;Lai to nodrošinātu, algu aprēķina formā jāizmanto komanda "Aizpildīt ieejošos kodus no slodzes kalendāra līdz atvaļinājumam", kā rezultātā tiek ieimportētas kavētās kalendārās un kavētās darba dienas līdz mēneša beigām pēc atvaļinājuma.</P>
-<P><BR><STRONG>3.Aizpildīt ieejošos kodus no slodzes kalendāra</STRONG><BR>Ja strādājošā darba laiks tiek uzskaitīts, izmantojot standarta kalendāru un strādājošā kalendāru, kur tiek fiksēts strādājošā kavētās darba dienas, atvaļinājuma dienas, slimības dienas u.c., algu aprēķinā vērtības, izmantojot šo komandu, var pievienot automatizēti no kalendāra.</P>
-<P><BR><STRONG>4.Aizpildīt ieejošos kodus no tarifikācijas</STRONG><BR>Ja tiek izmantota algu tarifikācija, algu aprēķina ieejošos datus var pievienot no algu tarifikācijas. Pirms algu aprēķina jāaizpilda algu tarifikācija, kur pievieno nemainīgās summas, kas katru mēnesi jāaprēķina. Atverot algu aprēķinu un izmantojot komandu, ieejošie kodi automatizēti ievietojas aprēķinā no izveidotās algu tarifikācijas.</P>
-<P><BR><STRONG>5.Aprēķins (F9)</STRONG><BR>Tiek veikts rezultātu pārrēķins, ja algu aprēķina ieejošie dati tiek mainīti.</P>
-<P><BR><STRONG>6.Izmaksa<BR></STRONG>Komanda izsauc ekrāna formu, kurā jānorāda izmaksu saraksts, uz kuru aprēķinātā izmaksa ir jānosūta. Pirms izmaksas nosūtīšanas jāizveido izmaksu saraksts.</P>
-<P><BR><STRONG>7.Rezultāti (F6)</STRONG><BR>Tiek atvērti apskatei visi strādājošajam aprēķina periodā izveidotie un saglabātie algu rezultāti, atbilstoši izveidotajai algu aprēķina konfigurācijai. Algu aprēķina rezultātus var atvērt arī ar peles dubultklikšķi no atvērtā algu aprēķina formas labās puses, kur parādās aprēķinātās summas un ieturējumi. </P>
-<P><BR><STRONG>8.Perioda dati (F4)</STRONG><BR>Perioda datu darba režīmā ir redzams, kāds <A href="/help/?ssw=33&amp;skf_id=208">Nodokļu dokuments</A> tiek aprēķinā piemērots un kādas ir sociālā nodokļa likmes, ienākuma nodokļa atvieglojumi. Nodokļu likmes ir norādītas nodokļu dokumentā, perioda datos nodokļa dokumenta laukam jābūt aizpildītam.</P>
-<P><BR><STRONG>9.Personīgais konts <BR></STRONG>Komanda jāizmanto, lai sagatavotu personīgā konta izdruku un VSAOI uzskaites kartīti. Lai sagatavotu izdrukas, jāizmanto komanda Skats, lai norādītu, kādas datu kolonnas ekrāna formā jāparāda:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26273" border=0></P>
-<P>&nbsp;</P>
-<P>Atskaišu kolonnām jābūt sakonfigurētām pie darba režīmiem: <A href="/help/?ssw=33&amp;skf_id=214">Kolonnu virsraksti</A>. Lai drukātu veidlapas, atvērtam algu aprēķinam jāizvēlas&nbsp; Kolonnas - Personīgais konts vai&nbsp; Sociālās apdrošināšanas kartīte un&nbsp;pēc tam&nbsp;Drukāt: Personīgais konts vai&nbsp; Sociālās apdrošināšanas kartīte.</P>
-<P><BR><STRONG>10.Sodzes rīkojumi (Ctrl+V)<BR></STRONG>Var atvērt apskatei un rediģēšanai strādājošajam izveidoto <A href="/help/?ssw=33&amp;skf_id=209">Rīkojumu žurnālu</A>. No rīkojuma žurnāla var pievienot jaunus rīkojumus.</P>
-<P><BR><STRONG>11.Slodzes nodokļu dokumenti (Ctrl+O)</STRONG><BR>Var atvērt apskatei un rediģēšanai strādājošajam izveidotos nodokļu dokumentus. <A href="/help/?ssw=33&amp;skf_id=208">Nodokļu dokumentu žurnālā</A> var labot vai pievienot jaunus nodokļu dokumentus.</P>
-<P><BR><STRONG>12.Algu tarifikācija (Ctrl+R)<BR></STRONG><A href="/help/?ssw=33&amp;skf_id=728">Algu tarifikācija</A> parāda ierakstus, kas izveidoti strādājošajam. Algu tarifikāciju var izmantot katru mēnesi ieejošo datu aizpildīšanai algu aprēķinā.</P>
-<P><BR><STRONG>13.Algu lapiņa (F3)</STRONG><BR>Var sagatavot un drukāt strādājošā algu lapiņu. Lai sagatavotu un drukātu algu lapiņas visiem strādājošajiem kopā, jālieto atskaite <A href="/help/?ssw=33&amp;skf_id=611">Algu lapiņas</A>. </P>
-<P><BR><STRONG>14.Piezīmes</STRONG><BR>Katram algu periodam var pievienot piezīmes, kas ir informatīvas un izmantojamas programmas lietotāju un operatoru piezīmēm.</P>
-<P><BR><STRONG>15.Iepriekšējais (CTRL+PGUP)</STRONG><BR>Izmantojot komandu Iepriekšējais, automatizēti tiek saglabāts atvērtais algu aprēķins un atvērts iepriekšējais algu aprēķina žurnāla ieraksts.</P>
-<P><BR><STRONG>16.Nākošais (CTRL+PGDN)</STRONG><BR>Izmantojot komandu Nākošais, automatizēti tiek saglabāts atvērtais algu aprēķins un atvērts nākošais algu aprēķina žurnāla ieraksts.<BR></P> 
+.. 14114 ====================================Algu aprēķinā iebūvētās komandas==================================== 
+
+
+No Algu aprēķina ekrāna formas ir pieejamas vairākas komandas, ar
+kurām var aktivizēt dažādus darba režīmus datu apskatei, labošanai vai
+pievienošanai:
+
+
+
+
+
+
+1.Slodzes kalendārs
+Komanda izsauc strādājošā slodzes kalendāru, kur tiek parādīti darba
+laika uzskaites kodi – kavētās dienas, slimības dienas, atvaļinājuma
+dienas, nostrādātās stundas u.c. atbilstoši izveidotajai algu aprēķina
+konfigurācijai.
+
+
+2.Aizpildīt ieejošos kodus no slodzes kalendāra līdz atvaļinājumam
+Ja strādājošā darba laiks tiek uzskaitīts, izmantojot standarta
+kalendāru un strādājošā kalendāru, kur tiek fiksēts strādājošā kavētās
+darba dienas, atvaļinājuma dienas u.c. algu aprēķinā vērtības,
+izmantojot šo komandu, var pievienot automatizēti no kalendāra tajos
+gadījumos, kad strādājošais mēneša sākumā iet atvaļinājumā un darba
+devējam ir jāizmaksā alga līdz atvaļinājumam un atvaļinājuma alga, kā
+arī gadījumos, ja atvaļinājumanauda tiek rēķināta par nākamo periodu
+unnepieciešams, lai neapliekamais minimums tiktu piemērots tikai par
+aprēķināto algas daļu un atvaļinājuma naudu.Lai to nodrošinātu, algu
+aprēķina formā jāizmanto komanda "Aizpildīt ieejošos kodus no slodzes
+kalendāra līdz atvaļinājumam", kā rezultātā tiek ieimportētas kavētās
+kalendārās un kavētās darba dienas līdz mēneša beigām pēc
+atvaļinājuma.
+
+
+3.Aizpildīt ieejošos kodus no slodzes kalendāra
+Ja strādājošā darba laiks tiek uzskaitīts, izmantojot standarta
+kalendāru un strādājošā kalendāru, kur tiek fiksēts strādājošā kavētās
+darba dienas, atvaļinājuma dienas, slimības dienas u.c., algu aprēķinā
+vērtības, izmantojot šo komandu, var pievienot automatizēti no
+kalendāra.
+
+
+4.Aizpildīt ieejošos kodus no tarifikācijas
+Ja tiek izmantota algu tarifikācija, algu aprēķina ieejošos datus var
+pievienot no algu tarifikācijas. Pirms algu aprēķina jāaizpilda algu
+tarifikācija, kur pievieno nemainīgās summas, kas katru mēnesi
+jāaprēķina. Atverot algu aprēķinu un izmantojot komandu, ieejošie kodi
+automatizēti ievietojas aprēķinā no izveidotās algu tarifikācijas.
+
+
+5.Aprēķins (F9)
+Tiek veikts rezultātu pārrēķins, ja algu aprēķina ieejošie dati tiek
+mainīti.
+
+
+6.Izmaksa
+Komanda izsauc ekrāna formu, kurā jānorāda izmaksu saraksts, uz kuru
+aprēķinātā izmaksa ir jānosūta. Pirms izmaksas nosūtīšanas jāizveido
+izmaksu saraksts.
+
+
+7.Rezultāti (F6)
+Tiek atvērti apskatei visi strādājošajam aprēķina periodā izveidotie
+un saglabātie algu rezultāti, atbilstoši izveidotajai algu aprēķina
+konfigurācijai. Algu aprēķina rezultātus var atvērt arī ar peles
+dubultklikšķi no atvērtā algu aprēķina formas labās puses, kur parādās
+aprēķinātās summas un ieturējumi.
+
+
+8.Perioda dati (F4)
+Perioda datu darba režīmā ir redzams, kāds `Nodokļu dokuments`_ tiek
+aprēķinā piemērots un kādas ir sociālā nodokļa likmes, ienākuma
+nodokļa atvieglojumi. Nodokļu likmes ir norādītas nodokļu dokumentā,
+perioda datos nodokļa dokumenta laukam jābūt aizpildītam.
+
+
+9.Personīgais konts
+Komanda jāizmanto, lai sagatavotu personīgā konta izdruku un VSAOI
+uzskaites kartīti. Lai sagatavotu izdrukas, jāizmanto komanda Skats,
+lai norādītu, kādas datu kolonnas ekrāna formā jāparāda:
+
+
+
+
+
+
+
+Atskaišu kolonnām jābūt sakonfigurētām pie darba režīmiem: `Kolonnu
+virsraksti`_. Lai drukātu veidlapas, atvērtam algu aprēķinam jāizvēlas
+Kolonnas - Personīgais konts vai Sociālās apdrošināšanas kartīte unpēc
+tamDrukāt: Personīgais konts vai Sociālās apdrošināšanas kartīte.
+
+
+10.Sodzes rīkojumi (Ctrl+V)
+Var atvērt apskatei un rediģēšanai strādājošajam izveidoto `Rīkojumu
+žurnālu`_. No rīkojuma žurnāla var pievienot jaunus rīkojumus.
+
+
+11.Slodzes nodokļu dokumenti (Ctrl+O)
+Var atvērt apskatei un rediģēšanai strādājošajam izveidotos nodokļu
+dokumentus. `Nodokļu dokumentu žurnālā`_ var labot vai pievienot
+jaunus nodokļu dokumentus.
+
+
+12.Algu tarifikācija (Ctrl+R)
+`Algu tarifikācija`_ parāda ierakstus, kas izveidoti strādājošajam.
+Algu tarifikāciju var izmantot katru mēnesi ieejošo datu aizpildīšanai
+algu aprēķinā.
+
+
+13.Algu lapiņa (F3)
+Var sagatavot un drukāt strādājošā algu lapiņu. Lai sagatavotu un
+drukātu algu lapiņas visiem strādājošajiem kopā, jālieto atskaite
+`Algu lapiņas`_.
+
+
+14.Piezīmes
+Katram algu periodam var pievienot piezīmes, kas ir informatīvas un
+izmantojamas programmas lietotāju un operatoru piezīmēm.
+
+
+15.Iepriekšējais (CTRL+PGUP)
+Izmantojot komandu Iepriekšējais, automatizēti tiek saglabāts
+atvērtais algu aprēķins un atvērts iepriekšējais algu aprēķina žurnāla
+ieraksts.
+
+
+16.Nākošais (CTRL+PGDN)
+Izmantojot komandu Nākošais, automatizēti tiek saglabāts atvērtais
+algu aprēķins un atvērts nākošais algu aprēķina žurnāla ieraksts.
+
+
+ 

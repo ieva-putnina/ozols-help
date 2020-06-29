@@ -1,4 +1,13 @@
-.. 7322 ==============================Personāliju darba pārskats============================== <P>Personāliju darba pārskata atskaitē redzamas pasākumu <A href="/help/?ssw=73&amp;skf_id=7314">dalībnieku </A>mēģinājumu un izrāžu skaits attiecīgā periodā, par <A href="/help/?ssw=73&amp;skf_id=7313">struktūrvienībām</A> un pa attiecīgiem <A href="/help/?ssw=73&amp;skf_id=7312">pasākumiem</A>:</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26198" border=0></P>
-<P>&nbsp;</P>
-<P>Aktivizējot konkrētu personas ierakstu, tiek atvērts <A href="/help/?ssw=73&amp;skf_id=7305">personas aprakst</A> un personai <A href="/help/?ssw=73&amp;skf_id=7308">piesaistītie notikumi</A>.</P> 
+.. 7322 ==============================Personāliju darba pārskats============================== 
+Personāliju darba pārskata atskaitē redzamas pasākumu `dalībnieku
+`_mēģinājumu un izrāžu skaits attiecīgā periodā, par
+`struktūrvienībām`_ un pa attiecīgiem `pasākumiem`_:
+
+
+
+
+
+Aktivizējot konkrētu personas ierakstu, tiek atvērts `personas
+aprakst`_ un personai `piesaistītie notikumi`_.
+
+ 

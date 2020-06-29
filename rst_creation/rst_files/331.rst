@@ -1,42 +1,128 @@
-.. 331 ===============Grāmatojums=============== <P><A href="/help/?ssw=33&amp;skf_id=628"></A>&nbsp;</P>
-<P>Grāmatojums ir pirmdokumenta kontējums. Grāmatojums tiek izveidots dokumenta veidā, un visi izveidotie grāmatojumi ir pieejami <A href="/help/?ssw=33&amp;skf_id=131">Grāmatojumu žurnālā</A>. Grāmatojums ar pirmdokumentu ir cieši saistīts, no pirmdokumenta ar CTRL+G komandas palīdzību var izsaukt dokumenta grāmatojumu. No grāmatojuma ekrāna formas var atvērt grāmatojuma pirmdokumentu. Aktīvās grāmatojumu atskaites sniedz detalizāciju līdz pat grāmatojuma atvēršanai no atskaites formas. Grāmatojot dokumentu, jāizvēlas <A href="/help/?ssw=33&amp;skf_id=135">Grāmatojumu šablons</A>, lai automatizēti izveidotu kontējumu.</P>
-<P>Grāmatojuma satura kolonnas var konfigurēt, nosakot kādu informāciju jāparāda grāmatojuma saturā.</P>
-<H4>Jauna manuālā grāmatojuma pievienošana</H4>
-<P>Izvēloties dokumenta veidu Grāmatojums, tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25096" border=0></P>
-<H5>Manuālā grāmatojuma virsraksta aizpildīšana</H5>
-<P>&nbsp;</P>
-<P>Lai aizpildītu Grāmatojuma Virsrakstu, nepieciešams:</P>
-<P>&nbsp;</P>
-<P>1. Norādīt Grāmatojuma datumu (pēc noklusējuma, laukā Gr.datums tiek ielikts tekošās dienas datums):</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25097" border=0></P>
-<P>&nbsp;</P>
-<P>2. Ierakstīt grāmatojuma kopējo summu un norādīt grāmatojuma valūtu (ja izvēlētā valūta atšķiras no datu bāzē norādītās pamatvalūtas, laukā summa p.v. ievadītā summa tiks uzrādīta pamatvalūtā, aprēķināta pēc LB kursa)</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25098" border=0></P>
-<P>&nbsp;</P>
-<P>3. Iespēja aizpildīt Grāmatojuma Paskaidrojumu, izvēloties paskaidrojuma tekstu no&nbsp;nodefinētajiem&nbsp;<A href="/help/?ssw=33&amp;skf_id=628">Grāmatojumu paskaidrojuiem</A>&nbsp;vai ierakstot Paskaidrojuma tekstu manuāli:<BR></P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25099" border=0></P>
-<H5>&nbsp;</H5>
-<H5>Manuālā grāmatojuma Satura aizpildīšana</H5>
-<P>Lai aizpildītu Grāmatojuma Saturu, dokumenta satura daļā nepieciešams nospiest <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25100" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Ja grāmatojuma satura ieraksta rindiņu Debeta un Kredīta pusē nepieciešams norādīt atšķirīgas dimensijas (Piemēram, DB puses EK atšķirīgs no CR puses EK), satura logā iespējams atzīmēt izvēles rūtiņu: <IMG src="/help/Skin/help/img.aspx?pid=25103" border=0>, tādejādi labojot vienas puses ierakstus, labojums automātiski nepārnesīsies uz otru satura ieraksta pusi.</P>
-<P>Pēc&nbsp;satura ierakstu aizpildīšanas,&nbsp;ierakstu iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P>
-<P>&nbsp;</P>
-<H5>Manuālā grāmatojuma Satura ierakstu labošana</H5>
-<P>Lai veiktu labojumus,&nbsp;satura ierakstu&nbsp;nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>&nbsp;(ALT+A), un&nbsp;atvērtajā&nbsp;ierakstā iespējams veikt&nbsp;nepieciešamos labojumus:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25105" border=0></P>
-<P>&nbsp;</P>
-<H5>Manuālā grāmatojuma saglabāšana un apstiprināšana</H5>
-<P>&nbsp;</P>
-<P>Pēc nepieciešamo satura ierkastu pievienošanas, grāmatojuma dokumentā&nbsp;tiek parādīts operācijas kontējums.</P>
-<P>&nbsp;</P>
-<P align=justify>Ja&nbsp;grāmatojums ir aizpildīts, ir divas iespējas, kā saglabāt grāmatojumu:</P>
-<P align=justify>1) nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp; - grāmatojums tiks saglabāts <A href="/help/?ssw=33&amp;skf_id=131">Grāmatojumu žurnālā</A>, bet tas nebūs Apstiprināts, un līdz ar to būs iespēja veikt korekcijas, ja tas būs nepieciešams;</P>
-<P align=justify>2) rīku joslā nospiežot pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24740" border=0>(Ctrl+R)&nbsp;- izpildot šo darbību, grāmatojums vienlaicīgi tiks saglabāts un apstiprināts, kas&nbsp;nozīmē, ka&nbsp;grāmatojuma sagatavošana ir pabeigta. Apstiprinātais grāmatojums būs pieejams <A href="/help/?ssw=33&amp;skf_id=131">Grāmatojumu žurnālā</A>.</P> 
+.. 331 ===============Grāmatojums=============== 
+``_
+
+Grāmatojums ir pirmdokumenta kontējums. Grāmatojums tiek izveidots
+dokumenta veidā, un visi izveidotie grāmatojumi ir pieejami
+`Grāmatojumu žurnālā`_. Grāmatojums ar pirmdokumentu ir cieši
+saistīts, no pirmdokumenta ar CTRL+G komandas palīdzību var izsaukt
+dokumenta grāmatojumu. No grāmatojuma ekrāna formas var atvērt
+grāmatojuma pirmdokumentu. Aktīvās grāmatojumu atskaites sniedz
+detalizāciju līdz pat grāmatojuma atvēršanai no atskaites formas.
+Grāmatojot dokumentu, jāizvēlas `Grāmatojumu šablons`_, lai
+automatizēti izveidotu kontējumu.
+
+Grāmatojuma satura kolonnas var konfigurēt, nosakot kādu informāciju
+jāparāda grāmatojuma saturā.
+
+
+Jauna manuālā grāmatojuma pievienošana
+``````````````````````````````````````
+
+Izvēloties dokumenta veidu Grāmatojums, tiks atvērts jauns logs:
+
+
+
+
+
+
+Manuālā grāmatojuma virsraksta aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai aizpildītu Grāmatojuma Virsrakstu, nepieciešams:
+
+
+
+1. Norādīt Grāmatojuma datumu (pēc noklusējuma, laukā Gr.datums tiek
+ielikts tekošās dienas datums):
+
+
+
+
+
+
+
+2. Ierakstīt grāmatojuma kopējo summu un norādīt grāmatojuma valūtu
+(ja izvēlētā valūta atšķiras no datu bāzē norādītās pamatvalūtas,
+laukā summa p.v. ievadītā summa tiks uzrādīta pamatvalūtā, aprēķināta
+pēc LB kursa)
+
+
+
+
+
+
+
+3. Iespēja aizpildīt Grāmatojuma Paskaidrojumu, izvēloties
+paskaidrojuma tekstu nonodefinētajiem`Grāmatojumu paskaidrojuiem`_vai
+ierakstot Paskaidrojuma tekstu manuāli:
+
+
+
+
+
+
+
+Manuālā grāmatojuma Satura aizpildīšana
++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu Grāmatojuma Saturu, dokumenta satura daļā nepieciešams
+nospiest un tiks atvērts operācijas satura logs, kurā nepieciešams
+aizpildīt satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt
+satura ieraksta summu:
+
+
+
+
+
+
+
+Ja grāmatojuma satura ieraksta rindiņu Debeta un Kredīta pusē
+nepieciešams norādīt atšķirīgas dimensijas (Piemēram, DB puses EK
+atšķirīgs no CR puses EK), satura logā iespējams atzīmēt izvēles
+rūtiņu: , tādejādi labojot vienas puses ierakstus, labojums
+automātiski nepārnesīsies uz otru satura ieraksta pusi.
+
+Pēcsatura ierakstu aizpildīšanas,ierakstu iespējams vai .
+
+
+
+
+Manuālā grāmatojuma Satura ierakstu labošana
+++++++++++++++++++++++++++++++++++++++++++++
+
+Lai veiktu labojumus,satura ierakstunepieciešams atvērt, izmantojot
+rīku joslas pogu (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus:
+
+
+
+
+
+
+
+
+Manuālā grāmatojuma saglabāšana un apstiprināšana
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Pēc nepieciešamo satura ierkastu pievienošanas, grāmatojuma
+dokumentātiek parādīts operācijas kontējums.
+
+
+
+Jagrāmatojums ir aizpildīts, ir divas iespējas, kā saglabāt
+grāmatojumu:
+
+1) nospiežot pogu - grāmatojums tiks saglabāts `Grāmatojumu žurnālā`_,
+bet tas nebūs Apstiprināts, un līdz ar to būs iespēja veikt
+korekcijas, ja tas būs nepieciešams;
+
+2) rīku joslā nospiežot pogu (Ctrl+R)- izpildot šo darbību,
+grāmatojums vienlaicīgi tiks saglabāts un apstiprināts, kasnozīmē,
+kagrāmatojuma sagatavošana ir pabeigta. Apstiprinātais grāmatojums būs
+pieejams `Grāmatojumu žurnālā`_.
+
+ 

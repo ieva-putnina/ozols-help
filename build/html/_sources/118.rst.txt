@@ -1,11 +1,34 @@
-.. 118 ====================Bankas kodu tipi==================== <P>&nbsp;</P>
-<P>Sarakstā tiek saglabāti banku kodu tipi, kas tiek izmantoti banku saraksta aizpildīšanai.<BR></P>
-<H5>Jauna Bankas koda tipa pievienošana:</H5>
-<P>Lai pievienotu jaunu bankas kodu tipu rīku joslā jānospiež poga&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24654" border=0></P>
-<P>&nbsp;</P>
-<P>Laukā Nosaukums, nepieciešams ierakstīt Bankas koda tipa nosaukumu. Ieraksts tiks saglabāts, izpildot komandu <IMG src="/help/Skin/help/img.aspx?pid=24710" border=0>.</P>
-<H5>Pievienotā Bankas koda tipa labošana:</H5>
-<P>Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>&nbsp;(ALT+A), un&nbsp;atvērtajā logā nomainīt Nosaukumu.</P>
-<P>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P> 
+.. 118 ====================Bankas kodu tipi==================== 
+
+
+Sarakstā tiek saglabāti banku kodu tipi, kas tiek izmantoti banku
+saraksta aizpildīšanai.
+
+
+
+Jauna Bankas koda tipa pievienošana:
+++++++++++++++++++++++++++++++++++++
+
+Lai pievienotu jaunu bankas kodu tipu rīku joslā jānospiež poga un
+tiks atvērts jauns logs:
+
+
+
+
+
+
+
+Laukā Nosaukums, nepieciešams ierakstīt Bankas koda tipa nosaukumu.
+Ieraksts tiks saglabāts, izpildot komandu .
+
+
+Pievienotā Bankas koda tipa labošana:
++++++++++++++++++++++++++++++++++++++
+
+Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
+atvērt, izmantojot rīku joslas pogu (ALT+A), unatvērtajā logā nomainīt
+Nosaukumu.
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+ 

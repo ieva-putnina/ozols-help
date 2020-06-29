@@ -1,5 +1,12 @@
-.. 6502 =============Dokumenti============= <P>&nbsp;</P>
-<P>Izmantojot Polišu dokumentus, iespējams:</P>
-<P>&nbsp;</P>
-<P>Pievienot jaunu <A href="/help/?ssw=65&amp;skf_id=6518">Pielikumu</A></P>
-<P>Iegūt informāciju par pievienotajām <A href="/help/?ssw=65&amp;skf_id=6521">Polisēm</A></P> .. toctree::   :maxdepth: 5    6597.rst   6522.rst   6518.rst   6521.rst   6510.rst   6592.rst   6514.rst   6579.rst   6580.rst
+.. 6502 =============Dokumenti============= 
+
+
+Izmantojot Polišu dokumentus, iespējams:
+
+
+
+Pievienot jaunu `Pielikumu`_
+
+Iegūt informāciju par pievienotajām `Polisēm`_
+
+ .. toctree::   :maxdepth: 5    6597.rst   6522.rst   6518.rst   6521.rst   6510.rst   6592.rst   6514.rst   6579.rst   6580.rst

@@ -1,23 +1,68 @@
-.. 584 ========================Parādi piegādātājiem======================== <p><br></p><p>Atskaiti, par parādiem piegādātājiem, ir iespējams sagatavot uz noteiktu datumu. Atskaite tiek sagatavota par piegādātājiem un parāda summām.</p>
-<p>Filtrs jāaizpilda, lai sagatavotu atskaiti.</p>
-<p>Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.</p>
-<p>Datu atlases kritērijus var saglabāt (<img src="/help/Skin/help/img.aspx?pid=24938" border="0">). Izvēloties izveidoto filtra sagatavi (<img src="/help/Skin/help/img.aspx?pid=24943" border="0">), filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež poga <img src="/help/Skin/help/img.aspx?pid=24535" border="0">(Ctrl+F), tiek atvērts filtra logs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25629" border="0"></p>
-<p>&nbsp;</p>
-<p><strong>Uzņēmums:</strong> ja ir vairāki uzņēmumi, tad jāizvēlas par kuru tiks gatavota atskaite;</p>
-<p><strong>Noliktava:</strong> noliktava, par kuru tiks gatavota atskaite;</p>
-<p><strong>Termiņš uz:</strong> datums, uz kuru tiks sagatavota atskaite;</p>
-<p><strong>Samaksāts līdz:</strong> apmaksas datums;</p>
-<p><strong>Term.pārsniegts no_ līdz_ dienas:</strong> apmaksas termiņā pārsniegtās dienas;</p>
-<p><strong>Datums:</strong> piegādes periods;</p>
-<p><strong>Dok. datums:</strong> dokumenta datums;</p>
-<p><strong>Dok. veids:</strong> dokumenta veids (piem., pavadzīme);</p>
-<p><strong>Veids:</strong> dokumenta veids (piem., stingrās uzskaites pavadzīme);</p>
-<p><strong>Piegādātājs:</strong> iespējams sagatavot atskaiti par vienu piegādātāju;</p>
-<p><strong>Ek.kods:</strong> dimensiju dalījums;</p>
-<p><strong>VFK:</strong> dimensiju dalījums;</p>
-<p><strong>Apmaksa:</strong> apmaksas termiņa definējums;</p>
-<p><strong>Valūta:</strong> iespējams sagatavot atskaiti par viena veida valūtas dokumentiem;</p>
-<p><strong>Rādīt tikai dokumentus ar stingrās uzskaites numuriem:</strong> lai tiktu sagatavota atskaite tikai par dokumentiem ar stingrās uzskaites numuriem.</p>
-<p>Ja filtrā visi atskaites kritēriji izvēlēti, jānospiež poga <img src="/help/Skin/help/img.aspx?pid=25619" border="0">. Sagatavotās atskaites datus ir iespējams apskatīt arī pirmdokumenta līmenī. Lai atvērtu viena pircēja dokumentu, rīku joslā jānospiež poga <img src="/help/Skin/help/img.aspx?pid=25603" border="0">. Sagatavotos atskaites datus ir iespējams arī izdrukāt. Lai drukātu datus, rīko joslā jānospiež poga <img src="/help/Skin/help/img.aspx?pid=24944" border="0"> (Ctrl+P), un jānospiež poga <img src="/help/Skin/help/img.aspx?pid=25620" border="0">.</p> 
+.. 584 ========================Parādi piegādātājiem======================== 
+
+
+
+Atskaiti, par parādiem piegādātājiem, ir iespējams sagatavot uz
+noteiktu datumu. Atskaite tiek sagatavota par piegādātājiem un parāda
+summām.
+
+Filtrs jāaizpilda, lai sagatavotu atskaiti.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( ). Izvēloties izveidoto filtra
+sagatavi ( ), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā
+jānospiež poga (Ctrl+F), tiek atvērts filtra logs:
+
+
+
+
+
+
+
+Uzņēmums: ja ir vairāki uzņēmumi, tad jāizvēlas par kuru tiks gatavota
+atskaite;
+
+Noliktava: noliktava, par kuru tiks gatavota atskaite;
+
+Termiņš uz: datums, uz kuru tiks sagatavota atskaite;
+
+Samaksāts līdz: apmaksas datums;
+
+Term.pārsniegts no_ līdz_ dienas: apmaksas termiņā pārsniegtās dienas;
+
+Datums: piegādes periods;
+
+Dok. datums: dokumenta datums;
+
+Dok. veids: dokumenta veids (piem., pavadzīme);
+
+Veids: dokumenta veids (piem., stingrās uzskaites pavadzīme);
+
+Piegādātājs: iespējams sagatavot atskaiti par vienu piegādātāju;
+
+Ek.kods: dimensiju dalījums;
+
+VFK: dimensiju dalījums;
+
+Apmaksa: apmaksas termiņa definējums;
+
+Valūta: iespējams sagatavot atskaiti par viena veida valūtas
+dokumentiem;
+
+Rādīt tikai dokumentus ar stingrās uzskaites numuriem: lai tiktu
+sagatavota atskaite tikai par dokumentiem ar stingrās uzskaites
+numuriem.
+
+Ja filtrā visi atskaites kritēriji izvēlēti, jānospiež poga .
+Sagatavotās atskaites datus ir iespējams apskatīt arī pirmdokumenta
+līmenī. Lai atvērtu viena pircēja dokumentu, rīku joslā jānospiež poga
+. Sagatavotos atskaites datus ir iespējams arī izdrukāt. Lai drukātu
+datus, rīko joslā jānospiež poga (Ctrl+P), un jānospiež poga .
+
+ 

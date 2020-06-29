@@ -1,110 +1,318 @@
-.. 106 ================Nomenklatūra================ <p>&nbsp;</p>
-<p>Nomenklatūras sarakstā tiek saglabāti preču un krājumu apraksti. Nomenklatūras apraksts ir informācija, kas ir kopīga visām vienādām precēm vai krājumiem. Nomenklatūras apraksts satur informāciju par ražotāju, <a href="/help/?ssw=33&amp;skf_id=148">Grupu</a>, nosaukumu, kodu, ražotāja kodu, mērvienību un <a href="/help/?ssw=33&amp;skf_id=749">Cenu</a>. Viens nomenklatūras apraksts apzīmē vienu nomenklatūru, kuras daudzums un cena var mainīties. </p>
-<p>Nomenklatūra tiek uzskaitīta pa <a href="/help/?ssw=33&amp;skf_id=142">Noliktavām</a>&nbsp;un grupēta, izmantojot <a href="/help/?ssw=33&amp;skf_id=148">Grupu</a> sarakstu. </p>
-<h4>Jaunas&nbsp;nomenklatūras&nbsp;kartiņas pievienošana</h4>
-<p>Lai pievienotu jaunu nomenklatūras kartiņu, rīku joslā&nbsp;jānospiež poga&nbsp;<img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiks atvērts jauns logs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25965" border="0"></p>
-<h5>1. Nomenklatūras pamatdatu aizpildīšana</h5>
-<p>Lai aizpildītu nomenklatūras kartiņas pamatdatus, nepieciešams:</p>
-<p>&nbsp;</p>
-<p>1. No Norēķinos izveidotā <a href="/help/?ssw=33&amp;skf_id=148">Grupu</a> saraksta, izvēlēties nomenklatūrai atbilstošo grupu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25309" border="0"></p>
-<p>&nbsp;</p>
-<p>2. Ierakstīt nomenklatūras kodu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25310" border="0"></p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Nomenklatūras kodu iespējams ievadīt katru reizi manuāli vai arī&nbsp;noteikt konfigurācijas formātu, kur atbilstošā rakstzīme ir viens simbols no dažādiem nomenklatūras apraksta kodiem. Nomenklatūras koda ģenerēšanu automātiski iespējams noteikt konfigurācijas iestādījumos (&gt;Konfigurācija &gt; Iestādījumi &gt; Kopīgie &gt; <a href="/help/?ssw=33&amp;skf_id=716">Noliktava</a>).&nbsp;Ņemot vērā nomenklatūras koda veidošanas nosacījumus, tiek automatizēti izveidots nomenklatūras apraksta laukā Kods.</p>
-<p>&nbsp;</p>
-<p>3. Ievadīt nomenklatūras nosaukumu, norādīt atbilstošo nomenklatūras mērvienību no&nbsp;<a href="/help/?ssw=33&amp;skf_id=124">Mērvienību saraksta</a>, ja nepieciešams - ievadīt svītrkodu un aizpildīt nomenklatūras apraksta paskaidrojošo informāciju laukā "info":</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25316" border="0"></p>
-<p>&nbsp;</p>
-<p>4. Norādīt nomenklatūrai atbilstošo EK kodu (jeb finanšu kategoriju):</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25317" border="0"></p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Nomenklatūras kartiņas aprakstā iespējams norādīt konkrētu EK kodu (vai fin.kat.) no <a href="/help/?ssw=33&amp;skf_id=116">kategoriju</a> klasifikatora vai arī izvēlēties noklusēto izvēli [Grupas], kas nozīmē, ka <a href="/help/?ssw=33&amp;skf_id=310">Iepirkuma dokumenta</a>&nbsp;saturā, izvēloties konkrēto nomenklatūru, satura laukā EK kods (fin.kat),&nbsp;dati tiks ielasīti no nomenklatūras aprakstā norādītās <a href="/help/?ssw=33&amp;skf_id=148">Grupas</a>&nbsp; EK (fin.kat)&nbsp;koda.</p>
-<p>&nbsp;</p>
-<p>5. Atzīmēt atbilstošo izvēles rūtiņu, norādot nomenklatūras tipu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25966" border="0"></p>
-<h5>2. Attēls</h5>
-<p>Jebkurai nomenklatūras kartiņai, aprakstā iespējams&nbsp;pievienot attēlu, ielādējot to no norādītā faila.</p>
-<p>Lai nomenklatūras aprakstā pievienotu attēlu, sadaļā Attēls, nepieciešams nospiest pogu <img src="/help/Skin/help/img.aspx?pid=24708" border="0">, tiks atvērts jauns nomenklatūras apraksta Pielikuma logs, kur iespējams izvēlēties pielikuma veidu un norādīt ceļu un nepieciešamo failu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25321" border="0"></p>
-<p>Pēc attēla pievienošanas, izvēlēto pielikuma failu&nbsp;iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p>
-<h5>3. Cenas</h5>
-<p>Nomenklatūras aprakstā iespējams arī nodefinēt preču pārdošanas cenas, norādot atbilstošo pārdošanas cenu izvēlētajam <a href="/help/?ssw=33&amp;skf_id=105">Cenu veidam</a>:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25323" border="0"></p>
-<p>&nbsp;</p>
-<p>Atkarībā no izveidotajām cenām (&gt;Saraksti &gt; Norēķini &gt; <a href="/help/?ssw=33&amp;skf_id=105">Cenu veidi</a>),&nbsp;nomenklatūras aprakstā var parādīties vairākas cenas. No nomenklatūras apraksta pārdošanas cena tiek ievienota <a href="/help/?ssw=33&amp;skf_id=204">Pārdošanas dokumentā</a>. Preces var cenot ierakstot pārdošanas cenu preces aprakstā vai veidojot <a href="/help/?ssw=33&amp;skf_id=231">Cenošanas dokumentus</a>.</p>
-<h5>4. Nomenklatūra</h5>
-<p>Šajā nomenklatūras kartiņas sadaļā nomenklatūrai iespējams piesaistīt informāciju par preces vai krājuma ražotāju, kā arī iespējams atzīmēt papildus pazīmes pie nomenklatūras kartiņas.</p>
-<p>&nbsp;</p>
-<p>1. Izvēloties <a href="/help/?ssw=33&amp;skf_id=172">Ražotāju</a> no saraksta:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25324" border="0"></p>
-<p>&nbsp;</p>
-<p>2. Ievadot informāciju par preci vai krājumu, ko sniedz Ražotājs - ja ražotāja kods un nosaukums atšķiras no uzņēmumā piešķirtā nomenklatūras nosaukuma un koda.</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25325" border="0"></p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Aizpildot Iepirkuma dokumenta saturu - ievadot krājumus/preces - iespējama datu meklēšana gan pēc uzņēmuma piešķirtā nomenklatūras koda, gan arī pēc ražotāja koda.</p>
-<p>&nbsp;</p>
-<p>3. Papildus pazīmes pie nomenklatūras kartiņas:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25968" border="0"></p>
-<p>&nbsp;</p>
-<p><strong>Nedot atlaidi:</strong> pazīme, kas nodrošina funkcionalitāti, lai veidojot pārdošanas dokumentu, tiktu liegta iespēja piešķirt atlaidi;</p>
-<p><strong>Pārdošanas laika ierobežojums:</strong> pazīme, kas nodrošina funkcionalitāti, lai&nbsp;veidojot pārdošanas dokumentu, tiktu ierobežots Pārdošanas laiks;</p>
-<p><strong>Individuāls uzsk.cenas aprēķins:</strong> pazīme,&nbsp;kas nodrošina funkcionalitāti,&nbsp;lai būtu iespēja nomenklatūras kartiņai&nbsp;izmantot individuālu uzskaites cenas aprēķinu;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Veidojot&nbsp;&nbsp;<a href="/help/?ssw=33&amp;skf_id=693">Nomenklatūras norakstīšanas</a>&nbsp;vai&nbsp;<a href="/help/?ssw=33&amp;skf_id=687">Nomenklatūras pārsūtīšana</a>&nbsp;dokumentus, aizpildot satura ierakstus - izvēloties šo nomenklatūras kartiņu, summas lauks netiks aizpildīts automātiski, ņemot vērā uzņēmuma aprakstā -&gt; sadaļā Noliktava&nbsp;definēto nomenklatūras uzskaites cenas aprēķina metodi:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25969" border="0"></p>
-<p>&nbsp;</p>
-<p>,bet&nbsp;lietotājam būs iespējams summas lauku&nbsp;aizpildīt manuāli, ievadot nepieciešamo summāro vērtību.</p>
-<p>&nbsp;</p>
-<p><strong>Operatīvās uzskaites krājums: </strong>pazīme, kas nodrošina funkcionalitāti, lai būtu iespēja nomenklatūras kartiņai izmantot operatīvās uzskaites principus;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Veidojot&nbsp;&nbsp;<a href="/help/?ssw=33&amp;skf_id=693">Nomenklatūras norakstīšanas</a>&nbsp;vai&nbsp;<a href="/help/?ssw=33&amp;skf_id=687">Nomenklatūras pārsūtīšana</a>&nbsp;dokumentus, aizpildot satura ierakstus - izvēloties šo nomenklatūras kartiņu, kurai atzīmēta pazīme "operatīvās uzskaites krājumu", nomenklatūrai būs iespējams norakstīt summāro vērtību, nemainot atlikuma daudzumu.</p>
-<h5>5. Atlikumi</h5>
-<p>Nomenklatūras atlikumus uz perioda sākuma iespējams pievienot gan izvēloties dokumentu <a href="/help/?ssw=33&amp;skf_id=107">Nomenklatūras atlikumi perioda sākumā</a>, gan arī pievienojot atlikumus nomenklatūras kartiņā.</p>
-<p>Lai nomenklatūras aprakstā pievienotu atlikumus, sadaļā "Atlikumi"&nbsp;nepieciešams nospiest pogu <img src="/help/Skin/help/img.aspx?pid=24708" border="0">:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25326" border="0"></p>
-<p>&nbsp;</p>
-<p>Izvēloties atbilstošo&nbsp;&nbsp;<a href="/help/?ssw=33&amp;skf_id=142">Noliktavu</a>&nbsp;no saraksta, iespējams ievadīt nomenklatūras atlikumus perioda sākumā - norādot atbilstošo perioda sākuma atlikuma daudzumu, kopējo atlikuma summu un atbildīgo personu.</p>
-<p>&nbsp;</p>
-<p>Ja Noliktavas uzskaitē tiek izmantotas dimensijas – struktūrvienība, finanšu kategorija u.c., arī Nomenklatūras atlikumu pievienošanai perioda sākumā, nepieciešams norādīt izmantojamās dimensijas.</p>
-<p>Atzīmējot izvēles rūtiņu "Dimensijas", nomenklatūras sākuma atlikumiem iespējams norādīt atbilstošās sākuma atlikumu dimensijas - struktūrvienību, kurā šis krājums/prece ir atlikumā; Ek.kods, u.c.</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25329" border="0"></p>
-<p>&nbsp;</p>
-<p>Pēc datu aizpildīšanas, nomenklatūras&nbsp;atlikumu perioda sākumā iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p>
-<h5>6. Daudzumi</h5>
-<p>Jebkurai precei vai krājumam nomenklatūras kartiņā iespējams norādīt minimālu un maksimālo daudzuma atlikumu Noliktavā. </p>
-<p>Lai nomenklatūras aprakstā norādītu minimālo un maksimālo daudzuma atlikumu Noliktavā, sadaļā "Daudzumi"&nbsp;nepieciešams nospiest pogu <img src="/help/Skin/help/img.aspx?pid=24708" border="0">:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25328" border="0"></p>
-<p>&nbsp;</p>
-<p>Atzīmējot izvēles rūtiņu "Dimensijas", nomenklatūras&nbsp;min. un max. daudzuma&nbsp;atlikumiem iespējams norādīt atbilstošās atlikumu dimensijas - struktūrvienību, kurā šis krājums/prece ir atlikumā; Ek.kods, u.c.</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25329" border="0"></p>
-<p>Pēc datu aizpildīšanas,&nbsp;norādītos minimālos un maksimālos atlikuma&nbsp;daudzumus Noliktavā&nbsp;iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p>
-<p>Izmantojot atskaiti <a href="/help/?ssw=33&amp;skf_id=543">Pasūtījumi</a>,&nbsp;nomenklatūras aprakstā norādītais minimālais nepieciešamais daudzums noliktavā tiek ņemts vērā, aprēķinot nepieciešamo pasūtījumu apjomu.</p>
-<h5>7. Sastāvdaļas</h5>
-<p>Krājumiem vai Precēm, kuras uzņēmumā netiek iepirkts gatavas, bet uzņēmuma ietvaros tiek ražotas vai komplektētas, nepieciešams norādīt sastāvdaļas, no kā šis gatavais komplekts sastāvēs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25330" border="0"></p>
-<p>&nbsp;</p>
-<p>Pēc nepieciešamās sastāvdaļas izvēles no nomenklatūras saraksta, iespējams norādīt sastāvdaļas sastāva daudzumu un aizpildīto ierakstu <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p>
-<h5>8. Analogi</h5>
-<p>Nomenklatūras kartiņas aprakstu iespējams papildināt, norādot nomenklatūras analogus - kartiņai piesaistot līdzīgās preces, ar kurām, vajadzības gadījumā, iespējams aizvietot šo preci, ja tā uz doto brīdi nav atlikumā Noliktavā. </p>
-<p>Lai nomenklatūras aprakstā pievienotu Analogu,&nbsp;nepieciešams nospiest pogu <img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;un&nbsp; norādīt Analogo preci no nomenklatūras saraksta:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25332" border="0"></p>
-<p>&nbsp;</p>
-<p>Pēc datu aizpildīšanas,&nbsp;Nomenklatūras kartiņai piesaistītās Analogās&nbsp;nomenklatūras,&nbsp;iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p> 
+.. 106 ================Nomenklatūra================ 
+
+
+Nomenklatūras sarakstā tiek saglabāti preču un krājumu apraksti.
+Nomenklatūras apraksts ir informācija, kas ir kopīga visām vienādām
+precēm vai krājumiem. Nomenklatūras apraksts satur informāciju par
+ražotāju, `Grupu`_, nosaukumu, kodu, ražotāja kodu, mērvienību un
+`Cenu`_. Viens nomenklatūras apraksts apzīmē vienu nomenklatūru, kuras
+daudzums un cena var mainīties.
+
+Nomenklatūra tiek uzskaitīta pa `Noliktavām`_un grupēta, izmantojot
+`Grupu`_ sarakstu.
+
+
+Jaunasnomenklatūraskartiņas pievienošana
+````````````````````````````````````````
+
+Lai pievienotu jaunu nomenklatūras kartiņu, rīku joslājānospiež poga
+un tiks atvērts jauns logs:
+
+
+
+
+
+
+1. Nomenklatūras pamatdatu aizpildīšana
++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu nomenklatūras kartiņas pamatdatus, nepieciešams:
+
+
+
+1. No Norēķinos izveidotā `Grupu`_ saraksta, izvēlēties nomenklatūrai
+atbilstošo grupu:
+
+
+
+
+
+
+
+2. Ierakstīt nomenklatūras kodu:
+
+
+
+
+
+
+
+Nomenklatūras kodu iespējams ievadīt katru reizi manuāli vai
+arīnoteikt konfigurācijas formātu, kur atbilstošā rakstzīme ir viens
+simbols no dažādiem nomenklatūras apraksta kodiem. Nomenklatūras koda
+ģenerēšanu automātiski iespējams noteikt konfigurācijas iestādījumos
+(>Konfigurācija > Iestādījumi > Kopīgie > `Noliktava`_).Ņemot vērā
+nomenklatūras koda veidošanas nosacījumus, tiek automatizēti izveidots
+nomenklatūras apraksta laukā Kods.
+
+
+
+3. Ievadīt nomenklatūras nosaukumu, norādīt atbilstošo nomenklatūras
+mērvienību no`Mērvienību saraksta`_, ja nepieciešams - ievadīt
+svītrkodu un aizpildīt nomenklatūras apraksta paskaidrojošo
+informāciju laukā "info":
+
+
+
+
+
+
+
+4. Norādīt nomenklatūrai atbilstošo EK kodu (jeb finanšu kategoriju):
+
+
+
+
+
+Nomenklatūras kartiņas aprakstā iespējams norādīt konkrētu EK kodu
+(vai fin.kat.) no `kategoriju`_ klasifikatora vai arī izvēlēties
+noklusēto izvēli [Grupas], kas nozīmē, ka `Iepirkuma
+dokumenta`_saturā, izvēloties konkrēto nomenklatūru, satura laukā EK
+kods (fin.kat),dati tiks ielasīti no nomenklatūras aprakstā norādītās
+`Grupas`_ EK (fin.kat)koda.
+
+
+
+5. Atzīmēt atbilstošo izvēles rūtiņu, norādot nomenklatūras tipu:
+
+
+
+
+
+
+2. Attēls
++++++++++
+
+Jebkurai nomenklatūras kartiņai, aprakstā iespējamspievienot attēlu,
+ielādējot to no norādītā faila.
+
+Lai nomenklatūras aprakstā pievienotu attēlu, sadaļā Attēls,
+nepieciešams nospiest pogu , tiks atvērts jauns nomenklatūras apraksta
+Pielikuma logs, kur iespējams izvēlēties pielikuma veidu un norādīt
+ceļu un nepieciešamo failu:
+
+
+
+
+
+Pēc attēla pievienošanas, izvēlēto pielikuma failuiespējams vai .
+
+
+3. Cenas
+++++++++
+
+Nomenklatūras aprakstā iespējams arī nodefinēt preču pārdošanas cenas,
+norādot atbilstošo pārdošanas cenu izvēlētajam `Cenu veidam`_:
+
+
+
+
+
+
+
+Atkarībā no izveidotajām cenām (>Saraksti > Norēķini > `Cenu
+veidi`_),nomenklatūras aprakstā var parādīties vairākas cenas. No
+nomenklatūras apraksta pārdošanas cena tiek ievienota `Pārdošanas
+dokumentā`_. Preces var cenot ierakstot pārdošanas cenu preces
+aprakstā vai veidojot `Cenošanas dokumentus`_.
+
+
+4. Nomenklatūra
++++++++++++++++
+
+Šajā nomenklatūras kartiņas sadaļā nomenklatūrai iespējams piesaistīt
+informāciju par preces vai krājuma ražotāju, kā arī iespējams atzīmēt
+papildus pazīmes pie nomenklatūras kartiņas.
+
+
+
+1. Izvēloties `Ražotāju`_ no saraksta:
+
+
+
+
+
+
+
+2. Ievadot informāciju par preci vai krājumu, ko sniedz Ražotājs - ja
+ražotāja kods un nosaukums atšķiras no uzņēmumā piešķirtā
+nomenklatūras nosaukuma un koda.
+
+
+
+
+
+
+
+Aizpildot Iepirkuma dokumenta saturu - ievadot krājumus/preces -
+iespējama datu meklēšana gan pēc uzņēmuma piešķirtā nomenklatūras
+koda, gan arī pēc ražotāja koda.
+
+
+
+3. Papildus pazīmes pie nomenklatūras kartiņas:
+
+
+
+
+
+
+
+Nedot atlaidi: pazīme, kas nodrošina funkcionalitāti, lai veidojot
+pārdošanas dokumentu, tiktu liegta iespēja piešķirt atlaidi;
+
+Pārdošanas laika ierobežojums: pazīme, kas nodrošina funkcionalitāti,
+laiveidojot pārdošanas dokumentu, tiktu ierobežots Pārdošanas laiks;
+
+Individuāls uzsk.cenas aprēķins: pazīme,kas nodrošina
+funkcionalitāti,lai būtu iespēja nomenklatūras kartiņaiizmantot
+individuālu uzskaites cenas aprēķinu;
+
+Veidojot`Nomenklatūras norakstīšanas`_vai`Nomenklatūras
+pārsūtīšana`_dokumentus, aizpildot satura ierakstus - izvēloties šo
+nomenklatūras kartiņu, summas lauks netiks aizpildīts automātiski,
+ņemot vērā uzņēmuma aprakstā -> sadaļā Noliktavadefinēto nomenklatūras
+uzskaites cenas aprēķina metodi:
+
+
+
+
+
+
+
+,betlietotājam būs iespējams summas laukuaizpildīt manuāli, ievadot
+nepieciešamo summāro vērtību.
+
+
+
+Operatīvās uzskaites krājums: pazīme, kas nodrošina funkcionalitāti,
+lai būtu iespēja nomenklatūras kartiņai izmantot operatīvās uzskaites
+principus;
+
+Veidojot`Nomenklatūras norakstīšanas`_vai`Nomenklatūras
+pārsūtīšana`_dokumentus, aizpildot satura ierakstus - izvēloties šo
+nomenklatūras kartiņu, kurai atzīmēta pazīme "operatīvās uzskaites
+krājumu", nomenklatūrai būs iespējams norakstīt summāro vērtību,
+nemainot atlikuma daudzumu.
+
+
+5. Atlikumi
++++++++++++
+
+Nomenklatūras atlikumus uz perioda sākuma iespējams pievienot gan
+izvēloties dokumentu `Nomenklatūras atlikumi perioda sākumā`_, gan arī
+pievienojot atlikumus nomenklatūras kartiņā.
+
+Lai nomenklatūras aprakstā pievienotu atlikumus, sadaļā
+"Atlikumi"nepieciešams nospiest pogu :
+
+
+
+
+
+
+
+Izvēloties atbilstošo`Noliktavu`_no saraksta, iespējams ievadīt
+nomenklatūras atlikumus perioda sākumā - norādot atbilstošo perioda
+sākuma atlikuma daudzumu, kopējo atlikuma summu un atbildīgo personu.
+
+
+
+Ja Noliktavas uzskaitē tiek izmantotas dimensijas – struktūrvienība,
+finanšu kategorija u.c., arī Nomenklatūras atlikumu pievienošanai
+perioda sākumā, nepieciešams norādīt izmantojamās dimensijas.
+
+Atzīmējot izvēles rūtiņu "Dimensijas", nomenklatūras sākuma atlikumiem
+iespējams norādīt atbilstošās sākuma atlikumu dimensijas -
+struktūrvienību, kurā šis krājums/prece ir atlikumā; Ek.kods, u.c.
+
+
+
+
+
+
+
+Pēc datu aizpildīšanas, nomenklatūrasatlikumu perioda sākumā iespējams
+vai .
+
+
+6. Daudzumi
++++++++++++
+
+Jebkurai precei vai krājumam nomenklatūras kartiņā iespējams norādīt
+minimālu un maksimālo daudzuma atlikumu Noliktavā.
+
+Lai nomenklatūras aprakstā norādītu minimālo un maksimālo daudzuma
+atlikumu Noliktavā, sadaļā "Daudzumi"nepieciešams nospiest pogu :
+
+
+
+
+
+
+
+Atzīmējot izvēles rūtiņu "Dimensijas", nomenklatūrasmin. un max.
+daudzumaatlikumiem iespējams norādīt atbilstošās atlikumu dimensijas -
+struktūrvienību, kurā šis krājums/prece ir atlikumā; Ek.kods, u.c.
+
+
+
+
+
+Pēc datu aizpildīšanas,norādītos minimālos un maksimālos
+atlikumadaudzumus Noliktavāiespējams vai .
+
+Izmantojot atskaiti `Pasūtījumi`_,nomenklatūras aprakstā norādītais
+minimālais nepieciešamais daudzums noliktavā tiek ņemts vērā,
+aprēķinot nepieciešamo pasūtījumu apjomu.
+
+
+7. Sastāvdaļas
+++++++++++++++
+
+Krājumiem vai Precēm, kuras uzņēmumā netiek iepirkts gatavas, bet
+uzņēmuma ietvaros tiek ražotas vai komplektētas, nepieciešams norādīt
+sastāvdaļas, no kā šis gatavais komplekts sastāvēs:
+
+
+
+
+
+
+
+Pēc nepieciešamās sastāvdaļas izvēles no nomenklatūras saraksta,
+iespējams norādīt sastāvdaļas sastāva daudzumu un aizpildīto ierakstu
+vai .
+
+
+8. Analogi
+++++++++++
+
+Nomenklatūras kartiņas aprakstu iespējams papildināt, norādot
+nomenklatūras analogus - kartiņai piesaistot līdzīgās preces, ar
+kurām, vajadzības gadījumā, iespējams aizvietot šo preci, ja tā uz
+doto brīdi nav atlikumā Noliktavā.
+
+Lai nomenklatūras aprakstā pievienotu Analogu,nepieciešams nospiest
+pogu un norādīt Analogo preci no nomenklatūras saraksta:
+
+
+
+
+
+
+
+Pēc datu aizpildīšanas,Nomenklatūras kartiņai piesaistītās
+Analogāsnomenklatūras,iespējams vai .
+
+ 

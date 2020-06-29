@@ -1,9 +1,32 @@
-.. 130 =========================Pamatlīdzekļu pazīmes========================= <P>&nbsp;</P>
-<P>Pamatlīdzekļu pazīmju sarakstā jānodefinē uzņēmumā izmantotās pamatlīdzekļu pazīmes (piem. <STRONG>Savi</STRONG>, <STRONG>Nomātie</STRONG>, <STRONG>Iznomātie</STRONG>, utt.). Šis saraksts (klasifikators) strādājot ar pamatlīdzekļu moduli obligāti nav jāizmanto. Ņemot uzskaitē jaunus pamatlīdzekļus vai pievienojot pamatlīdzekļu sākuma atlikumus katru pamatlīdzekli iespējams nodefinēt pie kādas no uzņēmumā izmantotās pamatlīdzekļu pazīmes. Pamatlīdzekļu atskaišu sagatavošanā pamatīdzekļu pazīmes ir iespējams izmantot kā datu (pamatlīdzekļu) atlases nosacījumu, piem. atlasot tikai <STRONG>Dāvinātos</STRONG> pamatlīdzekļus.</P>
-<P>&nbsp;</P>
-<P>Jauna pamatlīdzekļu pazīme tiek pievienota pamtlīdzekļu pazīmju sarakstā ar funkciju <IMG src="/help/Skin/help/img.aspx?pid=24532" border=0>. Pēc nepieciešamās informācijas aizpildīšanas jāspiež poga <STRONG>Saglabāt</STRONG> lai saglabātu jaunizveidoto ierakstu.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24577" border=0></P>
-<P>&nbsp;</P>
-<P>Pamatlīdzekļa pazīmi labo ar funkciju <IMG src="/help/Skin/help/img.aspx?pid=24533" border=0>.</P>
-<P>Pamatlīdzekļa pazīmi dzēš ar funkciju <IMG src="/help/Skin/help/img.aspx?pid=24534" border=0>. Pamatlīdzekļa pazīmi sistēma neļauj dzēst, ja tā ir pievienota kādam sistēmā ievadītam pamatlīdzeklim.</P> 
+.. 130 =========================Pamatlīdzekļu pazīmes========================= 
+
+
+Pamatlīdzekļu pazīmju sarakstā jānodefinē uzņēmumā izmantotās
+pamatlīdzekļu pazīmes (piem. Savi , Nomātie , Iznomātie , utt.). Šis
+saraksts (klasifikators) strādājot ar pamatlīdzekļu moduli obligāti
+nav jāizmanto. Ņemot uzskaitē jaunus pamatlīdzekļus vai pievienojot
+pamatlīdzekļu sākuma atlikumus katru pamatlīdzekli iespējams nodefinēt
+pie kādas no uzņēmumā izmantotās pamatlīdzekļu pazīmes. Pamatlīdzekļu
+atskaišu sagatavošanā pamatīdzekļu pazīmes ir iespējams izmantot kā
+datu (pamatlīdzekļu) atlases nosacījumu, piem. atlasot tikai Dāvinātos
+pamatlīdzekļus.
+
+
+
+Jauna pamatlīdzekļu pazīme tiek pievienota pamtlīdzekļu pazīmju
+sarakstā ar funkciju . Pēc nepieciešamās informācijas aizpildīšanas
+jāspiež poga Saglabāt lai saglabātu jaunizveidoto ierakstu.
+
+
+
+
+
+
+
+Pamatlīdzekļa pazīmi labo ar funkciju .
+
+Pamatlīdzekļa pazīmi dzēš ar funkciju . Pamatlīdzekļa pazīmi sistēma
+neļauj dzēst, ja tā ir pievienota kādam sistēmā ievadītam
+pamatlīdzeklim.
+
+ 

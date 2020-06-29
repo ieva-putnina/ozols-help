@@ -1,2 +1,6 @@
-.. 6520 =========Jauns========= <P>&nbsp;</P>
-<P>No darba režīma Jauns, iespējams pievienot Jaunu <A href="/help/?ssw=65&amp;skf_id=6510">Polisi</A></P> .. toctree::   :maxdepth: 5    6519.rst
+.. 6520 =========Jauns========= 
+
+
+No darba režīma Jauns, iespējams pievienot Jaunu `Polisi`_
+
+ .. toctree::   :maxdepth: 5    6519.rst

@@ -1,8 +1,19 @@
-.. 14056 =================================================Grāmatojumu šablonu veidošana un pielietošana================================================= <p>&nbsp;</p>
-<p>Grāmatojumu šablonus iespējams pielietot ērtākai un automatizētai jebkuru pirmdokumentu grāmatošanai.</p>
-<p>&nbsp;</p>
-<p><a href="/help/?ssw=33&amp;skf_id=14063">Dimensiju izmantošana grāmatojuma šablonā</a></p>
-<p><a href="/help/?ssw=33&amp;skf_id=14059">Finanšu koda izvēle grāmatojuma šablonā</a></p>
-<p><a href="/help/?ssw=33&amp;skf_id=14057">Grāmatojuma šablona ieraksta veids</a></p>
-<p><a href="/help/?ssw=33&amp;skf_id=14061">Grāmatojuma šablona veidošana partneru datu uzskaitei</a></p>
-<p><a href="/help/?ssw=33&amp;skf_id=14058">Konta norādīšana grāmatojuma šablonā</a></p> .. toctree::   :maxdepth: 4    14063.rst   14059.rst   14057.rst   14061.rst   14058.rst
+.. 14056 =================================================Grāmatojumu šablonu veidošana un pielietošana================================================= 
+
+
+Grāmatojumu šablonus iespējams pielietot ērtākai un automatizētai
+jebkuru pirmdokumentu grāmatošanai.
+
+
+
+`Dimensiju izmantošana grāmatojuma šablonā`_
+
+`Finanšu koda izvēle grāmatojuma šablonā`_
+
+`Grāmatojuma šablona ieraksta veids`_
+
+`Grāmatojuma šablona veidošana partneru datu uzskaitei`_
+
+`Konta norādīšana grāmatojuma šablonā`_
+
+ .. toctree::   :maxdepth: 4    14063.rst   14059.rst   14057.rst   14061.rst   14058.rst

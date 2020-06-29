@@ -1,15 +1,42 @@
-.. 169 =====================================Lietotāju tiesības darba režīmiem===================================== <P>&nbsp;</P>
-<P>Kad ir izveidotas lietotāju grupas un lietotāji ir pievienoti atbilstošajām lietotāju grupām, jānosaka tiesības grupām. <IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Katram individuālam lietotājam tiks piešķirtas tādas tiesības, kādas būs noteiktas grupām - ja lietotājs vienlaicīgi atradīsies vairākās grupām, tad šim lietotājām tiesības tiks summētas.</P>
-<P>&nbsp;</P>
-<P>Sarakstā tiek noteiktas lietotāju vai lietotāja grupu tiesības izmantot sistēmas darba režīmus.</P>
-<P>Atverot lietotāju tiesību noteikšanas ekrāna formu, kreisajā pusē tiek parādītas izveidotās lietotāju grupas virsējā līmenī un pievienotie lietotāji grupai zem tiem. Labajā ekrāna pusē tiek parādīti sistēmas darba režīmi:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25776" border=0></P>
-<P>&nbsp;</P>
-<P>1. Jāiezīmē lietotāju grupa, kurai tiesības nepieciešams noteikt</P>
-<P>&nbsp;</P>
-<P>2.&nbsp;Jāaktivizē tie darba režīmi, kuri šīs grupas lietotājiem būs pieejami</P>
-<P>3. Lai saglabātu tiesības iezīmētajai grupai, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25771" border=0></P>
-<P>4. Lai aizvērtu "Lietotāju tiesības darba režīmiem" logu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25772" border=0></P>
-<P>&nbsp;</P>
-<P></FONT></P> 
+.. 169 =====================================Lietotāju tiesības darba režīmiem===================================== 
+
+
+Kad ir izveidotas lietotāju grupas un lietotāji ir pievienoti
+atbilstošajām lietotāju grupām, jānosaka tiesības grupām. Katram
+individuālam lietotājam tiks piešķirtas tādas tiesības, kādas būs
+noteiktas grupām - ja lietotājs vienlaicīgi atradīsies vairākās
+grupām, tad šim lietotājām tiesības tiks summētas.
+
+
+
+Sarakstā tiek noteiktas lietotāju vai lietotāja grupu tiesības
+izmantot sistēmas darba režīmus.
+
+Atverot lietotāju tiesību noteikšanas ekrāna formu, kreisajā pusē tiek
+parādītas izveidotās lietotāju grupas virsējā līmenī un pievienotie
+lietotāji grupai zem tiem. Labajā ekrāna pusē tiek parādīti sistēmas
+darba režīmi:
+
+
+
+
+
+
+
+1. Jāiezīmē lietotāju grupa, kurai tiesības nepieciešams noteikt
+
+
+
+2.Jāaktivizē tie darba režīmi, kuri šīs grupas lietotājiem būs
+pieejami
+
+3. Lai saglabātu tiesības iezīmētajai grupai, jānospiež poga
+
+4. Lai aizvērtu "Lietotāju tiesības darba režīmiem" logu, jānospiež
+poga
+
+
+
+
+
+ 

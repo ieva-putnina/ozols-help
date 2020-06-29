@@ -1,15 +1,62 @@
-.. 357 ======================================Savstarpējo norēķinu dzēšanas akts====================================== <p><br></p><p>Savstarpējo norēķinu dzēšanas akti ar pircējiem un piegādātājiem. Savstarpējo norēķinu dzēšanas akti ir pieejami no izvēlnes&gt;Norēķini&gt;Dokumenti&gt;Savstarpējo norēķinu dzēšanas akti.</p>
-<p>Savstarpējo norēķinu dzēšanas aktu var iegrāmatot, dzēšot uzņēmuma saistības un pircēju parādu, kā arī veikt dokumenta saistīšanu, lai samazinātu dokumentu parādu summas.</p>
-<h4>Jauna savstarpējo norēķinu dzēšanas akta pievienošana</h4>
-<p>Norēķini&gt;Dokumenti&gt;Savstarpējo norēķinu dzēšanas akti, un rīku joslā jānospiež poga <img src="/help/Skin/help/img.aspx?pid=25605" border="0">, vai jāizvēlas Norēķini&gt;Jauns&gt;Savstarpējo norēķinu dzēšanas akts, tiek atvērts logs:</p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26480" border="0"><br></p>
-<p>&nbsp;</p>
-<p>Savstarpējo norēķinu dzēšanas akta virsrakstā jānorāda dokumenta numurs, datums, nosaukums (piemēram, pamatojoties uz līgumu) un no saraksta jāizvēlas attiecīgais <a href="/help/?ssw=33&amp;skf_id=112">partneris</a>.</p>
-<p>&nbsp;</p>
-<p>Pēc dokumenta virsraksta aizpildīšanas, jāpievieno dokumenta saturs. Dokumenta saturā jāpievieno iepirkuma un pārdošanas dokumenti, ar kuriem notiks savstarpējā norēķinu dzēšana. Dokumenta saturu pievieno, nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=25605" border="0">. Tiek atvērt logs, kurā attiecīgi jāizvēlas izvēlētā partnera iepirkuma vai pārdošanas dokumenti:</p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26481" border="0"><br></p>
-<p>&nbsp;</p>
-<p>Ja dokumenta parāda summa netiek dzēsta pilnībā, tā jānorāda summas laukos. Norēķinu dzēšanas (ieskaita) aktā iepirkuma un pārdošanas dokumentu ieskaita summām jābūt vienādām.</p><p></p><p>&nbsp;</p>
-<p>Dokuments jāapstiprina, rīku joslā nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=25702" border="0">. Lai dokumentu drukātu, rīku joslā jānospiež poga <img src="/help/Skin/help/img.aspx?pid=25813" border="0"> un jāizvēlas attiecīgā izdrukas forma. Kad apstiprina norēķinu aktu, tajā pievienotie dokumenti tiek sasaistīti. Līdz ar to dokumentu parāda summas tiek dzēstas un dokumenti tiek uzskatīti kā apmaksāti. Savstarpējo norēķinu dzēšanas aktu var grāmatot tā pat kā pārējos norēķinu dokumentus.</p> 
+.. 357 ======================================Savstarpējo norēķinu dzēšanas akts====================================== 
+
+
+
+Savstarpējo norēķinu dzēšanas akti ar pircējiem un piegādātājiem.
+Savstarpējo norēķinu dzēšanas akti ir pieejami no
+izvēlnes>Norēķini>Dokumenti>Savstarpējo norēķinu dzēšanas akti.
+
+Savstarpējo norēķinu dzēšanas aktu var iegrāmatot, dzēšot uzņēmuma
+saistības un pircēju parādu, kā arī veikt dokumenta saistīšanu, lai
+samazinātu dokumentu parādu summas.
+
+
+Jauna savstarpējo norēķinu dzēšanas akta pievienošana
+`````````````````````````````````````````````````````
+
+Norēķini>Dokumenti>Savstarpējo norēķinu dzēšanas akti, un rīku joslā
+jānospiež poga , vai jāizvēlas Norēķini>Jauns>Savstarpējo norēķinu
+dzēšanas akts, tiek atvērts logs:
+
+
+
+
+
+
+
+
+Savstarpējo norēķinu dzēšanas akta virsrakstā jānorāda dokumenta
+numurs, datums, nosaukums (piemēram, pamatojoties uz līgumu) un no
+saraksta jāizvēlas attiecīgais `partneris`_.
+
+
+
+Pēc dokumenta virsraksta aizpildīšanas, jāpievieno dokumenta saturs.
+Dokumenta saturā jāpievieno iepirkuma un pārdošanas dokumenti, ar
+kuriem notiks savstarpējā norēķinu dzēšana. Dokumenta saturu pievieno,
+nospiežot pogu . Tiek atvērt logs, kurā attiecīgi jāizvēlas izvēlētā
+partnera iepirkuma vai pārdošanas dokumenti:
+
+
+
+
+
+
+
+
+Ja dokumenta parāda summa netiek dzēsta pilnībā, tā jānorāda summas
+laukos. Norēķinu dzēšanas (ieskaita) aktā iepirkuma un pārdošanas
+dokumentu ieskaita summām jābūt vienādām.
+
+
+
+
+
+Dokuments jāapstiprina, rīku joslā nospiežot pogu . Lai dokumentu
+drukātu, rīku joslā jānospiež poga un jāizvēlas attiecīgā izdrukas
+forma. Kad apstiprina norēķinu aktu, tajā pievienotie dokumenti tiek
+sasaistīti. Līdz ar to dokumentu parāda summas tiek dzēstas un
+dokumenti tiek uzskatīti kā apmaksāti. Savstarpējo norēķinu dzēšanas
+aktu var grāmatot tā pat kā pārējos norēķinu dokumentus.
+
+ 

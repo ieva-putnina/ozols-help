@@ -1,6 +1,21 @@
-.. 284 ==========================Atvaļinājumu kalendāri========================== <P>Atvaļinājuma kalendārs tiek izmantots <A href="/help/?ssw=33&amp;skf_id=593">Atvaļinājuma rezerves aprēķina</A>&nbsp;atskaites sagatavošanai, lai aprēķinātu strādājošajam pienākošo atvaļinājuma dienu skaitu par nostrādāto periodu.&nbsp;</P>
-<P>Atvaļinājuma kalendārā jānorāda atvaļinājuma darba dienu skaits. Ja strādājošajiem atvaļinājuma garums ir atšķirīgs, tad jāizveido vairāki atvaļinājuma kalendāri un atbilstošais jānorāda strādājošā slodzes aprakstā. </P>
-<P>Lai izveidotu Atvaļinājuma kalendāru, jānospiež Rīku joslā poga <IMG src="/help/Skin/help/img.aspx?pid=25605" border=0>, un attiecīgi jāieraksta nosaukums un Atv. darba dienu skaits, un <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25606" border=0></P>
-<P>Lai labotu, jānospiež Rīku joslā poga&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=25603" border=0>&nbsp;(Alt+A), un, pēc labojumu veikšanas, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>.</P> 
+.. 284 ==========================Atvaļinājumu kalendāri========================== 
+Atvaļinājuma kalendārs tiek izmantots `Atvaļinājuma rezerves
+aprēķina`_atskaites sagatavošanai, lai aprēķinātu strādājošajam
+pienākošo atvaļinājuma dienu skaitu par nostrādāto periodu.
+
+Atvaļinājuma kalendārā jānorāda atvaļinājuma darba dienu skaits. Ja
+strādājošajiem atvaļinājuma garums ir atšķirīgs, tad jāizveido vairāki
+atvaļinājuma kalendāri un atbilstošais jānorāda strādājošā slodzes
+aprakstā.
+
+Lai izveidotu Atvaļinājuma kalendāru, jānospiež Rīku joslā poga , un
+attiecīgi jāieraksta nosaukums un Atv. darba dienu skaits, un
+
+
+
+
+
+Lai labotu, jānospiež Rīku joslā poga (Alt+A), un, pēc labojumu
+veikšanas, jānospiež poga .
+
+ 

@@ -1,25 +1,78 @@
-.. 111 ===============Strādājošie=============== <P>Lai pievienotu jaunu strādājošo sarakstam, rīku joslā jānsopiež poga <IMG src="/help/Skin/help/img.aspx?pid=25605" border=0>. Arī <A href="/help/?ssw=33&amp;skf_id=312">Partneru</A> sadaļā caur pogu <IMG src="/help/Skin/help/img.aspx?pid=25605" border=0> ir iespējams pievienot strādājošo.</P>
-<P>Strādājošo aprakstā jāpievieno darbinieka personīgā informācija – vārds, uzvārds, personas kods, bankas konta numurs, adrese:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25705" border=0></P>
-<P>&nbsp;</P>
-<P>Ja darbinieks ir arī avansu norēķinu persona vai atbildīgā persona (piemēram, kasieris), tad jāatver personas apraksts un jāaktivizē atbilstošie parametri Strādājošais, Atbildīgā persona u.tml..:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25645" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Darbinieks partneru sarakstā ir jāpievieno tikai vienu reizi.</P>
-<P>&nbsp;</P>
-<P>No strādājošā apraksta caur pogu var izsaukt vai pievienot jaunu <A href="/help/?ssw=33&amp;skf_id=207">Slodzi</A>.</P>
-<P>Strādājošā apraksta sadaļā Personāls var pievienot personāla uzskaitei nepieciešamo informāciju. Lai izveidotu un drukātu personas kartīti, jāaizpilda&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=25706" border=0> un strādājošā apraksta sadaļa Personāls.</P>
-<P>&nbsp;</P>
-<P>Personas datu ekrāna formā jāpievieno informācija par strādājošā dzimumu, tautību, pilsonību, personas dokumentu. Informācija tiek izmantota personas kartītes drukāšanā.<BR>Atverot strādājošā apraksta sadaļu Personāls, jālieto komanda Pievienot personas kartītes datu pievienošanai.</P>
-<P>Personas kartītē var pievienot datus par ģimenes sastāvu, valodu prasmi, karjeru, izglītību, apbalvojumiem un sodiem, kā arī citu informāciju. </P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25709" border=0></P>
-<P><BR>Pievienojot valodu prasmi, valodas nosaukumu un prasmi var ierakstīt datu izvēles laukos. Pievienojot nākamā strādājošā datus, ierakstītā valoda un prasme tiks parādīti izvēles sarakstā.<BR>Lai labotu ierakstu, divreiz jāuzklikšķina uz rindas, kuru jālabo.</P>
-<P>Caur pogu <IMG src="/help/Skin/help/img.aspx?pid=25707" border=0> tiek pievienoti strādājošā banku konti. Ja ar programmu tiek vesta uzskaite vairākiem uzņēmumiem, tad strādājošā banku kontiem tiek norādīti uzņēmumi uz kuru konkrētais strādājošā bankas konts attiecas. Šie uz uzņēmumu norādītie bankas konti citu uzņēmumu programmas lietotājiem nebūs pieejami.</P>
-<P>&nbsp;</P>
-<P>Caur pogu <IMG src="/help/Skin/help/img.aspx?pid=25708" border=0> tiek pievienotas strādājošā <A href="/help/?ssw=33&amp;skf_id=192">adreses</A>. Ja ar programmu tiek vesta uzskaite vairākiem uzņēmumiem, tad strādājošā adresēm tiek norādīti uzņēmumi uz kuru konkrētā strādājošā adrese attiecas. Šīs uz uzņēmumu norādītās adreses citu uzņēmumu programmas lietotājiem nebūs pieejamas.</P>
-<P>Caur pogu <IMG src="/help/Skin/help/img.aspx?pid=25716" border=0>ir iespējams apskatīt&nbsp;vai pievienot strādājošā norēķinu kartes.</P>
-<P>&nbsp;</P>
-<P>Caur pogu <IMG src="/help/Skin/help/img.aspx?pid=25718" border=0>ir iespējams atvērt strādājošā <A href="/help/?ssw=33&amp;skf_id=207">slodzi</A>.</P> 
+.. 111 ===============Strādājošie=============== 
+Lai pievienotu jaunu strādājošo sarakstam, rīku joslā jānsopiež poga .
+Arī `Partneru`_ sadaļā caur pogu ir iespējams pievienot strādājošo.
+
+Strādājošo aprakstā jāpievieno darbinieka personīgā informācija –
+vārds, uzvārds, personas kods, bankas konta numurs, adrese:
+
+
+
+
+
+
+
+Ja darbinieks ir arī avansu norēķinu persona vai atbildīgā persona
+(piemēram, kasieris), tad jāatver personas apraksts un jāaktivizē
+atbilstošie parametri Strādājošais, Atbildīgā persona u.tml..:
+
+
+
+
+
+
+
+Darbinieks partneru sarakstā ir jāpievieno tikai vienu reizi.
+
+
+
+No strādājošā apraksta caur pogu var izsaukt vai pievienot jaunu
+`Slodzi`_.
+
+Strādājošā apraksta sadaļā Personāls var pievienot personāla uzskaitei
+nepieciešamo informāciju. Lai izveidotu un drukātu personas kartīti,
+jāaizpilda un strādājošā apraksta sadaļa Personāls.
+
+
+
+Personas datu ekrāna formā jāpievieno informācija par strādājošā
+dzimumu, tautību, pilsonību, personas dokumentu. Informācija tiek
+izmantota personas kartītes drukāšanā.
+Atverot strādājošā apraksta sadaļu Personāls, jālieto komanda
+Pievienot personas kartītes datu pievienošanai.
+
+Personas kartītē var pievienot datus par ģimenes sastāvu, valodu
+prasmi, karjeru, izglītību, apbalvojumiem un sodiem, kā arī citu
+informāciju.
+
+
+
+
+
+
+Pievienojot valodu prasmi, valodas nosaukumu un prasmi var ierakstīt
+datu izvēles laukos. Pievienojot nākamā strādājošā datus, ierakstītā
+valoda un prasme tiks parādīti izvēles sarakstā.
+Lai labotu ierakstu, divreiz jāuzklikšķina uz rindas, kuru jālabo.
+
+Caur pogu tiek pievienoti strādājošā banku konti. Ja ar programmu tiek
+vesta uzskaite vairākiem uzņēmumiem, tad strādājošā banku kontiem tiek
+norādīti uzņēmumi uz kuru konkrētais strādājošā bankas konts attiecas.
+Šie uz uzņēmumu norādītie bankas konti citu uzņēmumu programmas
+lietotājiem nebūs pieejami.
+
+
+
+Caur pogu tiek pievienotas strādājošā `adreses`_. Ja ar programmu tiek
+vesta uzskaite vairākiem uzņēmumiem, tad strādājošā adresēm tiek
+norādīti uzņēmumi uz kuru konkrētā strādājošā adrese attiecas. Šīs uz
+uzņēmumu norādītās adreses citu uzņēmumu programmas lietotājiem nebūs
+pieejamas.
+
+Caur pogu ir iespējams apskatītvai pievienot strādājošā norēķinu
+kartes.
+
+
+
+Caur pogu ir iespējams atvērt strādājošā `slodzi`_.
+
+ 

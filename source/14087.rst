@@ -1,6 +1,35 @@
-.. 14087 =============================Fiksētās datu bāzes lomas============================= <P>&nbsp;</P>
-<P>Fiksētās datu bāzes lomas ir definētas datu bāzes līmeni un eksistē katrā datu bāzē.&nbsp;</P>
-<P>&nbsp;</P>
-<P>Sitēmā OZOLS noklusētās lietotāju lomas ir: </P>
-<P><BR><STRONG>ibav_deny_insert</STRONG> - nedrīkst pievienot nevienu ierakstu <BR><STRONG>ibav_deny_update</STRONG> - nedrīkst labot nevienu ierakstu <BR><STRONG>ibav_deny_delete</STRONG> - nedrīkst dzēst nevienu ierakstu <BR><STRONG>ibav_deny_insert_lists</STRONG>&nbsp; - nedrīkst pievienot nevienu ierakstu, izņemot dokumentu sadaļās esošos ierakstus <BR><STRONG>ibav_deny_update_lists</STRONG> - nedrīkst labot nevienu ierakstu, izņemot dokumentu sadaļās esošos ierakstus<BR><STRONG>ibav_deny_delete_lists</STRONG> - nedrīkst dzēst nevienu ierakstu, izņemot dokumentu sadaļās esošos ierakstus <BR><STRONG>oz_deny_update_main_flds</STRONG> - partneru sarakstos nedrīkst dzēst ierakstus, nedrīkst labot laukus "Kods", "Nosaukums", "Vārds", "Uzvārds", "Reģistrācijas Nr.", "PVN kods", "Pers.kods", "Banku kontus", "Adreses"<BR>(Šīs lomas lietotājiem ir tiesības pievienot jaunu ierakstu un labot ieraksta laukus, kas nav uzskaitīti.) </P>
-<P><BR><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Lai sistēmā OZOLS iegūtu lietotājam tikai lasīšanas režīmu, lietotājam nebūs tiesības ierakstus DZĒST, PIEVIENOT un LABOT, tad lietotājs ir jāpievieno noklusētajām sistēmas OZOLS lomām - <STRONG>ibav_deny_insert</STRONG>, <STRONG>ibav_deny_update</STRONG>, <STRONG>ibav_deny_delete.<BR></STRONG></P> 
+.. 14087 =============================Fiksētās datu bāzes lomas============================= 
+
+
+Fiksētās datu bāzes lomas ir definētas datu bāzes līmeni un eksistē
+katrā datu bāzē.
+
+
+
+Sitēmā OZOLS noklusētās lietotāju lomas ir:
+
+
+ibav_deny_insert - nedrīkst pievienot nevienu ierakstu
+ibav_deny_update - nedrīkst labot nevienu ierakstu
+ibav_deny_delete - nedrīkst dzēst nevienu ierakstu
+ibav_deny_insert_lists - nedrīkst pievienot nevienu ierakstu, izņemot
+dokumentu sadaļās esošos ierakstus
+ibav_deny_update_lists - nedrīkst labot nevienu ierakstu, izņemot
+dokumentu sadaļās esošos ierakstus
+ibav_deny_delete_lists - nedrīkst dzēst nevienu ierakstu, izņemot
+dokumentu sadaļās esošos ierakstus
+oz_deny_update_main_flds - partneru sarakstos nedrīkst dzēst
+ierakstus, nedrīkst labot laukus "Kods", "Nosaukums", "Vārds",
+"Uzvārds", "Reģistrācijas Nr.", "PVN kods", "Pers.kods", "Banku
+kontus", "Adreses"
+(Šīs lomas lietotājiem ir tiesības pievienot jaunu ierakstu un labot
+ieraksta laukus, kas nav uzskaitīti.)
+
+
+Lai sistēmā OZOLS iegūtu lietotājam tikai lasīšanas režīmu, lietotājam
+nebūs tiesības ierakstus DZĒST, PIEVIENOT un LABOT, tad lietotājs ir
+jāpievieno noklusētajām sistēmas OZOLS lomām - ibav_deny_insert ,
+ibav_deny_update , ibav_deny_delete.
+
+
+ 

@@ -1,11 +1,33 @@
-.. 102 ====================Nodokļu saraksts==================== <p><br></p><p>Nodokļu sarakstā tiek definētas visas pievienotās vērtības nodokļu likmes.</p>
-<p>&nbsp;</p>
-<p>Nodokļu sarakstā definētās likmes tiek izmantotas definējot <a href="/help/?ssw=33&amp;skf_id=148">nomenklatūras grupas</a> un aizpildot <a href="/help/?ssw=33&amp;skf_id=310">Norēķinu dokumentu</a> satura ierakstus.</p>
-<p>Lai nodokļu sarakstā pievienotu jaunu pievienotās vērtības nodokli, rīku joslā jānospiež poga <img src="/help/Skin/help/img.aspx?pid=25605" border="0">, tiek atvērt logs:</p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26559" border="0"><br></p>
-<p>&nbsp;</p>
-<p><strong>Kods</strong>: apzīmējums, kurš viegli atpazīstams dokumentu sarakstos.</p>
-<p><strong>Nosaukums:</strong> Nodokļa pilns nosaukums.</p>
-<p><strong>Vērtība:</strong> Nodokļa procentuālā vērtība.</p>
-<p><strong>Konts</strong>: <a href="/help/?ssw=33&amp;skf_id=114">Kontu plānā</a> izveidotais pievienotās vērtības nodokļa grāmatvediskais konts.</p> 
+.. 102 ====================Nodokļu saraksts==================== 
+
+
+
+Nodokļu sarakstā tiek definētas visas pievienotās vērtības nodokļu
+likmes.
+
+
+
+Nodokļu sarakstā definētās likmes tiek izmantotas definējot
+`nomenklatūras grupas`_ un aizpildot `Norēķinu dokumentu`_ satura
+ierakstus.
+
+Lai nodokļu sarakstā pievienotu jaunu pievienotās vērtības nodokli,
+rīku joslā jānospiež poga , tiek atvērt logs:
+
+
+
+
+
+
+
+
+Kods : apzīmējums, kurš viegli atpazīstams dokumentu sarakstos.
+
+Nosaukums: Nodokļa pilns nosaukums.
+
+Vērtība: Nodokļa procentuālā vērtība.
+
+Konts : `Kontu plānā`_ izveidotais pievienotās vērtības nodokļa
+grāmatvediskais konts.
+
+ 

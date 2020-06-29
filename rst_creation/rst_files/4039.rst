@@ -1,3 +1,9 @@
-.. 4039 =====================Kampaņu rezultāti===================== <P>Kampaņu rezultātu sarakstā tiek saglabāti dati par kampaņām, kuras ir izpildītas, kuru&nbsp;statuss ir mainīts uz&nbsp;slēgts:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25834" border=0></P> 
+.. 4039 =====================Kampaņu rezultāti===================== 
+Kampaņu rezultātu sarakstā tiek saglabāti dati par kampaņām, kuras ir
+izpildītas, kurustatuss ir mainīts uzslēgts:
+
+
+
+
+
+ 

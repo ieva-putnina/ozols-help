@@ -1,23 +1,99 @@
-.. 158 =============================Iepirkumu dokumentu veidi============================= <p><br></p><p>Sarakstā tiek saglabāti iepirkuma dokumentu veidi, kas tiek izmantoti iepirkuma dokumentu aizpildīšanai.</p><p>Atsevišķi dokumentu veidi tiek izmantoti, lai 
-programmā veiktu noteiktas uzskaites funkcijas. Dokumentu veidus var 
-izmantot, lai dokumentu žurnālos ar datu atlases filtru palīdzību 
-parādītu tikai viena veida dokumentus, noteiktu atsevišķu dokumenta 
-numerāciju
-</p><h4>Jauna iepirkuma dokumenta veida pievienošana</h4>
+.. 158 =============================Iepirkumu dokumentu veidi============================= 
 
-<p>Lai pievienotu jaunu iepirkuma dokumenta veidu, jāizmanto komanda <img src="/help/Skin/help/img.aspx?pid=24879" border="0">&nbsp;no rīku joslas (Alt+P) un tiks atvērts jauns logs: </p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26496" border="0"><br></p>
-<p>&nbsp;</p>
-<p><b>Veids</b>: ja tiek pievienots jauns iepirkuma dok.veids - jāizvēlas iepirkuma dokuments;</p><p><b>Dok.veids</b>: nepieciešams norādīts atbilstošo dokumenta veidu - Rēķins, Pavadzīmes vai Avansu izdevums.</p>
-<p><i><strong></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Rēķins</i> - izmantojams pakalpojumu ievadei, izmantojot rēķinu netiek noformēta preču/krājumu kustība Noliktavā; <br></p>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i> </i></strong><i>Stingrās uzskaites pavadzīme</i> - nodrošina stingrās uzskaites dokumenta numura un sērijas lauka 
-izmantošanu veidlapu izlietojuma uzskaitei, kā arī noformē preču/krājumu kustību 
-noliktavā.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; <i>Avansu izdevums</i> - nodrošina pilnvērtīgu avansu norēķinu uzskaiti, kā arī noformē preču/krājumu kustību noliktavā.<br></p>
-<p><b>VID.darījuma veids:</b> nepieciešams norādīt ierakstu no saraksta, atbilstoši darījuma veidam, kuri tiks noformēti ar šo iepirkuma dokumenta veidu,&nbsp;</p><p><b>VID.dok.veids:</b> nepieciešams norādīt atbilstošo VID noteikto dokumenta veidu;</p><p><b>Kods:</b> iepirkuma dokumenta veida kodējums - pazīme, kas būs piesaistīta konkrētajam iepirkuma dokumenta veidam;</p><p><b>Nosaukums</b>: jaunizveidotā iepirkuma dokumenta veida nosaukums;</p><p><b>Virsraksts:</b> jaunizveidotā iepirkuma dokumenta veida Virsraksts, kas tiks uzrādīts arī iepirkuma dok.izdrukā;</p><p><b>Opcijas:</b> iespējams atzīmēt jaunizveidotā iepirkuma dokumenta papildus funkcijas:</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>Apmaksājams dokuments</i> - attiecīgais iep.dokumenta veids tiks iekļauts neapmaksāto iepirkumu dokumentu atskaitē;</p><p><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Negrāmatojams dokuments</i> - attiecīgo iep.dokumenta veidu nebūs iespējams grāmatot;</p><p><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Kredītrēķins</i> - attiecīgo iep.dokumenta veidu būs iespējams saistīt ar bankas ieņēmuma dokumentu;</p><p><i>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; Avansa rēķins</i> - attiecīgo iepirkuma dokumentu būs iespējams noformēt kā saņemto avansa rēķinu.<br></p><p>Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu <img src="/help/Skin/help/img.aspx?pid=24867" border="0">&nbsp;no rīku joslas vai&nbsp;(Ctrl+S).</p>
-<h4>Iepirkuma dokumenta veida labošana</h4>Lai veiktu labojumus iepirkuma dokumenta veidā, ierakstu nepieciešams atvērt, izmantojot komandu <img src="/help/Skin/help/img.aspx?pid=24869" border="0">&nbsp;no rīku joslas (Alt+A). Atvērtajā logā iespējams mainīt jebkuru no laukos esošo informāciju. Pēc labojumu veikšanas, veiktās izmaiņas iespējams saglabāt ar komandu <img src="/help/Skin/help/img.aspx?pid=24867" border="0">&nbsp;no rīku joslas.&nbsp;
-<h4>Iepirkuma dokumenta&nbsp;veida dzēšana</h4>
 
-<p>Lai dzēstu iepirkuma dokumenta veidu, jāizmanto komanda&nbsp;<img src="Skin/help/img.aspx?pid=25602" border="0"> no rīku joslas. Ieraksts ir jādzēš neatvērtā veidā.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p> 
+
+Sarakstā tiek saglabāti iepirkuma dokumentu veidi, kas tiek izmantoti
+iepirkuma dokumentu aizpildīšanai.
+
+Atsevišķi dokumentu veidi tiek izmantoti, lai programmā veiktu
+noteiktas uzskaites funkcijas. Dokumentu veidus var izmantot, lai
+dokumentu žurnālos ar datu atlases filtru palīdzību parādītu tikai
+viena veida dokumentus, noteiktu atsevišķu dokumenta numerāciju
+
+
+Jauna iepirkuma dokumenta veida pievienošana
+````````````````````````````````````````````
+
+Lai pievienotu jaunu iepirkuma dokumenta veidu, jāizmanto komanda no
+rīku joslas (Alt+P) un tiks atvērts jauns logs:
+
+
+
+
+
+
+
+
+**Veids**: ja tiek pievienots jauns iepirkuma dok.veids - jāizvēlas
+iepirkuma dokuments;
+
+**Dok.veids**: nepieciešams norādīts atbilstošo dokumenta veidu -
+Rēķins, Pavadzīmes vai Avansu izdevums.
+
+Rēķins - izmantojams pakalpojumu ievadei, izmantojot rēķinu netiek
+noformēta preču/krājumu kustība Noliktavā;
+
+
+Stingrās uzskaites pavadzīme - nodrošina stingrās uzskaites dokumenta
+numura un sērijas lauka izmantošanu veidlapu izlietojuma uzskaitei, kā
+arī noformē preču/krājumu kustību noliktavā.
+
+Avansu izdevums - nodrošina pilnvērtīgu avansu norēķinu uzskaiti, kā
+arī noformē preču/krājumu kustību noliktavā.
+
+
+**VID.darījuma veids:** nepieciešams norādīt ierakstu no saraksta,
+atbilstoši darījuma veidam, kuri tiks noformēti ar šo iepirkuma
+dokumenta veidu,
+
+**VID.dok.veids:** nepieciešams norādīt atbilstošo VID noteikto
+dokumenta veidu;
+
+**Kods:** iepirkuma dokumenta veida kodējums - pazīme, kas būs
+piesaistīta konkrētajam iepirkuma dokumenta veidam;
+
+**Nosaukums**: jaunizveidotā iepirkuma dokumenta veida nosaukums;
+
+**Virsraksts:** jaunizveidotā iepirkuma dokumenta veida Virsraksts,
+kas tiks uzrādīts arī iepirkuma dok.izdrukā;
+
+**Opcijas:** iespējams atzīmēt jaunizveidotā iepirkuma dokumenta
+papildus funkcijas:
+
+Apmaksājams dokuments - attiecīgais iep.dokumenta veids tiks iekļauts
+neapmaksāto iepirkumu dokumentu atskaitē;
+
+Negrāmatojams dokuments - attiecīgo iep.dokumenta veidu nebūs
+iespējams grāmatot;
+
+Kredītrēķins - attiecīgo iep.dokumenta veidu būs iespējams saistīt ar
+bankas ieņēmuma dokumentu;
+
+Avansa rēķins - attiecīgo iepirkuma dokumentu būs iespējams noformēt
+kā saņemto avansa rēķinu.
+
+
+Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu no rīku
+joslas vai(Ctrl+S).
+
+
+Iepirkuma dokumenta veida labošana
+``````````````````````````````````
+Lai veiktu labojumus iepirkuma dokumenta veidā, ierakstu nepieciešams
+atvērt, izmantojot komandu no rīku joslas (Alt+A). Atvērtajā logā
+iespējams mainīt jebkuru no laukos esošo informāciju. Pēc labojumu
+veikšanas, veiktās izmaiņas iespējams saglabāt ar komandu no rīku
+joslas.
+
+
+Iepirkuma dokumentaveida dzēšana
+````````````````````````````````
+
+Lai dzēstu iepirkuma dokumenta veidu, jāizmanto komanda no rīku
+joslas. Ieraksts ir jādzēš neatvērtā veidā.
+
+
+
+
+
+ 

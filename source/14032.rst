@@ -1,6 +1,29 @@
-.. 14032 ==========================Lietotāja reģistrācija========================== <P><SPAN class="table_ozols   "></SPAN>&nbsp;</P>
-<P>Palaižot programmatūru, tiek atvērta lietotāja reģistrācijas ekrāna forma:<BR>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24697" border=0><BR>&nbsp;</P><SPAN class=C:\www\Help\Help\~\Styles.css>
-<P>Lietojot izvēli <SPAN class=C:\www\Help\Help\~\Styles.css>Windows autentifikācija, automātiski </SPAN>tiek izmantota lietotāja datortīkla parole. <BR>Lietojot izvēli SQL autentifikācija, laukā Lietotājs jāieraksta administratora piešķirtais lietotāja vārds un laukā Parole – administratora piešķirtā lietotāja parole.<BR></P>
-<P>&nbsp;</P>
-<P>Atkarībā no uzņēmuma datortīkla konfigurācijas, Windows autentifikācija var nebūt iespējama, un tiks parādīts paziņojums, ka savienojumu nav iespējams izveidot. Šādā gadījumā jāizmanto SQL autentifikācija - administratora piešķirtais lietotājvārds un parole.<BR><BR>Pēc Lietotājvārds un Paroles ierakstīšanas jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=24542" border=0>&nbsp;un tiks ielādēta datorprogramma Ozols, kurā atvērsies vadības logs.<BR></P></SPAN> .. toctree::   :maxdepth: 5    14132.rst
+.. 14032 ==========================Lietotāja reģistrācija========================== 
+
+
+Palaižot programmatūru, tiek atvērta lietotāja reģistrācijas ekrāna
+forma:
+
+
+
+
+
+Lietojot izvēli Windows autentifikācija, automātiski tiek izmantota
+lietotāja datortīkla parole.
+Lietojot izvēli SQL autentifikācija, laukā Lietotājs jāieraksta
+administratora piešķirtais lietotāja vārds un laukā Parole –
+administratora piešķirtā lietotāja parole.
+
+
+
+
+Atkarībā no uzņēmuma datortīkla konfigurācijas, Windows
+autentifikācija var nebūt iespējama, un tiks parādīts paziņojums, ka
+savienojumu nav iespējams izveidot. Šādā gadījumā jāizmanto SQL
+autentifikācija - administratora piešķirtais lietotājvārds un parole.
+
+Pēc Lietotājvārds un Paroles ierakstīšanas jānospiež poga un tiks
+ielādēta datorprogramma Ozols, kurā atvērsies vadības logs.
+
+
+ .. toctree::   :maxdepth: 5    14132.rst

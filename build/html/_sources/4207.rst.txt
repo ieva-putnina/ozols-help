@@ -1,8 +1,19 @@
-.. 4207 ===========================Lietu slēgšanas iemesli=========================== <P>&nbsp;</P>
-<P>Sarakstā tiek saglabāti lietu slēgšanas iemesli.</P>
-<P>Jauns&nbsp;lietu slēgšanas iemesls&nbsp;tiek pievienots ar pogu <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>. Pēc informācijas aizpildīšanas jāspiež poga <STRONG>Saglabāt</STRONG>, lai saglabātu ierakstu sistēmā.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26311" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG><IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>&nbsp;</STRONG>- jāspiež šī poga lai saglabātu ievadītos datus.</P>
-<P><STRONG><IMG src="/help/Skin/help/img.aspx?pid=25675" border=0></STRONG>&nbsp;- jāspiež šī poga, ja lietotājs nevēlas saglabāt aizpildītos datus.</P> 
+.. 4207 ===========================Lietu slēgšanas iemesli=========================== 
+
+
+Sarakstā tiek saglabāti lietu slēgšanas iemesli.
+
+Jaunslietu slēgšanas iemeslstiek pievienots ar pogu . Pēc informācijas
+aizpildīšanas jāspiež poga Saglabāt , lai saglabātu ierakstu sistēmā.
+
+
+
+
+
+
+
+- jāspiež šī poga lai saglabātu ievadītos datus.
+
+- jāspiež šī poga, ja lietotājs nevēlas saglabāt aizpildītos datus.
+
+ 

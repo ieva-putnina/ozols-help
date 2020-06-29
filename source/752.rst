@@ -1,9 +1,30 @@
-.. 752 ==================================Noliktavu nomenklatūras grupas================================== <P>&nbsp;</P>
-<P>Sarakstā tiek attēlots, kurās <A href="/help/?ssw=33&amp;skf_id=142">Noliktavās</A>&nbsp;tiek uzskaitītas kuras nomenklatūras/pakalpojumu <A href="/help/?ssw=33&amp;skf_id=148">Grupas</A>. </P>
-<P>Saraksta mērķis ir ierobežot noliktavas nomenklatūras/pakalpojumu klāstu pie nomenklatūras/pakalpojumu izvēles fiksētajos izvēles laukos.</P>
-<H5>Nomenklatūras grupas&nbsp;pievienošana Noliktavai:</H5>
-<P>Lai pievienotu Nomenlatūras grupu Noliktavai, tādejādi ierobežojot Noliktavas nomenklatūras klāstu pie nomenklatūras izvēles, ja norādīta konkrēta noliktava, rīku joslā&nbsp;jānospiež poga&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25333" border=0></P>
-<P>&nbsp;</P>
-<P>Norādot nepieciešamo Noliktavu un izvēloties Grupu, no saraksta, ierakstu&nbsp;iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>, lai Noliktavai tiktu piesaistīta nomenklatūras grupa&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P> 
+.. 752 ==================================Noliktavu nomenklatūras grupas================================== 
+
+
+Sarakstā tiek attēlots, kurās `Noliktavās`_tiek uzskaitītas kuras
+nomenklatūras/pakalpojumu `Grupas`_.
+
+Saraksta mērķis ir ierobežot noliktavas nomenklatūras/pakalpojumu
+klāstu pie nomenklatūras/pakalpojumu izvēles fiksētajos izvēles
+laukos.
+
+
+Nomenklatūras grupaspievienošana Noliktavai:
+++++++++++++++++++++++++++++++++++++++++++++
+
+Lai pievienotu Nomenlatūras grupu Noliktavai, tādejādi ierobežojot
+Noliktavas nomenklatūras klāstu pie nomenklatūras izvēles, ja norādīta
+konkrēta noliktava, rīku joslājānospiež poga un tiks atvērts jauns
+logs:
+
+
+
+
+
+
+
+Norādot nepieciešamo Noliktavu un izvēloties Grupu, no saraksta,
+ierakstuiespējams , lai Noliktavai tiktu piesaistīta nomenklatūras
+grupavai .
+
+ 

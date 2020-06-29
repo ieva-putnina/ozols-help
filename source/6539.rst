@@ -1,1 +1,2 @@
-.. 6539 ============Izmaksas============  .. toctree::   :maxdepth: 4    6537.rst
+.. 6539 ============Izmaksas============ 
+ .. toctree::   :maxdepth: 4    6537.rst

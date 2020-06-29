@@ -1,70 +1,202 @@
-.. 471 ==========================Kases avansa maksājums========================== <p>&nbsp;</p>
-<p>Kases izdevumu ordera veids Kases avansa maksājums ir jāveido, kad tiek izmaksāta avansu nauda <a href="/help/?ssw=33&amp;skf_id=196">Avansu norēķinu personai</a>. Dokumenta veida lietošana nodrošina izmaksāto avansu summu automatizētu uzskaiti <a href="/help/?ssw=33&amp;skf_id=748">Avansa norēķina</a> dokumentā.&nbsp;Kases avansa maksājums&nbsp;ir uzskatāms par kases izdevumu orderi, tam ir iebūvēta kases izdevumu ordera izdrukas forma, un tas iekļaujas kopējā kases izdevumu orderu numerācijā.&nbsp;Kases avansa maksājuma&nbsp;dokuments tiek vienlaicīgi parādīts <a href="/help/?ssw=33&amp;skf_id=225">Kases izdevumu</a>&nbsp;un <a href="/help/?ssw=33&amp;skf_id=232">Avansu norēķinu</a>&nbsp;dokumentu žurnālos. Darījuma atšifrēšanai pa finanšu (EK) kodiem, jāaizpilda dokumenta saturs. Lai dokumenta izdrukā parādītos grāmatojumu konti, dokuments pirms izdrukāšanas ir jāiegrāmato.</p>
-<h4>Jauna&nbsp;Kases avansa maksājuma pievienošana</h4>
-<p>Lai uzskaitītu izmaksātās avansu summas, un tās parādītos avansu norēķinu dokumentā, izmaksājot avansu skaidrā naudā, dokuments ir jāveido kā Kases avansa maksājums. Dokumentā ir pieejams lauks <strong>Persona</strong>, kur no <a href="/help/?ssw=33&amp;skf_id=112">Partneru saraksta</a>&nbsp;var izvēlēties personas, kuru aprakstā ir pazīme <a href="/help/?ssw=33&amp;skf_id=196">Avansu persona</a>. &nbsp;</p>
-<p>&nbsp;</p>
-<p>Izvēloties dokumenta veidu Kases avansa maksājums, tiks atvērts jauns logs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24994" border="0"></p>
-<h5>Kases avansa maksājuma Virsraksta aizpildīšana</h5>
-<p>&nbsp;</p>
-<p>Lai aizpildītu Kases avansa maksājuma Virsrakstu, nepieciešams:</p>
-<p>&nbsp;</p>
-<p>1. Norādīt Uzņēmuma kasi, no kura šis maksājums tiks izpildīts:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24826" border="0"></p>
-<p>&nbsp;</p>
-<p>2. Izvēlēties Datumu, kurā šis&nbsp;Kases avansa maksājums tiek veidots:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24811" border="0"></p>
-<p>&nbsp;</p>
-<p>3.&nbsp;Ievadīt kopējo Kases&nbsp;avansa maksājuma&nbsp;summu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24812" border="0"></p>
-<p>&nbsp;</p>
-<p>4. No saraksta izvēlēties nepieciešamo personu, kuras aprakstā ir pazīme <a href="/help/?ssw=33&amp;skf_id=196">Avansu persona</a>, kurai šī skaidras naudas operācija&nbsp;tiks noformēta:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24828" border="0"></p>
-<p>&nbsp;</p>
-<p>Aizpildot lauku <strong>Persona</strong>, lauks <strong>Pers.dok.</strong> tiks aizpildīts automātiski, pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24843" border="0"></p>
-<h5>Kases avansa maksājuma Satura aizpildīšana</h5>
-<p>Lai aizpildītu Kases avansa maksājuma Saturu, dokumenta satura daļā nepieciešams nospiest <img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24844" border="0"></p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto summu.&nbsp;Pievienot nākamo satura ierakstu iespējams, satura daļā nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24708" border="0">.</p>
-<p>&nbsp;</p>
-<h5>Kases avansa maksājuma Pamatojuma un Satura aizpildīšana</h5>
-<p><br>Kases&nbsp;avansa maksājuma&nbsp;lauki&nbsp;<strong>Pamatojums</strong> un <strong>Saturs</strong> tiek drukāti kases avansa maksājuma rindā Pamatojums. </p>
-<p>Lauku Kases avansa maksājuma <strong>Pamatojums</strong>, iespējams aizpildīt manuāli vai izvēloties no <a href="/help/?ssw=33&amp;skf_id=136">Kases paskaidrojumu saraksta</a>:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24845" border="0"></p>
-<p>&nbsp;</p>
-<p>Aktivizējot izvēli Saturs, laukā tiek salikti dokumenta satura finanšu (EK) kodi un summas, līdz ar to iespējams automatizēti iegūt informāciju par summas sadalījumu pa EK kodiem vai maksājuma PVN summu:</p>
-<p>&nbsp;</p>
-<p>
-</p><p></p>
-<p><img src="/help/Skin/help/img.aspx?pid=24846" border="0"></p>
-<h5>Kases avansa maksājuma Pielikuma informācijas aizpildīšana</h5>
-<p>&nbsp;</p>
-<p>Lauku <strong>Pielikumā</strong>, Kases avansa maksājumam iespējams aizpildīt manuāli vai izvēloties no <a href="/help/?ssw=33&amp;skf_id=137">Kases pielikumu saraksta</a>, laukā <strong>Piel.num.</strong> nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24849" border="0"></p>
-<p>&nbsp;</p>
-<p>Kad visi nepieciešamie lauki ir aizpildīti, Kases avansa maksājums ir sagatavots un to ir iespējams:</p>
-<p>1. Saglabāt,&nbsp;nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;-&nbsp;dokuments tiks saglabāts un būs vienlaicīgi pieejams apskatei/labošanai/grāmatošanai <a href="/help/?ssw=33&amp;skf_id=225">Kases izdevumu</a>&nbsp;un <a href="/help/?ssw=33&amp;skf_id=232">Avansu norēķinu</a>&nbsp;žurnālos.</p>
-<p>2. Apstiprināt, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24740" border="0">&nbsp;-&nbsp;Kases avansa maksājums tiks Apstiprināts un to būs iespējams Grāmatot.</p>
-<h4>Kases avansa maksājuma grāmatošana</h4>
-<p>Lai dokumenta izdrukā parādītos grāmatojumu konti, dokuments pirms izdrukāšanas ir jāiegrāmato.</p>
-<p>Kases avansa maksājumu iespējams grāmatot no atvērta Kases avansa maksājuma dokumenta vai izvēloties (iezīmējot)&nbsp;dokumentu <a href="/help/?ssw=33&amp;skf_id=225">Kases izdevumu</a>&nbsp;vai <a href="/help/?ssw=33&amp;skf_id=232">Avansu norēķinu</a>&nbsp;žurnālā. </p>
-<p>Lai iegrāmatotu Kases avansa maksājumu, dokumentu nepieciešams Apstiprināt, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24740" border="0">.</p>
-<p>Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24741" border="0">.</p>
-<p>&nbsp;</p>
-<p>Instrukcija - <a href="/help/?ssw=33&amp;skf_id=14044">Dokumentu grāmatošanas principi</a></p>
-<h4>Pievienotā Kases avansa maksājuma labošana</h4>
-<p>Labojumus saglabātajā&nbsp;dokumentā iespējams veikt atverot Kases avansa maksājumu, kurš vienlaicīgi pieejams apskatei/labošanai&nbsp;<a href="/help/?ssw=33&amp;skf_id=225">Kases izdevumu</a>&nbsp;un <a href="/help/?ssw=33&amp;skf_id=232">Avansu norēķinu</a>&nbsp;žurnālos.&nbsp; Lai veiktu labojumus&nbsp;Kases avansa maksājumā,&nbsp;dokumentu&nbsp;nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24709" border="0">&nbsp;(ALT+A), un&nbsp;atvērtajā&nbsp;ierakstā iespējams veikt&nbsp;nepieciešamos labojumus:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24850" border="0"><br></p>
-<p>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p> 
+.. 471 ==========================Kases avansa maksājums========================== 
+
+
+Kases izdevumu ordera veids Kases avansa maksājums ir jāveido, kad
+tiek izmaksāta avansu nauda `Avansu norēķinu personai`_. Dokumenta
+veida lietošana nodrošina izmaksāto avansu summu automatizētu uzskaiti
+`Avansa norēķina`_ dokumentā.Kases avansa maksājumsir uzskatāms par
+kases izdevumu orderi, tam ir iebūvēta kases izdevumu ordera izdrukas
+forma, un tas iekļaujas kopējā kases izdevumu orderu numerācijā.Kases
+avansa maksājumadokuments tiek vienlaicīgi parādīts `Kases
+izdevumu`_un `Avansu norēķinu`_dokumentu žurnālos. Darījuma
+atšifrēšanai pa finanšu (EK) kodiem, jāaizpilda dokumenta saturs. Lai
+dokumenta izdrukā parādītos grāmatojumu konti, dokuments pirms
+izdrukāšanas ir jāiegrāmato.
+
+
+JaunaKases avansa maksājuma pievienošana
+````````````````````````````````````````
+
+Lai uzskaitītu izmaksātās avansu summas, un tās parādītos avansu
+norēķinu dokumentā, izmaksājot avansu skaidrā naudā, dokuments ir
+jāveido kā Kases avansa maksājums. Dokumentā ir pieejams lauks Persona
+, kur no `Partneru saraksta`_var izvēlēties personas, kuru aprakstā ir
+pazīme `Avansu persona`_.
+
+
+
+Izvēloties dokumenta veidu Kases avansa maksājums, tiks atvērts jauns
+logs:
+
+
+
+
+
+
+Kases avansa maksājuma Virsraksta aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai aizpildītu Kases avansa maksājuma Virsrakstu, nepieciešams:
+
+
+
+1. Norādīt Uzņēmuma kasi, no kura šis maksājums tiks izpildīts:
+
+
+
+
+
+
+
+2. Izvēlēties Datumu, kurā šisKases avansa maksājums tiek veidots:
+
+
+
+
+
+
+
+3.Ievadīt kopējo Kasesavansa maksājumasummu:
+
+
+
+
+
+
+
+4. No saraksta izvēlēties nepieciešamo personu, kuras aprakstā ir
+pazīme `Avansu persona`_, kurai šī skaidras naudas operācijatiks
+noformēta:
+
+
+
+
+
+
+
+Aizpildot lauku Persona , lauks Pers.dok. tiks aizpildīts automātiski,
+pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:
+
+
+
+
+
+
+Kases avansa maksājuma Satura aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu Kases avansa maksājuma Saturu, dokumenta satura daļā
+nepieciešams nospiest un tiks atvērts operācijas satura logs, kurā
+nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās
+dimensijas) un norādīt satura ieraksta summu:
+
+
+
+
+
+
+
+Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
+kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
+satura ierakstu iespējams, satura daļā nospiežot pogu .
+
+
+
+
+Kases avansa maksājuma Pamatojuma un Satura aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Kasesavansa maksājumalauki Pamatojums un Saturs tiek drukāti kases
+avansa maksājuma rindā Pamatojums.
+
+Lauku Kases avansa maksājuma Pamatojums , iespējams aizpildīt manuāli
+vai izvēloties no `Kases paskaidrojumu saraksta`_:
+
+
+
+
+
+
+
+Aktivizējot izvēli Saturs, laukā tiek salikti dokumenta satura finanšu
+(EK) kodi un summas, līdz ar to iespējams automatizēti iegūt
+informāciju par summas sadalījumu pa EK kodiem vai maksājuma PVN
+summu:
+
+
+
+
+
+
+
+
+
+
+Kases avansa maksājuma Pielikuma informācijas aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lauku Pielikumā , Kases avansa maksājumam iespējams aizpildīt manuāli
+vai izvēloties no `Kases pielikumu saraksta`_, laukā Piel.num.
+nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:
+
+
+
+
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti, Kases avansa maksājums ir
+sagatavots un to ir iespējams:
+
+1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs
+vienlaicīgi pieejams apskatei/labošanai/grāmatošanai `Kases
+izdevumu`_un `Avansu norēķinu`_žurnālos.
+
+2. Apstiprināt, nospiežot rīku joslā pogu -Kases avansa maksājums tiks
+Apstiprināts un to būs iespējams Grāmatot.
+
+
+Kases avansa maksājuma grāmatošana
+``````````````````````````````````
+
+Lai dokumenta izdrukā parādītos grāmatojumu konti, dokuments pirms
+izdrukāšanas ir jāiegrāmato.
+
+Kases avansa maksājumu iespējams grāmatot no atvērta Kases avansa
+maksājuma dokumenta vai izvēloties (iezīmējot)dokumentu `Kases
+izdevumu`_vai `Avansu norēķinu`_žurnālā.
+
+Lai iegrāmatotu Kases avansa maksājumu, dokumentu nepieciešams
+Apstiprināt, nospiežot rīku joslā pogu .
+
+Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu .
+
+
+
+Instrukcija - `Dokumentu grāmatošanas principi`_
+
+
+Pievienotā Kases avansa maksājuma labošana
+``````````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot Kases avansa
+maksājumu, kurš vienlaicīgi pieejams apskatei/labošanai`Kases
+izdevumu`_un `Avansu norēķinu`_žurnālos. Lai veiktu labojumusKases
+avansa maksājumā,dokumentunepieciešams atvērt, izmantojot rīku joslas
+pogu (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos
+labojumus:
+
+
+
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+ 

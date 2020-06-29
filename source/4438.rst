@@ -1,12 +1,33 @@
-.. 4438 ==================Kontaktpersona================== <P>Kontaktpersona&nbsp;var tikt &nbsp;pievienota arī jau esošam <A href="/help/?ssw=44&amp;skf_id=4427">partnerim</A>,&nbsp;un vienam partnerim ir iespējams pievienot vairākas kontaktpersonas, piesaistot tās dažādām nokonfigurētajām <A href="/help/?ssw=44&amp;skf_id=5020">intereškopām</A>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25842" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Partneris</STRONG>: partneris, kuram tiks pievienota kontaktpersona;</P>
-<P><STRONG>Vārds, Uzvārds</STRONG>: kontaktpersonas vārds un uzvārds;</P>
-<P><STRONG>Pers.kods</STRONG>: kontaktpersonas personas kods;</P>
-<P><STRONG>Amats</STRONG>: kontaktpersonas amats;</P>
-<P><STRONG>Tālruņi</STRONG>: kontaktpersonas tālruņi un papildus kontakti (e-pasts, skype, mājas lapa);</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25843" border=0>: ja vienam partnerim tiek pievienotas vairākas kontaktpersonas,&nbsp;tad&nbsp;šī būs galvenā kontaktpersona.</P>
-<P>Lai saglabātu pievienotās kontaktpersonas datus, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25829" border=0>, un, lai labotu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25832" border=0>, bet lai pievienotu jaunu kontaktpersonu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25831" border=0>. Lai dzēstu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25830" border=0>.</P>
-<P>Visas pievienotās kontaktpersonas tiek saglabātas <A href="/help/?ssw=44&amp;skf_id=4428">kontaktpersonu žurnālā</A>.</P> 
+.. 4438 ==================Kontaktpersona================== 
+Kontaktpersonavar tikt pievienota arī jau esošam `partnerim`_,un
+vienam partnerim ir iespējams pievienot vairākas kontaktpersonas,
+piesaistot tās dažādām nokonfigurētajām `intereškopām`_:
+
+
+
+
+
+
+
+Partneris : partneris, kuram tiks pievienota kontaktpersona;
+
+Vārds, Uzvārds : kontaktpersonas vārds un uzvārds;
+
+Pers.kods : kontaktpersonas personas kods;
+
+Amats : kontaktpersonas amats;
+
+Tālruņi : kontaktpersonas tālruņi un papildus kontakti (e-pasts,
+skype, mājas lapa);
+
+: ja vienam partnerim tiek pievienotas vairākas kontaktpersonas,tadšī
+būs galvenā kontaktpersona.
+
+Lai saglabātu pievienotās kontaktpersonas datus, jānospiež poga , un,
+lai labotu, jānospiež poga , bet lai pievienotu jaunu kontaktpersonu,
+jānospiež poga . Lai dzēstu, jānospiež poga .
+
+Visas pievienotās kontaktpersonas tiek saglabātas `kontaktpersonu
+žurnālā`_.
+
+ 

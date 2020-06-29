@@ -1,1 +1,2 @@
-.. 5235 ==============================Bankas ieejošais maksājums==============================  .. toctree::   :maxdepth: 3    5236.rst
+.. 5235 ==============================Bankas ieejošais maksājums============================== 
+ .. toctree::   :maxdepth: 3    5236.rst

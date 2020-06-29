@@ -1,20 +1,38 @@
-.. 28 =================Konfigurācija================= <P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>Izmantojot Algu moduļa Konfigurācijas darba režīmus, iespējams nodefinēt LR atbilstošās nodokļu likmes:</P>
-<UL>
-<LI><A href="/help/?ssw=33&amp;skf_id=222">Ienākuma nodokļu metodes</A></LI>
-<LI><A href="/help/?ssw=33&amp;skf_id=223">Sociālo nodokļu metodes</A></LI></UL>
-<P>Izveidot algu&nbsp; konfigurāciju, definējot atbilstošos algu kodus:</P>
-<UL>
-<LI><A href="/help/?ssw=33&amp;skf_id=622">Algu konfigurācijas sistēmas mainīgie</A></LI>
-<LI><A href="/help/?ssw=33&amp;skf_id=282">Ieejošo kodu konfigurācija</A></LI>
-<LI><A href="/help/?ssw=33&amp;skf_id=279">Ieejošo kodu veidi</A></LI>
-<LI><A href="/help/?ssw=33&amp;skf_id=283">Rezultējošo kodu konfigurācija</A></LI>
-<LI><A href="/help/?ssw=33&amp;skf_id=277">Rīkojumu veidu ieejošo datu konfigurācija</A></LI>
-<LI><A href="/help/?ssw=33&amp;skf_id=614">Sistēmas kodi</A></LI></UL>
-<P>Izveidot Kolonnu virsrakstu konfigurācijas <A href="/help/?ssw=33&amp;skf_id=57">Algu atskaitēm</A>:</P>
-<UL>
-<LI><A href="/help/?ssw=33&amp;skf_id=214">Kolonnu virsraksti</A></LI></UL>
-<P>Kā arī pievienot jaunus <A href="/help/?ssw=33&amp;skf_id=211">Algu periodus</A>&nbsp;un nodefinēt <A href="/help/?ssw=33&amp;skf_id=733">Individuālos</A>&nbsp;un <A href="/help/?ssw=33&amp;skf_id=732">Kopīgos</A>&nbsp;konfigurācijas iestādījumus.</P>
-<P>&nbsp;</P>
-<P><A href="/help/?ssw=33&amp;skf_id=733"></A>&nbsp;</P> .. toctree::   :maxdepth: 5    622.rst   211.rst   281.rst   213.rst   282.rst   279.rst   222.rst   733.rst   214.rst   732.rst   283.rst   277.rst   614.rst   223.rst
+.. 28 =================Konfigurācija================= 
+
+
+
+
+Izmantojot Algu moduļa Konfigurācijas darba režīmus, iespējams
+nodefinēt LR atbilstošās nodokļu likmes:
+
+
++ `Ienākuma nodokļu metodes`_
++ `Sociālo nodokļu metodes`_
+
+
+Izveidot algu konfigurāciju, definējot atbilstošos algu kodus:
+
+
++ `Algu konfigurācijas sistēmas mainīgie`_
++ `Ieejošo kodu konfigurācija`_
++ `Ieejošo kodu veidi`_
++ `Rezultējošo kodu konfigurācija`_
++ `Rīkojumu veidu ieejošo datu konfigurācija`_
++ `Sistēmas kodi`_
+
+
+Izveidot Kolonnu virsrakstu konfigurācijas `Algu atskaitēm`_:
+
+
++ `Kolonnu virsraksti`_
+
+
+Kā arī pievienot jaunus `Algu periodus`_un nodefinēt `Individuālos`_un
+`Kopīgos`_konfigurācijas iestādījumus.
+
+
+
+``_
+
+ .. toctree::   :maxdepth: 5    622.rst   211.rst   281.rst   213.rst   282.rst   279.rst   222.rst   733.rst   214.rst   732.rst   283.rst   277.rst   614.rst   223.rst

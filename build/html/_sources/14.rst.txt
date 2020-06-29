@@ -1,2 +1,8 @@
-.. 14 ============Saraksti============ <P>&nbsp;</P>
-<P>Virsgrāmatas&nbsp;sarakstos nepieciešams pievienot grāmatojumu šablonus, kā arī iespējams apskatīt sistēmā&nbsp;iebūvētos grāmatojuma tipus, kas paskaidro dokumentu darba režīmus.</P> .. toctree::   :maxdepth: 5    135.rst   199.rst
+.. 14 ============Saraksti============ 
+
+
+Virsgrāmatassarakstos nepieciešams pievienot grāmatojumu šablonus, kā
+arī iespējams apskatīt sistēmāiebūvētos grāmatojuma tipus, kas
+paskaidro dokumentu darba režīmus.
+
+ .. toctree::   :maxdepth: 5    135.rst   199.rst

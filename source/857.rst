@@ -1,19 +1,55 @@
-.. 857 =======================Bankas kontu grupas======================= <p>&nbsp;</p>
-<p>Sarakstā tiek saglabātas Bankas kontu grupas, kas tiek izmantotas uzņēmumu rekvizītu attēlošanai <a href="/help/?ssw=33&amp;skf_id=304">Pārdošanas dokumentos</a>. Bankas konta grupā iespējams piesaistīt neierobežotu skaitu uzņēmuma rīcībā esošos <a href="/help/?ssw=33&amp;skf_id=141">Banku kontus</a>, kas&nbsp;nodrošina iespēju attēlot šādu pašu skaitu&nbsp;bankas kontus Pārdošanas dokumenta rekvizītu daļā.&nbsp;&nbsp;</p>
-<h4>Jaunas&nbsp;Bankas konta grupas&nbsp;pievienošana</h4>
-<p>Lai pievienotu jaunu&nbsp;Bankas kontu grupu,&nbsp;rīku joslā jānospiež poga&nbsp;<img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiks atvērts jauns logs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25937" border="0"></p>
-<p>&nbsp;</p>
-<p><strong>Nosaukums:</strong> Jāpiešķir bankas konta grupas nosaukums</p>
-<p>&nbsp;</p>
-<p>Izmantojot pogu <img src="/help/Skin/help/img.aspx?pid=24708" border="0">, bankas konta grupai nepieciešams piesaistīt atbilstošos uzņēmuma<a href="/help/?ssw=33&amp;skf_id=141"><strong> </strong></a><a href="?ssw=33&amp;skf_id=141">Banku kontus</a>, norādot bankas konta attēlošanas secību <a href="/help/?ssw=33&amp;skf_id=304">Pārdošanas dokumenta</a> izdrukā (Rinda: 1, 2, 3,&nbsp;utt.)</p>
-<p>&nbsp;</p>
-<p>Ieraksts tiks saglabāts, izpildot komandu <img src="/help/Skin/help/img.aspx?pid=24710" border="0">.</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Lai Pārdošanas dokumenta izdrukā - uzņēmuma rekvizītu daļā,&nbsp;tiktu ņemti dati no izveidotās bankas kontu grupas, pievienoto grupu nepieciešams norādīt&nbsp;Konfigurācija-&gt;Lietotāji-&gt;<a href="/help/?ssw=33&amp;skf_id=188">Uzņēmumi</a>-&gt;Atvērt uzņēmuma aprakstu un sadaļā: Norēķini-&gt;Norādīt izveidoto Bankas kontu grupu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25939" border="0"></p>
-<p>&nbsp;</p>
-<p>Nospiežot pogu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24710" border="0">, dati tiks saglabāti un Pārdošanas dokumenta izdrukā, Pie pārdevēja rekvizītiem tiks uzrādīti tie uzņēmuma bankas konti, kas pievienoti norādītajai grupai.</p>
-<p>&nbsp;</p> 
+.. 857 =======================Bankas kontu grupas======================= 
+
+
+Sarakstā tiek saglabātas Bankas kontu grupas, kas tiek izmantotas
+uzņēmumu rekvizītu attēlošanai `Pārdošanas dokumentos`_. Bankas konta
+grupā iespējams piesaistīt neierobežotu skaitu uzņēmuma rīcībā esošos
+`Banku kontus`_, kasnodrošina iespēju attēlot šādu pašu skaitubankas
+kontus Pārdošanas dokumenta rekvizītu daļā.
+
+
+JaunasBankas konta grupaspievienošana
+`````````````````````````````````````
+
+Lai pievienotu jaunuBankas kontu grupu,rīku joslā jānospiež poga un
+tiks atvērts jauns logs:
+
+
+
+
+
+
+
+Nosaukums: Jāpiešķir bankas konta grupas nosaukums
+
+
+
+Izmantojot pogu , bankas konta grupai nepieciešams piesaistīt
+atbilstošos uzņēmuma` `_`Banku kontus`_, norādot bankas konta
+attēlošanas secību `Pārdošanas dokumenta`_ izdrukā (Rinda: 1, 2,
+3,utt.)
+
+
+
+Ieraksts tiks saglabāts, izpildot komandu .
+
+
+
+Lai Pārdošanas dokumenta izdrukā - uzņēmuma rekvizītu daļā,tiktu ņemti
+dati no izveidotās bankas kontu grupas, pievienoto grupu nepieciešams
+norādītKonfigurācija->Lietotāji->`Uzņēmumi`_->Atvērt uzņēmuma aprakstu
+un sadaļā: Norēķini->Norādīt izveidoto Bankas kontu grupu:
+
+
+
+
+
+
+
+Nospiežot pogu , dati tiks saglabāti un Pārdošanas dokumenta izdrukā,
+Pie pārdevēja rekvizītiem tiks uzrādīti tie uzņēmuma bankas konti, kas
+pievienoti norādītajai grupai.
+
+
+
+ 

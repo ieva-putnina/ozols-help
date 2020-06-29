@@ -1,15 +1,48 @@
-.. 140 ====================Teksta sagataves==================== <p><br></p><p>Sarakstā tiek saglabāti teksta sagataves - paskaidrojumu teksti, kas tiek izmantoti <a href="?ssw=33&amp;skf_id=310">Iepirkuma</a> un <a href="?ssw=33&amp;skf_id=304">Pārdošanas</a> dokumentu Virsrakstā esošā Paskaidrojuma lauka aizpildīšanai. <br></p><h4>Jauna&nbsp;teksta sagataves-paskaidrojuma teksta&nbsp;pievienošana</h4>
+.. 140 ====================Teksta sagataves==================== 
 
-<p>Lai pievienotu jaunu&nbsp;paskaidrojuma tekstu, jāizmanto komanda <img src="/help/Skin/help/img.aspx?pid=24879" border="0">&nbsp;&nbsp; no rīku joslas (Alt+P) un tiks atvērts jauns logs: </p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26497" border="0"><br></p>
-<p>&nbsp;</p>
-<p>Laukā "Nosaukums" jāraksta jaunizveidotā paskaidrojuma teksts.</p>
-<p>&nbsp;</p>
-<p>Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24867" border="0">&nbsp; no rīku joslas vai (Ctrl+S) vai atcelts , ja tiks izmantota komanda <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p>
 
-<h4>Paskaidrojuma teksta labošana</h4><p>Lai veiktu labojumus paskaidrojuma tekstā, ierakstu nepieciešams atvērt, izmantojot komandu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24869" border="0">&nbsp; no rīku joslas (Alt+A). Atvērtajā logā iespējams mainīt nosaukumu. Pēc labojumu veikšanas, veiktās izmaiņas iespējams saglabāt ar komandu&nbsp;&nbsp;<img src="/help/Skin/help/img.aspx?pid=24867" border="0"> no rīku joslas. </p>
-<h4>Paskaidrojuma teksta&nbsp;dzēšana</h4>
 
-<p>Lai dzēstu paskaidrojuma tekstu, jāizmanto komanda&nbsp;&nbsp;<img src="Skin/help/img.aspx?pid=25602" border="0"> no rīku joslas. Ieraksts ir jādzēš neatvērtā veidā.</p>
+Sarakstā tiek saglabāti teksta sagataves - paskaidrojumu teksti, kas
+tiek izmantoti `Iepirkuma`_ un `Pārdošanas`_ dokumentu Virsrakstā
+esošā Paskaidrojuma lauka aizpildīšanai.
+
+
+
+Jaunateksta sagataves-paskaidrojuma tekstapievienošana
+``````````````````````````````````````````````````````
+
+Lai pievienotu jaunupaskaidrojuma tekstu, jāizmanto komanda no rīku
+joslas (Alt+P) un tiks atvērts jauns logs:
+
+
+
+
+
+
+
+
+Laukā "Nosaukums" jāraksta jaunizveidotā paskaidrojuma teksts.
+
+
+
+Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu no rīku
+joslas vai (Ctrl+S) vai atcelts , ja tiks izmantota komanda .
+
+
+
+Paskaidrojuma teksta labošana
+`````````````````````````````
+
+Lai veiktu labojumus paskaidrojuma tekstā, ierakstu nepieciešams
+atvērt, izmantojot komandu no rīku joslas (Alt+A). Atvērtajā logā
+iespējams mainīt nosaukumu. Pēc labojumu veikšanas, veiktās izmaiņas
+iespējams saglabāt ar komandu no rīku joslas.
+
+
+Paskaidrojuma tekstadzēšana
+```````````````````````````
+
+Lai dzēstu paskaidrojuma tekstu, jāizmanto komanda no rīku joslas.
+Ieraksts ir jādzēš neatvērtā veidā.
+
  

@@ -1,38 +1,122 @@
-.. 641 ===============================PVN mēneša deklarācija 2008=============================== <P>&nbsp;</P>
-<P>Sagatavotās PVN deklarācijas tiek saglabātas atskaišu <A href="/help/?ssw=33&amp;skf_id=531">Sarakstā</A>. Deklarācijai ir iebūvēta Ministru kabineta noteikta standarta izdrukas forma. Atskaites dati ir sadalīti ekrāna formās Virsraksts, Darījums, Priekšnodoklis, Papildus, katrā no formām iekļaujot noteiktus atskaites datus. Atskaite ir konfigurējama, nosakot kādu kontu dati tiks parādīti katrā no atskaites rindiņām. No atskaites ekrāna formas var labot atskaites konfigurāciju un pārrēķināt atskaites datus, neveidojot jaunu atskaiti.</P>
-<P>&nbsp;</P>
-<P>Lai būtu iespējams sagatavot PVN mēneša deklarāciju,&nbsp;iepriekš jābūt izveidotai <A href="/help/?ssw=33&amp;skf_id=179">Grāmatojumu atskaišu konfigurācijai</A>.</P>
-<H5>PVN mēneša deklarācijas&nbsp;sagatavošana</H5>
-<P>&nbsp;</P>
-<P>1. Izvēloties Virsgrāmatas atskaiti - PVN mēneša deklarācija, tiks atvērt filtra logs, kur jānorāda nepieciešamie parametri, pēc kādiem atskaite tiks sagatavota:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25069" border=0></P>
-<P>&nbsp;</P>
-<P>2. Nepieciešams norādīt attiecīgo profilu - <A href="/help/?ssw=33&amp;skf_id=179">atskaites konfigurāciju</A>, pēc kādiem konfigurācijas datiem atskaite tiks sagatavota:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25070" border=0></P>
-<P>&nbsp;</P>
-<P>3. Nepieciešams norādīt periodu, par kuru atskaite tiks sagatavota, izvēloties kādu no definētajiem datuma nosacījumiem vai arī "cits" un ievadot datumus manuāli:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25046" border=0></P>
-<P>4. Ja vienā Ozols datu bāzē tiek veikta grāmatvedības uzskaite vairākiem uzņēmumiem,&nbsp;filtrā iespējams izvēlēties, pēc kura uzņēmuma datiem atskaite tiks sagatavota:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25047" border=0></P>
-<P>&nbsp;</P>
-<P>5.&nbsp;Atzīmējot izvēles rūtiņu, iespējams atskaitē iekļaut arī neapstiprinātos grāmatojumus:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25071" border=0></P>
-<P>6.&nbsp;PVN deklarācija&nbsp;tiks sagatavota, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25049" border=0>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25072" border=0></P>
-<P>&nbsp;</P>
-<P>&nbsp;&nbsp;&nbsp;1. Sadaļā "Darījums" tiek parādīta sagatavotā atskaites informācija, pēc filtrā norādītajiem parametriem - norādītās konfigurācijas. Tiek parādītas&nbsp;PVN deklarācijas&nbsp;rindas un summas, kas tiek aprēķinātas balstoties uz atskaites konfigurācijā norādītajām formulām atbilstošajām rindiņām (40-56 rinda).&nbsp;</P>
-<P>&nbsp;&nbsp;&nbsp;2. Sadaļā "Virsraksts" tiek parādīta atskaites Virsraksta informācija - taksācijas periods, priekšnodokļa un aprēķinātā PVN kopsummas, informācija par uzņēmumu (nosaukums, reģistrācijas nr., adrese, atbildīgā persona) un atskaites nosaukums, kas nosaukumā ietver periodu, par kuru atskaite tiek sagatavota.</P>
-<P>&nbsp;&nbsp;&nbsp;3. Sadaļā "Priekšnodoklis" tiek parādīta informācija par aprēķināto priekšnodokli, kas tiek aprēķināts balstoties uz atskaites konfigurācijā norādītajām formulām atbilstošajām rindiņām (57-68 rinda). </P>
-<P>&nbsp;&nbsp;&nbsp;4. Sadaļā "Papildus"&nbsp; tiek parādīta vispārēja informācija, kas ņemta no norādītajiem filtra parametriem sagatavojot atskaiti: izvēlētā atskaites konfigurācija, izvēlētais uzņēmums, pēc kura datiem šī atskaite tika sagatavota un izvēles rūtiņa "Iekļaut neapstiprinātos grāmatojumus", kuru iespējams atzīmēt, ja deklarācija jāsagatavo iekļaujot tajā arī neapstiprinātos grāmatojumus. </P>
-<P>7. Ekrāna formā ir pieejams atskaišu konfigurācijas saraksts. Nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25055" border=0>, komanda izsauc atskaites konfigurācijas ekrāna formu, to var papildināt neaizverot atskaiti.</P>
-<P>&nbsp;</P>
-<P>8. Ja pēc atskaites sagatavošanas veiktas izmaiņas <A href="/help/?ssw=33&amp;skf_id=179">atskaites konfigurācijā</A>,&nbsp; atskaiti pēc izmanītās konfigurācijas datiem var pārrēķināt, nospiežot pogu: <IMG src="/help/Skin/help/img.aspx?pid=25053" border=0>. Pārrēķinot atskaiti, tajā tiek parādīti jaunākie dati.</P>
-<P>9. Sagatavoto atskaiti iespējams saglabāt <A href="/help/?ssw=33&amp;skf_id=531">VID atskaišu sarakstā</A>, kur tā būs pieejama labošanai/drukāšanai, nospiežot pogu: <IMG src="/help/Skin/help/img.aspx?pid=25054" border=0>.</P>
-<P>&nbsp;</P>
-<P>10. Nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>&nbsp;atskaite sagatavota netiks un darbība tiks atcelta. Ja atskaite tiek izveidota un nav jāsaglabā, jālieto komanda <STRONG>Atcelt</STRONG>. Ja atskaite ir saglabāta sarakstā, komandu&nbsp;<STRONG>Atcelt</STRONG> var izmantot, lai nesaglabātu atskaitē veiktās izmaiņas.</P> 
+.. 641 ===============================PVN mēneša deklarācija 2008=============================== 
+
+
+Sagatavotās PVN deklarācijas tiek saglabātas atskaišu `Sarakstā`_.
+Deklarācijai ir iebūvēta Ministru kabineta noteikta standarta izdrukas
+forma. Atskaites dati ir sadalīti ekrāna formās Virsraksts, Darījums,
+Priekšnodoklis, Papildus, katrā no formām iekļaujot noteiktus
+atskaites datus. Atskaite ir konfigurējama, nosakot kādu kontu dati
+tiks parādīti katrā no atskaites rindiņām. No atskaites ekrāna formas
+var labot atskaites konfigurāciju un pārrēķināt atskaites datus,
+neveidojot jaunu atskaiti.
+
+
+
+Lai būtu iespējams sagatavot PVN mēneša deklarāciju,iepriekš jābūt
+izveidotai `Grāmatojumu atskaišu konfigurācijai`_.
+
+
+PVN mēneša deklarācijassagatavošana
++++++++++++++++++++++++++++++++++++
+
+
+
+1. Izvēloties Virsgrāmatas atskaiti - PVN mēneša deklarācija, tiks
+atvērt filtra logs, kur jānorāda nepieciešamie parametri, pēc kādiem
+atskaite tiks sagatavota:
+
+
+
+
+
+
+
+2. Nepieciešams norādīt attiecīgo profilu - `atskaites
+konfigurāciju`_, pēc kādiem konfigurācijas datiem atskaite tiks
+sagatavota:
+
+
+
+
+
+
+
+3. Nepieciešams norādīt periodu, par kuru atskaite tiks sagatavota,
+izvēloties kādu no definētajiem datuma nosacījumiem vai arī "cits" un
+ievadot datumus manuāli:
+
+
+
+
+
+4. Ja vienā Ozols datu bāzē tiek veikta grāmatvedības uzskaite
+vairākiem uzņēmumiem,filtrā iespējams izvēlēties, pēc kura uzņēmuma
+datiem atskaite tiks sagatavota:
+
+
+
+
+
+
+
+5.Atzīmējot izvēles rūtiņu, iespējams atskaitē iekļaut arī
+neapstiprinātos grāmatojumus:
+
+
+
+
+
+6.PVN deklarācijatiks sagatavota, nospiežot pogu :
+
+
+
+
+
+
+
+1. Sadaļā "Darījums" tiek parādīta sagatavotā atskaites informācija,
+pēc filtrā norādītajiem parametriem - norādītās konfigurācijas. Tiek
+parādītasPVN deklarācijasrindas un summas, kas tiek aprēķinātas
+balstoties uz atskaites konfigurācijā norādītajām formulām
+atbilstošajām rindiņām (40-56 rinda).
+
+2. Sadaļā "Virsraksts" tiek parādīta atskaites Virsraksta informācija
+- taksācijas periods, priekšnodokļa un aprēķinātā PVN kopsummas,
+informācija par uzņēmumu (nosaukums, reģistrācijas nr., adrese,
+atbildīgā persona) un atskaites nosaukums, kas nosaukumā ietver
+periodu, par kuru atskaite tiek sagatavota.
+
+3. Sadaļā "Priekšnodoklis" tiek parādīta informācija par aprēķināto
+priekšnodokli, kas tiek aprēķināts balstoties uz atskaites
+konfigurācijā norādītajām formulām atbilstošajām rindiņām (57-68
+rinda).
+
+4. Sadaļā "Papildus" tiek parādīta vispārēja informācija, kas ņemta no
+norādītajiem filtra parametriem sagatavojot atskaiti: izvēlētā
+atskaites konfigurācija, izvēlētais uzņēmums, pēc kura datiem šī
+atskaite tika sagatavota un izvēles rūtiņa "Iekļaut neapstiprinātos
+grāmatojumus", kuru iespējams atzīmēt, ja deklarācija jāsagatavo
+iekļaujot tajā arī neapstiprinātos grāmatojumus.
+
+7. Ekrāna formā ir pieejams atskaišu konfigurācijas saraksts.
+Nospiežot pogu , komanda izsauc atskaites konfigurācijas ekrāna formu,
+to var papildināt neaizverot atskaiti.
+
+
+
+8. Ja pēc atskaites sagatavošanas veiktas izmaiņas `atskaites
+konfigurācijā`_, atskaiti pēc izmanītās konfigurācijas datiem var
+pārrēķināt, nospiežot pogu: . Pārrēķinot atskaiti, tajā tiek parādīti
+jaunākie dati.
+
+9. Sagatavoto atskaiti iespējams saglabāt `VID atskaišu sarakstā`_,
+kur tā būs pieejama labošanai/drukāšanai, nospiežot pogu: .
+
+
+
+10. Nospiežot pogu atskaite sagatavota netiks un darbība tiks atcelta.
+Ja atskaite tiek izveidota un nav jāsaglabā, jālieto komanda Atcelt .
+Ja atskaite ir saglabāta sarakstā, komandu Atcelt var izmantot, lai
+nesaglabātu atskaitē veiktās izmaiņas.
+
+ 

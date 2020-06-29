@@ -1,9 +1,23 @@
-.. 155 ==============================Apdrošināšanas sabiedrības============================== <P>Lai pievienotu jaunu Apdrošināšanas sabiedrības nosaukumu, Rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25605" border=0>, tiks atvērts logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26059" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Nosaukums:</STRONG> Apdrošināšanas sabiedrības nosaukums.</P>
-<P>&nbsp;</P>
-<P>Apdrošināšanas sabiedrību saraksts tiek izmantots, aizpildot Pamatlīdzekļu kartiņā sadaļu "Pārējie&nbsp;dati" <A href="/help/?ssw=33&amp;skf_id=433"><FONT color=#0066cc>Pamatlīdzekļa ienākšanas dokumenta</FONT></A> un <A href="/help/?ssw=33&amp;skf_id=436"><FONT color=#0066cc>Pamatlīdzekļa atlikumu ievades dokumenta</FONT></A> saturā:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26058" border=0></P> 
+.. 155 ==============================Apdrošināšanas sabiedrības============================== 
+Lai pievienotu jaunu Apdrošināšanas sabiedrības nosaukumu, Rīku joslā
+jānospiež poga , tiks atvērts logs:
+
+
+
+
+
+
+
+Nosaukums: Apdrošināšanas sabiedrības nosaukums.
+
+
+
+Apdrošināšanas sabiedrību saraksts tiek izmantots, aizpildot
+Pamatlīdzekļu kartiņā sadaļu "Pārējiedati" ` Pamatlīdzekļa ienākšanas
+dokumenta `_ un ` Pamatlīdzekļa atlikumu ievades dokumenta `_ saturā:
+
+
+
+
+
+ 

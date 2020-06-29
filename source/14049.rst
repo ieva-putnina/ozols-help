@@ -1,18 +1,53 @@
-.. 14049 ======================Dokumenta labošana====================== <P>&nbsp;</P>
-<P>Lai dokumentu labotu ir:</P>
-<P>1) jāatver dokuments no dokumentu žurnāla. (<STRONG>CtrL+A</STRONG>, komanda&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24720" border=0>&nbsp;no rīku joslas, nospiežot peles labo pogu un izvēloties komandu "Atvērt" vai komanda "Atvērt" no izvēlnes Dati</P>
-<P>&nbsp;</P>
-<P>2) ja dokuments ir iegrāmatots, jāanulē grāmatojums. Ja grāmatojums ir apstiprināts, ir jānoņem apstiprinājums no grāmatojuma un tad jāanulē grāmatojums.&nbsp;Atvērto grāmatojumu anulē, izmantojot komandu <IMG src="/help/Skin/help/img.aspx?pid=24717" border=0>&nbsp;no rīku joslas, komandu "Anulēt" no izvēlnes Dati vai nospiežot peles labo pogu un izvēloties komandu "Anulēt". Anulēts grāmatojums tiek saglabāts grāmatojumu žurnālā apskates režīmā&nbsp;un nepieciešamības gadījumā šādu grāmatojumu ir iespējams atjaunot.</P>
-<P>3) ja dokuments ir apstiprināts, tad jānoņem apstiprinājums (<STRONG>CtrL+R; </STRONG>komanda&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24715" border=0>&nbsp;no rīku joslas; komanda "Apstiprināt" no izvēlnes Dati, vai nospiežot peles labo pogu izvēlamies komandu "Apstiprināt"). Dokumenta apstiprināšana un apstiprinājuma noņemša tiek veikta ar vienām un tām pašām komandām. </P>
-<P>&nbsp;</P>
-<P>4) <STRONG>jālabo dokuments</STRONG></P>
-<P>5) izlabotais dokuments atkal jāapstiprina (<STRONG>CtrL+R </STRONG>vai&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24715" border=0>&nbsp;)</P>
-<P>6) jāizveido jauns grāmatojums vai jāatjauno bijušais grāmatojums (<STRONG>CtrL+G</STRONG> vai <IMG src="/help/Skin/help/img.aspx?pid=24716" border=0>). Ja pirmdokumentam ir bijis anulēts grāmatojums, tad vēlreiz grāmatojot šo dokumentu tiek pārjautāts vai veidot jaunu grāmatojumu vai atjaunot jau anulēto grāmatojumu </P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25306" border=0></P>
-<P>&nbsp;</P>
-<P>- atbildot "jā" - anulētais grāmatojums tiks atjaunots</P>
-<P>- atbildot "nē" - tiks izveidots jauns grāmatojums</P>
-<P>- atbildot "atcelt" - grāmatojuma veikšana tiks atcelta</P>
-<P>&nbsp;</P>
-<P>7) jāapstiprina grāmatojums (<STRONG>CtrL+R </STRONG>vai&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24715" border=0>&nbsp;)</P> 
+.. 14049 ======================Dokumenta labošana====================== 
+
+
+Lai dokumentu labotu ir:
+
+1) jāatver dokuments no dokumentu žurnāla. ( CtrL+A , komanda no rīku
+joslas, nospiežot peles labo pogu un izvēloties komandu "Atvērt" vai
+komanda "Atvērt" no izvēlnes Dati
+
+
+
+2) ja dokuments ir iegrāmatots, jāanulē grāmatojums. Ja grāmatojums ir
+apstiprināts, ir jānoņem apstiprinājums no grāmatojuma un tad jāanulē
+grāmatojums.Atvērto grāmatojumu anulē, izmantojot komandu no rīku
+joslas, komandu "Anulēt" no izvēlnes Dati vai nospiežot peles labo
+pogu un izvēloties komandu "Anulēt". Anulēts grāmatojums tiek
+saglabāts grāmatojumu žurnālā apskates režīmāun nepieciešamības
+gadījumā šādu grāmatojumu ir iespējams atjaunot.
+
+3) ja dokuments ir apstiprināts, tad jānoņem apstiprinājums ( CtrL+R;
+komanda no rīku joslas; komanda "Apstiprināt" no izvēlnes Dati, vai
+nospiežot peles labo pogu izvēlamies komandu "Apstiprināt"). Dokumenta
+apstiprināšana un apstiprinājuma noņemša tiek veikta ar vienām un tām
+pašām komandām.
+
+
+
+4) jālabo dokuments
+
+5) izlabotais dokuments atkal jāapstiprina ( CtrL+R vai )
+
+6) jāizveido jauns grāmatojums vai jāatjauno bijušais grāmatojums (
+CtrL+G vai ). Ja pirmdokumentam ir bijis anulēts grāmatojums, tad
+vēlreiz grāmatojot šo dokumentu tiek pārjautāts vai veidot jaunu
+grāmatojumu vai atjaunot jau anulēto grāmatojumu
+
+
+
+
+
+
+
+- atbildot "jā" - anulētais grāmatojums tiks atjaunots
+
+- atbildot "nē" - tiks izveidots jauns grāmatojums
+
+- atbildot "atcelt" - grāmatojuma veikšana tiks atcelta
+
+
+
+7) jāapstiprina grāmatojums ( CtrL+R vai )
+
+ 

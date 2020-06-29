@@ -1,9 +1,23 @@
-.. 14039 ==============================Saraksta ierakstu labošana============================== <P>&nbsp;</P>
-<P>Lai labotu saraksta ierakstu&nbsp;ir:</P>
-<P>&nbsp;</P>
-<P>1) jāatver&nbsp;saraksta ieraksts no&nbsp;sarakstu žurnāla.&nbsp;</P>
-<P>Lai atvērtu saraksta ierakstu, tas ir jāiezīmē ar kursoru un jāizmanto&nbsp;komandu <STRONG>CtrL+A</STRONG>, komandu<IMG src="/help/Skin/help/img.aspx?pid=24720" border=0>&nbsp;no rīku joslas, nospiežot peles labo pogu un izvēloties komandu "Atvērt" vai komandu "Atvērt" no izvēlnes Dati</P>
-<P>&nbsp;</P>
-<P>2) <STRONG>jālabo saraksta ieraksts</STRONG></P>
-<P>3) lai saglabātu veiktās izmaiņas saraksta ierakstā, jāizmanto komandu <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0></P>
-<P>&nbsp;</P> 
+.. 14039 ==============================Saraksta ierakstu labošana============================== 
+
+
+Lai labotu saraksta ierakstuir:
+
+
+
+1) jāatversaraksta ieraksts nosarakstu žurnāla.
+
+Lai atvērtu saraksta ierakstu, tas ir jāiezīmē ar kursoru un
+jāizmantokomandu CtrL+A , komandu no rīku joslas, nospiežot peles labo
+pogu un izvēloties komandu "Atvērt" vai komandu "Atvērt" no izvēlnes
+Dati
+
+
+
+2) jālabo saraksta ieraksts
+
+3) lai saglabātu veiktās izmaiņas saraksta ierakstā, jāizmanto komandu
+
+
+
+ 

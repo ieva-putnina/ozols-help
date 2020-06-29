@@ -1,69 +1,198 @@
-.. 474 =========================Kasē atgriezts avanss========================= <p>&nbsp;</p>
-<p>Kases ieņēmumu ordera veids Atgriezts avanss jāveido, kad uzņēmuma kasē <a href="/help/?ssw=33&amp;skf_id=196">Avansu norēķinu persona</a> atgriež saņemto avansu. Dokumenta veids Atgriezts avanss ir uzskatāms par kases ieņēmumu orderi, tam ir iebūvēta kases ieņēmumu ordera izdruka, un tas iekļaujas kases ieņēmumu dokumentu kopējā numerācijā. Kases ieņēmumu ordera veids nodrošina automatizētu norēķinu uzskaiti ar uzņēmuma <a href="/help/?ssw=33&amp;skf_id=196">Avansu norēķinu personām</a>. Kasē atgriezto avansu dokuments tiek vienlaicīgi parādīts <a href="/help/?ssw=33&amp;skf_id=227">Kases ieņēmumu</a>&nbsp;un <a href="/help/?ssw=33&amp;skf_id=232">Avansu norēķinu</a>&nbsp;dokumentu žurnālos. Darījuma atšifrēšanai pa finanšu (EK) kodiem, jāaizpilda dokumenta saturs. Lai dokumenta izdrukā parādītos grāmatojumu konti, dokuments pirms izdrukāšanas ir jāiegrāmato.</p>
-<h4>Jauna&nbsp;Kasē atgriezta avansa&nbsp;pievienošana</h4>
-<p>Izvēloties dokumenta veidu Kasē atgriezts avanss, tiks atvērts jauns logs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24993" border="0"></p>
-<h5>Kasē atgriezta avansa&nbsp;Virsraksta aizpildīšana</h5>
-<p>&nbsp;</p>
-<p>Lai aizpildītu Kasē atgriezta avansa Virsrakstu, nepieciešams:</p>
-<p>&nbsp;</p>
-<p>1. Norādīt Uzņēmuma kasi, uz kuru&nbsp;saņemta nauda kasē no <a href="/help/?ssw=33&amp;skf_id=196">Avansu norēķinu personas</a>:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24826" border="0"></p>
-<p>&nbsp;</p>
-<p>2. Izvēlēties Datumu, kurā šis&nbsp;Kasē atgrieztais avanss&nbsp;tiek noformēts:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24811" border="0"></p>
-<p>&nbsp;</p>
-<p>3.&nbsp;Ievadīt kopējo Kases&nbsp;atgrieztā avansa dokumenta&nbsp;summu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24812" border="0"></p>
-<p>&nbsp;</p>
-<p>4. No saraksta izvēlēties nepieciešamo <strong>Personu</strong> - fizisku personu, no kuras kasē tiek saņemta nauda:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24828" border="0"></p>
-<p>&nbsp;</p>
-<p>Aizpildot lauku <strong>Persona</strong>, lauks <strong>Pers.dok.</strong> tiks aizpildīts automātiski, pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24906" border="0"></p>
-<h5>Dokumenta - Kasē atgriezts avanss,&nbsp;Satura aizpildīšana</h5>
-<p>Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams nospiest pogu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24800" border="0"></p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto summu.&nbsp;Pievienot nākamo satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24708" border="0">.</p>
-<h5>Kasē atgriezta avansa dokumenta Pamatojuma aizpildīšana</h5>
-<p><br>Dokumenta&nbsp;lauks&nbsp;<strong>Pamatojums</strong> tiek drukāts kases&nbsp;ieņēmumu ordera rindā Pamatojums. </p>
-<p>Lauku<strong> Pamatojums</strong>, iespējams aizpildīt manuāli vai izvēloties no <a href="/help/?ssw=33&amp;skf_id=136">Kases paskaidrojumu saraksta</a>:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24907" border="0"></p>
-<p>&nbsp;</p>
-<h5>Dokumentu piesaiste Kasē atgrieztam avansam</h5>
-<p>&nbsp;</p>
-<p>Kasē atgrieztam avansam, līdzīgi kā jebkuram citam <a href="/help/?ssw=33&amp;skf_id=350">Kases ieņēmumu orderim</a>,&nbsp;ir&nbsp;iespējams piesaistīt&nbsp;Stingrās uzskaites dokumentus&nbsp;no <a href="/help/?ssw=33&amp;skf_id=286">Darījumu apliecinošo kvīšu</a>, <a href="/help/?ssw=33&amp;skf_id=252">Kultūras un citu pasākumu ieejas biļešu</a>&nbsp;vai <a href="/help/?ssw=33&amp;skf_id=773">Caurlaižu</a>&nbsp;žurnāla,&nbsp;nospiežot uz lauka Dokumenti labajā pusē esošās lupas pogas un pievienojot nepieciešamo Stingrās uzskaites dokumentu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24868" border="0"></p>
-<p>&nbsp;</p>
-<p>Kad izvēlēts nepieciešamais uzskaites dokuments un ierakstīta dokumenta summa, ierakstu iespējams pievienot, nospiežot <img src="/help/Skin/help/img.aspx?pid=24874" border="0">&nbsp;vai arī, ja nevēlaties dokumentu pievienot - <img src="/help/Skin/help/img.aspx?pid=24875" border="0">.</p>
-<p>&nbsp;</p>
-<p>Lai izvēlētos uzskaites dokumentus piesaistītu dokumentam, logā "Darījumu apliecinošās kvītis" nepieciešams nospiest <img src="/help/Skin/help/img.aspx?pid=24876" border="0">&nbsp;un dokuments tiks&nbsp;pievienots Kases ieņēmumu dokumentam:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24877" border="0"></p>
-<p>&nbsp;</p>
-<p>Kad visi nepieciešamie lauki ir aizpildīti,&nbsp;dokuments - Kasē atgriezts avanss,&nbsp;ir sagatavots un to ir iespējams:</p>
-<p>1. Saglabāt,&nbsp;nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;-&nbsp;dokuments tiks saglabāts un būs&nbsp;pieejams apskatei/labošanai/grāmatošanai&nbsp;vienlaicīgi <a href="/help/?ssw=33&amp;skf_id=227">Kases ieņēmumu</a>&nbsp;un <a href="/help/?ssw=33&amp;skf_id=232">Avansu norēķinu</a>&nbsp;dokumentu žurnālos.</p>
-<p>2. Apstiprināt, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24740" border="0">&nbsp;- Kasē atgriezts avanss tiks Apstiprināts un to būs iespējams Grāmatot.</p>
-<h4>Dokumenta - Kasē atgriezts avanss -&nbsp;grāmatošana</h4>
-<p>Kasē atgrieztu avansu&nbsp;iespējams grāmatot no atvērta dokumenta vai izvēloties (iezīmējot)&nbsp;dokumentu <a href="/help/?ssw=33&amp;skf_id=227">Kases ieņēmumu</a>&nbsp;vai vai <a href="/help/?ssw=33&amp;skf_id=232">Avansu norēķinu</a>&nbsp;žurnālā.</p>
-<p>Lai iegrāmatotu Kasē atgrieztu avansu, dokumentu nepieciešams Apstiprināt, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24740" border="0">.</p>
-<p>Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx <a href="http://abortionpill-online.com" style="text-decoration:none;color:#706666">how much</a> ?pid=24741" border="0">.</p>
-<p>&nbsp;</p>
-<p>Instrukcija - <a href="/help/?ssw=33&amp;skf_id=14044">Dokumentu grāmatošanas principi</a></p>
-<h4>Pievienotā&nbsp;Kasē atgrieztā avansa&nbsp;labošana</h4>
-<p>Labojumus saglabātajā&nbsp;dokumentā iespējams veikt atverot dokumentu Kasē atgriezts avanss, kurš vienlaicīgi pieejams apskatei/labošanai&nbsp;<a href="/help/?ssw=33&amp;skf_id=227">Kases ieņēmumu</a>&nbsp;un <a href="/help/?ssw=33&amp;skf_id=232">Avansu norēķinu</a>&nbsp;dokumentu žurnālos.</p>
-<p>Lai veiktu labojumus,&nbsp;dokumentu&nbsp;nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24709" border="0">&nbsp;(ALT+A), un&nbsp;atvērtajā&nbsp;ierakstā iespējams veikt&nbsp;nepieciešamos labojumus:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24908" border="0"><br></p>
-<p>&nbsp;</p>
-<p>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p><div style="display:none">fiogf49gjkf05</div> 
+.. 474 =========================Kasē atgriezts avanss========================= 
+
+
+Kases ieņēmumu ordera veids Atgriezts avanss jāveido, kad uzņēmuma
+kasē `Avansu norēķinu persona`_ atgriež saņemto avansu. Dokumenta
+veids Atgriezts avanss ir uzskatāms par kases ieņēmumu orderi, tam ir
+iebūvēta kases ieņēmumu ordera izdruka, un tas iekļaujas kases
+ieņēmumu dokumentu kopējā numerācijā. Kases ieņēmumu ordera veids
+nodrošina automatizētu norēķinu uzskaiti ar uzņēmuma `Avansu norēķinu
+personām`_. Kasē atgriezto avansu dokuments tiek vienlaicīgi parādīts
+`Kases ieņēmumu`_un `Avansu norēķinu`_dokumentu žurnālos. Darījuma
+atšifrēšanai pa finanšu (EK) kodiem, jāaizpilda dokumenta saturs. Lai
+dokumenta izdrukā parādītos grāmatojumu konti, dokuments pirms
+izdrukāšanas ir jāiegrāmato.
+
+
+JaunaKasē atgriezta avansapievienošana
+``````````````````````````````````````
+
+Izvēloties dokumenta veidu Kasē atgriezts avanss, tiks atvērts jauns
+logs:
+
+
+
+
+
+
+Kasē atgriezta avansaVirsraksta aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai aizpildītu Kasē atgriezta avansa Virsrakstu, nepieciešams:
+
+
+
+1. Norādīt Uzņēmuma kasi, uz kurusaņemta nauda kasē no `Avansu
+norēķinu personas`_:
+
+
+
+
+
+
+
+2. Izvēlēties Datumu, kurā šisKasē atgrieztais avansstiek noformēts:
+
+
+
+
+
+
+
+3.Ievadīt kopējo Kasesatgrieztā avansa dokumentasummu:
+
+
+
+
+
+
+
+4. No saraksta izvēlēties nepieciešamo Personu - fizisku personu, no
+kuras kasē tiek saņemta nauda:
+
+
+
+
+
+
+
+Aizpildot lauku Persona , lauks Pers.dok. tiks aizpildīts automātiski,
+pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:
+
+
+
+
+
+
+Dokumenta - Kasē atgriezts avanss,Satura aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams
+nospiest pogu un tiks atvērts operācijas satura logs, kurā
+nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās
+dimensijas) un norādīt satura ieraksta summu:
+
+
+
+
+
+
+
+Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
+kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
+satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu .
+
+
+Kasē atgriezta avansa dokumenta Pamatojuma aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Dokumentalauks Pamatojums tiek drukāts kasesieņēmumu ordera rindā
+Pamatojums.
+
+Lauku Pamatojums , iespējams aizpildīt manuāli vai izvēloties no
+`Kases paskaidrojumu saraksta`_:
+
+
+
+
+
+
+
+
+Dokumentu piesaiste Kasē atgrieztam avansam
++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Kasē atgrieztam avansam, līdzīgi kā jebkuram citam `Kases ieņēmumu
+orderim`_,iriespējams piesaistītStingrās uzskaites dokumentusno
+`Darījumu apliecinošo kvīšu`_, `Kultūras un citu pasākumu ieejas
+biļešu`_vai `Caurlaižu`_žurnāla,nospiežot uz lauka Dokumenti labajā
+pusē esošās lupas pogas un pievienojot nepieciešamo Stingrās uzskaites
+dokumentu:
+
+
+
+
+
+
+
+Kad izvēlēts nepieciešamais uzskaites dokuments un ierakstīta
+dokumenta summa, ierakstu iespējams pievienot, nospiežot vai arī, ja
+nevēlaties dokumentu pievienot - .
+
+
+
+Lai izvēlētos uzskaites dokumentus piesaistītu dokumentam, logā
+"Darījumu apliecinošās kvītis" nepieciešams nospiest un dokuments
+tikspievienots Kases ieņēmumu dokumentam:
+
+
+
+
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti,dokuments - Kasē atgriezts
+avanss,ir sagatavots un to ir iespējams:
+
+1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būspieejams
+apskatei/labošanai/grāmatošanaivienlaicīgi `Kases ieņēmumu`_un `Avansu
+norēķinu`_dokumentu žurnālos.
+
+2. Apstiprināt, nospiežot rīku joslā pogu - Kasē atgriezts avanss tiks
+Apstiprināts un to būs iespējams Grāmatot.
+
+
+Dokumenta - Kasē atgriezts avanss -grāmatošana
+``````````````````````````````````````````````
+
+Kasē atgrieztu avansuiespējams grāmatot no atvērta dokumenta vai
+izvēloties (iezīmējot)dokumentu `Kases ieņēmumu`_vai vai `Avansu
+norēķinu`_žurnālā.
+
+Lai iegrāmatotu Kasē atgrieztu avansu, dokumentu nepieciešams
+Apstiprināt, nospiežot rīku joslā pogu .
+
+Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu `how much`_ ?pid=24741" border="0">.
+
+
+
+Instrukcija - `Dokumentu grāmatošanas principi`_
+
+
+PievienotāKasē atgrieztā avansalabošana
+```````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu Kasē
+atgriezts avanss, kurš vienlaicīgi pieejams apskatei/labošanai`Kases
+ieņēmumu`_un `Avansu norēķinu`_dokumentu žurnālos.
+
+Lai veiktu labojumus,dokumentunepieciešams atvērt, izmantojot rīku
+joslas pogu (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos
+labojumus:
+
+
+
+
+
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+fiogf49gjkf05
+ 

@@ -1,11 +1,35 @@
-.. 147 =================================Bankas paskaidrojumu saraksts================================= <P>&nbsp;</P>
-<P>Bankas paskaidrojumi ir saraksts, kurā tiek saglabāti biežāk izmantotie maksājuma mērķu teksti <A href="/help/?ssw=33&amp;skf_id=347">Bankas maksājuma uzdevumos</A>. Paskaidrojumu saraksta dati tiek izmantoti maksājuma uzdevuma lauka Mērķis automatizētai aizpildīšanai.</P>
-<P>&nbsp;</P>
-<H5>Jauna Bankas paskaidrojumu saraksta&nbsp;pievienošana:</H5>
-<P>Lai pievienotu jaunu&nbsp;Bankas paskaidrojumu sarakstu,&nbsp;jānospiež poga&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24658" border=0></P>
-<P>Laukā Nosaukums, nepieciešams ierakstīt Bankas paskaidrojuma nosaukumu. Ieraksts tiks saglabāts, izpildot komandu <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>.</P>
-<H5>Pievienotā Bankas&nbsp;paskaidrojumu saraksta&nbsp;labošana:</H5>
-<P>Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>&nbsp;(ALT+A), un&nbsp;atvērtajā logā nomainīt Nosaukumu.</P>
-<P>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P> 
+.. 147 =================================Bankas paskaidrojumu saraksts================================= 
+
+
+Bankas paskaidrojumi ir saraksts, kurā tiek saglabāti biežāk
+izmantotie maksājuma mērķu teksti `Bankas maksājuma uzdevumos`_.
+Paskaidrojumu saraksta dati tiek izmantoti maksājuma uzdevuma lauka
+Mērķis automatizētai aizpildīšanai.
+
+
+
+
+Jauna Bankas paskaidrojumu sarakstapievienošana:
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai pievienotu jaunuBankas paskaidrojumu sarakstu,jānospiež poga un
+tiks atvērts jauns logs:
+
+
+
+
+
+Laukā Nosaukums, nepieciešams ierakstīt Bankas paskaidrojuma
+nosaukumu. Ieraksts tiks saglabāts, izpildot komandu .
+
+
+Pievienotā Bankaspaskaidrojumu sarakstalabošana:
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
+atvērt, izmantojot rīku joslas pogu (ALT+A), unatvērtajā logā nomainīt
+Nosaukumu.
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+ 

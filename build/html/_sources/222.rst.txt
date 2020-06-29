@@ -1,24 +1,81 @@
-.. 222 ============================Ienākuma nodokļu metodes============================ <p>&nbsp;</p>
-<p>Programmatūras lietotājam ir jāseko, vai nodokļu aprēķinu metožu sarakstos atbilstošajiem periodiem tiek noteiktas pareizas nodokļu likmes.</p>
-<p>Ja tiek uzskaitīti dati vairākiem uzņēmumiem, tad nodokļu likmju saraksti ir kopīgi visiem uzņēmumiem.</p>
-<p>&nbsp;</p>
-<p>Šajā sarakstā tiek nodefinētas uzņēmuma iedzīvotāju ienākuma nodokļa metodes algām. Ienākuma nodokļa metodes veidojas no iedzīvotāju ienākuma nodokļa, ar iedzīvotāju ienākuma nodokļa neapliekamā minimuma un atvieglojumu kombinācijām. Iedzīvotāju ienākuma nodokļa metodes tiek pievienotas darbinieku&nbsp;<a href="/help/?ssw=33&amp;skf_id=208">nodokļu dokumentiem</a>.</p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26525" border="0"><br></p>
-<p>&nbsp;</p>
-<p><strong>Nosaukums</strong> - jānorāda iedzīvotāju ienākuma nodokļa metodes nosaukums.</p>
-<p><strong>Apg.skaits</strong> - jānorāda apgādājamo skaits (ja nav, tad šis lauks jāatstāj tukšs).</p>
-<p><strong>Saturs</strong> - jāaizpilda ienākuma nodokļa metodes likmes. Likmes jāaizpilda par katru algu aprēķina periodu. Veidojot jaunu <a href="/help/?ssw=33&amp;skf_id=211">Algu periodu</a> visām ienākuma nodokļa metodēm automātiski par jauno periodu likmes tiek ņemtas no pēdējā&nbsp;esošā algu aprēķinu perioda (atverot jaunu algu periodu katrai ienākuma nodokļu metodei likmes par jauno periodu nav jāaizpilda, tās tiek aizpildītas automātiski no iepriekšējā perioda). Likmju maiņu gadījumā jāizveido jauns algu periods (piem.&nbsp;periods 2008-01, kuram tiek ielādētas iepriekšējā mēneša, respektīvi, iepriekšējā gada likmes), jāatver Ienākuma nodokļu metožu saraksts un katrā ienākuma nodokļa metodē jāizlabo pēdējā perioda (attiecīgi periodam 2008-01)&nbsp;likmes uz attiecīgā perioda atbilstošajām likmēm.</p>
-<p><font size="2"></font>&nbsp;</p>
-<p><font size="2"><img src="/help/Skin/help/img.aspx?pid=24545" border="0"></font>Sistēmas konfigurācijā tiek saglabātas aprēķinu metodes – iespējamie nodokļu piemērošanas veidi – darbiniekam Latvijas uzņēmumā, pensionāriem, ar apgādājamajiem vai bez u.c. Katras metodes aprakstā tiek saglabāti ieraksti katram algu aprēķina periodam.</p>
-<h5>Satura aizpildīšana.</h5>
-<p><img src="Skin/help/img.aspx?pid=26523" border="0"><br></p>
-<p>&nbsp;</p>
-<p><strong>Periods</strong> - jānorāda periods no <a href="/help/?ssw=33&amp;skf_id=211">Algu periodu saraksta</a>.</p>
-<p><strong>Ien.nod.</strong> - jānorāda iedzīvotāju ienākuma nodokļa likme procentos.</p>
-<p><strong>Neapl.min.</strong> - jānorāda iedzīvotāju ienākuma nodokļa neapliekamais minimums latos par vienu mēnesi.</p>
-<p><strong>Atv.apg.</strong> - jānorāda atvieglojums par apgādājamajiem latos par vienu mēnesi. Jānorāda atvieglojuma kopējā summa, nevis atvieglojuma summa&nbsp;par vienu apgādājamo.</p>
-<p><strong>Atv.repr.</strong> - jānorāda atvieglojums politiski represētām personām un nacionālās pretošanās kustības dalībniekiem latos&nbsp;par vienu mēnesi.</p>
-<p><strong>Atv.inv.</strong> - jānorāda atvieglojums par invaliditāti latos par vienu mēnesi.</p>
-<p><strong>Atvieg.</strong> - jānorāda atvieglojumu kopējā summa par vienu mēnesi.</p>
-<p><strong>Piezīmes</strong> - iespēja norādīt iedzīvotāju ienākuma nodokļa metodes piezīmes.</p> 
+.. 222 ============================Ienākuma nodokļu metodes============================ 
+
+
+Programmatūras lietotājam ir jāseko, vai nodokļu aprēķinu metožu
+sarakstos atbilstošajiem periodiem tiek noteiktas pareizas nodokļu
+likmes.
+
+Ja tiek uzskaitīti dati vairākiem uzņēmumiem, tad nodokļu likmju
+saraksti ir kopīgi visiem uzņēmumiem.
+
+
+
+Šajā sarakstā tiek nodefinētas uzņēmuma iedzīvotāju ienākuma nodokļa
+metodes algām. Ienākuma nodokļa metodes veidojas no iedzīvotāju
+ienākuma nodokļa, ar iedzīvotāju ienākuma nodokļa neapliekamā minimuma
+un atvieglojumu kombinācijām. Iedzīvotāju ienākuma nodokļa metodes
+tiek pievienotas darbinieku`nodokļu dokumentiem`_.
+
+
+
+
+
+
+
+
+Nosaukums - jānorāda iedzīvotāju ienākuma nodokļa metodes nosaukums.
+
+Apg.skaits - jānorāda apgādājamo skaits (ja nav, tad šis lauks
+jāatstāj tukšs).
+
+Saturs - jāaizpilda ienākuma nodokļa metodes likmes. Likmes jāaizpilda
+par katru algu aprēķina periodu. Veidojot jaunu `Algu periodu`_ visām
+ienākuma nodokļa metodēm automātiski par jauno periodu likmes tiek
+ņemtas no pēdējāesošā algu aprēķinu perioda (atverot jaunu algu
+periodu katrai ienākuma nodokļu metodei likmes par jauno periodu nav
+jāaizpilda, tās tiek aizpildītas automātiski no iepriekšējā perioda).
+Likmju maiņu gadījumā jāizveido jauns algu periods (piem.periods
+2008-01, kuram tiek ielādētas iepriekšējā mēneša, respektīvi,
+iepriekšējā gada likmes), jāatver Ienākuma nodokļu metožu saraksts un
+katrā ienākuma nodokļa metodē jāizlabo pēdējā perioda (attiecīgi
+periodam 2008-01)likmes uz attiecīgā perioda atbilstošajām likmēm.
+
+
+
+Sistēmas konfigurācijā tiek saglabātas aprēķinu metodes – iespējamie
+nodokļu piemērošanas veidi – darbiniekam Latvijas uzņēmumā,
+pensionāriem, ar apgādājamajiem vai bez u.c. Katras metodes aprakstā
+tiek saglabāti ieraksti katram algu aprēķina periodam.
+
+
+Satura aizpildīšana.
+++++++++++++++++++++
+
+
+
+
+
+
+Periods - jānorāda periods no `Algu periodu saraksta`_.
+
+Ien.nod. - jānorāda iedzīvotāju ienākuma nodokļa likme procentos.
+
+Neapl.min. - jānorāda iedzīvotāju ienākuma nodokļa neapliekamais
+minimums latos par vienu mēnesi.
+
+Atv.apg. - jānorāda atvieglojums par apgādājamajiem latos par vienu
+mēnesi. Jānorāda atvieglojuma kopējā summa, nevis atvieglojuma
+summapar vienu apgādājamo.
+
+Atv.repr. - jānorāda atvieglojums politiski represētām personām un
+nacionālās pretošanās kustības dalībniekiem latospar vienu mēnesi.
+
+Atv.inv. - jānorāda atvieglojums par invaliditāti latos par vienu
+mēnesi.
+
+Atvieg. - jānorāda atvieglojumu kopējā summa par vienu mēnesi.
+
+Piezīmes - iespēja norādīt iedzīvotāju ienākuma nodokļa metodes
+piezīmes.
+
+ 

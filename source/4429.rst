@@ -1,13 +1,36 @@
-.. 4429 =============Partneris============= <P>Lai pievienotu jaunu partneri:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25844" border=0></P>
-<P>&nbsp;</P>
-<P>Pievienojot partneri, ir jānorāda partnera veids: <STRONG>juridiska persona</STRONG> vai <STRONG>fiziska persona</STRONG>;</P>
-<P><STRONG>Nosaukums</STRONG>: partnera pilns nosaukums (fiziskai personai - vārds un uzvārds);</P>
-<P><STRONG>Kods</STRONG>: partnera apzīmējums vai nosaukuma saīsinājums (bez mīkstinājumzīmēm, bez garumzīmēm);</P>
-<P><STRONG>Reģistrācijas Nr</STRONG>.: juridiskās personas reģistrācijas numurs BEZ valsts koda (fiziskai personai - personas kods);</P>
-<P><STRONG>Uzņ. veids</STRONG>: uzņēmējdarbības veids (jāizvēlas no saraksta);</P>
-<P><STRONG>PVN kods</STRONG>: ja uzņēmums ir PVN maksātājs, tad jānorāda PVN kods;</P>
-<P><STRONG>Partneru grupas</STRONG>: pievienotais partneris tiek piesaistīts nodefinētajām <A href="/help/?ssw=33&amp;skf_id=113">partneru grupām</A>, lai būtu iespējams grupēt partnerus.</P>
-<P>Lai saglabātu pievienotā partnera datus, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25829" border=0>, un, lai labotu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25832" border=0>, bet, &nbsp;lai pievienotu jaunu partneri, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25831" border=0>. Lai dzēstu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25830" border=0>.</P>
-<P>Visi pievienotie partneri un to dati tiek saglabāti <A href="/help/?ssw=44&amp;skf_id=4427">partneru žurnālā</A>.</P> .. toctree::   :maxdepth: 4    5275.rst   4436.rst   4435.rst   5279.rst   5246.rst   4437.rst   5280.rst   5276.rst   5277.rst   5278.rst
+.. 4429 =============Partneris============= 
+Lai pievienotu jaunu partneri:
+
+
+
+
+
+
+
+Pievienojot partneri, ir jānorāda partnera veids: juridiska persona
+vai fiziska persona ;
+
+Nosaukums : partnera pilns nosaukums (fiziskai personai - vārds un
+uzvārds);
+
+Kods : partnera apzīmējums vai nosaukuma saīsinājums (bez
+mīkstinājumzīmēm, bez garumzīmēm);
+
+Reģistrācijas Nr .: juridiskās personas reģistrācijas numurs BEZ
+valsts koda (fiziskai personai - personas kods);
+
+Uzņ. veids : uzņēmējdarbības veids (jāizvēlas no saraksta);
+
+PVN kods : ja uzņēmums ir PVN maksātājs, tad jānorāda PVN kods;
+
+Partneru grupas : pievienotais partneris tiek piesaistīts
+nodefinētajām `partneru grupām`_, lai būtu iespējams grupēt partnerus.
+
+Lai saglabātu pievienotā partnera datus, jānospiež poga , un, lai
+labotu, jānospiež poga , bet, lai pievienotu jaunu partneri, jānospiež
+poga . Lai dzēstu, jānospiež poga .
+
+Visi pievienotie partneri un to dati tiek saglabāti `partneru
+žurnālā`_.
+
+ .. toctree::   :maxdepth: 4    5275.rst   4436.rst   4435.rst   5279.rst   5246.rst   4437.rst   5280.rst   5276.rst   5277.rst   5278.rst

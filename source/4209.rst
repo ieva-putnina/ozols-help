@@ -1,16 +1,49 @@
-.. 4209 =================CSNg. žurnāls================= <P>&nbsp;</P>
-<P>Ceļu satiksmes negadījumu&nbsp;žurnālā saraksta veidā tiek parādīti reģistrētie ceļu satiksmes negadījumi, balstoties uz kuriem tiek veidotas <A href="/help/?ssw=42&amp;skf_id=4205">Atlīdzību lietas</A>.</P>
-<P>&nbsp;</P>
-<P>Izveidotā&nbsp;CSNG kartiņa sastāv no vairākām lapaspusēm - Info, Labot, Pirmdokumenti, Grāmatojumi, Bilance:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26307" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>1. Info</STRONG> -&nbsp;CSNg info lapā redzama informācija par CSNg numuru, datumu un vietas apraksts.</P>
-<P>&nbsp;</P>
-<P><STRONG>2. Labot</STRONG> - šajā lapā, uzklikšķinot uz atbilstošajiem ierakstiem, iespējams iegūt&nbsp;informāciju par izveidoto <A href="/help/?ssw=42&amp;skf_id=4205">Atlīdzību lietu</A>&nbsp;un&nbsp;&nbsp;<A href="/help/?ssw=42&amp;skf_id=4210">Regresa lietu</A>, balstoties uz&nbsp;CSNg informāciju.</P>
-<P>&nbsp;</P>
-<P><STRONG>3. Pirmdokumenti</STRONG>-&nbsp;CSNg kartiņas lapā&nbsp;attēlota visa informācija par Pirmdokumentiem, kas saistīti ar atbilstošo ceļu satiksmes negadījumu. Jebkuru no dokumentiem iespējams pievienot/atvērt/drukāt/. Norēķinu dokumentu, izvēloties pogu "Funkcijas", iespējams saistīt ar kādu no Finanšu dokumentiem. </P>
-<P>&nbsp;</P>
-<P><STRONG>4. Grāmatojumi</STRONG> -&nbsp;CSNg kartiņas lapā attēlota visa informācija par Grāmatojumiem, kas saistīti ar&nbsp;CSNg numuru. Jebkuru no grāmatojumiem iespējams Atvērt. Tāpat arī no šīs lapas iespējams izveidot manuālo grāmatojumu.</P>
-<P>&nbsp;</P>
-<P><STRONG>5. Bilance</STRONG> -&nbsp;CSNg kartiņas lapā attēlota informācija par bilances stāvokli, balstoties uz veiktajiem grāmatojumiem saistībā ar izvēlēto&nbsp;CSNg&nbsp;numuru.</P> 
+.. 4209 =================CSNg. žurnāls================= 
+
+
+Ceļu satiksmes negadījumužurnālā saraksta veidā tiek parādīti
+reģistrētie ceļu satiksmes negadījumi, balstoties uz kuriem tiek
+veidotas `Atlīdzību lietas`_.
+
+
+
+IzveidotāCSNG kartiņa sastāv no vairākām lapaspusēm - Info, Labot,
+Pirmdokumenti, Grāmatojumi, Bilance:
+
+
+
+
+
+
+
+1. Info -CSNg info lapā redzama informācija par CSNg numuru, datumu un
+vietas apraksts.
+
+
+
+2. Labot - šajā lapā, uzklikšķinot uz atbilstošajiem ierakstiem,
+iespējams iegūtinformāciju par izveidoto `Atlīdzību lietu`_un`Regresa
+lietu`_, balstoties uzCSNg informāciju.
+
+
+
+3. Pirmdokumenti -CSNg kartiņas lapāattēlota visa informācija par
+Pirmdokumentiem, kas saistīti ar atbilstošo ceļu satiksmes negadījumu.
+Jebkuru no dokumentiem iespējams pievienot/atvērt/drukāt/. Norēķinu
+dokumentu, izvēloties pogu "Funkcijas", iespējams saistīt ar kādu no
+Finanšu dokumentiem.
+
+
+
+4. Grāmatojumi -CSNg kartiņas lapā attēlota visa informācija par
+Grāmatojumiem, kas saistīti arCSNg numuru. Jebkuru no grāmatojumiem
+iespējams Atvērt. Tāpat arī no šīs lapas iespējams izveidot manuālo
+grāmatojumu.
+
+
+
+5. Bilance -CSNg kartiņas lapā attēlota informācija par bilances
+stāvokli, balstoties uz veiktajiem grāmatojumiem saistībā ar
+izvēlētoCSNgnumuru.
+
+ 

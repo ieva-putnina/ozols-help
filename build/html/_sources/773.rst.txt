@@ -1,47 +1,142 @@
-.. 773 =====================Caurlaižu žurnāls===================== <p>&nbsp;</p>
-<p>Lai uzskaitītu caurlaižu izlietojumu, Uzņēmuma rīcībā esošo caurlaižu numuri jāpievieno Caurlaižu žurnālā.</p>
-<h4>Jaunas caurlaides pievienošana datu bāzei</h4>
-<p>Caurlaides pievienošana, izmantojot rīku joslas komandpogu "Pievienot" un aizpildot caurlaides apraksta ekrāna formu, nodrošina vienas caurlaides pievienošanu datu bāzē. Atrodoties Caurlaižu žurnālā, rīku joslā nospiežot komandpogu<img src="/help/Skin/help/img.aspx?pid=24708" border="0">, tiks atvērta caurlaides apraksta ekrāna forma:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25006" border="0"></p>
-<p>&nbsp;</p>
-<p><strong>Sērija</strong> - jānorāda Caurlaides sērijas numurs.</p>
-<p><strong>Numurs</strong> - jāievada Caurlaides numurs.</p>
-<p><strong>Iegādes datums</strong> - jānorāda Caurlaides iegādes datums.</p>
-<p><strong>Gads</strong> - jānorāda gads, kurā Caurlaide ir spēkā.</p>
-<p><strong>Datums</strong> - Caurlaides izsniegšanas datums.</p>
-<p><strong>Izsniegta pers.</strong> -&nbsp; persona, kurai šī caurlaide tiek izsniegta.&nbsp;Izvēles rūtiņā "Derīga tikai uz personu",&nbsp;iespējams atzīmēt pazīmi, ja šī caurlaide ir derīga tikai uz personu.</p>
-<p><strong>Auto marka</strong> - automašīnas marka, kurai šī caurlaide tiek izsniegta.</p>
-<p><strong>Auto reg.nr.</strong> - automašīnas valsts reģistrācijas numurs.</p>
-<p><strong>Anulēšanas dat.</strong> - laukā automātiski tiks iefiksēts caurlaides anulēšanas datums, anulējot Caurlaidi.&nbsp;</p>
-<h4>Caurlaižu žurnālā pieejamās funkcijas</h4>
-<p>Caurlaižu žurnālā ir izveidotas funkcijas:</p>
-<p><br><img src="/help/Skin/help/img.aspx?pid=24983" border="0"></p>
-<p>&nbsp;</p>
-<p>1) Caurlaižu pakas pievienošanas funkcija;<br>2) Naudas ieņēmumu dokumenta atvēršana, pamatojoties uz kura tiek izsniegta caurlaide;</p>
-<p>3) Izsniegt iezīmētās caurlaides.</p>
-<p>&nbsp;</p>
-<h5>1) Pievienot dokumentu paku</h5>
-<p>&nbsp;</p>
-<p>Uzņēmuma rīcībā esošo caurlaižu numuri jāpievieno Caurlaižu žurnālā. Caurlaižu pakas pievienošanai, nepieciešams izvēlēties&nbsp;funkciju <img src="/help/Skin/help/img.aspx?pid=25007" border="0">, kas&nbsp;nodrošina vairāku caurlaižu vienlaicīgu pievienošanu datu bāzē. Norādot caurlaižu skaitu un Caurlaides sākuma numuru, tiek automātiski uzģenerēts norādītais skaits caurlaižu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25002" border="0"><br>&nbsp;</p>
-<p>Pēc visu nepieciešamo lauku aizpildīšanas&nbsp;nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;-&nbsp;dokuments tiks saglabāts un būs pieejams apskatei/labošanai <a href="/help/?ssw=33&amp;skf_id=773">Caurlaižu žurnālā</a>.</p>
-<p>Nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24875" border="0">, darbība tiks atcelta un caurlaides netiks pievienotas datu bāzei.</p>
-<p>&nbsp;</p>
-<h5>2) Atvērt ieņēmumu dokumentu</h5>
-<p>Izvēloties Caurlaižu žurnālā&nbsp;pieejamo funkciju <img src="/help/Skin/help/img.aspx?pid=25008" border="0">, iespēja atvērt Ieņēmumu dokumentu - <a href="/help/?ssw=33&amp;skf_id=350">Kases ieņēmumu orderi</a>&nbsp;vai <a href="/help/?ssw=33&amp;skf_id=349">Bankas ieejošais maksājumu</a>, kuram izvēlētā Caurlaide ir piesaistīta:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25010" border="0"></p>
-<p>&nbsp;</p>
-<h5>3) Izsniegt iezīmētās caurlaides</h5>
-<p>&nbsp;</p>
-<p>Funkcija <img src="/help/Skin/help/img.aspx?pid=25005" border="0">, nodoršina iespēju izsniegt caurlaides, kuras netiek piesaistītas nevienam Kases vai Bankas ieejošam maksājumam, bet tiek izsniegtas bez maksas: </p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25003" border="0"></p>
-<h4>Pievienoto caurlaižu labošana</h4>
-<p>Labojumus saglabātajā&nbsp;dokumentā iespējams veikt atverot Caurlaides aprakstu, kurš pieejams apskatei/labošanai <a href="/help/?ssw=33&amp;skf_id=773">Caurlaižu žurnālā</a>. Lai labotu pievienoto caurlaidi, Caurlaižu žurnālā jāizmanto komandpoga&nbsp;<img src="/help/Skin/help/img.aspx?pid=24709" border="0">&nbsp;(ALT+A), un&nbsp;atvērtajā&nbsp;ierakstā iespējams veikt&nbsp;nepieciešamos labojumus caurlaides apraksta ekrāna formā.</p>
-<p>Pēc labojumu veikšanas, veiktās izmaiņas iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p>
-<h4>Pievienoto Caurlaižu piesaiste Kases/Bankas ieņēmumu dokumentam</h4>
-<p>Caurlaižu žurnālā pievienotās Caurlaides iespējams piesaistīt <a href="/help/?ssw=33&amp;skf_id=350">Kases ieņēmumu orderim</a>.</p>
-<p>Caurlaižu žurnālā pievienotās Caurlaides iespējams piesaistīt <a href="/help/?ssw=33&amp;skf_id=349">Bankas ieejošajam maksājumam</a>, ja <a href="/help/?ssw=33&amp;skf_id=708">Bankas kopīgajā konfigurācijā</a> ir norādīta pazīme „Atļaut uzskaites dokumentu ievadi bankas ieņēmumos”, tad līdzīgi kā <a href="/help/?ssw=33&amp;skf_id=350">Kases ieņēmumu orderī</a>, ir iespēja norādīt caurlaides, par kurām veikts maksājums.</p> 
+.. 773 =====================Caurlaižu žurnāls===================== 
+
+
+Lai uzskaitītu caurlaižu izlietojumu, Uzņēmuma rīcībā esošo caurlaižu
+numuri jāpievieno Caurlaižu žurnālā.
+
+
+Jaunas caurlaides pievienošana datu bāzei
+`````````````````````````````````````````
+
+Caurlaides pievienošana, izmantojot rīku joslas komandpogu "Pievienot"
+un aizpildot caurlaides apraksta ekrāna formu, nodrošina vienas
+caurlaides pievienošanu datu bāzē. Atrodoties Caurlaižu žurnālā, rīku
+joslā nospiežot komandpogu , tiks atvērta caurlaides apraksta ekrāna
+forma:
+
+
+
+
+
+
+
+Sērija - jānorāda Caurlaides sērijas numurs.
+
+Numurs - jāievada Caurlaides numurs.
+
+Iegādes datums - jānorāda Caurlaides iegādes datums.
+
+Gads - jānorāda gads, kurā Caurlaide ir spēkā.
+
+Datums - Caurlaides izsniegšanas datums.
+
+Izsniegta pers. - persona, kurai šī caurlaide tiek izsniegta.Izvēles
+rūtiņā "Derīga tikai uz personu",iespējams atzīmēt pazīmi, ja šī
+caurlaide ir derīga tikai uz personu.
+
+Auto marka - automašīnas marka, kurai šī caurlaide tiek izsniegta.
+
+Auto reg.nr. - automašīnas valsts reģistrācijas numurs.
+
+Anulēšanas dat. - laukā automātiski tiks iefiksēts caurlaides
+anulēšanas datums, anulējot Caurlaidi.
+
+
+Caurlaižu žurnālā pieejamās funkcijas
+`````````````````````````````````````
+
+Caurlaižu žurnālā ir izveidotas funkcijas:
+
+
+
+
+
+
+1) Caurlaižu pakas pievienošanas funkcija;
+2) Naudas ieņēmumu dokumenta atvēršana, pamatojoties uz kura tiek
+izsniegta caurlaide;
+
+3) Izsniegt iezīmētās caurlaides.
+
+
+
+
+1) Pievienot dokumentu paku
++++++++++++++++++++++++++++
+
+
+
+Uzņēmuma rīcībā esošo caurlaižu numuri jāpievieno Caurlaižu žurnālā.
+Caurlaižu pakas pievienošanai, nepieciešams izvēlētiesfunkciju ,
+kasnodrošina vairāku caurlaižu vienlaicīgu pievienošanu datu bāzē.
+Norādot caurlaižu skaitu un Caurlaides sākuma numuru, tiek automātiski
+uzģenerēts norādītais skaits caurlaižu:
+
+
+
+
+
+
+Pēc visu nepieciešamo lauku aizpildīšanasnospiežot pogu -dokuments
+tiks saglabāts un būs pieejams apskatei/labošanai `Caurlaižu
+žurnālā`_.
+
+Nospiežot pogu , darbība tiks atcelta un caurlaides netiks pievienotas
+datu bāzei.
+
+
+
+
+2) Atvērt ieņēmumu dokumentu
+++++++++++++++++++++++++++++
+
+Izvēloties Caurlaižu žurnālāpieejamo funkciju , iespēja atvērt
+Ieņēmumu dokumentu - `Kases ieņēmumu orderi`_vai `Bankas ieejošais
+maksājumu`_, kuram izvēlētā Caurlaide ir piesaistīta:
+
+
+
+
+
+
+
+
+3) Izsniegt iezīmētās caurlaides
+++++++++++++++++++++++++++++++++
+
+
+
+Funkcija , nodoršina iespēju izsniegt caurlaides, kuras netiek
+piesaistītas nevienam Kases vai Bankas ieejošam maksājumam, bet tiek
+izsniegtas bez maksas:
+
+
+
+
+
+
+Pievienoto caurlaižu labošana
+`````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot Caurlaides
+aprakstu, kurš pieejams apskatei/labošanai `Caurlaižu žurnālā`_. Lai
+labotu pievienoto caurlaidi, Caurlaižu žurnālā jāizmanto komandpoga
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus
+caurlaides apraksta ekrāna formā.
+
+Pēc labojumu veikšanas, veiktās izmaiņas iespējams vai .
+
+
+Pievienoto Caurlaižu piesaiste Kases/Bankas ieņēmumu dokumentam
+```````````````````````````````````````````````````````````````
+
+Caurlaižu žurnālā pievienotās Caurlaides iespējams piesaistīt `Kases
+ieņēmumu orderim`_.
+
+Caurlaižu žurnālā pievienotās Caurlaides iespējams piesaistīt `Bankas
+ieejošajam maksājumam`_, ja `Bankas kopīgajā konfigurācijā`_ ir
+norādīta pazīme „Atļaut uzskaites dokumentu ievadi bankas ieņēmumos”,
+tad līdzīgi kā `Kases ieņēmumu orderī`_, ir iespēja norādīt
+caurlaides, par kurām veikts maksājums.
+
+ 

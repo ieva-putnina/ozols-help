@@ -1,8 +1,24 @@
-.. 5044 ============================Budžeta projektu žurnāls============================ <P>Lietotājam, kuram lietotāja kontā nodefinētas tiesības mainīt dokumentu statusus, ir iespējams mainīt budžeta pieprasījumu statusus uz atpakaļejošu statusu, līdz pat pieprasījuma dzēšanai.</P>
-<P>&nbsp;</P>
-<P>Lai mainītu dokumentu statusu, filtrā jānorāda dokumentu konkrētu statusu, sarakstā jāatzīmē konkrētos dokumentus un norādot atpakaļejošu statusu, jāapstiprina:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26318" border=0></P>
-<P>&nbsp;</P>
-<P>Pēc apstiprināšanas, filtrā jānorāda atpakaļejošs status, lai atfiltrētu pieprasījumu, kuram tika mainīts statuss.</P>
-<P>Statusa maiņa nepieciešama, lai veiktu budžeta pieprasījuma sākuma informācijas korekcijas.</P> 
+.. 5044 ============================Budžeta projektu žurnāls============================ 
+Lietotājam, kuram lietotāja kontā nodefinētas tiesības mainīt
+dokumentu statusus, ir iespējams mainīt budžeta pieprasījumu statusus
+uz atpakaļejošu statusu, līdz pat pieprasījuma dzēšanai.
+
+
+
+Lai mainītu dokumentu statusu, filtrā jānorāda dokumentu konkrētu
+statusu, sarakstā jāatzīmē konkrētos dokumentus un norādot
+atpakaļejošu statusu, jāapstiprina:
+
+
+
+
+
+
+
+Pēc apstiprināšanas, filtrā jānorāda atpakaļejošs status, lai
+atfiltrētu pieprasījumu, kuram tika mainīts statuss.
+
+Statusa maiņa nepieciešama, lai veiktu budžeta pieprasījuma sākuma
+informācijas korekcijas.
+
+ 

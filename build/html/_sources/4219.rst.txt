@@ -1,24 +1,79 @@
-.. 4219 ========================Regresu lietu parādi======================== <P>&nbsp;</P>
-<P>Atskaite parāda informāciju par&nbsp;regresa lietu parādiem noteiktā laika periodā.&nbsp;Atskaiti iespējams sagatavot pēc dažādiem atlases kritērijiem. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.</P>
-<P>&nbsp;</P>
-<P>Atskaitē tiek uzrādīti dati tikai par regresu lietu parādiem! Ja attiecībā uz regresa lietu, visi maksājumi ir veikti, tad atbilstošā regresa lieta šajā atskaitē neparādīsies. Tāpat arī, ja pirms tam uz regresa lietu bija parāds, bet šis parāds ir ticis nomaksāts - regresa lietas numurs atskaitē vairs uzrādīts netiks, sākot no laika perioda, kad visi maksājumi ir pilnībā nomaksāti.</P>
-<P>&nbsp;</P>
-<P>Sagatavojot atskaiti, kolonnās pieejama informācija par lietas nr., datumu, informācija par maksājuma grafika pirmo un pēdējo rēķina datumu, maksātāju, pamatsummu, proc.summu, maks.plān.sum., bilanci, kop.bilanci, atbildīgo juristu, kā arī informācija par korespondenci, kur iespējams redzēt datumu, kad veikta pēdējā korespondence un&nbsp;korespondences nosaukumu, kur informācija tiek ņemta no lietai piesaistītās korespondences nosaukuma.</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Ja sagatavojot atskaiti kolonnās reg.maks.no un reg.maks.līdz ir aizpildīti dati - tas nozīmē, ka uz attiecīgo lietu ir panākta vienošanās un sastādīta apmaksas plāns.</P>
-<P>&nbsp;</P>
-<P>&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24950" border=0>&nbsp;No Regresu lietu parādu atskaites iespējams: </P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26331" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>1.</STRONG> Izmantojot rīku joslas pogu:<IMG src="/help/Skin/help/img.aspx?pid=26314" border=0>&nbsp;, nospiežot&nbsp;taustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams automatizēti uzreiz vairākiem ierakstiem sagatavot korespondenci - aizpildot nepieciešamos laukus, automātiski tiks izveidots korespondences ieraksts un piesaistīts visām lietām, kuras bija atzīmētas:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26315" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>2.</STRONG> Izmantojot rīku joslas pogu:<IMG src="/help/Skin/help/img.aspx?pid=26314" border=0>&nbsp;, nospiežot&nbsp;taustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams automatizēti uzreiz vairākiem ierakstiem nomainīt korespondences adresātu.</P>
-<P>&nbsp;</P>
-<P><STRONG>3.</STRONG> Izmantojot rīku joslas pogu:<IMG src="/help/Skin/help/img.aspx?pid=26314" border=0>&nbsp;, nospiežot&nbsp;taustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams automatizēti uzreiz vairākiem ierakstiem nomainīt atbildīgo juristu.</P>
-<P>&nbsp;</P>
-<P><STRONG>4.</STRONG> Izvēloties šo funkciju, ir iespējams atvērt pēdējo korespondenci izvēlētajai lietai.</P>
-<P>&nbsp;</P>
-<P><STRONG>5.</STRONG> Izvēloties šo funkciju, ir iespējams atvērt pilnu korespondences sarakstu izvēlētajai lietai.</P>
-<P>&nbsp;</P> 
+.. 4219 ========================Regresu lietu parādi======================== 
+
+
+Atskaite parāda informāciju parregresa lietu parādiem noteiktā laika
+periodā.Atskaiti iespējams sagatavot pēc dažādiem atlases kritērijiem.
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+
+
+Atskaitē tiek uzrādīti dati tikai par regresu lietu parādiem! Ja
+attiecībā uz regresa lietu, visi maksājumi ir veikti, tad atbilstošā
+regresa lieta šajā atskaitē neparādīsies. Tāpat arī, ja pirms tam uz
+regresa lietu bija parāds, bet šis parāds ir ticis nomaksāts - regresa
+lietas numurs atskaitē vairs uzrādīts netiks, sākot no laika perioda,
+kad visi maksājumi ir pilnībā nomaksāti.
+
+
+
+Sagatavojot atskaiti, kolonnās pieejama informācija par lietas nr.,
+datumu, informācija par maksājuma grafika pirmo un pēdējo rēķina
+datumu, maksātāju, pamatsummu, proc.summu, maks.plān.sum., bilanci,
+kop.bilanci, atbildīgo juristu, kā arī informācija par korespondenci,
+kur iespējams redzēt datumu, kad veikta pēdējā korespondence
+unkorespondences nosaukumu, kur informācija tiek ņemta no lietai
+piesaistītās korespondences nosaukuma.
+
+Ja sagatavojot atskaiti kolonnās reg.maks.no un reg.maks.līdz ir
+aizpildīti dati - tas nozīmē, ka uz attiecīgo lietu ir panākta
+vienošanās un sastādīta apmaksas plāns.
+
+
+
+No Regresu lietu parādu atskaites iespējams:
+
+
+
+
+
+
+
+1. Izmantojot rīku joslas pogu: , nospiežottaustiņu CTRL+atzīmējot
+ierakstus no atskaites - iespējams automatizēti uzreiz vairākiem
+ierakstiem sagatavot korespondenci - aizpildot nepieciešamos laukus,
+automātiski tiks izveidots korespondences ieraksts un piesaistīts
+visām lietām, kuras bija atzīmētas:
+
+
+
+
+
+
+
+2. Izmantojot rīku joslas pogu: , nospiežottaustiņu CTRL+atzīmējot
+ierakstus no atskaites - iespējams automatizēti uzreiz vairākiem
+ierakstiem nomainīt korespondences adresātu.
+
+
+
+3. Izmantojot rīku joslas pogu: , nospiežottaustiņu CTRL+atzīmējot
+ierakstus no atskaites - iespējams automatizēti uzreiz vairākiem
+ierakstiem nomainīt atbildīgo juristu.
+
+
+
+4. Izvēloties šo funkciju, ir iespējams atvērt pēdējo korespondenci
+izvēlētajai lietai.
+
+
+
+5. Izvēloties šo funkciju, ir iespējams atvērt pilnu korespondences
+sarakstu izvēlētajai lietai.
+
+
+
+ 

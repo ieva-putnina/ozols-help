@@ -1,1 +1,2 @@
-.. 4442 =================Visi uzdevumi=================  .. toctree::   :maxdepth: 3    4473.rst   4466.rst
+.. 4442 =================Visi uzdevumi================= 
+ .. toctree::   :maxdepth: 3    4473.rst   4466.rst

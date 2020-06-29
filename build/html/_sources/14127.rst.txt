@@ -1,13 +1,43 @@
-.. 14127 ==============================================================Rīkojumu nosacījumu pievienošana strādājošā algu aprēķinam============================================================== <P>&nbsp;</P>
-<P>Kad <A href="/help/?ssw=33&amp;skf_id=409">Rīkojumi</A>&nbsp;ir izveidoti un apstiprināti, tos katrā aprēķina periodā strādājošajam ir jāpievieno algu aprēķinā kā ieejošos datus:</P>
-<P><BR>1. Visām algu aprēķinam pievienotajām slodzēm rīkojuma datus var pievienot, izmantojot Algu Rīkus-&gt;<A href="/help/?ssw=33&amp;skf_id=498">Algu aprēķins</A>:</P>
-<P>&nbsp;</P>
-<P>Aktivizējot komandu: <IMG src="/help/Skin/help/img.aspx?pid=26334" border=0>, visos pievienotajos algu aprēķinos tekošajā periodā tiks ielādēti dati no Rīkojumiem;</P>
-<P>&nbsp;</P>
-<P>2. Atverot strādājošā algu aprēķinu, datus ar komandu "Aizpildīt ieejošos kodus no slodzes kalendāra" var pievienot algu aprēķinam: </P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26336" border=0></P>
-<P>&nbsp;</P>
-<P>3. Atverot strādājošā algu aprēķinu, datus ar komandu "Aizpildīt ieejošos kodus no slodzes kalendāra līdz atvaļinājumam", var pievienot algu aprēķinam:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26335" border=0><BR>&nbsp;</P>
-<P>Gadījumos, ja strādājošais mēneša sākumā iet atvaļinājumā, tad darba devējam ir jāizmaksā alga līdz atvaļinājumam un atvaļinājuma alga,&nbsp;kā arī situācijās, ja atvaļinājuma&nbsp;nauda tiek rēķināta par nākamo periodu un&nbsp;nepieciešams, lai neapliekamais minimums tiktu piemērots tikai par aprēķināto algas daļu un atvaļinājuma naudu.&nbsp;nepieciešams izmantot&nbsp;komandu "Aizpildīt ieejošos kodus no slodzes kalendāra līdz atvaļinājumam", kā rezultātā tiek ieimportētas kavētās kalendārās un kavētās darba dienas līdz mēneša beigām pēc atvaļinājuma.</P> 
+.. 14127 ==============================================================Rīkojumu nosacījumu pievienošana strādājošā algu aprēķinam============================================================== 
+
+
+Kad `Rīkojumi`_ir izveidoti un apstiprināti, tos katrā aprēķina
+periodā strādājošajam ir jāpievieno algu aprēķinā kā ieejošos datus:
+
+
+1. Visām algu aprēķinam pievienotajām slodzēm rīkojuma datus var
+pievienot, izmantojot Algu Rīkus->`Algu aprēķins`_:
+
+
+
+Aktivizējot komandu: , visos pievienotajos algu aprēķinos tekošajā
+periodā tiks ielādēti dati no Rīkojumiem;
+
+
+
+2. Atverot strādājošā algu aprēķinu, datus ar komandu "Aizpildīt
+ieejošos kodus no slodzes kalendāra" var pievienot algu aprēķinam:
+
+
+
+
+
+3. Atverot strādājošā algu aprēķinu, datus ar komandu "Aizpildīt
+ieejošos kodus no slodzes kalendāra līdz atvaļinājumam", var pievienot
+algu aprēķinam:
+
+
+
+
+
+
+Gadījumos, ja strādājošais mēneša sākumā iet atvaļinājumā, tad darba
+devējam ir jāizmaksā alga līdz atvaļinājumam un atvaļinājuma alga,kā
+arī situācijās, ja atvaļinājumanauda tiek rēķināta par nākamo periodu
+unnepieciešams, lai neapliekamais minimums tiktu piemērots tikai par
+aprēķināto algas daļu un atvaļinājuma naudu.nepieciešams
+izmantotkomandu "Aizpildīt ieejošos kodus no slodzes kalendāra līdz
+atvaļinājumam", kā rezultātā tiek ieimportētas kavētās kalendārās un
+kavētās darba dienas līdz mēneša beigām pēc atvaļinājuma.
+
+ 

@@ -1,54 +1,161 @@
-.. 693 ==============================Nomenklatūras norakstīšana============================== <P>&nbsp;</P>
-<P>Nomenklatūru var norakstīt, veidojot nomenklatūras norakstīšanas dokumentus. </P>
-<P>Norakstīšanas dokumentus var veidot:</P>
-<UL>
-<LI>ja nomenklatūra tiek komplektēta, pēc tam veidojot sakomplektētās preces <A href="/help/?ssw=33&amp;skf_id=310">Ienākšanas dokumentu</A>; 
-<LI>ja ir nomenklatūras zudumi, piemēram, preces vai krājumi ir bojāti un nav derīgi pārdošanai/lietošanai uzņēmuma vajadzībām; 
-<LI>ja prece tiek izsniegtas no noliktavas izmantošanai uzņēmumā.</LI></UL>
-<P>Nomenklatūras norakstīšanas&nbsp;dokuments tiek saglabāts <A href="/help/?ssw=33&amp;skf_id=688">Iekšējās kustības dokumentu žurnālā</A>.</P>
-<H4>Jauna Nomenklatūras&nbsp;norakstīšanas dokumenta pievienošana</H4>
-<P>&nbsp;Izvēloties dokumenta veidu Nomenklatūras norakstīšana, tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25351" border=0></P>
-<H5>Nomenklatūras&nbsp;norakstīšanas dokumenta&nbsp;Virsraksta aizpildīšana</H5>
-<P>Lai aizpildītu&nbsp;Norakstīšanas dokumenta Virsrakstu, nepieciešams:</P>
-<P>&nbsp;</P>
-<P>1. Norādīt datumu, kurā&nbsp;darbība&nbsp;tiek veikta: </P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25341" border=0></P>
-<P>&nbsp;</P>
-<P>2. Izvēlēties atbilstošo noliktavu, no kuras nomenklatūra tiks norakstīta:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25348" border=0></P>
-<P>&nbsp;</P>
-<P>3. Norakstīšanas dokumenta paskaidrojuma lauks tiek aizpildīts automātiski - dati tiek ielādēti no Iekšējās kustības dokumenta veida nosaukuma. Paskaidrojuma laukā esošo informāciju iespējams koriģēt, labojot aizpildīto informāciju manuāli.</P>
-<H5>Nomenklatūras&nbsp;norakstīšanas dokumenta Satura aizpildīšana</H5>
-<P>Lai aizpildītu Nomenklatūras norakstīšanas dokumenta Saturu, dokumenta satura daļā nepieciešams nospiest pogu<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts operācijas satura logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25352" border=0></P>
-<P>&nbsp;</P>
-<P>Ar komandas Pievienot palīdzību norakstīšanas dokumenta saturam tiek pievienota katra&nbsp; norakstāmā nomenklatūra atsevišķi. Norādot nomenklatūras kodu, tiek sameklēta prece, tai jānorāda norakstāmais daudzums. Norakstāmā uzskaites cena tiek aprēķināta automatizēti.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Ja tiek izvēlēta nomenklatūra un norādītas dimensijas (Ek.kods no; Struktūrv.no) , bet atlikums uzrādās 0.0000, nepieciešams pārbaudīt norādītās dimensijas un Atbildīgo personu – vai nomenklatūrai, ar šādām norādītajām dimensijām, ir norakstīšanai&nbsp;nepieciešamie atlikumi attiecīgajās dimensijās.</P>
-<P>&nbsp;</P>
-<P>Lai saglabātu izveidoto satura ierakstu, nomenklatūras&nbsp;norakstīšanas dokumenta satura&nbsp;logā nepieciešams nospiest <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>&nbsp;- ja nomenklatūras norakstīšanu&nbsp;nav nepieciešams veikt.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Nomenklatūras&nbsp;norakstīšanas&nbsp;dokumenta saturs var sastāvēt no vairākiem satura ierakstiem.&nbsp;Pievienot nākamo satura ierakstu iespējams, satura daļā nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>.</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>Kad visi nepieciešamie lauki ir aizpildīti,&nbsp;Nomenklatūras&nbsp;norakstīšanas dokuments&nbsp;ir sagatavots - Nomenklatūra no norādītās Noliktavas (un struktūrvienības) tiks norakstīta - tā vairs nebūs atlikumā šajā Noliktavā, bet būs norakstīta&nbsp;no dokumenta saturā norādītās struktūrvienību.&nbsp;Dokumentu ir iespējams:</P>
-<P>&nbsp;</P>
-<P>1. Saglabāt,&nbsp;nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;-&nbsp;dokuments tiks saglabāts un būs pieejams apskatei/labošanai/grāmatošanai <A href="/help/?ssw=33&amp;skf_id=688">Iekšējās kustības dokumentu žurnālā</A>.</P>
-<P>2. Apstiprināt, nospiežot rīku joslā pogu <IMG src="/help/Skin/help/img.aspx?pid=24740" border=0>&nbsp;-&nbsp;Nomenklatūras norakstīšanas dokuments tiks Apstiprināts un to būs iespējams Grāmatot.</P>
-<H4>Nomenklatūras&nbsp;norakstīšanas dokumenta grāmatošana</H4>
-<P>Nomenklatūras&nbsp;norakstīšanas&nbsp;dokumentu&nbsp;iespējams grāmatot no atvērta dokumenta vai izvēloties (iezīmējot)&nbsp;dokumentu <A href="/help/?ssw=33&amp;skf_id=688">Iekšējās kustības dokumentu žurnālā</A>. </P>
-<P>Lai iegrāmatotu Nomenklatūras norakstīšanu, dokumentu nepieciešams Apstiprināt, nospiežot rīku joslā pogu <IMG src="/help/Skin/help/img.aspx?pid=24740" border=0>. Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā pogu <IMG src="/help/Skin/help/img.aspx?pid=24741" border=0>.</P>
-<P>&nbsp;</P>
-<P>Instrukcija - <A href="/help/?ssw=33&amp;skf_id=14044">Dokumentu grāmatošanas principi</A></P>
-<H4>Pievienotā&nbsp;Norakstīšanas dokumenta labošana</H4>
-<P>Labojumus saglabātajā&nbsp;dokumentā iespējams veikt atverot Nomenklatūras norakstīšanas dokumentu, kurš pieejams apskatei/labošanai&nbsp;<A href="/help/?ssw=33&amp;skf_id=688">Iekšējās kustības dokumentu žurnālā</A>. Lai veiktu labojumus norakstīšanas dokumentā,&nbsp;dokumentu&nbsp;nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>&nbsp;(ALT+A), un&nbsp;atvērtajā&nbsp;ierakstā iespējams veikt&nbsp;nepieciešamos labojumus:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25353" border=0></P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Nomenklatūras&nbsp;norakstīšanas dokumenta datumu NAV iespējams labot, jo nomenklatūras atlikumi Noliktavā, ņemot vērā norādītās dimensijas, tiek rēķināti atbilstoši iepriekš izvēlētajam datumam un datuma maiņa varētu novest pie situācijas, kad nomenklatūra norakstīta brīdī, kad tās faktiski nemaz nav atlikumā. Ja nepieciešams labot datumu, tad dokuments ir jāveido no jauna un iepriekš izveidotais dokuments jādzēš!</P>
-<P>&nbsp;</P>
-<P>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P> 
+.. 693 ==============================Nomenklatūras norakstīšana============================== 
+
+
+Nomenklatūru var norakstīt, veidojot nomenklatūras norakstīšanas
+dokumentus.
+
+Norakstīšanas dokumentus var veidot:
+
+
++ ja nomenklatūra tiek komplektēta, pēc tam veidojot sakomplektētās
+preces `Ienākšanas dokumentu`_;
++ ja ir nomenklatūras zudumi, piemēram, preces vai krājumi ir bojāti
+un nav derīgi pārdošanai/lietošanai uzņēmuma vajadzībām;
++ ja prece tiek izsniegtas no noliktavas izmantošanai uzņēmumā.
+
+
+Nomenklatūras norakstīšanasdokuments tiek saglabāts `Iekšējās kustības
+dokumentu žurnālā`_.
+
+
+Jauna Nomenklatūrasnorakstīšanas dokumenta pievienošana
+```````````````````````````````````````````````````````
+
+Izvēloties dokumenta veidu Nomenklatūras norakstīšana, tiks atvērts
+jauns logs:
+
+
+
+
+
+
+Nomenklatūrasnorakstīšanas dokumentaVirsraksta aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītuNorakstīšanas dokumenta Virsrakstu, nepieciešams:
+
+
+
+1. Norādīt datumu, kurādarbībatiek veikta:
+
+
+
+
+
+
+
+2. Izvēlēties atbilstošo noliktavu, no kuras nomenklatūra tiks
+norakstīta:
+
+
+
+
+
+
+
+3. Norakstīšanas dokumenta paskaidrojuma lauks tiek aizpildīts
+automātiski - dati tiek ielādēti no Iekšējās kustības dokumenta veida
+nosaukuma. Paskaidrojuma laukā esošo informāciju iespējams koriģēt,
+labojot aizpildīto informāciju manuāli.
+
+
+Nomenklatūrasnorakstīšanas dokumenta Satura aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu Nomenklatūras norakstīšanas dokumenta Saturu, dokumenta
+satura daļā nepieciešams nospiest pogu un tiks atvērts operācijas
+satura logs:
+
+
+
+
+
+
+
+Ar komandas Pievienot palīdzību norakstīšanas dokumenta saturam tiek
+pievienota katra norakstāmā nomenklatūra atsevišķi. Norādot
+nomenklatūras kodu, tiek sameklēta prece, tai jānorāda norakstāmais
+daudzums. Norakstāmā uzskaites cena tiek aprēķināta automatizēti.
+
+
+
+Ja tiek izvēlēta nomenklatūra un norādītas dimensijas (Ek.kods no;
+Struktūrv.no) , bet atlikums uzrādās 0.0000, nepieciešams pārbaudīt
+norādītās dimensijas un Atbildīgo personu – vai nomenklatūrai, ar
+šādām norādītajām dimensijām, ir norakstīšanainepieciešamie atlikumi
+attiecīgajās dimensijās.
+
+
+
+Lai saglabātu izveidoto satura ierakstu, nomenklatūrasnorakstīšanas
+dokumenta saturalogā nepieciešams nospiest vai - ja nomenklatūras
+norakstīšanunav nepieciešams veikt.
+
+
+
+Nomenklatūrasnorakstīšanasdokumenta saturs var sastāvēt no vairākiem
+satura ierakstiem.Pievienot nākamo satura ierakstu iespējams, satura
+daļā nospiežot pogu .
+
+
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti,Nomenklatūrasnorakstīšanas
+dokumentsir sagatavots - Nomenklatūra no norādītās Noliktavas (un
+struktūrvienības) tiks norakstīta - tā vairs nebūs atlikumā šajā
+Noliktavā, bet būs norakstītano dokumenta saturā norādītās
+struktūrvienību.Dokumentu ir iespējams:
+
+
+
+1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
+apskatei/labošanai/grāmatošanai `Iekšējās kustības dokumentu
+žurnālā`_.
+
+2. Apstiprināt, nospiežot rīku joslā pogu -Nomenklatūras norakstīšanas
+dokuments tiks Apstiprināts un to būs iespējams Grāmatot.
+
+
+Nomenklatūrasnorakstīšanas dokumenta grāmatošana
+````````````````````````````````````````````````
+
+Nomenklatūrasnorakstīšanasdokumentuiespējams grāmatot no atvērta
+dokumenta vai izvēloties (iezīmējot)dokumentu `Iekšējās kustības
+dokumentu žurnālā`_.
+
+Lai iegrāmatotu Nomenklatūras norakstīšanu, dokumentu nepieciešams
+Apstiprināt, nospiežot rīku joslā pogu . Apstiprinātu dokumentu ir
+iespējams grāmatot, nospiežot rīku joslā pogu .
+
+
+
+Instrukcija - `Dokumentu grāmatošanas principi`_
+
+
+PievienotāNorakstīšanas dokumenta labošana
+``````````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot Nomenklatūras
+norakstīšanas dokumentu, kurš pieejams apskatei/labošanai`Iekšējās
+kustības dokumentu žurnālā`_. Lai veiktu labojumus norakstīšanas
+dokumentā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+
+
+
+
+
+Nomenklatūrasnorakstīšanas dokumenta datumu NAV iespējams labot, jo
+nomenklatūras atlikumi Noliktavā, ņemot vērā norādītās dimensijas,
+tiek rēķināti atbilstoši iepriekš izvēlētajam datumam un datuma maiņa
+varētu novest pie situācijas, kad nomenklatūra norakstīta brīdī, kad
+tās faktiski nemaz nav atlikumā. Ja nepieciešams labot datumu, tad
+dokuments ir jāveido no jauna un iepriekš izveidotais dokuments
+jādzēš!
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+ 

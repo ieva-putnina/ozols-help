@@ -1,64 +1,131 @@
-.. 564 ==========================Pamatlīdzekļu pārskats========================== <P>Pamatlīdzekļu pārskata atskaite tiek sagatavota uz norādīto pārskata datumu pēc noteiktiem atlasītajiem kritērijiem. Atskaitē tiek attēlota pamatlīdzekļa uzskaites vērtība, atlikusī vērtība, uzkrātais nolietojums, nolietojuma likme, utt. <BR>Filtrs jāaizpilda, lai sagatavotu atskaiti.</P>
-<P>Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra logā. Filtru var uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.</P>
-<P>Datu atlases kritērijus var saglabāt (<IMG src="/help/Skin/help/img.aspx?pid=24938" border=0>). Izvēloties izveidoto filtra sagatavi (<IMG src="/help/Skin/help/img.aspx?pid=24943" border=0>), filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, rīku joslā jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=24535" border=0>(Ctrl+F), tiek atvērts filtra logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25503" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Noliet. veids:</STRONG> jāizvēlas nolietojuma aprēķināšanas veids <IMG src="/help/Skin/help/img.aspx?pid=25505" border=0>&nbsp;(uzņēmuma vai nodokļiem);</P>
-<P><STRONG>Pārskats uz:</STRONG> periods uz kuru tiks veidota atskaite;</P>
-<P><STRONG>Iegādes datums:</STRONG> pamatlīdzekļu vai nemateriālo aktīvu iegādes datums (periods);</P>
-<P><STRONG>Stājies ekspl.:</STRONG> pamatlīdzekļu vai nemateriālo aktīvu stāšanās ekspluatācijā datums (periods);</P>
-<P><STRONG>Uzņēmums:</STRONG> atskaite par vienu noteiktu uzņēmumu;</P>
-<P><STRONG>Kategorija:</STRONG> pamatlīdzekļu kategorija;</P>
-<P><STRONG>Objekts:</STRONG> objekts, par kuru tiks veidota atskaite (dimensiju dalījums);</P>
-<P><STRONG>Ek.kods:</STRONG> ekonomiskās klasifikācijas kods (dimensiju dalījums);</P>
-<P><STRONG>Struktūrv.:</STRONG> stuktūrvienība (dimensiju dalījums);</P>
-<P><STRONG>VFK:</STRONG> (dimensiju dalījums);</P>
-<P><STRONG>Budžets:</STRONG> (dimensiju dalījums);</P>
-<P><STRONG>Atb.pers.:</STRONG> atlasīt pēc atbildīgās personas;</P>
-<P><STRONG>Pl. konts:</STRONG> pamatlīdzekļu konts;</P>
-<P><STRONG>Nol.konts:</STRONG> pamatlīdzekļu nolietojuma konts;</P>
-<P><STRONG>Inventāra nr.no...līdz... :</STRONG> iespēja atlasīt pēc pamatlīdzekļu inventāra numura;</P>
-<P><STRONG>Dok. nr.no... līdz...:</STRONG> iespēja atlasīt arī pēc pamatlīdzekļu dokumenta numura;</P>
-<P><STRONG>Iegādes vērtība no:</STRONG> atskaites kritērijs pēc iegādes vērtības;</P>
-<P><STRONG>Atl.vērtība:</STRONG> pamatlīdzekļu atlikusī vērtība;</P>
-<P><STRONG>Pl./Nem.aktīvs:</STRONG> iespējams izvēlēties pamatlīdzekļus vai nemateriālos aktīvus;</P>
-<P><STRONG>Grupēt pēc:</STRONG> iespējams grūpēt pēc:</P>
-<UL>
-<LI>
-<DIV align=left>PL - pamatlīdzekļa paraksta;</DIV>
-<LI>
-<DIV align=left>Ats - atsauces;</DIV>
-<LI>
-<DIV align=left>Kat. - pamatlīdzekļu kategorijas;</DIV>
-<LI>
-<DIV align=left>Obj. - objekta;</DIV>
-<LI>
-<DIV align=left>Eko - ekonomiskās klasifikācijas kods;</DIV>
-<LI>
-<DIV align=left>Str - struktūrvienība;</DIV>
-<LI>
-<DIV align=left>Bud - budžets;</DIV>
-<LI>
-<DIV align=left>AP - atbildīgā persona, partneris;</DIV>
-<LI>
-<DIV align=left>Knt. - pamatlīdzekļa konts;</DIV>
-<LI>
-<DIV align=left>Nol. - pamtlīdzekļa nolietojuma konts.</DIV></LI></UL>
-<P><STRONG>Iekļaut izslēgtos pamatlīdzekļus:</STRONG> lai iekļautu atskaitē arī izslēgtos pamatlīdzekļus;</P>
-<P><STRONG>Iekļaut neapstiprinātos dokumentus:</STRONG> lai iekļautu atskaitē arī datus no neapstiprinātajiem pamatlīdzekļu dokumentiem.</P>
-<P>Kad filtra loga kritēriji ir izvēlēti, ir iespējams nodefinēt Papildus filtra parametrus, nospiežot pogu<IMG src="/help/Skin/help/img.aspx?pid=24535" border=0> atvērtajā filtra logā. Tiek atvērts papildus filtra nosacījumu logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25544" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Dok. Veids:</STRONG> sarakstlodziņa labajā pusē, noklikšķinot uz podziņu<IMG src="/help/Skin/help/img.aspx?pid=25530" border=0> tiek atvērts dokumenta veidu izvēlņu saraksts, kur iespējams izvēlēties kādu no pamatlīdzekļu dokumenta veidiem;</P>
-<P><STRONG>Pl.Izsl.datums:</STRONG> pamatlīdzekļu izslēgšanas datums (periods);</P>
-<P><STRONG>Piegādātāja valsts:</STRONG> piegādātāja valsts no <A href="/help/?ssw=33&amp;skf_id=103">Valstu saraksta</A>;</P>
-<P><STRONG>Pl.nosaukums:</STRONG> pamatlīdzekļa nosaukums;</P>
-<P><STRONG>Īpašuma veids:</STRONG> īpašuma veids kurš nodefinēts <A href="/help/?ssw=33&amp;skf_id=183">pamatlīdzekļu īpašuma veidu sarakstā</A>;</P>
-<P><STRONG>Amats:</STRONG> iespējams izvēlēties atbildīgās personas amatu kurš nodefinēts <A href="/help/?ssw=33&amp;skf_id=186">Amatu sarakstā</A>;</P>
-<P><STRONG>Pazīme:</STRONG> pazīme, kura nodefinēta <A href="/help/?ssw=33&amp;skf_id=130">Pamatlīdzekļu pazīmju sarakstā</A>;</P>
-<P><STRONG>Uzkr.nol.no:</STRONG> uzkrātais nolietojums;</P>
-<P><STRONG>Noliet.likme no:</STRONG> nolietojuma likme.</P>
-<P>Kad papildus filtra kritēriji izvēlēti, jānospiež paga<IMG src="/help/Skin/help/img.aspx?pid=25533" border=0> un pamatlīdzekļu pārskata filtra logā, ja visi atskaites datu kritēriji izvēlēti, jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=25504" border=0>.</P>
-<P>Sagatavotos atskaites datus ir iespējams arī izdrukāt. Lai drukātu datus, rīko joslā jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=24944" border=0> (Ctrl+P), un jāizvēlās iebūvētā izdrukas forma "pamatlīdzekļu pārskats (kopsavilkums)", un jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=25507" border=0>.</P> 
+.. 564 ==========================Pamatlīdzekļu pārskats========================== 
+Pamatlīdzekļu pārskata atskaite tiek sagatavota uz norādīto pārskata
+datumu pēc noteiktiem atlasītajiem kritērijiem. Atskaitē tiek attēlota
+pamatlīdzekļa uzskaites vērtība, atlikusī vērtība, uzkrātais
+nolietojums, nolietojuma likme, utt.
+Filtrs jāaizpilda, lai sagatavotu atskaiti.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra logā. Filtru var uzlikt, lai ierobežotu kādu datu
+parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk
+sameklētu nepieciešamos datus. Filtrs tiek izmantots arī atskaišu
+sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( ). Izvēloties izveidoto filtra
+sagatavi ( ), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, rīku joslā
+jānospiež poga (Ctrl+F), tiek atvērts filtra logs:
+
+
+
+
+
+
+
+Noliet. veids: jāizvēlas nolietojuma aprēķināšanas veids (uzņēmuma vai
+nodokļiem);
+
+Pārskats uz: periods uz kuru tiks veidota atskaite;
+
+Iegādes datums: pamatlīdzekļu vai nemateriālo aktīvu iegādes datums
+(periods);
+
+Stājies ekspl.: pamatlīdzekļu vai nemateriālo aktīvu stāšanās
+ekspluatācijā datums (periods);
+
+Uzņēmums: atskaite par vienu noteiktu uzņēmumu;
+
+Kategorija: pamatlīdzekļu kategorija;
+
+Objekts: objekts, par kuru tiks veidota atskaite (dimensiju dalījums);
+
+Ek.kods: ekonomiskās klasifikācijas kods (dimensiju dalījums);
+
+Struktūrv.: stuktūrvienība (dimensiju dalījums);
+
+VFK: (dimensiju dalījums);
+
+Budžets: (dimensiju dalījums);
+
+Atb.pers.: atlasīt pēc atbildīgās personas;
+
+Pl. konts: pamatlīdzekļu konts;
+
+Nol.konts: pamatlīdzekļu nolietojuma konts;
+
+Inventāra nr.no...līdz... : iespēja atlasīt pēc pamatlīdzekļu
+inventāra numura;
+
+Dok. nr.no... līdz...: iespēja atlasīt arī pēc pamatlīdzekļu dokumenta
+numura;
+
+Iegādes vērtība no: atskaites kritērijs pēc iegādes vērtības;
+
+Atl.vērtība: pamatlīdzekļu atlikusī vērtība;
+
+Pl./Nem.aktīvs: iespējams izvēlēties pamatlīdzekļus vai nemateriālos
+aktīvus;
+
+Grupēt pēc: iespējams grūpēt pēc:
+
+
++ PL - pamatlīdzekļa paraksta;
++ Ats - atsauces;
++ Kat. - pamatlīdzekļu kategorijas;
++ Obj. - objekta;
++ Eko - ekonomiskās klasifikācijas kods;
++ Str - struktūrvienība;
++ Bud - budžets;
++ AP - atbildīgā persona, partneris;
++ Knt. - pamatlīdzekļa konts;
++ Nol. - pamtlīdzekļa nolietojuma konts.
+
+
+Iekļaut izslēgtos pamatlīdzekļus: lai iekļautu atskaitē arī izslēgtos
+pamatlīdzekļus;
+
+Iekļaut neapstiprinātos dokumentus: lai iekļautu atskaitē arī datus no
+neapstiprinātajiem pamatlīdzekļu dokumentiem.
+
+Kad filtra loga kritēriji ir izvēlēti, ir iespējams nodefinēt Papildus
+filtra parametrus, nospiežot pogu atvērtajā filtra logā. Tiek atvērts
+papildus filtra nosacījumu logs:
+
+
+
+
+
+
+
+Dok. Veids: sarakstlodziņa labajā pusē, noklikšķinot uz podziņu tiek
+atvērts dokumenta veidu izvēlņu saraksts, kur iespējams izvēlēties
+kādu no pamatlīdzekļu dokumenta veidiem;
+
+Pl.Izsl.datums: pamatlīdzekļu izslēgšanas datums (periods);
+
+Piegādātāja valsts: piegādātāja valsts no `Valstu saraksta`_;
+
+Pl.nosaukums: pamatlīdzekļa nosaukums;
+
+Īpašuma veids: īpašuma veids kurš nodefinēts `pamatlīdzekļu īpašuma
+veidu sarakstā`_;
+
+Amats: iespējams izvēlēties atbildīgās personas amatu kurš nodefinēts
+`Amatu sarakstā`_;
+
+Pazīme: pazīme, kura nodefinēta `Pamatlīdzekļu pazīmju sarakstā`_;
+
+Uzkr.nol.no: uzkrātais nolietojums;
+
+Noliet.likme no: nolietojuma likme.
+
+Kad papildus filtra kritēriji izvēlēti, jānospiež paga un
+pamatlīdzekļu pārskata filtra logā, ja visi atskaites datu kritēriji
+izvēlēti, jānospiež poga .
+
+Sagatavotos atskaites datus ir iespējams arī izdrukāt. Lai drukātu
+datus, rīko joslā jānospiež poga (Ctrl+P), un jāizvēlās iebūvētā
+izdrukas forma "pamatlīdzekļu pārskats (kopsavilkums)", un jānospiež
+poga .
+
+ 

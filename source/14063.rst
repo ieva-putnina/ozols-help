@@ -1,8 +1,38 @@
-.. 14063 =============================================Dimensiju izmantošana grāmatojuma šablonā============================================= <P>&nbsp;</P>
-<P>Grāmatojuma šablonā pārējo dimensiju laukos (Struktūrvienība, Projekts, Nozare, u.c.)&nbsp;laukos iespējams norādīt konkrētu izvēlētu&nbsp;vērtību no&nbsp;dimensiju klasifikatoriem&nbsp;vai noklusēto vērtību no pirmdokumenta satura:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25128" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Struktūrvienība</STRONG> – Bankas un Kases dokumentu grāmatojumu šablonos struktūrvienības laukā norādot Bankas vai Kases, struktūrvienība grāmatojumā tiks ielikta no <A href="/help/?ssw=33&amp;skf_id=141">Banku konta apraksta</A> vai <A href="/help/?ssw=33&amp;skf_id=123">Kases konta apraksta</A>. <BR>Struktūrvienību atsevišķos darba režīmos var pievienot kā Virsraksta – tas nozīmē, ka grāmatojumā struktūrvienība tiks ielikta no pirmdokumenta apraksta. Ja ir pieejama izvēle Satura – tas nozīmē, ka struktūrvienība tiks ielikta grāmatojumā no datiem, kas ir pievienoti pirmdokumenta saturā.</P>
-<P><BR><STRONG>Projekts</STRONG> – Projektu var izmanot, ja grāmatvedības dati tiek sīkāk sadalīti pa konkrētiem projektiem. Ja ir pieejama izvēle Satura - tas nozīmē, ka projekts tiks ielikts grāmatojumā no datiem, kas ir pievienoti pirmdokumenta saturā.</P>
-<P><BR><STRONG>Budžets</STRONG>&nbsp;– Izmantojot datu uzskaiti pa dimensijām, laukā Nozare var norādīt konkrētu ierakstu, kurš tiks pievienots grāmatojumam. Ja ir pieejama izvēle Satura - tas nozīmē, ka&nbsp;budžets tiks ielikts grāmatojumā no datiem, kas ir pievienoti pirmdokumenta saturā.<BR></P> 
+.. 14063 =============================================Dimensiju izmantošana grāmatojuma šablonā============================================= 
+
+
+Grāmatojuma šablonā pārējo dimensiju laukos (Struktūrvienība,
+Projekts, Nozare, u.c.)laukos iespējams norādīt konkrētu
+izvēlētuvērtību nodimensiju klasifikatoriemvai noklusēto vērtību no
+pirmdokumenta satura:
+
+
+
+
+
+
+
+Struktūrvienība – Bankas un Kases dokumentu grāmatojumu šablonos
+struktūrvienības laukā norādot Bankas vai Kases, struktūrvienība
+grāmatojumā tiks ielikta no `Banku konta apraksta`_ vai `Kases konta
+apraksta`_.
+Struktūrvienību atsevišķos darba režīmos var pievienot kā Virsraksta –
+tas nozīmē, ka grāmatojumā struktūrvienība tiks ielikta no
+pirmdokumenta apraksta. Ja ir pieejama izvēle Satura – tas nozīmē, ka
+struktūrvienība tiks ielikta grāmatojumā no datiem, kas ir pievienoti
+pirmdokumenta saturā.
+
+
+Projekts – Projektu var izmanot, ja grāmatvedības dati tiek sīkāk
+sadalīti pa konkrētiem projektiem. Ja ir pieejama izvēle Satura - tas
+nozīmē, ka projekts tiks ielikts grāmatojumā no datiem, kas ir
+pievienoti pirmdokumenta saturā.
+
+
+Budžets – Izmantojot datu uzskaiti pa dimensijām, laukā Nozare var
+norādīt konkrētu ierakstu, kurš tiks pievienots grāmatojumam. Ja ir
+pieejama izvēle Satura - tas nozīmē, kabudžets tiks ielikts
+grāmatojumā no datiem, kas ir pievienoti pirmdokumenta saturā.
+
+
+ 

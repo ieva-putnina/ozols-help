@@ -1,22 +1,44 @@
-.. 41 ============Finanses============ <P>&nbsp;</P>
-<P>Finanses nodrošina bankas un kases dokumentu veidošanu un grāmatošanu - naudas līdzekļu uzskaiti. </P>
-<P>Kopā ar Finansēm var izmantot <A href="/help/?ssw=33&amp;skf_id=451">Datu apmaiņu ar banku</A>. Sasaiste ar banku elektronisko norēķinu sistēmām nodrošina sagatavoto maksājuma uzdevumu eksportu un ieejošo maksājumu apmaiņu starp uzņēmuma vadības sistēmu un bankas elektronisko norēķinu sistēmu.</P>
-<H5>Finanses nodrošina kases un bankas operāciju uzskaiti:<BR></H5>
-<P>&nbsp;</P>
-<P>Kases operāciju uzskaite</P>
-<UL>
-<LI>Kases ieņēmumu un izdevumu orderu sagatavošana un izdruka 
-<LI>Kases grāmatas veidošana un izdruka 
-<LI>Kases dokumentu žurnālu izdruka 
-<LI>Darījumu apliecinošo kvīšu izlietojuma uzskaite 
-<LI>Kases operāciju uzskaite valūtā 
-<LI>Kases ieņēmumu un izdevumu kopsavilkuma atskaišu sagatavošana un izdruka<BR></LI></UL>
-<P>Bankas operāciju uzskaite</P>
-<UL>
-<LI>Bankas ieņēmumu un izdevumu dokumentu sagatavošana un sistematizēšana dokumentu žurnālos 
-<LI>Neierobežota skaita banku kontu uzturēšana 
-<LI>Programmā var pievienot un veikt datu uzskaiti neierobežotam skaitam bankas kontu 
-<LI>Bankas operāciju uzskaite dažādās valūtās 
-<LI>Konta izraksta sagatavošana salīdzināšanai ar bankas datiem 
-<LI>Bankas dokumentu imports un eksports uz <A href="/help/?ssw=33&amp;skf_id=451">Elektronisko norēķinu sistēmām</A>&nbsp; 
-<LI>Bankas izdevumu un ieņēmumu atskaišu sagatavošana un izdruka</LI></UL> .. toctree::   :maxdepth: 6    53.rst   7.rst   846.rst   11.rst
+.. 41 ============Finanses============ 
+
+
+Finanses nodrošina bankas un kases dokumentu veidošanu un grāmatošanu
+- naudas līdzekļu uzskaiti.
+
+Kopā ar Finansēm var izmantot `Datu apmaiņu ar banku`_. Sasaiste ar
+banku elektronisko norēķinu sistēmām nodrošina sagatavoto maksājuma
+uzdevumu eksportu un ieejošo maksājumu apmaiņu starp uzņēmuma vadības
+sistēmu un bankas elektronisko norēķinu sistēmu.
+
+
+Finanses nodrošina kases un bankas operāciju uzskaiti:
+
+
+
+Kases operāciju uzskaite
+
+
++ Kases ieņēmumu un izdevumu orderu sagatavošana un izdruka
++ Kases grāmatas veidošana un izdruka
++ Kases dokumentu žurnālu izdruka
++ Darījumu apliecinošo kvīšu izlietojuma uzskaite
++ Kases operāciju uzskaite valūtā
++ Kases ieņēmumu un izdevumu kopsavilkuma atskaišu sagatavošana un
+  izdruka
+
+
+Bankas operāciju uzskaite
+
+
++ Bankas ieņēmumu un izdevumu dokumentu sagatavošana un
+sistematizēšana dokumentu žurnālos
++ Neierobežota skaita banku kontu uzturēšana
++ Programmā var pievienot un veikt datu uzskaiti neierobežotam skaitam
+bankas kontu
++ Bankas operāciju uzskaite dažādās valūtās
++ Konta izraksta sagatavošana salīdzināšanai ar bankas datiem
++ Bankas dokumentu imports un eksports uz `Elektronisko norēķinu
+sistēmām`_
++ Bankas izdevumu un ieņēmumu atskaišu sagatavošana un izdruka
+
+
+ .. toctree::   :maxdepth: 6    53.rst   7.rst   846.rst   11.rst

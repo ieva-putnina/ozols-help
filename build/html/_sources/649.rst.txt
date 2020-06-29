@@ -1,33 +1,85 @@
-.. 649 ================Līgumu veidi================ <P>&nbsp;</P>
-<P>Sarakstā tiek saglabāti līgumu veidi, kas tiek izmantoti Līgumu <A href="/help/?ssw=68&amp;skf_id=653">Līguma grupu</A> nosacījumu aizpildīšanai.</P>
-<H5>Jauna Līgumu veida pievienošana:</H5>
-<P>Lai pievienotu jaunu Līgumu veidu, rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0> un tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25480" border=0></P>
-<P>&nbsp;</P>
-<P>1. Atvērtajā logā iespējams ierakstīt Līguma veida Nosaukumu.</P>
-<P>&nbsp;</P>
-<P>2. Nepieciešams norādīt līguma veida algoritmu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25481" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Izvēloties aprēķina algoritmu - Summas, <A href="/help/?ssw=68&amp;skf_id=653">Līguma grupas</A> aprakstā būs iespējams norādīt fiksēto maksājuma summu. Izvēloties aprēķina algoritmu - Līzings - Fiksēts maksājums, <A href="/help/?ssw=68&amp;skf_id=653">Līguma grupas</A>&nbsp;aprakstā būs iespējams norādīt Fiksēto maksājuma summu, kā arī Līzinga procentu likmi.</P>
-<P>&nbsp;</P>
-<P>3. Jānorāda Līguma veida uzskaites tips:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25482" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Izvēloties Stundu/summu uzskaites tipu - Mēnesī - līguma summa tiks uzskaitīta viena mēnešan ietvaros. Uz visu līgumu - līgumā noteiktā summa tiks uzskaitīta visa līgumā apjomā.</P>
-<P>&nbsp;</P>
-<P>4. Līguma veidam iespējams piesaistīt Pakalpojuma veidu, no Norēķinu Sarakstos pievienotajiem <A href="/help/?ssw=33&amp;skf_id=108">Pakalpojumiem</A>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25483" border=0></P>
-<P>&nbsp;</P>
-<P>5. Nepieciešams norādīt izrakstāmā <A href="/help/?ssw=33&amp;skf_id=157">Pārdošanas dokumenta veidu</A>, kāds tiks sagatavots automatizēti no <A href="/help/?ssw=68&amp;skf_id=645">Apmaksas plānu žurnāla</A>&nbsp;ģenerējot Pārdošanas dokumentu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25484" border=0></P>
-<P>&nbsp;</P>
-<P>Ieraksts tiks saglabāts, nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24710" border=0>.</P>
-<H5>Pievienotā Līguma veida labošana:</H5>
-<P>Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu <IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>(ALT+A), un atvērtajā logā veikt labojumus.</P>
-<P>Pēc labojumu veikšanas, veiktās izmaiņas iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0> vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P> 
+.. 649 ================Līgumu veidi================ 
+
+
+Sarakstā tiek saglabāti līgumu veidi, kas tiek izmantoti Līgumu
+`Līguma grupu`_ nosacījumu aizpildīšanai.
+
+
+Jauna Līgumu veida pievienošana:
+++++++++++++++++++++++++++++++++
+
+Lai pievienotu jaunu Līgumu veidu, rīku joslā jānospiež poga un tiks
+atvērts jauns logs:
+
+
+
+
+
+
+
+1. Atvērtajā logā iespējams ierakstīt Līguma veida Nosaukumu.
+
+
+
+2. Nepieciešams norādīt līguma veida algoritmu:
+
+
+
+
+
+
+
+Izvēloties aprēķina algoritmu - Summas, `Līguma grupas`_ aprakstā būs
+iespējams norādīt fiksēto maksājuma summu. Izvēloties aprēķina
+algoritmu - Līzings - Fiksēts maksājums, `Līguma grupas`_aprakstā būs
+iespējams norādīt Fiksēto maksājuma summu, kā arī Līzinga procentu
+likmi.
+
+
+
+3. Jānorāda Līguma veida uzskaites tips:
+
+
+
+
+
+
+
+Izvēloties Stundu/summu uzskaites tipu - Mēnesī - līguma summa tiks
+uzskaitīta viena mēnešan ietvaros. Uz visu līgumu - līgumā noteiktā
+summa tiks uzskaitīta visa līgumā apjomā.
+
+
+
+4. Līguma veidam iespējams piesaistīt Pakalpojuma veidu, no Norēķinu
+Sarakstos pievienotajiem `Pakalpojumiem`_:
+
+
+
+
+
+
+
+5. Nepieciešams norādīt izrakstāmā `Pārdošanas dokumenta veidu`_, kāds
+tiks sagatavots automatizēti no `Apmaksas plānu žurnāla`_ģenerējot
+Pārdošanas dokumentu:
+
+
+
+
+
+
+
+Ieraksts tiks saglabāts, nospiežot pogu .
+
+
+Pievienotā Līguma veida labošana:
++++++++++++++++++++++++++++++++++
+
+Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
+atvērt, izmantojot rīku joslas pogu (ALT+A), un atvērtajā logā veikt
+labojumus.
+
+Pēc labojumu veikšanas, veiktās izmaiņas iespējams vai .
+
+ 

@@ -1,21 +1,60 @@
-.. 14112 =======================================================================Kultūras un citu ieejas biļešu piesaistīšana kases ieņēmumu orderim======================================================================= <p>&nbsp;</p>
-<p>Lai piesaistītu kultūras un citu pasākumu ieejas biļetes <a href="/help/?ssw=33&amp;skf_id=227">Kases ieņēmumu</a> orderim un uzskaitītu to&nbsp;izlietojumu, Uzņēmuma rīcībā esošās biļetes jāpievieno&nbsp;<a href="/help/?ssw=33&amp;skf_id=252">Kultūras un citu pasākumu ieejas biļešu žurnālā.</a></p>
-<p>&nbsp;</p>
-<p>Lai pārdotās biļetes piesaistītu kases ieņēmumu orderim, nepieciešams izveidot Kases ieņēmumu dokumentu, <a href="/help/?ssw=33&amp;skf_id=227">Kases ieņēmumu</a>&nbsp;žurnālā izmantojot rīku joslas pogu: <img src="/help/Skin/help/img.aspx?pid=25605" border="0">, tiks atvērts kases ieņēmumu orderis, kur nepieciešams aizpildīt:</p>
-<p>&nbsp;</p>
-<p><strong>1. Dokumenta Virsrakstu:<br>Kase:</strong> Nepieciešams no saraksta izvēlēties pievienoto&nbsp;uzņēmuma <a href="/help/?ssw=33&amp;skf_id=123">Kasi</a>, kurā nauda tiek saņemta</p>
-<p><strong>Datums:</strong> Operācijas veikšanas datums</p>
-<p><strong>Summa:</strong> Kopējā dokumenta summa</p>
-<p><strong>Maksātājs:</strong> Nepieciešams norādīt maksātāju, kas veic naudas iemaksu kasē (juridiska persona)</p>
-<p><strong>Persona:</strong> Nepieciešams norādīt maksātāju - fizisku personu, kas veic naudas iemaksu kasē</p>
-<p>Pers.dok.: Informācija par personas dokumentu tiks aizpildīta automātiski, ja <a href="/help/?ssw=33&amp;skf_id=112">Partnera</a> kartiņā būs aizpildīti Personas dati - ievadīts personas dokuments - Pase vai vadītāja apliecība</p>
-<p>&nbsp;</p>
-<p><strong>2. Dokumenta Saturu:</strong> nepieciešams aizpildīt dokumenta saturu, norādot atbilstošās dimensiju un summu sadalījumu</p>
-<p>&nbsp;</p>
-<p><strong>3. Pievienot nopirktās kultūras un citu pasākumu ieejas biļetes: </strong>biļetes iespējams piesaisīt kases ieņēmumu orderim, dokumenta apakšējā daļā,&nbsp;nospiežot uz pogas&nbsp;<img src="/help/Skin/help/img.aspx?pid=24943" border="0">&nbsp;-&gt; Tiks atvērts jauns logs, kurā iespējams pievienot biļetes no <a href="/help/?ssw=33&amp;skf_id=252">Kultūras un citu pasākumu ieejas biļešu žurnālā</a>&nbsp;pievienotajām:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26254" border="0"></p>
-<p>&nbsp;</p>
-<p>Pēc visu nepieciešamo lauku aizpildīšanas&nbsp;nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24615" border="0">.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p> 
+.. 14112 =======================================================================Kultūras un citu ieejas biļešu piesaistīšana kases ieņēmumu orderim======================================================================= 
+
+
+Lai piesaistītu kultūras un citu pasākumu ieejas biļetes `Kases
+ieņēmumu`_ orderim un uzskaitītu toizlietojumu, Uzņēmuma rīcībā esošās
+biļetes jāpievieno`Kultūras un citu pasākumu ieejas biļešu žurnālā.`_
+
+
+
+Lai pārdotās biļetes piesaistītu kases ieņēmumu orderim, nepieciešams
+izveidot Kases ieņēmumu dokumentu, `Kases ieņēmumu`_žurnālā izmantojot
+rīku joslas pogu: , tiks atvērts kases ieņēmumu orderis, kur
+nepieciešams aizpildīt:
+
+
+
+1. Dokumenta Virsrakstu:
+Kase: Nepieciešams no saraksta izvēlēties pievienotouzņēmuma `Kasi`_,
+kurā nauda tiek saņemta
+
+Datums: Operācijas veikšanas datums
+
+Summa: Kopējā dokumenta summa
+
+Maksātājs: Nepieciešams norādīt maksātāju, kas veic naudas iemaksu
+kasē (juridiska persona)
+
+Persona: Nepieciešams norādīt maksātāju - fizisku personu, kas veic
+naudas iemaksu kasē
+
+Pers.dok.: Informācija par personas dokumentu tiks aizpildīta
+automātiski, ja `Partnera`_ kartiņā būs aizpildīti Personas dati -
+ievadīts personas dokuments - Pase vai vadītāja apliecība
+
+
+
+2. Dokumenta Saturu: nepieciešams aizpildīt dokumenta saturu, norādot
+atbilstošās dimensiju un summu sadalījumu
+
+
+
+3. Pievienot nopirktās kultūras un citu pasākumu ieejas biļetes:
+biļetes iespējams piesaisīt kases ieņēmumu orderim, dokumenta apakšējā
+daļā,nospiežot uz pogas -> Tiks atvērts jauns logs, kurā iespējams
+pievienot biļetes no `Kultūras un citu pasākumu ieejas biļešu
+žurnālā`_pievienotajām:
+
+
+
+
+
+
+
+Pēc visu nepieciešamo lauku aizpildīšanasnospiežot pogu .
+
+
+
+
+
+ 

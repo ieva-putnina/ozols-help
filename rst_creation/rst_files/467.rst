@@ -1,56 +1,160 @@
-.. 467 =======================================Bankas maksājums ar maksājumu karti======================================= <P>&nbsp;</P>
-<P>Bankas izdevumu dokumenta veids Bankas maksājums ar maksājumu karti ir paredzēts debeta karšu operāciju noformēšanai. Šis dokumenta veids jāizmanto, kad banka ir veikusi atskaitījumus no uzņēmuma bankas konta par iegādātajām precēm ar uzņēmuma debetkarti - no bankas&nbsp;konta pārskaitītas summas par debetkartes pirkumiem. Dokuments tiek saglabāts žurnālā <A href="/help/?ssw=33&amp;skf_id=224">Bankas izdevumi</A>.</P>
-<H4>Jauna Bankas maksājuma ar maksājumu karti&nbsp;pievienošana</H4>
-<P>&nbsp;Izvēloties dokumenta veidu Bankas maksājums ar maksājuma karti, tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24992" border=0></P>
-<H5>Dokumenta Bankas maksājums ar maksājumu karti&nbsp;Virsraksta aizpildīšana</H5>
-<P>&nbsp;</P>
-<P>Lai aizpildītu&nbsp;Bankas maksājuma ar maksājumu karti&nbsp;Virsrakstu, nepieciešams:</P>
-<P>&nbsp;</P>
-<P>1. Norādīt Uzņēmuma bankas kontu, no kura šis maksājums tiks izpildīts:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24724" border=0></P>
-<P>&nbsp;</P>
-<P>2. Izvēlēties Datumu, kurā šis dokuments&nbsp;tiek veidots:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24725" border=0></P>
-<P>&nbsp;</P>
-<P>3. Norādīt nepieciešamo Bankas maksājuma ar maksājumu karti&nbsp;valūtu un ievadīt kopējo Dokumenta summu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24726" border=0></P>
-<P>&nbsp;</P>
-<P>4. No saraksta izvēlēties nepieciešamo partneri (Piegādātāju), kuram šis naudas pārskaitījums tiks noformēts:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24727" border=0></P>
-<P>&nbsp;</P>
-<P>Izvēloties nepieciešamo Piegādātāju, lauki <STRONG>Nor.konts</STRONG>, <STRONG>Banka</STRONG> un <STRONG>Kods</STRONG>&nbsp;netiek aizpildīti, jo&nbsp;šis dokumenta veids tiek izmantots, kad banka jau ir veikusi atskaitījumus no uzņēmuma bankas konta par iegādātajām precēm ar uzņēmuma debetkarti, līdz ar to Piegādātāja&nbsp;bankas kontu&nbsp;aizpildīt vairs nav nepieciešams.&nbsp;</P>
-<P>Lauks&nbsp;<STRONG>Reģ.nr. </STRONG>tiks aizpildīts automātiski no <A href="/help/?ssw=33&amp;skf_id=312">Partnera kartiņas</A>.</P>
-<P>&nbsp;</P>
-<H5>Dokumenta Bankas maksājums ar maksājumu karti Satura aizpildīšana</H5>
-<P>Lai aizpildītu&nbsp;dokumenta Saturu, satura daļā nepieciešams nospiest <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24786" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto summu.&nbsp;Pievienot nākamo satura ierakstu iespējams, satura daļā nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>.</P>
-<P>&nbsp;</P>
-<H5>Maksājuma dokumenta Mērķa&nbsp;aizpildīšana</H5>
-<P><BR>Maksājuma dokumenta lauks Mērķis tiek drukāts maksājuma uzdevuma rindā Maksājuma mērķis. </P>
-<P>Lauku Bankas maksājuma uzdevuma Mērķis, iespējams aizpildīt manuāli vai izvēloties no <A href="/help/?ssw=33&amp;skf_id=147">Bankas paskaidrojumu saraksta</A>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24787" border=0></P>
-<P>&nbsp;</P>
-<P>Kad visi nepieciešamie lauki ir aizpildīti, Bankas maksājums ar maksājumu&nbsp;karti&nbsp;ir sagatavots un to ir iespējams:</P>
-<P>1. Saglabāt,&nbsp;nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;-&nbsp;dokuments tiks saglabāts un būs pieejams apskatei/labošanai/grāmatošanai <A href="/help/?ssw=33&amp;skf_id=224">Bankas izdevumu</A>.</P>
-<P>2. Apstiprināt, nospiežot rīku joslā pogu <IMG src="/help/Skin/help/img.aspx?pid=24740" border=0>&nbsp;- Bankas maksājums ar maksājumu karti tiks Apstiprināts un to būs iespējams Grāmatot.</P>
-<H4>Bankas maksājuma&nbsp;ar maksājumu karti&nbsp;grāmatošana</H4>
-<P>Dokumentu&nbsp;iespējams grāmatot no atvērta Bankas maksājuma ar maksājumu karti&nbsp;dokumenta vai izvēloties (iezīmējot)&nbsp;dokumentu <A href="/help/?ssw=33&amp;skf_id=224">Bankas izdevumu žurnālā</A>. </P>
-<P>Lai iegrāmatotu Bankas maksājumu ar maksājumu karti, dokumentu nepieciešams Apstiprināt, nospiežot rīku joslā pogu <IMG src="/help/Skin/help/img.aspx?pid=24740" border=0>.</P>
-<P>Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā pogu <IMG src="/help/Skin/help/img.aspx?pid=24741" border=0>.</P>
-<P>&nbsp;</P>
-<P>Instrukcija - <A href="/help/?ssw=33&amp;skf_id=14044">Dokumentu grāmatošanas principi</A></P>
-<H4>Pievienotā Bankas&nbsp;maksājuma&nbsp;ar maksājumu karti&nbsp;labošana</H4>
-<P>Labojumus saglabātajā&nbsp;dokumentā iespējams veikt atverot Bankas maksājuma dokumentu, kurš pieejams apskatei/labošanai&nbsp;<A href="/help/?ssw=33&amp;skf_id=224"><U>Bankas izdevumu žurnālā</U></A>. Lai veiktu labojumus,&nbsp;dokumentu&nbsp;nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>&nbsp;(ALT+A), un&nbsp;atvērtajā&nbsp;ierakstā iespējams veikt&nbsp;nepieciešamos labojumus:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24788" border=0><BR></P>
-<P>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P> 
+.. 467 =======================================Bankas maksājums ar maksājumu karti======================================= 
+
+
+Bankas izdevumu dokumenta veids Bankas maksājums ar maksājumu karti ir
+paredzēts debeta karšu operāciju noformēšanai. Šis dokumenta veids
+jāizmanto, kad banka ir veikusi atskaitījumus no uzņēmuma bankas konta
+par iegādātajām precēm ar uzņēmuma debetkarti - no bankaskonta
+pārskaitītas summas par debetkartes pirkumiem. Dokuments tiek
+saglabāts žurnālā `Bankas izdevumi`_.
+
+
+Jauna Bankas maksājuma ar maksājumu kartipievienošana
+`````````````````````````````````````````````````````
+
+Izvēloties dokumenta veidu Bankas maksājums ar maksājuma karti, tiks
+atvērts jauns logs:
+
+
+
+
+
+
+Dokumenta Bankas maksājums ar maksājumu kartiVirsraksta aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai aizpildītuBankas maksājuma ar maksājumu kartiVirsrakstu,
+nepieciešams:
+
+
+
+1. Norādīt Uzņēmuma bankas kontu, no kura šis maksājums tiks
+izpildīts:
+
+
+
+
+
+
+
+2. Izvēlēties Datumu, kurā šis dokumentstiek veidots:
+
+
+
+
+
+
+
+3. Norādīt nepieciešamo Bankas maksājuma ar maksājumu kartivalūtu un
+ievadīt kopējo Dokumenta summu:
+
+
+
+
+
+
+
+4. No saraksta izvēlēties nepieciešamo partneri (Piegādātāju), kuram
+šis naudas pārskaitījums tiks noformēts:
+
+
+
+
+
+
+
+Izvēloties nepieciešamo Piegādātāju, lauki Nor.konts , Banka un Kods
+netiek aizpildīti, jošis dokumenta veids tiek izmantots, kad banka jau
+ir veikusi atskaitījumus no uzņēmuma bankas konta par iegādātajām
+precēm ar uzņēmuma debetkarti, līdz ar to Piegādātājabankas
+kontuaizpildīt vairs nav nepieciešams.
+
+Lauks Reģ.nr. tiks aizpildīts automātiski no `Partnera kartiņas`_.
+
+
+
+
+Dokumenta Bankas maksājums ar maksājumu karti Satura aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītudokumenta Saturu, satura daļā nepieciešams nospiest un
+tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
+satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
+ieraksta summu:
+
+
+
+
+
+
+
+Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
+kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
+satura ierakstu iespējams, satura daļā nospiežot pogu .
+
+
+
+
+Maksājuma dokumenta Mērķaaizpildīšana
++++++++++++++++++++++++++++++++++++++
+
+
+Maksājuma dokumenta lauks Mērķis tiek drukāts maksājuma uzdevuma rindā
+Maksājuma mērķis.
+
+Lauku Bankas maksājuma uzdevuma Mērķis, iespējams aizpildīt manuāli
+vai izvēloties no `Bankas paskaidrojumu saraksta`_:
+
+
+
+
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti, Bankas maksājums ar
+maksājumukartiir sagatavots un to ir iespējams:
+
+1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
+apskatei/labošanai/grāmatošanai `Bankas izdevumu`_.
+
+2. Apstiprināt, nospiežot rīku joslā pogu - Bankas maksājums ar
+maksājumu karti tiks Apstiprināts un to būs iespējams Grāmatot.
+
+
+Bankas maksājumaar maksājumu kartigrāmatošana
+`````````````````````````````````````````````
+
+Dokumentuiespējams grāmatot no atvērta Bankas maksājuma ar maksājumu
+kartidokumenta vai izvēloties (iezīmējot)dokumentu `Bankas izdevumu
+žurnālā`_.
+
+Lai iegrāmatotu Bankas maksājumu ar maksājumu karti, dokumentu
+nepieciešams Apstiprināt, nospiežot rīku joslā pogu .
+
+Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu .
+
+
+
+Instrukcija - `Dokumentu grāmatošanas principi`_
+
+
+Pievienotā Bankasmaksājumaar maksājumu kartilabošana
+````````````````````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot Bankas
+maksājuma dokumentu, kurš pieejams apskatei/labošanai` Bankas izdevumu
+žurnālā `_. Lai veiktu labojumus,dokumentunepieciešams atvērt,
+izmantojot rīku joslas pogu (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus:
+
+
+
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+ 

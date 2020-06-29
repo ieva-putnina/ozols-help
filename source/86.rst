@@ -1,2 +1,7 @@
-.. 86 ========Rīki======== <P>&nbsp;</P>
-<P>Valūtu kursu svārstību aprēķins nodrošina valūtas kursa svārstību radītās peļņas&nbsp;vai zaudējumu automātisku aprēķinu.&nbsp;</P> .. toctree::   :maxdepth: 5    675.rst
+.. 86 ========Rīki======== 
+
+
+Valūtu kursu svārstību aprēķins nodrošina valūtas kursa svārstību
+radītās peļņasvai zaudējumu automātisku aprēķinu.
+
+ .. toctree::   :maxdepth: 5    675.rst

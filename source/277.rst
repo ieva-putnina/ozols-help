@@ -1,64 +1,23 @@
-.. 277 =============================================Rīkojumu veidu ieejošo datu konfigurācija============================================= <P>&nbsp;</P>
-<P>Rīkojumu veidu ieejošo kodu konfigurācija nosaka, kādi dati tiks pievienoti strādājošā kalendāram, ja tiks izveidots noteikts rīkojuma veids. </P>
-<P>&nbsp;</P>
-<P>
-<TABLE cellSpacing=2 cellPadding=0 width="100%" border=0>
-<TBODY>
-<TR>
-<TH width=300>Rīkojuma veids</TH>
-<TH width=300>Ieejošais kods</TH></TR>
-<TR>
-<TD width=300>Pieņemšana darbā</TD>
-<TD width=300>KavDD</TD>
-<TR>
-<TD width=300>Pieņemšana darbā - pensionāri</TD>
-<TD width=300>KavDD</TD>
-<TR>
-<TD width=300>Pieņemšanas darbā – I vai II grupas invalīdi</TD>
-<TD width=300>KavDD</TD>
-<TR>
-<TD width=300>Slimības apmaksa</TD>
-<TD width=300>SD</TD>
-<TR>
-<TD width=300>Ikgadējais atvaļinājums</TD>
-<TD width=300>AtvD</TD>
-<TR>
-<TD width=300>Papildus atvaļinājums - izņemšana</TD>
-<TD width=300>PapAtvD</TD>
-<TR>
-<TD width=300>Papildus atvaļinājums - piešķiršana</TD>
-<TD width=300>PapAtvD</TD>
-<TR>
-<TD width=300>Atsaukšana no atvaļinājuma</TD>
-<TD width=300>NDDA</TD>
-<TR>
-<TD width=300>Mācību atvaļinājums ar darba algas saglabāšanu</TD>
-<TD width=300>MAtvD</TD>
-<TR>
-<TD width=300>Piešķirts bērna kopšanas atvaļinājums</TD>
-<TD width=300>KavDD</TD>
-<TR>
-<TD width=300>Piešķirts atvaļinājums bez darba algas saglabāšanas</TD>
-<TD width=300>KavDD</TD>
-<TR>
-<TD width=300>Atlaišana (visi veidi)</TD>
-<TD width=300>KavDD</TD>
-<TR>
-<TD width=300>Grūtniecības un dzemdību atvaļinājums&nbsp;</TD>
-<TD width=300>KavDD</TD>
-<TR>
-<TD width=300>Slimības lapa B</TD>
-<TD width=300>KavDD</TD>
-<TR>
-<TD width=300>Atvaļinājums bērna tēvam</TD>
-<TD width=300>KavDD</TD>
-<TR>
-<TD width=300>Mācību atvaļinājums bez darba algas saglabāšanas</TD>
-<TD width=300>KavDD</TD>
-<TR>
-<TD width=300>Piešķirts atvaļinājums bez darba algas saglabāšanas (neietekmē atvieglojumus)</TD>
-<TD width=300>KavDD</TD>
-<TR>
-<TD width=300>Asins nodošana - darbinieks neveic darbu attaisnojošu iemelsu dēļ&nbsp;&nbsp;&nbsp;</TD>
-<TD width=300>AND</TD>
-<TR></TR></TBODY></TABLE></P> 
+.. 277 =============================================Rīkojumu veidu ieejošo datu konfigurācija============================================= 
+
+
+Rīkojumu veidu ieejošo kodu konfigurācija nosaka, kādi dati tiks
+pievienoti strādājošā kalendāram, ja tiks izveidots noteikts rīkojuma
+veids.
+
+
+
+Rīkojuma veids Ieejošais kods Pieņemšana darbā KavDD Pieņemšana darbā
+- pensionāri KavDD Pieņemšanas darbā – I vai II grupas invalīdi KavDD
+Slimības apmaksa SD Ikgadējais atvaļinājums AtvD Papildus atvaļinājums
+- izņemšana PapAtvD Papildus atvaļinājums - piešķiršana PapAtvD
+Atsaukšana no atvaļinājuma NDDA Mācību atvaļinājums ar darba algas
+saglabāšanu MAtvD Piešķirts bērna kopšanas atvaļinājums KavDD
+Piešķirts atvaļinājums bez darba algas saglabāšanas KavDD Atlaišana
+(visi veidi) KavDD Grūtniecības un dzemdību atvaļinājums KavDD
+Slimības lapa B KavDD Atvaļinājums bērna tēvam KavDD Mācību
+atvaļinājums bez darba algas saglabāšanas KavDD Piešķirts atvaļinājums
+bez darba algas saglabāšanas (neietekmē atvieglojumus) KavDD Asins
+nodošana - darbinieks neveic darbu attaisnojošu iemelsu dēļ AND
+
+ 

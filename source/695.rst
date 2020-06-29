@@ -1,8 +1,25 @@
-.. 695 =============================Nomenklatūras sastāvdaļas============================= <P>&nbsp;</P>
-<P>Sarakstā tiek attēlots nomenklatūras saraksts, kurām ir piesaistītas sastāvdaļas, attēlojot sastāvdaļas nosaukumu un daudzumu.</P>
-<P>Krājumiem vai Precēm, kuras uzņēmumā netiek iepirkts gatavas, bet uzņēmuma ietvaros tiek ražotas vai komplektētas, nepieciešams norādīt sastāvdaļas, no kā šis gatavais komplekts sastāvēs.</P>
-<P>Lai nomenklatūrai pievienotu sāstāvdaļas no Nomenklatūras sastāvdaļu saraksta, rīku joslā nepieciešams nospiest pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25334" border=0></P>
-<P>&nbsp;</P>
-<P>Pēc nepieciešamās nomenklatūras un tai piesaistāmās sastāvdaļas izvēles no nomenklatūras saraksta, iespējams norādīt sastāvdaļas sastāva daudzumu un aizpildīto ierakstu <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P> 
+.. 695 =============================Nomenklatūras sastāvdaļas============================= 
+
+
+Sarakstā tiek attēlots nomenklatūras saraksts, kurām ir piesaistītas
+sastāvdaļas, attēlojot sastāvdaļas nosaukumu un daudzumu.
+
+Krājumiem vai Precēm, kuras uzņēmumā netiek iepirkts gatavas, bet
+uzņēmuma ietvaros tiek ražotas vai komplektētas, nepieciešams norādīt
+sastāvdaļas, no kā šis gatavais komplekts sastāvēs.
+
+Lai nomenklatūrai pievienotu sāstāvdaļas no Nomenklatūras sastāvdaļu
+saraksta, rīku joslā nepieciešams nospiest pogu un tiks atvērts jauns
+logs:
+
+
+
+
+
+
+
+Pēc nepieciešamās nomenklatūras un tai piesaistāmās sastāvdaļas
+izvēles no nomenklatūras saraksta, iespējams norādīt sastāvdaļas
+sastāva daudzumu un aizpildīto ierakstu vai .
+
+ 

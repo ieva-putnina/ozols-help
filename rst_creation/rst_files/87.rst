@@ -1,8 +1,21 @@
-.. 87 =============Dokumenti============= <P>&nbsp;</P>
-<P>Izmantojot CRM (Partneri) dokumentus, iespējams izveidot atgādinājumus, korespodences ierakstus, dažādus ar klientu attiecību vadību saistītus aktivitāšu dokumentus, kuri pēc dokumentu saglabāšanas pieejami CRM (Partneri) dokumentu žurnālos:</P>
-<P>&nbsp;</P>
-<P><A href="/help/?ssw=33&amp;skf_id=874">Atgādinātāji</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=744">Korespondence</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=742">Notikumu žurnāls</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=879">Piedāvājumu žurnāls</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=785">Ziņojumu žurnāls</A></P> .. toctree::   :maxdepth: 5    874.rst   917.rst   744.rst   932.rst   879.rst   296.rst   942.rst   742.rst   785.rst
+.. 87 =============Dokumenti============= 
+
+
+Izmantojot CRM (Partneri) dokumentus, iespējams izveidot
+atgādinājumus, korespodences ierakstus, dažādus ar klientu attiecību
+vadību saistītus aktivitāšu dokumentus, kuri pēc dokumentu
+saglabāšanas pieejami CRM (Partneri) dokumentu žurnālos:
+
+
+
+`Atgādinātāji`_
+
+`Korespondence`_
+
+`Notikumu žurnāls`_
+
+`Piedāvājumu žurnāls`_
+
+`Ziņojumu žurnāls`_
+
+ .. toctree::   :maxdepth: 5    874.rst   917.rst   744.rst   932.rst   879.rst   296.rst   942.rst   742.rst   785.rst

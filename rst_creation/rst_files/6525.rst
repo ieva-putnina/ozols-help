@@ -1,24 +1,66 @@
-.. 6525 ==================Polišu imports================== <P>Polišu imports nodrošina liela apjoma polišu datu importēšanu sistēmā no sagatavota excel datu faila. Polišu datu importēšanas procesā notiek <A href="/help/?ssw=33&amp;skf_id=312">Partnera kartiņas</A> izveide ar partnerim norādīto kontaktinformāciju, <A href="/help/?ssw=65&amp;skf_id=6510">polises izveide</A>, polišu <A href="/help/?ssw=33&amp;skf_id=304">rēķina</A> izveide un <A href="/help/?ssw=33&amp;skf_id=349">bankas</A> vai <A href="/help/?ssw=33&amp;skf_id=350">kases ieņēmuma</A> izveide un sasaiste ar maksājumu.</P>
-<P>&nbsp;</P>
-<P><STRONG>Lai veiktu polišu importu:</STRONG></P>
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>1.</STRONG> Jāsagatavo un jānoformē importējamos polišu datus atbilstoši prasībām; </P>
-<P>&nbsp;</P>
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>2.</STRONG> Jāsaglabā Microsoft <U>Excel 5.0/95 Workbook.xls</U> formātā;</P>
-<P><STRONG></STRONG>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26411" border=0></P>
-<P>&nbsp;</P>
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>3.</STRONG> Jāatver Polišu importa rīks un caur pogu Pārlūkot, jānorāda ceļš uz saglabāto polišu datu failu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26412" border=0></P>
-<P>&nbsp;</P>
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>4.</STRONG> Ja sagatavotajā failā ir norādīti stingrās uzskaites kvīšu numuri, tad nepieciešams norādīt Kasi, uz kuru tiks veidoti kases ieņēmumu orderi.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Ja nav nepieciešams polišu rēķinus saistīt ar <A href="/help/?ssw=33&amp;skf_id=350">Kases ieņēmumie</A>/apmaksām, tad pie polišu importa nav jānorāda Kase.</P>
-<P>&nbsp;</P>
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>5.</STRONG> Jānorāda uzņēmuma Bankas konts, kurš tiks norādīts polišu maksājumos/<A href="/help/?ssw=33&amp;skf_id=304">rēķinos</A>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26413" border=0></P>
-<P>&nbsp;</P>
-<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<STRONG>6.</STRONG> Lai uzsāktu polišu importu no datu faila, pēc faila un bankas konta norādīšanas, jānospiež poga Importēt, un jāgaida, līdz sistēma parādīs cik ilgā laikā ir veikst polišu imports.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Iportētajām polisēm netiek automātiski izveidots <A href="/help/?ssw=65&amp;skf_id=14080">POP</A> (polišu parakstīšanas) grāmatojums. Lai izveidotu POP grāmatojumus importētajām polisēm. <A href="/help/?ssw=65&amp;skf_id=6513">Polišu atskaitē</A> pēc konkrētiem parametriem jāatlasa polises, kuras tika importētas, jāiezīmē un, rīku joslā nospiežot funkcijas pogu, jāizvēlas funkcija Izveidot POP grāmatojumu.</P> 
+.. 6525 ==================Polišu imports================== 
+Polišu imports nodrošina liela apjoma polišu datu importēšanu sistēmā
+no sagatavota excel datu faila. Polišu datu importēšanas procesā
+notiek `Partnera kartiņas`_ izveide ar partnerim norādīto
+kontaktinformāciju, `polises izveide`_, polišu `rēķina`_ izveide un
+`bankas`_ vai `kases ieņēmuma`_ izveide un sasaiste ar maksājumu.
+
+
+
+Lai veiktu polišu importu:
+
+1. Jāsagatavo un jānoformē importējamos polišu datus atbilstoši
+prasībām;
+
+
+
+2. Jāsaglabā Microsoft Excel 5.0/95 Workbook.xls formātā;
+
+
+
+
+
+
+
+3. Jāatver Polišu importa rīks un caur pogu Pārlūkot, jānorāda ceļš uz
+saglabāto polišu datu failu:
+
+
+
+
+
+
+
+4. Ja sagatavotajā failā ir norādīti stingrās uzskaites kvīšu numuri,
+tad nepieciešams norādīt Kasi, uz kuru tiks veidoti kases ieņēmumu
+orderi.
+
+
+
+Ja nav nepieciešams polišu rēķinus saistīt ar `Kases
+ieņēmumie`_/apmaksām, tad pie polišu importa nav jānorāda Kase.
+
+
+
+5. Jānorāda uzņēmuma Bankas konts, kurš tiks norādīts polišu
+maksājumos/`rēķinos`_:
+
+
+
+
+
+
+
+6. Lai uzsāktu polišu importu no datu faila, pēc faila un bankas konta
+norādīšanas, jānospiež poga Importēt, un jāgaida, līdz sistēma parādīs
+cik ilgā laikā ir veikst polišu imports.
+
+
+
+Iportētajām polisēm netiek automātiski izveidots `POP`_ (polišu
+parakstīšanas) grāmatojums. Lai izveidotu POP grāmatojumus
+importētajām polisēm. `Polišu atskaitē`_ pēc konkrētiem parametriem
+jāatlasa polises, kuras tika importētas, jāiezīmē un, rīku joslā
+nospiežot funkcijas pogu, jāizvēlas funkcija Izveidot POP grāmatojumu.
+
+ 

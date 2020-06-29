@@ -1,9 +1,29 @@
-.. 961 ====================================Amata kvalifikācijas kategorijas==================================== <P>&nbsp;</P>
-<P>Šajā sarakstā tiek&nbsp;ievadītas Amata kvalifikācijas kategorijas (f1, f2, utt.), kas pēc tam tiek izmantotas <A href="/help/?ssw=33&amp;skf_id=186">Amatu</A> aprakstu aizpildīšanai, lai&nbsp;konkrētam&nbsp;amatam varētu piesaistīt nepieciešamo Amata kvalifikācijas kategoriju.&nbsp;Šī saraksta dati algu aprēķinos nepiedalās, taču sniedz iespēju gan&nbsp;aprēķina datus, gan arī visus&nbsp;Personāla datus&nbsp;atlasīt&nbsp;Amata kvalifikāciju&nbsp;kategoriju griezumā. Aizpildot strādājošā datus programma pieprasa norādīt Amata kvalifikācijas kategoriju. Ja uzņēmumā personāls netiek dalīts pa&nbsp;Amata kvalifikācijas kategorijām, tad sarakstu var atstāt neaizpildītu.</P>
-<P>&nbsp;</P>
-<P>Lai pievienotu&nbsp;jaunu&nbsp;Amata kvalifikācijas&nbsp;kategoriju, rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25605" border=0>(Alt+P) un, kad nosaukums ierakstīts, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26404" border=0></P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P> 
+.. 961 ====================================Amata kvalifikācijas kategorijas==================================== 
+
+
+Šajā sarakstā tiekievadītas Amata kvalifikācijas kategorijas (f1, f2,
+utt.), kas pēc tam tiek izmantotas `Amatu`_ aprakstu aizpildīšanai,
+laikonkrētamamatam varētu piesaistīt nepieciešamo Amata kvalifikācijas
+kategoriju.Šī saraksta dati algu aprēķinos nepiedalās, taču sniedz
+iespēju ganaprēķina datus, gan arī visusPersonāla datusatlasītAmata
+kvalifikācijukategoriju griezumā. Aizpildot strādājošā datus programma
+pieprasa norādīt Amata kvalifikācijas kategoriju. Ja uzņēmumā
+personāls netiek dalīts paAmata kvalifikācijas kategorijām, tad
+sarakstu var atstāt neaizpildītu.
+
+
+
+Lai pievienotujaunuAmata kvalifikācijaskategoriju, rīku joslā
+jānospiež poga (Alt+P) un, kad nosaukums ierakstīts, jānospiež poga .
+
+
+
+
+
+
+
+
+
+
+
+ 

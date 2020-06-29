@@ -1,2 +1,8 @@
-.. 7002 =============Dokumenti============= <P>&nbsp;</P>
-<P>Izmantojot Dividenžu dokumentus, iespējams <A href="/help/?ssw=70&amp;skf_id=7009">Akciju žurnālā</A>&nbsp;pievienot neierobežotu daudzumu akciju, norādot akcijas turētāju (<A href="/help/?ssw=33&amp;skf_id=112">Partneri</A>), <A href="/help/?ssw=70&amp;skf_id=7006">Akciju veidu</A>, skaitu un darbības periodu. </P> .. toctree::   :maxdepth: 5    7009.rst
+.. 7002 =============Dokumenti============= 
+
+
+Izmantojot Dividenžu dokumentus, iespējams `Akciju žurnālā`_pievienot
+neierobežotu daudzumu akciju, norādot akcijas turētāju (`Partneri`_),
+`Akciju veidu`_, skaitu un darbības periodu.
+
+ .. toctree::   :maxdepth: 5    7009.rst

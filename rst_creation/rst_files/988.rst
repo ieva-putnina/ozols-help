@@ -1,9 +1,20 @@
-.. 988 =============Intrastat============= <br><br>
-<p>INTRASTAT
- pārskatu iesniedz tie PVN maksātāji, kuru apgrozījums pārsniedz 
-noteikto statistisko robežlielumu. Intrastat atskaite tiek sagatavota 
-pamatojoties uz ievadītajiem Norēķinu dokumentiem (iepirkumu dokuments),
- kuros tiek noformēts preces ievedums Latvijā no kādas ES dalībvalsts, 
-deklarējot preču ievedumu INTRASTAT pārskata veidlapā atbilstoši šo 
-preču astoņu zīmju kodam, norādot preču vērtību latos, partnervalsti, 
-svaru, darījuma veida kodu, svaru un daudzumu papildmērvienībās.</p><p><br></p><p><a href="?ssw=33&amp;skf_id=990"><img src="Skin/help/img.aspx?pid=24545" border="0"></a>Atskaites sagatavošana: <a href="?ssw=33&amp;skf_id=990">Ievedums–Intrastat–1A</a><br></p><br> .. toctree::   :maxdepth: 4    989.rst   990.rst   1019.rst
+.. 988 =============Intrastat============= 
+
+
+INTRASTAT pārskatu iesniedz tie PVN maksātāji, kuru apgrozījums
+pārsniedz noteikto statistisko robežlielumu. Intrastat atskaite tiek
+sagatavota pamatojoties uz ievadītajiem Norēķinu dokumentiem
+(iepirkumu dokuments), kuros tiek noformēts preces ievedums Latvijā no
+kādas ES dalībvalsts, deklarējot preču ievedumu INTRASTAT pārskata
+veidlapā atbilstoši šo preču astoņu zīmju kodam, norādot preču vērtību
+latos, partnervalsti, svaru, darījuma veida kodu, svaru un daudzumu
+papildmērvienībās.
+
+
+
+
+` `_Atskaites sagatavošana: `Ievedums–Intrastat–1A`_
+
+
+
+ .. toctree::   :maxdepth: 4    989.rst   990.rst   1019.rst

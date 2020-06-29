@@ -1,1 +1,4 @@
-.. 5023 =================================Potenciālo klientu kamp. org.================================= Potenciālo klientu kampaņu organizātors tiek veidots&nbsp;līdzīgi kā <A href="/help/?ssw=44&amp;skf_id=5016">Kontaktu kapmaņu organizātors</A>,&nbsp;tikai tiek izvēlēti klienti, kuri ir pievienoti kā <A href="/help/?ssw=44&amp;skf_id=5022">potenciālie klienti</A>. 
+.. 5023 =================================Potenciālo klientu kamp. org.================================= Potenciālo klientu kampaņu organizātors tiek veidotslīdzīgi kā
+`Kontaktu kapmaņu organizātors`_,tikai tiek izvēlēti klienti, kuri ir
+pievienoti kā `potenciālie klienti`_.
+ 

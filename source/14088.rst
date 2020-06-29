@@ -1,12 +1,39 @@
-.. 14088 ===================================================Ieteicamās lietotāja definētās datu bāzes lomas=================================================== <P>Ieteicamās lietotāja definētās datu bāzes lomas</P>
-<P>&nbsp;</P>
-<P>Sistēmā OZOLS datu bāzes lietotāju definētās lomas var izveidot sadaļā Konfigurācja-&gt;Lietotāji-&gt; <A href="/help/?ssw=33&amp;skf_id=162">Lietotāju grupas</A>. </P>
-<P>&nbsp;</P>
-<P>Ieteicamais grupu definēšanas mehānisms - grupu veidi,&nbsp;balstīts uz lietotājiem piešķiramo tiesību apjomu un veidu dalījumu:</P>
-<P>&nbsp;</P>
-<P>1. Grupu veids - tiesības darba režīmiem (Piemēram,&nbsp; m_norekini, m_finanses, utt.) - izveidot atsevišķas grupas Ozols moduļiem - norēķini, finanses, utt., lai lietotājus, kuriem ir tiesības uz šiem moduļiem, varētu pievienot izveidotajām grupām.</P>
-<P>2. Grupu veids - tiesības uzņēmumiem (Piemēram, u_its2, u_apse, u_latvenergo,&nbsp;utt.) - izveidot atsevišķas grupas datu bāzē pievienotajiem uzņēmumiem, lai lietotāju varētu pievienot tam uzņēmumam, kura datus būs nepieciešams izmantot.</P>
-<P>3. Grupu veids - tiesību apjoms (Piemēram,&nbsp; oz_readonly) - izveidot atsevišķas grupas tiesību apjomam - vai lietotājam būs tiesības datus ievadīt/labo/dzēst, vai tikai skatīšanās režīmā. Nodefinēt tiesību apjomu visai grupai iespējams, izmantojot <A href="/help/?ssw=33&amp;skf_id=14097">Lietotāju lomu funkcijas</A>.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Izveidojot nepieciešamās <A href="/help/?ssw=33&amp;skf_id=162">Lietotāju grupas</A>, <A href="/help/?ssw=33&amp;skf_id=169">Lietotāju tiesības darba režīmiem</A>, tiesību apjomam un <A href="/help/?ssw=33&amp;skf_id=190">Lietotāju tiesības uzņēmumiem</A> nepieciešam noteikt grupām, nevis katram lietotājam individuāli. </P>
-<P>Viens lietotājs vienlaicīgi var atrasties vairākās grupās. </P> 
+.. 14088 ===================================================Ieteicamās lietotāja definētās datu bāzes lomas=================================================== 
+Ieteicamās lietotāja definētās datu bāzes lomas
+
+
+
+Sistēmā OZOLS datu bāzes lietotāju definētās lomas var izveidot sadaļā
+Konfigurācja->Lietotāji-> `Lietotāju grupas`_.
+
+
+
+Ieteicamais grupu definēšanas mehānisms - grupu veidi,balstīts uz
+lietotājiem piešķiramo tiesību apjomu un veidu dalījumu:
+
+
+
+1. Grupu veids - tiesības darba režīmiem (Piemēram, m_norekini,
+m_finanses, utt.) - izveidot atsevišķas grupas Ozols moduļiem -
+norēķini, finanses, utt., lai lietotājus, kuriem ir tiesības uz šiem
+moduļiem, varētu pievienot izveidotajām grupām.
+
+2. Grupu veids - tiesības uzņēmumiem (Piemēram, u_its2, u_apse,
+u_latvenergo,utt.) - izveidot atsevišķas grupas datu bāzē
+pievienotajiem uzņēmumiem, lai lietotāju varētu pievienot tam
+uzņēmumam, kura datus būs nepieciešams izmantot.
+
+3. Grupu veids - tiesību apjoms (Piemēram, oz_readonly) - izveidot
+atsevišķas grupas tiesību apjomam - vai lietotājam būs tiesības datus
+ievadīt/labo/dzēst, vai tikai skatīšanās režīmā. Nodefinēt tiesību
+apjomu visai grupai iespējams, izmantojot `Lietotāju lomu funkcijas`_.
+
+
+
+Izveidojot nepieciešamās `Lietotāju grupas`_, `Lietotāju tiesības
+darba režīmiem`_, tiesību apjomam un `Lietotāju tiesības uzņēmumiem`_
+nepieciešam noteikt grupām, nevis katram lietotājam individuāli.
+
+Viens lietotājs vienlaicīgi var atrasties vairākās grupās.
+
+ 

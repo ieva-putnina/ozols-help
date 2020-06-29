@@ -1,16 +1,39 @@
-.. 113 ===================Partneru grupas=================== <P>&nbsp;</P>
-<P>Sarakstā tiek saglabātas Partneru grupas, kuras&nbsp;tiek lietotas pievienojot <A href="/help/?ssw=33&amp;skf_id=312">Partneri</A> un <A href="/help/?ssw=33&amp;skf_id=389">Partnera kontaktpersonu</A>.</P>
-<P>&nbsp;</P>
-<P>Partneru grupas tiek pievienotas, lai būtu iespējams partnerus sagrupēt pa dažādiem Partneru veidiem (šoferis, apgādājamais, ģimenes loceklis, pārvadātājs, u.c.). </P>
-<P>Lai pievienotu jaunu partneru grupu sarakstam, rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25605" border=0>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25733" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Tips:</STRONG> tiek norādīta kontaktpersonu vai partneru grupa (pie kādas grupas būs pievienotais partnera veids);</P>
-<P><STRONG>Kods:</STRONG> nosaukuma saīsinājums vai veida apzīmējums;</P>
-<P><STRONG>Nosaukums:</STRONG> pilns nosaukums;</P>
-<P><STRONG>Veids:</STRONG> jāizvēlas attiecigais partnera veids:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25734" border=0></P>
-<P>&nbsp;</P>
-<P>Lai saglabātu partnera grupu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>.</P> 
+.. 113 ===================Partneru grupas=================== 
+
+
+Sarakstā tiek saglabātas Partneru grupas, kurastiek lietotas
+pievienojot `Partneri`_ un `Partnera kontaktpersonu`_.
+
+
+
+Partneru grupas tiek pievienotas, lai būtu iespējams partnerus
+sagrupēt pa dažādiem Partneru veidiem (šoferis, apgādājamais, ģimenes
+loceklis, pārvadātājs, u.c.).
+
+Lai pievienotu jaunu partneru grupu sarakstam, rīku joslā jānospiež
+poga :
+
+
+
+
+
+
+
+Tips: tiek norādīta kontaktpersonu vai partneru grupa (pie kādas
+grupas būs pievienotais partnera veids);
+
+Kods: nosaukuma saīsinājums vai veida apzīmējums;
+
+Nosaukums: pilns nosaukums;
+
+Veids: jāizvēlas attiecigais partnera veids:
+
+
+
+
+
+
+
+Lai saglabātu partnera grupu, jānospiež poga .
+
+ 

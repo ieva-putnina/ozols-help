@@ -1,9 +1,58 @@
-.. 993 =====================Pieteikums tiesai===================== <br><p><img src="Skin/help/img.aspx?pid=24545" border="0">Dokumenta veids - Pieteikums tiesai - ir specifisks darba režīms, kas pieejams izmantojot Ozols papildus funkcionalitāti.<br></p><h4>Jauna pieteikuma tiesai pievienošana <br></h4>
+.. 993 =====================Pieteikums tiesai===================== 
 
-Izmantojot šo dokumentu veidu, tiek realizēts tiesas pieteikuma sagatavošanas process, kur dati dokumentā tiek aizpildīti no atskaites - <a href="?ssw=33&amp;skf_id=540">Neapmaksātie pārdošanas dokumenti</a>.<br>
+Dokumenta veids - Pieteikums tiesai - ir specifisks darba režīms, kas
+pieejams izmantojot Ozols papildus funkcionalitāti.
 
-<p align="justify">Lai pievienotu jaunu dokumentu, atrodoties dokumentu žurnālā, rīku joslā jānospiež poga:&nbsp; <img src="Skin/help/img.aspx?pid=24879" border="0"> un tiks atvērts jauns&nbsp; dokuments:</p><p align="justify"><br></p><p align="justify"><img src="Skin/help/img.aspx?pid=26507" border="0"><br></p><p><br></p><p>Izvēloties nepieciešamo debitoru (no <a href="?ssw=33&amp;skf_id=112">Partneru</a> saraksta), tiks ielādēta aktuālā informācija par pasta adresi un iespēja norādīt atbilstošās procentu likmes līgumsodam un likumiskajiem kavējuma procentiem.</p><p><br></p><p>Lai aizpildītu datus par izvēlēto partneri no neapmaksāto pārdošanas dokumentu atskaites, nepieciešams izpildīt dokumentā pieejamo funkciju Aizpildīt:</p><p><br></p><p><img src="Skin/help/img.aspx?pid=26508" border="0"><br></p><p><br></p><p>Izvēloties komandu Aizpildīt, tiks atvērts filtrs, kurā jāizvēlas 
-parametri no atskaites "Neapmaksātie pārdošanas dokumenti" pēc kuriem 
-tiks aizpildīts tiesas pieteikuma dokuments. Pircējs filtrā parādās 
-noklusētais tas, kurš ir izvēlēts apmaksas atgādinājuma virsrakstā:</p><p><br></p><img src="Skin/help/img.aspx?pid=26488" border="0">
-<br><br>Lai aizpildītu dokumenta saturu no augstāk minētā filtra un jāizmanto komanda <img src="Skin/help/img.aspx?pid=25619" border="0">.<br> 
+
+
+Jauna pieteikuma tiesai pievienošana
+Izmantojot šo dokumentu veidu, tiek realizēts tiesas pieteikuma
+sagatavošanas process, kur dati dokumentā tiek aizpildīti no atskaites
+- `Neapmaksātie pārdošanas dokumenti`_.
+
+Lai pievienotu jaunu dokumentu, atrodoties dokumentu žurnālā, rīku
+joslā jānospiež poga: un tiks atvērts jauns dokuments:
+
+
+
+
+
+
+
+
+
+
+Izvēloties nepieciešamo debitoru (no `Partneru`_ saraksta), tiks
+ielādēta aktuālā informācija par pasta adresi un iespēja norādīt
+atbilstošās procentu likmes līgumsodam un likumiskajiem kavējuma
+procentiem.
+
+
+
+
+Lai aizpildītu datus par izvēlēto partneri no neapmaksāto pārdošanas
+dokumentu atskaites, nepieciešams izpildīt dokumentā pieejamo funkciju
+Aizpildīt:
+
+
+
+
+
+
+
+
+
+
+Izvēloties komandu Aizpildīt, tiks atvērts filtrs, kurā jāizvēlas
+parametri no atskaites "Neapmaksātie pārdošanas dokumenti" pēc kuriem
+tiks aizpildīts tiesas pieteikuma dokuments. Pircējs filtrā parādās
+noklusētais tas, kurš ir izvēlēts apmaksas atgādinājuma virsrakstā:
+
+
+
+
+
+Lai aizpildītu dokumenta saturu no augstāk minētā filtra un jāizmanto
+komanda .
+
+ 

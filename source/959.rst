@@ -1,14 +1,37 @@
-.. 959 ================Amatu grupas================ <P>&nbsp;</P>
-<P>Amatu grupu sarakstā jānodefinē uzņēmuma Amatu grupas, kā arī katrai grupai jāpievieno attiecīgās&nbsp;Amata grupas kompetences atbilstošajā secībā.&nbsp;</P>
-<P>Amatu saraksts tiek lietots pievienojot jaunu <A href="/help/?ssw=33&amp;skf_id=207">slodzi</A>.</P>
-<P>Lai pievienotu jaunu amatu, rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>(Atl+P), tiek atvērts logs, kur nepieciešams ievadīt Amata grupas kodu un nosaukumu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26406" border=0></P>
-<P>Lai aizpildītu katras Amatu grupas kompetences, grupas aprakstā, nepieciešams nospiest pogu <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts jauns, kur iespējams ievadīt amata grupas kompetenci, norādot kompetences secību izvēlētajā amata grupā, kā arī no saraksta izvēloties kompetenci:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26407" border=0></P>
-<P>&nbsp;</P>
-<P>Lai saglabātu pievienotos datus, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>.</P>
-<P>&nbsp;</P>
-<P>Lai ierakstus atvērtu un labotu, vai dzēstu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25603" border=0>(Alt+A) vai <IMG src="/help/Skin/help/img.aspx?pid=25602" border=0>(Alt+D). </P>
-<P>&nbsp;</P> 
+.. 959 ================Amatu grupas================ 
+
+
+Amatu grupu sarakstā jānodefinē uzņēmuma Amatu grupas, kā arī katrai
+grupai jāpievieno attiecīgāsAmata grupas kompetences atbilstošajā
+secībā.
+
+Amatu saraksts tiek lietots pievienojot jaunu `slodzi`_.
+
+Lai pievienotu jaunu amatu, rīku joslā jānospiež poga (Atl+P), tiek
+atvērts logs, kur nepieciešams ievadīt Amata grupas kodu un nosaukumu:
+
+
+
+
+
+Lai aizpildītu katras Amatu grupas kompetences, grupas aprakstā,
+nepieciešams nospiest pogu un tiks atvērts jauns, kur iespējams
+ievadīt amata grupas kompetenci, norādot kompetences secību izvēlētajā
+amata grupā, kā arī no saraksta izvēloties kompetenci:
+
+
+
+
+
+
+
+Lai saglabātu pievienotos datus, jānospiež poga .
+
+
+
+Lai ierakstus atvērtu un labotu, vai dzēstu, jānospiež poga (Alt+A)
+vai (Alt+D).
+
+
+
+ 

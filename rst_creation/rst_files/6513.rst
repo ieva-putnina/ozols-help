@@ -1,50 +1,125 @@
-.. 6513 ===================Polišu atskaite=================== <P>Polišu atskaite ir paredzēta, lai varētu atasīt polišu līgumus pēc uzstādītiem atlases kritērijiem. Šajā atskaitē nav iegūstami dati par aprēķinātajām komisijas summām.</P>
-<P>Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.</P>
-<P>Datu atlases kritērijus var saglabāt (<IMG src="/help/Skin/help/img.aspx?pid=24938" border=0>). Izvēloties izveidoto filtra sagatavi (<IMG src="/help/Skin/help/img.aspx?pid=24943" border=0>), filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež poga<IMG src="/help/Skin/help/img.aspx?pid=24535" border=0>(Ctrl+F), tiek atvērts filtra logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25914" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Uzņēmums:</STRONG> uzņēmums, par kuru tiks sagatavota atskaite;</P>
-<P><STRONG>Apdroš.v.:</STRONG> polišu atskaites sagatavošanai par vienu apdrošināšanas veidu;</P>
-<P><STRONG>Apdroš.sab.:</STRONG> atskaite par vienu apdrošināšanas sabiedrību;</P>
-<P><STRONG>Brokeris:</STRONG> atskaite par&nbsp;izvēlētu brokeri;</P>
-<P><STRONG>Asistents:</STRONG> atskaite par&nbsp; izvēlētu asistentu;</P>
-<P><STRONG>Piesaistītājs:</STRONG> atskaite par izvēlētu piesaistītāju;</P>
-<P><STRONG>Apdr.ņēmējs:</STRONG> atskaite par apdrošināšanas ņēmēju;</P>
-<P><STRONG>Izdošanas dat.:</STRONG> polišu izdošanas datums vai periods;</P>
-<P><STRONG>Sākuma dat.:</STRONG> polišu darbības sākuma datums vai periods;</P>
-<P><STRONG>Beigu dat.:</STRONG> polišu darbības beigu datums;</P>
-<P><STRONG>Pārtr.datums:</STRONG> pārtraukto polišu datums vai periods;</P>
-<P><STRONG>Apdroš.prēmija:</STRONG> polišu atskaite par&nbsp;noteiktu apdrošināšanas prēmijas apjomu;</P>
-<P><STRONG>Valūta:</STRONG> apdrošināšanas prēmijas valūta;</P>
-<P><STRONG>Auto rēģ.nr.:</STRONG> automašīnas reģistrācijas numurs;</P>
-<P><STRONG>Automašīna:</STRONG>&nbsp;automašīnas marka;</P>
-<P><STRONG>Statuss:</STRONG> atskaite pēc viena konkrēta polises statusa (Izrakstītas, Noliktavā, Pārtrauktas, Pie brokera, Sabojātas);</P>
-<P><STRONG>Atjaun.līg.veids:</STRONG> atjaunots līguma veids (Jā, Nē);</P>
-<P><STRONG>Atjaunota polise:</STRONG> atskaite par atjaunotām vai neatjaunotām polisēm.</P>
-<P>Lai atvērtu papiluds filtra kritērijus, nepieciešams nospiest uz Filtra ekrāna formā redzamo papildus filtra pogu (<IMG src="/help/Skin/help/img.aspx?pid=24535" border=0>). Papildus filtrā iespējams atlasīt datus pēc šādiem kritērijiem:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25915" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Lauks:</STRONG> polišu atskaite par izvēlētu konkrētu informāciju no <A href="/help/?ssw=65&amp;skf_id=6510">polises</A> "Labot" sadaļas <IMG src="/help/Skin/help/img.aspx?pid=26004" border=0> pievienotās informācijas;</P>
-<P><STRONG>Vērtība:</STRONG> izvēlētā papildlauka vērtība;</P>
-<P><STRONG>Apmaksas term.:</STRONG> polišu rēķinu apmaksas termiņš;</P>
-<P><STRONG>Saņemts nol.:</STRONG> datums vai termiņš, kad polises saņemtas noliktavā;</P>
-<P><STRONG>Izdota aģentam:</STRONG> datums, kad polises izdotas termiņš;</P>
-<P><STRONG>Īpašnieks:</STRONG> atskaite par izvēlēta īpašnieka polisēm;</P>
-<P><STRONG>Turētājs:</STRONG> atskaite par izvēlēta turētāja polisēm;</P>
-<P><STRONG>Apdroš.summa:</STRONG> atskaite par noteiktas apdrošināšanas summas polisēm;</P>
-<P><STRONG>Atlaide %:</STRONG> atskaite par polisēm ar noteiktu procentu atlaidi;</P>
-<P><STRONG>Auto.izlaid.gads:</STRONG> noteikts automašīnu izlaiduma gads;</P>
-<P><STRONG>Reģ.apliec.nr.:</STRONG> automašīnas reģistrācijas apliecības numurs;</P>
-<P><STRONG>Sērija:</STRONG> reģistrācijas apliecības sērija;</P>
-<P><STRONG>Brokera kom.proc.:</STRONG> atskaite par noteiktu brokera komisijas procentu;</P>
-<P><STRONG>Piesaist.kom.proc.:</STRONG> atskaite par noteiktu piesaistītāja komisijas procentu;</P>
-<P><STRONG>Uzņ.kom.proc.:</STRONG> noteikts uzņēmuma komisijas procents;</P>
-<P><STRONG>Auto.šasijas nr.:</STRONG> automašīnas šasijas numurs;&nbsp;</P>
-<P><STRONG>Apmaksa uz:</STRONG> noteikts polišu apmaksas datums;</P>
-<P><STRONG>Atšķiras polises apdrošināšanas prēmija no maksājumu plāna:</STRONG> atlasīt polises, kurām apdrošināšanas prēmija atšķiras no maksājuma plāna summas;</P>
-<P><STRONG>Polises dati nesakrīt ar POP grāmatojumā esošiem datiem:</STRONG> atlasīt polises, kurām polisei pievienotie dati nesakrīt ar polises parakstīšans (POP) datiem ( piemēram, mainīts polises darbības termiņš, prēmijas summa...);</P>
-<P><STRONG>Atlasīt dublikātus:</STRONG> </P>
-<P>Lai saglabātu papildus filtra izvēlētos&nbsp;atlases&nbsp;kritērijus, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>, un filtra logā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25619" border=0>.</P>
-<P>Sagatavotos atskaites datus ir iespējams arī izdrukāt. Lai drukātu datus, rīko joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=24944" border=0> (Ctrl+P), un tad poga <IMG src="/help/Skin/help/img.aspx?pid=25620" border=0>.</P> 
+.. 6513 ===================Polišu atskaite=================== 
+Polišu atskaite ir paredzēta, lai varētu atasīt polišu līgumus pēc
+uzstādītiem atlases kritērijiem. Šajā atskaitē nav iegūstami dati par
+aprēķinātajām komisijas summām.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( ). Izvēloties izveidoto filtra
+sagatavi ( ), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā
+jānospiež poga (Ctrl+F), tiek atvērts filtra logs:
+
+
+
+
+
+
+
+Uzņēmums: uzņēmums, par kuru tiks sagatavota atskaite;
+
+Apdroš.v.: polišu atskaites sagatavošanai par vienu apdrošināšanas
+veidu;
+
+Apdroš.sab.: atskaite par vienu apdrošināšanas sabiedrību;
+
+Brokeris: atskaite parizvēlētu brokeri;
+
+Asistents: atskaite par izvēlētu asistentu;
+
+Piesaistītājs: atskaite par izvēlētu piesaistītāju;
+
+Apdr.ņēmējs: atskaite par apdrošināšanas ņēmēju;
+
+Izdošanas dat.: polišu izdošanas datums vai periods;
+
+Sākuma dat.: polišu darbības sākuma datums vai periods;
+
+Beigu dat.: polišu darbības beigu datums;
+
+Pārtr.datums: pārtraukto polišu datums vai periods;
+
+Apdroš.prēmija: polišu atskaite parnoteiktu apdrošināšanas prēmijas
+apjomu;
+
+Valūta: apdrošināšanas prēmijas valūta;
+
+Auto rēģ.nr.: automašīnas reģistrācijas numurs;
+
+Automašīna: automašīnas marka;
+
+Statuss: atskaite pēc viena konkrēta polises statusa (Izrakstītas,
+Noliktavā, Pārtrauktas, Pie brokera, Sabojātas);
+
+Atjaun.līg.veids: atjaunots līguma veids (Jā, Nē);
+
+Atjaunota polise: atskaite par atjaunotām vai neatjaunotām polisēm.
+
+Lai atvērtu papiluds filtra kritērijus, nepieciešams nospiest uz
+Filtra ekrāna formā redzamo papildus filtra pogu ( ). Papildus filtrā
+iespējams atlasīt datus pēc šādiem kritērijiem:
+
+
+
+
+
+
+
+Lauks: polišu atskaite par izvēlētu konkrētu informāciju no `polises`_
+"Labot" sadaļas pievienotās informācijas;
+
+Vērtība: izvēlētā papildlauka vērtība;
+
+Apmaksas term.: polišu rēķinu apmaksas termiņš;
+
+Saņemts nol.: datums vai termiņš, kad polises saņemtas noliktavā;
+
+Izdota aģentam: datums, kad polises izdotas termiņš;
+
+Īpašnieks: atskaite par izvēlēta īpašnieka polisēm;
+
+Turētājs: atskaite par izvēlēta turētāja polisēm;
+
+Apdroš.summa: atskaite par noteiktas apdrošināšanas summas polisēm;
+
+Atlaide %: atskaite par polisēm ar noteiktu procentu atlaidi;
+
+Auto.izlaid.gads: noteikts automašīnu izlaiduma gads;
+
+Reģ.apliec.nr.: automašīnas reģistrācijas apliecības numurs;
+
+Sērija: reģistrācijas apliecības sērija;
+
+Brokera kom.proc.: atskaite par noteiktu brokera komisijas procentu;
+
+Piesaist.kom.proc.: atskaite par noteiktu piesaistītāja komisijas
+procentu;
+
+Uzņ.kom.proc.: noteikts uzņēmuma komisijas procents;
+
+Auto.šasijas nr.: automašīnas šasijas numurs;
+
+Apmaksa uz: noteikts polišu apmaksas datums;
+
+Atšķiras polises apdrošināšanas prēmija no maksājumu plāna: atlasīt
+polises, kurām apdrošināšanas prēmija atšķiras no maksājuma plāna
+summas;
+
+Polises dati nesakrīt ar POP grāmatojumā esošiem datiem: atlasīt
+polises, kurām polisei pievienotie dati nesakrīt ar polises
+parakstīšans (POP) datiem ( piemēram, mainīts polises darbības
+termiņš, prēmijas summa...);
+
+Atlasīt dublikātus:
+
+Lai saglabātu papildus filtra izvēlētosatlaseskritērijus, jānospiež
+poga , un filtra logā jānospiež poga .
+
+Sagatavotos atskaites datus ir iespējams arī izdrukāt. Lai drukātu
+datus, rīko joslā jānospiež poga (Ctrl+P), un tad poga .
+
+ 

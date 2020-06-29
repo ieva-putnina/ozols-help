@@ -1,11 +1,41 @@
-.. 634 ============Tautības============ <p>Lai pievienotu jaunu Tautību sarakstam, Rīku joslā jānospiež poga <img src="/help/Skin/help/img.aspx?pid=25417" border="0">, tiek atvērts logs:</p><p><br></p>
-<p>&nbsp;<img src="/help/Skin/help/img.aspx?pid=26532" border="0"></p><p><br>
-</p><p><strong>Vīriešu:</strong> vīriešu tautība</p>
-<p><strong>Sieviešu</strong>: sieviešu tautība</p><p>Tautību saraksts tiek veidots gan vīriešu gan sieviešu dzimtā.</p>
-<p>Kad ir ierakstīta attiecīgā tautība,jānospiež poga <img src="/help/Skin/help/img.aspx?pid=24615" border="0">.</p><p><br></p><p>Tautību sarakstu izmanto veidojot <a href="/help/?ssw=33&amp;skf_id=103">Valstu sarakstu</a>, kur iespējams norādīt tautību:</p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26533" border="0"><br></p>
-<p>&nbsp;</p>
-<p>Arī <a href="/help/?ssw=33&amp;skf_id=312">Partnera</a> aprakstā ir iespējams norādīt tautību:</p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26534" border="0"><br></p> 
+.. 634 ============Tautības============ 
+Lai pievienotu jaunu Tautību sarakstam, Rīku joslā jānospiež poga ,
+tiek atvērts logs:
+
+
+
+
+
+
+
+
+
+Vīriešu: vīriešu tautība
+
+Sieviešu : sieviešu tautība
+
+Tautību saraksts tiek veidots gan vīriešu gan sieviešu dzimtā.
+
+Kad ir ierakstīta attiecīgā tautība,jānospiež poga .
+
+
+
+
+Tautību sarakstu izmanto veidojot `Valstu sarakstu`_, kur iespējams
+norādīt tautību:
+
+
+
+
+
+
+
+
+Arī `Partnera`_ aprakstā ir iespējams norādīt tautību:
+
+
+
+
+
+
+ 

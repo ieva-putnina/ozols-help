@@ -1,8 +1,36 @@
-.. 14094 =====================================================Novērotās problēmas programmas atjaunošanas laikā===================================================== <P>&nbsp;</P>
-<P>1.&nbsp;<A href="/help/?ssw=33&amp;skf_id=735">Darba izpildes loga</A>&nbsp;JOB izpildes aprakstā&nbsp;kolonnā <STRONG>Rezultāts</STRONG> rāda , ka JOB solis izpildās, bet paziņojums ir ilgu laika sprīdi . Parasti viss programmas atjaunošanas un datu bāzes modifikācijas cikls izpildās 10 – 15 minūtes, maksimāli 30 minūtes, atkarīgs no servera parametriem, Interneta pieslēguma ātruma. </P>
-<P><BR><STRONG>Risinājums:</STRONG> Jāpārbauda, vai uz servera, lokālā datora (ja SQL datu bāze ir uz lokāla datora) ir atļauta skriptu izpilde. Skriptu izpildi var aizliegt Antivīrusu programmas.</P>
-<P><BR>2.&nbsp;<A href="/help/?ssw=33&amp;skf_id=735">Darba izpildes logā</A>&nbsp; parādās informācija, ka JOB neizpildās, pēdējā izpildes solī kļūda:</P>
-<P><BR>a)&nbsp;Otrajā solī paziņojums Neizdevās ielādēt failu ozols.arh !</P>
-<P><BR><STRONG>Risinājums:</STRONG> Jāpārbauda vai uz servera ir piereģistrēts MSDAIPP.DLL un msdaurl.dll </P>
-<P><BR>b)&nbsp;Trešajā solī paziņojums Nav pareizi norādīts programmas ozols.exe katalogs ! </P>
-<P><BR><STRONG>Risinājums:</STRONG> Jāpārbauda , vai ir pareizi norādīts klienta programmas atjaunošanas&nbsp; katalogs. Vai JOB īpašniekam ir tiesības ierakstīt dotajā katalogā.<BR></P> 
+.. 14094 =====================================================Novērotās problēmas programmas atjaunošanas laikā===================================================== 
+
+
+1.`Darba izpildes loga`_JOB izpildes aprakstākolonnā Rezultāts rāda ,
+ka JOB solis izpildās, bet paziņojums ir ilgu laika sprīdi . Parasti
+viss programmas atjaunošanas un datu bāzes modifikācijas cikls
+izpildās 10 – 15 minūtes, maksimāli 30 minūtes, atkarīgs no servera
+parametriem, Interneta pieslēguma ātruma.
+
+
+Risinājums: Jāpārbauda, vai uz servera, lokālā datora (ja SQL datu
+bāze ir uz lokāla datora) ir atļauta skriptu izpilde. Skriptu izpildi
+var aizliegt Antivīrusu programmas.
+
+
+2.`Darba izpildes logā`_ parādās informācija, ka JOB neizpildās,
+pēdējā izpildes solī kļūda:
+
+
+a)Otrajā solī paziņojums Neizdevās ielādēt failu ozols.arh !
+
+
+Risinājums: Jāpārbauda vai uz servera ir piereģistrēts MSDAIPP.DLL un
+msdaurl.dll
+
+
+b)Trešajā solī paziņojums Nav pareizi norādīts programmas ozols.exe
+katalogs !
+
+
+Risinājums: Jāpārbauda , vai ir pareizi norādīts klienta programmas
+atjaunošanas katalogs. Vai JOB īpašniekam ir tiesības ierakstīt dotajā
+katalogā.
+
+
+ 

@@ -1,5 +1,14 @@
-.. 6911 ============Tvertnes============ <P>Tvertņu sarakstā redzamas visas Klientu tvertnes:</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25577" border=0></P>
-<P>&nbsp;</P>
-<P>Tvertņu sarakstā iespējams atlasīt vienas noteiktas Adreses visas tvertnes.</P>
-<P>Lai pievienotu jaunu Tvertni sarakstam, jāiet uz Degvielas pasūtījumu sadaļu <A href="/help/?ssw=69&amp;skf_id=6909">Jauns</A> un jāizvēlas <A href="/help/?ssw=69&amp;skf_id=6909">Tvertne</A>.</P> 
+.. 6911 ============Tvertnes============ 
+Tvertņu sarakstā redzamas visas Klientu tvertnes:
+
+
+
+
+
+Tvertņu sarakstā iespējams atlasīt vienas noteiktas Adreses visas
+tvertnes.
+
+Lai pievienotu jaunu Tvertni sarakstam, jāiet uz Degvielas pasūtījumu
+sadaļu `Jauns`_ un jāizvēlas `Tvertne`_.
+
+ 

@@ -1,1 +1,2 @@
-.. 5260 ============Iespējas============  .. toctree::   :maxdepth: 4    5259.rst   5283.rst
+.. 5260 ============Iespējas============ 
+ .. toctree::   :maxdepth: 4    5259.rst   5283.rst

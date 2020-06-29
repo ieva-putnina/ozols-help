@@ -1,7 +1,22 @@
-.. 4457 =============================Nomenklatūras apgrozījums============================= <P>&nbsp;</P>
-<P>Nomenklatūras apgrozījuma atskaite&nbsp;parāda&nbsp;krājumu sākuma atlikumus, apgrozījuma un beigu atlikumus, atbilstoši izvēlētajiem filtra kritērijiem:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25823" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Atskaitē sagatavojamos dati tiks attēloti sagrupēti, ja tiks atzīmēta kāda no izvēles rūtiņām "Grupēt pēc nomenklatūras", "Grupēt pēc nomenklatūras grupas". </P>
-<P>Lai atskaitē netiktu iekļauti nomenklatūras ieraksti, kuriem filtrā norādītajā periodā nav bijis apgrozījums, nepieciešams atzīmēt izvēles rūtiņu: "Nerādīt nomenklatūras bez atlikumiem".</P> 
+.. 4457 =============================Nomenklatūras apgrozījums============================= 
+
+
+Nomenklatūras apgrozījuma atskaiteparādakrājumu sākuma atlikumus,
+apgrozījuma un beigu atlikumus, atbilstoši izvēlētajiem filtra
+kritērijiem:
+
+
+
+
+
+
+
+Atskaitē sagatavojamos dati tiks attēloti sagrupēti, ja tiks atzīmēta
+kāda no izvēles rūtiņām "Grupēt pēc nomenklatūras", "Grupēt pēc
+nomenklatūras grupas".
+
+Lai atskaitē netiktu iekļauti nomenklatūras ieraksti, kuriem filtrā
+norādītajā periodā nav bijis apgrozījums, nepieciešams atzīmēt izvēles
+rūtiņu: "Nerādīt nomenklatūras bez atlikumiem".
+
+ 

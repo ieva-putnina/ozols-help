@@ -1,16 +1,48 @@
-.. 101 ==================Banku saraksts================== <p>&nbsp;</p>
-<p>Banku saraksts satur maksājuma dokumentu veidošanai nepieciešamo informāciju par bankām Latvijā un ārvalstīs. Banku saraksts tiek komplektēts kopā ar jaunu datu bāzi, bet to var papildināt un labot. Informācija par bankām tiek izmantota pievienojot partneru rekvizītus un uzņēmuma banku kontus.</p>
-<h4>Jaunas Bankas pievienošana sarakstā:</h4>
-<p>Lai pievienotu jaunu&nbsp;Bankas aprakstu, rīku joslā jānospiež poga&nbsp;<img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiks atvērts jauns logs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24670" border="0"></p>
-<p>&nbsp;</p>
-<p>Laukā Kods, nepieciešams ierakstīts Bankas kods, Laukā Nosaukums -&nbsp;Bankas nosaukumu, Laukā Bankas kods - Bankas kodu, Laukā Tips - norādīt nepieciešamo <a href="/help/?ssw=33&amp;skf_id=118">Bankas kodu tipu</a>. </p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24672" border="0"></p>
-<p>&nbsp;</p>
-<p>Atzīmējot šo izvēles rūtiņu, tiek nodrošināts, lai ievadītajai bankai tiktu izmantoti konti tikai IBAN formātā (ES valstu vienotā kontu numerācijas sistēma, kuru izmanto Eiropas valstis), </p>
-<p>Ieraksts tiks saglabāts, izpildot komandu <img src="/help/Skin/help/img.aspx?pid=24615" border="0">.</p>
-<h4>Pievienotās Bankas apraksta labošana:</h4>
-<p>Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24709" border="0">&nbsp;(ALT+A).</p>
-<p>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p> 
+.. 101 ==================Banku saraksts================== 
+
+
+Banku saraksts satur maksājuma dokumentu veidošanai nepieciešamo
+informāciju par bankām Latvijā un ārvalstīs. Banku saraksts tiek
+komplektēts kopā ar jaunu datu bāzi, bet to var papildināt un labot.
+Informācija par bankām tiek izmantota pievienojot partneru rekvizītus
+un uzņēmuma banku kontus.
+
+
+Jaunas Bankas pievienošana sarakstā:
+````````````````````````````````````
+
+Lai pievienotu jaunuBankas aprakstu, rīku joslā jānospiež poga un tiks
+atvērts jauns logs:
+
+
+
+
+
+
+
+Laukā Kods, nepieciešams ierakstīts Bankas kods, Laukā Nosaukums
+-Bankas nosaukumu, Laukā Bankas kods - Bankas kodu, Laukā Tips -
+norādīt nepieciešamo `Bankas kodu tipu`_.
+
+
+
+
+
+
+
+Atzīmējot šo izvēles rūtiņu, tiek nodrošināts, lai ievadītajai bankai
+tiktu izmantoti konti tikai IBAN formātā (ES valstu vienotā kontu
+numerācijas sistēma, kuru izmanto Eiropas valstis),
+
+Ieraksts tiks saglabāts, izpildot komandu .
+
+
+Pievienotās Bankas apraksta labošana:
+`````````````````````````````````````
+
+Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
+atvērt, izmantojot rīku joslas pogu (ALT+A).
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+ 

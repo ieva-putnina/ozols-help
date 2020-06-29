@@ -1,8 +1,38 @@
-.. 42 ===========Krājumi=========== <P>Krājumu modulis paredzēts materiālo vērtību uzskaitei pa daudzumiem un summām. Krājumu uzskaites datus veido dokumenti, kas parāda krājumu kustību uzņēmuma iekšienē, un grāmatojumi. </P>
-<H5>Krājumi nodrošina:</H5>
-<UL>
-<LI>Krājumu uzskaiti pa struktūrvienībām, atrašanās vietām, krājumu kategorijām (grupām) un atbildīgajām personām. Programma nodrošina krājumu uzskaiti pa vairākiem datu uzskaites kritērijiem. Tiek uzturēti brīvi definējami hierarhiski objektu, struktūrvienību un krājumu kategoriju saraksti, ar kuru palīdzību var sistematizēt un detalizēt krājumu uzskaiti. Katram krājuma atlikumam var definēt materiāli atbildīgo personu.</LI>
-<LI>Krājumu uzskaites dokumentu veidošanu<BR>Krājumu programmā paredzēta krājumu ienākšanas un norakstīšanas dokumentu veidošana. Krājumus var pārvērtēt vai pārsūtīt starp struktūrvienībām, atrašanās vietām vai atbildīgajām personām.</LI>
-<LI>Krājumu uzskaites kartītes izdruku<BR>Visi krājumu dati – summas un daudzumi, krājuma apraksts tiek saglabāts krājumu žurnālā, kuru veido krājumu uzskaites kartītes. Krājumu uzskaites kartītēs parādās visas krājumu kustības summas un daudzumi, kas ir pievienoti ar dokumentu palīdzību.</LI>
-<LI>Krājumu atskaišu un izdruku iegūšanu<BR>Krājumu apgrozījuma, atlikumu un kustības atskaites ir iegūstamas par jebkuru norādīto atskaites periodu, katrai struktūrvienībai un objektam atsevišķi vai atbilstoši izvēlētajiem datu atlases kritērijiem – visiem kopā. Atskaites var pasūtīt atsevišķiem krājumu kontiem, kā arī izvēlēties dažādus citus datu atlases kritērijus. Ir pieejams krājumu inventarizācijas saraksts un pieņemšanas- nodošanas aktu izdrukas.</LI></UL>
-<P>&nbsp;</P> .. toctree::   :maxdepth: 6    79.rst   69.rst   854.rst   66.rst
+.. 42 ===========Krājumi=========== 
+Krājumu modulis paredzēts materiālo vērtību uzskaitei pa daudzumiem un
+summām. Krājumu uzskaites datus veido dokumenti, kas parāda krājumu
+kustību uzņēmuma iekšienē, un grāmatojumi.
+
+
+Krājumi nodrošina:
+++++++++++++++++++
+
+
++ Krājumu uzskaiti pa struktūrvienībām, atrašanās vietām, krājumu
+  kategorijām (grupām) un atbildīgajām personām. Programma nodrošina
+  krājumu uzskaiti pa vairākiem datu uzskaites kritērijiem. Tiek
+  uzturēti brīvi definējami hierarhiski objektu, struktūrvienību un
+  krājumu kategoriju saraksti, ar kuru palīdzību var sistematizēt un
+  detalizēt krājumu uzskaiti. Katram krājuma atlikumam var definēt
+  materiāli atbildīgo personu.
++ Krājumu uzskaites dokumentu veidošanu Krājumu programmā paredzēta
+  krājumu ienākšanas un norakstīšanas dokumentu veidošana. Krājumus var
+  pārvērtēt vai pārsūtīt starp struktūrvienībām, atrašanās vietām vai
+  atbildīgajām personām.
++ Krājumu uzskaites kartītes izdruku Visi krājumu dati – summas un
+  daudzumi, krājuma apraksts tiek saglabāts krājumu žurnālā, kuru veido
+  krājumu uzskaites kartītes. Krājumu uzskaites kartītēs parādās visas
+  krājumu kustības summas un daudzumi, kas ir pievienoti ar dokumentu
+  palīdzību.
++ Krājumu atskaišu un izdruku iegūšanu Krājumu apgrozījuma, atlikumu
+  un kustības atskaites ir iegūstamas par jebkuru norādīto atskaites
+  periodu, katrai struktūrvienībai un objektam atsevišķi vai atbilstoši
+  izvēlētajiem datu atlases kritērijiem – visiem kopā. Atskaites var
+  pasūtīt atsevišķiem krājumu kontiem, kā arī izvēlēties dažādus citus
+  datu atlases kritērijus. Ir pieejams krājumu inventarizācijas saraksts
+  un pieņemšanas- nodošanas aktu izdrukas.
+
+
+
+
+ .. toctree::   :maxdepth: 6    79.rst   69.rst   854.rst   66.rst

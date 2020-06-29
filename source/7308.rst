@@ -1,12 +1,38 @@
-.. 7308 ============Notikums============ <P>Jauns notikums tiek pievienots un saglabājas/attēlots <A href="/help/?ssw=73&amp;skf_id=7323">Kalendārajā plānā</A>.</P>
-<P>Lai pievienotu jaunu notikumu, atveras loga Apraksta sadaļa:</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26168" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Pasākums:</STRONG> nospiežot nodefinēto pasākumu saraksta pogu, atveras nodefinētais nosaukumu <A href="/help/?ssw=73&amp;skf_id=7312">saraksts</A>, no kura jāizvēlas attiecīgais notikuma nosaukums;</P>
-<P><STRONG>Darbība:</STRONG> notikuma darbība. Nospiežot bultiņu, iespējams no saraksta izvēlēties sarakstā nodefinētu <A href="/help/?ssw=73&amp;skf_id=7316">darbību</A>. Ja nepieciešams pievienot jaunu darbību, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=26169" border=0>, un jāpievieno sarakstam <A href="/help/?ssw=73&amp;skf_id=7307">jauna darbība</A>;</P>
-<P><STRONG>Telpa:</STRONG> notikuma telpa. Nospiežot bultiņu, no saraksta jāizvēlas attiecīgi nodefinētā <A href="/help/?ssw=73&amp;skf_id=7315">telpa</A>. Ja nepieciešams pievienot jaunu telpu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=26169" border=0>&nbsp;un jāpievieno sarakstam <A href="/help/?ssw=73&amp;skf_id=7306">jaunu telpu</A>;</P>
-<P><STRONG>Laiks:</STRONG> notikuma datums un laiks no līdz. Lai izvēlētos datumu, jānospiež un kalendāra podziņa <IMG src="/help/Skin/help/img.aspx?pid=25560" border=0>&nbsp;un jānorāda datums. Laiks jāpievieno manuāli;</P>
-<P><STRONG>Tehniskās vajadzības:</STRONG> ja nepieciešams, notikumam tiek norādītas tehniskās vajadzības, tāpat arī <STRONG>Piezīmes</STRONG>.</P>
-<P>Tad,&nbsp;kad Apraksta ieraksti pievienoti, jāatver notikuma sadaļa Dalībnieki <IMG src="/help/Skin/help/img.aspx?pid=26164" border=0>:</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P> 
+.. 7308 ============Notikums============ 
+Jauns notikums tiek pievienots un saglabājas/attēlots `Kalendārajā
+plānā`_.
+
+Lai pievienotu jaunu notikumu, atveras loga Apraksta sadaļa:
+
+
+
+
+
+Pasākums: nospiežot nodefinēto pasākumu saraksta pogu, atveras
+nodefinētais nosaukumu `saraksts`_, no kura jāizvēlas attiecīgais
+notikuma nosaukums;
+
+Darbība: notikuma darbība. Nospiežot bultiņu, iespējams no saraksta
+izvēlēties sarakstā nodefinētu `darbību`_. Ja nepieciešams pievienot
+jaunu darbību, jānospiež poga , un jāpievieno sarakstam `jauna
+darbība`_;
+
+Telpa: notikuma telpa. Nospiežot bultiņu, no saraksta jāizvēlas
+attiecīgi nodefinētā `telpa`_. Ja nepieciešams pievienot jaunu telpu,
+jānospiež poga un jāpievieno sarakstam `jaunu telpu`_;
+
+Laiks: notikuma datums un laiks no līdz. Lai izvēlētos datumu,
+jānospiež un kalendāra podziņa un jānorāda datums. Laiks jāpievieno
+manuāli;
+
+Tehniskās vajadzības: ja nepieciešams, notikumam tiek norādītas
+tehniskās vajadzības, tāpat arī Piezīmes .
+
+Tad,kad Apraksta ieraksti pievienoti, jāatver notikuma sadaļa
+Dalībnieki :
+
+
+
+
+
+ 

@@ -1,57 +1,173 @@
-.. 45 =================Pamatlīdzekļi================= <P> </P>
-<P>Pamatlīdzekļu uzskaites modulis paredzēts uzņēmuma pamatlīdzekļu un nemateriālo aktīvu uzskaitei un pārskatu, atskaišu sagatavošanai.</P>
-<P>Pamatlīdzekļu modulis nodrošina:</P>
-<P> </P>
-<UL>
-<LI>Pamatlīdzekļu uzskaiti pa uzņēmumā izmantotajiem klasifikatoriem; 
-<LI>Pamatlīdzekļu uzskaites dokumentu veidošanu un grāmatošanu; 
-<LI>Atskaišu un pārskatu sagatavošanu pēc lietotāja norādītiem atlases un grupēšanas kritērijiem; 
-<LI>Pamatlīdzekļu uzskaites kartītes izdruku; 
-<LI>Pamatlīdzekļu nolietojuma aprēķinu finanšu un nodokļu vajadzībām</LI></UL>
-<H5><BR>Pamatlīdzekļu uzskaiti pa uzņēmumā izmantotajiem klasifikatoriem</H5>
-<P> </P>
-<P>Programma piedāvā iespēju uzņēmuma pamatlīdzekļus uzskaitīt, izmantojot pamatlīdzekļu kategorijas, objektus, materiāli atbildīgās personas un citus parametrus Pamatlīdzekļus un ar to saistītajos dokumentos esošo informāciju (piemēram pamatlīdzekļu nolietojumu) programmā ir iespējams redzēt sadalījumā pa uzņēmumā izmantotām dimensijām, kā piemēram, ekonomiskās klasifikācijas kodi, valdības funkciju klasifikācija, budžeti, projekti, finansējumi, u.c.; Klasifikatoru izmantošana pamatlīdzekļu uzskaitē, ļauj uzņēmuma grāmatvedim  ātri un kvalitatīvi iegūt plašu un detalizētu informāciju par pamatlīdzekļu kustību uzņēmumā.</P>
-<P> </P>
-<H5>Pamatlīdzekļu uzskaites dokumentu veidošanu un grāmatošanu</H5>
-<P> </P>
-<P>Sistēmā iespējams veidot šādus pamatlīdzekļu uzskaites dokumentus:</P>
-<P> </P>
-<UL>
-<LI>pamatlīdzekļu sākuma atlikumi; 
-<LI>pamatlīdzekļu iegāde; (programma piedāvā pamatlīdzekļu iegādes-ienākšanas dokumentu izveidot automātiski no norēķinu (iepirkuma) dokumenta). Pamatlīdzekļu iegādes dokumenta dati veido pamatlīdzekļu kartiņu. Ja uzņēmumā tiek iegādāti vairāki pamatlīdzekļi, kuri pēc savas būtības ir vienādi (piemēram vienāds apraksts, iegādes summa, derīguma termiņš), tādā gadījumā ir iespējams no viena pamatlīdzekļu dokumenta izveidot uzreiz automātiski vairākas pamatlīdzekļu kartiņas; 
-<LI>pamatlīdzekļu nolietojums. Nolietojumu iespējams aprēķināt gan finanšu, gan nodokļu vajadzībā. Finanšu nolietojums tiek aprēķināts pēc uzņēmumā izmantotās metodes – lineārās vai ģeometriski degresīvās; 
-<LI>pamatlīdzekļu papildināšana; 
-<LI>pamatlīdzekļu pārvietošana. Pamatlīdzekli iespējams pārvietot starp uzņēmumā izmantotiem uzskaites kritērijiem (piem. starp kategorijām, budžetiem, finansējumiem, atbildīgajām personām u.c.); 
-<LI>pamatlīdzekļu pārvērtēšana; 
-<LI>pamatlīdzekļu derīgās lietošanas termiņa maiņa; 
-<LI>pamatlīdzekļu likvidācijas vērtības korekcija; 
-<LI>pamatlīdzekļu sadale; 
-<LI>pamatlīdzekļu norakstīšana. Pamatlīdzekli iespējams norakstīt pēc pamatlīdzekļa atlikušās vērtības, pamatlīdzekļa uzskaites vērtības vai pamatlīdzekļa uzkrāta nolietojuma. Finanšu datos pamatlīdzekļa norakstīšana ir veicama ātri un kvalitatīvi izmantojot grāmatojumu šablonus.</LI></UL>
-<P> </P>
-<P>Ar pamatlīdzekļiem saistītajos dokumentos tiek fiksētas visas pamatlīdzekļu uzskaites summas, un pievienotie dokumentu dati veido pamatlīdzekļu atskaites.  Visus augstākminētos izveidotos dokumentus ir iespējams grāmatot, izmantojot grāmatojumu šablonus. Grāmatojumu šablonus ir iespējams veidot un definēt katram grāmatvedim pašam atbilstoši uzņēmuma saimnieciskajai darbībai. Visus ar pamatlīdzekļa uzskaiti saistītos dokumentus ir iespējams izdrukāt vai sūtīt uz Microsoft Excel vai citu datu apmaiņas formātu (CSV – Comma seperated value – ar komatu atdalīti dati; universāls datu apmaiņas standarts, Tab delimited - ar TAB simbolu atdalīti dati; universāls datu apmaiņas standarts, TXT – rezultātu izdruka teksta failā, DBF – Microsoft FoxPro formāts).</P>
-<H5><BR>Atskaišu un pārskatu sagatavošanu pēc lietotāja norādītiem atlases un grupēšanas kritērijiem</H5>
-<P> </P>
-<P>Programmā var sagatavot ilgtermiņa ieguldījumu pārskatus, pamatlīdzekļu nolietojuma kopsavilkumu (nodokļiem). Pamatlīdzekļu uzskaites detalizācijai izmantojamas pamatlīdzekļu apgrozījuma, apgrozījuma kopsavilkuma un pamatlīdzekļu kustības atskaites. Var sagatavot inventarizācijas pārskatus, iegādes un norakstīšanas, un nolietojuma summu kopsavilkumus. Pamatlīdzekļu inventarizēšanai ir paredzēta iespēja izmantot uz HP/Compaq iPaq vai Dolphin platformas veidotus svītru kodu skenerus. Programmā ir iebūvētas pamatlīdzekļu pieņemšanas, norakstīšanas aktu izdrukas.</P>
-<P> </P>
-<UL>
-<LI>pamatlīdzekļu kartīte; 
-<LI>pamatlīdzekļu pieņemšana ekspluatācijā; 
-<LI>pamatlīdzekļu norakstīšanas akts; 
-<LI>pamatlīdzekļu apgrozījums; 
-<LI>pamatlīdzekļu dokumentu pārskats; 
-<LI>pamatlīdzekļu iegādes un norakstīšanas kopsavilkums; 
-<LI>pamatlīdzekļu inventarizācija; 
-<LI>pamatlīdzekļu kustības pārskats; 
-<LI>pamatlīdzekļu nolietojuma kopsavilkums; 
-<LI>pamatlīdzekļu pārskats; 
-<LI>pamatlīdzekļi vidējās vērtības pārskats; 
-<LI>simulācijas atskaite.</LI></UL>
-<P> </P>
-<P>Visi pamatlīdzekļu pārskati un atskaites tiek sagatavoti pamatojoties pēc atlases filtrā izvēlētiem kritērijiem. Jo vairāk informācijas tiks ievadīts sagatavojot pamatlīdzekļu dokumentus (piem. Ienākšanas, papildināšanas, nolietojuma u.c. dokumentā), jo detalizētāka un plašāka būs informācija, kuru varēs iegūt no izveidotajām pamatlīdzekļu atskaitēm.</P>
-<P> </P>
-<H5>Pamatlīdzekļu uzskaites kartītes izdruka</H5>
-<P> </P>
-<P>Pamatlīdzekļu uzskaites kartīte apkopo visu pievienoto informāciju par pamatlīdzekli, tai skaitā uzskaites vērtību, uzkrāto nolietojumu un atlikušo vērtību gan uzņēmuma finanšu uzskaites nolietojuma metodei, gan uzskaitei nodokļu aprēķinam. No kartītes ir atverami visi pamatlīdzeklim izveidotie dokumenti. Jebkuru pamatlīdzekļa kartīti ir iespējams izdrukāt vai sūtīt uz Microsoft Excel vai citu datu apmaiņas formātu (CSV – Comma seperated value – ar komatu atdalīti dati; universāls datu apmaiņas standarts, Tab delimited - ar TAB simbolu atdalīti dati; universāls datu apmaiņas standarts, TXT – rezultātu izdruka teksta failā, DBF – Microsoft FoxPro formāts).</P>
-<H5><BR>Pamatlīdzekļu nolietojuma aprēķinu finanšu un nodokļu vajadzībām</H5>
-<P> </P>
-<P>Lai programmā aprēķinātu pamatlīdzekļu nolietojumu ir jāizveido pamatlīdzekļu nolietojuma dokuments. Nolietojuma dokumenta aizpildīšana ir automatizēta. Nolietojumu var rēķināt neierobežotam laika periodam - mēnesim, ceturksnim, gadam. Pamatlīdzekļu nolietojumu var rēķināt vienam pamatlīdzeklim vai uzreiz visiem pamatlīdzekļiem kopā. Tāpat var rēķināt nolietojumu tikai konkrētai kategorijai, pēc atbildīgās personas, vai arī pēc jebkuras no citām dimensijām, kuru uzņēmums izmanto savas saimnieciskajā darbības veikšanai. Nolietojuma metodes un likmes tiek piemērotas no pamatlīdzekļa kategorijas apraksta.</P> .. toctree::   :maxdepth: 6    78.rst   58.rst   853.rst   9.rst
+.. 45 =================Pamatlīdzekļi================= 
+
+
+Pamatlīdzekļu uzskaites modulis paredzēts uzņēmuma pamatlīdzekļu un
+nemateriālo aktīvu uzskaitei un pārskatu, atskaišu sagatavošanai.
+
+Pamatlīdzekļu modulis nodrošina:
+
+
+
+
++ Pamatlīdzekļu uzskaiti pa uzņēmumā izmantotajiem klasifikatoriem;
++ Pamatlīdzekļu uzskaites dokumentu veidošanu un grāmatošanu;
++ Atskaišu un pārskatu sagatavošanu pēc lietotāja norādītiem atlases
+un grupēšanas kritērijiem;
++ Pamatlīdzekļu uzskaites kartītes izdruku;
++ Pamatlīdzekļu nolietojuma aprēķinu finanšu un nodokļu vajadzībām
+
+
+
+
+Pamatlīdzekļu uzskaiti pa uzņēmumā izmantotajiem klasifikatoriem
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Programma piedāvā iespēju uzņēmuma pamatlīdzekļus uzskaitīt,
+izmantojot pamatlīdzekļu kategorijas, objektus, materiāli atbildīgās
+personas un citus parametrus Pamatlīdzekļus un ar to saistītajos
+dokumentos esošo informāciju (piemēram pamatlīdzekļu nolietojumu)
+programmā ir iespējams redzēt sadalījumā pa uzņēmumā izmantotām
+dimensijām, kā piemēram, ekonomiskās klasifikācijas kodi, valdības
+funkciju klasifikācija, budžeti, projekti, finansējumi, u.c.;
+Klasifikatoru izmantošana pamatlīdzekļu uzskaitē, ļauj uzņēmuma
+grāmatvedim ātri un kvalitatīvi iegūt plašu un detalizētu informāciju
+par pamatlīdzekļu kustību uzņēmumā.
+
+
+
+
+Pamatlīdzekļu uzskaites dokumentu veidošanu un grāmatošanu
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Sistēmā iespējams veidot šādus pamatlīdzekļu uzskaites dokumentus:
+
+
+
+
++ pamatlīdzekļu sākuma atlikumi;
++ pamatlīdzekļu iegāde; (programma piedāvā pamatlīdzekļu iegādes-
+ienākšanas dokumentu izveidot automātiski no norēķinu (iepirkuma)
+dokumenta). Pamatlīdzekļu iegādes dokumenta dati veido pamatlīdzekļu
+kartiņu. Ja uzņēmumā tiek iegādāti vairāki pamatlīdzekļi, kuri pēc
+savas būtības ir vienādi (piemēram vienāds apraksts, iegādes summa,
+derīguma termiņš), tādā gadījumā ir iespējams no viena pamatlīdzekļu
+dokumenta izveidot uzreiz automātiski vairākas pamatlīdzekļu kartiņas;
++ pamatlīdzekļu nolietojums. Nolietojumu iespējams aprēķināt gan
+finanšu, gan nodokļu vajadzībā. Finanšu nolietojums tiek aprēķināts
+pēc uzņēmumā izmantotās metodes – lineārās vai ģeometriski degresīvās;
++ pamatlīdzekļu papildināšana;
++ pamatlīdzekļu pārvietošana. Pamatlīdzekli iespējams pārvietot starp
+uzņēmumā izmantotiem uzskaites kritērijiem (piem. starp kategorijām,
+budžetiem, finansējumiem, atbildīgajām personām u.c.);
++ pamatlīdzekļu pārvērtēšana;
++ pamatlīdzekļu derīgās lietošanas termiņa maiņa;
++ pamatlīdzekļu likvidācijas vērtības korekcija;
++ pamatlīdzekļu sadale;
++ pamatlīdzekļu norakstīšana. Pamatlīdzekli iespējams norakstīt pēc
+  pamatlīdzekļa atlikušās vērtības, pamatlīdzekļa uzskaites vērtības vai
+  pamatlīdzekļa uzkrāta nolietojuma. Finanšu datos pamatlīdzekļa
+  norakstīšana ir veicama ātri un kvalitatīvi izmantojot grāmatojumu
+  šablonus.
+
+
+
+
+Ar pamatlīdzekļiem saistītajos dokumentos tiek fiksētas visas
+pamatlīdzekļu uzskaites summas, un pievienotie dokumentu dati veido
+pamatlīdzekļu atskaites. Visus augstākminētos izveidotos dokumentus ir
+iespējams grāmatot, izmantojot grāmatojumu šablonus. Grāmatojumu
+šablonus ir iespējams veidot un definēt katram grāmatvedim pašam
+atbilstoši uzņēmuma saimnieciskajai darbībai. Visus ar pamatlīdzekļa
+uzskaiti saistītos dokumentus ir iespējams izdrukāt vai sūtīt uz
+Microsoft Excel vai citu datu apmaiņas formātu (CSV – Comma seperated
+value – ar komatu atdalīti dati; universāls datu apmaiņas standarts,
+Tab delimited - ar TAB simbolu atdalīti dati; universāls datu apmaiņas
+standarts, TXT – rezultātu izdruka teksta failā, DBF – Microsoft
+FoxPro formāts).
+
+
+
+Atskaišu un pārskatu sagatavošanu pēc lietotāja norādītiem atlases un
+grupēšanas kritērijiem
+++++++++++++++++++++++
+
+
+
+Programmā var sagatavot ilgtermiņa ieguldījumu pārskatus,
+pamatlīdzekļu nolietojuma kopsavilkumu (nodokļiem). Pamatlīdzekļu
+uzskaites detalizācijai izmantojamas pamatlīdzekļu apgrozījuma,
+apgrozījuma kopsavilkuma un pamatlīdzekļu kustības atskaites. Var
+sagatavot inventarizācijas pārskatus, iegādes un norakstīšanas, un
+nolietojuma summu kopsavilkumus. Pamatlīdzekļu inventarizēšanai ir
+paredzēta iespēja izmantot uz HP/Compaq iPaq vai Dolphin platformas
+veidotus svītru kodu skenerus. Programmā ir iebūvētas pamatlīdzekļu
+pieņemšanas, norakstīšanas aktu izdrukas.
+
+
+
+
++ pamatlīdzekļu kartīte;
++ pamatlīdzekļu pieņemšana ekspluatācijā;
++ pamatlīdzekļu norakstīšanas akts;
++ pamatlīdzekļu apgrozījums;
++ pamatlīdzekļu dokumentu pārskats;
++ pamatlīdzekļu iegādes un norakstīšanas kopsavilkums;
++ pamatlīdzekļu inventarizācija;
++ pamatlīdzekļu kustības pārskats;
++ pamatlīdzekļu nolietojuma kopsavilkums;
++ pamatlīdzekļu pārskats;
++ pamatlīdzekļi vidējās vērtības pārskats;
++ simulācijas atskaite.
+
+
+
+
+Visi pamatlīdzekļu pārskati un atskaites tiek sagatavoti pamatojoties
+pēc atlases filtrā izvēlētiem kritērijiem. Jo vairāk informācijas tiks
+ievadīts sagatavojot pamatlīdzekļu dokumentus (piem. Ienākšanas,
+papildināšanas, nolietojuma u.c. dokumentā), jo detalizētāka un
+plašāka būs informācija, kuru varēs iegūt no izveidotajām
+pamatlīdzekļu atskaitēm.
+
+
+
+
+Pamatlīdzekļu uzskaites kartītes izdruka
+++++++++++++++++++++++++++++++++++++++++
+
+
+
+Pamatlīdzekļu uzskaites kartīte apkopo visu pievienoto informāciju par
+pamatlīdzekli, tai skaitā uzskaites vērtību, uzkrāto nolietojumu un
+atlikušo vērtību gan uzņēmuma finanšu uzskaites nolietojuma metodei,
+gan uzskaitei nodokļu aprēķinam. No kartītes ir atverami visi
+pamatlīdzeklim izveidotie dokumenti. Jebkuru pamatlīdzekļa kartīti ir
+iespējams izdrukāt vai sūtīt uz Microsoft Excel vai citu datu apmaiņas
+formātu (CSV – Comma seperated value – ar komatu atdalīti dati;
+universāls datu apmaiņas standarts, Tab delimited - ar TAB simbolu
+atdalīti dati; universāls datu apmaiņas standarts, TXT – rezultātu
+izdruka teksta failā, DBF – Microsoft FoxPro formāts).
+
+
+
+Pamatlīdzekļu nolietojuma aprēķinu finanšu un nodokļu vajadzībām
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai programmā aprēķinātu pamatlīdzekļu nolietojumu ir jāizveido
+pamatlīdzekļu nolietojuma dokuments. Nolietojuma dokumenta
+aizpildīšana ir automatizēta. Nolietojumu var rēķināt neierobežotam
+laika periodam - mēnesim, ceturksnim, gadam. Pamatlīdzekļu nolietojumu
+var rēķināt vienam pamatlīdzeklim vai uzreiz visiem pamatlīdzekļiem
+kopā. Tāpat var rēķināt nolietojumu tikai konkrētai kategorijai, pēc
+atbildīgās personas, vai arī pēc jebkuras no citām dimensijām, kuru
+uzņēmums izmanto savas saimnieciskajā darbības veikšanai. Nolietojuma
+metodes un likmes tiek piemērotas no pamatlīdzekļa kategorijas
+apraksta.
+
+ .. toctree::   :maxdepth: 6    78.rst   58.rst   853.rst   9.rst

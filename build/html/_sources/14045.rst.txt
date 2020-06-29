@@ -1,10 +1,31 @@
-.. 14045 =================================Dokumentu veidošanas principi================================= <P>&nbsp;</P>
-<P>Grāmatvedības sistēmā Ozols datu uzskaite notiek veidojot pirmdokumentus un tos grāmatojot. Pirmdokuments var būt jebkurš dokuments, piemēram, maksājuma uzdevums, kases ieņēmumu vai izdevumu orderis, norēķina dokuments utt. Grāmatojums tiek veidots arī kā dokuments, kas tiek sasaistīts ar vienu pirmdokumentu.</P>
-<P>&nbsp;</P>
-<P>Dokumenti tiek sagrupēti dokumentu žurnālos. Dokumentu žurnāli ir pieejami no izvēlnes Dokumenti un tie sīkāk tiek sadalīti pēc operāciju nozīmes: Kase, Banka, Avansi, Norēķini, Preces, Grāmatojumi, Krājumi, Pamatlīdzekļi. Dokumentu žurnālos pievienotos dokumentus var labot vai dzēst.</P>
-<P>&nbsp;</P>
-<P><A href="/help/?ssw=33&amp;skf_id=14047">Dokumenta anulēšana</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14048">Dokumenta dzēšana</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14046">Dokumenta kopēšana</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14049">Dokumenta labošana</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14050">Jauna dokumenta pievienošana</A><BR></P> .. toctree::   :maxdepth: 5    14047.rst   14048.rst   14046.rst   14049.rst   14050.rst
+.. 14045 =================================Dokumentu veidošanas principi================================= 
+
+
+Grāmatvedības sistēmā Ozols datu uzskaite notiek veidojot
+pirmdokumentus un tos grāmatojot. Pirmdokuments var būt jebkurš
+dokuments, piemēram, maksājuma uzdevums, kases ieņēmumu vai izdevumu
+orderis, norēķina dokuments utt. Grāmatojums tiek veidots arī kā
+dokuments, kas tiek sasaistīts ar vienu pirmdokumentu.
+
+
+
+Dokumenti tiek sagrupēti dokumentu žurnālos. Dokumentu žurnāli ir
+pieejami no izvēlnes Dokumenti un tie sīkāk tiek sadalīti pēc
+operāciju nozīmes: Kase, Banka, Avansi, Norēķini, Preces, Grāmatojumi,
+Krājumi, Pamatlīdzekļi. Dokumentu žurnālos pievienotos dokumentus var
+labot vai dzēst.
+
+
+
+`Dokumenta anulēšana`_
+
+`Dokumenta dzēšana`_
+
+`Dokumenta kopēšana`_
+
+`Dokumenta labošana`_
+
+`Jauna dokumenta pievienošana`_
+
+
+ .. toctree::   :maxdepth: 5    14047.rst   14048.rst   14046.rst   14049.rst   14050.rst

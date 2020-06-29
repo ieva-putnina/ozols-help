@@ -1,30 +1,80 @@
-.. 5034 ========================Budžeta pieprasījums======================== <P>Kad budžeta pieprasījums ir saglabāts par konkrētu periodu konkrētam uzņēmumam un iesniegts pieprasījuma aizpildīšanai, nepieciešams norādīt dimensijas uz kurā tiks veidots budžata summas pieprasījuma ieņēmumi un izdevumi:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26302" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Budžata pieprasījuma dokuments:</STRONG> dokumenta numurs, periods par kuru tika pieprasīts budžets, dokumenta veids (BP-budžata pieprasījums), tiek aizpildīts.</P>
-<P><STRONG>EKK Ieņēmumu:</STRONG> janorāda budžeta ieņēmumu ekonomiskās klasifikācijas kods;</P>
-<P><STRONG>EKK Izdevumu:</STRONG> jānorāda budžeta izdevumu ekonomiskās klasifikācijas kods;</P>
-<P><STRONG>Finansēšana, bankas konts, struktūrvienība un salīdzināšanas periods.</STRONG></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Budžeta pieprasījuma aizpildīšanā jāaizpilda visi lauki, un uz vienu kontu var būt vairāki budžeti.</P>
-<P>&nbsp;</P>
-<P>Jānospiež poga Atlasīt, lai norādītu budžetu. Pēc budžeta norādīšanas, tiek attēlots saraksts ar ieņēmumu un izdevumu EK kodiem, sagrupētus uz augstākiem līmeņiem:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26305" border=0></P>
-<P>&nbsp;</P>
-<P>EKK, kuru cipari ir atdalīti ar punktiem, ir Ieņēmumi, bet EKK, kur ir skaitlis, ir Izdevumi.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Budžeta pieprasījuma ieņēmumu un izdevumu summai ir jāsakrīt, lai starpība būtu 0.00</P>
-<P>&nbsp;</P>
-<P><STRONG>x</STRONG> apzīmējumi pretī EKK norāda, ka uz šiem EKK ir iespējams aizpildīt budžeta pieprasījuma summas;</P>
-<P><STRONG>-</STRONG>&nbsp;apzīmējums, caur kuru iespējams atvērt un caur saraksta funkciju izdrukāt visu kopējo sagatvoto konkrētā budžeta pieprasījumu sarakstu - budžeta ieņēmum un izdevumu tāmi.</P>
-<P>&nbsp;</P>
-<P>Atverot konkrēto EK kodu caur x, jānorāda ieņēmumu budžeta summu un jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25799" border=0>. Tāpat jānorāda budžeta summu arī uz izdevumu EKK,&nbsp;un jāsaglabā.</P>
-<P>Rezultātā budžeta ieņēmumu un izdevumu summām ir jāsakrīt:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26308" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26310" border=0></P>
-<P>&nbsp;</P>
-<P>Budžeta pieprasījuma summas ir redzamas <A href="/help/?ssw=66&amp;skf_id=5035">budžeta pieprasījuma žurnālā</A> konkrētajam pieprasījumam.</P> .. toctree::   :maxdepth: 4    6663.rst
+.. 5034 ========================Budžeta pieprasījums======================== 
+Kad budžeta pieprasījums ir saglabāts par konkrētu periodu konkrētam
+uzņēmumam un iesniegts pieprasījuma aizpildīšanai, nepieciešams
+norādīt dimensijas uz kurā tiks veidots budžata summas pieprasījuma
+ieņēmumi un izdevumi:
+
+
+
+
+
+
+
+Budžata pieprasījuma dokuments: dokumenta numurs, periods par kuru
+tika pieprasīts budžets, dokumenta veids (BP-budžata pieprasījums),
+tiek aizpildīts.
+
+EKK Ieņēmumu: janorāda budžeta ieņēmumu ekonomiskās klasifikācijas
+kods;
+
+EKK Izdevumu: jānorāda budžeta izdevumu ekonomiskās klasifikācijas
+kods;
+
+Finansēšana, bankas konts, struktūrvienība un salīdzināšanas periods.
+
+
+
+Budžeta pieprasījuma aizpildīšanā jāaizpilda visi lauki, un uz vienu
+kontu var būt vairāki budžeti.
+
+
+
+Jānospiež poga Atlasīt, lai norādītu budžetu. Pēc budžeta norādīšanas,
+tiek attēlots saraksts ar ieņēmumu un izdevumu EK kodiem, sagrupētus
+uz augstākiem līmeņiem:
+
+
+
+
+
+
+
+EKK, kuru cipari ir atdalīti ar punktiem, ir Ieņēmumi, bet EKK, kur ir
+skaitlis, ir Izdevumi.
+
+
+
+Budžeta pieprasījuma ieņēmumu un izdevumu summai ir jāsakrīt, lai
+starpība būtu 0.00
+
+
+
+x apzīmējumi pretī EKK norāda, ka uz šiem EKK ir iespējams aizpildīt
+budžeta pieprasījuma summas;
+
+- apzīmējums, caur kuru iespējams atvērt un caur saraksta funkciju
+izdrukāt visu kopējo sagatvoto konkrētā budžeta pieprasījumu sarakstu
+- budžeta ieņēmum un izdevumu tāmi.
+
+
+
+Atverot konkrēto EK kodu caur x, jānorāda ieņēmumu budžeta summu un
+jānospiež poga . Tāpat jānorāda budžeta summu arī uz izdevumu EKK,un
+jāsaglabā.
+
+Rezultātā budžeta ieņēmumu un izdevumu summām ir jāsakrīt:
+
+
+
+
+
+
+
+
+
+
+
+Budžeta pieprasījuma summas ir redzamas `budžeta pieprasījuma
+žurnālā`_ konkrētajam pieprasījumam.
+
+ .. toctree::   :maxdepth: 4    6663.rst

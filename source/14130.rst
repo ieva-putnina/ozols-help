@@ -1,40 +1,124 @@
-.. 14130 =====================================================================Atvaļinājuma naudas aprēķins nākamajiem periodiem/papildperiodiem===================================================================== <H5>Atvaļinājuma naudas aprēķins,kur atvaļinājuma periods iesniedzas vairākos aprēķina periodos</H5>
-<P>Lai aprēķinātu atvaļinājuma naudu strādājošajam, kuram atvaļinājums iesniedzas nākamajā periodā(-os), līdzīgi tāpat, kā tas ir standarta <A href="/help/?ssw=33&amp;skf_id=14128">Atvaļinājuma naudas aprēķina</A>&nbsp;gadījumā, nepieciešams izveidot atbilstošu <A href="/help/?ssw=33&amp;skf_id=409">Rīkojumu dokumentu</A> par Ikgadējo atvaļinājumu&nbsp;(&gt;Dokumenti &gt; Personāla uzskaite &gt; <A href="/help/?ssw=33&amp;skf_id=209">Rīkojumu žurnāls</A>):</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26362" border=0></P>
-<P>&nbsp;</P>
-<P>Apstiprinot rīkojumu par atvaļinājumu, tiek saskaitītas atvaļinājuma dienas un pievienotas slodzes kalendāram. </P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Lai rīkojumu dokumenti piedalītos algu aprēķinos, tie obligāti jāapstiprina.</P>
-<P>&nbsp;</P>
-<P>2. Aprēķinot algu strādājošajam (&gt;Dokumenti &gt; Alga &gt; <A href="/help/?ssw=33&amp;skf_id=212">Algu aprēķinu žurnāls</A>), jāaizpilda ieejošie dati no slodzes kalendāra:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26363" border=0></P>
-<P>&nbsp;</P>
-<P>Algu aprēķinā - teikošajā periodā,&nbsp;tiks&nbsp;ielādētas atbilstoši kalendāram&nbsp;esošās atvaļinājuma dienas un aprēķinātā vidējā dienas izpeļņa. Tāpat arī tekošajā algu aprēķinā tiks&nbsp;automātiski pievienots papildus periods un ielādētas atbilstoši slodzes kalendāram aprēķinātās atvaļinājuma dienas par nākamo periodu&nbsp;. Atbilstoši izveidotajām algu aprēķina formulām tiks aprēķināta atvaļinājuma naudas summa - gan par tekošo, gan nākamo periodu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26364" border=0></P>
-<P>&nbsp;</P>
-<P>:ai tekošajā aprēķina periodā redzētu izmaksājamās aprēķinātās atvaļinājuma naudas kopsummas un lai nosūtītu aprēķinātās summas uz izmaksu sarakstu, nepieciešams izvēlēties tekošo algu aprēķina periodu un&nbsp;algu aprēķina kartiņā nepieciešams atzīmēt izvēles rūtiņu: "Rādīt visus periodus", kā rezultātā algu aprēķina kartiņas rezultējošo kodu pusē tiks uzrādītas aprēķinātās un ieturamās summas arī par nākamo periodu (aiz aprēķinātās summas iekavās tiks norādīts periods, par kuru šī izmaksa tiks veikta):</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26365" border=0></P>
-<H5>Atvaļinājuma naudas aprēķins par nākamo periodu</H5>
-<P>Ja atvaļinājuma nauda jāaprēķina par nākamajiem periodiem, tad:</P>
-<P>&nbsp;</P>
-<P>1.&nbsp;Balstoties pēc principa, kā tas aprakstīts standarta&nbsp;<A href="/help/?ssw=33&amp;skf_id=14128">Atvaļinājuma naudas aprēķina</A>&nbsp;gadījumā, nepieciešams izveidot atbilstošu <A href="/help/?ssw=33&amp;skf_id=409">Rīkojumu dokumentu</A> par Ikgadējo atvaļinājumu&nbsp;(&gt;Dokumenti &gt; Personāla uzskaite &gt; <A href="/help/?ssw=33&amp;skf_id=209">Rīkojumu žurnāls</A>)</P>
-<P>2. Lai aprēķinātu atvaļinājuma naudu nākamajam periodam,&nbsp;no tekošā perioda algu aprēķina nepieciešams veidot papildus periodus:</P>
-<UL>
-<LI>Atverot algu aprēķinu, no izvēlnes nepieciešams pievienot papildus periodu:</LI></UL>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26366" border=0></P>
-<UL>
-<LI>Pievienojot papildperiodu-&gt; Izvēloties nākamo periodu -&gt; Saglabājot ierakstu -&gt;Tekošā perioda algu aprēķina kartiņā tiek pievienots papildus periods, kuru iespējams izvēlēties, lai veiktu aprēķinus un ielādētu datus no slodzes kalendāra - rīkojumu par ikgadējo atvaļinājumu, atvaļinājuma naudas aprēķinam:</LI></UL>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26367" border=0></P>
-<P>&nbsp;</P>
-<P>&nbsp;</P>
-<P>3. Lai tekošajā aprēķina periodā redzētu par nākamo mēnesi aprēķināto atvaļinājuma&nbsp;naudu un lai nosūtītu aprēķinātās summas uz izmaksu sarakstu, nepieciešams izvēlēties tekošo algu aprēķina periodu un&nbsp;algu aprēķina kartiņā nepieciešams atzīmēt izvēles rūtiņu: "Rādīt visus periodus", kā rezultātā algu aprēķina kartiņas rezultējošo kodu pusē tiks uzrādītas aprēķinātās un ieturamās summas arī par nākamo periodu (aiz aprēķinātās summas iekavās tiks norādīts periods, par kuru šī izmaksa tiks veikta):</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26368" border=0></P>
-<P>&nbsp;</P>
-<P>Aprēķināto rezultātu pusē tiks parādīti abu periodu aprēķini, kā rezultātā summas būs iespējams nosūtīt uz izmaksu sarakstu.</P>
-<P>&nbsp;</P>
-<P>&nbsp;</P> 
+.. 14130 =====================================================================Atvaļinājuma naudas aprēķins nākamajiem periodiem/papildperiodiem===================================================================== 
+
+Atvaļinājuma naudas aprēķins,kur atvaļinājuma periods iesniedzas
+vairākos aprēķina periodos
+++++++++++++++++++++++++++
+
+Lai aprēķinātu atvaļinājuma naudu strādājošajam, kuram atvaļinājums
+iesniedzas nākamajā periodā(-os), līdzīgi tāpat, kā tas ir standarta
+`Atvaļinājuma naudas aprēķina`_gadījumā, nepieciešams izveidot
+atbilstošu `Rīkojumu dokumentu`_ par Ikgadējo atvaļinājumu(>Dokumenti
+> Personāla uzskaite > `Rīkojumu žurnāls`_):
+
+
+
+
+
+
+
+Apstiprinot rīkojumu par atvaļinājumu, tiek saskaitītas atvaļinājuma
+dienas un pievienotas slodzes kalendāram.
+
+
+
+Lai rīkojumu dokumenti piedalītos algu aprēķinos, tie obligāti
+jāapstiprina.
+
+
+
+2. Aprēķinot algu strādājošajam (>Dokumenti > Alga > `Algu aprēķinu
+žurnāls`_), jāaizpilda ieejošie dati no slodzes kalendāra:
+
+
+
+
+
+
+
+Algu aprēķinā - teikošajā periodā,tiksielādētas atbilstoši
+kalendāramesošās atvaļinājuma dienas un aprēķinātā vidējā dienas
+izpeļņa. Tāpat arī tekošajā algu aprēķinā tiksautomātiski pievienots
+papildus periods un ielādētas atbilstoši slodzes kalendāram
+aprēķinātās atvaļinājuma dienas par nākamo periodu. Atbilstoši
+izveidotajām algu aprēķina formulām tiks aprēķināta atvaļinājuma
+naudas summa - gan par tekošo, gan nākamo periodu:
+
+
+
+
+
+
+
+:ai tekošajā aprēķina periodā redzētu izmaksājamās aprēķinātās
+atvaļinājuma naudas kopsummas un lai nosūtītu aprēķinātās summas uz
+izmaksu sarakstu, nepieciešams izvēlēties tekošo algu aprēķina periodu
+unalgu aprēķina kartiņā nepieciešams atzīmēt izvēles rūtiņu: "Rādīt
+visus periodus", kā rezultātā algu aprēķina kartiņas rezultējošo kodu
+pusē tiks uzrādītas aprēķinātās un ieturamās summas arī par nākamo
+periodu (aiz aprēķinātās summas iekavās tiks norādīts periods, par
+kuru šī izmaksa tiks veikta):
+
+
+
+
+
+
+Atvaļinājuma naudas aprēķins par nākamo periodu
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Ja atvaļinājuma nauda jāaprēķina par nākamajiem periodiem, tad:
+
+
+
+1.Balstoties pēc principa, kā tas aprakstīts standarta`Atvaļinājuma
+naudas aprēķina`_gadījumā, nepieciešams izveidot atbilstošu `Rīkojumu
+dokumentu`_ par Ikgadējo atvaļinājumu(>Dokumenti > Personāla uzskaite
+> `Rīkojumu žurnāls`_)
+
+2. Lai aprēķinātu atvaļinājuma naudu nākamajam periodam,no tekošā
+perioda algu aprēķina nepieciešams veidot papildus periodus:
+
+
++ Atverot algu aprēķinu, no izvēlnes nepieciešams pievienot papildus
+  periodu:
+
+
+
+
+
++ Pievienojot papildperiodu-> Izvēloties nākamo periodu -> Saglabājot
+  ierakstu ->Tekošā perioda algu aprēķina kartiņā tiek pievienots
+  papildus periods, kuru iespējams izvēlēties, lai veiktu aprēķinus un
+  ielādētu datus no slodzes kalendāra - rīkojumu par ikgadējo
+  atvaļinājumu, atvaļinājuma naudas aprēķinam:
+
+
+
+
+
+
+
+
+3. Lai tekošajā aprēķina periodā redzētu par nākamo mēnesi aprēķināto
+atvaļinājumanaudu un lai nosūtītu aprēķinātās summas uz izmaksu
+sarakstu, nepieciešams izvēlēties tekošo algu aprēķina periodu unalgu
+aprēķina kartiņā nepieciešams atzīmēt izvēles rūtiņu: "Rādīt visus
+periodus", kā rezultātā algu aprēķina kartiņas rezultējošo kodu pusē
+tiks uzrādītas aprēķinātās un ieturamās summas arī par nākamo periodu
+(aiz aprēķinātās summas iekavās tiks norādīts periods, par kuru šī
+izmaksa tiks veikta):
+
+
+
+
+
+
+
+Aprēķināto rezultātu pusē tiks parādīti abu periodu aprēķini, kā
+rezultātā summas būs iespējams nosūtīt uz izmaksu sarakstu.
+
+
+
+
+
+ 

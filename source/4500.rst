@@ -1,1 +1,3 @@
-.. 4500 ======================Maksājumu uzskaite====================== Lai atvērtu instrukciju darba uzsākšanai ar OZOLS maksājumu uzskaites moduli spiediet <a href="/files/Instrukcija_maksajumu_uzskaite.pdf">šeit</a> .. toctree::   :maxdepth: 6    4502.rst   4501.rst   4514.rst   4509.rst   4504.rst
+.. 4500 ======================Maksājumu uzskaite====================== Lai atvērtu instrukciju darba uzsākšanai ar OZOLS maksājumu uzskaites
+moduli spiediet `šeit`_
+ .. toctree::   :maxdepth: 6    4502.rst   4501.rst   4514.rst   4509.rst   4504.rst

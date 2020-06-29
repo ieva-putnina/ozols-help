@@ -1,7 +1,18 @@
-.. 128 ===========================Profesiju klasifikators=========================== <P>Profesiju klasifikators (saraksts) tiek importēts programmas Ozols uzstādīšanas laikā.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25613" border=0></P>
-<P>&nbsp;</P>
-<P>Profesiju klasifikatora ieraksti tiek pievienoti amatiem. Šāds risinājums dod iespēju lietotājam iegūt datus statistikas atskaitēm.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25614" border=0></P> 
+.. 128 ===========================Profesiju klasifikators=========================== 
+Profesiju klasifikators (saraksts) tiek importēts programmas Ozols
+uzstādīšanas laikā.
+
+
+
+
+
+
+
+Profesiju klasifikatora ieraksti tiek pievienoti amatiem. Šāds
+risinājums dod iespēju lietotājam iegūt datus statistikas atskaitēm.
+
+
+
+
+
+ 

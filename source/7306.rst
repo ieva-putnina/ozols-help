@@ -1,8 +1,23 @@
-.. 7306 =========Telpa========= <P>Pievienotei telpu ieraksti tiek saglabāti telpu sarakstā. Telpu saraksts tiek lietots <A href="/help/?ssw=73&amp;skf_id=7308">jaunu notikumu</A> pievienošanā un <A href="/help/?ssw=73&amp;skf_id=7317">atskaišu </A>sagatavošanā.</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26189" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Kods:</STRONG> telpas nosaukuma saīsinājums vai apzīmējums;</P>
-<P><STRONG>Nosaukums:</STRONG> telpas pilns nosaukums;</P>
-<P><STRONG>Prioritāte:</STRONG> telpai iespējams nodefinēt prioritātes pakāpi.</P>
-<P>Iespējams pievienot dažādas <STRONG>piezīmes</STRONG>.</P>
-<P>Lai pievienotā&nbsp;telpa tiktu saglabāta, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25829" border=0>, un, ja nepieciešams pievienot vēl citu telpu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25850" border=0> un jāpievieno jauns telpas ierakst. Lai, pēc saglabāšanas, labotu pievienotās&nbsp;telpas ierakstus, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25832" border=0> un pēc labošanas ieraksts jāsaglabā.</P> 
+.. 7306 =========Telpa========= 
+Pievienotei telpu ieraksti tiek saglabāti telpu sarakstā. Telpu
+saraksts tiek lietots `jaunu notikumu`_ pievienošanā un `atskaišu
+`_sagatavošanā.
+
+
+
+
+
+Kods: telpas nosaukuma saīsinājums vai apzīmējums;
+
+Nosaukums: telpas pilns nosaukums;
+
+Prioritāte: telpai iespējams nodefinēt prioritātes pakāpi.
+
+Iespējams pievienot dažādas piezīmes .
+
+Lai pievienotātelpa tiktu saglabāta, jānospiež poga , un, ja
+nepieciešams pievienot vēl citu telpu, jānospiež poga un jāpievieno
+jauns telpas ierakst. Lai, pēc saglabāšanas, labotu pievienotāstelpas
+ierakstus, jānospiež poga un pēc labošanas ieraksts jāsaglabā.
+
+ 

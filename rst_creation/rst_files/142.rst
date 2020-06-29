@@ -1,26 +1,76 @@
-.. 142 ==============Noliktavas============== <p>&nbsp;</p>
-<p>Sarakstā tiek saglabātas uzņēmuma Noliktavas, un tajā var pievienot neierobežotu skaitu noliktavu - nomenklatūras uzskaitei vairākās Noliktavās, jāizveido nepieciešamais Noliktavu skaits. Pievienotās Noliktavas tiek izmantotas Norēķinu ieejošo un izejošo dokumentu sagatavošanā. Noliktavas aprakstā var norādīt nomenklatūras grupas, kuras tiks piesaistītas konkrētajai Noliktavai.</p>
-<h4>Jaunas&nbsp;Noliktavas pievienošana:</h4>
-<p>Lai pievienotu jaunu Noliktavu, rīku joslā&nbsp;jānospiež poga&nbsp;<img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiks atvērts jauns logs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25032" border="0"></p>
-<p>&nbsp;</p>
-<p>Pievienojot jaunu Noliktavu, jānorāda - Noliktavas<strong> Kods</strong> (saīsināts Noliktavas nosaukums), Noliktavas <strong>Nosaukums</strong>, iespēja norādīt Noliktavas fizisko atrašanās <strong>adresi</strong> – preču saņemšanas un izsniegšanas vietu. </p>
-<p>Noliktavai ir iespējams piesaistīt konkrētu <strong><a href="/help/?ssw=33&amp;skf_id=117">Struktūrvienību</a></strong> no kopējā struktūrvienību saraksta:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25033" border="0"></p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Konfigurācijas iestādījumos <span class="shadow">&gt;Konfigurācija &gt; Iestādījumi &gt; Kopīgie &gt; <a href="/help/?ssw=33&amp;skf_id=716">Noliktava</a> </span>– iespējams atzīmēt izvēles rūtiņu "Iepirkumu un pārdošanas dokumentos noklusēto struktūrvienību ņemt no noliktavas", lai iepirkumu un pārdošanas dokumentos noklusētā struktūrvienība tiktu ņemta no noliktavas.</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25034" border="0"></p>
-<p>&nbsp;</p>
-<p>Atzīmējot šo izvēles rūtiņu, tiek nodrošināts, lai sagatavojot jaunu Norēķinu ieejošo vai izejošo dokumentu,&nbsp;atzīmētā galvenā&nbsp;Noliktava tiktu uzrādīta pēc noklusējuma. </p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Katrai izveidotajai Noliktavai ir iespēja piesaistīt konkrētas nomenklatūras <a href="/help/?ssw=33&amp;skf_id=148">Grupas</a>, noliktavas aprakstā – nomenklatūras grupas, atzīmējot nepieciešamās grupas:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25035" border="0"></p>
+.. 142 ==============Noliktavas============== 
 
-<h4>Pievienotās&nbsp;Noliktavas apraksta labošana:</h4>
-<p>Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24709" border="0">&nbsp;(ALT+A).</p>
-<p>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p> 
+
+Sarakstā tiek saglabātas uzņēmuma Noliktavas, un tajā var pievienot
+neierobežotu skaitu noliktavu - nomenklatūras uzskaitei vairākās
+Noliktavās, jāizveido nepieciešamais Noliktavu skaits. Pievienotās
+Noliktavas tiek izmantotas Norēķinu ieejošo un izejošo dokumentu
+sagatavošanā. Noliktavas aprakstā var norādīt nomenklatūras grupas,
+kuras tiks piesaistītas konkrētajai Noliktavai.
+
+
+JaunasNoliktavas pievienošana:
+``````````````````````````````
+
+Lai pievienotu jaunu Noliktavu, rīku joslājānospiež poga un tiks
+atvērts jauns logs:
+
+
+
+
+
+
+
+Pievienojot jaunu Noliktavu, jānorāda - Noliktavas Kods (saīsināts
+Noliktavas nosaukums), Noliktavas Nosaukums , iespēja norādīt
+Noliktavas fizisko atrašanās adresi – preču saņemšanas un izsniegšanas
+vietu.
+
+Noliktavai ir iespējams piesaistīt konkrētu `Struktūrvienību`_ no
+kopējā struktūrvienību saraksta:
+
+
+
+
+
+
+
+Konfigurācijas iestādījumos >Konfigurācija > Iestādījumi > Kopīgie >
+`Noliktava`_ – iespējams atzīmēt izvēles rūtiņu "Iepirkumu un
+pārdošanas dokumentos noklusēto struktūrvienību ņemt no noliktavas",
+lai iepirkumu un pārdošanas dokumentos noklusētā struktūrvienība tiktu
+ņemta no noliktavas.
+
+
+
+
+
+
+
+Atzīmējot šo izvēles rūtiņu, tiek nodrošināts, lai sagatavojot jaunu
+Norēķinu ieejošo vai izejošo dokumentu,atzīmētā galvenāNoliktava tiktu
+uzrādīta pēc noklusējuma.
+
+
+
+
+
+Katrai izveidotajai Noliktavai ir iespēja piesaistīt konkrētas
+nomenklatūras `Grupas`_, noliktavas aprakstā – nomenklatūras grupas,
+atzīmējot nepieciešamās grupas:
+
+
+
+
+
+
+
+PievienotāsNoliktavas apraksta labošana:
+````````````````````````````````````````
+
+Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
+atvērt, izmantojot rīku joslas pogu (ALT+A).
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+ 

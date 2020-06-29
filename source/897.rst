@@ -1,2 +1,36 @@
-.. 897 ====================Cenu veidu kursi==================== <br>Sarakstā tiek saglabāta vēsturiskā informācija par cenu veidu kursiem, kas piesaistīti izveidotajiem cenu veidiem uz konkrētu datumu. <br><h4>Jauna Cenu veida kursa pievienošana</h4>
-<p>Lai pievienotu jaunu Cenu veidu kursu,&nbsp;rīku joslā jānospiež poga&nbsp;<img src="Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiks atvērts jauns logs:</p><p><br></p><p><img src="Skin/help/img.aspx?pid=26501" border="0"></p><p><br></p><p><b>Veids:</b> iespējams izvēlēties no saraksta <a href="?ssw=33&amp;skf_id=105">Cenu veidu</a>, uz kuru definētā valūta un kurss tiks attiecināts;<br></p><p><b>Datums: </b>datums, uz kuru valūta un valūtas kurss tiek noteikts;</p><p><b>Valūta:</b> no saraksta iespējams izvēlēties atbilstošo valūtu, kas piesaistīta definētajam cenas veidam;</p><p><b>Kurss:</b> nepieciešams ievadīt valūtas kursu uz izvēlēto datumu.</p><p><br></p><p>Ieraksts tiks saglabāts, izpildot komandu <img src="Skin/help/img.aspx?pid=24710" border="0">.</p> 
+.. 897 ====================Cenu veidu kursi==================== 
+Sarakstā tiek saglabāta vēsturiskā informācija par cenu veidu kursiem,
+kas piesaistīti izveidotajiem cenu veidiem uz konkrētu datumu.
+
+
+Jauna Cenu veida kursa pievienošana
+```````````````````````````````````
+
+Lai pievienotu jaunu Cenu veidu kursu,rīku joslā jānospiež poga un
+tiks atvērts jauns logs:
+
+
+
+
+
+
+
+
+
+**Veids:** iespējams izvēlēties no saraksta `Cenu veidu`_, uz kuru
+definētā valūta un kurss tiks attiecināts;
+
+
+**Datums: **datums, uz kuru valūta un valūtas kurss tiek noteikts;
+
+**Valūta:** no saraksta iespējams izvēlēties atbilstošo valūtu, kas
+piesaistīta definētajam cenas veidam;
+
+**Kurss:** nepieciešams ievadīt valūtas kursu uz izvēlēto datumu.
+
+
+
+
+Ieraksts tiks saglabāts, izpildot komandu .
+
+ 

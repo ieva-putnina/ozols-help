@@ -1,21 +1,54 @@
-.. 14100 =====================================Dokumenta ģenerēšana .pdf formātā===================================== <p>&nbsp;</p>
-<p>Lai ģenerētu pārdošanas dokumentu uz .pdf formātu no programmas Ozols:</p>
-<p>&nbsp;</p>
-<p>1. Jāatver dokuments, kuru nepieciešams sagatavot .pdf formātā, nosūtīšanai elektroniski:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26007" border="0"></p>
-<p>&nbsp;un rīku joslā jānospiež poga <img src="/help/Skin/help/img.aspx?pid=25813" border="0">&nbsp;(Ctrl+P).</p>
-<p>&nbsp;</p>
-<p>2. Jāizvēlās atbilstošā izdrukas forma (no saraksta - Iebūvētā vai Kopējā), jāatzīmē izvēles rūtiņa "Izdrukas parametri" un jānospiež poga <img src="/help/Skin/help/img.aspx?pid=25620" border="0">:</p>
-<p><span class="txt"></span>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26008" border="0"></p>
-<p>&nbsp;</p>
-<p>3. Print logā jāizvēlās atbilstošais printera vārds "Adobe PDF" vai cits formāts (image writer. xps document writer), kas ģenerē dokumentu .pdf formātā. Jānospiež poga OK un jānorāda failu katalogs, kur šis dokuments .pdf formātā tiks saglabāts:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26009" border="0"></p>
-<p>&nbsp;</p>
-<p>4. Ja gadījumā šāds "Print" logs neparādās, tad var mēģināt kādu no .pdf dokumentu režīmiem uz šo brīdi iestādīt kā noklusēto:</p>
-<p>"Start" -&gt; "Settings" -&gt; "Printers" un izvēlēties atbilstošo "printeri" - "Adobe PDF" vai "Microsoft Office Document Image Writer", tad jānospiež peles labais taustiņš un jāizvēlas "Set as Default Printer":</p>
-<p>&nbsp;</p>
-<p></p>
-<p><img src="/help/Skin/help/img.aspx?pid=26010" border="0"></p> 
+.. 14100 =====================================Dokumenta ģenerēšana .pdf formātā===================================== 
+
+
+Lai ģenerētu pārdošanas dokumentu uz .pdf formātu no programmas Ozols:
+
+
+
+1. Jāatver dokuments, kuru nepieciešams sagatavot .pdf formātā,
+nosūtīšanai elektroniski:
+
+
+
+
+
+un rīku joslā jānospiež poga (Ctrl+P).
+
+
+
+2. Jāizvēlās atbilstošā izdrukas forma (no saraksta - Iebūvētā vai
+Kopējā), jāatzīmē izvēles rūtiņa "Izdrukas parametri" un jānospiež
+poga :
+
+
+
+
+
+
+
+3. Print logā jāizvēlās atbilstošais printera vārds "Adobe PDF" vai
+cits formāts (image writer. xps document writer), kas ģenerē dokumentu
+.pdf formātā. Jānospiež poga OK un jānorāda failu katalogs, kur šis
+dokuments .pdf formātā tiks saglabāts:
+
+
+
+
+
+
+
+4. Ja gadījumā šāds "Print" logs neparādās, tad var mēģināt kādu no
+.pdf dokumentu režīmiem uz šo brīdi iestādīt kā noklusēto:
+
+"Start" -> "Settings" -> "Printers" un izvēlēties atbilstošo
+"printeri" - "Adobe PDF" vai "Microsoft Office Document Image Writer",
+tad jānospiež peles labais taustiņš un jāizvēlas "Set as Default
+Printer":
+
+
+
+
+
+
+
+ 

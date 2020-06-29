@@ -1,10 +1,27 @@
-.. 689 =====================================Nomenklatūras daudzumi noliktavās===================================== <P>&nbsp;</P>
-<P>Sarakstā iespējams jebkurai precei/krājumam nomenklatūras kartiņā norādīt minimālu un maksimālo daudzuma atlikumu Noliktavā. </P>
-<P>Lai nomenklatūras aprakstā norādītu minimālo un maksimālo daudzuma atlikumu Noliktavā,&nbsp;rīku joslā&nbsp;nepieciešams nospiest pogu <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25328" border=0></P>
-<P>&nbsp;</P>
-<P>Atzīmējot izvēles rūtiņu "Dimensijas", nomenklatūras&nbsp;min. un max. daudzuma&nbsp;atlikumiem iespējams norādīt atbilstošās atlikumu dimensijas - struktūrvienību, kurā šis krājums/prece ir atlikumā; Ek.kods, u.c.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25329" border=0></P>
-<P>Pēc datu aizpildīšanas,&nbsp;norādītos minimālos un maksimālos atlikuma&nbsp;daudzumus Noliktavā&nbsp;iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P> 
+.. 689 =====================================Nomenklatūras daudzumi noliktavās===================================== 
+
+
+Sarakstā iespējams jebkurai precei/krājumam nomenklatūras kartiņā
+norādīt minimālu un maksimālo daudzuma atlikumu Noliktavā.
+
+Lai nomenklatūras aprakstā norādītu minimālo un maksimālo daudzuma
+atlikumu Noliktavā,rīku joslānepieciešams nospiest pogu :
+
+
+
+
+
+
+
+Atzīmējot izvēles rūtiņu "Dimensijas", nomenklatūrasmin. un max.
+daudzumaatlikumiem iespējams norādīt atbilstošās atlikumu dimensijas -
+struktūrvienību, kurā šis krājums/prece ir atlikumā; Ek.kods, u.c.
+
+
+
+
+
+Pēc datu aizpildīšanas,norādītos minimālos un maksimālos
+atlikumadaudzumus Noliktavāiespējams vai .
+
+ 

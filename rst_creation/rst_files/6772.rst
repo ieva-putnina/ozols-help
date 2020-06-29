@@ -1,1 +1,2 @@
-.. 6772 =============Dokumenti=============  .. toctree::   :maxdepth: 5    6780.rst
+.. 6772 =============Dokumenti============= 
+ .. toctree::   :maxdepth: 5    6780.rst

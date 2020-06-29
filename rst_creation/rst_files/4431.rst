@@ -1,9 +1,27 @@
-.. 4431 ===============Banku konti=============== <P>Bankas kontu žurnālā tiek saglabāti visi partneriem <A href="/help/?ssw=44&amp;skf_id=4440">pievienotie banku konti</A>. </P>
-<P>Ar filtru iespējams atlasīt partneru bankas kontus pēc dažādiem izvēlētiem atlasīšanas kritērijiem:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25848" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Bankas</STRONG>: iespējams izvēlēties vienas noteiktas bankas partneru bankas kontus;</P>
-<P><STRONG>Konts</STRONG>: iespējams atlasīt pēc viena noteikta konta numura.</P>
-<P>Ja atlasīšanas kritēriji izvēlēti, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25810" border=0>. Ja filtrā netiek izvēlēti atlasīšanas kritēriji, tad tiek atvērts visu partneru bankas kontu saraksts.</P>
-<P>Lai pievienotu jaunu bankas kontu jau pievienotam partnerim, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25831" border=0> un jāpievieno dati kā norādīts <A href="/help/?ssw=44&amp;skf_id=4440">Jauna bankas konta pievienošanas sadaļā</A>.</P> 
+.. 4431 ===============Banku konti=============== 
+Bankas kontu žurnālā tiek saglabāti visi partneriem `pievienotie banku
+konti`_.
+
+Ar filtru iespējams atlasīt partneru bankas kontus pēc dažādiem
+izvēlētiem atlasīšanas kritērijiem:
+
+
+
+
+
+
+
+Bankas : iespējams izvēlēties vienas noteiktas bankas partneru bankas
+kontus;
+
+Konts : iespējams atlasīt pēc viena noteikta konta numura.
+
+Ja atlasīšanas kritēriji izvēlēti, jānospiež poga . Ja filtrā netiek
+izvēlēti atlasīšanas kritēriji, tad tiek atvērts visu partneru bankas
+kontu saraksts.
+
+Lai pievienotu jaunu bankas kontu jau pievienotam partnerim, jānospiež
+poga un jāpievieno dati kā norādīts `Jauna bankas konta pievienošanas
+sadaļā`_.
+
+ 

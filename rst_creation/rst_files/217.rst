@@ -1,10 +1,31 @@
-.. 217 =====================Notikumu saraksts===================== <P>Standarta kalendārā ir jānosaka pārējās izmaiņas, kas ir kopīgas visiem strādājošajiem. </P>
-<P>Notikumu sarakstā jāpievieno tās brīvdienas, kas iekrīt darba dienās, vai arī, ja darba diena tiek pārcelta uz sestdienu, tad sestdienas datumam ir jāpievieno izmaiņas, ka tā būs darba diena, bet pārceltā darba diena – brīvdiena. Šis saraksts tiek lietots pie Strādājošo Algas aprēķina.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26399" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Datums:</STRONG> datums, kurā ir attiecīgais notikums, kurā ir brīvdiena vai samazināts stundu skaits</P>
-<P><STRONG>Kalendārs:</STRONG> jāizvēlas no <A href="/help/?ssw=33&amp;skf_id=218"><FONT size=2>Kalendāri</A>saraksta, uz kuru tieši attieksies, vai arī uz [Visi]</P>
-<P><STRONG>Notikuma tips:</STRONG> attiecīgi tiek norādīts vai tā ir Brīvdiena vai svētku diena, Darba diena, Īsā darba diena</P>
-<P><STRONG>Notikums:</STRONG> norādīts notikums</P>
-<P><STRONG>Stundas:</STRONG> jānorāda gadījumā, ja ir saīsināts stundu skaits darba dienā(mazāk par 8)</P></FONT> 
+.. 217 =====================Notikumu saraksts===================== 
+Standarta kalendārā ir jānosaka pārējās izmaiņas, kas ir kopīgas
+visiem strādājošajiem.
+
+Notikumu sarakstā jāpievieno tās brīvdienas, kas iekrīt darba dienās,
+vai arī, ja darba diena tiek pārcelta uz sestdienu, tad sestdienas
+datumam ir jāpievieno izmaiņas, ka tā būs darba diena, bet pārceltā
+darba diena – brīvdiena. Šis saraksts tiek lietots pie Strādājošo
+Algas aprēķina.
+
+
+
+
+
+
+
+Datums: datums, kurā ir attiecīgais notikums, kurā ir brīvdiena vai
+samazināts stundu skaits
+
+Kalendārs: jāizvēlas no ` Kalendāri`_saraksta, uz kuru tieši
+attieksies, vai arī uz [Visi]
+
+Notikuma tips: attiecīgi tiek norādīts vai tā ir Brīvdiena vai svētku
+diena, Darba diena, Īsā darba diena
+
+Notikums: norādīts notikums
+
+Stundas: jānorāda gadījumā, ja ir saīsināts stundu skaits darba
+dienā(mazāk par 8)
+
+ 

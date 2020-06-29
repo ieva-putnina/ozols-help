@@ -1,10 +1,26 @@
-.. 898 ============================Citas informācijas veidi============================ <P>&nbsp;</P>
-<P>Sarakstā tiek saglabāti Citas informācijas veidi, kas tiek izmantot Personāla datu -&nbsp;&nbsp;<A href="/help/?ssw=33&amp;skf_id=765">Citas informācijas</A>&nbsp;aizpildīšanai.</P>
-<P>Lai pievienotu jaunu Citas informācijas veidu, rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25605" border=0>(Alt+P) un jāieraksta Informācijas veida nosaukums (Piemēram, Kavējums, Pārkāpums, utt.):</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26083" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Nosaukums:</STRONG> Veida nosaukums;</P>
-<P><STRONG>Piezīmes:</STRONG> Pēc nepieciešamības, brīvā formā ievadītas piezīmes par attiecīgo ierakstu.</P>
-<P>&nbsp;</P>
-<P>Ieraksts tiks saglabāts, izpildot komandu <IMG src="/help/Skin/help/img.aspx?pid=24710" border=0>.</P> 
+.. 898 ============================Citas informācijas veidi============================ 
+
+
+Sarakstā tiek saglabāti Citas informācijas veidi, kas tiek izmantot
+Personāla datu -`Citas informācijas`_aizpildīšanai.
+
+Lai pievienotu jaunu Citas informācijas veidu, rīku joslā jānospiež
+poga (Alt+P) un jāieraksta Informācijas veida nosaukums (Piemēram,
+Kavējums, Pārkāpums, utt.):
+
+
+
+
+
+
+
+Nosaukums: Veida nosaukums;
+
+Piezīmes: Pēc nepieciešamības, brīvā formā ievadītas piezīmes par
+attiecīgo ierakstu.
+
+
+
+Ieraksts tiks saglabāts, izpildot komandu .
+
+ 

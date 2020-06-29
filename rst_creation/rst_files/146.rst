@@ -1,35 +1,101 @@
-.. 146 ==================Kontu atlikumi================== <p>&nbsp;</p>
-<p>Kontu atlikumu sarakstā tiek saglabāti grāmatvedības kontu atlikumi uzskaites perioda sākumā. Kontu atlikumi jāpievieno vienreiz, uzsākot darbu ar grāmatvedības sistēmu, un atlikumiem sistēmā netiek noteikts konkrēts datums. Kontu atlikumus var dalīt pa valūtām, analītikām, struktūrvienībām, finanšu (EK) kodiem un citām datu uzskaites dimensijām. Lai sadalītu konta atlikumu pa analītikām, sarakstā vienam kontam pievieno atsevišķas summas, norādot to piederību kādai no datu uzskaites dimensijām. Kontu atlikumi tiek izmantoti grāmatvedības atskaišu sastādīšanā.</p>
-<h4>Jauna konta atlikuma pievienošana</h4>
-<p>Lai kontu atlikumu sarakstā pievienotu jaunu grāmatvedības konta atlikumu uzskaites perioda sākumā, rīku joslā&nbsp;jānospiež poga&nbsp;<img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiks atvērts jauns logs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25084" border="0"></p>
-<p>&nbsp;</p>
-<p>1. Nepieciešams norādīt attiecīgo grāmatvedības kontu no konta plāna, kuram konta atlikums uz perioda sākumu tiks ievadīts:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25086" border="0"></p>
-<p>&nbsp;</p>
-<p>2. Konta atlikumus iespējams dalīt pa dažādām datu uzskaites dimensijām. Ja izvēlētajam kontam sākuma atlikumu nepieciešams dalīt pa dimensijām (EK kodu, budžetu, Projektu, u.c. dimensijas), tad konta atlikuma aprakstā, jānorāda nepieciešamās dimensijas (visi dimensiju lauki NAV jāaizpilda obligāti, nepieciešams norādīt tikai tās dimensijas, kādā griezumā konta sākuma atlikums jāsadala):</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25087" border="0"></p>
-<p>&nbsp;</p>
-<p>3. Ja kontam tiek izmantota analītiskā uzskaite (Partneris), tad arī konta sākuma atlikumam nepieciešams norādīt analītiku - Partneri, izvēloties to no <a href="/help/?ssw=33&amp;skf_id=112">Partneru saraksta</a>:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25088" border="0"></p>
-<p>&nbsp;</p>
-<p>4. Jānorāda konta sākuma atlikuma valūta:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25089" border="0"></p>
-<p>&nbsp;</p>
-<p>5. Nepieciešams ievadīt izvēlētā grāmatvediskā konta sākuma atlikuma summu debetā vai kredītā (ja konta sākuma atlikuma valūta būs izvēlēta atšķirīga no noteiktās pamatvalūtas, laukos DB pam.val un CR pam.va. ievadītā summa automātiski tiks pārrēķināta pamatvalūtā pēc LB noteiktā valūtas kursa):</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25090" border="0"></p>
-<p>&nbsp;</p>
-<p>Kad visi nepieciešamie lauki ir aizpildīti, lai saglabātu jaunu konta sākuma atlikuma ierakstu, nepieciešams nospiest pogu <img src="/help/Skin/help/img.aspx?pid=24615" border="0">.</p>
+.. 146 ==================Kontu atlikumi================== 
 
-<h4>Pievienotā konta sākuma atlikuma&nbsp;labošana:</h4>
-<p>Lai veiktu labojumus pievienotajā&nbsp;konta atlikuma aprakstā, ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24709" border="0">&nbsp;(ALT+A), un&nbsp;atvērtajā&nbsp;ierakstā iespējams veikt&nbsp;nepieciešamos labojumus (mainot datu uzskaites dimensijas, analītiku vai sākuma atlikuma summu):</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=25091" border="0"></p>
-<p>&nbsp;</p>
-<p>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p> 
+
+Kontu atlikumu sarakstā tiek saglabāti grāmatvedības kontu atlikumi
+uzskaites perioda sākumā. Kontu atlikumi jāpievieno vienreiz, uzsākot
+darbu ar grāmatvedības sistēmu, un atlikumiem sistēmā netiek noteikts
+konkrēts datums. Kontu atlikumus var dalīt pa valūtām, analītikām,
+struktūrvienībām, finanšu (EK) kodiem un citām datu uzskaites
+dimensijām. Lai sadalītu konta atlikumu pa analītikām, sarakstā vienam
+kontam pievieno atsevišķas summas, norādot to piederību kādai no datu
+uzskaites dimensijām. Kontu atlikumi tiek izmantoti grāmatvedības
+atskaišu sastādīšanā.
+
+
+Jauna konta atlikuma pievienošana
+`````````````````````````````````
+
+Lai kontu atlikumu sarakstā pievienotu jaunu grāmatvedības konta
+atlikumu uzskaites perioda sākumā, rīku joslājānospiež poga un tiks
+atvērts jauns logs:
+
+
+
+
+
+
+
+1. Nepieciešams norādīt attiecīgo grāmatvedības kontu no konta plāna,
+kuram konta atlikums uz perioda sākumu tiks ievadīts:
+
+
+
+
+
+
+
+2. Konta atlikumus iespējams dalīt pa dažādām datu uzskaites
+dimensijām. Ja izvēlētajam kontam sākuma atlikumu nepieciešams dalīt
+pa dimensijām (EK kodu, budžetu, Projektu, u.c. dimensijas), tad konta
+atlikuma aprakstā, jānorāda nepieciešamās dimensijas (visi dimensiju
+lauki NAV jāaizpilda obligāti, nepieciešams norādīt tikai tās
+dimensijas, kādā griezumā konta sākuma atlikums jāsadala):
+
+
+
+
+
+
+
+3. Ja kontam tiek izmantota analītiskā uzskaite (Partneris), tad arī
+konta sākuma atlikumam nepieciešams norādīt analītiku - Partneri,
+izvēloties to no `Partneru saraksta`_:
+
+
+
+
+
+
+
+4. Jānorāda konta sākuma atlikuma valūta:
+
+
+
+
+
+
+
+5. Nepieciešams ievadīt izvēlētā grāmatvediskā konta sākuma atlikuma
+summu debetā vai kredītā (ja konta sākuma atlikuma valūta būs izvēlēta
+atšķirīga no noteiktās pamatvalūtas, laukos DB pam.val un CR pam.va.
+ievadītā summa automātiski tiks pārrēķināta pamatvalūtā pēc LB
+noteiktā valūtas kursa):
+
+
+
+
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti, lai saglabātu jaunu konta
+sākuma atlikuma ierakstu, nepieciešams nospiest pogu .
+
+
+
+Pievienotā konta sākuma atlikumalabošana:
+`````````````````````````````````````````
+
+Lai veiktu labojumus pievienotajākonta atlikuma aprakstā, ierakstu
+nepieciešams atvērt, izmantojot rīku joslas pogu (ALT+A),
+unatvērtajāierakstā iespējams veiktnepieciešamos labojumus (mainot
+datu uzskaites dimensijas, analītiku vai sākuma atlikuma summu):
+
+
+
+
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+ 

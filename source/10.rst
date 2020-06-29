@@ -1,1 +1,2 @@
-.. 10 ========Rīki========  .. toctree::   :maxdepth: 6    734.rst   1005.rst   725.rst   1017.rst   794.rst   781.rst   940.rst   948.rst   453.rst
+.. 10 ========Rīki======== 
+ .. toctree::   :maxdepth: 6    734.rst   1005.rst   725.rst   1017.rst   794.rst   781.rst   940.rst   948.rst   453.rst

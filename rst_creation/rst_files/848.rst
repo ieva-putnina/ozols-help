@@ -1,1 +1,25 @@
-.. 848 =========Jauns========= <br>Izmantojot sistēmā pieejamo darba režīmu Jauns -&gt;Iespējams sagatavot jaunus Norēķinu dokumentus:<br><br><a href="?ssw=33&amp;skf_id=343">Apmaksas atgādinājums</a><br><br><a href="?ssw=33&amp;skf_id=831"></a><a href="?ssw=33&amp;skf_id=310">Iepirkuma dokuments</a><br><br><a href="?ssw=33&amp;skf_id=358">Norēķina dzēšanas akts</a><br><br><a href="?ssw=33&amp;skf_id=304">Pārdošanas dokuments</a><br><br><a href="?ssw=33&amp;skf_id=357">Savstarpējo norēķinu dzēšanas akts</a><br><br><a href="?ssw=33&amp;skf_id=342">Savstarpējo norēķinu salīdzināšanas akts</a><br><br><br><br><br><br><br><br><br> .. toctree::   :maxdepth: 5    344.rst   354.rst   343.rst   831.rst   402.rst   881.rst   403.rst   310.rst   998.rst   304.rst   1033.rst   1035.rst   1034.rst   358.rst   993.rst   305.rst   357.rst   894.rst   342.rst
+.. 848 =========Jauns========= 
+Izmantojot sistēmā pieejamo darba režīmu Jauns ->Iespējams sagatavot
+jaunus Norēķinu dokumentus:
+
+`Apmaksas atgādinājums`_
+
+``_`Iepirkuma dokuments`_
+
+`Norēķina dzēšanas akts`_
+
+`Pārdošanas dokuments`_
+
+`Savstarpējo norēķinu dzēšanas akts`_
+
+`Savstarpējo norēķinu salīdzināšanas akts`_
+
+
+
+
+
+
+
+
+
+ .. toctree::   :maxdepth: 5    344.rst   354.rst   343.rst   831.rst   402.rst   881.rst   403.rst   310.rst   998.rst   304.rst   1033.rst   1035.rst   1034.rst   358.rst   993.rst   305.rst   357.rst   894.rst   342.rst

@@ -1,32 +1,92 @@
-.. 6523 =======================Polišu darba virsma======================= <p>&nbsp;</p>
-<p>Polišu darba virsma (ātrais taustiņš F9) ir paredzēta brokerim aktuālās informācijas iegūšanai - aktuālie līgumi un izrakstītie rēķini, padarītie darbi, rēķini, kuriem tuvojas maksājuma termiņš, plānošana un piedāvājumi, debitori, un nopelnītās kā brokera, asistenta un piesaistītāja komisijas.</p>
-<p>&nbsp;</p>
-<p>Polišu darba virsmā ir iespējams apskatīt piecas lapaspuses (Aktuāli, Padarīts, Plānošana, Debitori un Komisijas)</p>
-<p>&nbsp;</p>
-<p>Laukā <img src="/help/Skin/help/img.aspx?pid=25899" border="0">, iespējams izvēlēties attiecīgo brokeri par kuru dati tiks atlasīti.</p>
-<h5>Aktuāli</h5>
-<p>Lapaspusē Aktuāli ir iespējams iegūt datus par aktuālajām polisēm, kurām tuvojas beigu termiņš. Izvēles laukā Termiņš, uzstādot attiecīgo termiņa periodu, tiks atlasīti dati pēc norādītajiem kritērijiem:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26425" border="0"></p>
-<h5>Padarīts</h5>
-<p>Lapaspusē Padarīts ir iespējams apskatīt datus par padarītajiem darbiem - informācija par parakstītajām polisēm un nenoslēgtiem polišu līgumiem.Tāpat ir iespējams norādīts kādi ir parakstītie līgumi kā Brokeri, kā Asistentam vai kā Visi (gan kā brokeris,asistents un piesaistītājs). Norādot attiecīgo Parakstīšanas un Neatjaunošanas periodu, iespēja atlasīt visas izvēlētā perioda datus. </p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26426" border="0"></p>
-<h5>Plānošana</h5>
-<p>Lapaspuse Plānošana ir paredzēta, lai būtu iespējams iegūt informāciju par plānotajiem darbiem attiecīgā periodā. </p>
+.. 6523 =======================Polišu darba virsma======================= 
 
-<p>Izvēles laukā Termiņš, uzstādot attiecīgo termiņa periodu, tiks atlasīti dati pēc norādītajiem kritērijiem:</p>
-<p> informācija par visām aktivitātēm, notikumiem, korespondenci un darba uzdevumiem un informācija par veidotajiem piedāvājumiem.</p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26427" border="0"><br></p>
-<h5>Debitori</h5>
-<p>Lapaspusē Debitori iespējams iegūt datus par neapmaksātajiem pārdošanas dokumentiem (Polišu faktūrrēķiniem un Apdrošināšanas sabiedrības rēķiniem):</p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26428" border="0"><br></p>
-<p>&nbsp;</p>
-<h5>Komisijas</h5>
-<p>Lapaspusē Komisijas iespējams iegūt datus par attiecīgā perioda sastrādātajām komisijām. Periodu jāizvēlas pēc nepieciešamības.</p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=26429" border="0"><br></p>
+
+Polišu darba virsma (ātrais taustiņš F9) ir paredzēta brokerim
+aktuālās informācijas iegūšanai - aktuālie līgumi un izrakstītie
+rēķini, padarītie darbi, rēķini, kuriem tuvojas maksājuma termiņš,
+plānošana un piedāvājumi, debitori, un nopelnītās kā brokera,
+asistenta un piesaistītāja komisijas.
+
+
+
+Polišu darba virsmā ir iespējams apskatīt piecas lapaspuses (Aktuāli,
+Padarīts, Plānošana, Debitori un Komisijas)
+
+
+
+Laukā , iespējams izvēlēties attiecīgo brokeri par kuru dati tiks
+atlasīti.
+
+
+Aktuāli
++++++++
+
+Lapaspusē Aktuāli ir iespējams iegūt datus par aktuālajām polisēm,
+kurām tuvojas beigu termiņš. Izvēles laukā Termiņš, uzstādot attiecīgo
+termiņa periodu, tiks atlasīti dati pēc norādītajiem kritērijiem:
+
+
+
+
+
+
+Padarīts
+++++++++
+
+Lapaspusē Padarīts ir iespējams apskatīt datus par padarītajiem
+darbiem - informācija par parakstītajām polisēm un nenoslēgtiem polišu
+līgumiem.Tāpat ir iespējams norādīts kādi ir parakstītie līgumi kā
+Brokeri, kā Asistentam vai kā Visi (gan kā brokeris,asistents un
+piesaistītājs). Norādot attiecīgo Parakstīšanas un Neatjaunošanas
+periodu, iespēja atlasīt visas izvēlētā perioda datus.
+
+
+
+
+
+
+Plānošana
++++++++++
+
+Lapaspuse Plānošana ir paredzēta, lai būtu iespējams iegūt informāciju
+par plānotajiem darbiem attiecīgā periodā.
+
+Izvēles laukā Termiņš, uzstādot attiecīgo termiņa periodu, tiks
+atlasīti dati pēc norādītajiem kritērijiem:
+
+informācija par visām aktivitātēm, notikumiem, korespondenci un darba
+uzdevumiem un informācija par veidotajiem piedāvājumiem.
+
+
+
+
+
+
+
+Debitori
+++++++++
+
+Lapaspusē Debitori iespējams iegūt datus par neapmaksātajiem
+pārdošanas dokumentiem (Polišu faktūrrēķiniem un Apdrošināšanas
+sabiedrības rēķiniem):
+
+
+
+
+
+
+
+
+
+Komisijas
++++++++++
+
+Lapaspusē Komisijas iespējams iegūt datus par attiecīgā perioda
+sastrādātajām komisijām. Periodu jāizvēlas pēc nepieciešamības.
+
+
+
+
+
 
  

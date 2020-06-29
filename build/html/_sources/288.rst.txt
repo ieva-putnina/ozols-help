@@ -1,9 +1,22 @@
-.. 288 ================Slodžu veidi================ <P>Slodžu veidu sarakstā tiek nodefinētas uzņēmumā izmantojamie slodžu veidi.</P>
-<P>Lai pievienou slodžu veidu sarakstam, rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25605" border=0>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25642" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Veids:</STRONG> attiecīgi jāizvēlas slodzes veids (beztermiņa, izpildes laiks, māceklis/praktikants vai sezonāls);</P>
-<P><STRONG>Kods:</STRONG> saīzināts nosaukums;</P>
-<P><STRONG>Nosaukums:</STRONG> pilns nosaukums.</P>
-<P>Lai saglabātu ierakstu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>.</P> 
+.. 288 ================Slodžu veidi================ 
+Slodžu veidu sarakstā tiek nodefinētas uzņēmumā izmantojamie slodžu
+veidi.
+
+Lai pievienou slodžu veidu sarakstam, rīku joslā jānospiež poga :
+
+
+
+
+
+
+
+Veids: attiecīgi jāizvēlas slodzes veids (beztermiņa, izpildes laiks,
+māceklis/praktikants vai sezonāls);
+
+Kods: saīzināts nosaukums;
+
+Nosaukums: pilns nosaukums.
+
+Lai saglabātu ierakstu, jānospiež poga .
+
+ 

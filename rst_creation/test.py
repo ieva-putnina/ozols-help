@@ -1,5 +1,10 @@
-import html2rest
+from html2rest import html2rest
+from io import BytesIO as StringIO
 stream = StringIO()
-html2rest('<ul><li>one</li><li>two</li></ul>', writer=stream)
+f = open("test.txt", "r")
+html = f.read()
+#stream = ""
+html2rest(html, writer = stream)
 
-print(stream)
+rst = stream.getvalue().decode("utf8")
+print(rst)

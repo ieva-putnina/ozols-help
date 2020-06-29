@@ -1,1 +1,2 @@
-.. 7607 =================Konfigurācija=================  .. toctree::   :maxdepth: 5    7664.rst   7678.rst
+.. 7607 =================Konfigurācija================= 
+ .. toctree::   :maxdepth: 5    7664.rst   7678.rst

@@ -1,17 +1,46 @@
-.. 7005 ================Akciju veidi================ <P>&nbsp;</P>
-<P>Sarakstā tiek saglabāti akciju veidi, kas tiek izmantoti jaunu Akciju pievienošanai</P>
-<H5>Jauna Akciju veida pievienošana:</H5>
-<P>Lai pievienotu jaunu <A href="/help/?ssw=70&amp;skf_id=7006">Akciju veidu</A>&nbsp;rīku joslā jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25457" border=0></P>
-<P>&nbsp;</P>
-<P>Atvērtajā Akciju veida apraksta logā iespējams norādīt Akciju veida kodu (saīsināts nosaukums) un Nosaukumu.</P>
-<P>&nbsp;</P>
-<P>Pievienojot jaunu Akciju veidu, nepieciešams norādīt šī akciju veida faktisko vērtību:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25458" border=0></P>
-<P>&nbsp;</P>
-<P>Ieraksts tiks saglabāts, izpildot komandu <IMG src="/help/Skin/help/img.aspx?pid=24710" border=0>.</P>
-<H5>Pievienotā Akcijas veida labošana:</H5>
-<P>Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu <IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>(ALT+A), un atvērtajā logā veikt labojumus.</P>
-<P>Pēc labojumu veikšanas, veiktās izmaiņas iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0> vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P> 
+.. 7005 ================Akciju veidi================ 
+
+
+Sarakstā tiek saglabāti akciju veidi, kas tiek izmantoti jaunu Akciju
+pievienošanai
+
+
+Jauna Akciju veida pievienošana:
+++++++++++++++++++++++++++++++++
+
+Lai pievienotu jaunu `Akciju veidu`_rīku joslā jānospiež poga un tiks
+atvērts jauns logs:
+
+
+
+
+
+
+
+Atvērtajā Akciju veida apraksta logā iespējams norādīt Akciju veida
+kodu (saīsināts nosaukums) un Nosaukumu.
+
+
+
+Pievienojot jaunu Akciju veidu, nepieciešams norādīt šī akciju veida
+faktisko vērtību:
+
+
+
+
+
+
+
+Ieraksts tiks saglabāts, izpildot komandu .
+
+
+Pievienotā Akcijas veida labošana:
+++++++++++++++++++++++++++++++++++
+
+Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
+atvērt, izmantojot rīku joslas pogu (ALT+A), un atvērtajā logā veikt
+labojumus.
+
+Pēc labojumu veikšanas, veiktās izmaiņas iespējams vai .
+
+ 

@@ -1,27 +1,72 @@
-.. 798 ===============Sertifikāti=============== <P>&nbsp;</P>
-<P>Sertifikātu dokumentu žurnālā tiek saglabāti visi strādājošo kartiņās pievienotie dati par <A href="/help/?ssw=33&amp;skf_id=111">Strādājošo</A>&nbsp;iegūtajiem sertifikātiem.</P>
-<P>Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Rīku joslā nopiežot pogu<IMG src="/help/Skin/help/img.aspx?pid=24535" border=0>(Ctrl+F), tiek atvērts filtra logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26109" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Struktūrv.</STRONG>: atlasīt informāciju par sertifikātiem, konkrētā struktūrvienībā strādājošajiem;</P>
-<P><STRONG>Amats</STRONG>:atlasīt informāciju par strādājošo iegūtajiem sertifikātiem,&nbsp;pēc filtrā&nbsp;izvēlētā Amata nosaukuma;</P>
-<P><STRONG>Slodzes: </STRONG>atlasīt datus - informāciju par Sertifikātiem tikai Aktīvajām vai Neaktīvajām slodzēm;</P>
-<P><STRONG>Beigu termiņš:</STRONG> atlasīt datus pēc sertifikāta derīguma termiņa no...līdz;</P>
-<P><STRONG>Spēkā:</STRONG> atlasīt datus pēc&nbsp;sertifikāta iegūšanas&nbsp;datuma no...līdz.</P>
-<P>&nbsp;</P>
-<P>Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25944" border=0>.</P>
-<H5>Jaunu sertifikātu pievienošana </H5>
-<P>1. <A href="/help/?ssw=33&amp;skf_id=111">Strādājošā aprakstā</A>, sadāļā Personāls - iespēja pievienot&nbsp;informācijas par iegūtajiem Sertifikātiem:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25781" border=0></P>
-<P>2. Atrodoties <A href="/help/?ssw=33&amp;skf_id=798">Sertifikātu dokumentu žurnālā</A> un rīku joslā&nbsp;nospiežot pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>:</P>
-<P>&nbsp;</P>
-<P>Izvēloties pievienot informāciju par sertifikātiem, jāizvēlas slodze (strādājošais), kuram šī informācija tiks pievienota:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26110" border=0></P>
-<P>&nbsp;</P>
-<P>Nepieciešams ievadīt sertifikāta nummuru, derīguma termiņu (datums no..līdz), kā arī iespējams ievadīt papildus aprakstu par saņemto sertifikātu.</P>
-<P>Dati tiek saglabāti nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>. </P>
-<P>&nbsp;</P>
-<P>Pievienotie ieraksti&nbsp;tiek saglabāti <A href="/help/?ssw=33&amp;skf_id=798">Sertifikātu&nbsp;dokumentu žurnālā</A>.</P> 
+.. 798 ===============Sertifikāti=============== 
+
+
+Sertifikātu dokumentu žurnālā tiek saglabāti visi strādājošo kartiņās
+pievienotie dati par `Strādājošo`_iegūtajiem sertifikātiem.
+
+Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
+tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
+ekrāna formā. Rīku joslā nopiežot pogu (Ctrl+F), tiek atvērts filtra
+logs:
+
+
+
+
+
+
+
+Struktūrv. : atlasīt informāciju par sertifikātiem, konkrētā
+struktūrvienībā strādājošajiem;
+
+Amats :atlasīt informāciju par strādājošo iegūtajiem sertifikātiem,pēc
+filtrāizvēlētā Amata nosaukuma;
+
+Slodzes: atlasīt datus - informāciju par Sertifikātiem tikai Aktīvajām
+vai Neaktīvajām slodzēm;
+
+Beigu termiņš: atlasīt datus pēc sertifikāta derīguma termiņa
+no...līdz;
+
+Spēkā: atlasīt datus pēcsertifikāta iegūšanasdatuma no...līdz.
+
+
+
+Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
+
+
+Jaunu sertifikātu pievienošana
+++++++++++++++++++++++++++++++
+
+1. `Strādājošā aprakstā`_, sadāļā Personāls - iespēja
+pievienotinformācijas par iegūtajiem Sertifikātiem:
+
+
+
+
+
+2. Atrodoties `Sertifikātu dokumentu žurnālā`_ un rīku joslānospiežot
+pogu :
+
+
+
+Izvēloties pievienot informāciju par sertifikātiem, jāizvēlas slodze
+(strādājošais), kuram šī informācija tiks pievienota:
+
+
+
+
+
+
+
+Nepieciešams ievadīt sertifikāta nummuru, derīguma termiņu (datums
+no..līdz), kā arī iespējams ievadīt papildus aprakstu par saņemto
+sertifikātu.
+
+Dati tiek saglabāti nospiežot pogu .
+
+
+
+Pievienotie ierakstitiek saglabāti `Sertifikātudokumentu žurnālā`_.
+
+ 

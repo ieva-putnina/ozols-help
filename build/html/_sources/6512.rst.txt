@@ -1,32 +1,71 @@
-.. 6512 ===============================Polišu izsniegšana brokerim=============================== <P>&nbsp;</P>
-<P>Polišu izsniegšanas rīks tiek izmantots, Lai <A href="/help/?ssw=33&amp;skf_id=165">Brokerim</A> vienlaicīgi būtu iespējams izsniegtu vairākas Polises:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25441" border=0></P>
-<P>&nbsp;</P>
-<P>1. Lai izsniegtu Polises, nepieciešams norādīt Brokeri:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25442" border=0></P>
-<P>&nbsp;</P>
-<P>2. Atbilstošo apdrošināšanas veidu un AS, kuras polises nepieciešams izsniegt:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25443" border=0></P>
-<P>&nbsp;</P>
-<P>3. Datums, kurā Polises&nbsp;Brokerim tiek izsniegtas no Noliktavas:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25444" border=0></P>
-<P>&nbsp;</P>
-<P>4. Polises Sērijas numurs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25445" border=0></P>
-<P>&nbsp;</P>
-<P>5. Jānorāda tie Polises numuri, no kuras, līdz kurai tiks izsniegti Brokerim:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25446" border=0></P>
-<P>&nbsp;</P>
-<P>6. Ja nepieciešams izsniegt ne tikai Noliktavā esošās Polises, bet arī jau kāda cita&nbsp;Brokera īpašumā esošās Polises, jāatzīmē izvēles rūtiņa:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25447" border=0></P>
-<P>&nbsp;</P>
-<P>7. Nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25448" border=0>, tiks izsniegtas informatīvajā laukā attēlotais Polišu skaits:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25449" border=0></P> 
+.. 6512 ===============================Polišu izsniegšana brokerim=============================== 
+
+
+Polišu izsniegšanas rīks tiek izmantots, Lai `Brokerim`_ vienlaicīgi
+būtu iespējams izsniegtu vairākas Polises:
+
+
+
+
+
+
+
+1. Lai izsniegtu Polises, nepieciešams norādīt Brokeri:
+
+
+
+
+
+
+
+2. Atbilstošo apdrošināšanas veidu un AS, kuras polises nepieciešams
+izsniegt:
+
+
+
+
+
+
+
+3. Datums, kurā PolisesBrokerim tiek izsniegtas no Noliktavas:
+
+
+
+
+
+
+
+4. Polises Sērijas numurs:
+
+
+
+
+
+
+
+5. Jānorāda tie Polises numuri, no kuras, līdz kurai tiks izsniegti
+Brokerim:
+
+
+
+
+
+
+
+6. Ja nepieciešams izsniegt ne tikai Noliktavā esošās Polises, bet arī
+jau kāda citaBrokera īpašumā esošās Polises, jāatzīmē izvēles rūtiņa:
+
+
+
+
+
+
+
+7. Nospiežot pogu , tiks izsniegtas informatīvajā laukā attēlotais
+Polišu skaits:
+
+
+
+
+
+ 

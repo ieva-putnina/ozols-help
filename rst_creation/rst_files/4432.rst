@@ -1,12 +1,33 @@
-.. 4432 ===========Adreses=========== <P>Adrešu žurnālā tiek saglabātas visas pievienotās partneru <A href="/help/?ssw=44&amp;skf_id=4439">adreses</A>.</P>
-<P>Ar filtru iespējams atlasīt partneru adreses pēc dažādiem izvēlētiem atlasīšanas kritērijiem:</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25847" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Partneris</STRONG>: iespēja atlasīt viena izvēlēta partnera adreses;</P>
-<P><STRONG>Veids</STRONG>: iespēja atlasīt viena veida adreses vienam vai visiem partneriem;</P>
-<P><STRONG>Pilsēta</STRONG>: vienas noteiktas pilsētas partneru adreses;</P>
-<P><STRONG>R.num./p.k</STRONG>.: atlasīšana pēc reģistrācijas numura (juridiskai personai) vai personas koda (fiziskai personai);</P>
-<P><STRONG>Iela</STRONG>: atlasīšana pēc ielas;</P>
-<P><STRONG>Pasta indekss</STRONG>: atlasīšana pēc pasta indeksa:</P>
-<P>Ja visi atlasīšanas kritēriji norādīti un izvēlēti, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25810" border=0>. Ja filtrā netiek norādīti vai izvēlēti nekādi kritēriji, tad tiek atlasīts visu partneru adrešu saraksts.</P>
-<P>Lai labotu adresi, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25832" border=0>, bet lai pievienotu jaunu adresi jau pievienotam partnerim, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25831" border=0>&nbsp;un jāpievieno dati kā norādīts <A href="/help/?ssw=44&amp;skf_id=4439">Jaunas adreses pievienošanas sadaļā</A>.</P> 
+.. 4432 ===========Adreses=========== 
+Adrešu žurnālā tiek saglabātas visas pievienotās partneru `adreses`_.
+
+Ar filtru iespējams atlasīt partneru adreses pēc dažādiem izvēlētiem
+atlasīšanas kritērijiem:
+
+
+
+
+
+Partneris : iespēja atlasīt viena izvēlēta partnera adreses;
+
+Veids : iespēja atlasīt viena veida adreses vienam vai visiem
+partneriem;
+
+Pilsēta : vienas noteiktas pilsētas partneru adreses;
+
+R.num./p.k .: atlasīšana pēc reģistrācijas numura (juridiskai
+personai) vai personas koda (fiziskai personai);
+
+Iela : atlasīšana pēc ielas;
+
+Pasta indekss : atlasīšana pēc pasta indeksa:
+
+Ja visi atlasīšanas kritēriji norādīti un izvēlēti, jānospiež poga .
+Ja filtrā netiek norādīti vai izvēlēti nekādi kritēriji, tad tiek
+atlasīts visu partneru adrešu saraksts.
+
+Lai labotu adresi, jānospiež poga , bet lai pievienotu jaunu adresi
+jau pievienotam partnerim, jānospiež poga un jāpievieno dati kā
+norādīts `Jaunas adreses pievienošanas sadaļā`_.
+
+ 

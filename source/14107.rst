@@ -1,35 +1,97 @@
-.. 14107 =======================Polišu pārtraukšana======================= <p>Polise tiek pārtraukta, norādot Polises pārtraukšanas datumu un Nostrādāto prēmiju:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26255" border="0"></p>
-<p>&nbsp;</p>
-<p>Nostrādātā prēmija ir polises darbības laika prēmijas daļa no kopējās polises prēmijas.</p>
-<p>&nbsp;</p>
-<p>Maksājuma plāna sadaļā parādās Starpības summa:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26256" border="0"></p>
-<p>&nbsp;</p>
-<p><img src="Skin/help/img.aspx?pid=24545" border="0">Ja pārtrauktās polises Nenostrādātā prēmija (Starpība) netiek pārnesta uz jaunu polisi, tad nepieciešams ģenerēt maksājumu par starpības summu (-30.59):</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26257" border="0"></p>
-<p>&nbsp;</p>
-<p>Pēc maksājuma uzģenerēšanas kopējā summa ir Nostrādātā prēmija.</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26258" border="0"></p>
-<p>&nbsp;</p>
-<p>Polises Grāmatojumu sadaļā pēc Nenostrādātās prēmijas maksājuma uzģenerēšanas tiek izveidots POA (polises anulēšanas/pārtraukšanas grāmatojums):</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26259" border="0"></p>
-<p>&nbsp;</p>
-<p>Maksājuma plāna sadaļā, uzģenerētais Nenostrādātās prēmijas maksājums ar mīnus zīmi tiek dzēsts ar Pārdošanas norēķinu dzēšanas aktu. Lai dzēstu maksājumu, kurš netiks apmaksātas, polises maksājuma plāna sadaļā jāatver konkrētais maksājums un ar dokumenta funkciju jāizvēlas sagatavot Norēķinu dzēšanas aktu, kuru jāsaglabā.</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0"> Gadījumos, kad pēc polises pārtraukšanas tiek dzēsti atlikušie uzģenerētie maksājumi un ir zināms, ka netiks veikts komisijas aprēķins par atlikušajiem neapmaksātajiem maksājumiem, izveidojot <a href="/help/?ssw=33&amp;skf_id=358">Pārdošanas norēķinu dzēšanas aktu</a>, jāatzīmē, ka summa netiks iekļauta komisijas aprēķinā:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26409" border="0"></p>
-<p>&nbsp;</p>
-<p>Pēc Norēķinu dzēšanas akta sagatavošanas, jāveic Komisijas aprēķins (polišu rīks-&gt;<a href="/help/?ssw=65&amp;skf_id=6517">polišu komisijas aprēķins</a>), kā rezultātā polises Maksājuma plāna sadaļā un <a href="/help/?ssw=65&amp;skf_id=6524">Uzņēmuma komisijas</a> atskaitē būs redzama nenostrādātās prēmijas uzņēmuma komisija ar mīnus zīmi.</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Ja pārtrauktās polises Nenostrādātā prēmija tiek pārcelta uz citu konkrētam partnerim piesaistīto polisi, tad pārtrauktajai polisei <b>nav nepieciešams</b> <b>ģenerēt rēķinu</b> par nenostrādāto prēmiju, bet jāatver jaunās polises neapmaksātais maksājums/<a href="/help/?ssw=33&amp;skf_id=304">rēķins</a> un manuāli maksājuma saturā jāpievieno pārtrauktās polises nenostrādātā prēmija (-30,59). Par nenostrādātās prēmijas summu tiek samazināta jaunās polises maksājuma summa:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=26261" border="0"></p>
-<p>&nbsp;</p>
-<p>Ja nenostrādāto prēmiju nepieciešams atgriezt klientam, tiek veidots maksājums ar mīnus zīmi (-30.59) un saistīts ar <a href="/help/?ssw=33&amp;skf_id=347">bankas izdevumu</a> dokumentu.</p> 
+.. 14107 =======================Polišu pārtraukšana======================= 
+Polise tiek pārtraukta, norādot Polises pārtraukšanas datumu un
+Nostrādāto prēmiju:
+
+
+
+
+
+
+
+Nostrādātā prēmija ir polises darbības laika prēmijas daļa no kopējās
+polises prēmijas.
+
+
+
+Maksājuma plāna sadaļā parādās Starpības summa:
+
+
+
+
+
+
+
+Ja pārtrauktās polises Nenostrādātā prēmija (Starpība) netiek pārnesta
+uz jaunu polisi, tad nepieciešams ģenerēt maksājumu par starpības
+summu (-30.59):
+
+
+
+
+
+
+
+Pēc maksājuma uzģenerēšanas kopējā summa ir Nostrādātā prēmija.
+
+
+
+
+
+
+
+Polises Grāmatojumu sadaļā pēc Nenostrādātās prēmijas maksājuma
+uzģenerēšanas tiek izveidots POA (polises anulēšanas/pārtraukšanas
+grāmatojums):
+
+
+
+
+
+
+
+Maksājuma plāna sadaļā, uzģenerētais Nenostrādātās prēmijas maksājums
+ar mīnus zīmi tiek dzēsts ar Pārdošanas norēķinu dzēšanas aktu. Lai
+dzēstu maksājumu, kurš netiks apmaksātas, polises maksājuma plāna
+sadaļā jāatver konkrētais maksājums un ar dokumenta funkciju jāizvēlas
+sagatavot Norēķinu dzēšanas aktu, kuru jāsaglabā.
+
+
+
+Gadījumos, kad pēc polises pārtraukšanas tiek dzēsti atlikušie
+uzģenerētie maksājumi un ir zināms, ka netiks veikts komisijas
+aprēķins par atlikušajiem neapmaksātajiem maksājumiem, izveidojot
+`Pārdošanas norēķinu dzēšanas aktu`_, jāatzīmē, ka summa netiks
+iekļauta komisijas aprēķinā:
+
+
+
+
+
+
+
+Pēc Norēķinu dzēšanas akta sagatavošanas, jāveic Komisijas aprēķins
+(polišu rīks->`polišu komisijas aprēķins`_), kā rezultātā polises
+Maksājuma plāna sadaļā un `Uzņēmuma komisijas`_ atskaitē būs redzama
+nenostrādātās prēmijas uzņēmuma komisija ar mīnus zīmi.
+
+
+
+Ja pārtrauktās polises Nenostrādātā prēmija tiek pārcelta uz citu
+konkrētam partnerim piesaistīto polisi, tad pārtrauktajai polisei
+**nav nepieciešams** **ģenerēt rēķinu** par nenostrādāto prēmiju, bet
+jāatver jaunās polises neapmaksātais maksājums/`rēķins`_ un manuāli
+maksājuma saturā jāpievieno pārtrauktās polises nenostrādātā prēmija
+(-30,59). Par nenostrādātās prēmijas summu tiek samazināta jaunās
+polises maksājuma summa:
+
+
+
+
+
+
+
+Ja nenostrādāto prēmiju nepieciešams atgriezt klientam, tiek veidots
+maksājums ar mīnus zīmi (-30.59) un saistīts ar `bankas izdevumu`_
+dokumentu.
+
+ 

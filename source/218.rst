@@ -1,10 +1,31 @@
-.. 218 =============Kalendāri============= <P>Standarta kalendārs nosaka vērtības, kas ir kopīgas visiem uzņēmumā strādājošajiem.</P>
-<P>Kalendāru saraksts tiek izmantots veidojot. Strādājošo <A href="/help/?ssw=33&amp;skf_id=207">Slodzes</A>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25608" border=0></P>
-<P>&nbsp;</P>
-<P>Standarta kalendārā tiek noteikts standarta darba dienu skaits nedēļā un standarta stundu skaits dienā, piemēram, tiek noteikta 5 darba dienu nedēļa ar 8 stundu darba dienu.<BR>Standarta kalendārā tiek pieņemts, ja noteiktas 5 darba dienas, tad sestdiena un svētdiena ir brīvdienas. Ja nosaka 6 dienu darba nedēļu, tad brīvdiena ir svētdiena.<BR>Lai pievienotu jaunu kalendāru, jānospiež Rīku joslā poga <IMG src="/help/Skin/help/img.aspx?pid=25605" border=0>, jāaizpilda lauki un jāsaglabā ieraksts.</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25609" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Stundu kalendārs:</STRONG> tiek ieķeksēts tad, ja strādājošajam algas aprēķins&nbsp;tiek&nbsp;veikts balstoties uz nodefinēto stundas likmi.</P> 
+.. 218 =============Kalendāri============= 
+Standarta kalendārs nosaka vērtības, kas ir kopīgas visiem uzņēmumā
+strādājošajiem.
+
+Kalendāru saraksts tiek izmantots veidojot. Strādājošo `Slodzes`_:
+
+
+
+
+
+
+
+Standarta kalendārā tiek noteikts standarta darba dienu skaits nedēļā
+un standarta stundu skaits dienā, piemēram, tiek noteikta 5 darba
+dienu nedēļa ar 8 stundu darba dienu.
+Standarta kalendārā tiek pieņemts, ja noteiktas 5 darba dienas, tad
+sestdiena un svētdiena ir brīvdienas. Ja nosaka 6 dienu darba nedēļu,
+tad brīvdiena ir svētdiena.
+Lai pievienotu jaunu kalendāru, jānospiež Rīku joslā poga , jāaizpilda
+lauki un jāsaglabā ieraksts.
+
+
+
+
+
+
+
+Stundu kalendārs: tiek ieķeksēts tad, ja strādājošajam algas
+aprēķinstiekveikts balstoties uz nodefinēto stundas likmi.
+
+ 

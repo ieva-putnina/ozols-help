@@ -1,27 +1,71 @@
-.. 762 ===========Karjera=========== <P>&nbsp;</P>
-<P>Karjeras dokumentu žurnālā tiek saglabāti visi <A href="/help/?ssw=33&amp;skf_id=111">Strādājošo</A> kartiņās pievienotie dati par Personas līdzšinējo karjeru.</P>
-<P>Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā. Rīku joslā nopiežot pogu<IMG src="/help/Skin/help/img.aspx?pid=24535" border=0>(Ctrl+F), tiek atvērts filtra logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26100" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Struktūrv.</STRONG>: Iespēja atlasīt informāciju par karjeru, konkrētā struktūrvienībā strādājošajiem;</P>
-<P><STRONG>Amats</STRONG>:&nbsp;Iespēja atlasīt informāciju par karjeru strādājošiem pēc filtrā&nbsp;izvēlētā Amata nosaukuma;</P>
-<P><STRONG>Slodzes: </STRONG>Dokumentu žurnālā iespējams atlasīt datus - informāciju par&nbsp;karjeru&nbsp;tikai Aktīvajām vai Neaktīvajām slodzēm.</P>
-<P>&nbsp;</P>
-<P>Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25944" border=0>.</P>
-<H5>Karjeras datu pievienošana </H5>
-<P>Informāciju par karjeru&nbsp;strādājošajam iespējams izveidot:</P>
-<P>&nbsp;</P>
-<P>1. <A href="/help/?ssw=33&amp;skf_id=111">Strādājošā aprakstā</A>, sadāļā Personāls -&nbsp; iespējams pievienot strādājošā karjeras datus:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25780" border=0></P>
-<P>2. Atrodoties&nbsp;<A href="/help/?ssw=33&amp;skf_id=762">Karjeras dokumentu žurnālā</A> un rīku joslā&nbsp;nospiežot pogu&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>:</P>
-<P>&nbsp;</P>
-<P>Izvēloties pievienot Karjeras&nbsp;datus, jāizvēlas slodze (strādājošais), kuram šī informācija tiks pievienota:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26101" border=0></P>
-<P>&nbsp;</P>
-<P>Nepieciešams&nbsp;ievadīt uzņēmuma nosaukumu, laika termiņu no...līdz, kā arī iespēja ievadīt karjeras aprakstu (piemēram, ieņemamo amatu vai darba pienākumus).</P>
-<P>Dati tiek saglabāti nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=25621" border=0>. </P>
-<P>&nbsp;</P>
-<P>Pievienotie ieraksti&nbsp;tiek saglabāti&nbsp;<A href="/help/?ssw=33&amp;skf_id=762">Karjeras dokumentos</A>.</P> 
+.. 762 ===========Karjera=========== 
+
+
+Karjeras dokumentu žurnālā tiek saglabāti visi `Strādājošo`_ kartiņās
+pievienotie dati par Personas līdzšinējo karjeru.
+
+Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
+tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
+ekrāna formā. Rīku joslā nopiežot pogu (Ctrl+F), tiek atvērts filtra
+logs:
+
+
+
+
+
+
+
+Struktūrv. : Iespēja atlasīt informāciju par karjeru, konkrētā
+struktūrvienībā strādājošajiem;
+
+Amats :Iespēja atlasīt informāciju par karjeru strādājošiem pēc
+filtrāizvēlētā Amata nosaukuma;
+
+Slodzes: Dokumentu žurnālā iespējams atlasīt datus - informāciju
+parkarjerutikai Aktīvajām vai Neaktīvajām slodzēm.
+
+
+
+Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
+
+
+Karjeras datu pievienošana
+++++++++++++++++++++++++++
+
+Informāciju par karjerustrādājošajam iespējams izveidot:
+
+
+
+1. `Strādājošā aprakstā`_, sadāļā Personāls - iespējams pievienot
+strādājošā karjeras datus:
+
+
+
+
+
+2. Atrodoties`Karjeras dokumentu žurnālā`_ un rīku joslānospiežot pogu
+:
+
+
+
+Izvēloties pievienot Karjerasdatus, jāizvēlas slodze (strādājošais),
+kuram šī informācija tiks pievienota:
+
+
+
+
+
+
+
+Nepieciešamsievadīt uzņēmuma nosaukumu, laika termiņu no...līdz, kā
+arī iespēja ievadīt karjeras aprakstu (piemēram, ieņemamo amatu vai
+darba pienākumus).
+
+Dati tiek saglabāti nospiežot pogu .
+
+
+
+Pievienotie ierakstitiek saglabāti`Karjeras dokumentos`_.
+
+ 

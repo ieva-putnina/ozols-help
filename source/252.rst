@@ -1,45 +1,136 @@
-.. 252 ===================================================Kultūras un citu pasākumu ieejas biļešu žurnāls=================================================== <P>&nbsp;</P>
-<P>Lai uzskaitītu&nbsp;kultūras un citu pasākumu ieejas biļešu&nbsp;izlietojumu, Uzņēmuma rīcībā esošās biļetes jāpievieno&nbsp;Kultūras un citu pasākumu ieejas biļešu&nbsp;žurnālā.</P>
-<H4>Kultūras un citu pasākumu ieejas biļešu&nbsp;pievienošana datu bāzei</H4>
-<P>Kultūras un citu pasākumu ieejas biļešu&nbsp;pievienošana, izmantojot rīku joslas komandpogu "Pievienot" un aizpildot Kultūras un citu pasākumu ieejas biļešu ekrāna formu, nodrošina vienas&nbsp;biļešu grāmatiņas&nbsp;pievienošanu datu bāzē. Atrodoties&nbsp;Kultūras un citu pasākumu ieejas biļešu žurnālā, rīku joslā nospiežot komandpogu<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>, tiks atvērta&nbsp;Kultūras un citu pasākumu ieejas biļetes&nbsp;ekrāna forma:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25014" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Sērija</STRONG> - jānorāda&nbsp;ieejas biļešu sērijas numurs.</P>
-<P><STRONG>Numurs</STRONG> - jāievada&nbsp;ieejas biļešu&nbsp;grāmatiņas numurs.</P>
-<P><STRONG>Iegādes datums</STRONG> - jānorāda&nbsp;ieejas biļešu&nbsp;grāmatiņas&nbsp;iegādes datums.</P>
-<P><STRONG>Čeks no...līdz</STRONG>&nbsp;- jānorāda&nbsp;ieejas biļešu&nbsp;grāmatiņā esošo čeku numuri no - līdz.</P>
-<P><STRONG>Datums</STRONG> -&nbsp;ieejas biļešu&nbsp;grāmatiņas&nbsp;izsniegšanas datums.</P>
-<P><STRONG>Anulēšanas dat.</STRONG> - laukā automātiski tiks iefiksēts anulēšanas datums, anulējot ieejas biļeti.&nbsp;</P>
-<P><STRONG>Struktūrvienība</STRONG> - iespēja norādīt struktūrvienību, kura šo kvīšu grāmatiņu pieņem uzskaitē.</P>
-<H4>Kultūras un citu pasākumu ieejas biļešu&nbsp;žurnālā pieejamās funkcijas</H4>
-<P>Kultūras un citu pasākumu ieejas biļešu&nbsp;žurnālā ir izveidotas funkcijas:</P>
-<P><BR><IMG src="/help/Skin/help/img.aspx?pid=24983" border=0></P>
-<P>&nbsp;</P>
-<P>1)&nbsp;Ieejas biļešu&nbsp;grāmatiņu&nbsp;pakas pievienošanas funkcija;<BR>2) Naudas ieņēmumu dokumenta atvēršana, kuram piesaistītas ieejas biļetes;</P>
-<H5>1) Pievienot dokumentu paku</H5>
-<P>&nbsp;</P>
-<P>Uzņēmuma rīcībā esošās&nbsp;ieejas biļetes jāpievieno&nbsp;Kultūras un citu pasākumu ieejas biļešu žurnālā.&nbsp;Ieejas biļešu grāmatiņu&nbsp;pakas pievienošanai, nepieciešams izvēlēties&nbsp;funkciju <IMG src="/help/Skin/help/img.aspx?pid=25007" border=0>, kas&nbsp;nodrošina vairāku&nbsp;Ieejas biļešu&nbsp;grāmatiņu&nbsp;vienlaicīgu pievienošanu datu bāzē. Norādot grāmatiņu skaitu un&nbsp;sākuma numuru, tiek automātiski uzģenerēts norādītais skaits ieejs biļešu grāmatiņu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25015" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Skaits</STRONG> - jānorāda&nbsp;skaits, cik&nbsp;biļešu grāmatiņas&nbsp;nepieciešams pievienot.</P>
-<P><STRONG>Iegādes</STRONG> <STRONG>datums</STRONG> - nepieciešams norādīt&nbsp;biļešu grāmatiņu iegādes datumu.</P>
-<P><STRONG>Čeka</STRONG> <STRONG>numurs</STRONG> <STRONG>no</STRONG> - jānorāda pirmais čeka numurs, no kura tiks&nbsp;turpināta pārējo čeku secīga numerācija pēc kārtas.</P>
-<P><STRONG>Čeku skaits grāmatiņā</STRONG> -&nbsp;nepieciešams norādīt attiecīgo&nbsp;čeku skaitu vienā&nbsp;grāmatiņā.</P>
-<P><STRONG>Sērija</STRONG> - jāievada biļešu grāmatiņas sērija.</P>
-<P><STRONG>Pakas numurs no</STRONG> - iespēja norādīt pakas numuru, no kuras tiks turpināta pārējo grāmatiņu secīga numerācija pēc kārtas.<BR>&nbsp;</P>
-<P>Pēc visu nepieciešamo lauku aizpildīšanas&nbsp;nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;-&nbsp;dokuments tiks saglabāts un būs pieejams apskatei/labošanai <A href="/help/?ssw=33&amp;skf_id=252">Kultūras un citu pasākumu ieejas biļešu žurnālā</A>.</P>
-<P>Nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=24875" border=0>, darbība tiks atcelta un&nbsp;ieejas biļetes netiks pievienotas datu bāzei.</P>
-<P>&nbsp;</P>
-<H5>2) Atvērt ieņēmumu dokumentu</H5>
-<P>Izvēloties&nbsp;Kultūras un citu pasākumu ieejas biļešu&nbsp;žurnālā&nbsp;pieejamo funkciju <IMG src="/help/Skin/help/img.aspx?pid=25008" border=0>, iespēja atvērt Ieņēmumu dokumentu - <A href="/help/?ssw=33&amp;skf_id=350">Kases ieņēmumu orderi</A>, kuram izvēlētās ieejas biļetes ir piesaistītas:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25016" border=0></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Instrukcija: <A href="/help/?ssw=33&amp;skf_id=14112">Kultūras un citu ieejas biļešu piesaistīšana kases ieņēmumu orderim</A></P>
-<H4>Pievienoto Kultūras un citu pasākumu ieejas biļešu labošana</H4>
-<P>Labojumus saglabātajā&nbsp;dokumentā iespējams veikt atverot&nbsp;Ieejas biļetes aprakstu, kurš pieejams apskatei/labošanai <A href="/help/?ssw=33&amp;skf_id=252">Kultūras un citu pasākumu ieejas biļešu žurnālā</A>. Lai labotu pievienoto ierakstu, Kultūras un citu pasākumu ieejas biļešu žurnālā jāizmanto komandpoga&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>&nbsp;(ALT+A), un&nbsp;atvērtajā&nbsp;ierakstā iespējams veikt&nbsp;nepieciešamos labojumus.</P>
-<P>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P>
-<P>&nbsp;</P>
-<P>Kultūras un citu pasākumu ieejas biļešu&nbsp;žurnālā pievieontās ieejas biļetes iespējams piesaistīt <A href="/help/?ssw=33&amp;skf_id=350">Kases ieņēmumu orderim</A>.</P> 
+.. 252 ===================================================Kultūras un citu pasākumu ieejas biļešu žurnāls=================================================== 
+
+
+Lai uzskaitītukultūras un citu pasākumu ieejas biļešuizlietojumu,
+Uzņēmuma rīcībā esošās biļetes jāpievienoKultūras un citu pasākumu
+ieejas biļešužurnālā.
+
+
+Kultūras un citu pasākumu ieejas biļešupievienošana datu bāzei
+``````````````````````````````````````````````````````````````
+
+Kultūras un citu pasākumu ieejas biļešupievienošana, izmantojot rīku
+joslas komandpogu "Pievienot" un aizpildot Kultūras un citu pasākumu
+ieejas biļešu ekrāna formu, nodrošina vienasbiļešu
+grāmatiņaspievienošanu datu bāzē. AtrodotiesKultūras un citu pasākumu
+ieejas biļešu žurnālā, rīku joslā nospiežot komandpogu , tiks
+atvērtaKultūras un citu pasākumu ieejas biļetesekrāna forma:
+
+
+
+
+
+
+
+Sērija - jānorādaieejas biļešu sērijas numurs.
+
+Numurs - jāievadaieejas biļešugrāmatiņas numurs.
+
+Iegādes datums - jānorādaieejas biļešugrāmatiņasiegādes datums.
+
+Čeks no...līdz - jānorādaieejas biļešugrāmatiņā esošo čeku numuri no -
+līdz.
+
+Datums -ieejas biļešugrāmatiņasizsniegšanas datums.
+
+Anulēšanas dat. - laukā automātiski tiks iefiksēts anulēšanas datums,
+anulējot ieejas biļeti.
+
+Struktūrvienība - iespēja norādīt struktūrvienību, kura šo kvīšu
+grāmatiņu pieņem uzskaitē.
+
+
+Kultūras un citu pasākumu ieejas biļešužurnālā pieejamās funkcijas
+``````````````````````````````````````````````````````````````````
+
+Kultūras un citu pasākumu ieejas biļešužurnālā ir izveidotas
+funkcijas:
+
+
+
+
+
+
+1)Ieejas biļešugrāmatiņupakas pievienošanas funkcija;
+2) Naudas ieņēmumu dokumenta atvēršana, kuram piesaistītas ieejas
+biļetes;
+
+
+1) Pievienot dokumentu paku
++++++++++++++++++++++++++++
+
+
+
+Uzņēmuma rīcībā esošāsieejas biļetes jāpievienoKultūras un citu
+pasākumu ieejas biļešu žurnālā.Ieejas biļešu grāmatiņupakas
+pievienošanai, nepieciešams izvēlētiesfunkciju , kasnodrošina
+vairākuIeejas biļešugrāmatiņuvienlaicīgu pievienošanu datu bāzē.
+Norādot grāmatiņu skaitu unsākuma numuru, tiek automātiski uzģenerēts
+norādītais skaits ieejs biļešu grāmatiņu:
+
+
+
+
+
+
+
+Skaits - jānorādaskaits, cikbiļešu grāmatiņasnepieciešams pievienot.
+
+Iegādes datums - nepieciešams norādītbiļešu grāmatiņu iegādes datumu.
+
+Čeka numurs no - jānorāda pirmais čeka numurs, no kura tiksturpināta
+pārējo čeku secīga numerācija pēc kārtas.
+
+Čeku skaits grāmatiņā -nepieciešams norādīt attiecīgočeku skaitu
+vienāgrāmatiņā.
+
+Sērija - jāievada biļešu grāmatiņas sērija.
+
+Pakas numurs no - iespēja norādīt pakas numuru, no kuras tiks
+turpināta pārējo grāmatiņu secīga numerācija pēc kārtas.
+
+
+Pēc visu nepieciešamo lauku aizpildīšanasnospiežot pogu -dokuments
+tiks saglabāts un būs pieejams apskatei/labošanai `Kultūras un citu
+pasākumu ieejas biļešu žurnālā`_.
+
+Nospiežot pogu , darbība tiks atcelta unieejas biļetes netiks
+pievienotas datu bāzei.
+
+
+
+
+2) Atvērt ieņēmumu dokumentu
+++++++++++++++++++++++++++++
+
+IzvēlotiesKultūras un citu pasākumu ieejas biļešužurnālāpieejamo
+funkciju , iespēja atvērt Ieņēmumu dokumentu - `Kases ieņēmumu
+orderi`_, kuram izvēlētās ieejas biļetes ir piesaistītas:
+
+
+
+
+
+
+
+Instrukcija: `Kultūras un citu ieejas biļešu piesaistīšana kases
+ieņēmumu orderim`_
+
+
+Pievienoto Kultūras un citu pasākumu ieejas biļešu labošana
+```````````````````````````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverotIeejas biļetes
+aprakstu, kurš pieejams apskatei/labošanai `Kultūras un citu pasākumu
+ieejas biļešu žurnālā`_. Lai labotu pievienoto ierakstu, Kultūras un
+citu pasākumu ieejas biļešu žurnālā jāizmanto komandpoga (ALT+A),
+unatvērtajāierakstā iespējams veiktnepieciešamos labojumus.
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+
+
+Kultūras un citu pasākumu ieejas biļešužurnālā pievieontās ieejas
+biļetes iespējams piesaistīt `Kases ieņēmumu orderim`_.
+
+ 

@@ -1,9 +1,21 @@
-.. 6912 ============Licences============ <P>Licenču sarakstā redzamas visas programmā pievienotās licences.</P>
-<P>Lai pievienotu jaunu Licenci, jāiet uz Degvielas pasūtījumu sadaļu <A href="/help/?ssw=69&amp;skf_id=6908">Jauns</A>, un jāizvēlas <A href="/help/?ssw=69&amp;skf_id=6908">Licenci</A>. Licenču sarakstā redzams:</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25574" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Kods:</STRONG> Licences kods;</P>
-<P><STRONG>Nosaukums:</STRONG> Licences nosaukums;</P>
-<P><STRONG>Partneris:</STRONG> partneris, kuram ir šī licence;</P>
-<P><STRONG>Derīga no:</STRONG> datums, no kura ir derīga licence;</P>
-<P><STRONG>Derīga līdz:</STRONG> datums, līdz kuram ir derīga licence.</P> 
+.. 6912 ============Licences============ 
+Licenču sarakstā redzamas visas programmā pievienotās licences.
+
+Lai pievienotu jaunu Licenci, jāiet uz Degvielas pasūtījumu sadaļu
+`Jauns`_, un jāizvēlas `Licenci`_. Licenču sarakstā redzams:
+
+
+
+
+
+Kods: Licences kods;
+
+Nosaukums: Licences nosaukums;
+
+Partneris: partneris, kuram ir šī licence;
+
+Derīga no: datums, no kura ir derīga licence;
+
+Derīga līdz: datums, līdz kuram ir derīga licence.
+
+ 

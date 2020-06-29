@@ -1,4 +1,11 @@
-.. 14093 ==============================Norakstīšanas akta izdruka============================== <P>&nbsp;</P>
-<P>Lai izdrukātu sagatavoto Nomenklatūras norakstīšanas dokumentu, nepieciešams nospiest pogu <IMG src="/help/Skin/help/img.aspx?pid=25802" border=0>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25804" border=0></P> 
+.. 14093 ==============================Norakstīšanas akta izdruka============================== 
+
+
+Lai izdrukātu sagatavoto Nomenklatūras norakstīšanas dokumentu,
+nepieciešams nospiest pogu :
+
+
+
+
+
+ 

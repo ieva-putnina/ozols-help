@@ -1,8 +1,24 @@
-.. 697 ========================Nomenklatūru analogi======================== <P>&nbsp;</P>
-<P>Nomenklatūras kartiņas aprakstu iespējams papildināt, norādot nomenklatūras analogus - kartiņai piesaistot līdzīgās preces, ar kurām, vajadzības gadījumā, iespējams aizviet šo preci, ja tā uz doto brīdi nav atlikumā Noliktavā. </P>
-<P>Sarakstā tiek attēlotas nomenklatūras un tām piesaistītie nomenklatūras analogu nosaukumi.</P>
-<P>Lai esošo sarakstu papildinātu, rīku joslā nospiežot pogu:&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>, iespējams pievienot Analogas nomenklatūras esošajām kartiņām:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25332" border=0></P>
-<P>&nbsp;</P>
-<P>Pēc datu aizpildīšanas,&nbsp;Nomenklatūras kartiņai piesaistītās Analogās&nbsp;nomenlatūras,&nbsp;iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P> 
+.. 697 ========================Nomenklatūru analogi======================== 
+
+
+Nomenklatūras kartiņas aprakstu iespējams papildināt, norādot
+nomenklatūras analogus - kartiņai piesaistot līdzīgās preces, ar
+kurām, vajadzības gadījumā, iespējams aizviet šo preci, ja tā uz doto
+brīdi nav atlikumā Noliktavā.
+
+Sarakstā tiek attēlotas nomenklatūras un tām piesaistītie
+nomenklatūras analogu nosaukumi.
+
+Lai esošo sarakstu papildinātu, rīku joslā nospiežot pogu: , iespējams
+pievienot Analogas nomenklatūras esošajām kartiņām:
+
+
+
+
+
+
+
+Pēc datu aizpildīšanas,Nomenklatūras kartiņai piesaistītās
+Analogāsnomenlatūras,iespējams vai .
+
+ 

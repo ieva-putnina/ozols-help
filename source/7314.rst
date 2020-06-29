@@ -1,1 +1,6 @@
-.. 7314 ============Personas============ Personu sarakstā tiek saglabātas visas <A href="/help/?ssw=73&amp;skf_id=7305">pievienotās personas</A>. Aktivizējot konkrētas personas vārdu vai uzvārdu, tiek atvērts personas ierakst un ar to saistīto notikumu pārskats. Personas no saraksta iespējams atlasīt pēc noteiktas <A href="/help/?ssw=73&amp;skf_id=7313">struktūrvienības</A> un ārštata. 
+.. 7314 ============Personas============ Personu sarakstā tiek saglabātas visas `pievienotās personas`_.
+Aktivizējot konkrētas personas vārdu vai uzvārdu, tiek atvērts
+personas ierakst un ar to saistīto notikumu pārskats. Personas no
+saraksta iespējams atlasīt pēc noteiktas `struktūrvienības`_ un
+ārštata.
+ 

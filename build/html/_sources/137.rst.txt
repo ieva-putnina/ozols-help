@@ -1,11 +1,33 @@
-.. 137 ============================Kases pielikumu saraksts============================ <P>&nbsp;</P>
-<P>Kases pielikumu sarakstā tiek glabāti dokumentu veidu nosaukumi, kas visbiežāk pamato naudas kustību, piemēram čeks, kvīts un tmldz.</P>
-<H5>Jauna&nbsp;Kases pielikuma&nbsp;saraksta&nbsp;pievienošana:</H5>
-<P>Lai pievienotu jaunu&nbsp;Kases pielikumu&nbsp;sarakstu,&nbsp;rīku joslā jānospiež poga&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24660" border=0></P>
-<P>Laukā Nosaukums, nepieciešams ierakstīt Kases pielikuma nosaukumu. Ieraksts tiks saglabāts, izpildot komandu <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>.</P>
-<H5>Pievienotā Kases pielikumu saraksta&nbsp;labošana:</H5>
-<P>Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>&nbsp;(ALT+A), un&nbsp;atvērtajā logā nomainīt Nosaukumu.</P>
-<P>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P>
-<P>&nbsp;</P> 
+.. 137 ============================Kases pielikumu saraksts============================ 
+
+
+Kases pielikumu sarakstā tiek glabāti dokumentu veidu nosaukumi, kas
+visbiežāk pamato naudas kustību, piemēram čeks, kvīts un tmldz.
+
+
+JaunaKases pielikumasarakstapievienošana:
++++++++++++++++++++++++++++++++++++++++++
+
+Lai pievienotu jaunuKases pielikumusarakstu,rīku joslā jānospiež poga
+un tiks atvērts jauns logs:
+
+
+
+
+
+Laukā Nosaukums, nepieciešams ierakstīt Kases pielikuma nosaukumu.
+Ieraksts tiks saglabāts, izpildot komandu .
+
+
+Pievienotā Kases pielikumu sarakstalabošana:
+++++++++++++++++++++++++++++++++++++++++++++
+
+Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
+atvērt, izmantojot rīku joslas pogu (ALT+A), unatvērtajā logā nomainīt
+Nosaukumu.
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+
+
+ 

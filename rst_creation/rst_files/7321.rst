@@ -1,13 +1,38 @@
-.. 7321 ===========================Mēģinājumu kopsavilkums=========================== <P>Mēģinājumu kopsavilkuma atskaitē ir redzami visi pievienotie un apstiprinātie mēģinājumi (<A href="/help/?ssw=73&amp;skf_id=7307">darbības</A>). Mēģinājumu kosavilkuma atskaiti iespējams sagatavot pēc konkrētiem kritērijiem (filtra parametriem). Lai sagatavotu atskaiti, ja nepieciešmas, jānorāda kāds no atlasīšanas kritērijiem un jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=26172" border=0>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26170" border=0></P>
-<P>Iespējams atlasīt mēģinājumus pēc viena konkrēta <A href="/help/?ssw=73&amp;skf_id=7312">Pasākuma</A>, <A href="/help/?ssw=73&amp;skf_id=7316">Darbības</A> vai <A href="/help/?ssw=73&amp;skf_id=7313">Struktūrvienības</A>.</P>
-<P>Mēģinājumu kopsavilkuma atskaitē redzams pasākuma nosaukums, mēģinājuma sākuma un beigu datums, darbību skaits un kopīgais mēģinājumu skaits:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26171" border=0></P>
-<P>&nbsp;</P>
-<P>Aktivizējot katru kolonnas virsrakstu, parādās saīsinātā darbības nosaukuma atšifrējums (pilns nosaukums).</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Mēģinājuma kopsavilkumā ir redzami tikai apstiprinātie mēģinājumi (<A href="/help/?ssw=73&amp;skf_id=7307">darbības</A>).</P>
-<P>&nbsp;</P>
-<P>Kopsavilkumu iespējams izdrukāt, nospiežot uz saraksta funkciju izvēli un izvēloties Izdrukāt:</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26173" border=0></P> 
+.. 7321 ===========================Mēģinājumu kopsavilkums=========================== 
+Mēģinājumu kopsavilkuma atskaitē ir redzami visi pievienotie un
+apstiprinātie mēģinājumi (`darbības`_). Mēģinājumu kosavilkuma
+atskaiti iespējams sagatavot pēc konkrētiem kritērijiem (filtra
+parametriem). Lai sagatavotu atskaiti, ja nepieciešmas, jānorāda kāds
+no atlasīšanas kritērijiem un jānospiež poga :
+
+
+
+
+
+Iespējams atlasīt mēģinājumus pēc viena konkrēta `Pasākuma`_,
+`Darbības`_ vai `Struktūrvienības`_.
+
+Mēģinājumu kopsavilkuma atskaitē redzams pasākuma nosaukums,
+mēģinājuma sākuma un beigu datums, darbību skaits un kopīgais
+mēģinājumu skaits:
+
+
+
+
+
+
+
+Aktivizējot katru kolonnas virsrakstu, parādās saīsinātā darbības
+nosaukuma atšifrējums (pilns nosaukums).
+
+Mēģinājuma kopsavilkumā ir redzami tikai apstiprinātie mēģinājumi
+(`darbības`_).
+
+
+
+Kopsavilkumu iespējams izdrukāt, nospiežot uz saraksta funkciju izvēli
+un izvēloties Izdrukāt:
+
+
+
+ 

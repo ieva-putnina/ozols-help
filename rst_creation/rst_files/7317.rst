@@ -1,7 +1,16 @@
-.. 7317 =============Atskaites============= <P>Iespējams sagatavot dažādas atskaites:</P>
-<P><A href="/help/?ssw=73&amp;skf_id=7321">Mēģinājuma kopsavilkumu</A>;</P>
-<P><A href="/help/?ssw=73&amp;skf_id=7318">Notikumu pārskatu</A>;</P>
-<P><A href="/help/?ssw=73&amp;skf_id=7322">Personālija darba pārskatu</A>;</P>
-<P><A href="/help/?ssw=73&amp;skf_id=7319">Pirmizrāžu plānu</A>;</P>
-<P><A href="/help/?ssw=73&amp;skf_id=7320">Repertuāru</A>;</P>
-<P><A href="/help/?ssw=73&amp;skf_id=7323">Kalendāro plānu</A>.</P> .. toctree::   :maxdepth: 5    7321.rst   7318.rst   7322.rst   7319.rst   7320.rst
+.. 7317 =============Atskaites============= 
+Iespējams sagatavot dažādas atskaites:
+
+`Mēģinājuma kopsavilkumu`_;
+
+`Notikumu pārskatu`_;
+
+`Personālija darba pārskatu`_;
+
+`Pirmizrāžu plānu`_;
+
+`Repertuāru`_;
+
+`Kalendāro plānu`_.
+
+ .. toctree::   :maxdepth: 5    7321.rst   7318.rst   7322.rst   7319.rst   7320.rst

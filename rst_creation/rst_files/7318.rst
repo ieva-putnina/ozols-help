@@ -1,18 +1,47 @@
-.. 7318 =====================Notikumu pārskats===================== <P>Notikumu pārskatā redzami visi pievienotie un saglabātie <A href="/help/?ssw=73&amp;skf_id=7308">notikumi</A>.</P>
-<P>Notikumu pārskata atskaiti iespējams sagatavot pēc dažādiem izvēlētiem atlases kritērijiem (filtra parametriem) un nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=26172" border=0>:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26174" border=0></P>
-<P>Notikumu pārskatā tiek attēlota detalizēta informācija par notikumiem - notikumu sākuma un beigu laiks, <A href="/help/?ssw=73&amp;skf_id=7312">pasākuma nosaukums</A>, <A href="/help/?ssw=73&amp;skf_id=7315">telpa,</A> <A href="/help/?ssw=73&amp;skf_id=7316">darbība</A>, <A href="/help/?ssw=73&amp;skf_id=7313">solisti</A>, radošā brigāde, piezīmes un notikumu statuss:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26175" border=0></P>
-<P>&nbsp;</P>
-<P>Ja nepieciešams atlasīt citu informāciju, jānospiež poga Filtra parametri, un filtrā jāizvēlās attiecīgie parametri.</P>
-<P>Lai notikumu pārskatu izdrukātu, jāizvēlas Saraksta funkcijas, un, apskatoties, kura ir pēdējā saglabātā Izdrukas forma, ja nepieciešams, jāizvēlas mainīt izdrukas formu:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26176" border=0></P>
-<P>&nbsp;</P>
-<P>Izvēloties un nospiežot pogu <IMG src="/help/Skin/help/img.aspx?pid=26177" border=0>Mainīt izdrukas formu, tiek atvērts nodefinēto izdrukas formu izvēles logs, kur no saraksta <IMG src="/help/Skin/help/img.aspx?pid=26179" border=0>jāizvēlas attiecīgā izdrukas formu un jāsaglabā:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=26178" border=0></P>
-<P>&nbsp;</P>
-<P>Pēc izdrukas formas izvēles un saglabāšanas, Izdrukas izvēles logs jāaizver, un jāizvēlās sarakta funkcija Izdrukāt (<IMG src="/help/Skin/help/img.aspx?pid=26180" border=0>).</P> 
+.. 7318 =====================Notikumu pārskats===================== 
+Notikumu pārskatā redzami visi pievienotie un saglabātie `notikumi`_.
+
+Notikumu pārskata atskaiti iespējams sagatavot pēc dažādiem izvēlētiem
+atlases kritērijiem (filtra parametriem) un nospiežot pogu :
+
+
+
+
+
+Notikumu pārskatā tiek attēlota detalizēta informācija par notikumiem
+- notikumu sākuma un beigu laiks, `pasākuma nosaukums`_, `telpa,`_
+`darbība`_, `solisti`_, radošā brigāde, piezīmes un notikumu statuss:
+
+
+
+
+
+
+
+Ja nepieciešams atlasīt citu informāciju, jānospiež poga Filtra
+parametri, un filtrā jāizvēlās attiecīgie parametri.
+
+Lai notikumu pārskatu izdrukātu, jāizvēlas Saraksta funkcijas, un,
+apskatoties, kura ir pēdējā saglabātā Izdrukas forma, ja nepieciešams,
+jāizvēlas mainīt izdrukas formu:
+
+
+
+
+
+
+
+Izvēloties un nospiežot pogu Mainīt izdrukas formu, tiek atvērts
+nodefinēto izdrukas formu izvēles logs, kur no saraksta jāizvēlas
+attiecīgā izdrukas formu un jāsaglabā:
+
+
+
+
+
+
+
+Pēc izdrukas formas izvēles un saglabāšanas, Izdrukas izvēles logs
+jāaizver, un jāizvēlās sarakta funkcija Izdrukāt ( ).
+
+ 

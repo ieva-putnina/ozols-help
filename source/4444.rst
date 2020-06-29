@@ -1,1 +1,2 @@
-.. 4444 ===================Klientu portāls===================  .. toctree::   :maxdepth: 6    4404.rst   4401.rst   4419.rst   5241.rst
+.. 4444 ===================Klientu portāls=================== 
+ .. toctree::   :maxdepth: 6    4404.rst   4401.rst   4419.rst   5241.rst

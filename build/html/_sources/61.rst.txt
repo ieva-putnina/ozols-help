@@ -1,2 +1,10 @@
-.. 61 ============Saraksti============ <P><A href="/help/?ssw=33&amp;skf_id=189"></A>&nbsp;</P>
-<P>CRM (Partneri) sarakstos nepieciešams pievienot uzņēmuma <A href="/help/?ssw=33&amp;skf_id=112">Partnerus</A>&nbsp;(Fiziskas, Juridiskas personas), kā arī iespējams pievienot Partneru <A href="/help/?ssw=33&amp;skf_id=189">Kontaktus</A>, <A href="/help/?ssw=33&amp;skf_id=192">Adreses</A>, izveidot <A href="/help/?ssw=33&amp;skf_id=113">Partneru grupas</A>, <A href="/help/?ssw=33&amp;skf_id=810">Sektoru</A> klasifikatoru un izveidot <A href="/help/?ssw=33&amp;skf_id=842">Potenciālo partneru</A>&nbsp;sarakstu.</P> .. toctree::   :maxdepth: 5    192.rst   191.rst   906.rst   904.rst   905.rst   887.rst   886.rst   189.rst   900.rst   740.rst   112.rst   113.rst   150.rst   1045.rst   1044.rst   149.rst   842.rst   944.rst   810.rst   878.rst   1000.rst   193.rst
+.. 61 ============Saraksti============ 
+``_
+
+CRM (Partneri) sarakstos nepieciešams pievienot uzņēmuma
+`Partnerus`_(Fiziskas, Juridiskas personas), kā arī iespējams
+pievienot Partneru `Kontaktus`_, `Adreses`_, izveidot `Partneru
+grupas`_, `Sektoru`_ klasifikatoru un izveidot `Potenciālo
+partneru`_sarakstu.
+
+ .. toctree::   :maxdepth: 5    192.rst   191.rst   906.rst   904.rst   905.rst   887.rst   886.rst   189.rst   900.rst   740.rst   112.rst   113.rst   150.rst   1045.rst   1044.rst   149.rst   842.rst   944.rst   810.rst   878.rst   1000.rst   193.rst

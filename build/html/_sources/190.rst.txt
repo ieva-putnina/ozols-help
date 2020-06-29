@@ -1,14 +1,41 @@
-.. 190 =================================Lietotāju tiesības uzņēmumiem================================= <P>&nbsp;</P>
-<P>Ja datu bāzē tiek uzskaitīti dati pa vairākiem uzņēmumiem, jānosaka lietotāju tiesības izmantot šo uzņēmuma datus.<BR>Tiesības izmantot uzņēmumus nozīmē, ka lietotājam būs pieejami tikai konkrēta uzņēmuma dokumenti, lietotājam nebūs pieejama cita uzņēmuma dokumentu pievienošana un datu apskate.<BR></P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=24545" border=0>Katram individuālam lietotājam tiks piešķirtas tādas tiesības, kādas būs noteiktas grupām - ja lietotājs vienlaicīgi atradīsies vairākās grupām, tad šim lietotājām tiesības tiks summētas.</P>
-<P>&nbsp;</P>
-<P>Atverot lietotāju tiesību noteikšanas ekrāna formu, kreisajā pusē tiek parādītas izveidotās lietotāju grupas virsējā līmenī un pievienotie lietotāji grupai zem tiem. Labajā ekrāna pusē tiek parādīti datu bāzē pievienotie uzņēmumi:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25775" border=0></P>
-<P>&nbsp;</P>
-<P>1. Jāiezīmē lietotāju grupa, kurai tiesības nepieciešams noteikt</P>
-<P>&nbsp;</P>
-<P>2.&nbsp;Jāaktivizē tie uzņēmumi, kuri šīs grupas lietotājiem būs pieejami</P>
-<P>3. Lai saglabātu tiesības iezīmētajai grupai, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25771" border=0></P>
-<P>4. Lai aizvērtu "Lietotāju tiesības darba režīmiem" logu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25772" border=0></P>
-<P>&nbsp;</P> 
+.. 190 =================================Lietotāju tiesības uzņēmumiem================================= 
+
+
+Ja datu bāzē tiek uzskaitīti dati pa vairākiem uzņēmumiem, jānosaka
+lietotāju tiesības izmantot šo uzņēmuma datus.
+Tiesības izmantot uzņēmumus nozīmē, ka lietotājam būs pieejami tikai
+konkrēta uzņēmuma dokumenti, lietotājam nebūs pieejama cita uzņēmuma
+dokumentu pievienošana un datu apskate.
+
+
+Katram individuālam lietotājam tiks piešķirtas tādas tiesības, kādas
+būs noteiktas grupām - ja lietotājs vienlaicīgi atradīsies vairākās
+grupām, tad šim lietotājām tiesības tiks summētas.
+
+
+
+Atverot lietotāju tiesību noteikšanas ekrāna formu, kreisajā pusē tiek
+parādītas izveidotās lietotāju grupas virsējā līmenī un pievienotie
+lietotāji grupai zem tiem. Labajā ekrāna pusē tiek parādīti datu bāzē
+pievienotie uzņēmumi:
+
+
+
+
+
+
+
+1. Jāiezīmē lietotāju grupa, kurai tiesības nepieciešams noteikt
+
+
+
+2.Jāaktivizē tie uzņēmumi, kuri šīs grupas lietotājiem būs pieejami
+
+3. Lai saglabātu tiesības iezīmētajai grupai, jānospiež poga
+
+4. Lai aizvērtu "Lietotāju tiesības darba režīmiem" logu, jānospiež
+poga
+
+
+
+ 

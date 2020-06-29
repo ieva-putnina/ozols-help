@@ -1,286 +1,158 @@
-.. 14083 ============================================================Grāmatojumu šablonu izveide Polišu moduļa darba režīmiem============================================================ <P>&nbsp;</P>
-<P>Lai grāmatošanas process būtu ērts un automatizēts, iepriekš nepieciešams izveidot atbilstošu grāmatojumu šablonus Polišu moduļa darba režīmiem, balstoties uz Apdrošināšanas veida aprakstā norādītajiem grāmatvediskajiem kontiem no uzņēmuma papildinātā <A href="/help/?ssw=33&amp;skf_id=114">Kontu plāna</A>. </P>
-<P>&nbsp;</P>
-<P>Grāmatojumu šablonus iespējams pievienot un pēc tam veikt korekcijas esošajā šablonā no darba režīma:</P>
-<P>&nbsp;</P>
-<P>Virsgrāmata-&gt;Saraksti-&gt;<A href="/help/?ssw=33&amp;skf_id=135">Grāmatojumu šabloni</A></P>
-<H5>Nepieciešamie grāmatojumu šabloni Polišu darba režīmam</H5>
-<P>Lai ar Polisēm saistīto darbību grāmatošanas process tiktu automatizēts, nepieciešams izveidot sekojošus grāmatojumu šablonus:</P>
-<P>&nbsp;</P>
-<P><STRONG>1. Aprēķināta brokeru komisija:</STRONG></P>
-<P>&nbsp;</P>
-<P>Darba režīms:&nbsp;Pārdošanas dokuments&nbsp;(RRD)</P>
-<P>Veids: Saturs(S), Summa: 100%, Summas lauks: [Satura]</P>
-<P>
-<TABLE>
-<TBODY>
-<TR>
-<TD width=60>&nbsp;&nbsp;&nbsp;</TD>
-<TD width=60><STRONG>Debets</STRONG></TD>
-<TD width=60><STRONG>Kredīts</STRONG></TD></TR>
-<TR>
-<TD width=60>Konts</TD>
-<TD width=60>[Pap.konts1]</TD>
-<TD width=60>[Pap.konts2]</TD></TR>
-<TR>
-<TD width=60>Dimensija</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR>
-<TR>
-<TD width=60>Partneris</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR>
-<TR></TR></TBODY></TABLE></P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25364" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>2. Bankas ieņēmumi-saņemta komisija: </STRONG></P>
-<P>&nbsp;</P>
-<P>Darba režīms: Ieejošais maksājums (BIE)</P>
-<P>Veids: Saturs(S), Summa: 100%, Summas lauks: [Satura]</P>
-<P>
-<TABLE>
-<TBODY>
-<TR>
-<TD width=60>&nbsp;&nbsp;&nbsp;</TD>
-<TD width=60><STRONG>Debets</STRONG></TD>
-<TD width=60><STRONG>Kredīts</STRONG></TD></TR>
-<TR>
-<TD width=60>Konts</TD>
-<TD width=60>Bankas</TD>
-<TD width=60>[Pap.konts1]</TD></TR>
-<TR>
-<TD width=60>Dimensija</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR>
-<TR>
-<TD width=60>Partneris</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR>
-<TR></TR></TBODY></TABLE></P>
-<P><STRONG>3. Bankas ieņēmumi-tekošās polises: </STRONG></P>
-<P>&nbsp;</P>
-<P>Darba režīms: Ieejošais maksājums (BIE)</P>
-<P>Veids: Saturs(S), Summa: 100%, Summas lauks: [Satura]</P>
-<P>
-<TABLE>
-<TBODY>
-<TR>
-<TD width=60>&nbsp;&nbsp;&nbsp;</TD>
-<TD width=60><STRONG>Debets</STRONG></TD>
-<TD width=60><STRONG>Kredīts</STRONG></TD></TR>
-<TR>
-<TD width=60>Konts</TD>
-<TD width=60>Bankas</TD>
-<TD width=60>[Fin.kat.] </TD></TR>
-<TR>
-<TD width=60>Dimensija</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR>
-<TR>
-<TD width=60>Partneris</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR></TBODY></TABLE></P>
-<P><STRONG>4. Ieturēta komisija, kad pārskaitīta nauda uz AS: </STRONG></P>
-<P>&nbsp;</P>
-<P>Darba režīms: Iepirkumu dokuments&nbsp;(IEP)</P>
-<P>Veids: Saturs(S), Summa: 100%, Summas lauks: [Atlaide]</P>
-<P>
-<TABLE>
-<TBODY>
-<TR>
-<TD width=60>&nbsp;&nbsp;&nbsp;</TD>
-<TD width=60><STRONG>Debets</STRONG></TD>
-<TD width=60><STRONG>Kredīts</STRONG></TD></TR>
-<TR>
-<TD width=60>Konts</TD>
-<TD width=60>[Pap.konts6]</TD>
-<TD width=60>[Pap.konts1] </TD></TR>
-<TR>
-<TD width=60>Dimensija</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR>
-<TR>
-<TD width=60>Partneris</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR></TBODY></TABLE></P>
-<P><STRONG>5. Polises parakstīšana: </STRONG></P>
-<P>&nbsp;</P>
-<P>Darba režīms: Polises parakstīšana (POP)</P>
-<P>Veids: Saturs(S), Summa: 100%, Summas lauks: [Apdr.prēmija]</P>
-<P>
-<TABLE>
-<TBODY>
-<TR>
-<TD width=60>&nbsp;&nbsp;&nbsp;</TD>
-<TD width=60><STRONG>Debets</STRONG></TD>
-<TD width=60><STRONG>Kredīts</STRONG></TD></TR>
-<TR>
-<TD width=60>Konts</TD>
-<TD width=60>[4.Papildkonts]</TD>
-<TD width=60>[3.Papildkonts] </TD></TR>
-<TR>
-<TD width=60>Dimensija</TD>
-<TD width=60>[Polises]</TD>
-<TD width=60>[Polises]</TD></TR>
-<TR>
-<TD width=60>Partneris</TD>
-<TD width=60>[Polises]</TD>
-<TD width=60>[Polises]</TD></TR></TBODY></TABLE></P>
-<P><STRONG>6. Pārskaitīta prēmija ieturot brokera komisiju: </STRONG></P>
-<P>&nbsp;</P>
-<P>Darba režīms:&nbsp;Maksājuma uzdevums&nbsp;(BIZ)</P>
-<P>Veids: Saturs(S), Summa: 100%, Summas lauks: [Satura]</P>
-<P>
-<TABLE>
-<TBODY>
-<TR>
-<TD width=60>&nbsp;&nbsp;&nbsp;</TD>
-<TD width=60><STRONG>Debets</STRONG></TD>
-<TD width=60><STRONG>Kredīts</STRONG></TD></TR>
-<TR>
-<TD width=60>Konts</TD>
-<TD width=60>[Pap.konts6]</TD>
-<TD width=60>[Bankas] </TD></TR>
-<TR>
-<TD width=60>Dimensija</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR>
-<TR>
-<TD width=60>Partneris</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR></TBODY></TABLE></P>
-<P><STRONG>7. Aprēķināta un ieturēta komisija, kad pārskaitīta nauda uz AS: </STRONG></P>
-<P>&nbsp;</P>
-<P>Darba režīms: Iepirkumu dokuments&nbsp;(IEP)</P>
-<P>1.rindiņa</P>
-<P>Veids: Saturs(S), Summa: 100%, Summas lauks: [Atlaide]</P>
-<P>
-<TABLE>
-<TBODY>
-<TR>
-<TD width=60>&nbsp;&nbsp;&nbsp;</TD>
-<TD width=60><STRONG>Debets</STRONG></TD>
-<TD width=60><STRONG>Kredīts</STRONG></TD></TR>
-<TR>
-<TD width=60>Konts</TD>
-<TD width=60>[Pap.konts6]</TD>
-<TD width=60>[Pap.konts1] </TD></TR>
-<TR>
-<TD width=60>Dimensija</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR>
-<TR>
-<TD width=60>Partneris</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR></TBODY></TABLE></P>
-<P>2.rindiņa</P>
-<P>Veids: Saturs(S), Summa: 100%, Summas lauks: [Atlaide]</P>
-<P>
-<TABLE>
-<TBODY>
-<TR>
-<TD width=60>&nbsp;&nbsp;&nbsp;</TD>
-<TD width=60><STRONG>Debets</STRONG></TD>
-<TD width=60><STRONG>Kredīts</STRONG></TD></TR>
-<TR>
-<TD width=60>Konts</TD>
-<TD width=60>[Pap.konts1]</TD>
-<TD width=60>[Pap.konts2] </TD></TR>
-<TR>
-<TD width=60>Dimensija</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR>
-<TR>
-<TD width=60>Partneris</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR></TBODY></TABLE></P>
-<P><STRONG>8. Polise anulēta: </STRONG></P>
-<P>&nbsp;</P>
-<P>Darba režīms:&nbsp;Pārdošanas dokumenti (RRD)</P>
-<P>Veids: Saturs(S), Summa: 100%, Summas lauks: [Summa bez atlaides]</P>
-<P>
-<TABLE>
-<TBODY>
-<TR>
-<TD width=60>&nbsp;&nbsp;&nbsp;</TD>
-<TD width=60><STRONG>Debets</STRONG></TD>
-<TD width=60><STRONG>Kredīts</STRONG></TD></TR>
-<TR>
-<TD width=60>Konts</TD>
-<TD width=60>[Pap.konts3]</TD>
-<TD width=60>[Pap.konts4] </TD></TR>
-<TR>
-<TD width=60>Dimensija</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR>
-<TR>
-<TD width=60>Partneris</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR></TBODY></TABLE></P>
-<P><STRONG>9. Pārdošanas dokumenti - turpmākie maksājumi: </STRONG></P>
-<P>&nbsp;</P>
-<P>Darba režīms:&nbsp;Pārdošanas dokumenti (RRD)</P>
-<P>1.rindiņa</P>
-<P>Veids: Saturs(S), Summa: 100%, Summas lauks: [Summa bez atlaides]</P>
-<P>
-<TABLE>
-<TBODY>
-<TR>
-<TD width=60>&nbsp;&nbsp;&nbsp;</TD>
-<TD width=60><STRONG>Debets</STRONG></TD>
-<TD width=60><STRONG>Kredīts</STRONG></TD></TR>
-<TR>
-<TD width=60>Konts</TD>
-<TD width=60>[Fin.kat]</TD>
-<TD width=60>[Pap.konts4] </TD></TR>
-<TR>
-<TD width=60>Dimensija</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR>
-<TR>
-<TD width=60>Partneris</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR></TBODY></TABLE></P>
-<P>2.rindiņa</P>
-<P>Veids: Saturs(S), Summa: 100%, Summas lauks: [Summa bez atlaides]</P>
-<P>
-<TABLE>
-<TBODY>
-<TR>
-<TD width=60>&nbsp;&nbsp;&nbsp;</TD>
-<TD width=60><STRONG>Debets</STRONG></TD>
-<TD width=60><STRONG>Kredīts</STRONG></TD></TR>
-<TR>
-<TD width=60>Konts</TD>
-<TD width=60>[Pap.konts3]</TD>
-<TD width=60>[Pap.konts6] </TD></TR>
-<TR>
-<TD width=60>Dimensija</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR>
-<TR>
-<TD width=60>Partneris</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR></TBODY></TABLE></P>
-<P>3.rindiņa</P>
-<P>Veids: Saturs(S), Summa: 100%, Summas lauks: [Atlaide]</P>
-<P>
-<TABLE>
-<TBODY>
-<TR>
-<TD width=60>&nbsp;&nbsp;&nbsp;</TD>
-<TD width=60><STRONG>Debets</STRONG></TD>
-<TD width=60><STRONG>Kredīts</STRONG></TD></TR>
-<TR>
-<TD width=60>Konts</TD>
-<TD width=60>[Pap.konts5]</TD>
-<TD width=60>[Fin.kat] </TD></TR>
-<TR>
-<TD width=60>Dimensija</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR>
-<TR>
-<TD width=60>Partneris</TD>
-<TD width=60>[Satura]</TD>
-<TD width=60>[Satura]</TD></TR></TBODY></TABLE></P> 
+.. 14083 ============================================================Grāmatojumu šablonu izveide Polišu moduļa darba režīmiem============================================================ 
+
+
+Lai grāmatošanas process būtu ērts un automatizēts, iepriekš
+nepieciešams izveidot atbilstošu grāmatojumu šablonus Polišu moduļa
+darba režīmiem, balstoties uz Apdrošināšanas veida aprakstā
+norādītajiem grāmatvediskajiem kontiem no uzņēmuma papildinātā `Kontu
+plāna`_.
+
+
+
+Grāmatojumu šablonus iespējams pievienot un pēc tam veikt korekcijas
+esošajā šablonā no darba režīma:
+
+
+
+Virsgrāmata->Saraksti->`Grāmatojumu šabloni`_
+
+
+Nepieciešamie grāmatojumu šabloni Polišu darba režīmam
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai ar Polisēm saistīto darbību grāmatošanas process tiktu
+automatizēts, nepieciešams izveidot sekojošus grāmatojumu šablonus:
+
+
+
+1. Aprēķināta brokeru komisija:
+
+
+
+Darba režīms:Pārdošanas dokuments(RRD)
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Satura]
+
+Debets Kredīts Konts [Pap.konts1] [Pap.konts2] Dimensija [Satura]
+[Satura] Partneris [Satura] [Satura]
+
+
+
+
+
+
+
+2. Bankas ieņēmumi-saņemta komisija:
+
+
+
+Darba režīms: Ieejošais maksājums (BIE)
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Satura]
+
+Debets Kredīts Konts Bankas [Pap.konts1] Dimensija [Satura] [Satura]
+Partneris [Satura] [Satura]
+
+3. Bankas ieņēmumi-tekošās polises:
+
+
+
+Darba režīms: Ieejošais maksājums (BIE)
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Satura]
+
+Debets Kredīts Konts Bankas [Fin.kat.] Dimensija [Satura] [Satura]
+Partneris [Satura] [Satura]
+
+4. Ieturēta komisija, kad pārskaitīta nauda uz AS:
+
+
+
+Darba režīms: Iepirkumu dokuments(IEP)
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Atlaide]
+
+Debets Kredīts Konts [Pap.konts6] [Pap.konts1] Dimensija [Satura]
+[Satura] Partneris [Satura] [Satura]
+
+5. Polises parakstīšana:
+
+
+
+Darba režīms: Polises parakstīšana (POP)
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Apdr.prēmija]
+
+Debets Kredīts Konts [4.Papildkonts] [3.Papildkonts] Dimensija
+[Polises] [Polises] Partneris [Polises] [Polises]
+
+6. Pārskaitīta prēmija ieturot brokera komisiju:
+
+
+
+Darba režīms:Maksājuma uzdevums(BIZ)
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Satura]
+
+Debets Kredīts Konts [Pap.konts6] [Bankas] Dimensija [Satura] [Satura]
+Partneris [Satura] [Satura]
+
+7. Aprēķināta un ieturēta komisija, kad pārskaitīta nauda uz AS:
+
+
+
+Darba režīms: Iepirkumu dokuments(IEP)
+
+1.rindiņa
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Atlaide]
+
+Debets Kredīts Konts [Pap.konts6] [Pap.konts1] Dimensija [Satura]
+[Satura] Partneris [Satura] [Satura]
+
+2.rindiņa
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Atlaide]
+
+Debets Kredīts Konts [Pap.konts1] [Pap.konts2] Dimensija [Satura]
+[Satura] Partneris [Satura] [Satura]
+
+8. Polise anulēta:
+
+
+
+Darba režīms:Pārdošanas dokumenti (RRD)
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Summa bez atlaides]
+
+Debets Kredīts Konts [Pap.konts3] [Pap.konts4] Dimensija [Satura]
+[Satura] Partneris [Satura] [Satura]
+
+9. Pārdošanas dokumenti - turpmākie maksājumi:
+
+
+
+Darba režīms:Pārdošanas dokumenti (RRD)
+
+1.rindiņa
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Summa bez atlaides]
+
+Debets Kredīts Konts [Fin.kat] [Pap.konts4] Dimensija [Satura]
+[Satura] Partneris [Satura] [Satura]
+
+2.rindiņa
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Summa bez atlaides]
+
+Debets Kredīts Konts [Pap.konts3] [Pap.konts6] Dimensija [Satura]
+[Satura] Partneris [Satura] [Satura]
+
+3.rindiņa
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Atlaide]
+
+Debets Kredīts Konts [Pap.konts5] [Fin.kat] Dimensija [Satura]
+[Satura] Partneris [Satura] [Satura]
+
+ 

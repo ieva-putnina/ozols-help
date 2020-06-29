@@ -437,24 +437,47 @@
             
   <div class="section" id="ieejoso-kodu-konfiguracija">
 <h1>Ieejošo kodu konfigurācija<a class="headerlink" href="#ieejoso-kodu-konfiguracija" title="Permalink to this headline">¶</a></h1>
-<p>&lt;P&gt;&amp;nbsp;&lt;/P&gt;
-&lt;P&gt;Ieejošo kodu konfigurācijā tiek nodefinēti uzņēmumā izmantotie algu aprēķina ieejošie kodi, kas tiek izmantoti veidojot algu aprēķina algoritmu &lt;A href=”/help/?ssw=33&amp;amp;skf_id=283”&gt;Rezultējošo kodu konfigurācijā&lt;/A&gt;.&amp;nbsp;Ieejošajos kodos tiek nodefinēti visi nepieciešamie algu aprēķināšanai izmantotie parametri - summas (alga, piemaksas, utt.), darba dienas (nostrādātās, atvaļinājuma, utt.), kalendārās dienas (kavētās kalendārās dienas, utt.), procenti, utt..&lt;/P&gt;
-&lt;P&gt;&amp;nbsp;&lt;/P&gt;
-&lt;P&gt;&lt;IMG src=”/help/Skin/help/img.aspx?pid=26351” border=0&gt;&lt;/P&gt;
-&lt;P&gt;&amp;nbsp;&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Aprēķina modulis&lt;/STRONG&gt; - jānodefinē algu aprēķina modulis no &lt;A href=”/help/?ssw=33&amp;amp;skf_id=213”&gt;Aprēķinu moduļu saraksta&lt;/A&gt;.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Veids&lt;/STRONG&gt; - jānodefinē ieejošā algu koda veids no &lt;A href=”/help/?ssw=33&amp;amp;skf_id=279”&gt;Ieejošo kodu veidu saraksta&lt;/A&gt;.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Numurs&lt;/STRONG&gt; - jānodefinē ieejošā koda numurs. Norādot Koda veidu šajā laukā tiek aizpildīts norādītajam koda veidam nākošais brīvais numurs. Koda numurs ir unikāls viena veida ietvaros.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Kods&lt;/STRONG&gt; - jānodefinē kods.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Nosaukums&lt;/STRONG&gt; - jānodefinē nosaukums.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Tips&lt;/STRONG&gt; - iespēja nodefinēt tipu.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Tarif.konstante&lt;/STRONG&gt; - iespēja nodefinēt &lt;A href=”/help/?ssw=33&amp;amp;skf_id=281”&gt;Algu tarifikācijas konstanti&lt;/A&gt;.&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Dimensijas&lt;/STRONG&gt; - iespēja nodefinēt dimensijas. Ja uzņēmumā tiek izmantota daudzdimensiju uzskaite, tad šajos laukos ir iespēja ieejošajam kodam nodefinēt šim kodam atbilstošās dimensijas. Ja ieejošajam kodam var būt vairākas dimensijas, tad šie lauki nav jāaizpilda un dimensijas jāpievieno &lt;A href=”/help/?ssw=33&amp;amp;skf_id=728”&gt;Algu tarifikācijā&lt;/A&gt;&amp;nbsp;vai &lt;A href=”/help/?ssw=33&amp;amp;skf_id=212”&gt;Algu aprēķinā&lt;/A&gt;. Ja ieejošajam kodam nav jānorāda dimensijas, tad šajos laukos ir jāaizpilda vērtība [KIVFA].&lt;/P&gt;
-&lt;P&gt;&lt;STRONG&gt;Piezīmes&lt;/STRONG&gt; - iespēja norādīt piezīmes.&lt;/P&gt;
-&lt;P&gt;&amp;nbsp;&lt;/P&gt;
-&lt;P&gt;Ieejošie kodi nosaka, kādas vērtības tiks izmantotas, lai iegūtu algu aprēķina rezultātus, ieejošie kodi var būt alga, piemaksas, prēmijas, samaksa par stundu darbu, nakts stundām, virsstundām u.tml.. Tāpat ar ieejošajiem kodiem ir jāfiksē kavētās darba dienas, atvaļinājuma dienas, slimības dienas. Kā ieejošos kodus var izmantot jebkuru informāciju, kas nepieciešama, lai aprēķinātu algu rezultātus, piemēram, dažādas likmes, tarifus, koeficientus. Ieejošo kodu veidus nosaka izveidotie maksājumu veidi (&amp;gt;Pārlūks &amp;gt; Alga &amp;gt; Konfigurācija &amp;gt; &lt;A href=”/help/?ssw=33&amp;amp;skf_id=279”&gt;Ieejošo kodu veidi&lt;/A&gt;).&lt;/P&gt;
-&lt;P&gt;&amp;nbsp;&lt;/P&gt;
-&lt;P&gt;Pievienojot jaunus ieejošos maksājumus, jānorāda aprēķina modulis un ieejošā maksājuma veids. Numurs ir ieejošā koda kārtas numurs. Vienam ieejošā maksājuma veidam nedrīkst būt divi ieejošie kodi ar vienādiem numuriem, jo numurs tiek izmantots rezultātu aprēķinam (piemēram, A[1], D[1] utt.). Laukā Kods jāpievieno saīsināts ieejošā koda nosaukums. Jāpievieno ieejošā koda nosaukums.&lt;/P&gt;</p>
+<p>Ieejošo kodu konfigurācijā tiek nodefinēti uzņēmumā izmantotie algu
+aprēķina ieejošie kodi, kas tiek izmantoti veidojot algu aprēķina
+algoritmu <a href="#id1"><span class="problematic" id="id2">`Rezultējošo kodu konfigurācijā`_</span></a>.Ieejošajos kodos tiek
+nodefinēti visi nepieciešamie algu aprēķināšanai izmantotie parametri
+- summas (alga, piemaksas, utt.), darba dienas (nostrādātās,
+atvaļinājuma, utt.), kalendārās dienas (kavētās kalendārās dienas,
+utt.), procenti, utt..</p>
+<p>Aprēķina modulis - jānodefinē algu aprēķina modulis no <a href="#id3"><span class="problematic" id="id4">`Aprēķinu
+moduļu saraksta`_</span></a>.</p>
+<p>Veids - jānodefinē ieejošā algu koda veids no <a href="#id5"><span class="problematic" id="id6">`Ieejošo kodu veidu
+saraksta`_</span></a>.</p>
+<p>Numurs - jānodefinē ieejošā koda numurs. Norādot Koda veidu šajā laukā
+tiek aizpildīts norādītajam koda veidam nākošais brīvais numurs. Koda
+numurs ir unikāls viena veida ietvaros.</p>
+<p>Kods - jānodefinē kods.</p>
+<p>Nosaukums - jānodefinē nosaukums.</p>
+<p>Tips - iespēja nodefinēt tipu.</p>
+<p>Tarif.konstante - iespēja nodefinēt <a href="#id7"><span class="problematic" id="id8">`Algu tarifikācijas konstanti`_</span></a>.</p>
+<p>Dimensijas - iespēja nodefinēt dimensijas. Ja uzņēmumā tiek izmantota
+daudzdimensiju uzskaite, tad šajos laukos ir iespēja ieejošajam kodam
+nodefinēt šim kodam atbilstošās dimensijas. Ja ieejošajam kodam var
+būt vairākas dimensijas, tad šie lauki nav jāaizpilda un dimensijas
+jāpievieno <a href="#id9"><span class="problematic" id="id10">`Algu tarifikācijā`_vai `Algu aprēķinā`_</span></a>. Ja ieejošajam
+kodam nav jānorāda dimensijas, tad šajos laukos ir jāaizpilda vērtība
+[KIVFA].</p>
+<p>Piezīmes - iespēja norādīt piezīmes.</p>
+<p>Ieejošie kodi nosaka, kādas vērtības tiks izmantotas, lai iegūtu algu
+aprēķina rezultātus, ieejošie kodi var būt alga, piemaksas, prēmijas,
+samaksa par stundu darbu, nakts stundām, virsstundām u.tml.. Tāpat ar
+ieejošajiem kodiem ir jāfiksē kavētās darba dienas, atvaļinājuma
+dienas, slimības dienas. Kā ieejošos kodus var izmantot jebkuru
+informāciju, kas nepieciešama, lai aprēķinātu algu rezultātus,
+piemēram, dažādas likmes, tarifus, koeficientus. Ieejošo kodu veidus
+nosaka izveidotie maksājumu veidi (&gt;Pārlūks &gt; Alga &gt; Konfigurācija &gt;
+<a href="#id11"><span class="problematic" id="id12">`Ieejošo kodu veidi`_</span></a>).</p>
+<p>Pievienojot jaunus ieejošos maksājumus, jānorāda aprēķina modulis un
+ieejošā maksājuma veids. Numurs ir ieejošā koda kārtas numurs. Vienam
+ieejošā maksājuma veidam nedrīkst būt divi ieejošie kodi ar vienādiem
+numuriem, jo numurs tiek izmantots rezultātu aprēķinam (piemēram,
+A[1], D[1] utt.). Laukā Kods jāpievieno saīsināts ieejošā koda
+nosaukums. Jāpievieno ieejošā koda nosaukums.</p>
 </div>
 
 

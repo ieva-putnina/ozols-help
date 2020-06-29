@@ -1,74 +1,203 @@
-.. 332 ==========================Kases izdevumu orderis========================== <p>&nbsp;</p>
-<p>Kases izdevumu orderis jāveido, kad tiek noformēta operācija par skaidras naudas izmaksu no uzņēmuma kases. Dokumentam ir iebūvēta standarta izdrukas forma. Dokuments tiek saglabāts žurnālā <a href="/help/?ssw=33&amp;skf_id=225">Kases izdevumi</a>. Darījuma atšifrēšanai pa finanšu (EK) kodiem, jāaizpilda dokumenta saturs. Lai dokumenta izdrukā parādītos grāmatojumu konti, dokuments pirms izdrukāšanas ir jāiegrāmato.</p>
-<h4>Jauna&nbsp;Kases izdevumu ordera&nbsp;pievienošana</h4>
-<p>&nbsp;Izvēloties dokumenta veidu Kases izdevumu orderis, tiks atvērts jauns logs:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24996" border="0"></p>
-<h5>Kases izdevumu ordera&nbsp;Virsraksta aizpildīšana</h5>
-<p>&nbsp;</p>
-<p>Lai aizpildītu Kases izdevumu ordera Virsrakstu, nepieciešams:</p>
-<p>&nbsp;</p>
-<p>1. Norādīt Uzņēmuma kasi, no kura šis maksājums tiks izpildīts:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24826" border="0"></p>
-<p>&nbsp;</p>
-<p>2. Izvēlēties Datumu, kurā šis&nbsp;Kases izdevumu orderis&nbsp;tiek veidots:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24811" border="0"></p>
-<p>&nbsp;</p>
-<p>3.&nbsp;Ievadīt kopējo Kases izdevumu ordera summu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24812" border="0"></p>
-<p>&nbsp;</p>
-<p>4. No saraksta izvēlēties nepieciešamo <strong>Piegādātāju</strong> - Juridisku vai fizisku personu , kurai šī skaidras naudas operācija&nbsp;tiks noformēts:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24827" border="0"></p>
-<p>&nbsp;</p>
-<p>5. No saraksta izvēlēties nepieciešamo <strong>Personu</strong> - fizisku personu, kurai šī skaidras naudas operācija&nbsp;tiks noformēts:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24828" border="0"></p>
-<p>&nbsp;</p>
-<p>Aizpildot lauku <strong>Persona</strong>, lauks <strong>Pers.dok.</strong> tiks aizpildīts automātiski, pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24831" border="0"></p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Noformējot skaidras naudas operāciju Juridiskai personai, laukā <strong>Piegādātājs</strong> jāvada Juridiskās personas nosaukums un laukā <strong>Persona</strong> - Fiziskās personas nosaukums, kura šo Juridisko personu pārstāv. Noformējot skaidras naudas operāciju fiziskai personai, gan laukā <strong>Piegādātājs</strong>, gan <strong>Persona</strong>, jānorāda Fiziskas personas nosaukums. </p>
-<p>&nbsp;</p>
-<h5>Kases izdevumu ordera Satura aizpildīšana</h5>
-<p>Lai aizpildītu Kases izdevumu ordera&nbsp;Saturu, dokumenta satura daļā nepieciešams nospiest <img src="/help/Skin/help/img.aspx?pid=24708" border="0">&nbsp;un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24832" border="0"></p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24545" border="0">Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto summu.&nbsp;Pievienot nākamo satura ierakstu iespējams, satura daļā nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24708" border="0">.</p>
-<p>&nbsp;</p>
-<h5>Kases izdevumu ordera Pamatojuma un Satura aizpildīšana</h5>
-<p><br>Kases izdevumu ordera&nbsp;lauki&nbsp;<strong>Pamatojums</strong> un <strong>Saturs</strong> tiek drukāti kases izdevumu ordera rindā Pamatojums. </p>
-<p>Lauku Kases izdevuma ordera<strong> Pamatojums</strong>, iespējams aizpildīt manuāli vai izvēloties no <a href="/help/?ssw=33&amp;skf_id=136">Kases paskaidrojumu saraksta</a>:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24835" border="0"></p>
-<p>&nbsp;</p>
-<p>Aktivizējot izvēli Saturs, laukā tiek salikti dokumenta satura finanšu (EK) kodi un summas, līdz ar to iespējams automatizēti iegūt informāciju par summas sadalījumu pa EK kodiem vai maksājuma PVN summu:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24730" border="0"></p>
-<p>&nbsp;</p>
-<h5>Kases izdevuma ordera Pielikuma informācijas aizpildīšana</h5>
-<p>&nbsp;</p>
-<p>Lauku <strong>Pielikumā</strong>, Kases izdevumu orderim iespējams aizpildīt manuāli vai izvēloties no <a href="/help/?ssw=33&amp;skf_id=137">Kases pielikumu saraksta</a>, laukā <strong>Piel.num.</strong> nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24838" border="0"></p>
-<p>&nbsp;</p>
-<p>Kad visi nepieciešamie lauki ir aizpildīti, Kases izdevumu orderis ir sagatavots un to ir iespējams:</p>
-<p>1. Saglabāt,&nbsp;nospiežot pogu <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;-&nbsp;dokuments tiks saglabāts un būs pieejams apskatei/labošanai/grāmatošanai <a href="/help/?ssw=33&amp;skf_id=225">Kases izdevumu žurnālā</a>.</p>
-<p>2. Apstiprināt, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24740" border="0">&nbsp;-&nbsp;Kases izdevumu orderis&nbsp;tiks Apstiprināts un to būs iespējams Grāmatot.</p>
-<h4>Kases izdevumu ordera&nbsp;grāmatošana</h4>
-<p>Lai dokumenta izdrukā parādītos grāmatojumu konti, dokuments pirms izdrukāšanas ir jāiegrāmato.</p>
-<p>Kases izdevumu orderi&nbsp;iespējams grāmatot no atvērta Kases izdevumu ordera dokumenta vai izvēloties (iezīmējot)&nbsp;dokumentu <a href="/help/?ssw=33&amp;skf_id=225">Kases izdevumu žurnālā</a>. </p>
-<p>Lai iegrāmatotu Kases izdevumu orderi, dokumentu nepieciešams Apstiprināt, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24740" border="0">.</p>
-<p>Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā pogu <img src="/help/Skin/help/img.aspx?pid=24741" border="0">.</p>
-<p>&nbsp;</p>
-<p>Instrukcija - <a href="/help/?ssw=33&amp;skf_id=14044">Dokumentu grāmatošanas principi</a></p>
-<h4>Pievienotā Kases izdevumu ordera labošana</h4>
-<p>Labojumus saglabātajā&nbsp;dokumentā iespējams veikt atverot Kases izdevumu orderi, kurš pieejams apskatei/labošanai&nbsp;<a href="/help/?ssw=33&amp;skf_id=225">Kases izdevumu žurnālā</a>.&nbsp; Lai veiktu labojumus&nbsp;Kases izdevumu orderī,&nbsp;dokumentu&nbsp;nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;<img src="/help/Skin/help/img.aspx?pid=24709" border="0">&nbsp;(ALT+A), un&nbsp;atvērtajā&nbsp;ierakstā iespējams veikt&nbsp;nepieciešamos labojumus:</p>
-<p>&nbsp;</p>
-<p><img src="/help/Skin/help/img.aspx?pid=24839" border="0"><br></p>
-<p>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <img src="/help/Skin/help/img.aspx?pid=24615" border="0">&nbsp;vai <img src="/help/Skin/help/img.aspx?pid=24617" border="0">.</p> 
+.. 332 ==========================Kases izdevumu orderis========================== 
+
+
+Kases izdevumu orderis jāveido, kad tiek noformēta operācija par
+skaidras naudas izmaksu no uzņēmuma kases. Dokumentam ir iebūvēta
+standarta izdrukas forma. Dokuments tiek saglabāts žurnālā `Kases
+izdevumi`_. Darījuma atšifrēšanai pa finanšu (EK) kodiem, jāaizpilda
+dokumenta saturs. Lai dokumenta izdrukā parādītos grāmatojumu konti,
+dokuments pirms izdrukāšanas ir jāiegrāmato.
+
+
+JaunaKases izdevumu orderapievienošana
+``````````````````````````````````````
+
+Izvēloties dokumenta veidu Kases izdevumu orderis, tiks atvērts jauns
+logs:
+
+
+
+
+
+
+Kases izdevumu orderaVirsraksta aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai aizpildītu Kases izdevumu ordera Virsrakstu, nepieciešams:
+
+
+
+1. Norādīt Uzņēmuma kasi, no kura šis maksājums tiks izpildīts:
+
+
+
+
+
+
+
+2. Izvēlēties Datumu, kurā šisKases izdevumu orderistiek veidots:
+
+
+
+
+
+
+
+3.Ievadīt kopējo Kases izdevumu ordera summu:
+
+
+
+
+
+
+
+4. No saraksta izvēlēties nepieciešamo Piegādātāju - Juridisku vai
+fizisku personu , kurai šī skaidras naudas operācijatiks noformēts:
+
+
+
+
+
+
+
+5. No saraksta izvēlēties nepieciešamo Personu - fizisku personu,
+kurai šī skaidras naudas operācijatiks noformēts:
+
+
+
+
+
+
+
+Aizpildot lauku Persona , lauks Pers.dok. tiks aizpildīts automātiski,
+pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:
+
+
+
+
+
+
+
+Noformējot skaidras naudas operāciju Juridiskai personai, laukā
+Piegādātājs jāvada Juridiskās personas nosaukums un laukā Persona -
+Fiziskās personas nosaukums, kura šo Juridisko personu pārstāv.
+Noformējot skaidras naudas operāciju fiziskai personai, gan laukā
+Piegādātājs , gan Persona , jānorāda Fiziskas personas nosaukums.
+
+
+
+
+Kases izdevumu ordera Satura aizpildīšana
++++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu Kases izdevumu orderaSaturu, dokumenta satura daļā
+nepieciešams nospiest un tiks atvērts operācijas satura logs, kurā
+nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās
+dimensijas) un norādīt satura ieraksta summu:
+
+
+
+
+
+
+
+Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
+kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
+satura ierakstu iespējams, satura daļā nospiežot pogu .
+
+
+
+
+Kases izdevumu ordera Pamatojuma un Satura aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Kases izdevumu orderalauki Pamatojums un Saturs tiek drukāti kases
+izdevumu ordera rindā Pamatojums.
+
+Lauku Kases izdevuma ordera Pamatojums , iespējams aizpildīt manuāli
+vai izvēloties no `Kases paskaidrojumu saraksta`_:
+
+
+
+
+
+
+
+Aktivizējot izvēli Saturs, laukā tiek salikti dokumenta satura finanšu
+(EK) kodi un summas, līdz ar to iespējams automatizēti iegūt
+informāciju par summas sadalījumu pa EK kodiem vai maksājuma PVN
+summu:
+
+
+
+
+
+
+
+
+Kases izdevuma ordera Pielikuma informācijas aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lauku Pielikumā , Kases izdevumu orderim iespējams aizpildīt manuāli
+vai izvēloties no `Kases pielikumu saraksta`_, laukā Piel.num.
+nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:
+
+
+
+
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti, Kases izdevumu orderis ir
+sagatavots un to ir iespējams:
+
+1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
+apskatei/labošanai/grāmatošanai `Kases izdevumu žurnālā`_.
+
+2. Apstiprināt, nospiežot rīku joslā pogu -Kases izdevumu orderistiks
+Apstiprināts un to būs iespējams Grāmatot.
+
+
+Kases izdevumu orderagrāmatošana
+````````````````````````````````
+
+Lai dokumenta izdrukā parādītos grāmatojumu konti, dokuments pirms
+izdrukāšanas ir jāiegrāmato.
+
+Kases izdevumu orderiiespējams grāmatot no atvērta Kases izdevumu
+ordera dokumenta vai izvēloties (iezīmējot)dokumentu `Kases izdevumu
+žurnālā`_.
+
+Lai iegrāmatotu Kases izdevumu orderi, dokumentu nepieciešams
+Apstiprināt, nospiežot rīku joslā pogu .
+
+Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu .
+
+
+
+Instrukcija - `Dokumentu grāmatošanas principi`_
+
+
+Pievienotā Kases izdevumu ordera labošana
+`````````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot Kases izdevumu
+orderi, kurš pieejams apskatei/labošanai`Kases izdevumu žurnālā`_. Lai
+veiktu labojumusKases izdevumu orderī,dokumentunepieciešams atvērt,
+izmantojot rīku joslas pogu (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus:
+
+
+
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+ 

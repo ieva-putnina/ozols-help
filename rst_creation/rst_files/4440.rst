@@ -1,11 +1,30 @@
-.. 4440 ================Bankas konts================ <P>Bankas konts tiek pievienots jau esošam partnerim:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25840" border=0></P>
-<P>&nbsp;</P>
-<P><STRONG>Partneris</STRONG>: no partneru saraksta tiek izvēlēts partneris, kuram tiks pievienots šis bankas konts (caur pogu<IMG src="/help/Skin/help/img.aspx?pid=25837" border=0>iespējams atvērt partneru sarakstu);</P>
-<P><STRONG>Banka</STRONG>: no banku saraksta jāizvēlas banka;</P>
-<P><STRONG>Valūta</STRONG>: bankas konta valūta;</P>
-<P><STRONG>Konts:</STRONG> konta numurs;</P>
-<P><STRONG>Kartes Nr</STRONG>.: iespējams norādīt arī kartes numuru un tās derīguma termiņu;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25841" border=0>: tiks lietots kā noklusētais konts.</P>
-<P>Lai saglabātu bankas konta datus, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25829" border=0>, un, lai labotu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25832" border=0>, bet, lai pievienotu jaunu kontu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25831" border=0>. Lai saglabātu un aizvērtu, jānospiež poga <IMG src="/help/Skin/help/img.aspx?pid=25828" border=0>. Visi pievienotie konti tiek saglabāti <A href="/help/?ssw=44&amp;skf_id=4431">Bankas kontu žurnālā</A>.</P> 
+.. 4440 ================Bankas konts================ 
+Bankas konts tiek pievienots jau esošam partnerim:
+
+
+
+
+
+
+
+Partneris : no partneru saraksta tiek izvēlēts partneris, kuram tiks
+pievienots šis bankas konts (caur pogu iespējams atvērt partneru
+sarakstu);
+
+Banka : no banku saraksta jāizvēlas banka;
+
+Valūta : bankas konta valūta;
+
+Konts: konta numurs;
+
+Kartes Nr .: iespējams norādīt arī kartes numuru un tās derīguma
+termiņu;
+
+: tiks lietots kā noklusētais konts.
+
+Lai saglabātu bankas konta datus, jānospiež poga , un, lai labotu,
+jānospiež poga , bet, lai pievienotu jaunu kontu, jānospiež poga . Lai
+saglabātu un aizvērtu, jānospiež poga . Visi pievienotie konti tiek
+saglabāti `Bankas kontu žurnālā`_.
+
+ 

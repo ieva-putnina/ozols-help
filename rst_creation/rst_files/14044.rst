@@ -1,8 +1,22 @@
-.. 14044 ===================================Grāmatojumu veidošanas principi=================================== <P>&nbsp;</P>
-<P>Grāmatvedības sistēmā Ozols datu uzskaite notiek veidojot pirmdokumentus un tos grāmatojot. Grāmatojums tiek veidots arī kā dokuments, kas tiek sasaistīts ar vienu pirmdokumentu. Visi grāmatojumi tiek saglabāti <A href="/help/?ssw=33&amp;skf_id=131">Grāmatojumu žurnālā</A>, kur tie pieejami apskatei/labošanai/anulēšanai/dzēšanai.</P>
-<P>&nbsp;</P>
-<P><A href="/help/?ssw=33&amp;skf_id=14052">Grāmatojuma ekrāna formas skati</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14055">Grāmatojuma labošanai</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14056">Grāmatojumu šablonu veidošana un pielietošanai</A></P>
-<P><A href="/help/?ssw=33&amp;skf_id=14053">Jauna grāmatojuma izveidošana</A></P>
-<P>&nbsp;</P> .. toctree::   :maxdepth: 5    14052.rst   14055.rst   14056.rst   14053.rst
+.. 14044 ===================================Grāmatojumu veidošanas principi=================================== 
+
+
+Grāmatvedības sistēmā Ozols datu uzskaite notiek veidojot
+pirmdokumentus un tos grāmatojot. Grāmatojums tiek veidots arī kā
+dokuments, kas tiek sasaistīts ar vienu pirmdokumentu. Visi
+grāmatojumi tiek saglabāti `Grāmatojumu žurnālā`_, kur tie pieejami
+apskatei/labošanai/anulēšanai/dzēšanai.
+
+
+
+`Grāmatojuma ekrāna formas skati`_
+
+`Grāmatojuma labošanai`_
+
+`Grāmatojumu šablonu veidošana un pielietošanai`_
+
+`Jauna grāmatojuma izveidošana`_
+
+
+
+ .. toctree::   :maxdepth: 5    14052.rst   14055.rst   14056.rst   14053.rst

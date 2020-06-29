@@ -1,13 +1,54 @@
-.. 47 ====================Personāla vadība==================== <P>&nbsp;</P>
-<P>Personāla vadības modulis paredzēts organizācijas struktūras un štatu saraksta pārvaldībai, strādājošo personu, kā arī vakanču aizpildījuma uzskaitei. Personāla uzskaite nodrošina pilnas informācijas uzkrāšanu par darba ņēmēju kustību un karjeru uzņēmumā, kā arī var tikt izmantots personāla atlasei – darbam ar vakancēm.</P>
-<H5>Personāla vadības modulis nodrošina:</H5>
-<UL>
-<LI>Uzņēmuma struktūrvienību saraksta pārvaldību <BR>Iespējams uzņēmumu sadalīt pa struktūrvienībām, katru no darbiniekiem definēt pie jebkuras no uzņēmuma struktūrvienībām, ar iespēju ērti pārvaldīt un atlasīt darbiniekus, kas strādā vienā struktūrvienībā. </LI>
-<LI>Strādājošo saraksta uzturēšanu<BR>Ērti pārskatāms saraksts ar strādājošajiem, kur ir norādīts darbinieku amata nosaukums, slodžu skaits un konta numurs. </LI>
-<LI>Štatu saraksta uzturēšanu<BR>Iespējams nodefinēt konkrētu darbinieku skaitu, cik ir nepieciešams vienā uzņēmuma struktūrvienībā pa amatiem, ar kā palīdzību ir ērtāk plānot un sekot līdzi darbinieku esošajam un nepieciešamajam skaitam. </LI>
-<LI>Amatu klasifikatoru (NACE)<BR>Paredzēts uzņēmuma darbības veidu noteikšanai pēc starptautiskas klasifikācijas. Darbības veidus var noteikt, tos sameklējot klasifikatorā pēc aptuveniem tā nosaukumiem. </LI>
-<LI>Rīkojumu, personāla kustības dokumentu ievades iespējas<BR>Par katru darbinieku tiek veidoti rīkojumi ar iespēju izdrukāt, kas ir integrēti kopā ar algu uzskaiti un no izveidotajiem rīkojumiem tiek formētas atskaites arī Valsts Ieņēmumu dienestam, piemēram Kustības ziņojums. </LI>
-<LI>Darba līgumu pārvaldību<BR>Satur informāciju par darbinieka pieņemšanas datumu un termiņu, struktūrvienību, kurā darbinieks strādā, amatu un slodzes veidu. </LI>
-<LI>Personas datu ievadi<BR>Pases dati, ģimenes stāvoklis, kontaktinformācija, fotogrāfijas, izglītība, valodu prasmes, datoru un citas prasmes un iemaņas, darba pieredze, pieredze projektos, kvalifikāciju apliecinošie dokumenti, intereses, hobiji, citi dati. Darbinieku dzimšanas dienu kontrole, ar iespēju atlasīt darbiniekus, kuriem tuvojas dzimšanas dienas pēc izvēlētā dienu skaita. Darbinieka darba stāžs uzņēmumā. </LI>
-<LI>Personas uzskaites kartīte<BR>Satur personas datus, kontaktinformāciju u.c. </LI>
-<LI>Atskaites uzņēmuma vadībai un Personāldaļai<BR>Uzņēmuma vadība var sekot līdzi štatu saraksta aizpildījumam, lai būtu informēta, cik ir plānotais darbinieku skaits vienā uzņēmuma struktūrvienībā un cik darbinieki uz doto brīdi aizpilda šo struktūrvienību. Noderīga atskaite uzņēmuma vadībai, kā arī Personāldaļai&nbsp;ir darba laika uzskaites tabele, kurā pa periodiem iespējams izveidot atskaiti par kādu konkrētu struktūrvienību un amatu.</LI></UL> .. toctree::   :maxdepth: 6    30.rst   27.rst   850.rst   63.rst
+.. 47 ====================Personāla vadība==================== 
+
+
+Personāla vadības modulis paredzēts organizācijas struktūras un štatu
+saraksta pārvaldībai, strādājošo personu, kā arī vakanču aizpildījuma
+uzskaitei. Personāla uzskaite nodrošina pilnas informācijas uzkrāšanu
+par darba ņēmēju kustību un karjeru uzņēmumā, kā arī var tikt
+izmantots personāla atlasei – darbam ar vakancēm.
+
+
+Personāla vadības modulis nodrošina:
+++++++++++++++++++++++++++++++++++++
+
+
++ Uzņēmuma struktūrvienību saraksta pārvaldību Iespējams uzņēmumu
+  sadalīt pa struktūrvienībām, katru no darbiniekiem definēt pie
+  jebkuras no uzņēmuma struktūrvienībām, ar iespēju ērti pārvaldīt un
+  atlasīt darbiniekus, kas strādā vienā struktūrvienībā.
++ Strādājošo saraksta uzturēšanu Ērti pārskatāms saraksts ar
+  strādājošajiem, kur ir norādīts darbinieku amata nosaukums, slodžu
+  skaits un konta numurs.
++ Štatu saraksta uzturēšanu Iespējams nodefinēt konkrētu darbinieku
+  skaitu, cik ir nepieciešams vienā uzņēmuma struktūrvienībā pa amatiem,
+  ar kā palīdzību ir ērtāk plānot un sekot līdzi darbinieku esošajam un
+  nepieciešamajam skaitam.
++ Amatu klasifikatoru (NACE) Paredzēts uzņēmuma darbības veidu
+  noteikšanai pēc starptautiskas klasifikācijas. Darbības veidus var
+  noteikt, tos sameklējot klasifikatorā pēc aptuveniem tā nosaukumiem.
++ Rīkojumu, personāla kustības dokumentu ievades iespējas Par katru
+  darbinieku tiek veidoti rīkojumi ar iespēju izdrukāt, kas ir integrēti
+  kopā ar algu uzskaiti un no izveidotajiem rīkojumiem tiek formētas
+  atskaites arī Valsts Ieņēmumu dienestam, piemēram Kustības ziņojums.
++ Darba līgumu pārvaldību Satur informāciju par darbinieka pieņemšanas
+  datumu un termiņu, struktūrvienību, kurā darbinieks strādā, amatu un
+  slodzes veidu.
++ Personas datu ievadi Pases dati, ģimenes stāvoklis,
+  kontaktinformācija, fotogrāfijas, izglītība, valodu prasmes, datoru un
+  citas prasmes un iemaņas, darba pieredze, pieredze projektos,
+  kvalifikāciju apliecinošie dokumenti, intereses, hobiji, citi dati.
+  Darbinieku dzimšanas dienu kontrole, ar iespēju atlasīt darbiniekus,
+  kuriem tuvojas dzimšanas dienas pēc izvēlētā dienu skaita. Darbinieka
+  darba stāžs uzņēmumā.
++ Personas uzskaites kartīte Satur personas datus, kontaktinformāciju
+  u.c.
++ Atskaites uzņēmuma vadībai un Personāldaļai Uzņēmuma vadība var
+  sekot līdzi štatu saraksta aizpildījumam, lai būtu informēta, cik ir
+  plānotais darbinieku skaits vienā uzņēmuma struktūrvienībā un cik
+  darbinieki uz doto brīdi aizpilda šo struktūrvienību. Noderīga
+  atskaite uzņēmuma vadībai, kā arī Personāldaļaiir darba laika
+  uzskaites tabele, kurā pa periodiem iespējams izveidot atskaiti par
+  kādu konkrētu struktūrvienību un amatu.
+
+
+ .. toctree::   :maxdepth: 6    30.rst   27.rst   850.rst   63.rst

@@ -1,10 +1,34 @@
-.. 177 =================Paskaidrojumi================= <P>Avansu paskaidrojumi ir saraksts, kurā tiek saglabāti biežāk izmantotie Avansa norēķina Virsraksta paskaidrojuma teksti. Paskaidrojumu saraksta dati tiek izmantoti Avansa norēķina dokumenta lauka Paskaidrojums automatizētai aizpildīšanai (Avansa norēķina izdrukā lauks - Avansa norēķina mērķis).</P>
-<H5>Jauna&nbsp;Avansa paskaidrojumu saraksta&nbsp;pievienošana:</H5>
-<P>Lai pievienotu jaunu&nbsp;Avansa paskaidrojumu sarakstā,&nbsp;jānospiež poga&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24708" border=0>&nbsp;un tiks atvērts jauns logs:</P>
-<P>&nbsp;</P>
-<P><IMG src="/help/Skin/help/img.aspx?pid=25248" border=0></P>
-<P>Laukā Nosaukums, nepieciešams ierakstīt&nbsp;Avansa paskaidrojuma nosaukumu. Ieraksts tiks saglabāts, izpildot komandu <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>.</P>
-<H5>Pievienotā&nbsp;Avansa&nbsp;paskaidrojuma&nbsp;labošana:</H5>
-<P>Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu&nbsp;&nbsp;<IMG src="/help/Skin/help/img.aspx?pid=24709" border=0>&nbsp;(ALT+A), un&nbsp;atvērtajā logā nomainīt Nosaukumu.</P>
-<P>Pēc labojumu veikšanas, veiktā izmaiņas iespējams <IMG src="/help/Skin/help/img.aspx?pid=24615" border=0>&nbsp;vai <IMG src="/help/Skin/help/img.aspx?pid=24617" border=0>.</P>
-<P>&nbsp;</P> 
+.. 177 =================Paskaidrojumi================= 
+Avansu paskaidrojumi ir saraksts, kurā tiek saglabāti biežāk
+izmantotie Avansa norēķina Virsraksta paskaidrojuma teksti.
+Paskaidrojumu saraksta dati tiek izmantoti Avansa norēķina dokumenta
+lauka Paskaidrojums automatizētai aizpildīšanai (Avansa norēķina
+izdrukā lauks - Avansa norēķina mērķis).
+
+
+JaunaAvansa paskaidrojumu sarakstapievienošana:
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai pievienotu jaunuAvansa paskaidrojumu sarakstā,jānospiež poga un
+tiks atvērts jauns logs:
+
+
+
+
+
+Laukā Nosaukums, nepieciešams ierakstītAvansa paskaidrojuma nosaukumu.
+Ieraksts tiks saglabāts, izpildot komandu .
+
+
+PievienotāAvansapaskaidrojumalabošana:
+++++++++++++++++++++++++++++++++++++++
+
+Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
+atvērt, izmantojot rīku joslas pogu (ALT+A), unatvērtajā logā nomainīt
+Nosaukumu.
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
+
+
+ 
