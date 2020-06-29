@@ -1,4 +1,4 @@
-.. 14052 ===================================Grāmatojuma ekrāna formas skati=================================== 
+.. 14052 Grāmatojuma ekrāna formas skati*********************************** 
 
 
 Grāmatojuma ekrāna formai ir pieejami divu veidu skati, starp kuriem

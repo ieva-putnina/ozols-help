@@ -1,7 +1,7 @@
-.. 7304 ===================Struktūrvienība=================== 
-Pievienotās struktūrvienības tiek saglabātas `struktūrvienību
-sarakstā`_. Struktūrvienības tiek izmantotas `jaunas personas`_
-pievienošanai un `atskaišu`_ sagatavošanai.
+.. 7304 Struktūrvienība******************* 
+Pievienotās struktūrvienības tiek saglabātas :doc:`struktūrvienību
+sarakstā<7313>`. Struktūrvienības tiek izmantotas :doc:`jaunas
+personas<7305>` pievienošanai un :doc:`atskaišu<7317>` sagatavošanai.
 
 
 
@@ -12,13 +12,13 @@ Kods: struktūrvienības nosaukuma saīsinājums vai apzīmējums;
 Nosaukums: pilns struktūrvienības nosaukums;
 
 Virsējais līmenis: ja nepieciešams, jānorāda pievienojamās
-struktūrvienības augstākais līmenis (`hierarhiski veidojot
-sarakstu`_);
+struktūrvienības augstākais līmenis (:doc:`hierarhiski veidojot
+sarakstu<14041>`);
 
 Izsaukumu skaits/mēn.: izsaukumu skaits mēnesī (tiek nodefinēts).
 Nodefinētasi izsaukuma skaits mēnesī ir saistīts ar notikumu
-pievienošanu konkrētai struktūrvienībai un `personālija darba pārskata
-atskaiti`_;
+pievienošanu konkrētai struktūrvienībai un :doc:`personālija darba
+pārskata atskaiti<7322>`;
 
 Kārtas nr.: struktūrvienību saraksta kārtas nr.
 

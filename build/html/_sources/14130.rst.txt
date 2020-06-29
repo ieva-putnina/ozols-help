@@ -1,4 +1,4 @@
-.. 14130 =====================================================================Atvaļinājuma naudas aprēķins nākamajiem periodiem/papildperiodiem===================================================================== 
+.. 14130 Atvaļinājuma naudas aprēķins nākamajiem periodiem/papildperiodiem********************************************************************* 
 
 Atvaļinājuma naudas aprēķins,kur atvaļinājuma periods iesniedzas
 vairākos aprēķina periodos
@@ -6,9 +6,10 @@ vairākos aprēķina periodos
 
 Lai aprēķinātu atvaļinājuma naudu strādājošajam, kuram atvaļinājums
 iesniedzas nākamajā periodā(-os), līdzīgi tāpat, kā tas ir standarta
-`Atvaļinājuma naudas aprēķina`_gadījumā, nepieciešams izveidot
-atbilstošu `Rīkojumu dokumentu`_ par Ikgadējo atvaļinājumu(>Dokumenti
-> Personāla uzskaite > `Rīkojumu žurnāls`_):
+:doc:`Atvaļinājuma naudas aprēķina<14128>`gadījumā, nepieciešams
+izveidot atbilstošu :doc:`Rīkojumu dokumentu<409>` par Ikgadējo
+atvaļinājumu(>Dokumenti > Personāla uzskaite > :doc:`Rīkojumu
+žurnāls<209>`):
 
 
 
@@ -26,8 +27,9 @@ jāapstiprina.
 
 
 
-2. Aprēķinot algu strādājošajam (>Dokumenti > Alga > `Algu aprēķinu
-žurnāls`_), jāaizpilda ieejošie dati no slodzes kalendāra:
+2. Aprēķinot algu strādājošajam (>Dokumenti > Alga > :doc:`Algu
+aprēķinu žurnāls<212>`), jāaizpilda ieejošie dati no slodzes
+kalendāra:
 
 
 
@@ -70,10 +72,11 @@ Ja atvaļinājuma nauda jāaprēķina par nākamajiem periodiem, tad:
 
 
 
-1.Balstoties pēc principa, kā tas aprakstīts standarta`Atvaļinājuma
-naudas aprēķina`_gadījumā, nepieciešams izveidot atbilstošu `Rīkojumu
-dokumentu`_ par Ikgadējo atvaļinājumu(>Dokumenti > Personāla uzskaite
-> `Rīkojumu žurnāls`_)
+1.Balstoties pēc principa, kā tas aprakstīts
+standarta:doc:`Atvaļinājuma naudas aprēķina<14128>`gadījumā,
+nepieciešams izveidot atbilstošu :doc:`Rīkojumu dokumentu<409>` par
+Ikgadējo atvaļinājumu(>Dokumenti > Personāla uzskaite > :doc:`Rīkojumu
+žurnāls<209>`)
 
 2. Lai aprēķinātu atvaļinājuma naudu nākamajam periodam,no tekošā
 perioda algu aprēķina nepieciešams veidot papildus periodus:

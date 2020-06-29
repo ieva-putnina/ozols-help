@@ -1,4 +1,4 @@
-.. 14046 ======================Dokumenta kopēšana====================== 
+.. 14046 Dokumenta kopēšana********************** 
 
 
 Dokumentus iespējams kopēt no dokumenta žurnāla. Kopējot dokumentu tas

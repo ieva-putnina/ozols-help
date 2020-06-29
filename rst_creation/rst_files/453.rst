@@ -5,9 +5,9 @@ slēgšanai. Slēgtos dokumentus nav iespējams labot bez to atslēgšanas.
 Lai slēgtu perioda dokumentus
 
 
-#. Kopējie saraksti->`Periodi`_ - jāpievieno **dokumentu periods** par
-   kuru nepieciešams slēgt dokumentus. Pēc perioda pievienošanas
-   iespējams uzsākt perioda dokumentu slēgšanu.
+#. Kopējie saraksti->:doc:`Periodi<156>` - jāpievieno **dokumentu
+   periods** par kuru nepieciešams slēgt dokumentus. Pēc perioda
+   pievienošanas iespējams uzsākt perioda dokumentu slēgšanu.
 #. Jānorāda uzņēmums (ja vienā datu bāzē tiek veikta uzskaite par
    vairākiem uzņēmumiem), jānorāda pievienotais Dokumentu periods,
    jāatzīmē dokumenti, kuri tiks slēgti un jānospiež poga Slēgt/Atslēgt:

@@ -1,4 +1,4 @@
-.. 304 ====================Izejošais rēķins==================== 
+.. 304 Izejošais rēķins******************** 
 Norēķinu uzskaitei par uzņēmuma pircējiem un piegādātājiem, kā arī
 preču uzskaitei noliktavās tiek izmantoti iepirkuma un pārdošanas
 dokumenti.
@@ -14,7 +14,7 @@ Jaunapārdošanas dokumenta pievienošana
 Izmantojot Pārdošanas dokumentus, tiek realizēts preces, krājumi vai
 pakalpojumi uzņēmuma pircējiem. Iespējams izmantot dažādus pārdošanas
 dokumentu veidus, kurus iespējams definēt Norēķinu
-Sarakstos:`Pārdošanas dokumentu veidi`_.
+Sarakstos::doc:`Pārdošanas dokumentu veidi<157>`.
 
 
 Lai pievienotu jaunu pārdošanas dokumentu, atrodoties zem moduļa
@@ -45,8 +45,8 @@ veida nosaukumu:
 
 
 
-Pārdošanasdokumenta veidi ir definējami Sarakstā: `Pārdošanas
-dokumentu veidi`_
+Pārdošanasdokumenta veidi ir definējami Sarakstā: :doc:`Pārdošanas
+dokumentu veidi<157>`
 
 
 
@@ -73,24 +73,24 @@ datumu;
 pakalpojums/preces tiek izrakstīta;
 
 Ja uzņēmums uzskaitaizejošās preces, krājumus, inventāru pa
-noliktavām, tad programmā jāizveido tik `Noliktavas`_ cik
+noliktavām, tad programmā jāizveido tik :doc:`Noliktavas<142>` cik
 nepieciešams. Noliktava jānorāda pārdošanas dokumentu aizpildīšanā,
 pat, ja operācija nav saistīta ar preču kustību noliktavās.
 
 
 **Dokuments:** izvēloties dokumenta veidu "Pavadzīme", nepieciešams
 aizpildīt šos laukus, izvēloties sēriju un numuru sarakstā, kas
-ievadīti `Stingrās uzskaites dokumentu`_ žurnālā.
+ievadīti :doc:`Stingrās uzskaites dokumentu<180>` žurnālā.
 
 **Pircējs:** nepieciešams izvēlēties partneri no saraksta.
 
 Ja pircējs nav datu bāzē, izmantojot komandu atveras partneru saraksta
 logs un ir iespējams pievienot jaunu pircēju partneru sarakstā. Lai
-pievienotu jaunu `Partneri`_, jāizmanto komanda no rīku joslas un
-atveras jauna partnera ievades kartiņa.
+pievienotu jaunu :doc:`Partneri<312>`, jāizmanto komanda no rīku
+joslas un atveras jauna partnera ievades kartiņa.
 **Apmaksas veids:** iespēja norādīt pārdošanas dokumenta apmaksas
 termiņu. Šo termiņu iespējams piesaistīt konkrētam partnerim,
-definējot to `Partnera`_ aprakstā, sadaļā "Pārējie dati";
+definējot to :doc:`Partnera<112>` aprakstā, sadaļā "Pārējie dati";
 **Termiņš:** lauks tiek aprēķināts automātiski, ja aizpildīts lauks -
 apmaksas veids.
 
@@ -99,8 +99,8 @@ ievadīt ar roku vai izvēlēties jau iepriekš sagatavotu paskaidrojuma
 tekstu.
 
 
-Lai pievienotu jaunu `Paskaidrojuma tekstu`_, jāizmanto komanda un
-pievienot.
+Lai pievienotu jaunu :doc:`Paskaidrojuma tekstu<370>`, jāizmanto
+komanda un pievienot.
 
 
 Pārdošanasdokumenta satura aizpildīšana
@@ -160,7 +160,7 @@ Nospiežot pogu tiks ielādēti visi Latvijas Banka kursi tām valūtām,
 kuras ir definētas programmā. Iepirkuma dokumentā parādīsies
 attiecīgajai dokumenta valūtai atbilstošais kurss.
 
-Izsniedza: Atbildīgā persona no `Partneru`_ saraksta.
+Izsniedza: Atbildīgā persona no :doc:`Partneru<112>` saraksta.
 
 
 
@@ -172,7 +172,7 @@ vai izvēloties (iezīmējot) dokumentuPārdošanas dokumentu žurnālā. Lai
 iegrāmatotuPārdošanas dokumentu, nepieciešams vispirms apstiprināt
 dokumentu, izmantojot komandu no rīku joslas. Apstiprinātu dokumentu
 ir iespējams grāmatot, izmantojot komandu . Dokumentu grāmatošanu
-skatīt `Dokumentu grāmatošanas principi`_.
+skatīt :doc:`Dokumentu grāmatošanas principi<14044>`.
 
 
 

@@ -1,8 +1,8 @@
-.. 761 ==================Valodu prasmes================== 
+.. 761 Valodu prasmes****************** 
 
 
-Valodas prasmjudokumentu žurnālā tiek saglabāti visi `Strādājošo`_
-kartiņās pievienotie dati par valodu zināšanām.
+Valodas prasmjudokumentu žurnālā tiek saglabāti visi
+:doc:`Strādājošo<111>` kartiņās pievienotie dati par valodu zināšanām.
 
 Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
 tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
@@ -33,8 +33,8 @@ kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
 Informācijas pievienošana par valodas prasmēm
 +++++++++++++++++++++++++++++++++++++++++++++
 
-1. `Strādājošā aprakstā`_, sadāļā Personāls - iespējams pievienot
-informāciju par strādājošā valodas prasmēm:
+1. :doc:`Strādājošā aprakstā<111>`, sadāļā Personāls - iespējams
+pievienot informāciju par strādājošā valodas prasmēm:
 
 
 
@@ -43,7 +43,7 @@ informāciju par strādājošā valodas prasmēm:
 
 
 Kad valodu prasmes dati pievienoti, jānospiež poga . Visi strādājošam
-pievienotie dati par valodu prasmi tiek saglabāti `Valodu prasmju`_
-žurnālā.
+pievienotie dati par valodu prasmi tiek saglabāti :doc:`Valodu
+prasmju<761>` žurnālā.
 
  

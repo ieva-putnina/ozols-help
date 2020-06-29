@@ -1,7 +1,7 @@
-.. 14097 ============================Lietotāju lomu funkcijas============================ 
-``_
+.. 14097 Lietotāju lomu funkcijas**************************** 
+:doc:`<169>`
 
-Darba režīmā: `Lietotāju tiesības darba režīmiem`_, pieejamās
+Darba režīmā: :doc:`Lietotāju tiesības darba režīmiem<169>`, pieejamās
 funkcijas, izmantojamas lietotāja\lomas tiesību automātiskai
 fiksēšanai darba režīmiem DZĒST, LABOT, PIEVIENOT:
 

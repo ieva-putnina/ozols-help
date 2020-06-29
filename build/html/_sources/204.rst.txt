@@ -1,8 +1,8 @@
-.. 204 ========================Pārdošanas dokumenti======================== 
+.. 204 Pārdošanas dokumenti************************ 
 
 
 Pārdošanasdokumentu žurnālā saraksta veidātiek saglabāti izveidotie
-`Pārdošanas dokumenti`_.
+:doc:`Pārdošanas dokumenti<304>`.
 
 
 
@@ -22,13 +22,15 @@ kritērijiem,pēc filtra iestādījumu aizpildīšanas,jānospiež poga .
 
 
 
-Instrukcija - `Dokumenta ģenerēšana .pdf formātā`_
+Instrukcija - :doc:`Dokumenta ģenerēšana .pdf formātā<14100>`
 
-Instrukcija -`Rēķinu sūtīšana pa e-pastu`_
+Instrukcija -:doc:`Rēķinu sūtīšana pa e-pastu<14101>`
 
-Instrukcija -`Pārdošanas dokumenta satura ierakstu numerācijas maiņa`_
+Instrukcija -:doc:`Pārdošanas dokumenta satura ierakstu numerācijas
+maiņa<14124>`
 
-Instrukcija - `Klientu menedžeru piesaiste Pārdošanas dokumentos`_
+Instrukcija - :doc:`Klientu menedžeru piesaiste Pārdošanas
+dokumentos<14136>`
 
 
  

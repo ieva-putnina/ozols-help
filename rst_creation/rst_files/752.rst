@@ -1,8 +1,8 @@
-.. 752 ==================================Noliktavu nomenklatūras grupas================================== 
+.. 752 Noliktavu nomenklatūras grupas********************************** 
 
 
-Sarakstā tiek attēlots, kurās `Noliktavās`_tiek uzskaitītas kuras
-nomenklatūras/pakalpojumu `Grupas`_.
+Sarakstā tiek attēlots, kurās :doc:`Noliktavās<142>`tiek uzskaitītas
+kuras nomenklatūras/pakalpojumu :doc:`Grupas<148>`.
 
 Saraksta mērķis ir ierobežot noliktavas nomenklatūras/pakalpojumu
 klāstu pie nomenklatūras/pakalpojumu izvēles fiksētajos izvēles

@@ -1,16 +1,17 @@
-.. 990 =========================Ievedums–Intrastat–1A========================= 
+.. 990 Ievedums–Intrastat–1A************************* 
 
 Ievedums-Instrastat-1A atskaitē tiek attēlota informācija par preces
 ievedumu Latvijā no ES dalībvalsts - pamatojoties uz ievadītajiem
-`Iepirkumu dokumenti`_, atskaitē norādot atbilstoši šo `Iepirkuma
-dokumenta`_ saturā minēto preču astoņu zīmju kodu, preču vērtību
-latos, partnervalsti, svaru, darījuma veida kodu, svaru un daudzumu
-papildmērvienībās.
+:doc:`Iepirkumu dokumenti<210>`, atskaitē norādot atbilstoši šo
+:doc:`Iepirkuma dokumenta<310>` saturā minēto preču astoņu zīmju kodu,
+preču vērtību latos, partnervalsti, svaru, darījuma veida kodu, svaru
+un daudzumu papildmērvienībās.
 
 
 
 
-Atskaite tiek sagatavota nonorēķinu -`Iepirkumu dokumentu`_ datiem.
+Atskaite tiek sagatavota nonorēķinu -:doc:`Iepirkumu dokumentu<210>`
+datiem.
 
 Filtrs jāaizpilda, lai sagatavotu atskaiti.
 
@@ -49,15 +50,15 @@ Par pamatu atskaites informācijas aizpildīšanai tiek izmantoti
 nomenklatūras aprakstā definētie kodi:
 
 **KN kods:** preces 8-zīmju kods atbilstoši ES kombinētajai
-nomenklatūrai - to iespējams norādīt `Nomenklatūras`_ aprakstā, sadaļā
-"Nomenklatūra"
+nomenklatūrai - to iespējams norādīt :doc:`Nomenklatūras<106>`
+aprakstā, sadaļā "Nomenklatūra"
 
 **Izcel.valsts:** preces valsts, kur tā ražota - iespējams norādīt
-`Nomenklatūras`_ aprakstā, sadaļā "Nomenklatūra";
+:doc:`Nomenklatūras<106>` aprakstā, sadaļā "Nomenklatūra";
 
 **Neto masa: **preces faktiskais svars bez iepakojuma izteikts kg un
-noapaļots veselos skaitļos (norādāma `Nomenklatūras`_ aprakstā, sadaļā
-"Nomenklatūra"):
+noapaļots veselos skaitļos (norādāma :doc:`Nomenklatūras<106>`
+aprakstā, sadaļā "Nomenklatūra"):
 
 
 
@@ -69,13 +70,13 @@ noapaļots veselos skaitļos (norādāma `Nomenklatūras`_ aprakstā, sadaļā
 
 
 Kā arī pamatinformācija par saņemto preču daudzumu un summām no
-`Iepirkuma dokumenta`_:
+:doc:`Iepirkuma dokumenta<310>`:
 
 
 
 
-**Summa:** `Iepirkuma dokumenta`_ saturā norādītā summa - preces
-vērtība LVL, noapaļojot līdz veseliem latiem;
+**Summa:** :doc:`Iepirkuma dokumenta<310>` saturā norādītā summa -
+preces vērtība LVL, noapaļojot līdz veseliem latiem;
 
 **Daudzums:** iepirktais preces daudzums;
 
@@ -89,9 +90,9 @@ aprakstā norādītās Valsts kods);
 
 
 
-Sagatavoto atskaiti iespējams saglabāt `Intrastat atskaišu
-sarakstā...`_``_, kur tā būs pieejama labošanai/drukāšanai, nospiežot
-pogu: .
+Sagatavoto atskaiti iespējams saglabāt :doc:`Intrastat atskaišu
+sarakstā...<989>`:doc:`<531>`, kur tā būs pieejama
+labošanai/drukāšanai, nospiežot pogu: .
 
 
 

@@ -1,4 +1,4 @@
-.. 6909 ===========Tvertne=========== 
+.. 6909 Tvertne*********** 
 Lai pievienotu jaunu Tvertni:
 
 
@@ -21,6 +21,6 @@ Kad visi dati ievadīti, jānospiež poga un, lai pievienotu jaunu
 tvertni, jānospiež poga . Ja jaunas tvertnes vairs netiks pievienotas,
 jānospiež poga pēc pēdējās tvertnes pievienošanas.
 
-Visas pievienotās tvertnes ir redzamas `tvertņu sarakstā`_.
+Visas pievienotās tvertnes ir redzamas :doc:`tvertņu sarakstā<6911>`.
 
  

@@ -1,4 +1,4 @@
-.. 4205 ===========================Atlīdzību lietu žurnāls=========================== 
+.. 4205 Atlīdzību lietu žurnāls*************************** 
 
 
 Atlīdzību lietu žurnālā saraksta veidā tiek parādītas CSNg reģistrētās

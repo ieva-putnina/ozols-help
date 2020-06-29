@@ -1,8 +1,8 @@
-.. 649 ================Līgumu veidi================ 
+.. 649 Līgumu veidi**************** 
 
 
 Sarakstā tiek saglabāti līgumu veidi, kas tiek izmantoti Līgumu
-`Līguma grupu`_ nosacījumu aizpildīšanai.
+:doc:`Līguma grupu<653>` nosacījumu aizpildīšanai.
 
 
 Jauna Līgumu veida pievienošana:
@@ -29,11 +29,11 @@ atvērts jauns logs:
 
 
 
-Izvēloties aprēķina algoritmu - Summas, `Līguma grupas`_ aprakstā būs
-iespējams norādīt fiksēto maksājuma summu. Izvēloties aprēķina
-algoritmu - Līzings - Fiksēts maksājums, `Līguma grupas`_aprakstā būs
-iespējams norādīt Fiksēto maksājuma summu, kā arī Līzinga procentu
-likmi.
+Izvēloties aprēķina algoritmu - Summas, :doc:`Līguma grupas<653>`
+aprakstā būs iespējams norādīt fiksēto maksājuma summu. Izvēloties
+aprēķina algoritmu - Līzings - Fiksēts maksājums, :doc:`Līguma
+grupas<653>`aprakstā būs iespējams norādīt Fiksēto maksājuma summu, kā
+arī Līzinga procentu likmi.
 
 
 
@@ -52,7 +52,7 @@ summa tiks uzskaitīta visa līgumā apjomā.
 
 
 4. Līguma veidam iespējams piesaistīt Pakalpojuma veidu, no Norēķinu
-Sarakstos pievienotajiem `Pakalpojumiem`_:
+Sarakstos pievienotajiem :doc:`Pakalpojumiem<108>`:
 
 
 
@@ -60,9 +60,9 @@ Sarakstos pievienotajiem `Pakalpojumiem`_:
 
 
 
-5. Nepieciešams norādīt izrakstāmā `Pārdošanas dokumenta veidu`_, kāds
-tiks sagatavots automatizēti no `Apmaksas plānu žurnāla`_ģenerējot
-Pārdošanas dokumentu:
+5. Nepieciešams norādīt izrakstāmā :doc:`Pārdošanas dokumenta
+veidu<157>`, kāds tiks sagatavots automatizēti no :doc:`Apmaksas plānu
+žurnāla<645>`ģenerējot Pārdošanas dokumentu:
 
 
 

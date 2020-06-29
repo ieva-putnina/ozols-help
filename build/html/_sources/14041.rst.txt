@@ -1,4 +1,4 @@
-.. 14041 ==================================Hierarhisko sarakstu veidošana================================== 
+.. 14041 Hierarhisko sarakstu veidošana********************************** 
 
 
 Saraksti ir iepriekš sagatavota informācija, ko dokumentos pievieno

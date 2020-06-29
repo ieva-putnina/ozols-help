@@ -1,7 +1,7 @@
 .. 173 ================Vārda dienas================ 
 Vārda dienu saraksts tiek importēts programmas Ozols ieviešanas
 procesā.Vārda dienu saraksta informācija tiek izmantota CRM Partneru
-`Dzimšanasun Vārda dienu kalendārā`_.
+:doc:`Dzimšanasun Vārda dienu kalendārā<143>`.
 
 Nospiežot Rīku joslā pogu Filtrs ,ir iespējams atlasīt Vārdu
 kalendārā, ierakstot to tekstlodziņā, atzīmējot izvēles rūtiņu un

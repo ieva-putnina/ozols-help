@@ -1,10 +1,10 @@
-.. 603 ======================================Izziņa par darba ņēmēja ienākumiem====================================== 
+.. 603 Izziņa par darba ņēmēja ienākumiem************************************** 
 
 
-Atskaite parāda `algu aprēķina rezultātus`_, atbilstoši izvēlētajām
-sakonfigurētajām `atskaišu kolonnām`_. Atskaitē var iekļaut strādājošā
-algu aprēķina rezultātu – neto vai bruto algu u.c, nosakot strādājošā
-vidējo izpeļņu.
+Atskaite parāda :doc:`algu aprēķina rezultātus<212>`, atbilstoši
+izvēlētajām sakonfigurētajām :doc:`atskaišu kolonnām<214>`. Atskaitē
+var iekļaut strādājošā algu aprēķina rezultātu – neto vai bruto algu
+u.c, nosakot strādājošā vidējo izpeļņu.
 
 Filtrs jāaizpilda, lai sagatavotu atskaiti.
 

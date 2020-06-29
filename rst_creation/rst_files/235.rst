@@ -1,7 +1,7 @@
-.. 235 =========================Apmaksas atgādinājumi========================= 
+.. 235 Apmaksas atgādinājumi************************* 
 
 Apmaksas atgādinājumu dokumentu žurnālā saraksta veidātiek saglabāti
-izveidotie `Atgādinājumi.`_
+izveidotie :doc:`Atgādinājumi.<343>`
 
 
 

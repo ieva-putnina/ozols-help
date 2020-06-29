@@ -1,2 +1,2 @@
-.. 14090 ================Instrukcijas================ 
+.. 14090 Instrukcijas**************** 
  .. toctree::   :maxdepth: 4    14091.rst   14093.rst

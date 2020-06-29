@@ -1,4 +1,4 @@
-.. 343 =========================Apmaksas atgādinājums========================= 
+.. 343 Apmaksas atgādinājums************************* 
 
 
 
@@ -40,8 +40,8 @@ atgādinājums tiks sagatavots;
 
 Ja pircējs nav datu bāzē, izmantojot komandu atveras partneru saraksta
 logs un ir iespējams pievienot jaunu pircēju partneru sarakstā. Lai
-pievienotu jaunu `Partneri`_, jāizmanto komanda no rīku joslas un
-atveras jauna partnera ievades kartiņa.
+pievienotu jaunu :doc:`Partneri<312>`, jāizmanto komanda no rīku
+joslas un atveras jauna partnera ievades kartiņa.
 
 
 Pasta adrese: dati tiks aizpildīti automātiski pēc pircēja izvēles.

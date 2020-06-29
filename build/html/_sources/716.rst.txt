@@ -1,4 +1,4 @@
-.. 716 =============Noliktava============= 
+.. 716 Noliktava************* 
 Nomenklatūras koda ģenerēšanu nosaka konfigurācijas iestādījumi:
 
 
@@ -28,7 +28,7 @@ aprēķināts, par pamatu izmantojot norādīto dokumenta datumu laukā
 Atzīmējot šo izvēles rūtiņu, iepirkumu un pārdošanas dokumentu saturā
 lauks "struktūrvienība", tiks aizpildīts no dokumentu virsrakstā
 norādītās Noliktavas piesaistītās struktūrvienības (Noliktavai
-struktūrvienību iespējams piesaistīt `Noliktavas`_aprakstā).
+struktūrvienību iespējams piesaistīt :doc:`Noliktavas<142>`aprakstā).
 
 
 

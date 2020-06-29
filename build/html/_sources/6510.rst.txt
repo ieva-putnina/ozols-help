@@ -1,4 +1,4 @@
-.. 6510 ==========Polise========== 
+.. 6510 Polise********** 
 
 
 Darba režīms Polise paredzēts pilnas informācijas iegūšanai par Polisi
@@ -70,8 +70,8 @@ Pie klienta informācijas nepieciešams norādīt:
 
 Ja Apdrošināšanas ņēmējs/ Turētājs/ Apdrošinātais nav sistēmā
 pievienots, Apdrošināšanas ņēmēja tukšajā lodziņā jānospiež
-dubultklikšķis ar peles labo taustiņu, un tiek atvērts `Jauna
-Partnera`_ pievienošanas logs, kurā jāpievieno Partnera dati.
+dubultklikšķis ar peles labo taustiņu, un tiek atvērts :doc:`Jauna
+Partnera<312>` pievienošanas logs, kurā jāpievieno Partnera dati.
 
 
 
@@ -109,11 +109,11 @@ aprēķināta automātiski:
 Informācija, par komisiju summu sadalījumu:
 
 Apdrošināšanas prēmija automātiski tiek sadalīta pēc nodefinētajiem
-līgumu procentiem. `Līgumu sadaļā`_ tiek pievienoti sadarbības līgumi
-ar Akciju Apdrošināšanas Sabiedrībām - katrai Apdrošināšanas
-sabiedrībai atsevišķs līgums ar, nosacījumu sadaļā, nodefinētiem %
-attiecīgajam apdrošināšanas veidam, tāpat tiek pievienoti līgumu ar %
-sadalījumiem Brokeriem.
+līgumu procentiem. :doc:`Līgumu sadaļā<394>` tiek pievienoti
+sadarbības līgumi ar Akciju Apdrošināšanas Sabiedrībām - katrai
+Apdrošināšanas sabiedrībai atsevišķs līgums ar, nosacījumu sadaļā,
+nodefinētiem % attiecīgajam apdrošināšanas veidam, tāpat tiek
+pievienoti līgumu ar % sadalījumiem Brokeriem.
 
 
 
@@ -148,8 +148,8 @@ jāieraksta/jālabo procentu sadalījums:
 
 
 Lai manuāli (M) mainītie/pievienotie % tiktu saglabāti komisijas
-aprēķina brīdī (palaižot `komisijas aprēķina Rīku`_), M podziņai jābūt
-aktīvai/iespiestai:
+aprēķina brīdī (palaižot :doc:`komisijas aprēķina Rīku<6517>`), M
+podziņai jābūt aktīvai/iespiestai:
 
 
 
@@ -169,7 +169,7 @@ Tiklīdz būs nodzēsts klienta parāds, tā aprēķināsies komisija. Ja
 parāds nodzēsts nebūs, tad arī komisija netiks aprēķināta.
 
 Nospiežot pogu , iespējams pievienot papildus informāciju, pēc kuras
-būs iespējams sagatavot arī `polišu atskaiti`_:
+būs iespējams sagatavot arī :doc:`polišu atskaiti<6513>`:
 
 
 
@@ -236,7 +236,8 @@ ievadīt nepieciešamās piezīmes.
 
 
 
-1. Pirms rēķinu ģenerēšanas jānorāda atbilstošais `rēķina veids`_:
+1. Pirms rēķinu ģenerēšanas jānorāda atbilstošais :doc:`rēķina
+veids<157>`:
 
 
 
@@ -249,7 +250,8 @@ informatīvi (netiek izsniegts klientam), lai veiktu uzņēmuma komisijas
 aprēķina uzskaiti un kontrolētu polises norēķinus ar AAS. Rēķins, kuru
 klientam izsniedz apdrošināsanas sabiedrība, un kurš arī tiek
 apmaksāts apdrošināsanas sabiedrībai. Rēķinu ģenerēšana nepieciešama
-`uzņēmuma`_ un `brokeru komisijas`_ aprēķināšanai un uzskaitei.
+:doc:`uzņēmuma<6524>` un :doc:`brokeru komisijas<6516>` aprēķināšanai
+un uzskaitei.
 
 Polišu faktūrrēķins : rēķins, kuru klientam izsniedz brokeru uzņēmums
 un kurš tiek apmaksāts brokeru uzņēmumam. Klients rēķinu apmaksā,

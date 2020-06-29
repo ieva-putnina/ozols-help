@@ -1,4 +1,4 @@
-.. 135 =======================Grāmatojumu šabloni======================= 
+.. 135 Grāmatojumu šabloni*********************** 
 
 
 Grāmatojumu šablonu sarakstā tiek saglabātas izveidotās kontējumu
@@ -109,15 +109,15 @@ nepieciešamsnorādīt satura ierakstu nosacījumus:
 
 Grāmatojuma šablonā iespējas izvēlēties Kategoriju (Ek.kods),
 Struktūrvienību, Projektu, Nozari (VFK), Budžetuun Partneri ierobežo
-izmantojamo `Dimensiju konfigurācija`_ un konta apraksts `Kontu
-plānā`_, kur var būt noteikts nelietot uzskaiti pa partneriem vai
-nelietot kādu no dimensijām. Ja kāda no dimensijām netiek lietota,
-dimensijas lauks grāmatojuma šablonā neparādās.
+izmantojamo :doc:`Dimensiju konfigurācija<701>` un konta apraksts
+:doc:`Kontu plānā<114>`, kur var būt noteikts nelietot uzskaiti pa
+partneriem vai nelietot kādu no dimensijām. Ja kāda no dimensijām
+netiek lietota, dimensijas lauks grāmatojuma šablonā neparādās.
 
 
 
 Grāmatojuma šablona satura nosacījumu ievades instrukcijas:
-`Grāmatojumu šablonu veidošana un pielietošana`_
+:doc:`Grāmatojumu šablonu veidošana un pielietošana<14056>`
 
 
 

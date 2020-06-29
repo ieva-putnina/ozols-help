@@ -1,4 +1,4 @@
-.. 169 =====================================Lietotāju tiesības darba režīmiem===================================== 
+.. 169 Lietotāju tiesības darba režīmiem************************************* 
 
 
 Kad ir izveidotas lietotāju grupas un lietotāji ir pievienoti

@@ -1,4 +1,4 @@
-.. 118 ====================Bankas kodu tipi==================== 
+.. 118 Bankas kodu tipi******************** 
 
 
 Sarakstā tiek saglabāti banku kodu tipi, kas tiek izmantoti banku

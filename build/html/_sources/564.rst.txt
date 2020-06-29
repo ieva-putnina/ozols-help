@@ -1,4 +1,4 @@
-.. 564 ==========================Pamatlīdzekļu pārskats========================== 
+.. 564 Pamatlīdzekļu pārskats************************** 
 Pamatlīdzekļu pārskata atskaite tiek sagatavota uz norādīto pārskata
 datumu pēc noteiktiem atlasītajiem kritērijiem. Atskaitē tiek attēlota
 pamatlīdzekļa uzskaites vērtība, atlikusī vērtība, uzkrātais
@@ -103,17 +103,18 @@ kādu no pamatlīdzekļu dokumenta veidiem;
 
 Pl.Izsl.datums: pamatlīdzekļu izslēgšanas datums (periods);
 
-Piegādātāja valsts: piegādātāja valsts no `Valstu saraksta`_;
+Piegādātāja valsts: piegādātāja valsts no :doc:`Valstu saraksta<103>`;
 
 Pl.nosaukums: pamatlīdzekļa nosaukums;
 
-Īpašuma veids: īpašuma veids kurš nodefinēts `pamatlīdzekļu īpašuma
-veidu sarakstā`_;
+Īpašuma veids: īpašuma veids kurš nodefinēts :doc:`pamatlīdzekļu
+īpašuma veidu sarakstā<183>`;
 
 Amats: iespējams izvēlēties atbildīgās personas amatu kurš nodefinēts
-`Amatu sarakstā`_;
+:doc:`Amatu sarakstā<186>`;
 
-Pazīme: pazīme, kura nodefinēta `Pamatlīdzekļu pazīmju sarakstā`_;
+Pazīme: pazīme, kura nodefinēta :doc:`Pamatlīdzekļu pazīmju
+sarakstā<130>`;
 
 Uzkr.nol.no: uzkrātais nolietojums;
 

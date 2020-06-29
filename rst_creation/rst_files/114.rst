@@ -3,9 +3,10 @@
 
 
 Sarakstā tiek saglabāti grāmatvediskie konti, kas tiek izmantoti
-`dokumentu grāmatošanai`_, `grāmatojumu šablonos`_ un `Virsgrāmatas`_
-atskaišu sagatavošanai. Kontu plānu var izveidot neierobežoti plašu un
-hierarhisku. `Hierarhiskais`_ kontu plāns nodrošina datu grupēšanu uz
+:doc:`dokumentu grāmatošanai<14044>`, :doc:`grāmatojumu šablonos<135>`
+un :doc:`Virsgrāmatas<529>` atskaišu sagatavošanai. Kontu plānu var
+izveidot neierobežoti plašu un hierarhisku.
+:doc:`Hierarhiskais<14041>` kontu plāns nodrošina datu grupēšanu uz
 augstākajiem kontu līmeņiem.
 
 
@@ -88,13 +89,13 @@ Nelietot: grāmatojumos netiks lietotā attiecīgā dimensija.
 
 
 
-- tiek lietots, lai attiecīgajam kontam tiktu rēķinātas `valūtu kursu
-svārstības`_:
+- tiek lietots, lai attiecīgajam kontam tiktu rēķinātas :doc:`valūtu
+kursu svārstības<675>`:
 
 
 
-- tiek lietots, ja nepieciešams `valūtu kursu svārstību`_ sadalījums
-pa dimensijām
+- tiek lietots, ja nepieciešams :doc:`valūtu kursu svārstību<675>`
+sadalījums pa dimensijām
 
 Lai konts tiktu pievienots un saglabāts kontu plānā, jānospiež poga .
 

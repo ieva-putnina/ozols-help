@@ -1,4 +1,4 @@
-.. 843 =====================Visas aktivitātes===================== 
+.. 843 Visas aktivitātes********************* 
 
 
 Atskaiti Visas aktivitātes izmanto, lai atlasītu visas vai viena
@@ -7,13 +7,13 @@ kritērijiem.
 
 Aktivitāšu veidi:
 
-`Darba uzdevumi`_;
+:doc:`Darba uzdevumi<743>`;
 
-`Notikumi`_;
+:doc:`Notikumi<743>`;
 
-`ieg./izg. korespondences`_;
+:doc:`ieg./izg. korespondences<745>`;
 
-`Piedāvājumi`_.
+:doc:`Piedāvājumi<743>`.
 
 
 
@@ -40,14 +40,16 @@ Statuss: aktivitātes statuss (Paziņots, Anulēts, Apskatīts,
 Apstiprināts, Izpilde atlikta, Izpildīts, Neizpildīts), iespēja
 atlasīt aktivitātes pēc to statusa;
 
-Veids: aktivitātes veids (`Darba uzdevums`_, `Notikums`_, `ieg./izg.
-korespondence`_, `Piedāvājums`_);
+Veids: aktivitātes veids (:doc:`Darba uzdevums<743>`,
+:doc:`Notikums<743>`, :doc:`ieg./izg. korespondence<745>`,
+:doc:`Piedāvājums<743>`);
 
 Prioritāte: aktivitātes prioritāte;
 
-Partneris: aktivitātes, kuras attiecas uz noteiktu `partneri`_;
+Partneris: aktivitātes, kuras attiecas uz noteiktu
+:doc:`partneri<312>`;
 
-Sektors: partneru dalījums `sektoros`_;
+Sektors: partneru dalījums :doc:`sektoros<810>`;
 
 Izpildes termiņš: aktivitāšu atlasīšana pēc izpildes termiņa (datums
 vai periods);
@@ -67,7 +69,7 @@ Adresāts: partneris, kuram adresēta aktivitāte;
 
 Izpildija: aktivitātes izpildītājs;
 
-VFK: `dimensiju`_ dalījums;
+VFK: :doc:`dimensiju<701>` dalījums;
 
 Kampaņa: noteiktai kampaņai piesaistītās aktivitātes;
 

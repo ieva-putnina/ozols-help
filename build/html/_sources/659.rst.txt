@@ -1,4 +1,4 @@
-.. 659 ===================================Prēmiju sadalījums pa periodiem=================================== 
+.. 659 Prēmiju sadalījums pa periodiem*********************************** 
 
 
 Izmantojot darba režīmu "Prēmiju sadalījums par periodiem", iespējams

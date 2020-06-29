@@ -17,15 +17,15 @@ labot vai dzēst.
 
 
 
-`Dokumenta anulēšana`_
+:doc:`Dokumenta anulēšana<14047>`
 
-`Dokumenta dzēšana`_
+:doc:`Dokumenta dzēšana<14048>`
 
-`Dokumenta kopēšana`_
+:doc:`Dokumenta kopēšana<14046>`
 
-`Dokumenta labošana`_
+:doc:`Dokumenta labošana<14049>`
 
-`Jauna dokumenta pievienošana`_
+:doc:`Jauna dokumenta pievienošana<14050>`
 
 
  .. toctree::   :maxdepth: 5    14047.rst   14048.rst   14046.rst   14049.rst   14050.rst

@@ -1,4 +1,4 @@
-.. 14109 ===============================================================Grāmatvedisko kontu piesaistīšana algu rezultējošiem kodiem=============================================================== 
+.. 14109 Grāmatvedisko kontu piesaistīšana algu rezultējošiem kodiem*************************************************************** 
 
 
 Pirms algu grāmatojuma pirmdokumenta veidošanas, algu rezultējošiem

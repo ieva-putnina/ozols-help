@@ -1,14 +1,14 @@
-.. 591 =========================Rezultāti horizontāli========================= Atskaite parāda algu aprēķina rezultātus, atbilstoši izvēlētajām
+.. 591 Rezultāti horizontāli************************* Atskaite parāda algu aprēķina rezultātus, atbilstoši izvēlētajām
 sakonfigurētajām atskaišu kolonnām.
 
 Pieejamās atskaišu kolonnas atskaites sagatavošanai jānosaka sarakstā
-`Kolonnu virsraksti`_.
+:doc:`Kolonnu virsraksti<214>`.
 
 Sagatavojot atskaiti, atskaites filtra laukā Kolonnas ir jānorāda,
 kādas atskaišu kolonnas datu sagatavošanā jāizmanto. Atskaišu kolonnas
 ir modificējamas un tajās var noteikt parādīšanai atskaitē jebkurus
-datus no sakonfigurētajiem algu aprēķina rezultātiem (`Rezultējošo
-kodu konfigurācij`_`a`_)
+datus no sakonfigurētajiem algu aprēķina rezultātiem
+(:doc:`Rezultējošo kodu konfigurācij<283>`:doc:`a`)
 
 
 

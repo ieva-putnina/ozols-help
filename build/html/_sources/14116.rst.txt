@@ -1,4 +1,4 @@
-.. 14116 =====================================================================Izmaksu sarakstu eksports uz banku elektronisko norēķinu sistēmām===================================================================== 
+.. 14116 Izmaksu sarakstu eksports uz banku elektronisko norēķinu sistēmām********************************************************************* 
 
 
 Sagatavotos algu, avansu vaistarpizmaksuizmaksu sarakstus var

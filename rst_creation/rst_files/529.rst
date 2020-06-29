@@ -1,4 +1,4 @@
-.. 529 ==================================Konta analītiskais apgrozījums================================== 
+.. 529 Konta analītiskais apgrozījums********************************** 
 
 
 Konta analītiskais apgrozījums parāda konta sākuma atlikumus,
@@ -11,8 +11,9 @@ norādītai analītikas lietošanai, un grāmatojumā jāfiksē darījuma
 partneris. Analītiskās uzskaites kontos atskaitē grāmatojumu dati tiek
 sagrupēti atsevišķi pa darījuma partneriem.
 
-No konta analītiskā apgrozījuma var atvērt `Partnera aprakstu`_,
-`Operāciju pārskatu`_,`Konta atlikumus`_.
+No konta analītiskā apgrozījuma var atvērt :doc:`Partnera
+aprakstu<312>`, :doc:`Operāciju pārskatu<521>`,:doc:`Konta
+atlikumus<665>`.
 
 
 

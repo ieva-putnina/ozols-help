@@ -1,4 +1,4 @@
-.. 14039 ==============================Saraksta ierakstu labošana============================== 
+.. 14039 Saraksta ierakstu labošana****************************** 
 
 
 Lai labotu saraksta ierakstuir:

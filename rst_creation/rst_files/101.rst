@@ -1,4 +1,4 @@
-.. 101 ==================Banku saraksts================== 
+.. 101 Banku saraksts****************** 
 
 
 Banku saraksts satur maksājuma dokumentu veidošanai nepieciešamo
@@ -22,7 +22,7 @@ atvērts jauns logs:
 
 Laukā Kods, nepieciešams ierakstīts Bankas kods, Laukā Nosaukums
 -Bankas nosaukumu, Laukā Bankas kods - Bankas kodu, Laukā Tips -
-norādīt nepieciešamo `Bankas kodu tipu`_.
+norādīt nepieciešamo :doc:`Bankas kodu tipu<118>`.
 
 
 

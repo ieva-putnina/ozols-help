@@ -1,4 +1,4 @@
-.. 4223 ============================Lietas kredītu reģistram============================ 
+.. 4223 Lietas kredītu reģistram**************************** 
 
 
 Atskaite parāda informāciju par regresa lietām noteiktā laika periodā,

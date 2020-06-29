@@ -1,2 +1,2 @@
-.. 7600 =====================Kravu pārvadājumi===================== 
+.. 7600 Kravu pārvadājumi===================== 
  .. toctree::   :maxdepth: 6    7605.rst   7601.rst   7604.rst   7607.rst   7606.rst   7602.rst

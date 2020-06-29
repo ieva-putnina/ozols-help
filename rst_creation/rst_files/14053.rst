@@ -1,4 +1,4 @@
-.. 14053 =================================Jauna grāmatojuma izveidošana================================= 
+.. 14053 Jauna grāmatojuma izveidošana********************************* 
 
 
 Grāmatojums tiek veidots kā atsevišķs dokuments – kontējums.
@@ -30,9 +30,9 @@ dimensijas un ja nepieciešams - analītiku (partneri):
 
 
 
-2. No `Grāmatojumu žurnāla`_- pievienojot manuālo grāmtojumu, rīku
-joslā nospiežot pogu tiks atvērts jauns grāmatojums,kas nav saistīts
-ar pirmdokumentu. Manuālajā grāmatojumā bieži vien kontējums
+2. No :doc:`Grāmatojumu žurnāla<131>`- pievienojot manuālo grāmtojumu,
+rīku joslā nospiežot pogu tiks atvērts jauns grāmatojums,kas nav
+saistīts ar pirmdokumentu. Manuālajā grāmatojumā bieži vien kontējums
 jāpievieno ar roku:
 
 

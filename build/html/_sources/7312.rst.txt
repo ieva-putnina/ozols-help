@@ -1,7 +1,8 @@
-.. 7312 ============Pasākumi============ 
-Pasākumu sarakstā tiek saglabāti visi `pievienotie pasākuma`_
-nosaukumi. Aktivizējot konkrētu pasākuma nosaukumu, tiek atvērts
-`pasākuma ierakst`_ un ar to saistīto `notikumu pārskats`_:
+.. 7312 Pasākumi************ 
+Pasākumu sarakstā tiek saglabāti visi :doc:`pievienotie
+pasākuma<7303>` nosaukumi. Aktivizējot konkrētu pasākuma nosaukumu,
+tiek atvērts :doc:`pasākuma ierakst<7303>` un ar to saistīto
+:doc:`notikumu pārskats<7308>`:
 
 
 

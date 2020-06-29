@@ -1,8 +1,8 @@
-.. 6512 ===============================Polišu izsniegšana brokerim=============================== 
+.. 6512 Polišu izsniegšana brokerim******************************* 
 
 
-Polišu izsniegšanas rīks tiek izmantots, Lai `Brokerim`_ vienlaicīgi
-būtu iespējams izsniegtu vairākas Polises:
+Polišu izsniegšanas rīks tiek izmantots, Lai :doc:`Brokerim<165>`
+vienlaicīgi būtu iespējams izsniegtu vairākas Polises:
 
 
 

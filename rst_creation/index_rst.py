@@ -83,7 +83,7 @@ with open('ozols-help-csv.csv') as csvFile:
                 header_sep = ""
                 for i in range(len(param_array[5])+4):
                     header_sep = header_sep + "="
-                f.write(header_sep + chr(13))
+                #f.write(header_sep + chr(13))
                 f.write(param_array[5] + chr(13))
                 f.write(header_sep + chr(13))
                 f.write(" " + chr(13))              
@@ -153,16 +153,16 @@ with open('ozols-help-csv.csv') as csvFile:
                                         f3.write(" " + chr(13))
                                         header_sep = ""
                                         for i in range(len(param_array3[5])+4):
-                                            header_sep = header_sep + "="
-                                        f3.write(header_sep + chr(13))
+                                            header_sep = header_sep + "*"
+                                        #f3.write(header_sep + chr(13))
                                         f3.write(param_array3[5] + chr(13))
                                         f3.write(header_sep + chr(13))
                                         f3.write(" " + chr(13))              
                                         #if param_array3[6] != "14066" and param_array3[6] != "721": 
                                         stream3 = StringIO()
-                                        print("++++++++++++++++++++++++++++++++++++++++++++++++++++" + chr(13))
-                                        print(param_array3[6] + chr(13))
-                                        print(param_array3[4] + chr(13))
+                                        #print("++++++++++++++++++++++++++++++++++++++++++++++++++++" + chr(13))
+                                        #print(param_array3[6] + chr(13))
+                                        #print(param_array3[4] + chr(13))
                                         html2rest(param_array3[4], writer = stream3)
                                         f3.write(stream3.getvalue().decode("utf8") + chr(13))
                                         f3.write(" " + chr(13))
@@ -193,8 +193,8 @@ with open('ozols-help-csv.csv') as csvFile:
                                                     f4.write(" " + chr(13))
                                                     header_sep = ""
                                                     for i in range(len(param_array4[5])+4):
-                                                        header_sep = header_sep + "="
-                                                    f4.write(header_sep + chr(13))
+                                                        header_sep = header_sep + "*"
+                                                  #  f4.write(header_sep + chr(13))
                                                     f4.write(param_array4[5] + chr(13))
                                                     f4.write(header_sep + chr(13))
                                                     f4.write(" " + chr(13))           
@@ -228,8 +228,8 @@ with open('ozols-help-csv.csv') as csvFile:
                                                                 f5.write(" " + chr(13))
                                                                 header_sep = ""
                                                                 for i in range(len(param_array5[5])+4):
-                                                                    header_sep = header_sep + "="
-                                                                f5.write(header_sep + chr(13))
+                                                                    header_sep = header_sep + "*"
+                                                                #f5.write(header_sep + chr(13))
                                                                 f5.write(param_array5[5] + chr(13))
                                                                 f5.write(header_sep + chr(13))
                                                                 f5.write(" " + chr(13))
@@ -264,8 +264,8 @@ with open('ozols-help-csv.csv') as csvFile:
                                                                             f6.write(" " + chr(13))
                                                                             header_sep = ""
                                                                             for i in range(len(param_array6[5])+4):
-                                                                                header_sep = header_sep + "="
-                                                                            f6.write(header_sep + chr(13))
+                                                                                header_sep = header_sep + "*"
+                                                                            #f6.write(header_sep + chr(13))
                                                                             f6.write(param_array6[5] + chr(13))
                                                                             f6.write(header_sep + chr(13))
                                                                             f6.write(" " + chr(13))              

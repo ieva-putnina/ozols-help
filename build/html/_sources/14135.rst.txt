@@ -1,18 +1,19 @@
-.. 14135 ============================================================Iepirkumu dokumenta satura aizpildīšana no budžeta plāna============================================================ 
+.. 14135 Iepirkumu dokumenta satura aizpildīšana no budžeta plāna************************************************************ 
 Sistēmā izstrādātā papildus funkcionalitāte (nepieciešama papildus
 licence) nodrošina iepirkuma dokumenta satura aizpildīšanu atbilstoši
-`Budžeta plānam`_ - iepirkuma dokuments tiek automātiski aizpildīts,
-atbilstoši infrastruktūras uzturēšanas izdevumu sadalei.
-Ievadot `Iepirkuma dokumentu`_ un aizpildot tā saturu, pēc iepriekš
-nodefinētiem kritērijiem, summas automātiski iespējams sadalīt starp
-projektiem, ņemot vērā plānoto gada finansējumu - `Budžetu`_.
+:doc:`Budžeta plānam<178>` - iepirkuma dokuments tiek automātiski
+aizpildīts, atbilstoši infrastruktūras uzturēšanas izdevumu sadalei.
+Ievadot :doc:`Iepirkuma dokumentu<310>` un aizpildot tā saturu, pēc
+iepriekš nodefinētiem kritērijiem, summas automātiski iespējams
+sadalīt starp projektiem, ņemot vērā plānoto gada finansējumu -
+:doc:`Budžetu<178>`.
 
 Informācija par plānoto gada finansējumu tiek ņemta no sastādītā
-`Budžeta plāna`_, atbilstoši sekojošiem parametriem - konts
-(grāmatvediskais konts un tam atbilstoši piesaistītais `Bankas
-konts`_), `Struktūrvienība`_, Algoritms - izdevumu. Procentuālais
-sadalījums starp projektiem tiek veidots katra `Bankas konta`_
-ietvaros.
+:doc:`Budžeta plāna<178>`, atbilstoši sekojošiem parametriem - konts
+(grāmatvediskais konts un tam atbilstoši piesaistītais :doc:`Bankas
+konts<141>`), :doc:`Struktūrvienība<117>`, Algoritms - izdevumu.
+Procentuālais sadalījums starp projektiem tiek veidots katra
+:doc:`Bankas konta<141>` ietvaros.
 
 
 Iepirkuma dokumenta satura aizpildīšana no budžeta plāna
@@ -53,7 +54,8 @@ Pēc dokumenta satura aizpildīšanas, dokuments ir sekmīgi ievadīts un
 to ir iespējams:
 
 1. Saglabāt, nospiežot pogu -dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošana `Iepirkumu dokumentu`_ žurnālā;
+apskatei/labošanai/grāmatošana :doc:`Iepirkumu dokumentu<210>`
+žurnālā;
 2. Apstiprināt, nospiežot rīku joslā pogu - iepirkumu dokuments tiks
 Apstiprināts un to būs iespējams Grāmatot.
 

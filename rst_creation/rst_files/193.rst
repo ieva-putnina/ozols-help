@@ -1,7 +1,7 @@
-.. 193 =========================Uzņēmējdarbības veidi========================= 
-Uzņēmējdarbības veidu sarakstu iespējams izmantot pievienojot `jaunu
-Partneri`_ (juridisku personu), kur tiek norādīts Uzņēmējdarbības
-veids:
+.. 193 Uzņēmējdarbības veidi************************* 
+Uzņēmējdarbības veidu sarakstu iespējams izmantot pievienojot
+:doc:`jaunu Partneri<312>` (juridisku personu), kur tiek norādīts
+Uzņēmējdarbības veids:
 
 
 

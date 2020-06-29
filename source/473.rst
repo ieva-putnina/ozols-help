@@ -1,15 +1,15 @@
-.. 473 ==========================Bankā atgriezts avanss========================== 
+.. 473 Bankā atgriezts avanss************************** 
 
 
 Bankas ieņēmumu dokumenta veids Atgriezts avanss jāveido, lai veiktu
-norēķinu uzskaiti ar uzņēmuma `Avansu personām`_. Bankas ieejošā
-dokumenta veids jāizmanto, kad uzņēmuma avansu persona atgriež saņemto
-avansu naudu uzņēmuma bankas kontā. Dokuments ir uzskatāms par bankas
-ieņēmumu dokumentu, un tas iekļaujas kopējā dokumentu numerācijā,
-ieejošā dokumenta veids nodrošina automatizētu norēķinu uzskaiti ar
-uzņēmuma `Avansu personām`_. Atgriezto avansu dokumenti vienlaicīgi
-tiek parādīti `Bankas ieņēmumu`_ un `Avansu norēķinu`_ dokumentu
-žurnālos.
+norēķinu uzskaiti ar uzņēmuma :doc:`Avansu personām<196>`. Bankas
+ieejošā dokumenta veids jāizmanto, kad uzņēmuma avansu persona atgriež
+saņemto avansu naudu uzņēmuma bankas kontā. Dokuments ir uzskatāms par
+bankas ieņēmumu dokumentu, un tas iekļaujas kopējā dokumentu
+numerācijā, ieejošā dokumenta veids nodrošina automatizētu norēķinu
+uzskaiti ar uzņēmuma :doc:`Avansu personām<196>`. Atgriezto avansu
+dokumenti vienlaicīgi tiek parādīti :doc:`Bankas ieņēmumu<226>` un
+:doc:`Avansu norēķinu<554>` dokumentu žurnālos.
 
 
 
@@ -74,7 +74,7 @@ saņemto avansa naudu uzņēmuma bankas kontā:
 
 
 Izvēloties nepieciešamo Pircēju, lauki Nor.konts un P.k. tiks
-aizpildīti automātiski no `Partnera kartiņas`_.
+aizpildīti automātiski no :doc:`Partnera kartiņas<312>`.
 
 
 
@@ -112,8 +112,8 @@ Kad visi nepieciešamie lauki ir aizpildīti, Bankāatgriezts avanssir
 sagatavots un to ir iespējams:
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai vienlaicīgi`Bankas ieņēmumu`_un
-`Avansu norēķinu`_žurnālos.
+apskatei/labošanai/grāmatošanai vienlaicīgi:doc:`Bankas
+ieņēmumu<226>`un :doc:`Avansu norēķinu<232>`žurnālos.
 
 2. Apstiprināt, nospiežot rīku joslā pogu - Bankāatgriezts avansstiks
 Apstiprināts un to būs iespējams Grāmatot.
@@ -123,8 +123,8 @@ Dokumenta - Bankā atgrieztsavanss grāmatošana
 `````````````````````````````````````````````
 
 Bankā atgrieztuavansu iespējams grāmatot no atvērta dokumenta vai
-izvēloties (iezīmējot)dokumentu `Bankas ieņēmumu`_vai `Avansu
-norēķinu`_žurnālā.
+izvēloties (iezīmējot)dokumentu :doc:`Bankas ieņēmumu<226>`vai
+:doc:`Avansu norēķinu<232>`žurnālā.
 
 Lai iegrāmatotu Bankāatgrieztu avansu, dokumentu nepieciešams
 Apstiprināt, nospiežot rīku joslā pogu .
@@ -134,7 +134,7 @@ pogu .
 
 
 
-Instrukcija - `Dokumentu grāmatošanas principi`_
+Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
 
 
 PievienotāBankāatgrieztāavansalabošana
@@ -142,10 +142,10 @@ PievienotāBankāatgrieztāavansalabošana
 
 Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu
 Bankāatgriezts avanss, kurš vienlaicīgi pieejams
-apskatei/labošanai`Bankas ieņēmumu`_``_un `Avansu norēķinu`_dokumentu
-žurnālos. Lai veiktu labojumus,dokumentunepieciešams atvērt,
-izmantojot rīku joslas pogu (ALT+A), unatvērtajāierakstā iespējams
-veiktnepieciešamos labojumus:
+apskatei/labošanai:doc:`Bankas ieņēmumu<226>`:doc:`<224>`un
+:doc:`Avansu norēķinu<232>`dokumentu žurnālos. Lai veiktu
+labojumus,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 
 
 

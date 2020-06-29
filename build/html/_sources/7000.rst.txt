@@ -1,13 +1,14 @@
-.. 7000 ==============Dividendes============== 
+.. 7000 Dividendes============== 
 
 
-Dividenžu modulis paredzēts `Akciju`_ievadei - norādot Akcijas
-turētāju, `Akciju veidu`_ un sniedz iespēju noteikt laika periodu,
-kādā šīs akcijas būs Akcijas turētāja īpašumā. Kā arīnodrošina
-`Dividenžu aprēķina`_atskaites sagatavošanu, lai iegūtu pārskatāmu
-informāciju par visiem uzņēmuma akciju turētājiem un aprēķinātajām
-dividendēm - izmaksājamām summām, ko uzņēmumam būtu jāizmaksā saviem
-akciju turētājiem, noteiktā laika periodā.
+Dividenžu modulis paredzēts :doc:`Akciju<7010>`ievadei - norādot
+Akcijas turētāju, :doc:`Akciju veidu<7006>` un sniedz iespēju noteikt
+laika periodu, kādā šīs akcijas būs Akcijas turētāja īpašumā. Kā
+arīnodrošina :doc:`Dividenžu aprēķina<7011>`atskaites sagatavošanu,
+lai iegūtu pārskatāmu informāciju par visiem uzņēmuma akciju
+turētājiem un aprēķinātajām dividendēm - izmaksājamām summām, ko
+uzņēmumam būtu jāizmaksā saviem akciju turētājiem, noteiktā laika
+periodā.
 
 
 Dividenžu modulis nodrošina:

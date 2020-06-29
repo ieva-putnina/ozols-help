@@ -1,7 +1,7 @@
-.. 14031 =====================================Izmaksu veikšana atlīdzību lietās===================================== 
+.. 14031 Izmaksu veikšana atlīdzību lietās************************************* 
 
-#. Kad `Atlīdzību daļā`_pieņemts lēmums par izmaksas veikšanu uz
-   sistēmu OZOLS tiek eksportēti sekojoši dati:
+#. Kad :doc:`Atlīdzību daļā<14027>`pieņemts lēmums par izmaksas
+   veikšanu uz sistēmu OZOLS tiek eksportēti sekojoši dati:
 
     + Piegādātāji: Pazīme juridiska-fiziska persona, Cietušās personas
     vārds, uzvārds, personas kods, (Juridiskai personai Nosaukums,
@@ -10,15 +10,15 @@
     CSNg identifikators un dimensija Atlīdzību lietas numurs. Ja veicot
     importu, tiek atrasts virslīmenis CSNg identifikators, tam pievieno
     jaunu dimensiju Atlīdzību lietas numurs.
-    + Izveido`Regresa lietas kartiņu`_, kur tiek pārnesta informācija par
-      ceļu satiksmes negadījumu, atlīdzības lietas numurs, informācija par
-      vainīgo un cietušo vadītāju un TRL.
+    + Izveido:doc:`Regresa lietas kartiņu<4206>`, kur tiek pārnesta
+      informācija par ceļu satiksmes negadījumu, atlīdzības lietas numurs,
+      informācija par vainīgo un cietušo vadītāju un TRL.
 
-#. Kad `Finanšu daļa`_ ir saņēmusi no `Atlīdzību daļas`_pieņemto
-lēmumu dokumenta veidā, Finanšu daļā Piegādātāja dati tiek papildināti
-ar izmaksas saņēmēja norēķinu rekvizītiem.
-#. `Finanšu daļa`_ veic maksājumu, maksājumā norādot Dimensiju
-Atlīdzību lietas numurs.
+#. Kad :doc:`Finanšu daļa<14028>` ir saņēmusi no :doc:`Atlīdzību
+daļas<14027>`pieņemto lēmumu dokumenta veidā, Finanšu daļā Piegādātāja
+dati tiek papildināti ar izmaksas saņēmēja norēķinu rekvizītiem.
+#. :doc:`Finanšu daļa<14028>` veic maksājumu, maksājumā norādot
+Dimensiju Atlīdzību lietas numurs.
 #. Pēc tam, kad maksājums ir iegrāmatots, tiek veikta pārbaude. Ja
    dokumenta veids ir BIZ un dimensija Atlīdzību lietas numurs nav tukša,
    tiek veikts eksports uz CSNRZRS. Pārnes sekojošus datus : CSNg

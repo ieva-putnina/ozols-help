@@ -1,4 +1,4 @@
-.. 394 ==========Līgums========== 
+.. 394 Līgums********** 
 
 
 Līgumi tiek izmantoti, lai uzskaitītu uzņēmuma attiecības un saistības
@@ -73,7 +73,7 @@ jānorāda Soda % dienā.
 
 
 
-` Līguma kopēšana `_
+:doc:` Līguma kopēšana <237>`
 
 Līgumu žurnālā, atzīmējot konkrēto līgumu, jānospiež peles labais
 taustiņš un jāizvēlas Kopēt. Tiek nokopēts līgums.

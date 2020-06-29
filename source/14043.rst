@@ -1,4 +1,4 @@
-.. 14043 ==============================================Sarakstu aizpildīšana no atvērta dokumenta============================================== 
+.. 14043 Sarakstu aizpildīšana no atvērta dokumenta********************************************** 
 Sarakstu var aizpildīt no paša dokumenta, ja dokumentā pretim ievades
 laukam ir lupas poga .
 

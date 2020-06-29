@@ -1,4 +1,4 @@
-.. 14134 ==================================2.Darba uzsākšana grāmatvežiem================================== 
+.. 14134 2.Darba uzsākšana grāmatvežiem********************************** 
 
 Uzņēmuma pamatinformācija:
 ``````````````````````````
@@ -6,12 +6,13 @@ Uzsākot darbu sistēmā OZOLS, sākotnēji nepieciešams aizpildīt Uzņēmuma
 informāciju:
 
 1. Nepieciešams ievadīt savu uzņēmumu Partneru sarakstā:
-CRM(Partneri)->Saraksti->Partneri->Pievienot->`Partneris`_
+CRM(Partneri)->Saraksti->Partneri->Pievienot->:doc:`Partneris<312>`
 2. Tālāk nepieciešams aizpildīt uzņēmuma informāciju:
-Konfigurācija->Iestādījumi->Kopīgie->`Uzņēmuma informācija`_
+Konfigurācija->Iestādījumi->Kopīgie->:doc:`Uzņēmuma informācija<703>`
 3. Pēc uzņēmuma pamatinformācijas aizpildīšanas, jāpapildināt sistēmā
 pievienotā uzņēmuma informāciju, norādot uzņēmuma kodu (saīsinātu
-nosaukumu) un pilnu nosaukumu: Konfigurācija->Lietotāji->`Uzņēmumi`_
+nosaukumu) un pilnu nosaukumu:
+Konfigurācija->Lietotāji->:doc:`Uzņēmumi<188>`
 
 
 Kopējie saraksti:
@@ -20,13 +21,13 @@ Uzsākot darbu, nepieciešams izveidot pamatklasifikatorus, kas tiks
 izmantoti uzņēmuma finanšu un vadības grāmatvedības uzskaitei:
 
 1. Nepieciešams izveidot uzņēmuma organizatorisko shēmu: Kopējie
-saraksti->`Struktūrvienības`_
+saraksti->:doc:`Struktūrvienības<117>`
 2. Jāpielāgo Ozolā esošais standartizētais konta plāns, atbilstoši
-uzņēmuma vajadzībām: Kopējie saraksti->`Kontu plāns`_
+uzņēmuma vajadzībām: Kopējie saraksti->:doc:`Kontu plāns<114>`
 3. Pēc vajadzības, jāpapildina esošais PVN nodokļu saraksts: Kopējie
-saraksti->`Nodokļu saraksts`_ - šajā sarakstā tiek ievadītas tikai PVN
-likmes (IIN un Soc.nod.likmes tiek vadītas Algu konfigurācijas
-iestādījumos)
+saraksti->:doc:`Nodokļu saraksts<102>` - šajā sarakstā tiek ievadītas
+tikai PVN likmes (IIN un Soc.nod.likmes tiek vadītas Algu
+konfigurācijas iestādījumos)
 
 
 CRM (Partneri):
@@ -35,7 +36,7 @@ Uzsākot darbu sistēmā OZOLS, lai būtu iespējams ievadīt saņemtos
 Iepirkumu dokumentus un sagatavot Pārdošanas dokumentus, nepieciešams
 ievadīt biežāk izmantojamo partneru sarakstu, ar iespēju pēc tam šo
 sarakstu papildināt:
-CRM(Partneri)->Saraksti->`Partneri`_->Pievienot->Aizpildīt
+CRM(Partneri)->Saraksti->:doc:`Partneri<112>`->Pievienot->Aizpildīt
 nepieciešamos datus.
 
 
@@ -47,17 +48,17 @@ veikt bankas ieejošo un izejošo maksājumu uzskaiti:
 
 1. Nepieciešams pievienot uzņēmuma bankas kontus, piesaistot bankas
 kontam atbilstošo naudas līdzekļu grāmatvedisko kontu no kontu plāna:
-Finanses->Saraksti->`Banku konti`_
+Finanses->Saraksti->:doc:`Banku konti<141>`
 2. Jāpievieno uzņēmumā esošās skaidras naudas kases (ja tādas ir),
 piesaistot kasei atbilstošo naudas līdzekļu grāmatveidsko kontu no
-kontu plāna: Finanses->Saraksti->`Kases`_
+kontu plāna: Finanses->Saraksti->:doc:`Kases<123>`
 3. Pēc vajadzības, papildināt esošo banku sarakstu:
-Finanses->Saraksti->`Banku saraksts`_
+Finanses->Saraksti->:doc:`Banku saraksts<101>`
 
 Ja tiks veidota datu apmaiņa ar banku (bankas ieņēmumu imports un
 maksājumu uzdevumu eksports), nepieciešams aizpildīt bankas
 elektronisko norēķinu sistēmu sarakstu: Datu apmaiņa ar
-banku->Saraksti->`Bankas elektronisko norēķinu sistēmas`_
+banku->Saraksti->:doc:`Bankas elektronisko norēķinu sistēmas<160>`
 
 
 Norēķini:
@@ -68,16 +69,17 @@ grāmatošanai:
 
 1. Pēc vajadzības papildināt apmaksas veidu sarakstu, kas tiks
 izmantots Iepirkumu un Pārdošanas dokumentu ievadei:
-Norēķini->Saraksti->`Apmaksas veidi`_
+Norēķini->Saraksti->:doc:`Apmaksas veidi<122>`
 2. Izveidot Norēķinu Grupu klasifikatoru - izveidot pamatgrupas
 krājumu/preču/pakalpojumu uzskaitei, norādot katras grupas aprakstā
 nepieciešams uzskaites/ieņēmumu/izdevumu grāmatvediskos kontus,
-norēķinu dokumentu ērtākai grāmatošanai: Norēķini->Saraksti->`Grupas`_
+norēķinu dokumentu ērtākai grāmatošanai:
+Norēķini->Saraksti->:doc:`Grupas<148>`
 3. Sagatavot biežāk izmantojamo Pakalpojumu sarakstu, lai Iepirkumu un
 Pārdošanas dokumentu saturu aizpildīšana kļūtu pēc iespējas
 automatizētāka, pakalpojumu aprakstā norādot atbilstošu ieņēmumu kontu
 ērtākam pakalpojumu rēķinu grāmatošanas procesam:
-Norēķini->Saraksti->`Pakalpojumi`_
+Norēķini->Saraksti->:doc:`Pakalpojumi<108>`
 
 
 Virsgrāmata
@@ -87,18 +89,18 @@ pamatdatus, kas tiks izmantoti pirmdokumentu grāmatojumos:
 
 1. Pēc konta plāna pielāgošanas atbilstoši uzņēmuma vajadzībām,
 jānorāda atbilstošie grāmatvedības konti standarta grāmatojumiem:
-Konfigurācija->Iestādījumi->Kopīgie->`Virsgrāmata`_
+Konfigurācija->Iestādījumi->Kopīgie->:doc:`Virsgrāmata<707>`
 2. Jāpievieno kontu atlikumi uz to brīdi, kad tiek uzsākts darbs
-programmā: Virsgrāmata->Dokumenti->`Kontu atlikumi`_
+programmā: Virsgrāmata->Dokumenti->:doc:`Kontu atlikumi<146>`
 3. Jāizveido uzņēmuma kontu plānam atbilstošas Virsgrāmatas atskaišu
 konfigurācijas, lai sekmīgi varētu veidot gan VID iesniedzamās
 atskaites (PVN deklarācija un pielikumi), gan uzņēmuma gada pārskatus
 (Bilances, PZ aprēķins):
-Konfigurācija->Iestādījumi->Kopīgie->`Virsgrāmatas atskaišu
-konfigurācijas`_
+Konfigurācija->Iestādījumi->Kopīgie->:doc:`Virsgrāmatas atskaišu
+konfigurācijas<179>`
 4. Jāpārbauda grāmatojumu šablonu sarakstā esošie šabloni, kurus
 nepieciešamības gadījumā iespējams papildināt:
-Virsgrāmata->Saraksti->`Grāmatojumu šabloni`_
+Virsgrāmata->Saraksti->:doc:`Grāmatojumu šabloni<135>`
 
 
 Pamatlīdzekļi:
@@ -110,24 +112,25 @@ un grāmatošanai:
 1. Nepieciešams koriģēt esošo standartizēto Pamatlīdzekļu kategoriju
 klasifikatoru, kategoriju aprakstā norādot atbilstošos katras
 kategorijas pamatlīdzekļu uzskaites, nolietojuma aprēķina un izdevumu
-grāmatvediskos kontus: Pamatlīdzekļi->Saraksti->`Pamatlīdzekļu
-kategorijas`_
+grāmatvediskos kontus: Pamatlīdzekļi->Saraksti->:doc:`Pamatlīdzekļu
+kategorijas<129>`
 2. Ja pamatlīdzekļu uzskaitei tiks izmantoti objekti (klasifikators,
 ar kura starpniecību var Pamatlīdzekļu uzskaitē fiksēt detalizētāku
 pamatlīdzekļa fiziskās atrašānās vietu):
-Pamatlīdzekļi->Saraksti->`Pamatlīdzekļu objekti`_
+Pamatlīdzekļi->Saraksti->:doc:`Pamatlīdzekļu objekti<202>`
 
 
 Avansi
 ``````
 1. Lai nodrošinātu avansu norēķinu uzskaiti, nepieciešams izveidot
-`Avansu personu saraksts`_, partnera aprakstā atzīmējot atbilstošo
-grupu - Avansa persona.
-2. Ja kopīgajos `Virsgrāmatas`_ iestādījumos norādītais avansu
-personas grāmatvediskais konts ne visām uzņēmumā esošajām avansu
-personām ir vienāds (atsevišķi tiek uzskaitīti dati par saimniecisko
-avansu un pārējiem avansu izdevumiem), tad atbilstošo avansu personas
-kontu iespējams norādīt `Partnera`_ aprakstā, sadaļā "citi".
+:doc:`Avansu personu saraksts<196>`, partnera aprakstā atzīmējot
+atbilstošo grupu - Avansa persona.
+2. Ja kopīgajos :doc:`Virsgrāmatas<707>` iestādījumos norādītais
+avansu personas grāmatvediskais konts ne visām uzņēmumā esošajām
+avansu personām ir vienāds (atsevišķi tiek uzskaitīti dati par
+saimniecisko avansu un pārējiem avansu izdevumiem), tad atbilstošo
+avansu personas kontu iespējams norādīt :doc:`Partnera<312>` aprakstā,
+sadaļā "citi".
 
 
 Personāls
@@ -136,14 +139,16 @@ Uzsākot darbu, nepieciešams izveidot pamatklasifikatorus, kas tiks
 izmantoti uzņēmuma personāla uzskaitei un algu aprēķiniem:
 
 1. Jāizveido pamatklasifikatori, lai varētu pilnvērtīgi aizpildīt
-strādājošā kartiņu: Personāls->Saraksti->`Amati`_/`Amatu
-grupas`_/`Atvaļinājumu kalendāri`_/`Kalendāri`_/`Personāla
-kategorijas`_/`Slodžu veidi`_
+strādājošā kartiņu: Personāls->Saraksti->:doc:`Amati<186>`/:doc:`Amatu
+grupas<959>`/:doc:`Atvaļinājumu
+kalendāri<284>`/:doc:`Kalendāri<218>`/:doc:`Personāla
+kategorijas<127>`/:doc:`Slodžu veidi<288>`
 2. Nepieciešams aizpildīt informāciju par svētku un pārceltajām dienām
-kalendārajā periodā: Personāls->Saraksti->`Notikumu saraksts`_
+kalendārajā periodā: Personāls->Saraksti->:doc:`Notikumu
+saraksts<217>`
 3. Jāpievieno strādājošie ( ar atzīmētu grupu "strādājošais"), uz kā
 pamata tiks veidotas slodzes: Personāla
-vadība->Saraksti->`Strādājošie`_
+vadība->Saraksti->:doc:`Strādājošie<111>`
 
 
 Algas
@@ -152,16 +157,16 @@ Uzsākot darbu ar Algām, nepieciešams par nodokļu likmju atbilstību,
 atbilstoši MK noteikumiem:
 
 1. Jāpārliecinās, lai būtu norādītas spēkā esošas IIN likmes:
-Alga->Konfigurācija->`Ienākuma nodokļu metodes`_
+Alga->Konfigurācija->:doc:`Ienākuma nodokļu metodes<222>`
 2. Nepieciešams pārliecināties, lai būtu atbilstošas sociālā nodokļa
-likmes: Alga->Konfigurācija->`Sociālo nodokļu metodes`_
+likmes: Alga->Konfigurācija->:doc:`Sociālo nodokļu metodes<223>`
 3. Jāpievieno Algu periodi, lai varētu veikt algu aprēķinus:
-Alga->Konfigurācija->`Algu periodi`_
+Alga->Konfigurācija->:doc:`Algu periodi<211>`
 4. Jāievada uzņēmuma grāmatvedības politikai atbilstoši kopīgie algu
 iestādījumi, norādot algu izmaksas datumu, grupēšanas kritērijus, u.c.
-iestādījumus: Alga->Konfigurācija->`Kopīgie`_
+iestādījumus: Alga->Konfigurācija->:doc:`Kopīgie<732>`
 5. Pēc nepieciešamības, jākoriģē esošais kolonnu virsrakstu saraksts,
-kas tiks izmantots atskaišu ģenerēšanai: Alga->Konfigurācija->`Kolonnu
-virsraksti`_
+kas tiks izmantots atskaišu ģenerēšanai:
+Alga->Konfigurācija->:doc:`Kolonnu virsraksti<214>`
 
  

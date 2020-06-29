@@ -1,6 +1,7 @@
-.. 111 ===============Strādājošie=============== 
+.. 111 Strādājošie*************** 
 Lai pievienotu jaunu strādājošo sarakstam, rīku joslā jānsopiež poga .
-Arī `Partneru`_ sadaļā caur pogu ir iespējams pievienot strādājošo.
+Arī :doc:`Partneru<312>` sadaļā caur pogu ir iespējams pievienot
+strādājošo.
 
 Strādājošo aprakstā jāpievieno darbinieka personīgā informācija –
 vārds, uzvārds, personas kods, bankas konta numurs, adrese:
@@ -26,7 +27,7 @@ Darbinieks partneru sarakstā ir jāpievieno tikai vienu reizi.
 
 
 No strādājošā apraksta caur pogu var izsaukt vai pievienot jaunu
-`Slodzi`_.
+:doc:`Slodzi<207>`.
 
 Strādājošā apraksta sadaļā Personāls var pievienot personāla uzskaitei
 nepieciešamo informāciju. Lai izveidotu un drukātu personas kartīti,
@@ -62,17 +63,17 @@ lietotājiem nebūs pieejami.
 
 
 
-Caur pogu tiek pievienotas strādājošā `adreses`_. Ja ar programmu tiek
-vesta uzskaite vairākiem uzņēmumiem, tad strādājošā adresēm tiek
-norādīti uzņēmumi uz kuru konkrētā strādājošā adrese attiecas. Šīs uz
-uzņēmumu norādītās adreses citu uzņēmumu programmas lietotājiem nebūs
-pieejamas.
+Caur pogu tiek pievienotas strādājošā :doc:`adreses<192>`. Ja ar
+programmu tiek vesta uzskaite vairākiem uzņēmumiem, tad strādājošā
+adresēm tiek norādīti uzņēmumi uz kuru konkrētā strādājošā adrese
+attiecas. Šīs uz uzņēmumu norādītās adreses citu uzņēmumu programmas
+lietotājiem nebūs pieejamas.
 
 Caur pogu ir iespējams apskatītvai pievienot strādājošā norēķinu
 kartes.
 
 
 
-Caur pogu ir iespējams atvērt strādājošā `slodzi`_.
+Caur pogu ir iespējams atvērt strādājošā :doc:`slodzi<207>`.
 
  

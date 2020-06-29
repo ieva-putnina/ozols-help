@@ -1,9 +1,9 @@
-.. 14064 ===========================================Klienta programmas versijas atjaunošana=========================================== 
+.. 14064 Klienta programmas versijas atjaunošana******************************************* 
 
 
-Pēc tam kad ir veikta `Datu bāzes versijas atjaunošana`_, Klienta
-programmas versija tiek atjaunota automātiski, kur pēc programmas
-startēšanas tiek aktivizēta ekrāna forma:
+Pēc tam kad ir veikta :doc:`Datu bāzes versijas atjaunošana<14066>`,
+Klienta programmas versija tiek atjaunota automātiski, kur pēc
+programmas startēšanas tiek aktivizēta ekrāna forma:
 
 
 
@@ -19,6 +19,6 @@ programmas versija no datu bāzes.
 Ja gadījumā kādu tehnisku iemeslu dēļ Klienta programmas versiju
 neizdodas atjaunot, tādā gadījumā ir jāpārliecinās vai katalogā kurā
 atrodas OZOLS.exe lietotājam ir tiesības rakstīt datus, ja ir tad
-jāveic `manuāla programmas atjaunošana`_
+jāveic :doc:`manuāla programmas atjaunošana<14067>`
 
  .. toctree::   :maxdepth: 4    14067.rst

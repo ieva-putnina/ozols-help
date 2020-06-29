@@ -1,4 +1,4 @@
-.. 772 ==============================Rezultējošo kodu pārrēķins============================== 
+.. 772 Rezultējošo kodu pārrēķins****************************** 
 
 
 Rezultējošo kodu pārrēķina rīks dod iespēju lietotājam pārrēķināt algu

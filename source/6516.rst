@@ -1,4 +1,4 @@
-.. 6516 ======================Pārdevēju komisija====================== 
+.. 6516 Pārdevēju komisija********************** 
 Pārdevēju komisijas atskaite ir domāta lai varētu atalsīt datus par
 Brokera, Asistenta un Piesaistītāja komisijām.
 

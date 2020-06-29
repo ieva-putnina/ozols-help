@@ -1,4 +1,4 @@
-.. 695 =============================Nomenklatūras sastāvdaļas============================= 
+.. 695 Nomenklatūras sastāvdaļas***************************** 
 
 
 Sarakstā tiek attēlots nomenklatūras saraksts, kurām ir piesaistītas

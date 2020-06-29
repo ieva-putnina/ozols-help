@@ -1,7 +1,7 @@
-.. 614 =================Sistēmas kodi================= 
+.. 614 Sistēmas kodi***************** 
 
 
-Sistēmas algoritmā iebūvētie kodi, kas izmantoti Algu `Rezultējošo
-kodu konfigurācijā.`_
+Sistēmas algoritmā iebūvētie kodi, kas izmantoti Algu
+:doc:`Rezultējošo kodu konfigurācijā.<283>`
 
  

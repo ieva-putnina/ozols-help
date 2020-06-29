@@ -1,5 +1,5 @@
-.. 869 ==================Kases ieņēmumi================== Kases ieņēmumu atskaitē tiek attēloti visi saglabātie `kases
-ieņēmumiem`_, kuri tiek atlasīti pēc filtrā norādītajiem atlases
+.. 869 Kases ieņēmumi****************** Kases ieņēmumu atskaitē tiek attēloti visi saglabātie :doc:`kases
+ieņēmumiem<350>`, kuri tiek atlasīti pēc filtrā norādītajiem atlases
 kritērijiem:
 
 

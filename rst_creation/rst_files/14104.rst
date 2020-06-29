@@ -1,4 +1,4 @@
-.. 14104 =========================================Preču cenošana no Iepirkumu dokumenta========================================= 
+.. 14104 Preču cenošana no Iepirkumu dokumenta***************************************** 
 
 
 Jāatlasa vēlamie iepirkuma dokumenti un atverot iepirkuma dokumentu,
@@ -24,10 +24,10 @@ Spēkā no: datums, no kura stājas spēkā izveidotās cenas;
 Atb.cena: atbalsta cena (pēdēja preces iepirkuma cena, kura tiek ņemta
 no iepirkuma dokumenta satura ieraksta);
 
-Noliktava: `noliktava`_ uz kuru attieksies izveidotās cenas;
+Noliktava: :doc:`noliktava<142>` uz kuru attieksies izveidotās cenas;
 
-Cenas veids: jāizvēlas, kuram no nodefinētajiem `cenu veidiem`_ tiks
-izveidotas preču cenas;
+Cenas veids: jāizvēlas, kuram no nodefinētajiem :doc:`cenu
+veidiem<105>` tiks izveidotas preču cenas;
 
 Uzcenojums (%): ir iespējams ierakstīt noteiktu uzcenojuma procentu,
 un, nospiežot pogu , visas iepirkuma dokumenta preces tiek uzcenotas.
@@ -37,7 +37,7 @@ Lai cenas tiktu saglabātas, jānospiež poga .
 Ir iespējams arī manuāli ierakstīt Cenu vai cenu ar PVN, un programma
 automātiski aprēķinās uzcenojumu (%).
 
-Izveidotās cenas tiek saglabātas `cenu sarakstā`_.
+Izveidotās cenas tiek saglabātas :doc:`cenu sarakstā<749>`.
 
 
 
@@ -61,19 +61,20 @@ Automātiski Atbalsta cena tiek norādīta Pēdējā iepirkuma cena;
 
 Spēkā no: datums, no kura stājas spēkā izveidotās cenas;
 
-Noliktava: `noliktava`_ tiek automātiski notādītā tā, kura ir norādīta
-iepirkuma dokumentā;
+Noliktava: :doc:`noliktava<142>` tiek automātiski notādītā tā, kura ir
+norādīta iepirkuma dokumentā;
 
-Izsniedza: iespējams norādīt `atbildīgo personu`_;
+Izsniedza: iespējams norādīt :doc:`atbildīgo personu<312>`;
 
-Cenas veids: jānorāda `cenu veids`_;
+Cenas veids: jānorāda :doc:`cenu veids<105>`;
 
-Tad, nospiežot pogu , tiek atvērt logs, kur jānorāda `cenošanas
-metode`_ (ja norāda manuālo metodi, tad cenošana jāveic manuāli
+Tad, nospiežot pogu , tiek atvērt logs, kur jānorāda :doc:`cenošanas
+metode<159>` (ja norāda manuālo metodi, tad cenošana jāveic manuāli
 norādot procentuālu uzcenojumu), un tiek norādīts iepirkuma dokuments,
 no kura tiek veikta cenošana. Jānospiež poga , lai tiktu veikta
 cenošana un aizpildītos cenošanas dokumenta saturs. Cenošanas
-dokuments tiek saglabāts `Cenošanas dokumentu žurnālā`_, kur tiek
-saglabāti arī manuāli pievienotie `cenošanas dokumenti`_.
+dokuments tiek saglabāts :doc:`Cenošanas dokumentu žurnālā<231>`, kur
+tiek saglabāti arī manuāli pievienotie :doc:`cenošanas
+dokumenti<374>`.
 
  

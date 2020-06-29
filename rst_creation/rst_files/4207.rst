@@ -1,4 +1,4 @@
-.. 4207 ===========================Lietu slēgšanas iemesli=========================== 
+.. 4207 Lietu slēgšanas iemesli*************************** 
 
 
 Sarakstā tiek saglabāti lietu slēgšanas iemesli.

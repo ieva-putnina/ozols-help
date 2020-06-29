@@ -1,4 +1,4 @@
-.. 14126 ===========================================================Iestādījumu konfigurācija strādājot ar OS Windows Vista=========================================================== 
+.. 14126 Iestādījumu konfigurācija strādājot ar OS Windows Vista*********************************************************** 
 
 
 Lai darbs ar sistēmu Ozols būtu ērts un darbu režīmu logiem būtu

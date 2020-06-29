@@ -1,4 +1,4 @@
-.. 45 =================Pamatlīdzekļi================= 
+.. 45 Pamatlīdzekļi================= 
 
 
 Pamatlīdzekļu uzskaites modulis paredzēts uzņēmuma pamatlīdzekļu un

@@ -1,4 +1,4 @@
-.. 583 =======================Pircēju apgrozījums======================= 
+.. 583 Pircēju apgrozījums*********************** 
 
 
 
@@ -37,7 +37,8 @@ Datums: periods, par kuru tiks gatavota atskaite;
 Pircējs: iespēja atlasīt datus par konkrētu pircēju;
 
 
-Menedžeris: iespēja atlasīt datus par konkrētu `Klientu menedžeri`_;
+Menedžeris: iespēja atlasīt datus par konkrētu :doc:`Klientu
+menedžeri<14136>`;
 
 
 Rādīt tikai dokumentus ar stingrās uzskaites numuru: atzīmējot šo

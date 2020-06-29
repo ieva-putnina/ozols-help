@@ -1,15 +1,17 @@
-.. 14092 =====================================================Nomenklatūras norakstīšanas dokumentu grāmatošana===================================================== 
+.. 14092 Nomenklatūras norakstīšanas dokumentu grāmatošana***************************************************** 
 
 
-Nomenklatūras norakstīšanas dokumentus iespējams grāmatot `Iekšējās
-kustības dokumentu žurnālā`_, izmantojot rīku joslas pogu .
+Nomenklatūras norakstīšanas dokumentus iespējams grāmatot
+:doc:`Iekšējās kustības dokumentu žurnālā<14013>`, izmantojot rīku
+joslas pogu .
 
 
 
-` Iekšējās kustības dokumentu žurnāla `_filtrā iespējams norādīt
-parametrus, pēc kādiem tiks atlasīti Nomenklatūras norakstīšanas
-dokumenti grāmatošanai. Atlases parametriem jābūt tādiem, kas atlasītu
-dokumentus, kuriem ir vienots grāmatošanas princips.
+:doc:` Iekšējās kustības dokumentu žurnāla <14013>`filtrā iespējams
+norādīt parametrus, pēc kādiem tiks atlasīti Nomenklatūras
+norakstīšanas dokumenti grāmatošanai. Atlases parametriem jābūt
+tādiem, kas atlasītu dokumentus, kuriem ir vienots grāmatošanas
+princips.
 
 
 
@@ -34,9 +36,9 @@ atlasīti Nomenklatūras norakstīšanas dokumenti, pēc norādītā
 
 
 
-Pēc pogas nospiešanas,` Iekšējās kustības dokumentu žurnālā `_ kolonnā
-„Info” attēlotā informācija liecina par to, ka šie dokumenti ir
-iegrāmatoti:
+Pēc pogas nospiešanas,:doc:` Iekšējās kustības dokumentu žurnālā
+<14013>` kolonnā „Info” attēlotā informācija liecina par to, ka šie
+dokumenti ir iegrāmatoti:
 
 
 

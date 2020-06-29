@@ -1,8 +1,8 @@
-.. 112 ============Partneri============ 
+.. 112 Partneri************ 
 
 
 Sarakstā tieksaglabāti visi Ozols datu bāzē pievienotie
-uzņēmuma`Partneri`_(gan fiziskas, gan juridiskas personas).
+uzņēmuma:doc:`Partneri<312>`(gan fiziskas, gan juridiskas personas).
 
 
 

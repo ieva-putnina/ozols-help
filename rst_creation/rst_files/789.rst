@@ -1,8 +1,8 @@
-.. 789 ====================Iesniegumu veidi==================== 
+.. 789 Iesniegumu veidi******************** 
 
 
 Sarakstā tiek saglabāti Iesniegumu veidi, kas tiek izmantoti
-`Iesnieguma dokumenta`_aizpildīšanai.
+:doc:`Iesnieguma dokumenta<791>`aizpildīšanai.
 
 Lai pievienotu jaunu iesnieguma veidu, rīku joslā jānospiež poga
 (Alt+P) un jāaizpilda nepieciešamā informācija:
@@ -13,10 +13,10 @@ Lai pievienotu jaunu iesnieguma veidu, rīku joslā jānospiež poga
 
 
 
-Algu rīkoj.veids: No saraksta nepieciešams izvēlēties atbilstošo `Algu
-rīkojumu veidu`_, lai norādītu, kāda veida Iesniegums tiks sagatavots
-(Piemēram, Iesnieguma veids"Ikgadējais atvaļinājums" - Rīkojuma par
-ikgadējo atvaļinājumu sagatavošanai):
+Algu rīkoj.veids: No saraksta nepieciešams izvēlēties atbilstošo
+:doc:`Algu rīkojumu veidu<277>`, lai norādītu, kāda veida Iesniegums
+tiks sagatavots (Piemēram, Iesnieguma veids"Ikgadējais atvaļinājums" -
+Rīkojuma par ikgadējo atvaļinājumu sagatavošanai):
 
 
 
@@ -41,7 +41,7 @@ definēts laika periods - no...līdz;
 
 Atzīmējot kādu no iepriekš minētajām izvēles rūtiņām, tiks piedāvāts
 definēt Iesnieguma rezultātā izveidotā Notikuma krāsas attēlojumu
-`Notikumu kalendārā`_:
+:doc:`Notikumu kalendārā<893>`:
 
 
 
@@ -50,11 +50,12 @@ definēt Iesnieguma rezultātā izveidotā Notikuma krāsas attēlojumu
 
 
 Standarta - atzīmējot šo izvēli, iesnieguma rezultātā izveidotais
-notikums `Notikumu kalendārā`_ tiks attēlots standarta norādītajā
-krāsā
+notikums :doc:`Notikumu kalendārā<893>` tiks attēlots standarta
+norādītajā krāsā
 
 Krāsa - atzīmējot šo izvēli, iesnieguma rezultātā izveidotais notikums
-`Notikumu kalendārā`_ tiks attēlots lietotāja norādītajā krāsā.
+:doc:`Notikumu kalendārā<893>` tiks attēlots lietotāja norādītajā
+krāsā.
 
 
 

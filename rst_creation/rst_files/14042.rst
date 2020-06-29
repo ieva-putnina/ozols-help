@@ -1,4 +1,4 @@
-.. 14042 ====================================Saraksta dzēšana ar aizvietošanu==================================== 
+.. 14042 Saraksta dzēšana ar aizvietošanu************************************ 
 
 
 Ja saraksta ieraksts tiek izmantots dokumentos, to dzēst nevar. Ja

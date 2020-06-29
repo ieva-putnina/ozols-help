@@ -1,4 +1,4 @@
-.. 4206 =========================Izmaksu/Regresa lieta========================= 
+.. 4206 Izmaksu/Regresa lieta************************* 
 
 
 
@@ -9,9 +9,9 @@ dokumentā tiek pievienota jauna dinamika "Atlīdzības lietas numurs",
 kur virslīmenis ir CSNg identifikators un dimensija Atlīdzības lietas
 numurs. Ja virslīmenis CSNg sistēmā jau eksistē, nepieciešams
 pievienot jaunu Atlīdzību lietas numuru. LTAB modulis dokumenta
-ievades formā nodrošinajauna ` Partnera `_(atlīdzības saņēmēja)
-pievienošanu - partnera dati tiek pārbaudīti pēc personas koda
-(Uzņēmuma reģistrācijas numura), ja Parteris jau eksistē, sistēmā
+ievades formā nodrošinajauna :doc:` Partnera <112>`(atlīdzības
+saņēmēja) pievienošanu - partnera dati tiek pārbaudīti pēc personas
+koda (Uzņēmuma reģistrācijas numura), ja Parteris jau eksistē, sistēmā
 jauns parteris nav jāpievieno.
 
  

@@ -1,5 +1,6 @@
-.. 4427 ============Partneri============ 
-Partneru sarakstā tiek saglabāti visi `pievienotie partnera`_ dati.
+.. 4427 Partneri************ 
+Partneru sarakstā tiek saglabāti visi :doc:`pievienotie
+partnera<4429>` dati.
 
 
 
@@ -9,6 +10,6 @@ Partneru sarakstā tiek saglabāti visi `pievienotie partnera`_ dati.
 
 Partneru datus ir iespējams atlasīt pēc koda, reģistrācijas numura,
 nosaukuma vai personas koda, nospiežot pogu . Lai partneru sarakstam
-`pievienotu jaunu partneri`_, jānospiež poga .
+:doc:`pievienotu jaunu partneri<4429>`, jānospiež poga .
 
  

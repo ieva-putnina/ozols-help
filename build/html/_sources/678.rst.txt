@@ -1,7 +1,7 @@
-.. 678 =====================Iepirkumu žurnāls===================== 
+.. 678 Iepirkumu žurnāls********************* 
 
 
-Dokumentu žurnālā tiek saglabāti pievienotie `Iepirkumi`_.
+Dokumentu žurnālā tiek saglabāti pievienotie :doc:`Iepirkumi<679>`.
 
 
 

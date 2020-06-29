@@ -1,4 +1,4 @@
-.. 703 ========================Uzņēmuma informācija======================== 
+.. 703 Uzņēmuma informācija************************ 
 Uzņēmuma informācija ir uzņēmuma rekvizīti, kas tiek izmantoti
 atskaišu un dokumentu sagatavošanā un izdrukās. Uzņēmuma informācija
 satur datus par atbildīgajām personām.
@@ -6,8 +6,8 @@ satur datus par atbildīgajām personām.
 Lai uzņēmuma rekvizīti korekti uzrādītos uzņēmuma Norēķinu, Finanšu
 dokumentos un atskaitēs, nepieciešams aizpildīt sekojošu informāciju:
 
-1. Laukā "uzņēmums" no izvēlnes jāizvēlas Partneris no `Partneru
-saraksta.`_
+1. Laukā "uzņēmums" no izvēlnes jāizvēlas Partneris no :doc:`Partneru
+saraksta.<112>`
 2. Tālāk nepieciešams aizpildīt visus pārējos datus:
 
 

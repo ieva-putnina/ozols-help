@@ -1,8 +1,8 @@
-.. 590 =======================Rezultāti vertikāli======================= Atskaite parāda algu aprēķina rezultātus, atbilstoši izvēlētajām
+.. 590 Rezultāti vertikāli*********************** Atskaite parāda algu aprēķina rezultātus, atbilstoši izvēlētajām
 sakonfigurētajām atskaišu kolonnām.
 Sagatavojot atskaiti rezultāti vertikāli, atskaites filtrā jāizvēlas
-atskaišu Rezultāti - `sakonfigurētās atskaišu kolonnas`_, kas nosaka,
-kādi dati atskaitē tiks parādīti. Atskaite tiek sagatavota no
+atskaišu Rezultāti - :doc:`sakonfigurētās atskaišu kolonnas<214>`, kas
+nosaka, kādi dati atskaitē tiks parādīti. Atskaite tiek sagatavota no
 izvēlnes:
 
 

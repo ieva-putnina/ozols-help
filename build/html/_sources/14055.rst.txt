@@ -1,15 +1,15 @@
-.. 14055 ========================Grāmatojuma labošana======================== 
-``_
+.. 14055 Grāmatojuma labošana************************ 
+:doc:`<521>`
 
 Grāmatojumus var labot no grāmatojumu žurnāla, atverot no
 pirmdokumenta vai sameklējot grāmatojumu kādā atskaitē, piemēram,
-`Operāciju pārskats`_.
+:doc:`Operāciju pārskats<521>`.
 
 
 Grāmatojumus var labot:
 +++++++++++++++++++++++
 
-1. Atverot grāmatojumu no `Grāmatojumu žurnāla`_ >Dokumenti >
+1. Atverot grāmatojumu no :doc:`Grāmatojumu žurnāla<131>` >Dokumenti >
 Virsgrāmata > Grāmatojumu žurnāls
 
 Ja grāmatojums ir apstiprināts, jāatceļ apstiprinājums (Ctrl+R vai ).
@@ -24,7 +24,7 @@ grāmatojums (Ctrl+G vai ). Grāmatojumam jānoņem apstiprinājums (Ctrl+R
 vai ). Pēc grāmatojuma labošanas, tas jāapstiprina (Ctrl+R vai ).
 
 
-3. Atverot grāmatojumu no `Operāciju pārskata`_
+3. Atverot grāmatojumu no :doc:`Operāciju pārskata<521>`
 Operāciju pārskata ieraksts ir viens grāmatojums un to var atvērt ar
 peles dubultklikšķa palīdzību. Ja grāmatojums ir apstiprināts, jānoņem
 apstiprinājums (Ctrl+R vai ), jālabo grāmatojums. Labotais grāmatojums

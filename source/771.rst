@@ -1,4 +1,4 @@
-.. 771 ============Atlikumi============ 
+.. 771 Atlikumi************ 
 Nomenklatūras atlikumu atskaiti ir iespējams sagatavot uz noteiktu
 datumu pēc izvēlētajiem kritērijiem.
 

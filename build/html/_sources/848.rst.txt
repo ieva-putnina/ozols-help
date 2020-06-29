@@ -2,17 +2,17 @@
 Izmantojot sistēmā pieejamo darba režīmu Jauns ->Iespējams sagatavot
 jaunus Norēķinu dokumentus:
 
-`Apmaksas atgādinājums`_
+:doc:`Apmaksas atgādinājums<343>`
 
-``_`Iepirkuma dokuments`_
+:doc:`<831>`:doc:`Iepirkuma dokuments<310>`
 
-`Norēķina dzēšanas akts`_
+:doc:`Norēķina dzēšanas akts<358>`
 
-`Pārdošanas dokuments`_
+:doc:`Pārdošanas dokuments<304>`
 
-`Savstarpējo norēķinu dzēšanas akts`_
+:doc:`Savstarpējo norēķinu dzēšanas akts<357>`
 
-`Savstarpējo norēķinu salīdzināšanas akts`_
+:doc:`Savstarpējo norēķinu salīdzināšanas akts<342>`
 
 
 

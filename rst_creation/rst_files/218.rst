@@ -1,8 +1,9 @@
-.. 218 =============Kalendāri============= 
+.. 218 Kalendāri************* 
 Standarta kalendārs nosaka vērtības, kas ir kopīgas visiem uzņēmumā
 strādājošajiem.
 
-Kalendāru saraksts tiek izmantots veidojot. Strādājošo `Slodzes`_:
+Kalendāru saraksts tiek izmantots veidojot. Strādājošo
+:doc:`Slodzes<207>`:
 
 
 

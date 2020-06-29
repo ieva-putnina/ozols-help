@@ -1,4 +1,4 @@
-.. 14093 ==============================Norakstīšanas akta izdruka============================== 
+.. 14093 Norakstīšanas akta izdruka****************************** 
 
 
 Lai izdrukātu sagatavoto Nomenklatūras norakstīšanas dokumentu,

@@ -1,4 +1,4 @@
-.. 593 ==================================Atvaļinājuma rezerves aprēķins================================== 
+.. 593 Atvaļinājuma rezerves aprēķins********************************** 
 
 
 Atskaite parāda uzkrājumu neizmantotajam atvaļinājumam katram
@@ -6,8 +6,8 @@ strādājošajam dienu un summu veidā.
 
 1. Lai atskaite tiktu sagatavota pareizi, programmā jāveic precīza
 atvaļinājumu datu uzskaite. Uzsākot darbu ar programmu strādājošā
-`Slodzei`_norāda neizmantoto atvaļinājumu dienu skaitu uz konkrētu
-datumu:
+:doc:`Slodzei<207>`norāda neizmantoto atvaļinājumu dienu skaitu uz
+konkrētu datumu:
 
 
 
@@ -16,9 +16,9 @@ datumu:
 
 
 2. Programmā jābūt uzkrātiem datiem par nepieciešamajiem iepriekšējiem
-periodiem vidējās izpeļņas aprēķināšanai, `Slodzes aprakstā`_jābūt
-noteiktam `Atvaļinājumu kalendāram`_un tajā – atvaļinājumu dienu
-skaitam:
+periodiem vidējās izpeļņas aprēķināšanai, :doc:`Slodzes
+aprakstā<207>`jābūt noteiktam :doc:`Atvaļinājumu kalendāram<284>`un
+tajā – atvaļinājumu dienu skaitam:
 
 
 
@@ -57,8 +57,8 @@ atbilstošajā periodā;
 
 Per.izt.atv.d. - Filtrā atlasītā periodā iztērētās atvaļinājuma dienas
 - informācija tiek ņemta no Algu aprēķinā ielādētās informācijas no
-strādājošā slodzes kalendāra - Pievienotā `Rīkojuma`_ par "Ikgadējo
-atvaļinājumu";
+strādājošā slodzes kalendāra - Pievienotā :doc:`Rīkojuma<209>` par
+"Ikgadējo atvaļinājumu";
 
 Per.izt.apgr. - Perioda iztērēto atvaļinājuma dienu skaita un izpeļņas
 summas apgrozījums - izmaksātā atvaļinājuma nauda atlasītajā periodā;

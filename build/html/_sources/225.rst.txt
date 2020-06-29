@@ -1,4 +1,4 @@
-.. 225 ==================Kases izdevumi================== 
+.. 225 Kases izdevumi****************** 
 
 
 Kases izdevumu dokumentu žurnālā tiek saglabāti šādikases izdevumu
@@ -6,11 +6,11 @@ dokumenti:
 
 
 
-`Kases avansa maksājums`_
+:doc:`Kases avansa maksājums<471>`
 
-`Kases izdevumu orderis`_
+:doc:`Kases izdevumu orderis<332>`
 
-`Naudas iemaksa bankā`_
+:doc:`Naudas iemaksa bankā<472>`
 
 
 

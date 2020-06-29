@@ -1,6 +1,6 @@
-.. 7308 ============Notikums============ 
-Jauns notikums tiek pievienots un saglabājas/attēlots `Kalendārajā
-plānā`_.
+.. 7308 Notikums************ 
+Jauns notikums tiek pievienots un saglabājas/attēlots
+:doc:`Kalendārajā plānā<7323>`.
 
 Lai pievienotu jaunu notikumu, atveras loga Apraksta sadaļa:
 
@@ -9,17 +9,18 @@ Lai pievienotu jaunu notikumu, atveras loga Apraksta sadaļa:
 
 
 Pasākums: nospiežot nodefinēto pasākumu saraksta pogu, atveras
-nodefinētais nosaukumu `saraksts`_, no kura jāizvēlas attiecīgais
-notikuma nosaukums;
+nodefinētais nosaukumu :doc:`saraksts<7312>`, no kura jāizvēlas
+attiecīgais notikuma nosaukums;
 
 Darbība: notikuma darbība. Nospiežot bultiņu, iespējams no saraksta
-izvēlēties sarakstā nodefinētu `darbību`_. Ja nepieciešams pievienot
-jaunu darbību, jānospiež poga , un jāpievieno sarakstam `jauna
-darbība`_;
+izvēlēties sarakstā nodefinētu :doc:`darbību<7316>`. Ja nepieciešams
+pievienot jaunu darbību, jānospiež poga , un jāpievieno sarakstam
+:doc:`jauna darbība<7307>`;
 
 Telpa: notikuma telpa. Nospiežot bultiņu, no saraksta jāizvēlas
-attiecīgi nodefinētā `telpa`_. Ja nepieciešams pievienot jaunu telpu,
-jānospiež poga un jāpievieno sarakstam `jaunu telpu`_;
+attiecīgi nodefinētā :doc:`telpa<7315>`. Ja nepieciešams pievienot
+jaunu telpu, jānospiež poga un jāpievieno sarakstam :doc:`jaunu
+telpu<7306>`;
 
 Laiks: notikuma datums un laiks no līdz. Lai izvēlētos datumu,
 jānospiež un kalendāra podziņa un jānorāda datums. Laiks jāpievieno

@@ -1,30 +1,31 @@
-.. 44 ============Norēķini============ 
-Norēķini paredzēti `Iepirkumu dokumentu`_ uzskaitei un
-sistematizēšanai, `Pārdošanas dokumentu`_ sagatavošanai un drukāšanai,
-norēķinu kontrolei ar pircējiem un piegādātājiem. Norēķini paredzēti
-debitoru, kreditoru grāmatveža darba vietas automatizācijai.
+.. 44 Norēķini============ 
+Norēķini paredzēti :doc:`Iepirkumu dokumentu<210>` uzskaitei un
+sistematizēšanai, :doc:`Pārdošanas dokumentu<204>` sagatavošanai un
+drukāšanai, norēķinu kontrolei ar pircējiem un piegādātājiem. Norēķini
+paredzēti debitoru, kreditoru grāmatveža darba vietas automatizācijai.
 
 
 Norēķinu programma nodrošina:
 +++++++++++++++++++++++++++++
 
 
-+ `Iepirkumu dokumentu`_ievadīšanu, `Pārdošanas
-  dokumentu`_sagatavošanu un sistematizēšanu Programmā var sagatavot un
-  izdrukāt pārdošanas dokumentus, kā arī uzskaitīt saņemtos norēķinu
++ :doc:`Iepirkumu dokumentu<210>`ievadīšanu, :doc:`Pārdošanas
+  dokumentu<204>`sagatavošanu un sistematizēšanu Programmā var sagatavot
+  un izdrukāt pārdošanas dokumentus, kā arī uzskaitīt saņemtos norēķinu
   dokumentus no uzņēmuma piegādātājiem. Norēķinu un pārdošanas dokumenti
-  tiek apkopoti un ir pieejami `dokumentu`_žurnālos. Žurnālos dokumentus
-  var atlasīt pēc to izrakstīšanas vai apmaksas termiņa datuma, kā arī
-  pēc dažādiem citiem datu atlases kritērijiem.
+  tiek apkopoti un ir pieejami :doc:`dokumentu<22>`žurnālos. Žurnālos
+  dokumentus var atlasīt pēc to izrakstīšanas vai apmaksas termiņa
+  datuma, kā arī pēc dažādiem citiem datu atlases kritērijiem.
 + Pārdošanas un iepirkuma dokumentu sagatavošanu valūtā Pārdošanas
   dokumentus var izrakstīt un iepirkuma dokumentus pievienot jebkurā
-  valūtā. Dokumentu valūtas grāmatojumā ir iebūvēta saistība ar `Valūtu
-  kursu`_sarakstu.
-+ `Norēķinu dzēšanas aktu`_ un `Korespondences`_ dokumentu
-  sagatavošanu Programmā var automatizēti izveidot `Apmaksas
-  atgādinājumu`_, `Savstarpējo norēķinu salīdzināšanas aktus`_,
-  `Savstarpējo norēķinu dzēšanas aktus`_, uzskaitīt noslēgtos
-  `Līgumus`_un `Iepirkumus`_.
+  valūtā. Dokumentu valūtas grāmatojumā ir iebūvēta saistība ar
+  :doc:`Valūtu kursu<230>`sarakstu.
++ :doc:`Norēķinu dzēšanas aktu<229>` un :doc:`Korespondences<84>`
+  dokumentu sagatavošanu Programmā var automatizēti izveidot
+  :doc:`Apmaksas atgādinājumu<343>`, :doc:`Savstarpējo norēķinu
+  salīdzināšanas aktus<342>`, :doc:`Savstarpējo norēķinu dzēšanas
+  aktus<228>`, uzskaitīt noslēgtos :doc:`Līgumus<394>`un
+  :doc:`Iepirkumus<679>`.
 + Dokumentu saistīšanu Norēķinu dokumentus var sasaistīt ar
   izejošajiem maksājumiem, bet pārdošanas dokumentus ar ieejošajiem
   maksājumiem. Tādejādi, katram dokumentam iespējams fiksēt tā apmaksas
@@ -43,12 +44,12 @@ Norēķinu programma nodrošina:
   sarakstā uzņēmums var brīvi definēt dokumentos piemērojamos nodokļus
   un nodokļu likmes. Vienā pārdošanas un norēķinu dokumentā ir iespēja
   norādīt dažādas nodokļa likmes.
-+ `Stingrās uzskaites dokumentu`_izlietojuma uzskaiti Iegādājoties
-  stingrās uzskaites preču pavadzīmju numurus, to dati jāievada
-  uzskaites dokumentu žurnālā. Katrs izrakstītais pārdošanas dokuments –
-  pavadzīme sistēmā tiek saistīts ar izmantotās pavadzīmes numuru.
-  Pavadzīmju uzskaites žurnāla dati tiek izmantoti atskaites Stingrās
-  uzskaites dokumentu izlietojums sastādīšanai.
++ :doc:`Stingrās uzskaites dokumentu<180>`izlietojuma uzskaiti
+  Iegādājoties stingrās uzskaites preču pavadzīmju numurus, to dati
+  jāievada uzskaites dokumentu žurnālā. Katrs izrakstītais pārdošanas
+  dokuments – pavadzīme sistēmā tiek saistīts ar izmantotās pavadzīmes
+  numuru. Pavadzīmju uzskaites žurnāla dati tiek izmantoti atskaites
+  Stingrās uzskaites dokumentu izlietojums sastādīšanai.
 + Norēķinu kontroli ar pircējiem un piegādātājiem Saistot dokumentus
   ar veiktajām vai saņemtajām apmaksām, dokumentu žurnālos pārskatāmi
   redzama dokumentu apmaksas situācija. Norēķinu kontroli nodrošina

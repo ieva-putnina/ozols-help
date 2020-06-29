@@ -1,8 +1,8 @@
 .. 779 ===============Automašīnas=============== 
 
 
-Automašīnu saraksts tiek lietots, veidojot `Pārdošanas dokumentu`_ un
-aizpildot datus par Pārvadātāju:
+Automašīnu saraksts tiek lietots, veidojot :doc:`Pārdošanas
+dokumentu<304>` un aizpildot datus par Pārvadātāju:
 
 
 
@@ -10,8 +10,9 @@ aizpildot datus par Pārvadātāju:
 
 
 
-Lai izveidotu Pārvadātāju un Šoferu sarakstu, ir jāizveido `Partneru
-grupas`_. Partneru grupas tiek veidotas CRM Partneru Sarakstos:
+Lai izveidotu Pārvadātāju un Šoferu sarakstu, ir jāizveido
+:doc:`Partneru grupas<113>`. Partneru grupas tiek veidotas CRM
+Partneru Sarakstos:
 
 
 

@@ -1,4 +1,4 @@
-.. 14050 ================================Jauna dokumenta pievienošana================================ 
+.. 14050 Jauna dokumenta pievienošana******************************** 
 
 
 Jaunu dokumentu pievienošana notiek dokumentu žurnālā. Dažādu

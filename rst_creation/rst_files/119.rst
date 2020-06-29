@@ -2,10 +2,10 @@
 Valūtu saraksts daļēji tiek importēts Ozols programmas ieviešanas
 procesā.
 
-Valūtu saraksts tiek izmantots `jauna Avansu dokumenta`_, `jauna
-Finanšu`_, `jauna Norēķinu`_, `Cenu veidu`_, `Partneru`_,
-`Pamatlīdzekļu ienākšanas dokumentu`_ un `Virsgrāmatas`_ dokumentu
-izveidē.
+Valūtu saraksts tiek izmantots :doc:`jauna Avansu dokumenta<747>`,
+:doc:`jauna Finanšu<846>`, :doc:`jauna Norēķinu<848>`, :doc:`Cenu
+veidu<105>`, :doc:`Partneru<312>`, :doc:`Pamatlīdzekļu ienākšanas
+dokumentu<433>` un :doc:`Virsgrāmatas<146>` dokumentu izveidē.
 
 Lai apskatītu detalizētu Valūtas aprakstu, Rīku joslā jānospiež poga .
 

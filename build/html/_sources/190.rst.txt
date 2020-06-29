@@ -1,4 +1,4 @@
-.. 190 =================================Lietotāju tiesības uzņēmumiem================================= 
+.. 190 Lietotāju tiesības uzņēmumiem********************************* 
 
 
 Ja datu bāzē tiek uzskaitīti dati pa vairākiem uzņēmumiem, jānosaka

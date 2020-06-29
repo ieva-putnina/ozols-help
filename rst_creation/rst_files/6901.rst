@@ -1,11 +1,12 @@
-.. 6901 ========================Degvielas pasūtījumi======================== 
+.. 6901 Degvielas pasūtījumi======================== 
 Tehniskās prasības Veiksmīgam darbam ar Degvielas pasūtījumu moduli
 nodrošina interneta pārlūkprogrammas Internet Explorer 5.5 vai 6.0
 SP1, Netscape Navigator 7.0 vai Mozilla Firefox 1.5. Lūdzu,
 pārliecinieties vai Jūs izmantojat minētās pārlūkprogrammas.
 Pārlūkprogrammu jaunākās versijas Jūs varat lejupielādēt to
 izstrādātāju interneta mājaslapās
-`www.microsoft.com`_,`www.netscape.com`_, `www.getfirefox.com`_.
+:doc:`www.microsoft.com`,:doc:`www.netscape.com`,
+:doc:`www.getfirefox.com`.
 Pārlūkprogrammai, kura tiek izmantota darbam ar Degvielas
 pasūtījumiem, jāatļauj sīkdatņu (cookies) izmantošana un ērtākai
 lietošanai ieteicams atļaut arī uznirstošo (pop-up) logu izmantošanu.
@@ -70,7 +71,7 @@ Lodziņā "Address of web site" jāieraksta adrese mnth.lv un jānospiež
 poga . Tad jāaizver logi, nospiežot pogu OK.
 
 
-+ Interneta adreses logā jāieraksta adrese ` www.sales.mnth.lv `_
++ Interneta adreses logā jāieraksta adrese :doc:` www.sales.mnth.lv `
 + jāieraksta lietotājvārds un parole, un jānospiež poga Apstiprināt,
   lai uzsāktu darbu ar Degvielas pasūtījumiem:
 

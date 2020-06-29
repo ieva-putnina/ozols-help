@@ -1,13 +1,14 @@
-.. 7322 ==============================Personāliju darba pārskats============================== 
-Personāliju darba pārskata atskaitē redzamas pasākumu `dalībnieku
-`_mēģinājumu un izrāžu skaits attiecīgā periodā, par
-`struktūrvienībām`_ un pa attiecīgiem `pasākumiem`_:
+.. 7322 Personāliju darba pārskats****************************** 
+Personāliju darba pārskata atskaitē redzamas pasākumu :doc:`dalībnieku
+<7314>`mēģinājumu un izrāžu skaits attiecīgā periodā, par
+:doc:`struktūrvienībām<7313>` un pa attiecīgiem
+:doc:`pasākumiem<7312>`:
 
 
 
 
 
-Aktivizējot konkrētu personas ierakstu, tiek atvērts `personas
-aprakst`_ un personai `piesaistītie notikumi`_.
+Aktivizējot konkrētu personas ierakstu, tiek atvērts :doc:`personas
+aprakst<7305>` un personai :doc:`piesaistītie notikumi<7308>`.
 
  

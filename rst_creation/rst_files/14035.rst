@@ -1,4 +1,4 @@
-.. 14035 ========================Drukāšana no šablona======================== 
+.. 14035 Drukāšana no šablona************************ 
 Ir iespēja veidot izdrukas formas no jau esošiem, sagatavotiem
 dokumentiem. Iepriekš sagatavotais dokuments ir jāsaglabā HTML
 formātā. Piemēram, Microsoft Word dokuments ar paplašinājumu.DOC ir

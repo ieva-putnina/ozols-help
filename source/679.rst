@@ -1,5 +1,5 @@
-.. 679 =============Iepirkums============= 
-``_
+.. 679 Iepirkums************* 
+:doc:`<678>`
 
 Izvēloties dokumenta veidu Iepirkums, tiks atvērts jauns logs:
 
@@ -80,6 +80,6 @@ vai .
 
 
 Saglabātie ieraksti - pievienotie Ieprikumi, būs pieejams
-apskatei/labošanai `Iepirkumu žurnālā`_.
+apskatei/labošanai :doc:`Iepirkumu žurnālā<678>`.
 
  

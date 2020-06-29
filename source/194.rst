@@ -1,4 +1,4 @@
-.. 194 ======================Lietotāju saraksts====================== 
+.. 194 Lietotāju saraksts********************** 
 Lai pievienotu jaunu Lietotāju, rīku joslā jānospiež poga , tiks
 atvērts Lietotāja iestādījumu logs:
 
@@ -30,11 +30,11 @@ papildus administrēšanas tiesības.
 
 
 Lietotājiem, kuriem būs tiesības administrēt lietotāju datus - noteikt
-lietotājiem pieejamos `darba režīmus`_, noteikt lietotājiem pieejamos
-`uzņēmumus`_, papildus jāaktivizē Ozola datu bāzes loma
-oz_securityadmin .
-Lietotājiem, kuriem būs tiesības veikt izmaiņas `Lietotāju
-sarakstā`_,papildus jābūt ieliktām tiesībām oz_securityadmin un
+lietotājiem pieejamos :doc:`darba režīmus<169>`, noteikt lietotājiem
+pieejamos :doc:`uzņēmumus<190>`, papildus jāaktivizē Ozola datu bāzes
+loma oz_securityadmin .
+Lietotājiem, kuriem būs tiesības veikt izmaiņas :doc:`Lietotāju
+sarakstā<194>`,papildus jābūt ieliktām tiesībām oz_securityadmin un
 db_securityadmin . Šādiem lietotājiem jābūt noteiktai servera lomai
 sysadmin .
 

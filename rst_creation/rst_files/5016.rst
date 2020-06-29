@@ -1,6 +1,6 @@
-.. 5016 ========================Kampaņu organizators======================== 
-Galvenie filtra parametri partneru piesaistei `kampaņām`_ ir un .
-Izvēloties kampaņu un attiecīgi statusu Atvērts, tiks atlasīti
+.. 5016 Kampaņu organizators************************ 
+Galvenie filtra parametri partneru piesaistei :doc:`kampaņām<4470>` ir
+un . Izvēloties kampaņu un attiecīgi statusu Atvērts, tiks atlasīti
 (nospiežot pogu ) partneri, kurus iespējams konkrētajai kampaņai
 piesaistīt:
 

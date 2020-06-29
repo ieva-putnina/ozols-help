@@ -1,22 +1,23 @@
-.. 14112 =======================================================================Kultūras un citu ieejas biļešu piesaistīšana kases ieņēmumu orderim======================================================================= 
+.. 14112 Kultūras un citu ieejas biļešu piesaistīšana kases ieņēmumu orderim*********************************************************************** 
 
 
-Lai piesaistītu kultūras un citu pasākumu ieejas biļetes `Kases
-ieņēmumu`_ orderim un uzskaitītu toizlietojumu, Uzņēmuma rīcībā esošās
-biļetes jāpievieno`Kultūras un citu pasākumu ieejas biļešu žurnālā.`_
+Lai piesaistītu kultūras un citu pasākumu ieejas biļetes :doc:`Kases
+ieņēmumu<227>` orderim un uzskaitītu toizlietojumu, Uzņēmuma rīcībā
+esošās biļetes jāpievieno:doc:`Kultūras un citu pasākumu ieejas biļešu
+žurnālā.<252>`
 
 
 
 Lai pārdotās biļetes piesaistītu kases ieņēmumu orderim, nepieciešams
-izveidot Kases ieņēmumu dokumentu, `Kases ieņēmumu`_žurnālā izmantojot
-rīku joslas pogu: , tiks atvērts kases ieņēmumu orderis, kur
-nepieciešams aizpildīt:
+izveidot Kases ieņēmumu dokumentu, :doc:`Kases ieņēmumu<227>`žurnālā
+izmantojot rīku joslas pogu: , tiks atvērts kases ieņēmumu orderis,
+kur nepieciešams aizpildīt:
 
 
 
 1. Dokumenta Virsrakstu:
-Kase: Nepieciešams no saraksta izvēlēties pievienotouzņēmuma `Kasi`_,
-kurā nauda tiek saņemta
+Kase: Nepieciešams no saraksta izvēlēties pievienotouzņēmuma
+:doc:`Kasi<123>`, kurā nauda tiek saņemta
 
 Datums: Operācijas veikšanas datums
 
@@ -29,8 +30,8 @@ Persona: Nepieciešams norādīt maksātāju - fizisku personu, kas veic
 naudas iemaksu kasē
 
 Pers.dok.: Informācija par personas dokumentu tiks aizpildīta
-automātiski, ja `Partnera`_ kartiņā būs aizpildīti Personas dati -
-ievadīts personas dokuments - Pase vai vadītāja apliecība
+automātiski, ja :doc:`Partnera<112>` kartiņā būs aizpildīti Personas
+dati - ievadīts personas dokuments - Pase vai vadītāja apliecība
 
 
 
@@ -42,8 +43,8 @@ atbilstošās dimensiju un summu sadalījumu
 3. Pievienot nopirktās kultūras un citu pasākumu ieejas biļetes:
 biļetes iespējams piesaisīt kases ieņēmumu orderim, dokumenta apakšējā
 daļā,nospiežot uz pogas -> Tiks atvērts jauns logs, kurā iespējams
-pievienot biļetes no `Kultūras un citu pasākumu ieejas biļešu
-žurnālā`_pievienotajām:
+pievienot biļetes no :doc:`Kultūras un citu pasākumu ieejas biļešu
+žurnālā<252>`pievienotajām:
 
 
 

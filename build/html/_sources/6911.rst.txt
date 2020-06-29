@@ -1,4 +1,4 @@
-.. 6911 ============Tvertnes============ 
+.. 6911 Tvertnes************ 
 Tvertņu sarakstā redzamas visas Klientu tvertnes:
 
 
@@ -9,6 +9,6 @@ Tvertņu sarakstā iespējams atlasīt vienas noteiktas Adreses visas
 tvertnes.
 
 Lai pievienotu jaunu Tvertni sarakstam, jāiet uz Degvielas pasūtījumu
-sadaļu `Jauns`_ un jāizvēlas `Tvertne`_.
+sadaļu :doc:`Jauns<6909>` un jāizvēlas :doc:`Tvertne<6909>`.
 
  

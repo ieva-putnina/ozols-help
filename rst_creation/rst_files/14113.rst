@@ -1,10 +1,10 @@
-.. 14113 ====================================================Nodokļu dokumenta datu piemērošana algu aprēķinā==================================================== 
+.. 14113 Nodokļu dokumenta datu piemērošana algu aprēķinā**************************************************** 
 
 
-Pievienojot slodzes `Algu aprēķinu žurnālā`_, katram strādājošajam
-(`Slodzei`_) tiek izveidots algu aprēķins `Algu aprēķinu žurnālā`_,
-kur atverot aprēķinu ir redzams, kādas nodokļu likmes un atvieglojumi
-tiek piemēroti strādājošajam:
+Pievienojot slodzes :doc:`Algu aprēķinu žurnālā<212>`, katram
+strādājošajam (:doc:`Slodzei<207>`) tiek izveidots algu aprēķins
+:doc:`Algu aprēķinu žurnālā<212>`, kur atverot aprēķinu ir redzams,
+kādas nodokļu likmes un atvieglojumi tiek piemēroti strādājošajam:
 
 
 
@@ -34,14 +34,14 @@ noteiktām sociālā un ienākuma nodokļa aprēķina metodēm:
 
 
 
-Ja strādājošajam mainās `Ienākuma nodokļu metode`_, strādājošo
-ienākumu nodokļu metožu izmaiņas tiek ņemtas vērā līdzko izmaiņas
-stājās spēkā (arī aprēķina perioda vidū):
+Ja strādājošajam mainās :doc:`Ienākuma nodokļu metode<222>`,
+strādājošo ienākumu nodokļu metožu izmaiņas tiek ņemtas vērā līdzko
+izmaiņas stājās spēkā (arī aprēķina perioda vidū):
 
 
 1)Ja strādājošajam mainās ienākuma nodokļu metode, tad sistēmā ir
-jāievada jauns `Nodokļu dokuments`_, kurā būtu norādīta jaunā metode
-ar atbilstošu spēkā stāšanās datumu.
+jāievada jauns :doc:`Nodokļu dokuments<208>`, kurā būtu norādīta jaunā
+metode ar atbilstošu spēkā stāšanās datumu.
 2)Ja vienā periodā ir spēkā divi vai vairāki nodokļa dokumenti, tad
 ienākuma nodokļu atvieglojumi tiek rēķināti proporcionāli perioda
 kalendāro dienu skaitam, kurā ir spēkā attiecīgais nodokļu dokuments.
@@ -67,8 +67,8 @@ Atvieglojumus = 29.87
 
 
 Visiem strādājošajiem nodokļa dokumentu datus var atjaunot noAlgu rīku
-darba režīma - `Algu aprēķins`_, aktivizējot komandu Atvērtajā periodā
-salikt jaunāko info no slodzes aprakstiem:
+darba režīma - :doc:`Algu aprēķins<498>`, aktivizējot komandu
+Atvērtajā periodā salikt jaunāko info no slodzes aprakstiem:
 
 
 

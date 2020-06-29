@@ -1,4 +1,4 @@
-.. 277 =============================================Rīkojumu veidu ieejošo datu konfigurācija============================================= 
+.. 277 Rīkojumu veidu ieejošo datu konfigurācija********************************************* 
 
 
 Rīkojumu veidu ieejošo kodu konfigurācija nosaka, kādi dati tiks

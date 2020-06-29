@@ -1,4 +1,4 @@
-.. 136 ================================Kases paskaidrojumu saraksts================================ 
+.. 136 Kases paskaidrojumu saraksts******************************** 
 
 
 Kases paskaidrojumu sarakstā tiek saglabāti biežāk izmantotie kases

@@ -1,10 +1,10 @@
-.. 185 ==================Atlaižu grupas================== 
+.. 185 Atlaižu grupas****************** 
 Sarakstā tiek saglabātas atlaižu grupas, kas tiek izmantotas norēķinu
-dokumentos un piešķirtas konkrētiem partneriem``_. Iespējams izveidot
-neierobežotu daudzumu atlaižu grupas, kurus iespējams piesaistīt
-partneriem, norādot atbilstošo noklusēto atlaižu grupu `Partnera
-apraksta`_ sadaļā "Pārējie dati", lai tādā veidā atšķirīgām pircēju
-grupām varētu definēt atšķirīgas atlaižu grupas.
+dokumentos un piešķirtas konkrētiem partneriem:doc:`<106>`. Iespējams
+izveidot neierobežotu daudzumu atlaižu grupas, kurus iespējams
+piesaistīt partneriem, norādot atbilstošo noklusēto atlaižu grupu
+:doc:`Partnera apraksta<312>` sadaļā "Pārējie dati", lai tādā veidā
+atšķirīgām pircēju grupām varētu definēt atšķirīgas atlaižu grupas.
 
 
 Jaunas Atlaižu grupas pievienošana
@@ -42,12 +42,12 @@ preču grupām atlaide tiks piešķirta:
 **Atlaižu grupa:** lauks automātiski tiek aizpildīts no pievienotās
 atlaižu grupas nosaukuma lauka;
 
-**Grupa: **no `Grupu`_ saraksta iespējams izvēlēties preču vai
-pakalpojumu grupu, kurai atlaide tiks piemērota;
+**Grupa: **no :doc:`Grupu<148>` saraksta iespējams izvēlēties preču
+vai pakalpojumu grupu, kurai atlaide tiks piemērota;
 
 **Prece:** neizvēloties grupu, iespējams definēt atlaidi arī konkrētai
-`precei`_ - no preču saraksta iespējams izvēlēties konkrētu preci,
-kurai atlaide tiks piemērota;
+:doc:`precei<106>` - no preču saraksta iespējams izvēlēties konkrētu
+preci, kurai atlaide tiks piemērota;
 
 
 **Procenti:** nepieciešams ievadīt atlaides procentu

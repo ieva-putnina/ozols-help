@@ -2,8 +2,9 @@
 
 
 IzmantojotCRM (Partneri)dokumentus, iespējams pievienot jaunus
-uzņēmuma`Partnerus`_un `Potenciālos partnerus`_, Partneru `Adreses`_,
-kā arī `Kontaktus`_, visu ar Partneriems saistīto `Korespondenci`_,
-dažāda veida `Aktivitātes`_un `Atgādinātājus`_.
+uzņēmuma:doc:`Partnerus<312>`un :doc:`Potenciālos partnerus<884>`,
+Partneru :doc:`Adreses<392>`, kā arī :doc:`Kontaktus<389>`, visu ar
+Partneriems saistīto :doc:`Korespondenci<745>`, dažāda veida
+:doc:`Aktivitātes<743>`un :doc:`Atgādinātājus<875>`.
 
  .. toctree::   :maxdepth: 5    929.rst   392.rst   743.rst   877.rst   924.rst   875.rst   876.rst   5015.rst   389.rst   745.rst   902.rst   741.rst   901.rst   312.rst   7690.rst   933.rst   303.rst   884.rst   945.rst   943.rst   918.rst   934.rst   925.rst   8609.rst   1001.rst   786.rst

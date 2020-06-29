@@ -1,4 +1,4 @@
-.. 5034 ========================Budžeta pieprasījums======================== 
+.. 5034 Budžeta pieprasījums************************ 
 Kad budžeta pieprasījums ir saglabāts par konkrētu periodu konkrētam
 uzņēmumam un iesniegts pieprasījuma aizpildīšanai, nepieciešams
 norādīt dimensijas uz kurā tiks veidots budžata summas pieprasījuma
@@ -74,7 +74,7 @@ Rezultātā budžeta ieņēmumu un izdevumu summām ir jāsakrīt:
 
 
 
-Budžeta pieprasījuma summas ir redzamas `budžeta pieprasījuma
-žurnālā`_ konkrētajam pieprasījumam.
+Budžeta pieprasījuma summas ir redzamas :doc:`budžeta pieprasījuma
+žurnālā<5035>` konkrētajam pieprasījumam.
 
  .. toctree::   :maxdepth: 4    6663.rst

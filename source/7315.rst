@@ -1,2 +1,3 @@
-.. 7315 ==========Telpas========== Telpu saraksts veidojas no `pievienotajiem telpu`_ ierakstiem.
+.. 7315 Telpas********** Telpu saraksts veidojas no :doc:`pievienotajiem telpu<7306>`
+ierakstiem.
  

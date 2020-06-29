@@ -1,19 +1,19 @@
-.. 641 ===============================PVN mēneša deklarācija 2008=============================== 
+.. 641 PVN mēneša deklarācija 2008******************************* 
 
 
-Sagatavotās PVN deklarācijas tiek saglabātas atskaišu `Sarakstā`_.
-Deklarācijai ir iebūvēta Ministru kabineta noteikta standarta izdrukas
-forma. Atskaites dati ir sadalīti ekrāna formās Virsraksts, Darījums,
-Priekšnodoklis, Papildus, katrā no formām iekļaujot noteiktus
-atskaites datus. Atskaite ir konfigurējama, nosakot kādu kontu dati
-tiks parādīti katrā no atskaites rindiņām. No atskaites ekrāna formas
-var labot atskaites konfigurāciju un pārrēķināt atskaites datus,
-neveidojot jaunu atskaiti.
+Sagatavotās PVN deklarācijas tiek saglabātas atskaišu
+:doc:`Sarakstā<531>`. Deklarācijai ir iebūvēta Ministru kabineta
+noteikta standarta izdrukas forma. Atskaites dati ir sadalīti ekrāna
+formās Virsraksts, Darījums, Priekšnodoklis, Papildus, katrā no formām
+iekļaujot noteiktus atskaites datus. Atskaite ir konfigurējama,
+nosakot kādu kontu dati tiks parādīti katrā no atskaites rindiņām. No
+atskaites ekrāna formas var labot atskaites konfigurāciju un
+pārrēķināt atskaites datus, neveidojot jaunu atskaiti.
 
 
 
 Lai būtu iespējams sagatavot PVN mēneša deklarāciju,iepriekš jābūt
-izveidotai `Grāmatojumu atskaišu konfigurācijai`_.
+izveidotai :doc:`Grāmatojumu atskaišu konfigurācijai<179>`.
 
 
 PVN mēneša deklarācijassagatavošana
@@ -31,8 +31,8 @@ atskaite tiks sagatavota:
 
 
 
-2. Nepieciešams norādīt attiecīgo profilu - `atskaites
-konfigurāciju`_, pēc kādiem konfigurācijas datiem atskaite tiks
+2. Nepieciešams norādīt attiecīgo profilu - :doc:`atskaites
+konfigurāciju<179>`, pēc kādiem konfigurācijas datiem atskaite tiks
 sagatavota:
 
 
@@ -104,13 +104,14 @@ to var papildināt neaizverot atskaiti.
 
 
 
-8. Ja pēc atskaites sagatavošanas veiktas izmaiņas `atskaites
-konfigurācijā`_, atskaiti pēc izmanītās konfigurācijas datiem var
+8. Ja pēc atskaites sagatavošanas veiktas izmaiņas :doc:`atskaites
+konfigurācijā<179>`, atskaiti pēc izmanītās konfigurācijas datiem var
 pārrēķināt, nospiežot pogu: . Pārrēķinot atskaiti, tajā tiek parādīti
 jaunākie dati.
 
-9. Sagatavoto atskaiti iespējams saglabāt `VID atskaišu sarakstā`_,
-kur tā būs pieejama labošanai/drukāšanai, nospiežot pogu: .
+9. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
+sarakstā<531>`, kur tā būs pieejama labošanai/drukāšanai, nospiežot
+pogu: .
 
 
 

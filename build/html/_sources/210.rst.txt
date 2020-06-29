@@ -1,8 +1,8 @@
-.. 210 =======================Iepirkumu dokumenti======================= 
+.. 210 Iepirkumu dokumenti*********************** 
 
 
 Iepirkuma dokumentu žurnālā saraksta veidā tiek saglabāti izveidotie
-`Iepirkuma dokumenti`_.
+:doc:`Iepirkuma dokumenti<310>`.
 
 
 
@@ -20,23 +20,23 @@ kritērijiem,pēc filtra iestādījumu aizpildīšanas,jānospiež poga .
 
 
 
-Instrukcija - `Preču cenošana no Iepirkumu dokumenta`_
+Instrukcija - :doc:`Preču cenošana no Iepirkumu dokumenta<14104>`
 
 
 
 
-Instrukcija - `Iepirkumu dokumenta satura aizpildīšana no budžeta
-plāna`_
+Instrukcija - :doc:`Iepirkumu dokumenta satura aizpildīšana no budžeta
+plāna<14135>`
 
-`
-`_
+:doc:`
+<14135>`
 
-Instrukcija - `Ievedums–Intrastat–1A`_
-
-
+Instrukcija - :doc:`Ievedums–Intrastat–1A<990>`
 
 
-Instrukcija -` Nākamo periodu izdevumi`_
+
+
+Instrukcija -:doc:` Nākamo periodu izdevumi`
 
 
  

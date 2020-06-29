@@ -1,4 +1,4 @@
-.. 815 ========================Grāmatojumu pārskats======================== 
+.. 815 Grāmatojumu pārskats************************ 
 
 
 Grāmatojumu pārskats ir veikto debeta un kredīta operāciju -

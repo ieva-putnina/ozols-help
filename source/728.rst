@@ -1,4 +1,4 @@
-.. 728 =====================Algu tarifikācija===================== 
+.. 728 Algu tarifikācija********************* 
 
 
 Izmantojot algu tarifikāciju, strādājošajam var noteikt algu aprēķina

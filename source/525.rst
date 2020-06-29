@@ -1,4 +1,4 @@
-.. 525 =======================Memoriālais orderis======================= 
+.. 525 Memoriālais orderis*********************** 
 
 
 Memoriālais orderis ir konta korespondences pārskats. Atskaitē kontu

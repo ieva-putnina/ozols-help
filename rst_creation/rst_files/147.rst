@@ -1,10 +1,10 @@
-.. 147 =================================Bankas paskaidrojumu saraksts================================= 
+.. 147 Bankas paskaidrojumu saraksts********************************* 
 
 
 Bankas paskaidrojumi ir saraksts, kurā tiek saglabāti biežāk
-izmantotie maksājuma mērķu teksti `Bankas maksājuma uzdevumos`_.
-Paskaidrojumu saraksta dati tiek izmantoti maksājuma uzdevuma lauka
-Mērķis automatizētai aizpildīšanai.
+izmantotie maksājuma mērķu teksti :doc:`Bankas maksājuma
+uzdevumos<347>`. Paskaidrojumu saraksta dati tiek izmantoti maksājuma
+uzdevuma lauka Mērķis automatizētai aizpildīšanai.
 
 
 

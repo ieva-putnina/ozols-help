@@ -1,4 +1,4 @@
-.. 478 ====================Izmaksu saraksts==================== 
+.. 478 Izmaksu saraksts******************** 
 
 
 Izmaksu sarakstos tiek saglabātas algu vai avansu izmaksu summas, tos
@@ -52,9 +52,10 @@ Nosaukums: Brīvā formā iespējams ievadīt izmaksu saraksta nosaukumu
 (Piemēram, Algu izmaksa par janvāri)
 
 Dati par atbildīgo personu, galveno grāmatvedi un uzņēmuma vadītāju
-tiek ņemti no uzņēmuma aprakstā ievadītās informācijas. Ja `Uzņēmuma
-informācijas`_visi lauki ir aizpildīti korketi, tad arī šajā logā
-informācija aizpildīsies automātiski un nebūs jāvada manuāli.
+tiek ņemti no uzņēmuma aprakstā ievadītās informācijas. Ja
+:doc:`Uzņēmuma informācijas<703>`visi lauki ir aizpildīti korketi, tad
+arī šajā logā informācija aizpildīsies automātiski un nebūs jāvada
+manuāli.
 
 
 

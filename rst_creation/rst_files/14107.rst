@@ -1,4 +1,4 @@
-.. 14107 =======================Polišu pārtraukšana======================= 
+.. 14107 Polišu pārtraukšana*********************** 
 Polise tiek pārtraukta, norādot Polises pārtraukšanas datumu un
 Nostrādāto prēmiju:
 
@@ -60,8 +60,8 @@ sagatavot Norēķinu dzēšanas aktu, kuru jāsaglabā.
 Gadījumos, kad pēc polises pārtraukšanas tiek dzēsti atlikušie
 uzģenerētie maksājumi un ir zināms, ka netiks veikts komisijas
 aprēķins par atlikušajiem neapmaksātajiem maksājumiem, izveidojot
-`Pārdošanas norēķinu dzēšanas aktu`_, jāatzīmē, ka summa netiks
-iekļauta komisijas aprēķinā:
+:doc:`Pārdošanas norēķinu dzēšanas aktu<358>`, jāatzīmē, ka summa
+netiks iekļauta komisijas aprēķinā:
 
 
 
@@ -70,19 +70,20 @@ iekļauta komisijas aprēķinā:
 
 
 Pēc Norēķinu dzēšanas akta sagatavošanas, jāveic Komisijas aprēķins
-(polišu rīks->`polišu komisijas aprēķins`_), kā rezultātā polises
-Maksājuma plāna sadaļā un `Uzņēmuma komisijas`_ atskaitē būs redzama
-nenostrādātās prēmijas uzņēmuma komisija ar mīnus zīmi.
+(polišu rīks->:doc:`polišu komisijas aprēķins<6517>`), kā rezultātā
+polises Maksājuma plāna sadaļā un :doc:`Uzņēmuma komisijas<6524>`
+atskaitē būs redzama nenostrādātās prēmijas uzņēmuma komisija ar mīnus
+zīmi.
 
 
 
 Ja pārtrauktās polises Nenostrādātā prēmija tiek pārcelta uz citu
 konkrētam partnerim piesaistīto polisi, tad pārtrauktajai polisei
 **nav nepieciešams** **ģenerēt rēķinu** par nenostrādāto prēmiju, bet
-jāatver jaunās polises neapmaksātais maksājums/`rēķins`_ un manuāli
-maksājuma saturā jāpievieno pārtrauktās polises nenostrādātā prēmija
-(-30,59). Par nenostrādātās prēmijas summu tiek samazināta jaunās
-polises maksājuma summa:
+jāatver jaunās polises neapmaksātais maksājums/:doc:`rēķins<304>` un
+manuāli maksājuma saturā jāpievieno pārtrauktās polises nenostrādātā
+prēmija (-30,59). Par nenostrādātās prēmijas summu tiek samazināta
+jaunās polises maksājuma summa:
 
 
 
@@ -91,7 +92,7 @@ polises maksājuma summa:
 
 
 Ja nenostrādāto prēmiju nepieciešams atgriezt klientam, tiek veidots
-maksājums ar mīnus zīmi (-30.59) un saistīts ar `bankas izdevumu`_
-dokumentu.
+maksājums ar mīnus zīmi (-30.59) un saistīts ar :doc:`bankas
+izdevumu<347>` dokumentu.
 
  

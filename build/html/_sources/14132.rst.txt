@@ -1,4 +1,4 @@
-.. 14132 =================================Lietotāja reģistrācija iOzols================================= 
+.. 14132 Lietotāja reģistrācija iOzols********************************* 
 
 
 Lai pieslēgtos sistēmai nepieciešams aizpildīt sekojošus datus:
@@ -16,6 +16,6 @@ administratoram
 
 
 
-`Personāla pašapkalpošanās`_
+:doc:`Personāla pašapkalpošanās<4407>`
 
  

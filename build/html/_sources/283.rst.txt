@@ -1,13 +1,13 @@
-.. 283 ==================================Rezultējošo kodu konfigurācija================================== 
+.. 283 Rezultējošo kodu konfigurācija********************************** 
 
 Rezultējošo kodu konfigurēšana
 ++++++++++++++++++++++++++++++
 
 Rezultējošo kodu konfigurācija nosaka algu aprēķina algoritma
 pareizību. Ar sastādīto formulu palīdzību, ievadot algu aprēķinā
-`Ieejošo kodu vērtības`_, tiek izrēķināt algu rezultāts – aprēķināti
-nodokļi un noteikta summa izmaksai. Lai sakonfigurētu algu rezultātus,
-jāveido rezultējošie kodi.
+:doc:`Ieejošo kodu vērtības<282>`, tiek izrēķināt algu rezultāts –
+aprēķināti nodokļi un noteikta summa izmaksai. Lai sakonfigurētu algu
+rezultātus, jāveido rezultējošie kodi.
 
 Rezultējošais kods ir vērtība, kura tiek aprēķināta atbilstoši
 sastādītajai formulai. Formulu sastādīšanā tiek izmantoti ieejošo kodu
@@ -53,7 +53,7 @@ jānorāda kā “Aprēķināts”. Savukārt visiem ieturējumiem (nodokļiem u
 ieturējumiem) ir jānorāda “Ieturēts”.
 Ja rezultāts ir izmaksa, tad laukā Izmaksāt jānorāda, kurš izmaksu
 saraksta veids tiks izmantots. Izmaksu saraksta veidiem jābūt iepriekš
-izveidotiem (>Saraksti > Alga > `Izmaksu sarakstu veidi`_).
+izveidotiem (>Saraksti > Alga > :doc:`Izmaksu sarakstu veidi<280>`).
 
 
 Algu aprēķina formulu sastādīšanas secība
@@ -96,7 +96,7 @@ rezultējošā koda konfigurācija un jāpievieno DB.konts un CR.konts.
 
 
 
-Instrukcija: `Grāmatvedisko kontu piesaistīšana algu rezultējošiem
-kodiem`_
+Instrukcija: :doc:`Grāmatvedisko kontu piesaistīšana algu
+rezultējošiem kodiem<14109>`
 
  

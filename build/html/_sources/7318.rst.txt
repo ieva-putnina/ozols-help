@@ -1,5 +1,6 @@
-.. 7318 =====================Notikumu pārskats===================== 
-Notikumu pārskatā redzami visi pievienotie un saglabātie `notikumi`_.
+.. 7318 Notikumu pārskats********************* 
+Notikumu pārskatā redzami visi pievienotie un saglabātie
+:doc:`notikumi<7308>`.
 
 Notikumu pārskata atskaiti iespējams sagatavot pēc dažādiem izvēlētiem
 atlases kritērijiem (filtra parametriem) un nospiežot pogu :
@@ -9,8 +10,9 @@ atlases kritērijiem (filtra parametriem) un nospiežot pogu :
 
 
 Notikumu pārskatā tiek attēlota detalizēta informācija par notikumiem
-- notikumu sākuma un beigu laiks, `pasākuma nosaukums`_, `telpa,`_
-`darbība`_, `solisti`_, radošā brigāde, piezīmes un notikumu statuss:
+- notikumu sākuma un beigu laiks, :doc:`pasākuma nosaukums<7312>`,
+:doc:`telpa,<7315>` :doc:`darbība<7316>`, :doc:`solisti<7313>`, radošā
+brigāde, piezīmes un notikumu statuss:
 
 
 

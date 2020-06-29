@@ -1,4 +1,4 @@
-.. 4012 ==========Polise========== 
+.. 4012 Polise********** 
 **Polises meklēšana
 **Apdrošināšanas polises kartītes ekrāna formā ir jābūt iespējai ātri
 un ērti atrast nepieciešamo polisi. Ja tiek atrasta viena konkrēta

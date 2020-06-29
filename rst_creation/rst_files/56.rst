@@ -1,26 +1,26 @@
 .. 56 =============Atskaites============= 
-`Dimensiju apgrozījums`_
+:doc:`Dimensiju apgrozījums<648>`
 
-`Iepirkumu dokumenti`_
+:doc:`Iepirkumu dokumenti<644>`
 
-`Neapmaksātie iepirkumu dokumenti`_
+:doc:`Neapmaksātie iepirkumu dokumenti<541>`
 
-`Neapmaksātie pārdošanas dokumenti`_
+:doc:`Neapmaksātie pārdošanas dokumenti<540>`
 
-`Neapmaksāto pārdošanas dokumentu sodi`_
+:doc:`Neapmaksāto pārdošanas dokumentu sodi<5012>`
 
-`Norēķini ar piegādātājiem`_
+:doc:`Norēķini ar piegādātājiem<560>`
 
-`Norēķini ar pircējiem`_
+:doc:`Norēķini ar pircējiem<610>`
 
-`Norēķinu atlikumu salīdzināšana`_
+:doc:`Norēķinu atlikumu salīdzināšana<757>`
 
-`Parādi piegādātājiem`_
+:doc:`Parādi piegādātājiem<584>`
 
-`Pārdošanas dokumenti`_
+:doc:`Pārdošanas dokumenti<539>`
 
-`Pircēju apgrozījums`_
+:doc:`Pircēju apgrozījums<583>`
 
-`Pircēju parādi`_
+:doc:`Pircēju parādi<555>`
 
  .. toctree::   :maxdepth: 5    648.rst   644.rst   542.rst   1018.rst   1036.rst   541.rst   540.rst   5012.rst   560.rst   610.rst   757.rst   584.rst   539.rst   751.rst   583.rst   555.rst

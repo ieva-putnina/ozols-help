@@ -1,4 +1,4 @@
-.. 151 ========================================Pamatlīdzekļi un nemateriālie aktīvi======================================== 
+.. 151 Pamatlīdzekļi un nemateriālie aktīvi**************************************** 
 Pamatlīdzekļu un nemateriālo aktīvu žurnālā tiek parādīta informācija
 par visiem uzņēmuma pamatlīdzekļiem. Atverot pamatlīdzekli vai
 nemateriālo aktīvu, ir iespējams redzēt visas darbības, kuras veiktas

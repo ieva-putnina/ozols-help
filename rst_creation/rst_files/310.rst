@@ -1,4 +1,4 @@
-.. 310 =======================Iepirkuma dokuments======================= 
+.. 310 Iepirkuma dokuments*********************** 
 
 
 
@@ -17,7 +17,7 @@ Izmantojot Iepirkuma dokumentus, tiek ievadīti uzņēmumā saņemtie
 pakalpojumi/preces/krājumi un pamatlīdzekļi, tādejādi veicot norēķinu
 uzskaiti ar piegādātājiem.Iepirkumu dokumentu ievadei var izmantot
 dažādus dokumenta veidus, kurus iespējams definēt Norēķinu Sarakstos:
-`Iepirkumu dokumentu veids`_
+:doc:`Iepirkumu dokumentu veids<158>`
 
 
 Lai pievienotu jaunu iepirkuma dokumentu, atrodoties zem moduļa
@@ -48,8 +48,8 @@ veida nosaukumu:
 
 
 
-Iepirkuma dokumenta veidi ir definējami Sarakstā: `Iepirkumu dokumentu
-veidi`_.
+Iepirkuma dokumenta veidi ir definējami Sarakstā: :doc:`Iepirkumu
+dokumentu veidi<158>`.
 
 
 
@@ -82,10 +82,10 @@ pavadzīmes izrakstīšanas datums);
 
 Ja uzņēmums uzskaita ieejošās preces, krājumus, inventāru pa
 noliktavām, tad programmā jāizveido tik noliktavas cik nepieciešams
-(skatīt `Noliktavas`_)un vadot iepirkuma dokumentu šajā logā jāizvēlas
-tā noliktava, uz kuru attiecas iepērkamā prece. Noliktava jānorāda
-visos iepirkumu dokumentos, pat, ja operācija nav saistīta ar preču
-kustību noliktavās.
+(skatīt :doc:`Noliktavas<142>`)un vadot iepirkuma dokumentu šajā logā
+jāizvēlas tā noliktava, uz kuru attiecas iepērkamā prece. Noliktava
+jānorāda visos iepirkumu dokumentos, pat, ja operācija nav saistīta ar
+preču kustību noliktavās.
 
 **Valūta:** iespēja izvēlēties saņemtā iepirkuma dokumenta valūtu.Ja
 valūta ir LVL, tad blakus esošais lauks "Kurss" būs tukšs. Ievadot
@@ -108,11 +108,12 @@ attiecīgajai dokumenta valūtai atbilstošais kurss.
 Ja piegādātājs nav datu bāzē, izmantojot komandu atveras partneru
 saraksta logs un ir iespējams pievienot jaunu piegādātāju partneru
 sarakstā. Lai pievienotu jaunu partneri ir jāizmanto komanda no rīku
-joslas un atveras jauna` Partnera`_ ievades kartiņa.``_
+joslas un atveras jauna:doc:` Partnera<312>` ievades
+kartiņa.:doc:`<312>`
 
 **Apmaksas veids**: iespēja norādīt iepirkuma dokumenta apmaksas
 termiņu. Šo termiņu iespējams piesaistīt konkrētam partnerim,
-nodefinējot to `Partnera`_ aprakstā, sadaļā "Pārējie dati";
+nodefinējot to :doc:`Partnera<112>` aprakstā, sadaļā "Pārējie dati";
 
 **Termiņš: **lauks tiek aprēķināts automātiski, ja aizpildīts lauks -
 apmaksas veids.
@@ -122,8 +123,8 @@ apmaksas veids.
 ievadīt ar roku vai izvēlēties jau iepriekš sagatavotu paskaidrojuma
 tekstu.
 
-Lai pievienotu jaunu `Paskaidrojuma tekstu`_, jāizmanto komanda un
-pievienot.
+Lai pievienotu jaunu :doc:`Paskaidrojuma tekstu<370>`, jāizmanto
+komanda un pievienot.
 
 **Darījuma veids:** lauku nepieciešams aizpildīt, ievadot informāciju
 par saņemtajiem darījumiem no ārvalstīm, norādot Intrastat darījuma
@@ -177,7 +178,7 @@ vai izvēloties (iezīmējot) dokumentu Iepirkuma dokumentu žurnālā. Lai
 iegrāmatotu Iepirkuma dokumentu, nepieciešams vispirms apstiprināt
 dokumentu, izmantojot komandu no rīku joslas. Apstiprinātu dokumentu
 ir iespējams grāmatot, izmantojot komandu . Dokumentu grāmatošanu
-skatīt `Dokumentu grāmatošanas principi`_.
+skatīt :doc:`Dokumentu grāmatošanas principi<14044>`.
 
 
 

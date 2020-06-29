@@ -1,4 +1,4 @@
-.. 160 =========================================Bankas elektronisko norēķinu sistēmas========================================= 
+.. 160 Bankas elektronisko norēķinu sistēmas***************************************** 
 
 
 Šajā sarakstā iespējams pievienot nepieciešamās norēķinu sistēmas.
@@ -43,9 +43,9 @@ Papildiespēju atzīmēšana Elektronisko norēķinu sistēmai:
 
 
 Atzīmējot šo izvēles rūtiņu, būs iespējams importēt visus programmā
-sagatavotos izejošos maksājumus - `Bankas izdevumu dokumentus`_,
-kuriem `Bankas maksājuma uzdevumā`_ būs atzīmēta pazīme "Eksportēt uz
-bankas elektronisko norēķinu sistēmu".
+sagatavotos izejošos maksājumus - :doc:`Bankas izdevumu
+dokumentus<224>`, kuriem :doc:`Bankas maksājuma uzdevumā<347>` būs
+atzīmēta pazīme "Eksportēt uz bankas elektronisko norēķinu sistēmu".
 
 
 

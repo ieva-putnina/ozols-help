@@ -1,11 +1,12 @@
-.. 14129 ============================Slimības naudas aprēķins============================ 
+.. 14129 Slimības naudas aprēķins**************************** 
 
 
 Lai aprēķinātuslimības naudu strādājošajam:
 
 
-1.Nepieciešams izveidot atbilstošu `Rīkojumu dokumentu`_ par Slimības
-apmaksu (>Dokumenti > Personāla uzskaite > `Rīkojumu žurnāls`_):
+1.Nepieciešams izveidot atbilstošu :doc:`Rīkojumu dokumentu<409>` par
+Slimības apmaksu (>Dokumenti > Personāla uzskaite > :doc:`Rīkojumu
+žurnāls<209>`):
 
 
 
@@ -24,8 +25,9 @@ jāapstiprina.
 
 
 
-2. Aprēķinot algu strādājošajam (>Dokumenti > Alga > `Algu aprēķinu
-žurnāls`_), jāaizpilda ieejošie dati no slodzes kalendāra:
+2. Aprēķinot algu strādājošajam (>Dokumenti > Alga > :doc:`Algu
+aprēķinu žurnāls<212>`), jāaizpilda ieejošie dati no slodzes
+kalendāra:
 
 
 

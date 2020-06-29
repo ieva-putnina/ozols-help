@@ -1,9 +1,9 @@
-.. 875 ================Atgādinātājs================ 
+.. 875 Atgādinātājs**************** 
 Atgādinājums kalpo, lai atcerētos un piezīmētu kādas lietas, kuras ir
 nepieciešams atgādināt. Šie atgādinātāji, kuri tiek ievadīti sistēmā,
 tiek saglabāti un, nepieciešamības gadijumā, var tos atlasīt.
 Attiecīgi iespējams zināt, kādi darbi sagaida dienas gaitā, vai arī
-attiecīgajā `atlases kritērija periodā`_.
+attiecīgajā :doc:`atlases kritērija periodā<874>`.
 
 Atgādinātājus iespējams piesaistīt jebkuram dokumentam.
 
@@ -11,10 +11,10 @@ Atgādinātājus iespējams piesaistīt jebkuram dokumentam.
 
 Jaunu Atgādinātāju iespējams izveidot:
 
-1. Atrodoties `Atgādinātāju`_ dokumentu žurnālā un rīku joslā
+1. Atrodoties :doc:`Atgādinātāju<874>` dokumentu žurnālā un rīku joslā
 jānospiežot pogu ;
 
-2. No `Izvēlnes`_ Dati -> Jauna Aktivitāte:
+2. No :doc:`Izvēlnes<14012>` Dati -> Jauna Aktivitāte:
 
 
 
@@ -65,7 +65,7 @@ adresāts, virsraksts un atgādinājuma datums.
 Ja atgādinājums ir uzrakstīts un visi obligātie lauki aizpildīti, tad
 spiežot pogu , atgādinājums tiek saglabāts sistēmā.
 
-Lai atgādinātāju "Izpildītu" (`statuss Izpildīts`_), kad nav
+Lai atgādinātāju "Izpildītu" (:doc:`statuss Izpildīts<843>`), kad nav
 nepieciešams turpināt atgādināt, jāieliek ķeksītis .
 
  

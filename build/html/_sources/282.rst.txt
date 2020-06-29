@@ -1,11 +1,11 @@
-.. 282 ==============================Ieejošo kodu konfigurācija============================== 
+.. 282 Ieejošo kodu konfigurācija****************************** 
 
 
 Ieejošo kodu konfigurācijā tiek nodefinēti uzņēmumā izmantotie algu
 aprēķina ieejošie kodi, kas tiek izmantoti veidojot algu aprēķina
-algoritmu `Rezultējošo kodu konfigurācijā`_.Ieejošajos kodos tiek
-nodefinēti visi nepieciešamie algu aprēķināšanai izmantotie parametri
-- summas (alga, piemaksas, utt.), darba dienas (nostrādātās,
+algoritmu :doc:`Rezultējošo kodu konfigurācijā<283>`.Ieejošajos kodos
+tiek nodefinēti visi nepieciešamie algu aprēķināšanai izmantotie
+parametri - summas (alga, piemaksas, utt.), darba dienas (nostrādātās,
 atvaļinājuma, utt.), kalendārās dienas (kavētās kalendārās dienas,
 utt.), procenti, utt..
 
@@ -15,11 +15,11 @@ utt.), procenti, utt..
 
 
 
-Aprēķina modulis - jānodefinē algu aprēķina modulis no `Aprēķinu
-moduļu saraksta`_.
+Aprēķina modulis - jānodefinē algu aprēķina modulis no :doc:`Aprēķinu
+moduļu saraksta<213>`.
 
-Veids - jānodefinē ieejošā algu koda veids no `Ieejošo kodu veidu
-saraksta`_.
+Veids - jānodefinē ieejošā algu koda veids no :doc:`Ieejošo kodu veidu
+saraksta<279>`.
 
 Numurs - jānodefinē ieejošā koda numurs. Norādot Koda veidu šajā laukā
 tiek aizpildīts norādītajam koda veidam nākošais brīvais numurs. Koda
@@ -31,15 +31,16 @@ Nosaukums - jānodefinē nosaukums.
 
 Tips - iespēja nodefinēt tipu.
 
-Tarif.konstante - iespēja nodefinēt `Algu tarifikācijas konstanti`_.
+Tarif.konstante - iespēja nodefinēt :doc:`Algu tarifikācijas
+konstanti<281>`.
 
 Dimensijas - iespēja nodefinēt dimensijas. Ja uzņēmumā tiek izmantota
 daudzdimensiju uzskaite, tad šajos laukos ir iespēja ieejošajam kodam
 nodefinēt šim kodam atbilstošās dimensijas. Ja ieejošajam kodam var
 būt vairākas dimensijas, tad šie lauki nav jāaizpilda un dimensijas
-jāpievieno `Algu tarifikācijā`_vai `Algu aprēķinā`_. Ja ieejošajam
-kodam nav jānorāda dimensijas, tad šajos laukos ir jāaizpilda vērtība
-[KIVFA].
+jāpievieno :doc:`Algu tarifikācijā<728>`vai :doc:`Algu aprēķinā<212>`.
+Ja ieejošajam kodam nav jānorāda dimensijas, tad šajos laukos ir
+jāaizpilda vērtība [KIVFA].
 
 Piezīmes - iespēja norādīt piezīmes.
 
@@ -53,7 +54,7 @@ dienas, slimības dienas. Kā ieejošos kodus var izmantot jebkuru
 informāciju, kas nepieciešama, lai aprēķinātu algu rezultātus,
 piemēram, dažādas likmes, tarifus, koeficientus. Ieejošo kodu veidus
 nosaka izveidotie maksājumu veidi (>Pārlūks > Alga > Konfigurācija >
-`Ieejošo kodu veidi`_).
+:doc:`Ieejošo kodu veidi<279>`).
 
 
 

@@ -1,12 +1,12 @@
-.. 14080 ========================Polises parakstīšana======================== 
-``_
+.. 14080 Polises parakstīšana************************ 
+:doc:`<14083>`
 
 Polises parakstīšana tiek grāmatota, balstoties uz iepriekš sagatavoto
-Polišu parakstīšanas `Grāmatojuma šablonu`_(Darba režīms - Polises
-parakstīšana (POP)).
+Polišu parakstīšanas :doc:`Grāmatojuma šablonu<14083>`(Darba režīms -
+Polises parakstīšana (POP)).
 
 Polise tiek iegrāmatota brīdī, kad tiek aizpildīti nepieciešamie
-`Polises`_ lauki un ieraksts tiek saglabāts.
+:doc:`Polises<6521>` lauki un ieraksts tiek saglabāts.
 
 
 
@@ -20,8 +20,8 @@ Izveidotais grāmatojums pieejams Polises aprakstā, sadaļā
 
 
 Kā arī, ja papildus Polišu modulim iegādāts Ozols bāzes modulis,
-grāmatojums pieejams `Grāmatojumu žurnālā`_, atlasot datus pēc
-grāmatojuma veida "Polises parakstīšana (POP)".
+grāmatojums pieejams :doc:`Grāmatojumu žurnālā<131>`, atlasot datus
+pēc grāmatojuma veida "Polises parakstīšana (POP)".
 
 
 

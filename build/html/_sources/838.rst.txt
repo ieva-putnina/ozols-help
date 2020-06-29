@@ -1,4 +1,4 @@
-.. 838 ====================Darbu pasūtījums==================== 
+.. 838 Darbu pasūtījums******************** 
 Pēc režīma atvēršanas tiek atvērts darbu pasūtījuma ievades ekrāna
 logs, kur iespējams mainīt darbu pasūtījuma dokumenta veidu:
 
@@ -52,15 +52,15 @@ Izpildes laiks no ... līdz ...: projekta izpildes termiņš;
 Cena : projekta izmaksas.
 
 Lai saglabātu darbu pasūtījumu, jānospiež poga Saglabāt. Saglabātais
-darbu pasūtījums tiek saglabāts `darbu pasūtījumu žurnālā`_.
+darbu pasūtījums tiek saglabāts :doc:`darbu pasūtījumu žurnālā<839>`.
 
 
 
-No `projektu dokumentu žurnāla`_ ar funkcijas palīdzību, automātiskai
-un ērtākai darba pasūtījuma sagatavošanai, ja ir nepieciešams
-sagatavot pasūtījumu noteikta projekta ietvaros, ir iespējams izmantot
-projektu žurnālā esošu funkciju – Darbu pasūtījums. Pirms funkcijas
-izsaukšanas, nepieciešams iezīmēt izvēlēto projektu:
+No :doc:`projektu dokumentu žurnāla<289>` ar funkcijas palīdzību,
+automātiskai un ērtākai darba pasūtījuma sagatavošanai, ja ir
+nepieciešams sagatavot pasūtījumu noteikta projekta ietvaros, ir
+iespējams izmantot projektu žurnālā esošu funkciju – Darbu pasūtījums.
+Pirms funkcijas izsaukšanas, nepieciešams iezīmēt izvēlēto projektu:
 
 
 

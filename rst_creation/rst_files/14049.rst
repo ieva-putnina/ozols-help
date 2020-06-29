@@ -1,4 +1,4 @@
-.. 14049 ======================Dokumenta labošana====================== 
+.. 14049 Dokumenta labošana********************** 
 
 
 Lai dokumentu labotu ir:

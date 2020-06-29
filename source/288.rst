@@ -1,4 +1,4 @@
-.. 288 ================Slodžu veidi================ 
+.. 288 Slodžu veidi**************** 
 Slodžu veidu sarakstā tiek nodefinētas uzņēmumā izmantojamie slodžu
 veidi.
 

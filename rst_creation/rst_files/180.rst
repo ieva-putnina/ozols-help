@@ -1,4 +1,4 @@
-.. 180 ================================Stingrās uzskaites dokumenti================================ 
+.. 180 Stingrās uzskaites dokumenti******************************** 
 Stingrās uzskaites dokumentu žurnālā tiek uzglabāts pārdošanas
 pavadzīmju numuru reģistrs.
 
@@ -22,19 +22,20 @@ iespējams pievienot nepieciešamo skaitu ar pavadzīmju numuriem:
 
 
 Izmantojot stingrās uzskaites dokumentu žurnālā reģistrēto numuru
-`Pārdošanas dokumentā`_, stingrās uzskaites dokumenta numura apraksta
-laukā "Izpildes datums" tiek automatizēti aizpildīts datums, kas
-sakrīt ar `Pārdošanas dokumentā`_ datumu:
+:doc:`Pārdošanas dokumentā<304>`, stingrās uzskaites dokumenta numura
+apraksta laukā "Izpildes datums" tiek automatizēti aizpildīts datums,
+kas sakrīt ar :doc:`Pārdošanas dokumentā<304>` datumu:
 
 
 
 
 
 
-Anulējot izveidoto `Pārdošanas dokumentu`_, kuram piešķirts numurs no
-stingrās uzskaites dokumentu reģistra, stingrās uzskaites dokumenta
-numura apraksta laukā "Anulēšanas datums" tiek automatizēti aizpildīts
-datums, kas sakrīt ar `Pārdošanas dokumenta`_ anulēšanas datumu:
+Anulējot izveidoto :doc:`Pārdošanas dokumentu<304>`, kuram piešķirts
+numurs no stingrās uzskaites dokumentu reģistra, stingrās uzskaites
+dokumenta numura apraksta laukā "Anulēšanas datums" tiek automatizēti
+aizpildīts datums, kas sakrīt ar :doc:`Pārdošanas dokumenta<304>`
+anulēšanas datumu:
 
 
 
@@ -43,8 +44,8 @@ Anulēto pārdošanas dokumentu numuru atkārtota izmantošana
 `````````````````````````````````````````````````````````
 Lai stingrās uzskaites dokumentu reģistrācijas žurnālā esošajam
 uzskaites numuram, kuram statuss ir "Anulēts" atceltu anulāciju un to
-varētu izmantot nākamajā `Pārdošanas dokumentā`_, nepieciešams veikt
-sekojošas darbības:
+varētu izmantot nākamajā :doc:`Pārdošanas dokumentā<304>`,
+nepieciešams veikt sekojošas darbības:
 
 1) Atvērt stingrās uzskaites dokumentu
 2) Izmantojot rīku joslā esošo pogu (Vai ja rīku joslā nav pieejama,
@@ -55,6 +56,6 @@ izmantot turpmākos pārdošanas dokumentos:
 
 3) Saglabāt veiktās izmaiņas -> Pēc ieraksta saglabāšanas, numura
 aprakstā esošais anulēšanas datums tiks izdzēsts un numurs būs
-izmantojams turpmāko `Pārdošanas dokumentu`_ aizpildīšanai.
+izmantojams turpmāko :doc:`Pārdošanas dokumentu<304>` aizpildīšanai.
 
  

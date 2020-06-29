@@ -1,4 +1,4 @@
-.. 14106 =============================================Valūtas konvertācijas dokumentu veidošana============================================= 
+.. 14106 Valūtas konvertācijas dokumentu veidošana********************************************* 
 
 
 1. Lai izveidotu valūtas konvertāciju, nepieciešams sagatavot bankas
@@ -22,7 +22,7 @@ vai zaudējumi.
 
 Pirms dokumenta grāmatošanas, nepieciešams pārliecināties, vai ir
 aizpildīti visi nepieciešamie grāmatvedisko kontu iestādījumi sadaļā:
-Konfigurācija->Iestādījumi->Kopīgie->`Virsgrāmata`_(Obligāts
+Konfigurācija->Iestādījumi->Kopīgie->:doc:`Virsgrāmata<707>`(Obligāts
 nosacījums korekta konvertācijas dokumenta izveidošanaii ir aizpildīti
 grāmatvediskiekonti: Starpkonta ekvivalents, Peļņa no konvertācijas un
 Zaudējumi no konvertācijas)

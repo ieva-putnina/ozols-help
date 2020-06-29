@@ -1,4 +1,4 @@
-.. 183 ===============================Pamatlīdzekļu īpašuma veidi=============================== 
+.. 183 Pamatlīdzekļu īpašuma veidi******************************* 
 Pamatlīdzekļu īpašuma veidu sarakstā jānodefinē uzņēmumā izmantotie
 pamatlīdzekļu īpašumu veidi (piem. Savi , Nomātie , Iznomātie , utt.).
 Šis saraksts (klasifikators) strādājot ar pamatlīdzekļu moduli nav

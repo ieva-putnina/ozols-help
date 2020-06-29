@@ -1,4 +1,4 @@
-.. 238 ============================Izmaksu sarakstu žurnāls============================ 
+.. 238 Izmaksu sarakstu žurnāls**************************** 
 
 
 Izmaksu sarakstos tiek saglabātas algu vai avansu izmaksu summas, tos
@@ -57,9 +57,10 @@ Nosaukums: Brīvā formā iespējams ievadīt izmaksu saraksta nosaukumu
 (Piemēram, Algu izmaksa par janvāri)
 
 Dati par atbildīgo personu, galveno grāmatvedi un uzņēmuma vadītāju
-tiek ņemti no uzņēmuma aprakstā ievadītās informācijas. Ja `Uzņēmuma
-informācijas`_visi lauki ir aizpildīti korketi, tad arī šajā logā
-informācija aizpildīsies automātiski un nebūs jāvada manuāli.
+tiek ņemti no uzņēmuma aprakstā ievadītās informācijas. Ja
+:doc:`Uzņēmuma informācijas<703>`visi lauki ir aizpildīti korketi, tad
+arī šajā logā informācija aizpildīsies automātiski un nebūs jāvada
+manuāli.
 
 
 
@@ -76,12 +77,13 @@ jādrukā izmaksu saraksts.
 
 
 
-Instrukcija - `Izmaksu sarakstu eksports uz banku elektronisko
-norēķinu sistēmām`_
+Instrukcija - :doc:`Izmaksu sarakstu eksports uz banku elektronisko
+norēķinu sistēmām<14116>`
 
 
 
-Instrukcija - `Avansu (starpmaksājumu) izmaksu sarakstu izveidošana`_
+Instrukcija - :doc:`Avansu (starpmaksājumu) izmaksu sarakstu
+izveidošana<14115>`
 
 
  

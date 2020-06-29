@@ -1,10 +1,10 @@
-.. 499 ==========================Algu perioda atvēršana========================== 
+.. 499 Algu perioda atvēršana************************** 
 
 
 Algu perioda atvēršanas rīks paredzēts algu aprēķinu aktīvā perioda
 atvēršanai. Algu aprēķinus iespējams veikt tikai aktīvajā algu
-periodā. Algu periodiem pirms tam ir jābūt izveidotiem `Algu periodu
-sarakstā`_.
+periodā. Algu periodiem pirms tam ir jābūt izveidotiem :doc:`Algu
+periodu sarakstā<211>`.
 
 
 
@@ -12,12 +12,12 @@ sarakstā`_.
 
 
 
-Laukā Atvērt periodu jānorāda periods no`Algu periodu saraksta`_. Pēc
-pareizā perioda izvēles jāspiež poga Atvērt periodu , lai izvēlēto
-periodu atvērtu kā aktīvu.
+Laukā Atvērt periodu jānorāda periods no:doc:`Algu periodu
+saraksta<211>`. Pēc pareizā perioda izvēles jāspiež poga Atvērt
+periodu , lai izvēlēto periodu atvērtu kā aktīvu.
 
 
 
-`Algu periodi`_
+:doc:`Algu periodi<211>`
 
  

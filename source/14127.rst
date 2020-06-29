@@ -1,12 +1,13 @@
-.. 14127 ==============================================================Rīkojumu nosacījumu pievienošana strādājošā algu aprēķinam============================================================== 
+.. 14127 Rīkojumu nosacījumu pievienošana strādājošā algu aprēķinam************************************************************** 
 
 
-Kad `Rīkojumi`_ir izveidoti un apstiprināti, tos katrā aprēķina
-periodā strādājošajam ir jāpievieno algu aprēķinā kā ieejošos datus:
+Kad :doc:`Rīkojumi<409>`ir izveidoti un apstiprināti, tos katrā
+aprēķina periodā strādājošajam ir jāpievieno algu aprēķinā kā ieejošos
+datus:
 
 
 1. Visām algu aprēķinam pievienotajām slodzēm rīkojuma datus var
-pievienot, izmantojot Algu Rīkus->`Algu aprēķins`_:
+pievienot, izmantojot Algu Rīkus->:doc:`Algu aprēķins<498>`:
 
 
 

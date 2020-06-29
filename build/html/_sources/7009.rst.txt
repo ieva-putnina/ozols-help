@@ -1,7 +1,7 @@
-.. 7009 ==================Akciju žurnāls================== 
+.. 7009 Akciju žurnāls****************** 
 
 
-Dokumentu žurnālā tiek saglabātas pievienotās `Akcijas`_.
+Dokumentu žurnālā tiek saglabātas pievienotās :doc:`Akcijas<7010>`.
 
 
 

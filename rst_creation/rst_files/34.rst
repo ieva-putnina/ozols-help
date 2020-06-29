@@ -1,2 +1,2 @@
-.. 34 =========Pasts========= 
+.. 34 Pasts========= 
  .. toctree::   :maxdepth: 6    882.rst   297.rst   298.rst   299.rst   424.rst

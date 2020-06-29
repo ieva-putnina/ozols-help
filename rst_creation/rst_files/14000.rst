@@ -1,5 +1,5 @@
-.. 14000 ===================================Sistēmas lietošanas instrukcija=================================== 
-``_
+.. 14000 Sistēmas lietošanas instrukcija=================================== 
+:doc:`<14068>`
 
 Sadaļā pieejamas sistēmas Ozols lietošanas instrukcijas, kas palīdzēs
 labāk izprasts programmas funkcionalitātes iespējas un darbības
@@ -7,16 +7,16 @@ principus.
 
 
 
-`Sistēmas lietošanas principi`_
+:doc:`Sistēmas lietošanas principi<14010>`
 
-`Administratora instrukcijas`_
+:doc:`Administratora instrukcijas<14065>`
 
-`Darba uzsākšana`_
+:doc:`Darba uzsākšana<14068>`
 
-`Dokumentu veidošanas principi`_
+:doc:`Dokumentu veidošanas principi<14045>`
 
-`Grāmatojumu veidošanas principi`_
+:doc:`Grāmatojumu veidošanas principi<14044>`
 
-`Sarakstu veidošanas principi`_
+:doc:`Sarakstu veidošanas principi<14037>`
 
  .. toctree::   :maxdepth: 6    14010.rst   14065.rst   14068.rst   14045.rst   14044.rst   14102.rst   14137.rst   14037.rst

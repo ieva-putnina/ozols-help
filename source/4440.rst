@@ -1,4 +1,4 @@
-.. 4440 ================Bankas konts================ 
+.. 4440 Bankas konts**************** 
 Bankas konts tiek pievienots jau esošam partnerim:
 
 
@@ -25,6 +25,6 @@ termiņu;
 Lai saglabātu bankas konta datus, jānospiež poga , un, lai labotu,
 jānospiež poga , bet, lai pievienotu jaunu kontu, jānospiež poga . Lai
 saglabātu un aizvērtu, jānospiež poga . Visi pievienotie konti tiek
-saglabāti `Bankas kontu žurnālā`_.
+saglabāti :doc:`Bankas kontu žurnālā<4431>`.
 
  

@@ -1,8 +1,8 @@
-.. 688 ===============================Iekšējās kustības dokumenti=============================== 
+.. 688 Iekšējās kustības dokumenti******************************* 
 Iekšējās kustības dokumentu žurnālātiek saglabāti visi izveidotie
-Nomenklatūras iekšējās kustības dokumenti: `Nomenklatūras
-norakstīšana`_, `Nomenklatūras pārsūtīšana`_un `Nomenklatūras
-pārsūtīšana uz`_.
+Nomenklatūras iekšējās kustības dokumenti: :doc:`Nomenklatūras
+norakstīšana<693>`, :doc:`Nomenklatūras pārsūtīšana<687>`un
+:doc:`Nomenklatūras pārsūtīšana uz<692>`.
 
 Lai atlasītu dokumentus Iekšējās kustības dokumentu žurnālā, jāizmanto
 datu atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši

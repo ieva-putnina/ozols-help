@@ -1,4 +1,4 @@
-.. 14110 =============================================================================Datu bāzes atjaunošana no BackUp faila, izmantojot SQL Enterprise Manager============================================================================= 
+.. 14110 Datu bāzes atjaunošana no BackUp faila, izmantojot SQL Enterprise Manager***************************************************************************** 
 
 
 Lai atjaunotu Ozols datu bāzi, nepieciešama SQL Server Enterprise
@@ -70,7 +70,8 @@ taustiņš: "New Login"
 
 
 Jāievada lietotāja vārds, jānorāda SQL vai Windows autentifikācija un
-jāatzīmē atbilstošās `Datu bāzes lietotāju tiesības darba režīmiem`_.
+jāatzīmē atbilstošās :doc:`Datu bāzes lietotāju tiesības darba
+režīmiem<14086>`.
 
 
 

@@ -1,17 +1,18 @@
-.. 474 =========================Kasē atgriezts avanss========================= 
+.. 474 Kasē atgriezts avanss************************* 
 
 
 Kases ieņēmumu ordera veids Atgriezts avanss jāveido, kad uzņēmuma
-kasē `Avansu norēķinu persona`_ atgriež saņemto avansu. Dokumenta
-veids Atgriezts avanss ir uzskatāms par kases ieņēmumu orderi, tam ir
-iebūvēta kases ieņēmumu ordera izdruka, un tas iekļaujas kases
-ieņēmumu dokumentu kopējā numerācijā. Kases ieņēmumu ordera veids
-nodrošina automatizētu norēķinu uzskaiti ar uzņēmuma `Avansu norēķinu
-personām`_. Kasē atgriezto avansu dokuments tiek vienlaicīgi parādīts
-`Kases ieņēmumu`_un `Avansu norēķinu`_dokumentu žurnālos. Darījuma
-atšifrēšanai pa finanšu (EK) kodiem, jāaizpilda dokumenta saturs. Lai
-dokumenta izdrukā parādītos grāmatojumu konti, dokuments pirms
-izdrukāšanas ir jāiegrāmato.
+kasē :doc:`Avansu norēķinu persona<196>` atgriež saņemto avansu.
+Dokumenta veids Atgriezts avanss ir uzskatāms par kases ieņēmumu
+orderi, tam ir iebūvēta kases ieņēmumu ordera izdruka, un tas
+iekļaujas kases ieņēmumu dokumentu kopējā numerācijā. Kases ieņēmumu
+ordera veids nodrošina automatizētu norēķinu uzskaiti ar uzņēmuma
+:doc:`Avansu norēķinu personām<196>`. Kasē atgriezto avansu dokuments
+tiek vienlaicīgi parādīts :doc:`Kases ieņēmumu<227>`un :doc:`Avansu
+norēķinu<232>`dokumentu žurnālos. Darījuma atšifrēšanai pa finanšu
+(EK) kodiem, jāaizpilda dokumenta saturs. Lai dokumenta izdrukā
+parādītos grāmatojumu konti, dokuments pirms izdrukāšanas ir
+jāiegrāmato.
 
 
 JaunaKasē atgriezta avansapievienošana
@@ -34,8 +35,8 @@ Lai aizpildītu Kasē atgriezta avansa Virsrakstu, nepieciešams:
 
 
 
-1. Norādīt Uzņēmuma kasi, uz kurusaņemta nauda kasē no `Avansu
-norēķinu personas`_:
+1. Norādīt Uzņēmuma kasi, uz kurusaņemta nauda kasē no :doc:`Avansu
+norēķinu personas<196>`:
 
 
 
@@ -103,7 +104,7 @@ Dokumentalauks Pamatojums tiek drukāts kasesieņēmumu ordera rindā
 Pamatojums.
 
 Lauku Pamatojums , iespējams aizpildīt manuāli vai izvēloties no
-`Kases paskaidrojumu saraksta`_:
+:doc:`Kases paskaidrojumu saraksta<136>`:
 
 
 
@@ -117,11 +118,12 @@ Dokumentu piesaiste Kasē atgrieztam avansam
 
 
 
-Kasē atgrieztam avansam, līdzīgi kā jebkuram citam `Kases ieņēmumu
-orderim`_,iriespējams piesaistītStingrās uzskaites dokumentusno
-`Darījumu apliecinošo kvīšu`_, `Kultūras un citu pasākumu ieejas
-biļešu`_vai `Caurlaižu`_žurnāla,nospiežot uz lauka Dokumenti labajā
-pusē esošās lupas pogas un pievienojot nepieciešamo Stingrās uzskaites
+Kasē atgrieztam avansam, līdzīgi kā jebkuram citam :doc:`Kases
+ieņēmumu orderim<350>`,iriespējams piesaistītStingrās uzskaites
+dokumentusno :doc:`Darījumu apliecinošo kvīšu<286>`, :doc:`Kultūras un
+citu pasākumu ieejas biļešu<252>`vai
+:doc:`Caurlaižu<773>`žurnāla,nospiežot uz lauka Dokumenti labajā pusē
+esošās lupas pogas un pievienojot nepieciešamo Stingrās uzskaites
 dokumentu:
 
 
@@ -150,8 +152,8 @@ Kad visi nepieciešamie lauki ir aizpildīti,dokuments - Kasē atgriezts
 avanss,ir sagatavots un to ir iespējams:
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būspieejams
-apskatei/labošanai/grāmatošanaivienlaicīgi `Kases ieņēmumu`_un `Avansu
-norēķinu`_dokumentu žurnālos.
+apskatei/labošanai/grāmatošanaivienlaicīgi :doc:`Kases
+ieņēmumu<227>`un :doc:`Avansu norēķinu<232>`dokumentu žurnālos.
 
 2. Apstiprināt, nospiežot rīku joslā pogu - Kasē atgriezts avanss tiks
 Apstiprināts un to būs iespējams Grāmatot.
@@ -161,26 +163,27 @@ Dokumenta - Kasē atgriezts avanss -grāmatošana
 ``````````````````````````````````````````````
 
 Kasē atgrieztu avansuiespējams grāmatot no atvērta dokumenta vai
-izvēloties (iezīmējot)dokumentu `Kases ieņēmumu`_vai vai `Avansu
-norēķinu`_žurnālā.
+izvēloties (iezīmējot)dokumentu :doc:`Kases ieņēmumu<227>`vai vai
+:doc:`Avansu norēķinu<232>`žurnālā.
 
 Lai iegrāmatotu Kasē atgrieztu avansu, dokumentu nepieciešams
 Apstiprināt, nospiežot rīku joslā pogu .
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu `how much`_ ?pid=24741" border="0">.
+pogu :doc:`how much` ?pid=24741" border="0">.
 
 
 
-Instrukcija - `Dokumentu grāmatošanas principi`_
+Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
 
 
 PievienotāKasē atgrieztā avansalabošana
 ```````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu Kasē
-atgriezts avanss, kurš vienlaicīgi pieejams apskatei/labošanai`Kases
-ieņēmumu`_un `Avansu norēķinu`_dokumentu žurnālos.
+atgriezts avanss, kurš vienlaicīgi pieejams
+apskatei/labošanai:doc:`Kases ieņēmumu<227>`un :doc:`Avansu
+norēķinu<232>`dokumentu žurnālos.
 
 Lai veiktu labojumus,dokumentunepieciešams atvērt, izmantojot rīku
 joslas pogu (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos

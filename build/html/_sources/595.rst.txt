@@ -1,4 +1,4 @@
-.. 595 ========================================Darba devēja ziņojums (VSAOI un IIN)======================================== Ziņojums par VSAOI no darba ņēmēju ienākumiem, iedzīvotāju ienākuma
+.. 595 Darba devēja ziņojums (VSAOI un IIN)**************************************** Ziņojums par VSAOI no darba ņēmēju ienākumiem, iedzīvotāju ienākuma
 nodokli un uzņēmējdarbības riska valsts nodevu tiek sagatavots
 atbilstoši MK noteiktajai atskaites veidlapai.
 
@@ -21,8 +21,8 @@ nodoklis”.
 
 Lai atskaitē tiktu parādīti aprēķinātā uzņēmējdarbības riska nodeva,
 tās lielums vienam strādājošajam jāieraksta laukā Riska nodeva.
-Izveidotās atskaites tiek saglabātas atskaišu `sarakstā`_, kur pēc tam
-ir pieejamas apskatei un atkārtotai drukāšanai.
+Izveidotās atskaites tiek saglabātas atskaišu :doc:`sarakstā<596>`,
+kur pēc tam ir pieejamas apskatei un atkārtotai drukāšanai.
 
 
  

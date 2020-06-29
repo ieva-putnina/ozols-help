@@ -1,4 +1,4 @@
-.. 14048 =====================Dokumenta dzēšana===================== 
+.. 14048 Dokumenta dzēšana********************* 
 
 
 Dzēstdokumentu var no atvērtas dokumenta formas vai no dokumenta

@@ -1,4 +1,4 @@
-.. 292 =========================Piedāvājumu dokumenti========================= 
+.. 292 Piedāvājumu dokumenti************************* 
 Pārdošanasdokumentu žurnālā saraksta veidātiek saglabāti izveidotie
 Piedāvājumu dokumenti.
 
@@ -13,15 +13,15 @@ nepieciešams rīku joslā nospiest pogu un tiks atvērts jauns dokuments:
 
 
 
-Piedāvājuma dokumenta aizpildīšanas principi ir identiski`Pārdošanas
-dokumenta`_ sagatavošanai. Aizpildot dokumenta virsrakstu un saturu,
-tiks sagatavots Piedāvājuma dokuments, kuru iespējams nosūtīt
-potenciālajam pircējam saskaņošanai un pēc dokumenta apstiprināšanas
-no Piedāvājumu dokumenta žurnāla, izmantojot rīku joslā pieejamās
-Funkcijas, pārveidot par Pārdošanas dokumentu, tādā veidā tiks
-nodrošinātas pilnvērtīgas Pārdošanas dokumenta funkcijas - korekta
-Noliktavas uzskaite (preču samazinājums Noliktavā), kā arī Pakalpojumu
-kustība.
+Piedāvājuma dokumenta aizpildīšanas principi ir
+identiski:doc:`Pārdošanas dokumenta<304>` sagatavošanai. Aizpildot
+dokumenta virsrakstu un saturu, tiks sagatavots Piedāvājuma dokuments,
+kuru iespējams nosūtīt potenciālajam pircējam saskaņošanai un pēc
+dokumenta apstiprināšanas no Piedāvājumu dokumenta žurnāla, izmantojot
+rīku joslā pieejamās Funkcijas, pārveidot par Pārdošanas dokumentu,
+tādā veidā tiks nodrošinātas pilnvērtīgas Pārdošanas dokumenta
+funkcijas - korekta Noliktavas uzskaite (preču samazinājums
+Noliktavā), kā arī Pakalpojumu kustība.
 
 
 Piedāvājumu dokumenta pārveidošana par Pārdošanas dokumentu
@@ -38,6 +38,6 @@ Piedāvājuma dokumenta:
 
 
 Apstiprinot un saglabājot šo dokumentu, dokuments būs pieejams
-`Pārdošanas dokumentu`_ žurnālā.
+:doc:`Pārdošanas dokumentu<204>` žurnālā.
 
  

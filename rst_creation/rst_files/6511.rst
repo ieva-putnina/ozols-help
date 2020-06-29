@@ -1,4 +1,4 @@
-.. 6511 ============================Datu salīdzināšana ar AS============================ 
+.. 6511 Datu salīdzināšana ar AS**************************** 
 
 
 Polišu pievienošanas rīks tiek izmantots, laiNoliktavā pievienotu

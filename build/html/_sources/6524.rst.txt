@@ -1,9 +1,9 @@
-.. 6524 =====================Uzņēmumu komisija===================== 
+.. 6524 Uzņēmumu komisija********************* 
 Uzņēmuma komisijas atskaite parāda informāciju par uzņēmuma komisijām,
 atbilstoši datu atlases filtrā norādītajiem kritērijiem.
 
-Pirms Uzņēmumu komisijas atskaišu sagatavošanas, jāpalaiž `Komisijas
-aprēķina`_ rīks.
+Pirms Uzņēmumu komisijas atskaišu sagatavošanas, jāpalaiž
+:doc:`Komisijas aprēķina<6517>` rīks.
 
 
 
@@ -121,7 +121,7 @@ Lai no atlasītajiem datiem būtu iespējams sagatavot iepirkumu vai
 pārdošanas dokumentu, nepieciešams izmantot Multi iezīmēšanas
 funkciju:
 
-1. `Rīku`_ jānospiež poga (CTRL+Y);
+1. :doc:`Rīku<14051>` jānospiež poga (CTRL+Y);
 
 
 
@@ -136,8 +136,8 @@ izmantot klavitatūras taustiņu Shift.
 
 
 
-Pēc iezīmēšanas, `Rīku`_ joslā jānospiež poga , un jāizvēlas Izveidot
-pārdošans dokumentu:
+Pēc iezīmēšanas, :doc:`Rīku<14051>` joslā jānospiež poga , un
+jāizvēlas Izveidot pārdošans dokumentu:
 
 
 

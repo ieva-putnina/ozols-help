@@ -1,9 +1,10 @@
-.. 6525 ==================Polišu imports================== 
+.. 6525 Polišu imports****************** 
 Polišu imports nodrošina liela apjoma polišu datu importēšanu sistēmā
 no sagatavota excel datu faila. Polišu datu importēšanas procesā
-notiek `Partnera kartiņas`_ izveide ar partnerim norādīto
-kontaktinformāciju, `polises izveide`_, polišu `rēķina`_ izveide un
-`bankas`_ vai `kases ieņēmuma`_ izveide un sasaiste ar maksājumu.
+notiek :doc:`Partnera kartiņas<312>` izveide ar partnerim norādīto
+kontaktinformāciju, :doc:`polises izveide<6510>`, polišu
+:doc:`rēķina<304>` izveide un :doc:`bankas<349>` vai :doc:`kases
+ieņēmuma<350>` izveide un sasaiste ar maksājumu.
 
 
 
@@ -37,13 +38,13 @@ orderi.
 
 
 
-Ja nav nepieciešams polišu rēķinus saistīt ar `Kases
-ieņēmumie`_/apmaksām, tad pie polišu importa nav jānorāda Kase.
+Ja nav nepieciešams polišu rēķinus saistīt ar :doc:`Kases
+ieņēmumie<350>`/apmaksām, tad pie polišu importa nav jānorāda Kase.
 
 
 
 5. Jānorāda uzņēmuma Bankas konts, kurš tiks norādīts polišu
-maksājumos/`rēķinos`_:
+maksājumos/:doc:`rēķinos<304>`:
 
 
 
@@ -57,10 +58,11 @@ cik ilgā laikā ir veikst polišu imports.
 
 
 
-Iportētajām polisēm netiek automātiski izveidots `POP`_ (polišu
-parakstīšanas) grāmatojums. Lai izveidotu POP grāmatojumus
-importētajām polisēm. `Polišu atskaitē`_ pēc konkrētiem parametriem
-jāatlasa polises, kuras tika importētas, jāiezīmē un, rīku joslā
-nospiežot funkcijas pogu, jāizvēlas funkcija Izveidot POP grāmatojumu.
+Iportētajām polisēm netiek automātiski izveidots :doc:`POP<14080>`
+(polišu parakstīšanas) grāmatojums. Lai izveidotu POP grāmatojumus
+importētajām polisēm. :doc:`Polišu atskaitē<6513>` pēc konkrētiem
+parametriem jāatlasa polises, kuras tika importētas, jāiezīmē un, rīku
+joslā nospiežot funkcijas pogu, jāizvēlas funkcija Izveidot POP
+grāmatojumu.
 
  

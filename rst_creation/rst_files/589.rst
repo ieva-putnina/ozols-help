@@ -1,4 +1,4 @@
-.. 589 ==========================Rezultātu kopsavilkums========================== Atskaite parāda algu aprēķina datus izvēlētajā periodā kopsavilkuma
+.. 589 Rezultātu kopsavilkums************************** Atskaite parāda algu aprēķina datus izvēlētajā periodā kopsavilkuma
 veidā. Atskaitē saraksta veidā tiek parādīti izvēlētā perioda visi
 algu aprēķinā iesaistītie ieejošie aprēķina dati, ieturējumi un
 rezultāti.

@@ -1,4 +1,4 @@
-.. 938 ======================Dokumentu sasaiste====================== 
+.. 938 Dokumentu sasaiste********************** 
 Dokumentu sasaistes žurnālā vizuāli tiek parādīti visu to Pārdošanas
 dokumentu sasaiste, kas saistīti ar kādu no Finanšu dokumentiem.
 Dokumentu žurnāla kolonnās pieejama informācija gan par apmaksas
@@ -14,8 +14,9 @@ dokumentu:
 
 
 Šajā darba režīmā jaunus ierakstus pievienot nevar. Šeit vizuāli tiek
-attēlota informācija no `Pārdošanas dokumentu`_ un `Bankas ieejošo
-maksājumu dokumentu`_ savstarpējās sasaistes.``_
+attēlota informācija no :doc:`Pārdošanas dokumentu<304>` un
+:doc:`Bankas ieejošo maksājumu dokumentu<349>` savstarpējās
+sasaistes.:doc:`<473>`
 
 
 

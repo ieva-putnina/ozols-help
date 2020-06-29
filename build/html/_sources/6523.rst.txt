@@ -1,4 +1,4 @@
-.. 6523 =======================Polišu darba virsma======================= 
+.. 6523 Polišu darba virsma*********************** 
 
 
 Polišu darba virsma (ātrais taustiņš F9) ir paredzēta brokerim

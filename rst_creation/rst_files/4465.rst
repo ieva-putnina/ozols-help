@@ -1,4 +1,4 @@
-.. 4465 =================Korespondence================= 
+.. 4465 Korespondence***************** 
 Pievienojot jaunu korespondenci, tiek atvērts logs, kur jāievada
 attiecīgā informācija:
 
@@ -31,7 +31,7 @@ Apraksts : korespondences apraksts.
 Ja visa informācija ievadīta, jānospiež poga un ir iespējams izveidot
 jaunu korespondenci, nospiežot pogu . Vai, lai saglabātu un aizvērtu,
 jānospiež poga . Visas pievienotās korespondences tiek saglabāts
-`korespondenču žurnālā`_.
+:doc:`korespondenču žurnālā<4460>`.
 
 
 

@@ -1,4 +1,4 @@
-.. 14027 ==================Atlīdzību daļa================== 
+.. 14027 Atlīdzību daļa****************** 
 
 
 Atlīdzības daļas darbinieki:
@@ -9,8 +9,8 @@ Atlīdzības daļas darbinieki:
   satiksmes negadījumu. Zaudējuma pieteikums ir Atlīdzību lieta;
 + pieņem un ievada sistēmā lēmumu par atlīdzības izmaksu Atlīdzības
   lietā;
-+ iesniedz `Finanšu daļā`_ pieņemto lēmumu par atlīdzības izmaksu
-  Atlīdzības lietā.
++ iesniedz :doc:`Finanšu daļā<14028>` pieņemto lēmumu par atlīdzības
+  izmaksu Atlīdzības lietā.
 
 
  

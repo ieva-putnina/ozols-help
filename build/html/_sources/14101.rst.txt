@@ -1,4 +1,4 @@
-.. 14101 ==============================Rēķinu sūtīšana pa e-pastu============================== 
+.. 14101 Rēķinu sūtīšana pa e-pastu****************************** 
 
 
 Rēķinu sūtīšana pa e-pastu kalpo ērtākai un ātrākai elektroniska
@@ -8,8 +8,8 @@ formāta rēķinu nosūtīšanai.
 Rēķinu sagatavošana sūtīšanaipa e-pastu.
 ++++++++++++++++++++++++++++++++++++++++
 
-Rēķinus sagatavo, veidojotmaksājuma plānu un `ģenerējot rēķinus`_,
-vaiarī `izveidojot pārdošanas dokumentu`_.
+Rēķinus sagatavo, veidojotmaksājuma plānu un :doc:`ģenerējot
+rēķinus<6510>`, vaiarī :doc:`izveidojot pārdošanas dokumentu<304>`.
 
 
 
@@ -18,9 +18,10 @@ e-pastu
 
 
 
-1. Pirmsrēķinu `ģenerēšanas`_ vai`veidošanas`_,`partneru
-kartiņā`_jabūt norādītam korespondējošam e-pastam un ieliktam ķeksītim
-- Automātiski sūtīt rēķinus un apmaksas atgādinātājus pa e-pastu:
+1. Pirmsrēķinu :doc:`ģenerēšanas<6510>`
+vai:doc:`veidošanas<304>`,:doc:`partneru kartiņā<312>`jabūt norādītam
+korespondējošam e-pastam un ieliktam ķeksītim - Automātiski sūtīt
+rēķinus un apmaksas atgādinātājus pa e-pastu:
 
 
 
@@ -28,14 +29,14 @@ kartiņā`_jabūt norādītam korespondējošam e-pastam un ieliktam ķeksītim
 
 
 
-2. Ja rēķins jau ir sagatavots,`Pārdošanas dokumentu žurnālā`_
-nepieciešams pārbaudīt, vai jau esošo rēķinu klientiem ir norādīta
-korespondējošā e-pasta adrese.
+2. Ja rēķins jau ir sagatavots,:doc:`Pārdošanas dokumentu
+žurnālā<204>` nepieciešams pārbaudīt, vai jau esošo rēķinu klientiem
+ir norādīta korespondējošā e-pasta adrese.
 
 
 
-Lai to izdarītu, `Pārdošanas dokumentu žurnālā`_nepieciešams pievienot
-papildus kolonnu e-pasts, rīku joslā nospiežot pogu :
+Lai to izdarītu, :doc:`Pārdošanas dokumentu žurnālā<204>`nepieciešams
+pievienot papildus kolonnu e-pasts, rīku joslā nospiežot pogu :
 
 
 
@@ -81,9 +82,9 @@ e-pastakolonnā parādīsies ievadītais klienta korespondējošaise-pasts.
 
 
 
-Ja `partneru kartiņā`_būsaizpildīts laukskorespondējošais e-pasts, tad
-`ģenerējot`_vai `izveidojot`_ rēķinu, e-pasta adreses lauks tiks
-aizpildīts automātiski.
+Ja :doc:`partneru kartiņā<312>`būsaizpildīts laukskorespondējošais
+e-pasts, tad :doc:`ģenerējot<6510>`vai :doc:`izveidojot<304>` rēķinu,
+e-pasta adreses lauks tiks aizpildīts automātiski.
 
 
 
@@ -91,9 +92,9 @@ aizpildīts automātiski.
 Rēķinu sūtīšanapa e-pastu
 +++++++++++++++++++++++++
 
-Lai nosūtītu rēķinupa e-pastu, `pārdošanas
-dokumentus`_iespējamsatlasīt pēc nepieciešamajiem filtra kritērijiem
-(Dokumenta veida, Datuma, Termiņa vai citiem):
+Lai nosūtītu rēķinupa e-pastu, :doc:`pārdošanas
+dokumentus<204>`iespējamsatlasīt pēc nepieciešamajiem filtra
+kritērijiem (Dokumenta veida, Datuma, Termiņa vai citiem):
 
 
 
@@ -114,7 +115,7 @@ iezīmēšanas komandu, lai atzīmētu rēķinus, kurus sūtīt uz e-pastu:
 
 vai
 
-2. `Rīku`_ joslā uzspiežot uz Multi iezīmēšanas ikonas
+2. :doc:`Rīku<14051>` joslā uzspiežot uz Multi iezīmēšanas ikonas
 
 
 
@@ -126,8 +127,8 @@ izmantot klavitatūras taustiņu Shift.
 
 
 Atzīmējot attiecīgos dokumentus, kuriem ir e-pasta adrese un kurus ir
-nepieciešams izsūtīt, `rīku`_joslā jānospiež poga un jāizvēlas
-funkcija:atlasīto/iezīmēto dokumentu sūtīšana pa e-pastu.
+nepieciešams izsūtīt, :doc:`rīku<14051>`joslā jānospiež poga un
+jāizvēlas funkcija:atlasīto/iezīmēto dokumentu sūtīšana pa e-pastu.
 
 
 
@@ -169,6 +170,6 @@ partneriem. Spiežot pogu NĒ, nosūtīšanas funkcijas darbs tiks
 pabeigts.
 
 Ieraksti ar nosūtītajiem rēķiniem tiek saglabāti Pasta modulī
-`nosūtīto vēstuļu žurnālā`_.
+:doc:`nosūtīto vēstuļu žurnālā<298>`.
 
  

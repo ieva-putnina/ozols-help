@@ -1,4 +1,4 @@
-.. 223 ===========================Sociālo nodokļu metodes=========================== 
+.. 223 Sociālo nodokļu metodes*************************** 
 
 
 Programmatūras lietotājam ir jāseko, vai nodokļu aprēķinu metožu
@@ -14,7 +14,7 @@ saraksti ir kopīgi visiem uzņēmumiem.
 nodokļa metode veidojas no soc.likmes darba ņēmējam un kopējās
 sociālās likmes (soc.likme darba devējam tiek aprēķināta no izejas
 datiem automātiski). Sociālā nodokļa metodes tiek pievienotas
-darbinieku`nodokļu dokumentiem`_.
+darbinieku:doc:`nodokļu dokumentiem<208>`.
 
 
 
@@ -31,7 +31,7 @@ atbilstošajā periodā:
 
 
 
-Periods - jānorāda periods no `Algu periodu saraksta`_.
+Periods - jānorāda periods no :doc:`Algu periodu saraksta<211>`.
 
 Soc.lkm.darb. - jānorāda darba ņēmēja soc.likme procentos.
 

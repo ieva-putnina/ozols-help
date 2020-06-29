@@ -1,4 +1,4 @@
-.. 123 =========Kases========= 
+.. 123 Kases********* 
 
 
 Sarakstā jāpievieno uzņēmuma kases. Kasu skaits šajā sarakstā netiek
@@ -24,10 +24,11 @@ nosaukums), Nosaukumu un Atbildīgo personu (Kasieri).
 
 
 
-Lai `Kases ieņēmumu`_un `Kases izdevumu`_dokumentugrāmatošanas procesu
-padarītu ērtāku un būtu iespēja grāmatot Kases dokumentus, izmantojot
-`Grāmatojumu šablonus`_, kases aprakstā nepieciešams piesaistīt
-grāmatvedisko kontu no `Kontu plāna`_:
+Lai :doc:`Kases ieņēmumu<227>`un :doc:`Kases
+izdevumu<225>`dokumentugrāmatošanas procesu padarītu ērtāku un būtu
+iespēja grāmatot Kases dokumentus, izmantojot :doc:`Grāmatojumu
+šablonus<135>`, kases aprakstā nepieciešams piesaistīt grāmatvedisko
+kontu no :doc:`Kontu plāna<114>`:
 
 
 

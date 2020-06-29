@@ -1,4 +1,4 @@
-.. 715 =============Datu bāze============= Datu bāzes konfigurācijā var pievienot datu nosaukumu, noradīt ceļu uz
+.. 715 Datu bāze************* Datu bāzes konfigurācijā var pievienot datu nosaukumu, noradīt ceļu uz
 programmas versiju internetā, norādīt saglabājamo atskaišu datu bāzi.
 
 

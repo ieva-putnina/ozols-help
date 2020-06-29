@@ -1,4 +1,4 @@
-.. 950 =========================Ieņēmumi no pircējiem========================= Atskaite tiek sagatavota, attēlojot bankas ieņēmumus un ar tiem
+.. 950 Ieņēmumi no pircējiem************************* Atskaite tiek sagatavota, attēlojot bankas ieņēmumus un ar tiem
 saistītos pārdošanas dokumentus.
 Lai sagatavotu atskaiti, filtrā nepieciešams norādīt datu atlases
 kritērijus.

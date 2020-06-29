@@ -1,9 +1,9 @@
-.. 14124 ==========================================================Pārdošanas dokumenta satura ierakstu numerācijas maiņa========================================================== 
+.. 14124 Pārdošanas dokumenta satura ierakstu numerācijas maiņa********************************************************** 
 
 
-Programmā jau sagatavotiem `Pārdošanas dokumentiem`_ iespējams mainīt
-rindiņu kārtību vai pārnumurēt rindiņas pēc kādas no pieejamām
-kolonnām.
+Programmā jau sagatavotiem :doc:`Pārdošanas dokumentiem<204>`
+iespējams mainīt rindiņu kārtību vai pārnumurēt rindiņas pēc kādas no
+pieejamām kolonnām.
 
 
 

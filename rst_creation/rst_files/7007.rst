@@ -1,4 +1,4 @@
-.. 7007 ===============Koeficienti=============== 
+.. 7007 Koeficienti*************** 
 
 
 Sarakstā tiek saglabāti koeficienti, kuru vērtību iespējamsnodefinēt

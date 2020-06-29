@@ -1,4 +1,4 @@
-.. 14051 =========================Darba režīmu pārskats========================= 
+.. 14051 Darba režīmu pārskats************************* 
 
 
 Darba režīma nosaukums Palaišana no izvēlnes Taustiņu kombi-

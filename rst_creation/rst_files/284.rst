@@ -1,6 +1,6 @@
-.. 284 ==========================Atvaļinājumu kalendāri========================== 
-Atvaļinājuma kalendārs tiek izmantots `Atvaļinājuma rezerves
-aprēķina`_atskaites sagatavošanai, lai aprēķinātu strādājošajam
+.. 284 Atvaļinājumu kalendāri************************** 
+Atvaļinājuma kalendārs tiek izmantots :doc:`Atvaļinājuma rezerves
+aprēķina<593>`atskaites sagatavošanai, lai aprēķinātu strādājošajam
 pienākošo atvaļinājuma dienu skaitu par nostrādāto periodu.
 
 Atvaļinājuma kalendārā jānorāda atvaļinājuma darba dienu skaits. Ja

@@ -1,4 +1,4 @@
-.. 14114 ====================================Algu aprēķinā iebūvētās komandas==================================== 
+.. 14114 Algu aprēķinā iebūvētās komandas************************************ 
 
 
 No Algu aprēķina ekrāna formas ir pieejamas vairākas komandas, ar
@@ -69,10 +69,11 @@ aprēķinātās summas un ieturējumi.
 
 
 8.Perioda dati (F4)
-Perioda datu darba režīmā ir redzams, kāds `Nodokļu dokuments`_ tiek
-aprēķinā piemērots un kādas ir sociālā nodokļa likmes, ienākuma
-nodokļa atvieglojumi. Nodokļu likmes ir norādītas nodokļu dokumentā,
-perioda datos nodokļa dokumenta laukam jābūt aizpildītam.
+Perioda datu darba režīmā ir redzams, kāds :doc:`Nodokļu
+dokuments<208>` tiek aprēķinā piemērots un kādas ir sociālā nodokļa
+likmes, ienākuma nodokļa atvieglojumi. Nodokļu likmes ir norādītas
+nodokļu dokumentā, perioda datos nodokļa dokumenta laukam jābūt
+aizpildītam.
 
 
 9.Personīgais konts
@@ -86,33 +87,35 @@ lai norādītu, kādas datu kolonnas ekrāna formā jāparāda:
 
 
 
-Atskaišu kolonnām jābūt sakonfigurētām pie darba režīmiem: `Kolonnu
-virsraksti`_. Lai drukātu veidlapas, atvērtam algu aprēķinam jāizvēlas
-Kolonnas - Personīgais konts vai Sociālās apdrošināšanas kartīte unpēc
-tamDrukāt: Personīgais konts vai Sociālās apdrošināšanas kartīte.
+Atskaišu kolonnām jābūt sakonfigurētām pie darba režīmiem:
+:doc:`Kolonnu virsraksti<214>`. Lai drukātu veidlapas, atvērtam algu
+aprēķinam jāizvēlas Kolonnas - Personīgais konts vai Sociālās
+apdrošināšanas kartīte unpēc tamDrukāt: Personīgais konts vai Sociālās
+apdrošināšanas kartīte.
 
 
 10.Sodzes rīkojumi (Ctrl+V)
-Var atvērt apskatei un rediģēšanai strādājošajam izveidoto `Rīkojumu
-žurnālu`_. No rīkojuma žurnāla var pievienot jaunus rīkojumus.
+Var atvērt apskatei un rediģēšanai strādājošajam izveidoto
+:doc:`Rīkojumu žurnālu<209>`. No rīkojuma žurnāla var pievienot jaunus
+rīkojumus.
 
 
 11.Slodzes nodokļu dokumenti (Ctrl+O)
 Var atvērt apskatei un rediģēšanai strādājošajam izveidotos nodokļu
-dokumentus. `Nodokļu dokumentu žurnālā`_ var labot vai pievienot
-jaunus nodokļu dokumentus.
+dokumentus. :doc:`Nodokļu dokumentu žurnālā<208>` var labot vai
+pievienot jaunus nodokļu dokumentus.
 
 
 12.Algu tarifikācija (Ctrl+R)
-`Algu tarifikācija`_ parāda ierakstus, kas izveidoti strādājošajam.
-Algu tarifikāciju var izmantot katru mēnesi ieejošo datu aizpildīšanai
-algu aprēķinā.
+:doc:`Algu tarifikācija<728>` parāda ierakstus, kas izveidoti
+strādājošajam. Algu tarifikāciju var izmantot katru mēnesi ieejošo
+datu aizpildīšanai algu aprēķinā.
 
 
 13.Algu lapiņa (F3)
 Var sagatavot un drukāt strādājošā algu lapiņu. Lai sagatavotu un
 drukātu algu lapiņas visiem strādājošajiem kopā, jālieto atskaite
-`Algu lapiņas`_.
+:doc:`Algu lapiņas<611>`.
 
 
 14.Piezīmes

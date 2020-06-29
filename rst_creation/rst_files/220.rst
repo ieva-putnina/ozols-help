@@ -1,6 +1,6 @@
-.. 220 ===========================-Pārsūtīšanas dokumenti=========================== 
+.. 220 -Pārsūtīšanas dokumenti*************************** 
 Pārsūtīšanasdokumentu žurnālātiek saglabāti visi izveidotie
-`Nomenklatūras pārsūtīšanas`_dokumenti.
+:doc:`Nomenklatūras pārsūtīšanas<687>`dokumenti.
 
 Lai atlasītu dokumentus Pārsūtīšanas dokumentu žurnālā, jāizmanto datu
 atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem

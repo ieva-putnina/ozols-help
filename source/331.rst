@@ -1,14 +1,14 @@
-.. 331 ===============Grāmatojums=============== 
-``_
+.. 331 Grāmatojums*************** 
+:doc:`<628>`
 
 Grāmatojums ir pirmdokumenta kontējums. Grāmatojums tiek izveidots
 dokumenta veidā, un visi izveidotie grāmatojumi ir pieejami
-`Grāmatojumu žurnālā`_. Grāmatojums ar pirmdokumentu ir cieši
+:doc:`Grāmatojumu žurnālā<131>`. Grāmatojums ar pirmdokumentu ir cieši
 saistīts, no pirmdokumenta ar CTRL+G komandas palīdzību var izsaukt
 dokumenta grāmatojumu. No grāmatojuma ekrāna formas var atvērt
 grāmatojuma pirmdokumentu. Aktīvās grāmatojumu atskaites sniedz
 detalizāciju līdz pat grāmatojuma atvēršanai no atskaites formas.
-Grāmatojot dokumentu, jāizvēlas `Grāmatojumu šablons`_, lai
+Grāmatojot dokumentu, jāizvēlas :doc:`Grāmatojumu šablons<135>`, lai
 automatizēti izveidotu kontējumu.
 
 Grāmatojuma satura kolonnas var konfigurēt, nosakot kādu informāciju
@@ -55,8 +55,8 @@ pēc LB kursa)
 
 
 3. Iespēja aizpildīt Grāmatojuma Paskaidrojumu, izvēloties
-paskaidrojuma tekstu nonodefinētajiem`Grāmatojumu paskaidrojuiem`_vai
-ierakstot Paskaidrojuma tekstu manuāli:
+paskaidrojuma tekstu nonodefinētajiem:doc:`Grāmatojumu
+paskaidrojuiem<628>`vai ierakstot Paskaidrojuma tekstu manuāli:
 
 
 
@@ -116,13 +116,13 @@ dokumentātiek parādīts operācijas kontējums.
 Jagrāmatojums ir aizpildīts, ir divas iespējas, kā saglabāt
 grāmatojumu:
 
-1) nospiežot pogu - grāmatojums tiks saglabāts `Grāmatojumu žurnālā`_,
-bet tas nebūs Apstiprināts, un līdz ar to būs iespēja veikt
-korekcijas, ja tas būs nepieciešams;
+1) nospiežot pogu - grāmatojums tiks saglabāts :doc:`Grāmatojumu
+žurnālā<131>`, bet tas nebūs Apstiprināts, un līdz ar to būs iespēja
+veikt korekcijas, ja tas būs nepieciešams;
 
 2) rīku joslā nospiežot pogu (Ctrl+R)- izpildot šo darbību,
 grāmatojums vienlaicīgi tiks saglabāts un apstiprināts, kasnozīmē,
 kagrāmatojuma sagatavošana ir pabeigta. Apstiprinātais grāmatojums būs
-pieejams `Grāmatojumu žurnālā`_.
+pieejams :doc:`Grāmatojumu žurnālā<131>`.
 
  

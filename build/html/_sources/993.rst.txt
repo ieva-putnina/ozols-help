@@ -1,4 +1,4 @@
-.. 993 =====================Pieteikums tiesai===================== 
+.. 993 Pieteikums tiesai********************* 
 
 Dokumenta veids - Pieteikums tiesai - ir specifisks darba režīms, kas
 pieejams izmantojot Ozols papildus funkcionalitāti.
@@ -8,7 +8,7 @@ pieejams izmantojot Ozols papildus funkcionalitāti.
 Jauna pieteikuma tiesai pievienošana
 Izmantojot šo dokumentu veidu, tiek realizēts tiesas pieteikuma
 sagatavošanas process, kur dati dokumentā tiek aizpildīti no atskaites
-- `Neapmaksātie pārdošanas dokumenti`_.
+- :doc:`Neapmaksātie pārdošanas dokumenti<540>`.
 
 Lai pievienotu jaunu dokumentu, atrodoties dokumentu žurnālā, rīku
 joslā jānospiež poga: un tiks atvērts jauns dokuments:
@@ -22,8 +22,8 @@ joslā jānospiež poga: un tiks atvērts jauns dokuments:
 
 
 
-Izvēloties nepieciešamo debitoru (no `Partneru`_ saraksta), tiks
-ielādēta aktuālā informācija par pasta adresi un iespēja norādīt
+Izvēloties nepieciešamo debitoru (no :doc:`Partneru<112>` saraksta),
+tiks ielādēta aktuālā informācija par pasta adresi un iespēja norādīt
 atbilstošās procentu likmes līgumsodam un likumiskajiem kavējuma
 procentiem.
 

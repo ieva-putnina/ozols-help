@@ -1,14 +1,15 @@
-.. 14030 ==================================================CSNRZRS un OZOLS integrēšanas procesa apraksts================================================== 
+.. 14030 CSNRZRS un OZOLS integrēšanas procesa apraksts************************************************** 
 
-#. `Atlīdzību daļā`_ CSNRZRS tiek reģistrēts CSNg.
-#. `Atlīdzību daļā`_ ievada Zaudējumu pieteikumu (-us), kas attiecas
-uz attiecīgo CSNg. Zaudējuma pieteikums tiek ievadīts visām lietām:
-Atlīdzību lietām, Pārsūtītajām lietām un Zaļo karšu lietām (negadījumu
-izraisījis ārzemnieks, kuram kā apdrošināšanas polise kalpo Zaļā
-karte). Katram Zaudējumu pieteikumam tiek ģenerēts Atlīdzību lietas
-numurs, atkarībā no zaudējuma veida (TRL, mantai, veselībai utt.)
-#. `Atlīdzību daļā`_ tiek pieņemts un ievadīts CSNRZRS lēmums par
-atlīdzības izmaksu Atlīdzības lietā.
+#. :doc:`Atlīdzību daļā<14027>` CSNRZRS tiek reģistrēts CSNg.
+#. :doc:`Atlīdzību daļā<14027>` ievada Zaudējumu pieteikumu (-us), kas
+attiecas uz attiecīgo CSNg. Zaudējuma pieteikums tiek ievadīts visām
+lietām: Atlīdzību lietām, Pārsūtītajām lietām un Zaļo karšu lietām
+(negadījumu izraisījis ārzemnieks, kuram kā apdrošināšanas polise
+kalpo Zaļā karte). Katram Zaudējumu pieteikumam tiek ģenerēts
+Atlīdzību lietas numurs, atkarībā no zaudējuma veida (TRL, mantai,
+veselībai utt.)
+#. :doc:`Atlīdzību daļā<14027>` tiek pieņemts un ievadīts CSNRZRS
+lēmums par atlīdzības izmaksu Atlīdzības lietā.
 #. Brīdī, kad ievadītais lēmums tiek saglabāts, notiek datu pārnese uz
 OZOLS.
 #. Sistēmā OZOLS
@@ -26,8 +27,8 @@ OZOLS.
         + C 5321– nekonkretizēts kreditors;
 
 
-#. `Finanšu daļā`_ no Atlīdzību daļas tiek saņemta dokumentu pakete
-   par pieņemto lēmumu (-iem).
+#. :doc:`Finanšu daļā<14028>` no Atlīdzību daļas tiek saņemta
+   dokumentu pakete par pieņemto lēmumu (-iem).
 
     + Partnera kartiņa, ja nepieciešams, tiek papildināta ar norēķinu
     rekvizītiem.
@@ -51,8 +52,8 @@ OZOLS.
 
 
 #. Pēc tam, kad veikta izmaksa, Atlīdzību lietas dokumentu pakete tiek
-   iesniegta `Juridiskajai daļai`_. Juridiskā nodaļa pieņem lēmumu vai
-   tiks uzsākta Regresa lieta:
+   iesniegta :doc:`Juridiskajai daļai<14029>`. Juridiskā nodaļa pieņem
+   lēmumu vai tiks uzsākta Regresa lieta:
 
     + ja Regresa lieta netiek uzsākta, izmaksa atlīdzību lietā tiek
       norakstīta izdevumos. Kontējumi:
@@ -60,12 +61,13 @@ OZOLS.
         + D 7120 – norakstītās Regresa lietas
         + C 2321– nenoskaidrotā debitora konts;
 
-    + ja Regresa lieta tiek uzsākta, `Juridiskajai daļa`_atlīdzības
-    maksātāju un informē par to `Finanšu daļu`_.
+    + ja Regresa lieta tiek uzsākta, :doc:`Juridiskajai
+    daļa<14029>`atlīdzības maksātāju un informē par to :doc:`Finanšu
+    daļu<14028>`.
     + Ja atlīdzības maksātājs (ja nepieciešams, TRL vadītājs, TRL
     īpašnieks, TRL nomnieks) nav ievadīts sistēmā, Juridiskā daļa ievada
     Partnera kartiņu.
-    + `Finanšu daļa`_veic debitora noteikšanas kontējumu:
+    + :doc:`Finanšu daļa<14028>`veic debitora noteikšanas kontējumu:
 
         + D 2321 – nenoskaidrotā debitora konts,
         + C 2322 – konkrētā debitora konts, kuram tiek pievienots Partneris.
@@ -73,8 +75,8 @@ OZOLS.
     + Ja bankā ieskaitīta nauda par ierosināto Regresa lietu, Finanšu daļa
       identificē maksājumu pēc Atlīdzību lietas numura vai maksātāja, vai
       vainīgā. Ja ienākošo maksājumu identificēt nav iespējams, informācija
-      tiek nodota `Juridiskajai daļai`_ identifikācijai. Kad maksājums
-      identificēts, Lietu žurnālā tiek veikts kontējums:
+      tiek nodota :doc:`Juridiskajai daļai<14029>` identifikācijai. Kad
+      maksājums identificēts, Lietu žurnālā tiek veikts kontējums:
 
         + D 262* – bankas konts, kurā ienākusi nauda,
         + C 2322 – konkrētā debitora konts ar pievienotu Partneri un Atlīdzību

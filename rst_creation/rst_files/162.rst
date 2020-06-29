@@ -1,4 +1,4 @@
-.. 162 ====================Lietotāju grupas==================== 
+.. 162 Lietotāju grupas******************** 
 
 
 Lietotāju tiesības darba režīmu un uzņēmumu izmantošanā tiek
@@ -15,12 +15,12 @@ Lai pievienotu jaunu Lietotāju grupu, rīku joslā jānospiež poga :
 
 
 Nepieciešams ievadīt grupas nosaukumu un izveidotajai grupai Pievienot
-nepieciešamos `Lietotājus`_.
+nepieciešamos :doc:`Lietotājus<194>`.
 
 
 
-Pirms lietotāju grupu izveidošanas, `Lietotāju sarakstā`_ jābūt
-pievienotiem lietotājiem. Vienu lietotāju var pievienot vairākās
+Pirms lietotāju grupu izveidošanas, :doc:`Lietotāju sarakstā<194>`
+jābūt pievienotiem lietotājiem. Vienu lietotāju var pievienot vairākās
 lietotāju grupās. Lietotājam tiks piemērotas tiesības uz darba
 režīmiem un uzņēmumiem no visām lietotāju grupām, kur lietotājs ir
 pievienots.

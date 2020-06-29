@@ -1,4 +1,4 @@
-.. 226 ===================Bankas ieņēmumi=================== 
+.. 226 Bankas ieņēmumi******************* 
 
 
 Bankas ieņēmumu dokumentu žurnālā tiek saglabāti šādi bankas ieņēmumu
@@ -6,13 +6,13 @@ dokumenti:
 
 
 
-`Bankā atgriezts avanss`_
+:doc:`Bankā atgriezts avanss<473>`
 
-`Bankas ieejošais maksājums`_
+:doc:`Bankas ieejošais maksājums<349>`
 
-`Naudas iemaksa bankā`_
+:doc:`Naudas iemaksa bankā<472>`
 
-`Naudas pārsūtīšana starp bankas kontiem`_
+:doc:`Naudas pārsūtīšana starp bankas kontiem<470>`
 
 
 

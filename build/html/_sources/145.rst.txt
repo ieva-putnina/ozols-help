@@ -1,4 +1,4 @@
-.. 145 =================================Kontu atlikumi (kopsavilkums)================================= 
+.. 145 Kontu atlikumi (kopsavilkums)********************************* 
 
 
 Kontu atlikumu kopsavilkumā tiek parādīti ievadītie kontu atlikumi,
@@ -12,6 +12,6 @@ dimensijām un analītiku - partneriem:
 
 
 Kontu atlikumu kopsavilkuma saraksts ir informatīvs, atlikumi ir
-jāpievieno no saraksta `Kontu atlikumi`_.
+jāpievieno no saraksta :doc:`Kontu atlikumi<146>`.
 
  

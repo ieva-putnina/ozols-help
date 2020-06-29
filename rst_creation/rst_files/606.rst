@@ -1,4 +1,4 @@
-.. 606 ============================Partnera adreses izdruka============================ 
+.. 606 Partnera adreses izdruka**************************** 
 
 
 Atskaiti Partnera adreses izdruka izmanto, lai būtu iespējams izdrukāt
@@ -15,16 +15,18 @@ Izvēlotes šo atskaiti, tiks atvērts jauns logs:
 
 
 
-Partneris: Iespēja no `Partneru saraksta`_izvēlēties nepieciešamo
-`Partneri`_, par kuru dati - `Adrese`_,tiks drukāti;
+Partneris: Iespēja no :doc:`Partneru saraksta<112>`izvēlēties
+nepieciešamo :doc:`Partneri<312>`, par kuru dati -
+:doc:`Adrese<192>`,tiks drukāti;
 
-Kontakpersona: Iespēja norādīt kādu no `Partnerim`_ piesaistītajām
-`Kontaktpersonām`_.
+Kontakpersona: Iespēja norādīt kādu no :doc:`Partnerim<312>`
+piesaistītajām :doc:`Kontaktpersonām<189>`.
 
 Adrese: Lauks tiks aizpildīts automātiski, ielādējot izvēlētā
-`Partnera aprakstā`_norādīto `Adresei`_. Situācijās, ja
-Partnerim,`Partnera aprakstā`_ norādītas vairākas `Adreses`_ - šajā
-izvēlnes laukā iespējams izvēlēties attiecīgajā situācijānepieciešamo.
+:doc:`Partnera aprakstā<312>`norādīto :doc:`Adresei<192>`. Situācijās,
+ja Partnerim,:doc:`Partnera aprakstā<312>` norādītas vairākas
+:doc:`Adreses<192>` - šajā izvēlnes laukā iespējams izvēlēties
+attiecīgajā situācijānepieciešamo.
 
 
 

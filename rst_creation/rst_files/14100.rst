@@ -1,4 +1,4 @@
-.. 14100 =====================================Dokumenta ģenerēšana .pdf formātā===================================== 
+.. 14100 Dokumenta ģenerēšana .pdf formātā************************************* 
 
 
 Lai ģenerētu pārdošanas dokumentu uz .pdf formātu no programmas Ozols:

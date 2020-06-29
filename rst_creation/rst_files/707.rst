@@ -1,4 +1,4 @@
-.. 707 ===============Virsgrāmata=============== 
+.. 707 Virsgrāmata*************** 
 
 
 Noklusēto kontu izmantošanu dokumentu grāmatojumu šablonos, nosaka

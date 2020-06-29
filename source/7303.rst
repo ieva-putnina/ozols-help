@@ -1,7 +1,7 @@
-.. 7303 ============Pasākums============ 
-Pievienotie pasākumi tiek saglabāti `pasākumu sarakstā`_. Pasākumu
-saraksts tiek izmantots pievienojot `jaunus notikumus`_ un veidojot
-dažādas `atskaites`_.
+.. 7303 Pasākums************ 
+Pievienotie pasākumi tiek saglabāti :doc:`pasākumu sarakstā<7312>`.
+Pasākumu saraksts tiek izmantots pievienojot :doc:`jaunus
+notikumus<7308>` un veidojot dažādas :doc:`atskaites<7317>`.
 
 
 
@@ -23,11 +23,11 @@ Tehniskās vajadzības: attiecīgajam pasākumam iespējams nodefinēt
 tehniskās vajadzības;
 
 Radošā brigāde un pasākuma dalībnieki tiek pievienoti pievienojot
-`notikumu`_.
+:doc:`notikumu<7308>`.
 
-Lai pasākums tiktu saglabāts `pasākumu sarakstā`_, jānospiež poga ,
-un, lai pievienotu jaunu pasākumu, jānospiež poga un jāpievieno jauns
-pasākums. Lai, pēc saglabāšanas, labotu pievienotā pasākuma ierakstus,
-jānospiež poga un pēc labošanas ieraksts jāsaglabā.
+Lai pasākums tiktu saglabāts :doc:`pasākumu sarakstā<7312>`, jānospiež
+poga , un, lai pievienotu jaunu pasākumu, jānospiež poga un jāpievieno
+jauns pasākums. Lai, pēc saglabāšanas, labotu pievienotā pasākuma
+ierakstus, jānospiež poga un pēc labošanas ieraksts jāsaglabā.
 
  

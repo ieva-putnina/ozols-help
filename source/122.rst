@@ -1,6 +1,6 @@
-.. 122 ==================Apmaksas veidi================== 
-Sarakstā tiek saglabāti apmaksu veidi, kas tiek izmantoti `norēķinu
-dokumentu`_ aizpildīšanai.
+.. 122 Apmaksas veidi****************** 
+Sarakstā tiek saglabāti apmaksu veidi, kas tiek izmantoti
+:doc:`norēķinu dokumentu<304>` aizpildīšanai.
 
 
 

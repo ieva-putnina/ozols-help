@@ -1,4 +1,4 @@
-.. 199 ====================Grāmatojumu tipi==================== 
+.. 199 Grāmatojumu tipi******************** 
 
 
 Grāmatojumu tipi ir sistēmā iebūvēts, nemainīgs saraksts, kas
@@ -8,6 +8,6 @@ lietotājam nav iespējams pievienot jaunus grāmatojumu tipus.
 Katram pirmdokumentam sistēmā tiek piešķirts dokuments tips, kuriem
 iespējams veidot grāmatojumu šablonus. Grāmatojot noteiktu dokumenti
 tipu, izvēlei tiek parādīti tikai dokumenta tipam atbilstošie
-`Grāmatojumu šabloni`_.
+:doc:`Grāmatojumu šabloni<135>`.
 
  

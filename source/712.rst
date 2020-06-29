@@ -1,4 +1,4 @@
-.. 712 ==========================Programmas atjaunošana========================== Sistēmā iespējams norādīt programmas atjaunošanas katalogu. Strādājot
+.. 712 Programmas atjaunošana************************** Sistēmā iespējams norādīt programmas atjaunošanas katalogu. Strādājot
 datortīklā, jaunākās programmas versijas var novietot uz servera.
 Katram lietotājam ir iespējas jaunākās programmas versijas uzstādīt
 automatizēti.

@@ -1,15 +1,15 @@
-.. 961 ====================================Amata kvalifikācijas kategorijas==================================== 
+.. 961 Amata kvalifikācijas kategorijas************************************ 
 
 
 Šajā sarakstā tiekievadītas Amata kvalifikācijas kategorijas (f1, f2,
-utt.), kas pēc tam tiek izmantotas `Amatu`_ aprakstu aizpildīšanai,
-laikonkrētamamatam varētu piesaistīt nepieciešamo Amata kvalifikācijas
-kategoriju.Šī saraksta dati algu aprēķinos nepiedalās, taču sniedz
-iespēju ganaprēķina datus, gan arī visusPersonāla datusatlasītAmata
-kvalifikācijukategoriju griezumā. Aizpildot strādājošā datus programma
-pieprasa norādīt Amata kvalifikācijas kategoriju. Ja uzņēmumā
-personāls netiek dalīts paAmata kvalifikācijas kategorijām, tad
-sarakstu var atstāt neaizpildītu.
+utt.), kas pēc tam tiek izmantotas :doc:`Amatu<186>` aprakstu
+aizpildīšanai, laikonkrētamamatam varētu piesaistīt nepieciešamo Amata
+kvalifikācijas kategoriju.Šī saraksta dati algu aprēķinos nepiedalās,
+taču sniedz iespēju ganaprēķina datus, gan arī visusPersonāla
+datusatlasītAmata kvalifikācijukategoriju griezumā. Aizpildot
+strādājošā datus programma pieprasa norādīt Amata kvalifikācijas
+kategoriju. Ja uzņēmumā personāls netiek dalīts paAmata kvalifikācijas
+kategorijām, tad sarakstu var atstāt neaizpildītu.
 
 
 

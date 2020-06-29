@@ -1,4 +1,4 @@
-.. 14067 ===========Manuāla=========== 
+.. 14067 Manuāla*********** 
 
 
 No izvēlnes nepieciešams aktivizēt darba režīmu:

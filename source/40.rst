@@ -1,4 +1,8 @@
-.. 40 ==========Avansi========== 
+.. 40
+ 
+Avansi
+==========
+ 
 
 
 Avansu norēķini paredzēti saņemto uz izlietoto avansa summu uzskaitei.
@@ -12,21 +16,32 @@ Avansu norēķini nodrošina:
 
 
 + Avansu pieprasījuma dokumentu automatizētu sagatavošanu Avansu
-uzskaite ir saistīta ar Ozols moduli `Finanses`_. Noformējot naudas
-izmaksas operācijas kasē vai bankā, avansa pieprasījuma dokuments
-automatizēti tiek izveidots arī Avansu modulī.
+uzskaite ir saistīta ar Ozols moduli :doc:`Finanses<41>`. Noformējot
+naudas izmaksas operācijas kasē vai bankā, avansa pieprasījuma
+dokuments automatizēti tiek izveidots arī Avansu modulī.
+
 + Avansu izlietojuma uzskaiti katrai atbildīgajai personai Avansu
-izlietojuma uzskaite tiek veikta, veidojot `Avansu
-norēķinu`_dokumentus. Avansa norēķina dokumentā tiek uzskaitītas
+izlietojuma uzskaite tiek veikta, veidojot :doc:`Avansu
+norēķinu<232>`dokumentus. Avansa norēķina dokumentā tiek uzskaitītas
 saņemtās un izlietotās avansu summas, un parādīts avansa atlikums.
+
 + Avansu izlietojuma uzskaiti pa atbildīgajām personām,
 struktūrvienībām un projektiem Avansu pieprasījumus un norēķinus var
 uzskaitīt ne tikai pa atbildīgajām personām, bet arī pa datu uzskaites
 dimensijām - projektiem vai uzņēmuma struktūrvienībām.
-+ Avansu atskaišu un izdruku sagatavošanu `Virsgrāmatā`_ ir pieejama
-  atskaite `Konta analītiskais apgrozījums`_, avansu dokumentu reģistrus
-  var drukāt no avansu norēķinu dokumentu žurnāla, programmā ir iebūvēta
-  standarta avansu norēķinu veidlapas izdruka.
+
++ Avansu atskaišu un izdruku sagatavošanu :doc:`Virsgrāmatā<49>` ir
+  pieejama atskaite :doc:`Konta analītiskais apgrozījums<529>`, avansu
+  dokumentu reģistrus var drukāt no avansu norēķinu dokumentu žurnāla,
+  programmā ir iebūvēta standarta avansu norēķinu veidlapas izdruka.
 
 
- .. toctree::   :maxdepth: 6    55.rst   20.rst   847.rst   21.rst
+
+ 
+.. toctree::
+   :maxdepth: 6
+ 
+   55.rst
+   20.rst
+   847.rst
+   21.rst

@@ -1,2 +1,2 @@
-.. 6600 =====================Budžeta plānošana===================== 
+.. 6600 Budžeta plānošana===================== 
  .. toctree::   :maxdepth: 6    6603.rst   6602.rst   6612.rst   6601.rst

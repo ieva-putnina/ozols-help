@@ -1,4 +1,4 @@
-.. 4217 ==========================Regresu lietu atskaite========================== 
+.. 4217 Regresu lietu atskaite************************** 
 
 
 Atskaite parāda informāciju par visām regresa lietām noteiktā laika

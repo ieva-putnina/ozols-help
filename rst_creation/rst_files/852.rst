@@ -2,8 +2,8 @@
 
 
 
-Lai pievienotu jaunu plānu, vispirms nepieciešams nodefinēt `Plāna
-periodu`_.
+Lai pievienotu jaunu plānu, vispirms nepieciešams nodefinēt
+:doc:`Plāna periodu<156>`.
 
 Pēc Plāna perioda nodefinēšanas, iespējams ievadīt budžeta plāna
 ierakstus attiecīgajam plāna periodam, aizpildot nepieciešamos laukus:

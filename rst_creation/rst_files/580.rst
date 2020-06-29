@@ -1,13 +1,13 @@
-.. 580 =================Kases grāmata================= 
+.. 580 Kases grāmata***************** 
 
 
 Kases grāmata jāizveido atskaites veidā. Sākuma atlikuma summa kasē
-tiek parādīta no `Kontu atlikumu atlikumu saraksta`_. Kases saistība
-ar grāmatvedības kontu tiek noteikta `Kases aprakstā`_. Atskaitei ir
-iebūvēta izdrukas forma, kas atbilst kases operāciju uzskaites
-noteikumiem. Sagatavojot atskaiti par garāku laika periodu, katras
-dienas datus automatizēti var drukāt uz atsevišķas lapas. Atskaite
-tiek sagatavota no pirmdokumentu datiem.
+tiek parādīta no :doc:`Kontu atlikumu atlikumu saraksta<146>`. Kases
+saistība ar grāmatvedības kontu tiek noteikta :doc:`Kases
+aprakstā<123>`. Atskaitei ir iebūvēta izdrukas forma, kas atbilst
+kases operāciju uzskaites noteikumiem. Sagatavojot atskaiti par garāku
+laika periodu, katras dienas datus automatizēti var drukāt uz
+atsevišķas lapas. Atskaite tiek sagatavota no pirmdokumentu datiem.
 
 
 

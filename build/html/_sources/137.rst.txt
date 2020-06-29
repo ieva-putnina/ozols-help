@@ -1,4 +1,4 @@
-.. 137 ============================Kases pielikumu saraksts============================ 
+.. 137 Kases pielikumu saraksts**************************** 
 
 
 Kases pielikumu sarakstā tiek glabāti dokumentu veidu nosaukumi, kas

@@ -1,6 +1,6 @@
-.. 5039 ==========================================Budžeta grozījumu pieprasījumu žurnāls========================================== 
+.. 5039 Budžeta grozījumu pieprasījumu žurnāls****************************************** 
 Budžeta pieprasīšanai tiek izveidoti Budžeta pieprasījuma dokumenti,
-kuri tiek saglabāti `Budžeta pieprasījumu`_ žurnālā.
+kuri tiek saglabāti :doc:`Budžeta pieprasījumu<5035>` žurnālā.
 
 
 Jauna budžeta pieprasījuma pievienošana

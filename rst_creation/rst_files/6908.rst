@@ -1,4 +1,4 @@
-.. 6908 ===========Licence=========== 
+.. 6908 Licence*********** 
 Lai pievienotu jaunu Licenci:
 
 
@@ -23,6 +23,6 @@ Kad visi dati ievadīti, jānospiež poga un, lai pievienotu jaunu
 licenci, jāspiež poga . Ja jaunas licences vairs netiks pievienotas,
 jānospiež poga pēc pēdējās licences pievienošanas.
 
-Visas pievienotās licences ir redzamas `Licenču sarakstā`_.
+Visas pievienotās licences ir redzamas :doc:`Licenču sarakstā<6912>`.
 
  

@@ -1,4 +1,4 @@
-.. 6513 ===================Polišu atskaite=================== 
+.. 6513 Polišu atskaite******************* 
 Polišu atskaite ir paredzēta, lai varētu atasīt polišu līgumus pēc
 uzstādītiem atlases kritērijiem. Šajā atskaitē nav iegūstami dati par
 aprēķinātajām komisijas summām.
@@ -69,8 +69,8 @@ iespējams atlasīt datus pēc šādiem kritērijiem:
 
 
 
-Lauks: polišu atskaite par izvēlētu konkrētu informāciju no `polises`_
-"Labot" sadaļas pievienotās informācijas;
+Lauks: polišu atskaite par izvēlētu konkrētu informāciju no
+:doc:`polises<6510>` "Labot" sadaļas pievienotās informācijas;
 
 Vērtība: izvēlētā papildlauka vērtība;
 

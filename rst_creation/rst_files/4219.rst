@@ -1,4 +1,4 @@
-.. 4219 ========================Regresu lietu parādi======================== 
+.. 4219 Regresu lietu parādi************************ 
 
 
 Atskaite parāda informāciju parregresa lietu parādiem noteiktā laika

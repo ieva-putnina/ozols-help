@@ -1,4 +1,4 @@
-.. 594 ==============================================Pārskats par pavadzīmju numuru izlietojumu============================================== 
+.. 594 Pārskats par pavadzīmju numuru izlietojumu********************************************** 
 
 
 Stingrās uzskaites pavadzīmju numuru izlietojuma atskaite tiek
@@ -66,8 +66,9 @@ sagatavota tukša!):
 
 
 
-7. Sagatavoto atskaiti iespējams saglabāt `VID atskaišu sarakstā`_,
-kur tā būs pieejama labošanai/drukāšanai, nospiežot pogu: .
+7. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
+sarakstā<531>`, kur tā būs pieejama labošanai/drukāšanai, nospiežot
+pogu: .
 
 
 

@@ -1,4 +1,4 @@
-.. 4039 =====================Kampaņu rezultāti===================== 
+.. 4039 Kampaņu rezultāti********************* 
 Kampaņu rezultātu sarakstā tiek saglabāti dati par kampaņām, kuras ir
 izpildītas, kurustatuss ir mainīts uzslēgts:
 

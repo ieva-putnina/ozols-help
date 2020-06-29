@@ -1,4 +1,4 @@
-.. 601 =======================================================Pārskats par darījumu apliecinošo kvīšu izlietojumu======================================================= 
+.. 601 Pārskats par darījumu apliecinošo kvīšu izlietojumu******************************************************* 
 
 
 Atskaite tiek sagatavota atbilstoši MK noteikumiem par stingrās
@@ -8,9 +8,9 @@ noteikts kvīšu atlikums norādītā perioda sākumā, kvīšu izlietojums un
 iegāde perioda laikā, kā arī noteikts neizlietoto kvīšu atlikums
 norādītā perioda beigās.
 Lai sagatavotu atskaiti par darījumu apliecinoši kvīšu izlietojumu,
-programmā jābūt ievadītiem datiem par iegādātajām kvītīm`Darījumu
-apliecinošo kvīšu žurnālā`_ un `Kases ieņēmumu orderos`_ jānorāda,
-kuras kvītis tiek izlietotas.
+programmā jābūt ievadītiem datiem par iegādātajām kvītīm:doc:`Darījumu
+apliecinošo kvīšu žurnālā<286>` un :doc:`Kases ieņēmumu orderos<350>`
+jānorāda, kuras kvītis tiek izlietotas.
 Atskaite tiek sagatavota no pirmdokumentu datiem.
 
 

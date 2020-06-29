@@ -1,12 +1,12 @@
-.. 125 ====================Dzīvesvietu kodi==================== 
+.. 125 Dzīvesvietu kodi******************** 
 
 
 Dzīvesvietu kodu sarakstā ir pilnais dzīvesvietu kodu saraksts vai
 arīlietotājs var aizpildīt tikai uzņēmumā izmantotos dzīvesvietas
-kodus. Dzīvesvietu kodi tiek pievienoti `Nodokļu dokumentiem`_.
-Atskaišu sagatavošanā dzīvesvietas kodus iespējams izmantot kā datu
-atlases nosacījumu, piem. atlasīt datus, kuru dzīvesvietas kodi sākas
-ar 01 (Rīgā dzīvojošie).
+kodus. Dzīvesvietu kodi tiek pievienoti :doc:`Nodokļu
+dokumentiem<208>`. Atskaišu sagatavošanā dzīvesvietas kodus iespējams
+izmantot kā datu atlases nosacījumu, piem. atlasīt datus, kuru
+dzīvesvietas kodi sākas ar 01 (Rīgā dzīvojošie).
 
 
 

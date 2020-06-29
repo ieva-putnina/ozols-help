@@ -1,8 +1,9 @@
-.. 113 ===================Partneru grupas=================== 
+.. 113 Partneru grupas******************* 
 
 
 Sarakstā tiek saglabātas Partneru grupas, kurastiek lietotas
-pievienojot `Partneri`_ un `Partnera kontaktpersonu`_.
+pievienojot :doc:`Partneri<312>` un :doc:`Partnera
+kontaktpersonu<389>`.
 
 
 

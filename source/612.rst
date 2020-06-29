@@ -1,16 +1,17 @@
-.. 612 ====================================================Atskaite par algu budžetu un tā faktisko izpildi==================================================== Algu budžetēšanu var veikt pa personāla amatiem. Izveidojot `amatus`_
-tiek noteikts, cik un kādas ir uzņēmuma štata vietas un kāds ir to
-budžets. Pieņemot darbiniekus, `slodzes`_ aprakstā norādītais amats
-veido štata vietu aizpildījumu. Atskaite parāda noteikto budžetu
-amatam un tā reālo izlietojumu no veiktā algu aprēķina. Ja visas štata
-vietas nav aizpildītas, atskaitē amats tiek parādīts kā vakance.
+.. 612 Atskaite par algu budžetu un tā faktisko izpildi**************************************************** Algu budžetēšanu var veikt pa personāla amatiem. Izveidojot
+:doc:`amatus<186>` tiek noteikts, cik un kādas ir uzņēmuma štata
+vietas un kāds ir to budžets. Pieņemot darbiniekus,
+:doc:`slodzes<207>` aprakstā norādītais amats veido štata vietu
+aizpildījumu. Atskaite parāda noteikto budžetu amatam un tā reālo
+izlietojumu no veiktā algu aprēķina. Ja visas štata vietas nav
+aizpildītas, atskaitē amats tiek parādīts kā vakance.
 Datu uzskaite ir jāveic tā, lai vienā amatā uzskaitītu personas ar
 vienādu atalgojumu. Nosakot amatam budžetu un aprēķinot strādājošo
 algas, atskaite parāda noteikto plānu un izpildi – rezultātu aprēķinu.
 Plāns var tikt noteikts vairākiem algu aprēķina rezultātiem un līdz ar
 to arī attiecīgi tiek iegūti dati par noteiktā algu budžeta izpildi pa
-atsevišķiem algu aprēķina posteņiem – `rezultātiem`_. Atskaitē tiek
-atšifrētas faktiski aprēķināto rezultātu summas.
+atsevišķiem algu aprēķina posteņiem – :doc:`rezultātiem<591>`.
+Atskaitē tiek atšifrētas faktiski aprēķināto rezultātu summas.
 Atskaiti var sagatavot pa atsevišķiem aprēķina periodiem,
 struktūrvienībām, var atlasīt datus pēc amatiem, grupēt pēc amatiem
 vai struktūrvienības.

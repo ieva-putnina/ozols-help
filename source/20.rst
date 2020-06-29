@@ -1,8 +1,8 @@
 .. 20 =============Dokumenti============= 
 
 
-Izmantojot Avansu dokumentus, iespējams noformēt`Avansa norēķinus`_un
-Avansu norēķiniem piesaistīt naudas attaisnojošos - `Avansa izdevumu
-dokumentus`_.
+Izmantojot Avansu dokumentus, iespējams noformēt:doc:`Avansa
+norēķinus<748>`un Avansu norēķiniem piesaistīt naudas attaisnojošos -
+:doc:`Avansa izdevumu dokumentus<747>`.
 
  .. toctree::   :maxdepth: 5    914.rst   746.rst   232.rst

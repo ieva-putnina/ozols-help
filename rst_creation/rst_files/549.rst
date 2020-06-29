@@ -1,4 +1,4 @@
-.. 549 ======================Kases kopsavilkums====================== 
+.. 549 Kases kopsavilkums********************** 
 
 
 Kases kopsavilkums parāda skaidras naudas izdevumu un ieņēmumu

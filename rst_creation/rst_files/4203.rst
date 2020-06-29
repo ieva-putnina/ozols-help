@@ -8,6 +8,6 @@ fiksētās izvēles laukos ātrākai dokumenta sagatavošanai.
 
 Iespējams izveidot šādus sarakstus:
 
-`Lietu slēgšanas iemesli`_
+:doc:`Lietu slēgšanas iemesli<4207>`
 
  .. toctree::   :maxdepth: 5    4208.rst   4207.rst

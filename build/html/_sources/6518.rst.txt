@@ -1,6 +1,6 @@
-.. 6518 =============Pielikumi============= 
+.. 6518 Pielikumi************* 
 Sadaļa pielikumi tiek veidota Polises aprakstā aizpildot sadaļu
-`Pielikums`_
+:doc:`Pielikums<6510>`
 
 
 

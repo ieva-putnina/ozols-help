@@ -1,7 +1,8 @@
-.. 14091 ==================================================Nomenklatūras norakstīšanas aktu apskate Ozolā================================================== 
+.. 14091 Nomenklatūras norakstīšanas aktu apskate Ozolā************************************************** 
 
-->Ozols->Noliktava->Dokumenti->`Iekšējās kustības dokumenti`_
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+->Ozols->Noliktava->Dokumenti->:doc:`Iekšējās kustības
+dokumenti<4455>`
+++++++++++++++++
 
 Iekšējās kustības dokumentu žurnāla filtrā iespējams norādīt
 parametrus, pēc kādiem tiks atlasīti Nomenklatūras norakstīšanas
@@ -18,12 +19,13 @@ norakstīšanas dokumenti.
 
 
 
-Šādi atlasītus dokumentus iespējams arī iegrāmatot: `Nomenklatūras
-norakstīšanas dokumentu grāmatošana`_.
+Šādi atlasītus dokumentus iespējams arī iegrāmatot:
+:doc:`Nomenklatūras norakstīšanas dokumentu grāmatošana<14092>`.
 
 
-->Ozols->Noliktava->Atskaites->`Norakstīšanas aktu kopsavilkums`_
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+->Ozols->Noliktava->Atskaites->:doc:`Norakstīšanas aktu
+kopsavilkums<808>`
+++++++++++++++++++
 
 Šajā atskaitē iespējams iegūt datus kopsavilkuma veidā par norakstīto
 nomenklatūru. Atskaites „Norakstīšanas aktu kopsavilkums” filtrā,

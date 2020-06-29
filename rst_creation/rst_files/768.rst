@@ -1,9 +1,9 @@
-.. 768 ============================Standartizētie nosaukumi============================ 
+.. 768 Standartizētie nosaukumi**************************** 
 
 Sarakstā tiek saglabāti standartizētie nosaukumi -
 paskaidrojošais/vispārējais nomenklatūras nosaukums, kas tiek
-piesaistīts `Nomenklatūras`_ kartiņas sadaļā "Nomenklatūra" un ir
-pieejams kolonnas veidā `Nomenklatūras`_ sarakstā.
+piesaistīts :doc:`Nomenklatūras<106>` kartiņas sadaļā "Nomenklatūra"
+un ir pieejams kolonnas veidā :doc:`Nomenklatūras<106>` sarakstā.
 
 
 

@@ -1,9 +1,9 @@
-.. 820 ==================================================Pamatlīdzekļu norakstīšanas dokuments (daļēji)================================================== 
+.. 820 Pamatlīdzekļu norakstīšanas dokuments (daļēji)************************************************** 
 
 
 Pamatlīdzekļu dokuments paredzēts pamatlīdzekļu daļējai norakstīšanai.
-Dokuments pēc saglabāšanas ir pieejams `Pamatlīdzekļu dokumentu
-sarakstā`_.
+Dokuments pēc saglabāšanas ir pieejams :doc:`Pamatlīdzekļu dokumentu
+sarakstā<233>`.
 
 
 
@@ -28,8 +28,9 @@ Jāaizpilda dokumenta virsraksta dati:
 
 
 Numurs - jānorāda pamatlīdzekļa dokumenta numurs. Šis numurs strādājot
-ar sistēmu tiek piešķirts automātiski pēc iebūvētā `numeratora`_.
-Visiem pamatlīdzekļu dokumentiem ir viena numerācija.
+ar sistēmu tiek piešķirts automātiski pēc iebūvētā
+:doc:`numeratora<139>`. Visiem pamatlīdzekļu dokumentiem ir viena
+numerācija.
 
 Datums - pamatlīdzekļu dokumenta izveidošanas datums.
 
@@ -58,7 +59,7 @@ funkciju .
 
 
 Pēc dokumenta apstiprināšanas Pamatlīdzekļu norakstīšanasdokuments
-(daļēji) ir `jānogrāmato`_.
+(daļēji) ir :doc:`jānogrāmato<14044>`.
 
 
 

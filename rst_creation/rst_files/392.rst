@@ -1,4 +1,4 @@
-.. 392 ==========Adrese========== 
+.. 392 Adrese********** 
 Vienam partnerim ir iespējams pievienot vairākas adreses (biroja,
 deklarēto, noliktavas, u.c.) un vienu no tām aktivizējot kā galveno
 adresi, kas būs partnera noklusētā adrese:
@@ -18,7 +18,7 @@ pievienotos datus, nospiežot pogu .
 
 
 
-Visas partnerim pievienotās adreses tiek saglabātas`partneru
-sarakstā`_.
+Visas partnerim pievienotās adreses tiek saglabātas:doc:`partneru
+sarakstā<112>`.
 
  

@@ -1,9 +1,9 @@
-.. 842 ========================Potenciālie partneri======================== 
+.. 842 Potenciālie partneri************************ 
 
 
 Sarakstā tieksaglabāti visi Ozols datu bāzē pievienotie
-uzņēmuma`Potenciālais partner`_`i`_(gan fiziskas, gan juridiskas
-personas).
+uzņēmuma:doc:`Potenciālais partner<884>`:doc:`i<312>`(gan fiziskas,
+gan juridiskas personas).
 
 
 

@@ -1,11 +1,11 @@
-.. 675 ===================================Valūtu kursu svārstību aprēķins=================================== 
+.. 675 Valūtu kursu svārstību aprēķins*********************************** 
 
 Priekšnosacījumi valūtu kursa svārstību sekmīgam aprēķinam
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 1. Grāmatvediskajiem kontiem, kuriem nepieciešams rēķināt valūtu kursa
-svārstību, konta aprakstā, kas pieejams atverot kontu no `Kontu
-plāna`_, jābūt atzīmētai izvēles rūtiņai VKS:
+svārstību, konta aprakstā, kas pieejams atverot kontu no :doc:`Kontu
+plāna<114>`, jābūt atzīmētai izvēles rūtiņai VKS:
 
 
 
@@ -20,7 +20,7 @@ arī izvēles rūtiņa:
 
 
 
-2. Konfigurācijas kopīgajos `Grāmatojumu iestādījumos`_ jābūt
+2. Konfigurācijas kopīgajos :doc:`Grāmatojumu iestādījumos<707>` jābūt
 atzīmētiem kontiem:
 
 
@@ -29,9 +29,9 @@ atzīmētiem kontiem:
 
 
 
-3. Kopējajos sarakstos, sarakstā `Valūtu kursi`_, jābūt importētiem
-valūtu kursiem par periodu, par kuru nepieciešams veikt valūtu kursu
-svārstību aprēķinu:
+3. Kopējajos sarakstos, sarakstā :doc:`Valūtu kursi<230>`, jābūt
+importētiem valūtu kursiem par periodu, par kuru nepieciešams veikt
+valūtu kursu svārstību aprēķinu:
 
 
 
@@ -89,7 +89,7 @@ atvērt, izmantojot rīku joslā pieejamo komandpogu :
 
 
 Valūtu kursu svārstību aprēķina rezultātā izveidotie grāmatojumi
-pieejami `Grāmatojumu žurnālā`_, kur tos iespējams atlasīt,
+pieejami :doc:`Grāmatojumu žurnālā<131>`, kur tos iespējams atlasīt,
 grāmatojuma žurnāla filtrā, norādot attiecīgo grāmatojuma veidu:
 
 

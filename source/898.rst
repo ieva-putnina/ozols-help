@@ -1,8 +1,8 @@
-.. 898 ============================Citas informācijas veidi============================ 
+.. 898 Citas informācijas veidi**************************** 
 
 
 Sarakstā tiek saglabāti Citas informācijas veidi, kas tiek izmantot
-Personāla datu -`Citas informācijas`_aizpildīšanai.
+Personāla datu -:doc:`Citas informācijas<765>`aizpildīšanai.
 
 Lai pievienotu jaunu Citas informācijas veidu, rīku joslā jānospiež
 poga (Alt+P) un jāieraksta Informācijas veida nosaukums (Piemēram,

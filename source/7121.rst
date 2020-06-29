@@ -1,4 +1,4 @@
-.. 7121 ========Čeki======== 
+.. 7121 Čeki******** 
 Čeku žurnālā tiek saglabāti visi, no kases ieimportētie, realizācijas
 čeki. Dokumentu sarakstā tiek attēlots:
 
@@ -26,8 +26,8 @@ Pievienojot papildus kolonnas, iespējams redzēt arī papildus
 informāciju.
 
 Lai no ieimportētajiem realizācijas čekiem tiktu uzģenerēti pārdošanas
-dokumenti, kuri būs pieejami `pārdošanas dokumentu žurnālā`_, jāveic
-realizācijas dokumentu sagatavošanas funkcija:
+dokumenti, kuri būs pieejami :doc:`pārdošanas dokumentu žurnālā<204>`,
+jāveic realizācijas dokumentu sagatavošanas funkcija:
 
 
 
@@ -35,9 +35,9 @@ realizācijas dokumentu sagatavošanas funkcija:
 
 
 
-Kad šī funkcija ir veikta, `pārdošanas dokumentu žurnāla`_ tika
-pievienotas kases pavadzīmes ar Paskaidrojuma tekstu Realizācija no
-POS:
+Kad šī funkcija ir veikta, :doc:`pārdošanas dokumentu žurnāla<204>`
+tika pievienotas kases pavadzīmes ar Paskaidrojuma tekstu Realizācija
+no POS:
 
 
 
@@ -56,6 +56,6 @@ Klients):
 
 
 Kad Pircēja lauks aizpildīts, dokuments jāapstiprina un, ja
-nepieciešams, `jāiegrāmato`_.
+nepieciešams, :doc:`jāiegrāmato<14044>`.
 
  

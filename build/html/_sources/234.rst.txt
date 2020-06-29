@@ -1,10 +1,10 @@
-.. 234 ============================================Savstarpējo norēķinu salīdzināšanas akti============================================ 
+.. 234 Savstarpējo norēķinu salīdzināšanas akti******************************************** 
 
 
 
 Savstarpējo norēķinu salīdzināšanas dokumentu žurnālā saraksta
-veidātiek saglabāti izveidotie `Savstarpējo norēķinu salīdzināšanas
-akti`_.
+veidātiek saglabāti izveidotie :doc:`Savstarpējo norēķinu
+salīdzināšanas akti<342>`.
 
 
 

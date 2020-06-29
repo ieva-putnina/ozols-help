@@ -1,4 +1,4 @@
-.. 107 =========================================Nomenklatūras atlikumi perioda sākumā========================================= 
+.. 107 Nomenklatūras atlikumi perioda sākumā***************************************** 
 
 
 
@@ -6,8 +6,8 @@
 perioda sākumu.
 
 Lai atlasītu nomenklatūras atlikumus uz perioda sākumu, sadalījumā par
-`Noliktavām`_, jāizmanto datu atlases filtrs. Dati uz ekrāna tiek
-parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
+:doc:`Noliktavām<142>`, jāizmanto datu atlases filtrs. Dati uz ekrāna
+tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
 ekrāna formā. Ja filtrā izvēlēta konkrēta Noliktava, tad tiks atlasīti
 nomenklatūras atlikumi perioda sākumā tikai šajā Noliktavā. Filtru var
 uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot
@@ -37,9 +37,10 @@ atvērta ekrāna forma:
 
 
 
-Izvēloties atbilstošo`Noliktavu`_no saraksta, iespējams ievadīt
-nomenklatūras atlikumus perioda sākumā - norādot atbilstošo perioda
-sākuma atlikuma daudzumu, kopējo atlikuma summu un atbildīgo personu.
+Izvēloties atbilstošo:doc:`Noliktavu<142>`no saraksta, iespējams
+ievadīt nomenklatūras atlikumus perioda sākumā - norādot atbilstošo
+perioda sākuma atlikuma daudzumu, kopējo atlikuma summu un atbildīgo
+personu.
 
 
 
@@ -66,13 +67,13 @@ Datu labošana pievienotajos nomenklatūras atlikumos
 
 Labojumus saglabātajos ierakstosiespējams veikt atverotnomenklatūras
 atlikuma ierakstu, kurš pieejams apskatei/labošanai Dokumentu
-sarakstā:`Nomenklatūras atlikumi perioda sākumā`_. Lai labotu
+sarakstā::doc:`Nomenklatūras atlikumi perioda sākumā<107>`. Lai labotu
 pievienotos atlikumus, jāizmanto komandpoga (ALT+A),
 unatvērtajāierakstā iespējams veiktnepieciešamos labojumus ekrāna
 formā: Nomenklatūras atlikums perioda sākumā.
 
 Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
 
-``_
+:doc:`<107>`
 
  

@@ -1,7 +1,8 @@
-.. 131 =======================Grāmatojumu žurnāls======================= 
+.. 131 Grāmatojumu žurnāls*********************** 
 
 
-Dokumentu žurnālā tiek saglabāti visi izveidotie `Grāmatojumi`_.
+Dokumentu žurnālā tiek saglabāti visi izveidotie
+:doc:`Grāmatojumi<331>`.
 
 
 

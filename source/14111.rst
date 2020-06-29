@@ -1,23 +1,25 @@
-.. 14111 =================================Algu aprēķinu veikšanas shēma================================= 
+.. 14111 Algu aprēķinu veikšanas shēma********************************* 
 
 
 Lai veiktu algu aprēķinus, nepieciešams secīgi veikt šādas darbības:
 
 
 
-1. Algu perioda atvēršana -> Alga->Rīki->`Algu perioda atvēršana`_
+1. Algu perioda atvēršana -> Alga->Rīki->:doc:`Algu perioda
+atvēršana<499>`
 
 
 
-2. Avansu `Izmaksu saraksta`_ izveidošana
+2. Avansu :doc:`Izmaksu saraksta<238>` izveidošana
 
 
 
-3. Avansu izmaksu saraksta aizpildīšana no`Pārskaitījumu`_žurnāla
+3. Avansu izmaksu saraksta aizpildīšana
+no:doc:`Pārskaitījumu<294>`žurnāla
 
 
 
-4.Avansu `Izmaksu sarakstu`_ apstiprināšana
+4.Avansu :doc:`Izmaksu sarakstu<238>` apstiprināšana
 
 
 
@@ -30,12 +32,12 @@ sistēmu
 
 
 
-7. `Rīkojumu`_ ievadīšana strādājošajiem par attiecīgo algu aprēķina
-periodu
+7. :doc:`Rīkojumu<209>` ievadīšana strādājošajiem par attiecīgo algu
+aprēķina periodu
 
 
 
-8.Algu aprēķinu veikšana -> Alga->Rīki->`Algu aprēķins`_
+8.Algu aprēķinu veikšana -> Alga->Rīki->:doc:`Algu aprēķins<498>`
 
 
 
@@ -44,17 +46,17 @@ periodā
 
 
 
-10. Algu `Izmaksu sarakstu`_zveidošana
+10. Algu :doc:`Izmaksu sarakstu<238>`zveidošana
 
 
 
 11. Izmaksu sarakstu aizpildīšana no algu aprēķiniem ->
-Alga->Rīki->`Algu aprēķins`_-> Starpību starp aprēķināto un ieturēto
-palaist uz izmaksu sarakstiem
+Alga->Rīki->:doc:`Algu aprēķins<498>`-> Starpību starp aprēķināto un
+ieturēto palaist uz izmaksu sarakstiem
 
 
 
-12. `Izmaksu sarakstu`_ apstiprināšana
+12. :doc:`Izmaksu sarakstu<238>` apstiprināšana
 
 
 

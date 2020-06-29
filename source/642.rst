@@ -1,4 +1,4 @@
-.. 642 ====================================================================Pārskats par kultūras un citu pasākumu ieejas biļešu izlietojumu==================================================================== 
+.. 642 Pārskats par kultūras un citu pasākumu ieejas biļešu izlietojumu******************************************************************** 
 
 
 Atskaite tiek sagatavota norādītajam laika periodam. Atskaitē tiek
@@ -9,9 +9,9 @@ pasākumu ieejas biļešu atlikums norādītā perioda beigās.
 
 Lai sagatavotu atskaiti parkultūras un citu pasākumu ieejas
 biļešuizlietojumu, programmā jābūt ievadītiem datiem par
-iegādātajāmieejas biļetēm `Kultūras un citu pasākumu ieejas biļešu
-žurnālā`_un `Kases ieņēmumu orderos`_jānorāda, kurasieejas biļetes
-tiek izlietotas.
+iegādātajāmieejas biļetēm :doc:`Kultūras un citu pasākumu ieejas
+biļešu žurnālā<252>`un :doc:`Kases ieņēmumu orderos<350>`jānorāda,
+kurasieejas biļetes tiek izlietotas.
 Atskaite tiek sagatavota no pirmdokumentu datiem.
 
 

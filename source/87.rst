@@ -8,14 +8,14 @@ saglabāšanas pieejami CRM (Partneri) dokumentu žurnālos:
 
 
 
-`Atgādinātāji`_
+:doc:`Atgādinātāji<874>`
 
-`Korespondence`_
+:doc:`Korespondence<744>`
 
-`Notikumu žurnāls`_
+:doc:`Notikumu žurnāls<742>`
 
-`Piedāvājumu žurnāls`_
+:doc:`Piedāvājumu žurnāls<879>`
 
-`Ziņojumu žurnāls`_
+:doc:`Ziņojumu žurnāls<785>`
 
  .. toctree::   :maxdepth: 5    874.rst   917.rst   744.rst   932.rst   879.rst   296.rst   942.rst   742.rst   785.rst

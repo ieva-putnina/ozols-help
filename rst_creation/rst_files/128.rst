@@ -1,4 +1,4 @@
-.. 128 ===========================Profesiju klasifikators=========================== 
+.. 128 Profesiju klasifikators*************************** 
 Profesiju klasifikators (saraksts) tiek importēts programmas Ozols
 uzstādīšanas laikā.
 

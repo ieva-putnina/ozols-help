@@ -1,27 +1,27 @@
-.. 232 ===================Avansu norēķini=================== 
-Norēķinus ar `Avansu personām`_ grāmatvedības sistēmā Ozols var
-uzskaitīt izmantojot bankas, kases un avansa norēķinu dokumentus.
+.. 232 Avansu norēķini******************* 
+Norēķinus ar :doc:`Avansu personām<196>` grāmatvedības sistēmā Ozols
+var uzskaitīt izmantojot bankas, kases un avansa norēķinu dokumentus.
 Bankas un kases ieejošo un izejošo dokumentu veidi nodrošina izmaksāto
-un atpakaļ atgriezto avansu summu uzskaiti, bet `Avansa norēķina`_
-dokumentā tiek uzskaitīts avansu naudas izlietojums un automatizēti
-sarēķināts naudas atlikums avansu norēķinu personai.
+un atpakaļ atgriezto avansu summu uzskaiti, bet :doc:`Avansa
+norēķina<375>` dokumentā tiek uzskaitīts avansu naudas izlietojums un
+automatizēti sarēķināts naudas atlikums avansu norēķinu personai.
 
 Lai uzskaitītu avansu personai izsniegtās un atpakaļ atgrieztās
 summas, jāizmanto sekojoši bankas un kases dokumentu veidi:
 
-`Kases avansa maksājums`_
+:doc:`Kases avansa maksājums<471>`
 
-`Bankā izmaksāts avanss`_
+:doc:`Bankā izmaksāts avanss<469>`
 
-`Kasē atgriezts avanss`_
+:doc:`Kasē atgriezts avanss<474>`
 
-`Bankā atgriezts avanss`_
+:doc:`Bankā atgriezts avanss<473>`
 
 
 
 Tikai pareiza dokumentu veidu lietošana nodrošinās saņemto summu
-uzskaiti un atlikuma summas automatizētu aprēķinu ` Avansa norēķinu `_
-dokumentā.
+uzskaiti un atlikuma summas automatizētu aprēķinu :doc:` Avansa
+norēķinu <375>` dokumentā.
 
 
 

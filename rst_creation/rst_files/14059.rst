@@ -1,4 +1,4 @@
-.. 14059 ===========================================Finansu koda izvēle grāmatojuma šablonā=========================================== 
+.. 14059 Finansu koda izvēle grāmatojuma šablonā******************************************* 
 
 
 Grāmatojuma šablonā laukāFin.kat.(EK.kods) iespējams norādīt konkrētu

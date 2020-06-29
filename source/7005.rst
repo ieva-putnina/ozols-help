@@ -1,4 +1,4 @@
-.. 7005 ================Akciju veidi================ 
+.. 7005 Akciju veidi**************** 
 
 
 Sarakstā tiek saglabāti akciju veidi, kas tiek izmantoti jaunu Akciju
@@ -8,8 +8,8 @@ pievienošanai
 Jauna Akciju veida pievienošana:
 ++++++++++++++++++++++++++++++++
 
-Lai pievienotu jaunu `Akciju veidu`_rīku joslā jānospiež poga un tiks
-atvērts jauns logs:
+Lai pievienotu jaunu :doc:`Akciju veidu<7006>`rīku joslā jānospiež
+poga un tiks atvērts jauns logs:
 
 
 

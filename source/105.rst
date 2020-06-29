@@ -1,10 +1,10 @@
-.. 105 ==============Cenu veidi============== 
-Sarakstā tiek saglabāti cenu veidi, kas tiek izmantoti `Cenošanas
-dokumentos`_ dažādu cenu noteikšanai `precēm`_. Iespējams izveidot
-neierobežotu daudzumu cenu veidu, kurus iespējams piesaistīt pircējam
-, norādot atbilstošo cenu veidu`Partnera apraksta`_ sadaļā "Pārējie
-dati", lai tādā veidā atšķirīgām pircēju grupām varētu definēt
-atšķirīgus cenu veidus.
+.. 105 Cenu veidi************** 
+Sarakstā tiek saglabāti cenu veidi, kas tiek izmantoti :doc:`Cenošanas
+dokumentos<231>` dažādu cenu noteikšanai :doc:`precēm<106>`. Iespējams
+izveidot neierobežotu daudzumu cenu veidu, kurus iespējams piesaistīt
+pircējam , norādot atbilstošo cenu veidu:doc:`Partnera apraksta<312>`
+sadaļā "Pārējie dati", lai tādā veidā atšķirīgām pircēju grupām varētu
+definēt atšķirīgus cenu veidus.
 
 
 Jauna Cenu veida pievienošana

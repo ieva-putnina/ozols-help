@@ -1,4 +1,4 @@
-.. 705 ============Katalogi============ Kataloga konfigurācijā var norādīt uzziņas un palīdzības sistēmas
+.. 705 Katalogi************ Kataloga konfigurācijā var norādīt uzziņas un palīdzības sistēmas
 faila atrašanās vietu.
 
 

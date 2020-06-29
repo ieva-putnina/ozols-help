@@ -1,10 +1,10 @@
-.. 544 ===================Bankas izdevumi=================== 
-Bankas izdevumu atskaite parāda `bankas izdevumu dokumentu`_ sarakstu,
-atbilstoši datu atlases filtrā noteiktajiem kritērijiem. Atskaitē tiek
-iekļauti dati par dokumenta numuru, datumu, bankas kontu, partneri,
-darījuma summu. Atskaiti var sagatavot atsevišķi par katru no
-partneriem, atlasīt dokumentus pēc to veida, numura vai summas.
-Atskaiti var sagatavot:
+.. 544 Bankas izdevumi******************* 
+Bankas izdevumu atskaite parāda :doc:`bankas izdevumu dokumentu<347>`
+sarakstu, atbilstoši datu atlases filtrā noteiktajiem kritērijiem.
+Atskaitē tiek iekļauti dati par dokumenta numuru, datumu, bankas
+kontu, partneri, darījuma summu. Atskaiti var sagatavot atsevišķi par
+katru no partneriem, atlasīt dokumentus pēc to veida, numura vai
+summas. Atskaiti var sagatavot:
 - norādītajā laika periodā;
 - par vienu partneri;
 - atlasot dokumentus pēc to numura, summas, valūtas.

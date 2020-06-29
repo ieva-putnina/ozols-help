@@ -1,15 +1,15 @@
-.. 14086 ================================================Datu bāzes lietotāju tiesības darba režīmiem================================================ 
+.. 14086 Datu bāzes lietotāju tiesības darba režīmiem************************************************ 
 
 Datu bāzes lietotāji
 ++++++++++++++++++++
 
-Sistēmas lietotāji tiek noteikti sistēmas `Lietotāju sarakstā`_. Ja
-lietotājs nav pievienots lietotāju sarakstā, sākt darbu ar programmu
-nebūs iespējams. Pievienojot lietotājus, jānosaka lietotāju tiesības
-izmantot datubāzi, izmantot darba režīmus un uzņēmumu datus. Lietotāju
-tiesības nosaka, kādas būs iespējas izmantot datubāzes procedūras –
-vai lietotājs varēs tikai skatīt datus, vai varēs skatīt un saglabāt
-datus.
+Sistēmas lietotāji tiek noteikti sistēmas :doc:`Lietotāju
+sarakstā<194>`. Ja lietotājs nav pievienots lietotāju sarakstā, sākt
+darbu ar programmu nebūs iespējams. Pievienojot lietotājus, jānosaka
+lietotāju tiesības izmantot datubāzi, izmantot darba režīmus un
+uzņēmumu datus. Lietotāju tiesības nosaka, kādas būs iespējas izmantot
+datubāzes procedūras – vai lietotājs varēs tikai skatīt datus, vai
+varēs skatīt un saglabāt datus.
 
 
 Lietotāju grupu definēšana
@@ -17,11 +17,11 @@ Lietotāju grupu definēšana
 
 Lietotājus pēc tiesību apjoma, veida, izmantojamiem darba
 režīmiem,ieteicams apvienot grupās, piešķirot visai lietotāju grupai
-vienādas tiesības izmantot darba režīmus un uzņēmumu datus. `Lietotāju
-grupas`_ ir izmantojamas ātrākai un kvalitatīvākai lietotāju tiesību
-administrēšanai, nodrošinot vieglu datu bāzes tiesību noteikšanu
-lietotājiem, ja kādai lietotāju grupai ir jānodrošina noteiktu
-aktivitāšu kopums.
+vienādas tiesības izmantot darba režīmus un uzņēmumu datus.
+:doc:`Lietotāju grupas<162>` ir izmantojamas ātrākai un kvalitatīvākai
+lietotāju tiesību administrēšanai, nodrošinot vieglu datu bāzes
+tiesību noteikšanu lietotājiem, ja kādai lietotāju grupai ir
+jānodrošina noteiktu aktivitāšu kopums.
 
 Lietotāja definētās lomas attiecas tikai uz datu bāzes līmeni un tās
 ir lokālas datu bāzei, kurā tās tika izveidotas.Lietotāja definētās
@@ -30,10 +30,11 @@ fiksēto lomu „db_owner” vai „db_securityadmin” dalībnieks.
 
 
 
-Izmantojot datu bāzes `Lietotāju definētās lomas`_ un`Fiksētās datu
-bāzeslomas`_, iespējams definēt lietotāju tiesības darba režīmiem,
-uzņēmumiem un piešķirtajam tiesību apjomam. Tas nozīmē, vai
-attiecīgais sistēmas OZOLS darba režīms lietotāju grupai būs pieejams.
+Izmantojot datu bāzes :doc:`Lietotāju definētās lomas<14088>`
+un:doc:`Fiksētās datu bāzeslomas<14087>`, iespējams definēt lietotāju
+tiesības darba režīmiem, uzņēmumiem un piešķirtajam tiesību apjomam.
+Tas nozīmē, vai attiecīgais sistēmas OZOLS darba režīms lietotāju
+grupai būs pieejams.
 
 
 Lietotāju tiesības darba režīmiem
@@ -45,14 +46,15 @@ un citus tas izmantot nevarēs. Līdz ar to ir iespējams ierobežot
 lietotāja pieeju uzņēmuma informācijai, atbilstoši lietotāja darba
 pienākumiem.
 
-Kad ir izveidotas `Lietotāju grupas`_ un `Lietotāji`_ ir pievienoti
-atbilstošajām lietotāju grupām, jānosaka lietotāju tiesības izmantot
-pieejamos darba režīmus.
+Kad ir izveidotas :doc:`Lietotāju grupas<162>` un
+:doc:`Lietotāji<194>` ir pievienoti atbilstošajām lietotāju grupām,
+jānosaka lietotāju tiesības izmantot pieejamos darba režīmus.
 
 Tiesības darba režīmiem sistēmā OZOLS var izveidot sadaļā
-Konfigurācija->Lietotāji->`Lietotāju tiesības darba režīmiem`_
+Konfigurācija->Lietotāji->:doc:`Lietotāju tiesības darba
+režīmiem<169>`
 
 Tiesībasuzņēmumiem sistēmā OZOLS var izveidot sadaļā
-Konfigurācija->Lietotāji->`Lietotāju tiesības uzņēmumiem`_
+Konfigurācija->Lietotāji->:doc:`Lietotāju tiesības uzņēmumiem<190>`
 
  .. toctree::   :maxdepth: 4    14097.rst   14087.rst   14088.rst

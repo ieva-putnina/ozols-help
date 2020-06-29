@@ -1,4 +1,4 @@
-.. 1040 =================================================================Peļņas vai zaudējumu aprēķins (PZA2 - Pēc izdevumu funkcijām)================================================================= 
+.. 1040 Peļņas vai zaudējumu aprēķins (PZA2 - Pēc izdevumu funkcijām)***************************************************************** 
 Lai piekļūtu Peļņas vai zaudējuma formai “Peļņas vai zaudējuma
 aprēķins PZA 2 ”, ir nepieciešams to aktivizēt, piešķirot lietotājam
 tiesības redzēt šo atskaites formu. Tiesības piešķir administrators.

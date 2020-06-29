@@ -1,4 +1,4 @@
-.. 733 ================Individuālie================ 
+.. 733 Individuālie**************** 
 
 
 Katram lietotājam individuāli iespējams nodefinēt iestādījumus, kas
@@ -18,6 +18,6 @@ manuāli.
 
 Izmaksu summu automātiski ielikt izmaksu sarakstā - atzīmējot šo
 izvēles rūtiņu, aprēķinātā summa automātiski tiks nostūīta uz iepriekš
-sagatavoto Izmaksu sarakstu `Izmaksu sarakstu žurnālā.`_
+sagatavoto Izmaksu sarakstu :doc:`Izmaksu sarakstu žurnālā.<238>`
 
  

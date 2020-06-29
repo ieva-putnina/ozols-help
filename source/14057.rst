@@ -1,4 +1,4 @@
-.. 14057 ======================================Grāmatojuma šablona ieraksta veids====================================== 
+.. 14057 Grāmatojuma šablona ieraksta veids************************************** 
 
 
 Katra šablona rinda rezultāta grāmatojumā var radīt vienu vai vairākas

@@ -1,4 +1,4 @@
-.. 4487 ==============================Nomenklatūras norakstīšana============================== 
+.. 4487 Nomenklatūras norakstīšana****************************** 
 
 Nomenklatūras norakstīšanas dokumenta virsraksta aizpildīšana
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -21,9 +21,9 @@ nomainīt, nospiežot uz „Kalendāra” pogas lauka „Datums” labajā pusē
 
 
 Struktūrvienība : Informācija par lietotāja struktūrvienību, no kuras
-krājumi tiks norakstīti. Sadaļā `Konfigurācija`_ lietotājam, kurš ir
-kā atbildīgā persona vairākās struktūrvienībās, ir iespēja nomainīt
-(no saraksta izvēlēties) struktūrvienību, lai varētu veidotu
+krājumi tiks norakstīti. Sadaļā :doc:`Konfigurācija<4468>` lietotājam,
+kurš ir kā atbildīgā persona vairākās struktūrvienībās, ir iespēja
+nomainīt (no saraksta izvēlēties) struktūrvienību, lai varētu veidotu
 norakstīšanas dokumentu, kurā tiks norakstīti krājumi no izvēlētās
 struktūrvienības.
 
@@ -92,9 +92,9 @@ DOKUMENTA APSTIPRINĀŠANAS IERAKSTUS LABOT VAIRS NAV IESPĒJAMS!
 
 
 Pēc dokumenta apstiprināšanas, dokumentu iespējams izdrukāt:
-`Norakstīšanas akta izdruka`_
+:doc:`Norakstīšanas akta izdruka<14093>`
 
-Saglabātie dokumenti apskatei pieeja`Iekšējās kustības dokumentu
-žurnālā`_.
+Saglabātie dokumenti apskatei pieeja:doc:`Iekšējās kustības dokumentu
+žurnālā<4455>`.
 
  

@@ -1,4 +1,4 @@
-.. 14038 ========================================Jauna sarakstu ieraksta pievienošana======================================== 
+.. 14038 Jauna sarakstu ieraksta pievienošana**************************************** 
 
 
 Lai pievienotu jaunu saraksta ierakstu:

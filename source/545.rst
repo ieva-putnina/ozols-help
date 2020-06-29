@@ -1,6 +1,6 @@
-.. 545 ==================Kases izdevumi================== 
-Atskaitē tiek parādīta informācija par konkrētajiem `kases
-izdevumiem`_, kuri atlasīti pēc konkrētajiem atlases kritērijiem.
+.. 545 Kases izdevumi****************** 
+Atskaitē tiek parādīta informācija par konkrētajiem :doc:`kases
+izdevumiem<332>`, kuri atlasīti pēc konkrētajiem atlases kritērijiem.
 Atskaite tiek sagatavota no pirmdokumentu datiem.
 
 

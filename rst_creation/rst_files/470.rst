@@ -1,13 +1,14 @@
-.. 470 ===========================================Naudas pārsūtīšana starp bankas kontiem=========================================== 
+.. 470 Naudas pārsūtīšana starp bankas kontiem******************************************* 
 
 
 Naudas pārsūtīšanas dokuments jāizmanto, kad uzņēmums pārskaita naudu
-starp saviem uzņēmuma `Banku kontiem`_. Naudas pārsūtīšanas dokumenta
-izdruka ir maksājuma uzdevums, bet tas noformē vienlaicīgi divas
-operācijas - bankas izdevumus vienā kontā un bankas ieņēmums otrā
-uzņēmuma kontā. Naudas pārsūtīšanas dokuments vienlaicīgi tiek
-parādīts atbilstošās bankas konta `Bankas ieņēmumu`_un `Bankas
-izdevumu`_žurnālā. Dokumenta izdruka ir standarta maksājuma uzdevums.
+starp saviem uzņēmuma :doc:`Banku kontiem<141>`. Naudas pārsūtīšanas
+dokumenta izdruka ir maksājuma uzdevums, bet tas noformē vienlaicīgi
+divas operācijas - bankas izdevumus vienā kontā un bankas ieņēmums
+otrā uzņēmuma kontā. Naudas pārsūtīšanas dokuments vienlaicīgi tiek
+parādīts atbilstošās bankas konta :doc:`Bankas ieņēmumu<226>`un
+:doc:`Bankas izdevumu<224>`žurnālā. Dokumenta izdruka ir standarta
+maksājuma uzdevums.
 
 
 JaunaNaudas pārsūtīšanas dokumentapievienošana
@@ -69,7 +70,7 @@ pārskaitījums tiks noformēts:
 
 Izvēloties nepieciešamo Bankas kontu, uz kuru nauda tiks pārsūtīta,
 lauki Nor.konts , Reģ.nr. , Banka un Kods tiks aizpildīti automātiski
-no `Uzņēmuma bankas konta apraksta`_.
+no :doc:`Uzņēmuma bankas konta apraksta<141>`.
 
 
 Dokumenta Naudas pārsūtīšana starp bankas kontiemSatura aizpildīšana
@@ -92,8 +93,8 @@ Maksājuma dokumenta Mērķa un Satura aizpildīšana
 Maksājuma dokumentu lauki Mērķis un Saturs tiek drukāti maksājuma
 uzdevuma rindā Maksājuma mērķis.
 
-Lauku Mērķis , iespējams aizpildīt manuāli vai izvēloties no `Bankas
-paskaidrojumu saraksta`_:
+Lauku Mērķis , iespējams aizpildīt manuāli vai izvēloties no
+:doc:`Bankas paskaidrojumu saraksta<147>`:
 
 
 
@@ -113,10 +114,10 @@ summu:
 
 
 Sagatavojot Naudas pārsūtīšanu starp bankas kontiem, dokumentam, kurš
-sagatavots izvēloties uzņēmuma `Banku kontu`_, kuram piesaistīta kāda
-no `Bankas elektronisko norēķinu sistēmām`_, ekrāna formā automātiski
-ir aktivizēta izvēle Eksportēt uz bankas elektronisko norēķinu
-sistēmu:
+sagatavots izvēloties uzņēmuma :doc:`Banku kontu<141>`, kuram
+piesaistīta kāda no :doc:`Bankas elektronisko norēķinu sistēmām<160>`,
+ekrāna formā automātiski ir aktivizēta izvēle Eksportēt uz bankas
+elektronisko norēķinu sistēmu:
 
 
 
@@ -125,8 +126,8 @@ sistēmu:
 
 
 Visi dokumenti, kuriem ir šāda izvēle, var tik eksportēti uz
-elektronisko banku norēķinu sistēmu, lai būtu iespējams veikt `Datu
-apmaiņu ar banku`_.
+elektronisko banku norēķinu sistēmu, lai būtu iespējams veikt
+:doc:`Datu apmaiņu ar banku<451>`.
 
 
 
@@ -134,8 +135,8 @@ Kad visi nepieciešamie lauki ir aizpildīti,Naudas pārsūtīšanas
 dokumentsir sagatavots un to ir iespējams:
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai vienlaicīgi`Bankas izdevumu`_un
-`Bankas ieņēmumu`_žurnālos.
+apskatei/labošanai/grāmatošanai vienlaicīgi:doc:`Bankas
+izdevumu<224>`un :doc:`Bankas ieņēmumu<226>`žurnālos.
 
 2. Apstiprināt, nospiežot rīku joslā pogu -Naudas pārsūtīšanas
 dokumentstiks Apstiprināts un to būs iespējams Grāmatot.
@@ -145,8 +146,8 @@ Naudas pārsūtīšanas dokumenta starp bankas kontiem grāmatošana
 ``````````````````````````````````````````````````````````````
 
 Naudas pārsūtīšanas dokumentuiespējams grāmatot no atvērta dokumenta
-vai izvēloties (iezīmējot)dokumentu `Bankas izdevumu`_vai `Bankas
-ieņēmumu`_žurnālā.
+vai izvēloties (iezīmējot)dokumentu :doc:`Bankas izdevumu<224>`vai
+:doc:`Bankas ieņēmumu<226>`žurnālā.
 
 Lai iegrāmatotu Naudas pārsūtīšanu starp bankas kontiem, dokumentu
 nepieciešams Apstiprināt, nospiežot rīku joslā pogu .
@@ -156,15 +157,15 @@ pogu .
 
 
 
-Instrukcija - `Dokumentu grāmatošanas principi`_
+Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
 
 
 PievienotāNaudas pārsūtīšanas starp bankas kontiem dokumentalabošana
 ````````````````````````````````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Naudas
-pārsūtīšanas dokumentu, kurš pieejams apskatei/labošanai `Bankas
-izdevumu`_vai `Bankas ieņēmumu`_žurnālā. Lai veiktu
+pārsūtīšanas dokumentu, kurš pieejams apskatei/labošanai :doc:`Bankas
+izdevumu<224>`vai :doc:`Bankas ieņēmumu<226>`žurnālā. Lai veiktu
 labojumus,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 

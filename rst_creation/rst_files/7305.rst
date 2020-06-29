@@ -1,6 +1,6 @@
-.. 7305 ===========Persona=========== 
-Pievienotās personas tiek saglabātas `personu sarakstā`_. Personu
-saraksts tiek izmantots `notikumu`_ pievienošanā.
+.. 7305 Persona*********** 
+Pievienotās personas tiek saglabātas :doc:`personu sarakstā<7314>`.
+Personu saraksts tiek izmantots :doc:`notikumu<7308>` pievienošanā.
 
 
 

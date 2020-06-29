@@ -1,8 +1,8 @@
-.. 562 ===========Bilance=========== 
+.. 562 Bilance*********** 
 
 
 Bilance ir konfigurējama atskaite, kas tiek saglabāta atskaišu
-`Sarakstā`_. Bilance tiek izveidota pēc sastādītās atskaites
+:doc:`Sarakstā<531>`. Bilance tiek izveidota pēc sastādītās atskaites
 konfigurācijas. Atskaites konfigurācijā jāpievieno bilances rindas,
 atbilstoši gada pārskata veidlapas prasībām, un izteiksmes
 grāmatvedības datu ievietošanai bilances rindās.
@@ -10,7 +10,7 @@ grāmatvedības datu ievietošanai bilances rindās.
 
 
 Lai būtu iespējams sagatavot atskaiti - Bilance,iepriekš jābūt
-izveidotai `Grāmatojumu atskaišu konfigurācijai`_.
+izveidotai :doc:`Grāmatojumu atskaišu konfigurācijai<179>`.
 
 
 Atskaites - Bilance - sagatavošana
@@ -26,8 +26,8 @@ sagatavota:
 
 
 
-2. Nepieciešams norādīt attiecīgo profilu - `atskaites
-konfigurāciju`_, pēc kādiem konfigurācijas datiem atskaite tiks
+2. Nepieciešams norādīt attiecīgo profilu - :doc:`atskaites
+konfigurāciju<179>`, pēc kādiem konfigurācijas datiem atskaite tiks
 sagatavota:
 
 
@@ -94,13 +94,14 @@ formu, to var papildināt neaizverot atskaiti.
 
 
 
-8. Ja pēc atskaites sagatavošanas veiktas izmaiņas `atskaites
-konfigurācijā`_, atskaiti pēc izmanītās konfigurācijas datiem var
+8. Ja pēc atskaites sagatavošanas veiktas izmaiņas :doc:`atskaites
+konfigurācijā<179>`, atskaiti pēc izmanītās konfigurācijas datiem var
 pārrēķināt, nospiežot pogu: . Pārrēķinot atskaiti, tajā tiek parādīti
 jaunākie dati.
 
-9. Sagatavoto atskaiti iespējams saglabāt `VID atskaišu sarakstā`_,
-kur tā būs pieejama labošanai/drukāšanai, nospiežot pogu: .
+9. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
+sarakstā<531>`, kur tā būs pieejama labošanai/drukāšanai, nospiežot
+pogu: .
 
 
 

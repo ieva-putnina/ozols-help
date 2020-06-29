@@ -1,4 +1,4 @@
-.. 177 =================Paskaidrojumi================= 
+.. 177 Paskaidrojumi***************** 
 Avansu paskaidrojumi ir saraksts, kurā tiek saglabāti biežāk
 izmantotie Avansa norēķina Virsraksta paskaidrojuma teksti.
 Paskaidrojumu saraksta dati tiek izmantoti Avansa norēķina dokumenta

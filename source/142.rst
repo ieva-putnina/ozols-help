@@ -1,4 +1,4 @@
-.. 142 ==============Noliktavas============== 
+.. 142 Noliktavas************** 
 
 
 Sarakstā tiek saglabātas uzņēmuma Noliktavas, un tajā var pievienot
@@ -26,8 +26,8 @@ Noliktavas nosaukums), Noliktavas Nosaukums , iespēja norādīt
 Noliktavas fizisko atrašanās adresi – preču saņemšanas un izsniegšanas
 vietu.
 
-Noliktavai ir iespējams piesaistīt konkrētu `Struktūrvienību`_ no
-kopējā struktūrvienību saraksta:
+Noliktavai ir iespējams piesaistīt konkrētu
+:doc:`Struktūrvienību<117>` no kopējā struktūrvienību saraksta:
 
 
 
@@ -36,7 +36,7 @@ kopējā struktūrvienību saraksta:
 
 
 Konfigurācijas iestādījumos >Konfigurācija > Iestādījumi > Kopīgie >
-`Noliktava`_ – iespējams atzīmēt izvēles rūtiņu "Iepirkumu un
+:doc:`Noliktava<716>` – iespējams atzīmēt izvēles rūtiņu "Iepirkumu un
 pārdošanas dokumentos noklusēto struktūrvienību ņemt no noliktavas",
 lai iepirkumu un pārdošanas dokumentos noklusētā struktūrvienība tiktu
 ņemta no noliktavas.
@@ -56,8 +56,8 @@ uzrādīta pēc noklusējuma.
 
 
 Katrai izveidotajai Noliktavai ir iespēja piesaistīt konkrētas
-nomenklatūras `Grupas`_, noliktavas aprakstā – nomenklatūras grupas,
-atzīmējot nepieciešamās grupas:
+nomenklatūras :doc:`Grupas<148>`, noliktavas aprakstā – nomenklatūras
+grupas, atzīmējot nepieciešamās grupas:
 
 
 

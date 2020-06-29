@@ -1,4 +1,4 @@
-.. 702 ==========Ekrāns========== Ekrāna konfigurācijas informācija tiek izmantota darbā ar programmas
+.. 702 Ekrāns********** Ekrāna konfigurācijas informācija tiek izmantota darbā ar programmas
 datiem. Ekrāna un izdrukas iestādījumi nosaka, kāds būs programmā
 izmantojamo ekrāna formu fons, vai tiks izsaukti drošības jautājumi un
 kādi būs dokumentu izdrukāšanas nosacījumi. Konfigurācija nosaka
@@ -18,7 +18,8 @@ bet lietotājs var izvēlēties lietošanai citas.
 
 **Izdruka**
 Izdrukas nosacījumu izvēle. Komanda Vienmēr izsaukt izdrukas dialogu
-aktivizē komandu Izdrukas parametri `drukāšanas`_ darba režīma formā.
+aktivizē komandu Izdrukas parametri :doc:`drukāšanas` darba režīma
+formā.
 
 **Fonti**
 Sistēmas darba režīmiem iespējams mainīt fontu izmērus.

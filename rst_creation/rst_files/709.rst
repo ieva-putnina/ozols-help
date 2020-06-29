@@ -1,4 +1,4 @@
-.. 709 =============Noliktava============= 
+.. 709 Noliktava************* 
 Preču noliktavas konfigurācijā var noteikt preču meklēšanas darba
 režīma aktivizēšanas nosacījumus, maksimāli pieļaujamo ierakstu skaitu
 pārdošanas dokumentā, piedāvājuma sagatavošanas veidu.

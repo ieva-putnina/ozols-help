@@ -1,4 +1,4 @@
-.. 737 ===================Rezerves kopija=================== 
+.. 737 Rezerves kopija******************* 
 
 
 Rīks ir paredzēts, lai izveidot datu bāzes rezerves kopiju datora

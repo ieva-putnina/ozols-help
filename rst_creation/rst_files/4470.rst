@@ -1,5 +1,6 @@
-.. 4470 ============Kampaņas============ 
-Kapmaņu sarakstā tiek saglabātas visas `pievienotās kampaņas`_.
+.. 4470 Kampaņas************ 
+Kapmaņu sarakstā tiek saglabātas visas :doc:`pievienotās
+kampaņas<4469>`.
 
 
 

@@ -1,4 +1,4 @@
-.. 546 =======================Bankas kopsavilkums======================= 
+.. 546 Bankas kopsavilkums*********************** 
 
 
 Bankas kopsavilkuma atskaite ir bankas izdevumu un ieņēmumu

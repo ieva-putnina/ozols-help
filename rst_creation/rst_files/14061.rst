@@ -1,4 +1,4 @@
-.. 14061 =========================================================Grāmatojuma šablona veidošana partneru datu uzskaitei========================================================= 
+.. 14061 Grāmatojuma šablona veidošana partneru datu uzskaitei********************************************************* 
 
 
 Lai grāmatojumā tiktu pievienots partneris, šablona laukā partneris

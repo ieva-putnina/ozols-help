@@ -1,4 +1,4 @@
-.. 14131 ====================================================================Neapliekamā minimuma un atvieglojuma summu samazināšana aprēķinā==================================================================== 
+.. 14131 Neapliekamā minimuma un atvieglojuma summu samazināšana aprēķinā******************************************************************** 
 
 
 Algu konfigurācija nosaka, ja darbiniekam ir jāsamazina neapliekamā

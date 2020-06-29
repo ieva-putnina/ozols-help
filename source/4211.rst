@@ -1,4 +1,4 @@
-.. 4211 ================================Neatšifrētie bankas ieņēmumi================================ 
+.. 4211 Neatšifrētie bankas ieņēmumi******************************** 
 Bankas ieņēmumus veido visi ieejošie maksājumi, kas saņemti no
 uzņēmuma partneriem. Neatšifrēto bankas ieņēmumu sarakstā tiek
 parādīti tie bankas ieņēmumi, kuriem dokumentā - bankas ieejošais

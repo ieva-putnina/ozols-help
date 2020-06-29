@@ -1,4 +1,4 @@
-.. 14034 =======================Dokumentu drukāšana======================= 
+.. 14034 Dokumentu drukāšana*********************** 
 
 
 Grāmatvedības sistēmas "Ozols" datorprogrammās var izdrukāt

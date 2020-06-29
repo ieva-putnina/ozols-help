@@ -1,9 +1,9 @@
-.. 7307 ===========Darbība=========== 
-Pievienotās un saglabātās darbības tiek saglabātas `darbības
-sarakstā`_.
+.. 7307 Darbība*********** 
+Pievienotās un saglabātās darbības tiek saglabātas :doc:`darbības
+sarakstā<7316>`.
 
-Darbību sarakststiek izmantotas `notikumu `_pievienošanā `atskaišu`_
-sagatavošanā.
+Darbību sarakststiek izmantotas :doc:`notikumu <7308>`pievienošanā
+:doc:`atskaišu<7317>` sagatavošanā.
 
 
 

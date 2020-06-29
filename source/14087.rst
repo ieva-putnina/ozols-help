@@ -1,4 +1,4 @@
-.. 14087 =============================Fiksētās datu bāzes lomas============================= 
+.. 14087 Fiksētās datu bāzes lomas***************************** 
 
 
 Fiksētās datu bāzes lomas ir definētas datu bāzes līmeni un eksistē

@@ -1,8 +1,9 @@
 .. 7001 ============Saraksti============ 
 
 
-Dividenžu sarakstos nepieciešams pievienot uzņēmumā noteiktos `Akciju
-veidus`_ un nodefinēt`Koeficientus`_noteiktam laika periodam, lai
-sekmīgi būtu iespējams veikt `Dividenžu aprēķinu`_.
+Dividenžu sarakstos nepieciešams pievienot uzņēmumā noteiktos
+:doc:`Akciju veidus<7006>` un
+nodefinēt:doc:`Koeficientus<7008>`noteiktam laika periodam, lai
+sekmīgi būtu iespējams veikt :doc:`Dividenžu aprēķinu<7011>`.
 
  .. toctree::   :maxdepth: 5    7005.rst   7006.rst   7007.rst   7008.rst

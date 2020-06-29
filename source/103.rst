@@ -11,10 +11,10 @@ nosaukums (LATVIA).
 
 
 
-Valstu sarakstu izmanto pievienojot`Partneri`_ un aizpildot
-`Pamatlīdzekļu ienākšanas dokumentu`_virsrakstu. Lai apskatītu
-detalizētāku izvēlētās Valsts aprakstu, jānospiež Rīku joslā poga
-(ALT+A), tiek atvērts logs:
+Valstu sarakstu izmanto pievienojot:doc:`Partneri<312>` un aizpildot
+:doc:`Pamatlīdzekļu ienākšanas dokumentu<433>`virsrakstu. Lai
+apskatītu detalizētāku izvēlētās Valsts aprakstu, jānospiež Rīku joslā
+poga (ALT+A), tiek atvērts logs:
 
 
 

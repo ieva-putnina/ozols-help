@@ -1,4 +1,4 @@
-.. 533 ===================================================================PVN1-I: Pārskats par priekšnodokļa summām kas saņemtas iekšzemē=================================================================== 
+.. 533 PVN1-I: Pārskats par priekšnodokļa summām kas saņemtas iekšzemē******************************************************************* 
 
 
 PVN deklarācijas pielikums tiek sagatavots Ministru kabineta noteiktās
@@ -6,16 +6,16 @@ veidlapas veidā. Atskaites filtrā var noteikt darījuma nodokļa
 lielumu, kas ir jāparāda kā atsevišķš ieraksts. Atskaite sastāv no
 ekrāna formām Dati, Virsraksts, Papildus. No iekļauto darījumu datiem
 var atvērt pirmdokumentu vai pašu grāmatojumu. Atskaiti var saglabāt
-atskaišu `Sarakstā`_, un atskaites datus nepieciešamības gadījumā var
-pārrēķināt. Atskaite tiek sagatavota, paskaidrojot PVN deklarācijā
-uzrādīto priekšnodokļa summu, iekļaujot iepirkuma dokumentu datus vai
-maksājuma uzdevumu datus.
+atskaišu :doc:`Sarakstā<531>`, un atskaites datus nepieciešamības
+gadījumā var pārrēķināt. Atskaite tiek sagatavota, paskaidrojot PVN
+deklarācijā uzrādīto priekšnodokļa summu, iekļaujot iepirkuma
+dokumentu datus vai maksājuma uzdevumu datus.
 
 
 
 Lai būtu iespējams sagatavot Pārskatu par priekšnodokļa
-summām,iepriekš jābūt izveidotai `Grāmatojumu atskaišu
-konfigurācijai`_.
+summām,iepriekš jābūt izveidotai :doc:`Grāmatojumu atskaišu
+konfigurācijai<179>`.
 
 
 Pārskata par priekšnodokļa summām (PVN 1.pielikums)sagatavošana
@@ -33,8 +33,8 @@ pēc kādiem atskaite tiks sagatavota:
 
 
 
-2. Nepieciešams norādīt attiecīgo profilu - `atskaites
-konfigurāciju`_, pēc kādiem konfigurācijas datiem atskaite tiks
+2. Nepieciešams norādīt attiecīgo profilu - :doc:`atskaites
+konfigurāciju<179>`, pēc kādiem konfigurācijas datiem atskaite tiks
 sagatavota:
 
 
@@ -111,13 +111,14 @@ to var papildināt neaizverot atskaiti.
 
 
 
-9. Ja pēc atskaites sagatavošanas veiktas izmaiņas `atskaites
-konfigurācijā`_, atskaiti pēc izmanītās konfigurācijas datiem var
+9. Ja pēc atskaites sagatavošanas veiktas izmaiņas :doc:`atskaites
+konfigurācijā<179>`, atskaiti pēc izmanītās konfigurācijas datiem var
 pārrēķināt, nospiežot pogu: . Pārrēķinot atskaiti, tajā tiek parādīti
 jaunākie dati.
 
-10. Sagatavoto atskaiti iespējams saglabāt `VID atskaišu sarakstā`_,
-kur tā būs pieejama labošanai/drukāšanai, nospiežot pogu: .
+10. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
+sarakstā<531>`, kur tā būs pieejama labošanai/drukāšanai, nospiežot
+pogu: .
 
 
 

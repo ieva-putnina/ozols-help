@@ -1,4 +1,4 @@
-.. 14047 =======================Dokumenta anulēšana======================= 
+.. 14047 Dokumenta anulēšana*********************** 
 
 
 Anulēt dokumentu var no atvērtas dokumenta formas vai no dokumenta

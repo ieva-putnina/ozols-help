@@ -1,4 +1,4 @@
-.. 5045 =====================Budžeti (grupēti)===================== 
+.. 5045 Budžeti (grupēti)********************* 
 Lai sagatavotu atskaiti par budžetu, grupētu pēc konkrēta kritērija,
 filtra parametros jānorādakritēriji pēc kuriem tiks sagatavota budžetu
 atskaite un jāatzīmē pēc kā tiks sagrupēta.
@@ -21,8 +21,8 @@ No sagatavotās sagrupētāsatskaites ir iespējams atvērt pārlūku, kurā
 tiek attēloti budžetu dati nesagrupētā veidā.Lai atvērtu ierakstu
 pārlūku, jāaktivizē konkrētais ierakst, atverot jaunā pārlūka logā
 detalizētu atskaiti, un no detalizētās atskaites iespējams atvērt jau
-konkrēto budžeta dokumentu ar summas sadalījumu pa EKK kā `Budžetu
-atskaiti`_:
+konkrēto budžeta dokumentu ar summas sadalījumu pa EKK kā
+:doc:`Budžetu atskaiti<5064>`:
 
 
 

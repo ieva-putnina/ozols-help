@@ -1,4 +1,4 @@
-.. 523 =======================Konta korespondence======================= 
+.. 523 Konta korespondence*********************** 
 
 
 Atskaite parāda konta apgrozījumu pa korespondējošajiem kontiem
@@ -9,7 +9,7 @@ sarēķināts datu atlases filtrā norādītā konta debeta vai kredīta
 sākuma un beigu atlikums.
 
 Iezīmējot korespondējošo kontu ierakstus, no atskaites var atvērt
-`Operāciju pārskatu`_.
+:doc:`Operāciju pārskatu<521>`.
 
 
 

@@ -1,9 +1,9 @@
-.. 14085 ==================================================================Polises maksājumu plānā definēto izrakstīto rēķinu grāmatošana================================================================== 
+.. 14085 Polises maksājumu plānā definēto izrakstīto rēķinu grāmatošana****************************************************************** 
 
 
 Rēķins, kurš izrakstīts, balstoties uz Polises aprakstā definēto
 Maksājumu plānu, tiek grāmatots atbilstoši izveidotajam Pārdošanas
-dokumentu-turpmāko maksājumu`Grāmatojuma šablonam`_:
+dokumentu-turpmāko maksājumu:doc:`Grāmatojuma šablonam<14083>`:
 
 
 
@@ -13,8 +13,8 @@ dokumentu-turpmāko maksājumu`Grāmatojuma šablonam`_:
 
 Izveidotais grāmatojums pieejams Polises aprakstā, sadaļā
 "Grāmatojumi", kā arī, ja papildus Polišu modulim iegādāts Ozols bāzes
-modulis, grāmatojums pieejams `Grāmatojumu žurnālā`_, atlasot datus
-pēc grāmatojuma veida "Pārdošanas dokumenti(RRD)".
+modulis, grāmatojums pieejams :doc:`Grāmatojumu žurnālā<131>`, atlasot
+datus pēc grāmatojuma veida "Pārdošanas dokumenti(RRD)".
 
 
 

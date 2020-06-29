@@ -1,4 +1,4 @@
-.. 14066 ===================================Datu bāzes versijas atjaunošana=================================== 
+.. 14066 Datu bāzes versijas atjaunošana*********************************** 
 
 
 Programmas periodiska atjaunošana ir nepieciešama, lai varētu strādāt
@@ -21,7 +21,7 @@ iespējama izmantojot klienta programmas interfeisu.
 Atjaunošanas ekrāna formu var izsaukt no:
 +++++++++++++++++++++++++++++++++++++++++
 
-1. Rīki->`Programmas jauninājumi`_:
+1. Rīki->:doc:`Programmas jauninājumi<721>`:
 
 
 
@@ -29,8 +29,8 @@ Atjaunošanas ekrāna formu var izsaukt no:
 
 
 
-2. Konfigurācija->`Lietotāja reģistrācijas loga`_, nospiežot taustiņu
-kombināciju CTRL+ALT+M:
+2. Konfigurācija->:doc:`Lietotāja reģistrācijas loga<706>`, nospiežot
+taustiņu kombināciju CTRL+ALT+M:
 
 
 
@@ -81,11 +81,11 @@ Internetam.
   paziņojumi par pretējo, tad tiks parādīts paziņojums par sekmīgu darba
   uzstartēšanu: 3. Jaunākas versijas uzstādīšana ilgst aptuveni 10-25
   minūtes (atkarīgs no servera datora ātrdarbības). SQL servera darba
-  izpildes vēsturei var sekot nospiežot pogu un tiks atvērts `Darba
-  izpildes logs`_. Ja programmas uzstādīšanas procedūra ir noritējusi
-  veiksmīgi , tad SQL servera darba vēstures kolonnā „Rezultāts” ir
-  ieraksts „Succeeded”.Lai ielādētu jaunāko programmas versiju,
-  nepieciešams aizvērt programmu un nākamajā pieslēgšanās reizē,
-  izvēlēties opciju: Ielādēt:
+  izpildes vēsturei var sekot nospiežot pogu un tiks atvērts :doc:`Darba
+  izpildes logs<735>`. Ja programmas uzstādīšanas procedūra ir
+  noritējusi veiksmīgi , tad SQL servera darba vēstures kolonnā
+  „Rezultāts” ir ieraksts „Succeeded”.Lai ielādētu jaunāko programmas
+  versiju, nepieciešams aizvērt programmu un nākamajā pieslēgšanās
+  reizē, izvēlēties opciju: Ielādēt:
 
  .. toctree::   :maxdepth: 4    14094.rst

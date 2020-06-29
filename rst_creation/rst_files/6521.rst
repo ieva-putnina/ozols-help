@@ -1,4 +1,4 @@
-.. 6521 ==========Polise========== 
+.. 6521 Polise********** 
 
 
 Darba režīms Polise paredzēts pilnas informācijas iegūšanai par Polisi

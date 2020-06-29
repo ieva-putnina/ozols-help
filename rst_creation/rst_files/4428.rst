@@ -1,6 +1,6 @@
-.. 4428 ===================Kontaktpersonas=================== 
-Kontaktpersonu sarakstā tiek saglabāti visi `kontaktpersonu`_
-pievienotie dati.
+.. 4428 Kontaktpersonas******************* 
+Kontaktpersonu sarakstā tiek saglabāti visi
+:doc:`kontaktpersonu<4438>` pievienotie dati.
 
 
 
@@ -10,7 +10,7 @@ pievienotie dati.
 
 
 
-Kontaktpersonu sarakstā, nospiežot pogu , iespējams `pievienot jaunu
-kontaktpersonu`_.
+Kontaktpersonu sarakstā, nospiežot pogu , iespējams :doc:`pievienot
+jaunu kontaktpersonu<4438>`.
 
  

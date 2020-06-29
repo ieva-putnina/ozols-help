@@ -1,4 +1,4 @@
-.. 6517 =============================Polišu komisijas aprēķins============================= 
+.. 6517 Polišu komisijas aprēķins***************************** 
 
 Priekšnosacījumi brokeru komisijas sekmīgam aprēķinam
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -27,8 +27,8 @@ aprēķins tiks veikts:
 
 2. Izvēloties nepieciešamo aprēķina periodu, nospiežot pogu tiks
 aprēķinātas Polišu komisijas, balstoties uz
-Konfigurācija>Iestādījumi>Kopīgie>`Dažādi`_ noteikto Brokera komisijas
-aprēķina algoritmu:
+Konfigurācija>Iestādījumi>Kopīgie>:doc:`Dažādi<739>` noteikto Brokera
+komisijas aprēķina algoritmu:
 
 
 

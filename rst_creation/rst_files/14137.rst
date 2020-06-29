@@ -7,25 +7,26 @@ Kas jāzina uzsākot darbu ar sistēmu Ozols:
 galvenais darbarīks
 
 
-2. `šeit atradīsiet pamatnostādnes darba uzsākšanai`_
+2. :doc:`šeit atradīsiet pamatnostādnes darba uzsākšanai<14133>`
 
 3. Šīs instrukcijas Jums sniegs ieskatu sistēmas Ozols lietošanā:
 
 
-+ `Instrukcija sākotnējo klasifikatoru pielāgošanai`_
-+ `Instrukcija partneru/kontaktpersonu pievienošanai`_
-+ `Instrukcija norēķinu dokumentu (iepirkumi/pārdošana) izveidošanai`_
-+ `Instrukcija bankas maksājuma uzdevumu izveidošanai`_
-+ `Instrukcija bankas ienākošo maksājumu importam/bankas izejošo
-  maksājumu eksportam (datu apmaiņa ar banku)`_
-+ `Instrukcija algu aprēķina veikšanai`_
-+ `Instrukcija personāla datu ievadei`_
++ :doc:`Instrukcija sākotnējo klasifikatoru pielāgošanai`
++ :doc:`Instrukcija partneru/kontaktpersonu pievienošanai`
++ :doc:`Instrukcija norēķinu dokumentu (iepirkumi/pārdošana)
+  izveidošanai`
++ :doc:`Instrukcija bankas maksājuma uzdevumu izveidošanai`
++ :doc:`Instrukcija bankas ienākošo maksājumu importam/bankas izejošo
+  maksājumu eksportam (datu apmaiņa ar banku)`
++ :doc:`Instrukcija algu aprēķina veikšanai`
++ :doc:`Instrukcija personāla datu ievadei`
 
 4. Lai uzsāktu darbu ar OZOLS, nepieciešams uzstādīt OZOLS
 programmatūru uz datora no šīs saites:
 
 
-+ `http://download.ozols.lv/ozols/setups/Ozols365_setup.exe`_
++ :doc:`http://download.ozols.lv/ozols/setups/Ozols365_setup.exe`
 
 
  

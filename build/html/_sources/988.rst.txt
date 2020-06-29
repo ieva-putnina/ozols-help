@@ -1,4 +1,4 @@
-.. 988 =============Intrastat============= 
+.. 988 Intrastat************* 
 
 
 INTRASTAT pārskatu iesniedz tie PVN maksātāji, kuru apgrozījums
@@ -13,7 +13,7 @@ papildmērvienībās.
 
 
 
-` `_Atskaites sagatavošana: `Ievedums–Intrastat–1A`_
+:doc:` <990>`Atskaites sagatavošana: :doc:`Ievedums–Intrastat–1A<990>`
 
 
 

@@ -1,14 +1,15 @@
-.. 468 ============================Bankas budžeta maksājums============================ 
+.. 468 Bankas budžeta maksājums**************************** 
 
 
-Atsevišķu `Banku elektronisko norēķinu sistēmu`_datu apmaiņas formāts
-pieprasa atdalīt naudas saņēmēja kontu un subkontu atsevišķos laukos.
-Izmantojot budžeta maksājuma uzdevumu, tas tiek nodrošināts. Bankas
-budžeta maksājums tiek drukāts kā standarta maksājuma uzdevums un tiek
-saglabāts žurnālā `Bankas izdevumi`_. Ja elektroniskie norēķini netiek
-izmantoti, tad budžeta maksājuma uzdevuma vietā var izmantot dokumentu
-veidu `Bankas maksājuma uzdevums`_. Maksājuma uzdevuma izdrukā
-saņēmēja konts un subkonts tiek atdalīts automatizēti.
+Atsevišķu :doc:`Banku elektronisko norēķinu sistēmu<160>`datu apmaiņas
+formāts pieprasa atdalīt naudas saņēmēja kontu un subkontu atsevišķos
+laukos. Izmantojot budžeta maksājuma uzdevumu, tas tiek nodrošināts.
+Bankas budžeta maksājums tiek drukāts kā standarta maksājuma uzdevums
+un tiek saglabāts žurnālā :doc:`Bankas izdevumi<224>`. Ja
+elektroniskie norēķini netiek izmantoti, tad budžeta maksājuma
+uzdevuma vietā var izmantot dokumentu veidu :doc:`Bankas maksājuma
+uzdevums<347>`. Maksājuma uzdevuma izdrukā saņēmēja konts un subkonts
+tiek atdalīts automatizēti.
 
 
 Jauna Bankas budžeta maksājuma uzdevuma pievienošana
@@ -68,13 +69,14 @@ Dokumenta summu:
 
 
 Izvēloties nepieciešamo Piegādātāju, lauki Nor.konts , Reģ.nr. , Banka
-un Kods tiks aizpildīti automātiski no `Partnera kartiņas`_.
+un Kods tiks aizpildīti automātiski no :doc:`Partnera kartiņas<312>`.
 
 
 
-Tā kā atsevišķu `Bankas elektronisko norēķinu sistēmu`_datu apmaiņas
-formāts pieprasa atdalīt naudas saņēmēja kontu un subkontu atsevišķos
-laukos, tad laukā Subkonts ir iespēja norādīt nepieciešamo subkontu:
+Tā kā atsevišķu :doc:`Bankas elektronisko norēķinu sistēmu<160>`datu
+apmaiņas formāts pieprasa atdalīt naudas saņēmēja kontu un subkontu
+atsevišķos laukos, tad laukā Subkonts ir iespēja norādīt nepieciešamo
+subkontu:
 
 
 
@@ -110,7 +112,7 @@ Maksājuma dokumentu lauki Mērķis un Saturs tiek drukāti maksājuma
 uzdevuma rindā Maksājuma mērķis.
 
 Lauku Bankas budžeta maksājuma uzdevuma Mērķis, iespējams aizpildīt
-manuāli vai izvēloties no `Bankas paskaidrojumu saraksta`_:
+manuāli vai izvēloties no :doc:`Bankas paskaidrojumu saraksta<147>`:
 
 
 
@@ -130,10 +132,10 @@ summu:
 
 
 Sagatavojot Bankas budžeta maksājuma uzdevumu, dokumentam, kurš
-sagatavots izvēloties uzņēmuma `Banku kontu`_, kuram piesaistīta kāda
-no `Bankas elektronisko norēķinu sistēmām`_, ekrāna formā automātiski
-ir aktivizēta izvēle Eksportēt uz bankas elektronisko norēķinu
-sistēmu:
+sagatavots izvēloties uzņēmuma :doc:`Banku kontu<141>`, kuram
+piesaistīta kāda no :doc:`Bankas elektronisko norēķinu sistēmām<160>`,
+ekrāna formā automātiski ir aktivizēta izvēle Eksportēt uz bankas
+elektronisko norēķinu sistēmu:
 
 
 
@@ -142,8 +144,8 @@ sistēmu:
 
 
 Visi dokumenti, kuriem ir šāda izvēle, var tik eksportēti uz
-elektronisko banku norēķinu sistēmu, lai būtu iespējams veikt `Datu
-apmaiņa ar banku`_.
+elektronisko banku norēķinu sistēmu, lai būtu iespējams veikt
+:doc:`Datu apmaiņa ar banku<451>`.
 
 
 
@@ -162,7 +164,7 @@ Kad visi nepieciešamie lauki ir aizpildīti, Bankas budžetamaksājuma
 uzdevums ir sagatavots un to ir iespējams:
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai `Bankas izdevumu žurnālā`_.
+apskatei/labošanai/grāmatošanai :doc:`Bankas izdevumu žurnālā<224>`.
 
 2. Apstiprināt, nospiežot rīku joslā pogu - Bankas budžeta maksājuma
 uzdevums tiks Apstiprināts un to būs iespējams Grāmatot.
@@ -173,7 +175,7 @@ Bankas budžeta maksājuma uzdevuma grāmatošana
 
 Bankas budžeta maksājumu uzdevumu iespējams grāmatot no atvērta Bankas
 budžeta maksājuma uzdevuma dokumenta vai izvēloties
-(iezīmējot)dokumentu `Bankas izdevumu žurnālā`_.
+(iezīmējot)dokumentu :doc:`Bankas izdevumu žurnālā<224>`.
 
 Lai iegrāmatotu Bankas budžeta maksājuma uzdevumu, dokumentu
 nepieciešams Apstiprināt, nospiežot rīku joslā pogu .
@@ -183,15 +185,15 @@ pogu .
 
 
 
-Instrukcija - ` Dokumentu grāmatošanas principi `_
+Instrukcija - :doc:` Dokumentu grāmatošanas principi <14044>`
 
 
 Pievienotā Bankasbudžeta maksājuma uzdevumalabošana
 ```````````````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Bankas budžeta
-maksājuma uzdevumu, kurš pieejams apskatei/labošanai `Bankas izdevumu
-žurnālā`_.Lai veiktu labojumusBankas budžeta maksājuma
+maksājuma uzdevumu, kurš pieejams apskatei/labošanai :doc:`Bankas
+izdevumu žurnālā<224>`.Lai veiktu labojumusBankas budžeta maksājuma
 uzdevumā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 

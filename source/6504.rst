@@ -5,15 +5,15 @@ Polišu Rīki nodrošina:
 
 
 
-`Polišu darba virsmas attēlošanu`_
+:doc:`Polišu darba virsmas attēlošanu<6523>`
 
-`Polišu importu`_
+:doc:`Polišu importu<6525>`
 
-`Polišu izsniegšanu brokerim`_
+:doc:`Polišu izsniegšanu brokerim<6512>`
 
-`Polišu komisijas aprēķinu`_
+:doc:`Polišu komisijas aprēķinu<6517>`
 
-`Polišu pievienošanu noliktavā`_
+:doc:`Polišu pievienošanu noliktavā<6511>`
 
 
 

@@ -1,4 +1,4 @@
-.. 582 =========================Dimensiju apgrozījums========================= 
+.. 582 Dimensiju apgrozījums************************* 
 
 
 Atskaite parāda apgrozījuma summas noteiktā laika periodā, grupējot
@@ -7,7 +7,7 @@ finanšu (EK) kodiem, struktūrvienībām, projektiem. Dimensiju
 apgrozījums parāda uzņēmuma ieņēmumus un izdevumus dažādās uzskaites
 dimensijās.
 
-No dimensiju apgrozījuma var atvērt `Operāciju pārskatu`_.
+No dimensiju apgrozījuma var atvērt :doc:`Operāciju pārskatu<521>`.
 
 
 

@@ -1,4 +1,4 @@
-.. 342 ============================================Savstarpējo norēķinu salīdzināšanas akts============================================ 
+.. 342 Savstarpējo norēķinu salīdzināšanas akts******************************************** 
 
 
 
@@ -47,20 +47,21 @@ pogu
 
 
 
-Saturs tiek aizpildīts ar atskaites `„Norēķinu atlikumu
-salīdzināšana”`_ rezultāta datiem.
+Saturs tiek aizpildīts ar atskaites :doc:`„Norēķinu atlikumu
+salīdzināšana”<757>` rezultāta datiem.
 
 Savstarpējo norēķinu salīdzināšanas aktu var izveidot ar atskaites
-`„Norēķinu atlikumu salīdzināšana”`_ funkcijas palīdzību. Šī atskaite
-ir 3 dažādu atskaišu kopsavilkums Norēķini - `„Neapmaksātie pārdošanas
-dokumenti”`_, Norēķini - `„Neapmaksātie iepirkuma dokumenti”`_ un
-Virsgrāmata – `„Konta atlikumi”`_. Atskaites kolonnā „Dok.DB” tiek
-parādīta atskaites „Neapmaksātie pārdošanas dokumenti” parāda summa,
-kolonnā „Dok.CR.” atskaites „Neapmaksātie iepirkuma dokumenti” parāda
-summa. Savstarpējo norēķinu salīdzināšanas aktu var izveidot, ja
-atskaite ir izveidota par vienu partneri un vienu kontu un atskaites
-kolonnu „Starp.DB” un „Starp.CR” vērtības ir 0,00. Kolonnās ir
-dokumentu un konta debeta vai kredīta starpība.
+:doc:`„Norēķinu atlikumu salīdzināšana”<757>` funkcijas palīdzību. Šī
+atskaite ir 3 dažādu atskaišu kopsavilkums Norēķini -
+:doc:`„Neapmaksātie pārdošanas dokumenti”<540>`, Norēķini -
+:doc:`„Neapmaksātie iepirkuma dokumenti”<541>` un Virsgrāmata –
+:doc:`„Konta atlikumi”<665>`. Atskaites kolonnā „Dok.DB” tiek parādīta
+atskaites „Neapmaksātie pārdošanas dokumenti” parāda summa, kolonnā
+„Dok.CR.” atskaites „Neapmaksātie iepirkuma dokumenti” parāda summa.
+Savstarpējo norēķinu salīdzināšanas aktu var izveidot, ja atskaite ir
+izveidota par vienu partneri un vienu kontu un atskaites kolonnu
+„Starp.DB” un „Starp.CR” vērtības ir 0,00. Kolonnās ir dokumentu un
+konta debeta vai kredīta starpība.
 
 Lai dokumentu drukātu, rīku joslā jānospiež poga un jāizvēlas
 attiecīgā izdrukas forma.

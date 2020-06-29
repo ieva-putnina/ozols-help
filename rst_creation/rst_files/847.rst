@@ -6,10 +6,10 @@ veidus:
 
 
 
-`Avansa izdevums`_
+:doc:`Avansa izdevums<747>`
 
-`Avansa maksājums`_
+:doc:`Avansa maksājums<465>`
 
-`Avansa norēķins`_``_
+:doc:`Avansa norēķins<748>`:doc:`<375>`
 
  .. toctree::   :maxdepth: 5    747.rst   465.rst   375.rst   748.rst

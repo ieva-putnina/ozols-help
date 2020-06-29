@@ -1,4 +1,4 @@
-.. 897 ====================Cenu veidu kursi==================== 
+.. 897 Cenu veidu kursi******************** 
 Sarakstā tiek saglabāta vēsturiskā informācija par cenu veidu kursiem,
 kas piesaistīti izveidotajiem cenu veidiem uz konkrētu datumu.
 
@@ -17,8 +17,8 @@ tiks atvērts jauns logs:
 
 
 
-**Veids:** iespējams izvēlēties no saraksta `Cenu veidu`_, uz kuru
-definētā valūta un kurss tiks attiecināts;
+**Veids:** iespējams izvēlēties no saraksta :doc:`Cenu veidu<105>`, uz
+kuru definētā valūta un kurss tiks attiecināts;
 
 
 **Datums: **datums, uz kuru valūta un valūtas kurss tiek noteikts;

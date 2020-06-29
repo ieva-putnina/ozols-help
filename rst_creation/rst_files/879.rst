@@ -1,9 +1,9 @@
-.. 879 =======================Piedāvājumu žurnāls======================= 
+.. 879 Piedāvājumu žurnāls*********************** 
 
 
 Piedāvājumužurnālā tiek saglabāti visi sagatavotās
-`Aktivitātes`_:Piedāvājumi - `Potenciālajiem`_ un `esošajiem`_
-`Partneriem`_.
+:doc:`Aktivitātes<743>`:Piedāvājumi - :doc:`Potenciālajiem<884>` un
+:doc:`esošajiem<312>` :doc:`Partneriem<112>`.
 
 
 
@@ -31,24 +31,24 @@ Datus iespējams atlasīt pēc:
 
 
 Piedāv.stadija : Piedāvājuma stadija, kādā pašlaik ir sagatvotais
-piedāvājums (stadiju iespējams norādīt katrā `Piedāvājuma`_dokumentā,
-sadaļā Citi)
+piedāvājums (stadiju iespējams norādīt katrā
+:doc:`Piedāvājuma<743>`dokumentā, sadaļā Citi)
 
 Līguma stadija : Kādā līgums uz doto brīdi atrodas - Aktīvs,
 Izpildīts, Lauzts, Projekts, Piedāvājums
 
 Kampaņa : Kampaņas veids, kas piesaisīts Piedāvājuma dokumentam
-(kampaņas veiduiespējams norādīt katrā `Piedāvājuma`_dokumentā, sadaļā
-Citi)
+(kampaņas veiduiespējams norādīt katrā
+:doc:`Piedāvājuma<743>`dokumentā, sadaļā Citi)
 
 Adresāts :Piedāvājuma dokumentaadresāts
 
 Partneris : Juridiska vai Fiziska persona, kurai šis Piedāvājuma
 dokuments ir sagatavots
 
-Sektors : Partnera `Sektora`_ dalījums, kas norādīts `Partnera`_
-aprakstā (sadaļa Pārējie dati),kuram`Piedāvājuma`_ dokuments
-sagatavots
+Sektors : Partnera :doc:`Sektora<810>` dalījums, kas norādīts
+:doc:`Partnera<112>` aprakstā (sadaļa Pārējie
+dati),kuram:doc:`Piedāvājuma<743>` dokuments sagatavots
 
 Atgādinājums: Atlases kritērijs, pēc Piedāvājuma dokumentam
 piesaistītajiem atgādinājumiem
@@ -58,8 +58,9 @@ izmaiņu datumu no..līdz
 
 Lietotājs: Lietotājs, kurš pievienojis ierakstu
 
-Partnera grupa : `Partneru grupu`_dalījums, kas norādīts
-`Partnera`_aprakstā, kuram`Piedāvājuma`_ dokuments sagatavots
+Partnera grupa : :doc:`Partneru grupu<113>`dalījums, kas norādīts
+:doc:`Partnera<112>`aprakstā, kuram:doc:`Piedāvājuma<743>` dokuments
+sagatavots
 
 Prioritāte : Piedāvāvājuma dokumenta Prioritātes līmenis.
 

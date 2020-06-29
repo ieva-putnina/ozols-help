@@ -3,9 +3,10 @@ Valūtu kursi automātiski, katru dienu pēc Latvijas Bankas Valūtu kursa
 tiek atjaunoti programmā, ja programmas lietotāja datu bāze (dators)
 ir pieslēgta Interneta tīklam.
 
-Valūtu kursi tiek izmantoti `Finanšu dokumentu`_ `Norēķinu dokumentu`_
-izveidošanā. Papildus Valūtu kursu informāciju izmanto `Datu apmaiņai
-ar banku`_ un `Valūtu kursu svārstību aprēķināšanai`_ Virsgrāmatā.
+Valūtu kursi tiek izmantoti :doc:`Finanšu dokumentu<7>` :doc:`Norēķinu
+dokumentu<22>` izveidošanā. Papildus Valūtu kursu informāciju izmanto
+:doc:`Datu apmaiņai ar banku<50>` un :doc:`Valūtu kursu svārstību
+aprēķināšanai<675>` Virsgrāmatā.
 
 Valūtu kursu sarakstu ir iespējams atlasīt attiecīgam periodam,
 nospiežot Rīku joslā pogu , tiek atvērts logs:
@@ -20,7 +21,7 @@ Atvērtajā logā jānorāda periods, un, atzīmējot izvēles rūtiņu ,
 jānospiež poga .
 
 Valūtu kursi tiek parādīti tikai tām valūtām, kuras ir pievienotas
-`Valūtu`_ sarakstā.
+:doc:`Valūtu<119>` sarakstā.
 
 Lai apskatītu Valūtu kursus,Rīku joslā jānospiež poga (Alt+A),tiek
 atvērts logs, kurā arī manuāli ir iespējams atjaunot Valūtu kursus,

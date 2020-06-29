@@ -1,2 +1,2 @@
-.. 4100 =========LaMSF========= 
+.. 4100 LaMSF========= 
  .. toctree::   :maxdepth: 6    4102.rst   4101.rst   4188.rst   4124.rst   4104.rst   4103.rst

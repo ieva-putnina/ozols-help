@@ -1,4 +1,4 @@
-.. 14058 ========================================Konta norādīšana grāmatojuma šablonā======================================== 
+.. 14058 Konta norādīšana grāmatojuma šablonā**************************************** 
 
 
 Grāmatojuma šablonā laukā Konts iespējams norādīt konkrētu izvēlētu
@@ -27,23 +27,23 @@ izmantot Paskaidrojums Bankas
 
 Grāmatojumā tiks ielikts bankas konts, no pirmdokumentā norādītā
 bankas konta apraksta. Bankas kontam grāmatvedības konts tiek norādīts
-`Bankas konta aprakstā`_. Kases
+:doc:`Bankas konta aprakstā<141>`. Kases
 
 + Kasē izmaksāts avanss
 + Kases ieņēmumu orderis
 + Kases izdevumu orderis
 
 Grāmatojumā tiks ielikts kases konts, no pirmdokumentā norādītā kases
-konta apraksta. Kases konta grāmatvedības konts tiek norādīts `Kases
-konta aprakstā`_. Avansu norēķinu
+konta apraksta. Kases konta grāmatvedības konts tiek norādīts
+:doc:`Kases konta aprakstā<123>`. Avansu norēķinu
 
 + Bankā izmaksāts avanss
 + Kasē izmaksāts avanss
 
-Grāmatojumā tiks ieliktsavansu norēķinu personaskonts no `Grāmatojumu
-iestādījumiem`_, vai `Partnera apraksta`_, ja Partnera aprakstā
-norādīts cits konts, kas atšķiras no kopīgos iestādījumos norādītā.
-Fin.kat.
+Grāmatojumā tiks ieliktsavansu norēķinu personaskonts no
+:doc:`Grāmatojumu iestādījumiem<707>`, vai :doc:`Partnera
+apraksta<112>`, ja Partnera aprakstā norādīts cits konts, kas atšķiras
+no kopīgos iestādījumos norādītā. Fin.kat.
 
 + Avansa izdevums
 + Bankā izmaksāts avanss
@@ -59,8 +59,8 @@ Fin.kat.
 
 Konts grāmatojumā tiks ielikts no finanšu kategorijai (EK kodam)
 piesaistītā konta. Šī izvēle ir pieejama tikai tad, ja šablona
-ieraksta veids ir “Saturs”. `Finanšu kategorijām`_ ieņēmumu un
-izdevumu konti tiek norādīti to aprakstos. Piegādātāja
+ieraksta veids ir “Saturs”. :doc:`Finanšu kategorijām<116>` ieņēmumu
+un izdevumu konti tiek norādīti to aprakstos. Piegādātāja
 
 + Pamatlīdzekļu ienākšana
 + Maksājuma uzdevums
@@ -68,49 +68,49 @@ izdevumu konti tiek norādīti to aprakstos. Piegādātāja
 + Iepirkuma dokuments
 + Bankas komisija
 
-Grāmatojumā tiks ielikts piegādātāja konts no `Grāmatojumu
-iestādījumiem`_, vai `Partnera apraksta`_, ja Partnera aprakstā
-norādīts cits konts, kas atšķiras no kopīgos iestādījumos norādītā.
-Pircējs
+Grāmatojumā tiks ielikts piegādātāja konts no :doc:`Grāmatojumu
+iestādījumiem<707>`, vai :doc:`Partnera apraksta<112>`, ja Partnera
+aprakstā norādīts cits konts, kas atšķiras no kopīgos iestādījumos
+norādītā. Pircējs
 
 + Pārdošanas dokumenti
 + Ieejošais maksājums
 + Kases ieņēmumu orderis
 
-Grāmatojumā tiks ielikts pircēja konts no `Grāmatojumu
-iestādījumiem`_, vai `Partnera apraksta`_, ja Partnera aprakstā
-norādīts cits konts, kas atšķiras no kopīgos iestādījumos norādītā.
-Personas
+Grāmatojumā tiks ielikts pircēja konts no :doc:`Grāmatojumu
+iestādījumiem<707>`, vai :doc:`Partnera apraksta<112>`, ja Partnera
+aprakstā norādīts cits konts, kas atšķiras no kopīgos iestādījumos
+norādītā. Personas
 
 + Avansa izdevums
 
-Grāmatojumā tiks ieliktsavansu norēķinu personaskonts no `Grāmatojumu
-iestādījumiem`_, vai `Partnera apraksta`_, ja Partnera aprakstā
-norādīts cits konts, kas atšķiras no kopīgos iestādījumos norādītā.
-Rezultāta Cr
+Grāmatojumā tiks ieliktsavansu norēķinu personaskonts no
+:doc:`Grāmatojumu iestādījumiem<707>`, vai :doc:`Partnera
+apraksta<112>`, ja Partnera aprakstā norādīts cits konts, kas atšķiras
+no kopīgos iestādījumos norādītā. Rezultāta Cr
 
 + Algu pirmdokumenta grāmatojums
 
 Grāmatojumā tiks ielikts algu aprēķina rezultējošā koda kredīta konts,
 no algu rezultējošā koda apraksta. Algu rezultējošam kodam
-grāmatvedības konts tiek norādīts `Rezultējošā koda aprakstā`_.
-Rezultāta Db
+grāmatvedības konts tiek norādīts :doc:`Rezultējošā koda
+aprakstā<283>`. Rezultāta Db
 
 + Algu pirmdokumenta grāmatojums
 
 Grāmatojumā tiks ielikts algu aprēķina rezultējošā kodadebeta konts,
 no algu rezultējošā koda apraksta. Algu rezultējošam kodam
-grāmatvedības konts tiek norādīts `Rezultējošā koda aprakstā`_. Grupas
-ieņ.
+grāmatvedības konts tiek norādīts :doc:`Rezultējošā koda
+aprakstā<283>`. Grupas ieņ.
 
 + Ražošana
 + Pārdošanas dokumenti
 + Nomenklaltūras pārsūtīšana
 
 Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētās
-nomenklatūras/pakalpojuma grupas`Grupas aprakstā`_piesaistītā ieņēmuma
-konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir
-“Saturs”. Grupas izdev.
+nomenklatūras/pakalpojuma grupas:doc:`Grupas aprakstā<148>`piesaistītā
+ieņēmuma konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta
+veids ir “Saturs”. Grupas izdev.
 
 + Iepirkuma dokuments
 + Nomenklatūras norakstīšana
@@ -118,9 +118,9 @@ konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir
 + Ražošana
 
 Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētās
-nomenklatūras/pakalpojuma grupas`Grupas aprakstā`_piesaistītā izdevuma
-konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir
-“Saturs”. Grupas uzsk.
+nomenklatūras/pakalpojuma grupas:doc:`Grupas aprakstā<148>`piesaistītā
+izdevuma konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta
+veids ir “Saturs”. Grupas uzsk.
 
 + Iepirkuma dokuments
 + Nomenklatūras norakstīšana
@@ -129,33 +129,33 @@ konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir
 + Ražošana
 
 Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētās
-nomenklatūras/pakalpojuma grupas`Grupas aprakstā`_piesaistītāuzskaites
-konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir
-“Saturs”. Nolietojuma
+nomenklatūras/pakalpojuma grupas:doc:`Grupas
+aprakstā<148>`piesaistītāuzskaites konta. Šī izvēle ir pieejama tikai
+tad, ja šablona ieraksta veids ir “Saturs”. Nolietojuma
 
 + Pamatlīdzekļu nolietojums
 + Pamatlīdzekļu norakstīšana
 
 Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētā
-Pamatlīdzekļa, tam piesaistītas `Pamatlīdzekļu
-kategorijas`_nolietojuma konta. Šī izvēle ir pieejama tikai tad, ja
-šablona ieraksta veids ir “Saturs”. Pl.noliet.izd.k
+Pamatlīdzekļa, tam piesaistītas :doc:`Pamatlīdzekļu
+kategorijas<129>`nolietojuma konta. Šī izvēle ir pieejama tikai tad,
+ja šablona ieraksta veids ir “Saturs”. Pl.noliet.izd.k
 
 + Pamatlīdzekļu norakstīšana
 + Pamatlīdzekļu nolietojums
 
 Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētā
-Pamatlīdzekļa, tam piesaistītas `Pamatlīdzekļu
-kategorijas`_nolietojuma izdevumukonta. Šī izvēle ir pieejama tikai
-tad, ja šablona ieraksta veids ir “Saturs”. Pl.uzsk.konts
+Pamatlīdzekļa, tam piesaistītas :doc:`Pamatlīdzekļu
+kategorijas<129>`nolietojuma izdevumukonta. Šī izvēle ir pieejama
+tikai tad, ja šablona ieraksta veids ir “Saturs”. Pl.uzsk.konts
 
 + Pamatlīdzekļu ienākšana
 + Pamatlīdzekļu norakstīšana
 
 Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētā
-Pamatlīdzekļa, tam piesaistītas `Pamatlīdzekļu kategorijas`_uzskaites
-konta. Šī izvēle ir pieejama tikai tad, ja šablona ieraksta veids ir
-“Saturs”. Pārsūtīt no
+Pamatlīdzekļa, tam piesaistītas :doc:`Pamatlīdzekļu
+kategorijas<129>`uzskaites konta. Šī izvēle ir pieejama tikai tad, ja
+šablona ieraksta veids ir “Saturs”. Pārsūtīt no
 
 + Naudas pārsūtīšana
 

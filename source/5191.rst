@@ -1,4 +1,4 @@
-.. 5191 ========================Novērtēšanas anketas======================== 
+.. 5191 Novērtēšanas anketas************************ 
 
 
 Šis darba režīms ir paredzētsNovērtēšanas anketas aizpildīšanai

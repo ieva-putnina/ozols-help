@@ -1,7 +1,7 @@
-.. 189 ============Kontakti============ 
+.. 189 Kontakti************ 
 
 
-Kontaktu saraksts tiek veidots no `Partnerim`_ pievienotajiem
+Kontaktu saraksts tiek veidots no :doc:`Partnerim<312>` pievienotajiem
 kontaktiem un pievienotajām kontaktpersonām:
 
 
@@ -16,13 +16,13 @@ kontaktiem un pievienotajām kontaktpersonām:
 
 Pievienojot jaunu kontaktpersonu, nospiežot rīku joslā pogu ,
 aizpildot kontaktpersonas kontaktinformāciju, to ir iespējams
-piesaistīt arī kādai no `Partneru grupām`_ (šoferis, ģimenes loceklis,
-apgādājamais, ir tiesības saņemt preces, u.c.). Ja partnerim tiek
-pievienotas vairākas kontaktpersonas, tad vienu no tām ir jānodefinē
-kā galveno kontakpersonu, ieķeksējot . Lai datus saglabātu jānospiež
-poga . Jebkuru no kontaktu saraksta ierakstiem ir iespējam atvērt,
-nospiežot rīku joslā pogu . Ar filtru, rīku joslā nospiežot pogu (
-Ctrl+F), ir iespējams atlasīt viena partnera
+piesaistīt arī kādai no :doc:`Partneru grupām<113>` (šoferis, ģimenes
+loceklis, apgādājamais, ir tiesības saņemt preces, u.c.). Ja partnerim
+tiek pievienotas vairākas kontaktpersonas, tad vienu no tām ir
+jānodefinē kā galveno kontakpersonu, ieķeksējot . Lai datus saglabātu
+jānospiež poga . Jebkuru no kontaktu saraksta ierakstiem ir iespējam
+atvērt, nospiežot rīku joslā pogu . Ar filtru, rīku joslā nospiežot
+pogu ( Ctrl+F), ir iespējams atlasīt viena partnera
 kontaktus/kontaktpersonas.
 
  

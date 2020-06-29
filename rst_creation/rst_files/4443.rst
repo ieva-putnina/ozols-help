@@ -1,6 +1,6 @@
-.. 4443 ==================Darba uzdevums================== 
-Visi pievienotie darba uzdevumi tiek saglabāti `darba uzdevumu
-žurnālā`_.
+.. 4443 Darba uzdevums****************** 
+Visi pievienotie darba uzdevumi tiek saglabāti :doc:`darba uzdevumu
+žurnālā<4442>`.
 
 Pievienojot jaunu darba uzdevumu, tiek atvērt logs:
 

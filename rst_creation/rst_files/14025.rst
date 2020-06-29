@@ -1,13 +1,13 @@
 .. 14025 ================Instrukcijas================ 
 
-#. `CSNRZRS un OZOLS integrēšanas procesa apraksts`_
-#. `Darba vietu apraksts`_
+#. :doc:`CSNRZRS un OZOLS integrēšanas procesa apraksts<14030>`
+#. :doc:`Darba vietu apraksts<14026>`
 
-    + `Atlīdzību daļa`_
-    + `Finanšu daļa`_
-    + `Juridiskā daļa`_
+    + :doc:`Atlīdzību daļa<14027>`
+    + :doc:`Finanšu daļa<14028>`
+    + :doc:`Juridiskā daļa<14029>`
 
-#. `Izmaksu veikšana atlīdzību lietās`_
+#. :doc:`Izmaksu veikšana atlīdzību lietās<14031>`
 
 
 

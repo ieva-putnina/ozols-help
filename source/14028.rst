@@ -1,4 +1,4 @@
-.. 14028 ================Finanšu daļa================ 
+.. 14028 Finanšu daļa**************** 
 
 
 
@@ -6,8 +6,8 @@
 Finanšu daļas darbinieki:
 
 
-#. saņem no `Atlīdzību daļas`_ dokumentu veidā lēmumus par atlīdzības
-izmaksu Atlīdzības lietā;
+#. saņem no :doc:`Atlīdzību daļas<14027>` dokumentu veidā lēmumus par
+atlīdzības izmaksu Atlīdzības lietā;
 #. pievieno kreditora kartiņā (personai vai uzņēmumam, kas saņems
 atlīdzību) norēķinu rekvizītus;
 #. pārbauda vai Lietu žurnālā nonākusi lieta no CSNRZRS ar kontējumu
@@ -15,8 +15,8 @@ uz nekonkrēto kreditoru kontu;
 #. pārkontē kreditoru no nekonkrētā kreditora konta uz konkrēto,
 piesaistot attiecīgo Piegādātāju (kreditoru);
 #. veic maksājumu, norādot dinamikā Atlīdzību lietas numuru;
-#. saņem no `Juridiskā daļas`_dokumentus par attiecīgo Atlīdzību
-   lietu:
+#. saņem no :doc:`Juridiskā daļas<14029>`dokumentus par attiecīgo
+   Atlīdzību lietu:
 
     + ja Regresa lieta netiek ierosināta, Lietu žurnālā izmaksāto
     atlīdzību noraksta izdevumos;

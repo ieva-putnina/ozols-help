@@ -1,4 +1,4 @@
-.. 5181 ========================Novērtēšanas anketas======================== 
+.. 5181 Novērtēšanas anketas************************ 
 
 
 Šajā darba režīmā Vadītājam ir pieejama informācija par visām
@@ -50,8 +50,8 @@ režīma->Novērtēšanas anketas:
 
 
 
-Instrukcija novērtēšanas anketas aizpildīšanai: `Novērtēšanas
-anketas`_
+Instrukcija novērtēšanas anketas aizpildīšanai: :doc:`Novērtēšanas
+anketas<5191>`
 
 
 3. Novērtēšanas anketas aizpildīšana par pakļautībā esošajiem

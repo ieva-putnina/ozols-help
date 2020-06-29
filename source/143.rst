@@ -1,10 +1,10 @@
-.. 143 ======================================Dzimšanas un vārda dienu kalendārs====================================== 
+.. 143 Dzimšanas un vārda dienu kalendārs************************************** 
 
 
 CRM atskaitē Dzimšanas un vārda dienu kalendārs, tiek attēlotidati,
-par datu bāzē pievienotajiem `Partneriem`_(fiziskā personām). Atskaitē
-iespējams redzēt informāciju par Partneru dzimšanas datiem, vārda
-dienu, vecumu, kā arī Partnera kontaktinofrmāciju.
+par datu bāzē pievienotajiem :doc:`Partneriem<112>`(fiziskā personām).
+Atskaitē iespējams redzēt informāciju par Partneru dzimšanas datiem,
+vārda dienu, vecumu, kā arī Partnera kontaktinofrmāciju.
 
 Filtrs (rīku joslā poga (Ctrl+F)) jāaizpilda, lai sagatavotu atskaiti.
 
@@ -34,7 +34,7 @@ pēc Partnera dzimšanas dienas.
 
 
 - Izvēles rūtiņa jāatzīmē, ja nepieciešams sagatvot atskaiti tikai par
-uzņēmumā `Strādājošajiem`_.
+uzņēmumā :doc:`Strādājošajiem<111>`.
 
 
 

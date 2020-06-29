@@ -1,4 +1,4 @@
-.. 785 ====================Ziņojumu žurnāls==================== 
+.. 785 Ziņojumu žurnāls******************** 
 
 
 Ziņojumu žurnālātiek saglabāti visi sagatavotie Ziņojumi, kas

@@ -1,8 +1,8 @@
-.. 14123 ==================Kontu slēgšana================== 
+.. 14123 Kontu slēgšana****************** 
 
 
 Operāciju kontu slēgšanu sistēmā iiespējams organizēt, izmantojot
-Virsgrāmatas atskaiti: `Konta atlikumi`_.
+Virsgrāmatas atskaiti: :doc:`Konta atlikumi<665>`.
 
 
 

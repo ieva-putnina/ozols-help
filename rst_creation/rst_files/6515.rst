@@ -1,4 +1,4 @@
-.. 6515 ======================Polišu izlietojums====================== 
+.. 6515 Polišu izlietojums********************** 
 
 
 Polišu izlietojuma atskaite parāda polišu izlietojumu, atbilstoši datu

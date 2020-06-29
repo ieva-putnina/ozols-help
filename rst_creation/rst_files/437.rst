@@ -1,10 +1,10 @@
-.. 437 ========================================Pamatlīdzekļu pārsūtīšanas dokuments======================================== 
+.. 437 Pamatlīdzekļu pārsūtīšanas dokuments**************************************** 
 
 
 Pamatlīdzekļu pārsūtīšanas dokumentu paredzēts veidot pamatlīdzekļu
 pārvietošanai starp materiāli atbildīgām personām, struktūrvienībām
 un/vai citām uzņēmumā izmantotām dimensijām. Dokuments pēc
-saglabāšanas ir pieejams `Pamatlīdzekļu dokumentu sarakstā`_.
+saglabāšanas ir pieejams :doc:`Pamatlīdzekļu dokumentu sarakstā<233>`.
 
 
 
@@ -23,8 +23,8 @@ Pamatlīdzekļu pārsūtīšanas dokuments .
 
 
 Numurs - jānorāda pamatlīdzekļa dokumenta numurs. Šis numurs strādājot
-ar sistēmu tiek piešķirts automātiski pēc iebūvētā ` numeratora `_.
-Visiem pamatlīdzekļu dokumentiem ir viena numerācija.
+ar sistēmu tiek piešķirts automātiski pēc iebūvētā :doc:` numeratora
+<139>`. Visiem pamatlīdzekļu dokumentiem ir viena numerācija.
 
 Datums - pamatlīdzekļu dokumenta izveidošanas datums.
 

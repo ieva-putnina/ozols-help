@@ -1,6 +1,6 @@
-.. 4431 ===============Banku konti=============== 
-Bankas kontu žurnālā tiek saglabāti visi partneriem `pievienotie banku
-konti`_.
+.. 4431 Banku konti*************** 
+Bankas kontu žurnālā tiek saglabāti visi partneriem :doc:`pievienotie
+banku konti<4440>`.
 
 Ar filtru iespējams atlasīt partneru bankas kontus pēc dažādiem
 izvēlētiem atlasīšanas kritērijiem:
@@ -21,7 +21,7 @@ izvēlēti atlasīšanas kritēriji, tad tiek atvērts visu partneru bankas
 kontu saraksts.
 
 Lai pievienotu jaunu bankas kontu jau pievienotam partnerim, jānospiež
-poga un jāpievieno dati kā norādīts `Jauna bankas konta pievienošanas
-sadaļā`_.
+poga un jāpievieno dati kā norādīts :doc:`Jauna bankas konta
+pievienošanas sadaļā<4440>`.
 
  

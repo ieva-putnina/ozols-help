@@ -1,9 +1,9 @@
-.. 884 ==========================Potenciālais partneris========================== 
+.. 884 Potenciālais partneris************************** 
 
 
 Jauna Potenciālā partnera pievienošana ir iespējama caur Potenciālo
-partneru sadaļu`Potenciālais partneris`_ un `Potenciālo partneru
-sarakstu`_.
+partneru sadaļu:doc:`Potenciālais partneris<884>` un :doc:`Potenciālo
+partneru sarakstu<842>`.
 
 Lai pievienotu jaunu Potenciālo partneri, rīku joslā jānospiež poga ,
 tiek atvērts partnera datu logs:

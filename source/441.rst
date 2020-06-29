@@ -1,9 +1,9 @@
-.. 441 =========================================Pamatlīdzekļu norakstīšanas dokuments========================================= 
+.. 441 Pamatlīdzekļu norakstīšanas dokuments***************************************** 
 
 
 Pamatlīdzekļu dokuments paredzēts pamatlīdzekļu norakstīšanai.
-Dokuments pēc saglabāšanas ir pieejams `Pamatlīdzekļu dokumentu
-sarakstā`_.
+Dokuments pēc saglabāšanas ir pieejams :doc:`Pamatlīdzekļu dokumentu
+sarakstā<233>`.
 
 
 
@@ -28,8 +28,9 @@ Jāaizpilda dokumenta virsraksta dati:
 
 
 Numurs - jānorāda pamatlīdzekļa dokumenta numurs. Šis numurs strādājot
-ar sistēmu tiek piešķirts automātiski pēc iebūvētā `numeratora`_.
-Visiem pamatlīdzekļu dokumentiem ir viena numerācija.
+ar sistēmu tiek piešķirts automātiski pēc iebūvētā
+:doc:`numeratora<139>`. Visiem pamatlīdzekļu dokumentiem ir viena
+numerācija.
 
 Datums - pamatlīdzekļu dokumenta izveidošanas datums.
 
@@ -57,7 +58,7 @@ obligāti pēc saglabāšanas dokuments ir jāapstiprina ar funkciju .
 
 
 Pēc dokumenta apstiprināšanas Pamatlīdzekļu norakstīšanasdokuments ir
-`jānogrāmato`_.
+:doc:`jānogrāmato<14044>`.
 
 
 

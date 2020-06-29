@@ -1,13 +1,14 @@
-.. 743 ==============Aktivitāte============== 
+.. 743 Aktivitāte************** 
 
 Jaunas Aktivitātes pievienošana
 +++++++++++++++++++++++++++++++
 
 JaunuAktivitāti iespējams izveidot:
 
-1.Atrodoties kādā no Dokumetnu žurnāliem: `Piedāvājumu žurnāls`_,
-`Ziņojumu žurnāls`_, `Notikumu žurnāls`_vai `Atgādinātāji`_un rīku
-joslājānospiežot pogu ;
+1.Atrodoties kādā no Dokumetnu žurnāliem: :doc:`Piedāvājumu
+žurnāls<879>`, :doc:`Ziņojumu žurnāls<785>`, :doc:`Notikumu
+žurnāls<742>`vai :doc:`Atgādinātāji<874>`un rīku joslājānospiežot pogu
+;
 
 2. No jebkura darba režīma, izmantojot taustiņu kombināciju CTRL+Q,
 tiks atvērts jauns izvēlnes logs:
@@ -67,13 +68,14 @@ logā jau būs aizpildīts Partnera lauks).
 
 
 Nospiežot pogu pie partnera ieraksta , nepieciešams izvēlēties
-atbilstošo ` potenciālo partneri `_ no `potenciālo partneru
-saraksta`_, vai, nospiežot pogu partnera lauka labajā pusē, iespējams
-pievienot jaunu `potenciālo partneri.`_
+atbilstošo :doc:` potenciālo partneri <884>` no :doc:`potenciālo
+partneru saraksta<842>`, vai, nospiežot pogu partnera lauka labajā
+pusē, iespējams pievienot jaunu :doc:`potenciālo partneri.<884>`
 
 
 
-5. Kontaktpersonas laukā iespējams norādīt partnera `kontaktpersonu`_:
+5. Kontaktpersonas laukā iespējams norādīt partnera
+:doc:`kontaktpersonu<389>`:
 
 
 

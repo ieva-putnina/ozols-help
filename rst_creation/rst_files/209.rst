@@ -1,11 +1,11 @@
-.. 209 ====================Rīkojumu žurnāls==================== 
+.. 209 Rīkojumu žurnāls******************** 
 
 
-Rīkojumu žurnālā tiek saglabāti visi pievienotie `Rīkojumu
-dokumenti`_. Rīkojuma dokuments nosaka izmaiņas algu aprēķinā
-norādītajai slodzei un tiek izmantoti `algu aprēķinos`_. Izveidotie
-rīkojumi tiek parādīti personīgajā kontā un tiek izmantoti, lai
-sastādītu atskaiti par darbinieku kustību.
+Rīkojumu žurnālā tiek saglabāti visi pievienotie :doc:`Rīkojumu
+dokumenti<409>`. Rīkojuma dokuments nosaka izmaiņas algu aprēķinā
+norādītajai slodzei un tiek izmantoti :doc:`algu aprēķinos<498>`.
+Izveidotie rīkojumi tiek parādīti personīgajā kontā un tiek izmantoti,
+lai sastādītu atskaiti par darbinieku kustību.
 
 Lai rīkojumu dokumenti piedalītos algu aprēķinos, tie obligāti
 jāapstiprina (rīku joslā poga ).
@@ -25,12 +25,12 @@ Rīku joslā nopiežot pogu (Ctrl+F), tiek atvērts filtra logs:
 
 Datums: atlasīt datus pēc rīkojumadatuma no...līdz;
 
-Pārbaudes laiks: atlasīt datus, balstoties uz `Rīkojumā`_norādīto
-pārbaudes laika datumu;
+Pārbaudes laiks: atlasīt datus, balstoties uz
+:doc:`Rīkojumā<409>`norādīto pārbaudes laika datumu;
 
 Spēkā no: atlasīt datus pēcrīkojuma stāšanās spēkādatuma no...līdz;
 
-Veids: atlasīt datus pēc norādītā`Rīkojumu veida`_;
+Veids: atlasīt datus pēc norādītā:doc:`Rīkojumu veida<277>`;
 
 Struktūrv. : atlasīt konkrētas struktūrvienības rīkojuma dokumentus;
 

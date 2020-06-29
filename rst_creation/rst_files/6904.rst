@@ -1,4 +1,4 @@
-.. 6904 ========================Degvielas pasūtījums======================== 
+.. 6904 Degvielas pasūtījums************************ 
 Lai izveidotu jaunu degvielas pasūtījumu:
 
 
@@ -63,7 +63,7 @@ Lai veiktu citas darbības ar pasūtījumu un tā saturu:
 Ja ir nepieciešams dzēst visu pasūtījumu, rīku joslā jānospiež poga un
 tad turpat rīku joslā jānospiež poga .
 
-Visi izveidotie pasūtījumi tiek saglabāti sadaļā dokumenti `Pasūtījumu
-žurnālā`_.
+Visi izveidotie pasūtījumi tiek saglabāti sadaļā dokumenti
+:doc:`Pasūtījumu žurnālā<6907>`.
 
  .. toctree::   :maxdepth: 4    6913.rst   6914.rst

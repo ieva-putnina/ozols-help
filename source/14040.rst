@@ -1,4 +1,4 @@
-.. 14040 =============================Saraksta ierakstu dzēšana============================= 
+.. 14040 Saraksta ierakstu dzēšana***************************** 
 Dzēstsarakstu var no atvērta sarakstu žurnāla, kurdzēšamaissaraksts ir
 atzīmēts ar kursoru.
 

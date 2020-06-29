@@ -1,4 +1,4 @@
-.. 521 ======================Operāciju pārskats====================== 
+.. 521 Operāciju pārskats********************** 
 
 
 Operāciju pārskats ir veikto debeta un kredīta operāciju - grāmatojumu

@@ -1,4 +1,4 @@
-.. 224 ===================Bankas izdevumi=================== 
+.. 224 Bankas izdevumi******************* 
 
 
 Bankas izdevumu dokumenti ir sadalīti pa veidiem pēc operāciju
@@ -12,19 +12,19 @@ dokumenti:
 
 
 
-`Bankā izmaksāts avanss`_
+:doc:`Bankā izmaksāts avanss<469>`
 
-`Bankas budžeta maksājums`_
+:doc:`Bankas budžeta maksājums<468>`
 
-`Bankas komisija`_
+:doc:`Bankas komisija<466>`
 
-`Bankas maksājuma uzdevums`_
+:doc:`Bankas maksājuma uzdevums<347>`
 
-`Bankas maksājums ar maksājumu karti`_
+:doc:`Bankas maksājums ar maksājumu karti<467>`
 
-`Naudas izņemšana no bankas konta`_
+:doc:`Naudas izņemšana no bankas konta<475>`
 
-`Naudas pārsūtīšana starp bankas kontiem`_
+:doc:`Naudas pārsūtīšana starp bankas kontiem<470>`
 
 
 
@@ -41,6 +41,6 @@ sagatavi ( ), filtrs tiek automatizēti aizpildīts no filtra sagataves.
 
 
 
-Instrukcija - `Valūtas konvertācijas dokumentu veidošana`_
+Instrukcija - :doc:`Valūtas konvertācijas dokumentu veidošana<14106>`
 
  

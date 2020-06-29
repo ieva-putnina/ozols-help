@@ -21,8 +21,8 @@ Kad ir ierakstīta attiecīgā tautība,jānospiež poga .
 
 
 
-Tautību sarakstu izmanto veidojot `Valstu sarakstu`_, kur iespējams
-norādīt tautību:
+Tautību sarakstu izmanto veidojot :doc:`Valstu sarakstu<103>`, kur
+iespējams norādīt tautību:
 
 
 
@@ -31,7 +31,7 @@ norādīt tautību:
 
 
 
-Arī `Partnera`_ aprakstā ir iespējams norādīt tautību:
+Arī :doc:`Partnera<312>` aprakstā ir iespējams norādīt tautību:
 
 
 

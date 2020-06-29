@@ -13,8 +13,9 @@ Nosaukums: Apdrošināšanas sabiedrības nosaukums.
 
 
 Apdrošināšanas sabiedrību saraksts tiek izmantots, aizpildot
-Pamatlīdzekļu kartiņā sadaļu "Pārējiedati" ` Pamatlīdzekļa ienākšanas
-dokumenta `_ un ` Pamatlīdzekļa atlikumu ievades dokumenta `_ saturā:
+Pamatlīdzekļu kartiņā sadaļu "Pārējiedati" :doc:` Pamatlīdzekļa
+ienākšanas dokumenta <433>` un :doc:` Pamatlīdzekļa atlikumu ievades
+dokumenta <436>` saturā:
 
 
 

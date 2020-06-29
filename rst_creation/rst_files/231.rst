@@ -1,6 +1,6 @@
-.. 231 =======================Cenošanas dokumenti======================= 
-Cenošanas dokumentu žurnālātiek saglabāti visi izveidotie`Cenošanas
-dokumenti`_.
+.. 231 Cenošanas dokumenti*********************** 
+Cenošanas dokumentu žurnālātiek saglabāti visi
+izveidotie:doc:`Cenošanas dokumenti<374>`.
 
 Lai atlasītu dokumentus Cenošanas dokumentu žurnālā, jāizmanto datu
 atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem

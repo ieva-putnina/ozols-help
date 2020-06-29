@@ -1,4 +1,4 @@
-.. 592 ================================Darba laika uzskaites tabele================================ 
+.. 592 Darba laika uzskaites tabele******************************** 
 
 
 Darba laika uzskaites tabele parāda darba laika uzskaiti katram

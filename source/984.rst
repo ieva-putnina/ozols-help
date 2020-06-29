@@ -1,4 +1,4 @@
-.. 984 =======================Darba laiku grafiki======================= 
+.. 984 Darba laiku grafiki*********************** 
 Darba laiku grafiki tiek izmantoti darba laika uzskaites tabeles
 aizpildīšanai, lai aizpildīšanas procesu padarītu automatizētāku un
 ērtāku.

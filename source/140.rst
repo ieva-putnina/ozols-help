@@ -1,10 +1,10 @@
-.. 140 ====================Teksta sagataves==================== 
+.. 140 Teksta sagataves******************** 
 
 
 
 Sarakstā tiek saglabāti teksta sagataves - paskaidrojumu teksti, kas
-tiek izmantoti `Iepirkuma`_ un `Pārdošanas`_ dokumentu Virsrakstā
-esošā Paskaidrojuma lauka aizpildīšanai.
+tiek izmantoti :doc:`Iepirkuma<310>` un :doc:`Pārdošanas<304>`
+dokumentu Virsrakstā esošā Paskaidrojuma lauka aizpildīšanai.
 
 
 

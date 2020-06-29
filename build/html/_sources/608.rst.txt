@@ -1,4 +1,4 @@
-.. 608 ===============================Štatu saraksta aizpildījums=============================== 
+.. 608 Štatu saraksta aizpildījums******************************* 
 
 
 Atskaites parāda štatu saraksta aizpildījumu uzņēmumā noteiktā laika

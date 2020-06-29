@@ -1,4 +1,4 @@
-.. 671 ===========================Maksājuma dzēšanas akts=========================== 
+.. 671 Maksājuma dzēšanas akts*************************** 
 Maksājuma dzēšanasakts ir paredzēts Kases/Bankas ieņēmumu/izdevumu
 nenosegto summu dzēšanai, ja nav atbilstoša norēķinu dokumenta.
 
@@ -110,7 +110,8 @@ Maksājuma dzēšanas akta grāmatošana
 ```````````````````````````````````
 
 Maksājuma dzēšanas aktuiespējams grāmatot no atvērtadokumenta vai
-izvēloties (iezīmējot)dokumentu `Maksājumu dzēšanas aktu žurnālā`_.
+izvēloties (iezīmējot)dokumentu :doc:`Maksājumu dzēšanas aktu
+žurnālā<253>`.
 
 Lai iegrāmatotu Maksājuma dzēšanas aktu, dokumentu nepieciešams
 Apstiprināt, nospiežot rīku joslā pogu .
@@ -120,15 +121,15 @@ pogu .
 
 
 
-Instrukcija - `Dokumentu grāmatošanas principi`_
+Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
 
 
 Pievienotā Maksājuma dzēšanas akta labošana
 ```````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Maksājuma
-dzēšanas aktu, kurš pieejams apskatei/labošanai`Maksājumu dzēšanas
-aktu žurnālā`_. Lai veiktu labojumusMaksājuma dzēšanas
+dzēšanas aktu, kurš pieejams apskatei/labošanai:doc:`Maksājumu
+dzēšanas aktu žurnālā<253>`. Lai veiktu labojumusMaksājuma dzēšanas
 aktā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 

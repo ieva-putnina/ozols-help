@@ -1,4 +1,4 @@
-.. 5035 ================================Budžeta pieprasījumu žurnāls================================ 
+.. 5035 Budžeta pieprasījumu žurnāls******************************** 
 Budžeta pieprasījumu žurnāla saraksta veidā tiek saglabāti visi
 pievienotie un saglabātie budžeta pieprasījumi.
 
@@ -17,8 +17,8 @@ pieprasījumu izskatīšanu:
 
 
 
-Pieprasījuma dokuments ir iesniegts `budžeta pieprasījumu
-izskatīšanai`_.
+Pieprasījuma dokuments ir iesniegts :doc:`budžeta pieprasījumu
+izskatīšanai<5041>`.
 
 
 

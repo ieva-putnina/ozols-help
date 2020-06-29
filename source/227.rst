@@ -1,4 +1,4 @@
-.. 227 ==================Kases ieņēmumi================== 
+.. 227 Kases ieņēmumi****************** 
 
 
 Kasesieņēmumu dokumentu žurnālā tiek saglabāti šādi kases ieņēmumu
@@ -6,11 +6,11 @@ dokumenti:
 
 
 
-`Kasē atgriezts avanss`_
+:doc:`Kasē atgriezts avanss<474>`
 
-`Kases ieņēmumu orderis`_
+:doc:`Kases ieņēmumu orderis<350>`
 
-`Naudas izņemšana no bankas konta`_
+:doc:`Naudas izņemšana no bankas konta<475>`
 
 
 

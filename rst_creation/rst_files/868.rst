@@ -1,4 +1,4 @@
-.. 868 ===================Bankas ieņēmumi=================== 
+.. 868 Bankas ieņēmumi******************* 
 Bankas ieņēmumu atskaite parāda bankas ieņēmumu dokumentu sarakstu,
 atbilstoši datu atlases filtrā noteiktajiem kritērijiem:
 

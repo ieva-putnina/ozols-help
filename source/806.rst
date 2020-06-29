@@ -1,10 +1,10 @@
-.. 806 =============Personāls============= 
+.. 806 Personāls************* 
 
 
-Personāla atskaitē tiek attēloti porsonāla dati, par `strādājošam`_
-pievienotajiem datiem. Atskaitē iespējams redzēt personāla datus:
-vārds un uzvārds, vecums, stāžs, amats, dzimšanas datums, adrese,
-e-pasts, u.c.
+Personāla atskaitē tiek attēloti porsonāla dati, par
+:doc:`strādājošam<111>` pievienotajiem datiem. Atskaitē iespējams
+redzēt personāla datus: vārds un uzvārds, vecums, stāžs, amats,
+dzimšanas datums, adrese, e-pasts, u.c.
 
 Filtrs (rīku joslā poga (Ctrl+F)) jāaizpilda, lai sagatavotu atskaiti.
 

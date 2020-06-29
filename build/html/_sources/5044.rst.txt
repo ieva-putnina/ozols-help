@@ -1,4 +1,4 @@
-.. 5044 ============================Budžeta projektu žurnāls============================ 
+.. 5044 Budžeta projektu žurnāls**************************** 
 Lietotājam, kuram lietotāja kontā nodefinētas tiesības mainīt
 dokumentu statusus, ir iespējams mainīt budžeta pieprasījumu statusus
 uz atpakaļejošu statusu, līdz pat pieprasījuma dzēšanai.

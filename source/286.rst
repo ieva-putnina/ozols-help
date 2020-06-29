@@ -1,4 +1,4 @@
-.. 286 ======================================Darījumu apliecinošo kvīšu žurnāls====================================== 
+.. 286 Darījumu apliecinošo kvīšu žurnāls************************************** 
 
 
 Lai uzskaitītudarījumu apliecinošo kvīšuizlietojumu, Uzņēmuma rīcībā
@@ -90,8 +90,8 @@ turpināta pārējo grāmatiņu secīga numerācija pēc kārtas.
 
 
 Pēc visu nepieciešamo lauku aizpildīšanasnospiežot pogu -dokuments
-tiks saglabāts un būs pieejams apskatei/labošanai `Darījumu
-apliecinošo kvīšu žurnālā`_.
+tiks saglabāts un būs pieejams apskatei/labošanai :doc:`Darījumu
+apliecinošo kvīšu žurnālā<286>`.
 
 Nospiežot pogu , darbība tiks atcelta unkvīšu grāmatiņasnetiks
 pievienotas datu bāzei.
@@ -103,8 +103,8 @@ pievienotas datu bāzei.
 ++++++++++++++++++++++++++++
 
 Izvēloties Darījumu apliecinošo kvīšu žurnālāpieejamo funkciju ,
-iespēja atvērt Ieņēmumu dokumentu - `Kases ieņēmumu orderi`_, kuram
-izvēlētāKvīšu grāmatiņair piesaistīta:
+iespēja atvērt Ieņēmumu dokumentu - :doc:`Kases ieņēmumu orderi<350>`,
+kuram izvēlētāKvīšu grāmatiņair piesaistīta:
 
 
 
@@ -115,18 +115,18 @@ Pievienoto darījumu apliecinošo kvīšu grāmatiņulabošana
 ```````````````````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverotKvīšu
-grāmatiņasaprakstu, kurš pieejams apskatei/labošanai `Darījumu
-apliecinošo kvīšu žurnālā`_. Lai labotu pievienoto kvīšu grāmatiņu,
-Darījumu apliecinošo kvīšu žurnālā jāizmanto komandpoga (ALT+A),
-unatvērtajāierakstā iespējams veiktnepieciešamos labojumuskvīšu
-grāmatiņasapraksta ekrāna formā.
+grāmatiņasaprakstu, kurš pieejams apskatei/labošanai :doc:`Darījumu
+apliecinošo kvīšu žurnālā<286>`. Lai labotu pievienoto kvīšu
+grāmatiņu, Darījumu apliecinošo kvīšu žurnālā jāizmanto komandpoga
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos
+labojumuskvīšu grāmatiņasapraksta ekrāna formā.
 
 Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
 
 
 
 Darījumu apliecinošās kvīšu žurnālā pievieontās Kvīšu
-grāmatiņasiespējams piesaistīt `Kases ieņēmumu orderim`_.
+grāmatiņasiespējams piesaistīt :doc:`Kases ieņēmumu orderim<350>`.
 
 
 

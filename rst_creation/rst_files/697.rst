@@ -1,4 +1,4 @@
-.. 697 ========================Nomenklatūru analogi======================== 
+.. 697 Nomenklatūru analogi************************ 
 
 
 Nomenklatūras kartiņas aprakstu iespējams papildināt, norādot

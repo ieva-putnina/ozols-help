@@ -1,17 +1,18 @@
-.. 471 ==========================Kases avansa maksājums========================== 
+.. 471 Kases avansa maksājums************************** 
 
 
 Kases izdevumu ordera veids Kases avansa maksājums ir jāveido, kad
-tiek izmaksāta avansu nauda `Avansu norēķinu personai`_. Dokumenta
-veida lietošana nodrošina izmaksāto avansu summu automatizētu uzskaiti
-`Avansa norēķina`_ dokumentā.Kases avansa maksājumsir uzskatāms par
-kases izdevumu orderi, tam ir iebūvēta kases izdevumu ordera izdrukas
-forma, un tas iekļaujas kopējā kases izdevumu orderu numerācijā.Kases
-avansa maksājumadokuments tiek vienlaicīgi parādīts `Kases
-izdevumu`_un `Avansu norēķinu`_dokumentu žurnālos. Darījuma
-atšifrēšanai pa finanšu (EK) kodiem, jāaizpilda dokumenta saturs. Lai
-dokumenta izdrukā parādītos grāmatojumu konti, dokuments pirms
-izdrukāšanas ir jāiegrāmato.
+tiek izmaksāta avansu nauda :doc:`Avansu norēķinu personai<196>`.
+Dokumenta veida lietošana nodrošina izmaksāto avansu summu
+automatizētu uzskaiti :doc:`Avansa norēķina<748>` dokumentā.Kases
+avansa maksājumsir uzskatāms par kases izdevumu orderi, tam ir
+iebūvēta kases izdevumu ordera izdrukas forma, un tas iekļaujas kopējā
+kases izdevumu orderu numerācijā.Kases avansa maksājumadokuments tiek
+vienlaicīgi parādīts :doc:`Kases izdevumu<225>`un :doc:`Avansu
+norēķinu<232>`dokumentu žurnālos. Darījuma atšifrēšanai pa finanšu
+(EK) kodiem, jāaizpilda dokumenta saturs. Lai dokumenta izdrukā
+parādītos grāmatojumu konti, dokuments pirms izdrukāšanas ir
+jāiegrāmato.
 
 
 JaunaKases avansa maksājuma pievienošana
@@ -20,8 +21,8 @@ JaunaKases avansa maksājuma pievienošana
 Lai uzskaitītu izmaksātās avansu summas, un tās parādītos avansu
 norēķinu dokumentā, izmaksājot avansu skaidrā naudā, dokuments ir
 jāveido kā Kases avansa maksājums. Dokumentā ir pieejams lauks Persona
-, kur no `Partneru saraksta`_var izvēlēties personas, kuru aprakstā ir
-pazīme `Avansu persona`_.
+, kur no :doc:`Partneru saraksta<112>`var izvēlēties personas, kuru
+aprakstā ir pazīme :doc:`Avansu persona<196>`.
 
 
 
@@ -67,8 +68,8 @@ Lai aizpildītu Kases avansa maksājuma Virsrakstu, nepieciešams:
 
 
 4. No saraksta izvēlēties nepieciešamo personu, kuras aprakstā ir
-pazīme `Avansu persona`_, kurai šī skaidras naudas operācijatiks
-noformēta:
+pazīme :doc:`Avansu persona<196>`, kurai šī skaidras naudas
+operācijatiks noformēta:
 
 
 
@@ -113,7 +114,7 @@ Kasesavansa maksājumalauki Pamatojums un Saturs tiek drukāti kases
 avansa maksājuma rindā Pamatojums.
 
 Lauku Kases avansa maksājuma Pamatojums , iespējams aizpildīt manuāli
-vai izvēloties no `Kases paskaidrojumu saraksta`_:
+vai izvēloties no :doc:`Kases paskaidrojumu saraksta<136>`:
 
 
 
@@ -141,8 +142,8 @@ Kases avansa maksājuma Pielikuma informācijas aizpildīšana
 
 
 Lauku Pielikumā , Kases avansa maksājumam iespējams aizpildīt manuāli
-vai izvēloties no `Kases pielikumu saraksta`_, laukā Piel.num.
-nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:
+vai izvēloties no :doc:`Kases pielikumu saraksta<137>`, laukā
+Piel.num. nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:
 
 
 
@@ -154,8 +155,8 @@ Kad visi nepieciešamie lauki ir aizpildīti, Kases avansa maksājums ir
 sagatavots un to ir iespējams:
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs
-vienlaicīgi pieejams apskatei/labošanai/grāmatošanai `Kases
-izdevumu`_un `Avansu norēķinu`_žurnālos.
+vienlaicīgi pieejams apskatei/labošanai/grāmatošanai :doc:`Kases
+izdevumu<225>`un :doc:`Avansu norēķinu<232>`žurnālos.
 
 2. Apstiprināt, nospiežot rīku joslā pogu -Kases avansa maksājums tiks
 Apstiprināts un to būs iespējams Grāmatot.
@@ -168,8 +169,8 @@ Lai dokumenta izdrukā parādītos grāmatojumu konti, dokuments pirms
 izdrukāšanas ir jāiegrāmato.
 
 Kases avansa maksājumu iespējams grāmatot no atvērta Kases avansa
-maksājuma dokumenta vai izvēloties (iezīmējot)dokumentu `Kases
-izdevumu`_vai `Avansu norēķinu`_žurnālā.
+maksājuma dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Kases
+izdevumu<225>`vai :doc:`Avansu norēķinu<232>`žurnālā.
 
 Lai iegrāmatotu Kases avansa maksājumu, dokumentu nepieciešams
 Apstiprināt, nospiežot rīku joslā pogu .
@@ -179,18 +180,18 @@ pogu .
 
 
 
-Instrukcija - `Dokumentu grāmatošanas principi`_
+Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
 
 
 Pievienotā Kases avansa maksājuma labošana
 ``````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Kases avansa
-maksājumu, kurš vienlaicīgi pieejams apskatei/labošanai`Kases
-izdevumu`_un `Avansu norēķinu`_žurnālos. Lai veiktu labojumusKases
-avansa maksājumā,dokumentunepieciešams atvērt, izmantojot rīku joslas
-pogu (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos
-labojumus:
+maksājumu, kurš vienlaicīgi pieejams apskatei/labošanai:doc:`Kases
+izdevumu<225>`un :doc:`Avansu norēķinu<232>`žurnālos. Lai veiktu
+labojumusKases avansa maksājumā,dokumentunepieciešams atvērt,
+izmantojot rīku joslas pogu (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus:
 
 
 

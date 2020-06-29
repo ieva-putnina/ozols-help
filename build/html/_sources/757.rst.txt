@@ -1,4 +1,4 @@
-.. 757 ===================================Norēķinu atlikumu salīdzināšana=================================== 
+.. 757 Norēķinu atlikumu salīdzināšana*********************************** 
 Norēķinu atlikumu salīdzināšanas atskaiti iespējams sagatavot pēc
 noteiktiem atlasīšanas kritērijiem.
 Filtrs jāaizpilda, lai sagatavotu atskaiti.

@@ -1,4 +1,4 @@
-.. 4439 ==========Adrese========== 
+.. 4439 Adrese********** 
 Jauna adrese tiek pievienota jau esošam Partnerim:
 
 
@@ -25,9 +25,9 @@ Piezīmes : iespējams pievienot piezīmes.
 : partnerim šī adrese ir kā galvenā adrese, noklusētā adrese.
 
 Ja visi dati ievadīti, lai tos saglabātu, jānospiež poga , adrese tiek
-saglabāta `adrešu žurnālā`_, un, lai labotu, jānospiež poga , bet lai
-pievienotu jaunu adresi, jānospiež poga .
+saglabāta :doc:`adrešu žurnālā<4432>`, un, lai labotu, jānospiež poga
+, bet lai pievienotu jaunu adresi, jānospiež poga .
 
-Visas pievienotās adreses tiek saglabātas `adrešu žurnālā`_.
+Visas pievienotās adreses tiek saglabātas :doc:`adrešu žurnālā<4432>`.
 
  

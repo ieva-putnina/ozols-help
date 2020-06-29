@@ -1,12 +1,13 @@
-.. 350 ==========================Kases ieņēmumu orderis========================== 
+.. 350 Kases ieņēmumu orderis************************** 
 
 
 Kases ieņēmumu orderis jāveido, kad tiek saņemta nauda kasē no
 uzņēmuma darījuma partneriem. Kases ieņēmumu orderi tiek saglabāti
-dokumentu žurnālā `Kases ieņēmumi`_, un dokumentam ir iebūvēta
-standarta izdrukas forma. Darījuma atšifrēšanai pa finanšu (EK)
-kodiem, jāaizpilda dokumenta saturs. Lai dokumenta izdrukā parādītos
-grāmatojumu konti, dokuments pirms izdrukāšanas ir jāiegrāmato.
+dokumentu žurnālā :doc:`Kases ieņēmumi<227>`, un dokumentam ir
+iebūvēta standarta izdrukas forma. Darījuma atšifrēšanai pa finanšu
+(EK) kodiem, jāaizpilda dokumenta saturs. Lai dokumenta izdrukā
+parādītos grāmatojumu konti, dokuments pirms izdrukāšanas ir
+jāiegrāmato.
 
 
 JaunaKases ieņēmumu orderapievienošana
@@ -115,7 +116,7 @@ Kasesieņēmuma orderalauks Pamatojums tiek drukāts kasesieņēmumu ordera
 rindā Pamatojums.
 
 Lauku Kasesieņēmumu ordera Pamatojums , iespējams aizpildīt manuāli
-vai izvēloties no `Kases paskaidrojumu saraksta`_:
+vai izvēloties no :doc:`Kases paskaidrojumu saraksta<136>`:
 
 
 
@@ -130,10 +131,11 @@ Dokumentu piesaiste Kases ieņēmumu orderim
 
 
 Kases ieņēmumu orderim iespējams piesaistītStingrās uzskaites
-dokumentusno `Darījumu apliecinošo kvīšu`_, `Kultūras un citu pasākumu
-ieejas biļešu`_vai `Caurlaižu`_žurnāla,nospiežot uz lauka Dokumenti
-labajā pusē esošās lupas pogas un pievienojot nepieciešamo Stingrās
-uzskaites dokumentu:
+dokumentusno :doc:`Darījumu apliecinošo kvīšu<286>`, :doc:`Kultūras un
+citu pasākumu ieejas biļešu<252>`vai
+:doc:`Caurlaižu<773>`žurnāla,nospiežot uz lauka Dokumenti labajā pusē
+esošās lupas pogas un pievienojot nepieciešamo Stingrās uzskaites
+dokumentu:
 
 
 
@@ -161,7 +163,7 @@ Kad visi nepieciešamie lauki ir aizpildīti, Kases ieņēmumu orderis ir
 sagatavots un to ir iespējams:
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai`Kases ieņēmumu žurnālā`_.
+apskatei/labošanai/grāmatošanai:doc:`Kases ieņēmumu žurnālā<227>`.
 
 2. Apstiprināt, nospiežot rīku joslā pogu - Kases ieņēmumu orderis
 tiks Apstiprināts un to būs iespējams Grāmatot.
@@ -171,7 +173,7 @@ Kases ieņēmumu orderagrāmatošana
 ````````````````````````````````
 
 Kases ieņēmumu orderiiespējams grāmatot no atvērta dokumenta vai
-izvēloties (iezīmējot)dokumentu `Kases ieņēmumu žurnālā`_.
+izvēloties (iezīmējot)dokumentu :doc:`Kases ieņēmumu žurnālā<227>`.
 
 Lai iegrāmatotu Kases ieņēmumu orderi, dokumentu nepieciešams
 Apstiprināt, nospiežot rīku joslā pogu .
@@ -181,15 +183,15 @@ pogu .
 
 
 
-Instrukcija - `Dokumentu grāmatošanas principi`_
+Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
 
 
 PievienotāKases ieņēmumu ordera labošana
 ````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu Kases
-ieņēmumu orderis, kurš pieejams apskatei/labošanai`Kases ieņēmumu
-žurnālā`_.
+ieņēmumu orderis, kurš pieejams apskatei/labošanai:doc:`Kases ieņēmumu
+žurnālā<227>`.
 
 Lai veiktu labojumus,dokumentunepieciešams atvērt, izmantojot rīku
 joslas pogu (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos

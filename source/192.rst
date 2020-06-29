@@ -1,7 +1,8 @@
-.. 192 ===========Adreses=========== 
+.. 192 Adreses*********** 
 
 
-Adrešu sarakst tiek veidots no `Partnerim`_ pievienotajām adresēm:
+Adrešu sarakst tiek veidots no :doc:`Partnerim<312>` pievienotajām
+adresēm:
 
 
 

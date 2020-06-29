@@ -1,4 +1,4 @@
-.. 129 =============================Pamatlīdzekļu kategorijas============================= 
+.. 129 Pamatlīdzekļu kategorijas***************************** 
 
 
 Pamatlīdzekļu kategoriju sarakstā jānodefinē uzņēmumā izmantotās

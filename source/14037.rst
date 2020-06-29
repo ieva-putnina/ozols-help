@@ -8,16 +8,16 @@ programmu darba režīmos.
 
 
 
-`Hierarhisko sarakstu veidošana`_
+:doc:`Hierarhisko sarakstu veidošana<14041>`
 
-`Jauna sarakstu ieraksta pievienošana`_
+:doc:`Jauna sarakstu ieraksta pievienošana<14038>`
 
-`Saraksta dzēšana ar aizvietošanu`_
+:doc:`Saraksta dzēšana ar aizvietošanu<14042>`
 
-`Saraksta ierakstu dzēšana`_
+:doc:`Saraksta ierakstu dzēšana<14040>`
 
-`Saraksta ierakstu labošana`_
+:doc:`Saraksta ierakstu labošana<14039>`
 
-`Sarakstu aizpildīšana no atvērta dokumenta`_
+:doc:`Sarakstu aizpildīšana no atvērta dokumenta<14043>`
 
  .. toctree::   :maxdepth: 5    14041.rst   14038.rst   14042.rst   14040.rst   14039.rst   14043.rst

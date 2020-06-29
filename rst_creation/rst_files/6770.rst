@@ -1,2 +1,2 @@
-.. 6770 ========Noma======== 
+.. 6770 Noma======== 
  .. toctree::   :maxdepth: 6    6771.rst   6772.rst   6774.rst   6773.rst

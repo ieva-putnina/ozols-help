@@ -1,2 +1,2 @@
-.. 4493 ========================Pārdošanas dokuments======================== 
+.. 4493 Pārdošanas dokuments************************ 
  .. toctree::   :maxdepth: 4    5238.rst

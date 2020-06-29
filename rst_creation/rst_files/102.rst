@@ -8,8 +8,8 @@ likmes.
 
 
 Nodokļu sarakstā definētās likmes tiek izmantotas definējot
-`nomenklatūras grupas`_ un aizpildot `Norēķinu dokumentu`_ satura
-ierakstus.
+:doc:`nomenklatūras grupas<148>` un aizpildot :doc:`Norēķinu
+dokumentu<310>` satura ierakstus.
 
 Lai nodokļu sarakstā pievienotu jaunu pievienotās vērtības nodokli,
 rīku joslā jānospiež poga , tiek atvērt logs:
@@ -27,7 +27,7 @@ Nosaukums: Nodokļa pilns nosaukums.
 
 Vērtība: Nodokļa procentuālā vērtība.
 
-Konts : `Kontu plānā`_ izveidotais pievienotās vērtības nodokļa
-grāmatvediskais konts.
+Konts : :doc:`Kontu plānā<114>` izveidotais pievienotās vērtības
+nodokļa grāmatvediskais konts.
 
  

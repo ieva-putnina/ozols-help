@@ -1,9 +1,9 @@
-.. 14095 ========================================Datu bāzes rezerves kopiju veidošana======================================== 
+.. 14095 Datu bāzes rezerves kopiju veidošana**************************************** 
 
 
 Izmantojot sistēmā iebūvētos Rīkus, ir iespēja veidot datu bāzes
 rezerves kopiju datora failu sistēmā. Rīks ir pieejams izvēlnes zarā
-Rīki->Datu bāzes pārvaldīšana->`Rezerves kopija`_:
+Rīki->Datu bāzes pārvaldīšana->:doc:`Rezerves kopija<737>`:
 
 
 

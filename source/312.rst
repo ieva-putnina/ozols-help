@@ -1,8 +1,8 @@
-.. 312 =============Partneris============= 
+.. 312 Partneris************* 
 
 
-Jauna Partnera pievienošana ir iespējama caur Partneru sadaļu `Jauns
-Partneris`_ un `Partneru sarakstu`_.
+Jauna Partnera pievienošana ir iespējama caur Partneru sadaļu
+:doc:`Jauns Partneris<312>` un :doc:`Partneru sarakstu<112>`.
 
 Lai pievienotu jaunu Partneri, rīku joslā jānospiež poga , tiek
 atvērts partnera datu logs:
@@ -26,14 +26,14 @@ Kods: partnera Vārds un Uzvārds bez garumzīmēm un mīkstinājuma zīmēm;
 Personas kods; aizpildot personas kodu, domu zīmi "-" nav jāliek,
 programma pēc 6 ciparu ievadīšanas, "-" ieliek automatizēti;
 
-Jāatzīmē pie kādām `partneru grupām`_ pieder šis partneris;
+Jāatzīmē pie kādām :doc:`partneru grupām<113>` pieder šis partneris;
 
 Jānorāda bankas konts ;
 
 Kontaktpersonas uzvārds un vārds: ja partnerim ir vēl kāda
-`kontaktpersona`_ , tad tā jāpievieno caur [Jaunu kontaktpersonu
-aprakstu], vai arī jāpapildina kontaktpersonas aprakst caur [Atvērt
-kontaktpersonas aprakstu]:
+:doc:`kontaktpersona<389>` , tad tā jāpievieno caur [Jaunu
+kontaktpersonu aprakstu], vai arī jāpapildina kontaktpersonas aprakst
+caur [Atvērt kontaktpersonas aprakstu]:
 
 
 
@@ -41,7 +41,7 @@ kontaktpersonas aprakstu]:
 
 
 
-Arī `adreses `_ir iespējams norādīt vairākas:
+Arī :doc:`adreses <192>`ir iespējams norādīt vairākas:
 
 
 
@@ -70,8 +70,8 @@ persona, atbildīgā vai norēķinu avansu ir Partneris P arī>
 
 
 
-Partneris un `strādājošais`_ partneru sarakstā ir jāpievieno tikai
-vienu reizi.
+Partneris un :doc:`strādājošais<111>` partneru sarakstā ir jāpievieno
+tikai vienu reizi.
 
 
 
@@ -85,20 +85,23 @@ norādīti uzņēmumi uz kuru konkrētais strādājošā bankas konts attiecas.
 Šie uz uzņēmumu norādītie bankas konti citu uzņēmumu programmas
 lietotājiem nebūs pieejami.
 
-Caur pogu ir redzams partnera pievienoto `kontaktpersonu saraksts`_,
-un rīku joslā ar pogu tiek pievienota jauna kontaktpersona.
+Caur pogu ir redzams partnera pievienoto :doc:`kontaktpersonu
+saraksts<189>`, un rīku joslā ar pogu tiek pievienota jauna
+kontaktpersona.
 
 
 
-Caur pogu ir redzams partnera `adrešu saraksts,`_ un ar pogu rīku
-joslā tiek pievienotas adreses. Ja ar programmu tiek vesta uzskaite
-vairākiem uzņēmumiem, tad strādājošā adresēm tiek norādīti uzņēmumi uz
-kuru konkrētā strādājošā adrese attiecas. Šīs uz uzņēmumu norādītās
-adreses citu uzņēmumu programmas lietotājiem nebūs pieejamas.
+Caur pogu ir redzams partnera :doc:`adrešu saraksts,<192>` un ar pogu
+rīku joslā tiek pievienotas adreses. Ja ar programmu tiek vesta
+uzskaite vairākiem uzņēmumiem, tad strādājošā adresēm tiek norādīti
+uzņēmumi uz kuru konkrētā strādājošā adrese attiecas. Šīs uz uzņēmumu
+norādītās adreses citu uzņēmumu programmas lietotājiem nebūs
+pieejamas.
 
 
 
-Caur pogu un tad pogu rīku joslā tiek pievienotas `maksājumu kartes`_.
+Caur pogu un tad pogu rīku joslā tiek pievienotas :doc:`maksājumu
+kartes<651>`.
 
 
 
@@ -114,9 +117,9 @@ kartītes datu pievienošanai:
 
 
 
-Personas kartītē var pievienot datus par ģimenes sastāvu, `valodu
-prasmi`_, `karjeru`_, `izglītību`_, apbalvojumiem un sodiem, kā arī
-`citu informāciju`_.
+Personas kartītē var pievienot datus par ģimenes sastāvu, :doc:`valodu
+prasmi<761>`, :doc:`karjeru<762>`, :doc:`izglītību<763>`,
+apbalvojumiem un sodiem, kā arī :doc:`citu informāciju<765>`.
 Lai labotu ierakstu, divreiz jāuzklikšķina uz rindas, kuru jālabo.
 
 
@@ -129,17 +132,17 @@ Sadaļā Pārējie dati :
 
 
 
-Tiek noteikts partnera statuss, institucionālo `sektoru`_
+Tiek noteikts partnera statuss, institucionālo :doc:`sektoru<810>`
 klasifikācija.
 
 Mūsu konts : uzņēmuma konts, kurš piesaistīts partnerim un parādīsies
-`norēķinu dokumentos`_;
+:doc:`norēķinu dokumentos<22>`;
 
 Apmaksas veids: partnerim kā pircējam tiek nodefinēts apmaksas
 termiņš;
 
 Koresp. e-pasts: jānorāda e-pasta adrese uz kuru tiks sūtīti dažādi
-`norēķinu dokumenti`_.
+:doc:`norēķinu dokumenti<204>`.
 
 
 
@@ -158,8 +161,8 @@ Ja partneris ir Piegādātājs, Pircējs vai Avansu personas grupā:
 
 
 Tad attiecīgi katrai partnera grupai tiek piesaistīts grāmatvediskais
-konts - vai nu Noklusētais no Kopīgajiem `Virsgrāmatas
-iestādījumiem`_vai arī iespējams izvēlētajam partnerim norādīt
+konts - vai nu Noklusētais no Kopīgajiem :doc:`Virsgrāmatas
+iestādījumiem<707>`vai arī iespējams izvēlētajam partnerim norādīt
 individuālu - Piegādātāja, Pircēja un Av.pers. grāmatvedisko kontu no
 kontu plāna.
 

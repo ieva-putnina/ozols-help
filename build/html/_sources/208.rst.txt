@@ -1,18 +1,19 @@
-.. 208 =============================Nodokļu dokumentu žurnāls============================= 
+.. 208 Nodokļu dokumentu žurnāls***************************** 
 
 
 Lai algu aprēķinā tiktu piemērotas pareizas nodokļu likmes, jāpārbauda
-nodokļa aprēķina metožu sarakstu - `Ienākuma nodokļu metodes`_un
-`Sociālo nodokļu metodes`_-pareizība, nodokļu dokumentā jāpievieno
-atbilstoša nodokļu aprēķina metode. Veicot algu aprēķinu, jāpārbauda,
-vai tiek piemērots atbilstošais nodokļu dokuments.
+nodokļa aprēķina metožu sarakstu - :doc:`Ienākuma nodokļu
+metodes<222>`un :doc:`Sociālo nodokļu metodes<223>`-pareizība, nodokļu
+dokumentā jāpievieno atbilstoša nodokļu aprēķina metode. Veicot algu
+aprēķinu, jāpārbauda, vai tiek piemērots atbilstošais nodokļu
+dokuments.
 
 
 
 Nodokļu dokuments nosaka, kādas nodokļa likmes tiks piemērotas algu
 aprēķinā. Nodokļu dokumentus var pievienot strādājošā
-`Slodzes`_kartiņā caur pogu vai nodokļu dokumentu žurnālā, nospiežot
-Rīku joslā pogu :
+:doc:`Slodzes<207>`kartiņā caur pogu vai nodokļu dokumentu žurnālā,
+nospiežot Rīku joslā pogu :
 
 
 

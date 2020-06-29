@@ -1,4 +1,4 @@
-.. 4210 =========================Regresa lietu žurnāls========================= 
+.. 4210 Regresa lietu žurnāls************************* 
 
 
 Sistēmā OZOLS izveido Regresa lietas kartiņu, uz kuru tiek pārnesti
@@ -83,7 +83,7 @@ lauki, kuros iespējams norādīt:
 
 Lai sagatavotu rēķinu, nepieciešams izpildīt komandu "Izveidot rēķinu"
 , izpildot šo darbību tiks uzģenerēts izvēlētā dokumenta veida rēķins,
-kurš būs pieejams `Iepirkumu dokumentu žurnālā`_.
+kurš būs pieejams :doc:`Iepirkumu dokumentu žurnālā<210>`.
 
 
 

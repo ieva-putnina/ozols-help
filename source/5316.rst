@@ -1,2 +1,2 @@
-.. 5316 =============Pamatdati============= 
+.. 5316 Pamatdati************* 
  .. toctree::   :maxdepth: 4    5321.rst   5322.rst

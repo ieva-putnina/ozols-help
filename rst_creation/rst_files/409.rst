@@ -1,15 +1,16 @@
-.. 409 ======================Rīkojumu dokuments====================== 
+.. 409 Rīkojumu dokuments********************** 
 Lai strādājošā algu aprēķinā aprēķinātu, piemēram, atvaļinājuma naudu,
 kā arī pieņemtu/atlaistu darbiniekuvai izpildītu citas darbības, kas
 veic izmaiņas strādājošā slodzes kalendārā, jāveido rīkojuma
 dokumenti.
 
-Rīkojumu dokumentu saraksts atrodas `Rīkojumu dokumentu žurnālā`_.
+Rīkojumu dokumentu saraksts atrodas :doc:`Rīkojumu dokumentu
+žurnālā<209>`.
 Pievienojot jaunu strādājošo, pirmais rīkojums par pieņemšanu darbā
 tiek aizpildīts slodzes ievades formā. Pēc slodzes saglabāšanas šis
-rīkojums tiek saglabāts `Rīkojumu žurnālā`_, un, lai šis rīkojums
-piedalītos algu aprēķinos, tas `Rīkojumu žurnālā`_ obligāti
-jāapstiprina.
+rīkojums tiek saglabāts :doc:`Rīkojumu žurnālā<209>`, un, lai šis
+rīkojums piedalītos algu aprēķinos, tas :doc:`Rīkojumu žurnālā<209>`
+obligāti jāapstiprina.
 
 Lai pievienotu jaunu rīkojumu, rīku joslā jānospiež poga (Alt+P):
 

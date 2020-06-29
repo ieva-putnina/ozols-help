@@ -1,11 +1,12 @@
-.. 408 =====================Nodokļu dokuments===================== 
+.. 408 Nodokļu dokuments********************* 
 
 
 Lai algu aprēķinā tiktu piemērotas pareizas nodokļu likmes, jāpārbauda
-nodokļa aprēķina metožu sarakstu - `Ienākuma nodokļu metodes`_un
-`Sociālo nodokļu metodes`_-pareizība, nodokļu dokumentā jāpievieno
-atbilstoša nodokļu aprēķina metode. Veicot algu aprēķinu, jāpārbauda,
-vai tiek piemērots atbilstošais nodokļu dokuments.
+nodokļa aprēķina metožu sarakstu - :doc:`Ienākuma nodokļu
+metodes<222>`un :doc:`Sociālo nodokļu metodes<223>`-pareizība, nodokļu
+dokumentā jāpievieno atbilstoša nodokļu aprēķina metode. Veicot algu
+aprēķinu, jāpārbauda, vai tiek piemērots atbilstošais nodokļu
+dokuments.
 
 
 

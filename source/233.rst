@@ -1,21 +1,23 @@
-.. 233 ===========================Pamatlīdzekļu dokumenti=========================== 
+.. 233 Pamatlīdzekļu dokumenti*************************** 
 Pamatlīdzekļudokumentu žurnālā tiek parādīta informācija par uzņēmuma
 dokumentiem, kuri saistīti ar Pamatlīdzekļiem:
 
 
-+ `Pamatlīdzekļu atlikumu ievades dokumenti`_;
-+ `Pamatlīdzekļu derīgās lietošanas termiņa maiņas dokumenti`_;
-+ `Pamatlīdzekļu ienākšanas dokumenti`_;
-+ `Pamatlīdzekļu inventarizācijas dokumenti`_;
-+ `Pamatlīdzekļu likvidācijas vērtības korekcijas dokumenti`_;
-+ `Pamatlīdzekļu nolietojuma dokumenti`_;
-+ `Pamatlīdzekļu norakstīšanas dokumenti`_;
-+ `Pamatlīdzekļu pieņemšanas ekspluatācijā dokumenti`_;
-+ `Pamatlīdzekļu sadales dokumenti`_;
-+ `Pamatlīdzekļu norakstīšanas dokumenti (daļēji)`_;
-+ `Pamatlīdzekļu papildināšanas dokumenti`_;
-+ `Pamatlīdzekļu pārvērtēšanas dokumenti`_;
-+ `Pamatlīdzekļu pārsūtīšanas dokumenti`_.
++ :doc:`Pamatlīdzekļu atlikumu ievades dokumenti<436>`;
++ :doc:`Pamatlīdzekļu derīgās lietošanas termiņa maiņas
+  dokumenti<812>`;
++ :doc:`Pamatlīdzekļu ienākšanas dokumenti<433>`;
++ :doc:`Pamatlīdzekļu inventarizācijas dokumenti<462>`;
++ :doc:`Pamatlīdzekļu likvidācijas vērtības korekcijas
+  dokumenti<442>`;
++ :doc:`Pamatlīdzekļu nolietojuma dokumenti<440>`;
++ :doc:`Pamatlīdzekļu norakstīšanas dokumenti<441>`;
++ :doc:`Pamatlīdzekļu pieņemšanas ekspluatācijā dokumenti<828>`;
++ :doc:`Pamatlīdzekļu sadales dokumenti<432>`;
++ :doc:`Pamatlīdzekļu norakstīšanas dokumenti (daļēji)<820>`;
++ :doc:`Pamatlīdzekļu papildināšanas dokumenti<817>`;
++ :doc:`Pamatlīdzekļu pārvērtēšanas dokumenti<438>`;
++ :doc:`Pamatlīdzekļu pārsūtīšanas dokumenti<437>`.
 
 
 Lai atlasītu precīzāku dokumenta veidu, Rīku joslā jānospiež poga
@@ -50,7 +52,7 @@ joslā nospiežot pogu (Alt+A).
 
 
 Instrukcija par vairāku Pamatlīdzekļu automatizētu apstrādi pieejama
-`šeit`_
+:doc:`šeit`
 
 
  

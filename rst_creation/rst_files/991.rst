@@ -1,11 +1,11 @@
-.. 991 =====================================Debitoru korespondences komentāri===================================== 
+.. 991 Debitoru korespondences komentāri************************************* 
 
 
 
 Sarakstā tiek saglabāti debitoru korespondences komentāri -
 paskaidrojumu teksti, kas tiek izmantoti Debitoru korespondences
 uzturēšanai, izmantojot CRM funkcionalitāti - pievienojot komentārus
-atskaitē `Pircēju parādi`_.
+atskaitē :doc:`Pircēju parādi<555>`.
 
 
 

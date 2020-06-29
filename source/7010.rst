@@ -1,4 +1,4 @@
-.. 7010 ===========Akcijas=========== 
+.. 7010 Akcijas*********** 
 
 
 Izvēloties dokumenta veidu Akcijas, tiks atvērts jauns logs:
@@ -13,8 +13,8 @@ Lai Akciju žurnālā tiktu pievienota jauna akcija, nepieciešams:
 
 
 
-1. No `Partneru`_ saraksta izvēlēties personu, kurš ir Akcijas
-turētājs:
+1. No :doc:`Partneru<112>` saraksta izvēlēties personu, kurš ir
+Akcijas turētājs:
 
 
 
@@ -22,9 +22,9 @@ turētājs:
 
 
 
-Informācija par partnera valsti un statusu tiek ņemta no `Partnera`_
-aprakstā norādītās Partnera Valsts (Ja Partnerim valsts norādīta
-Latvija - rezident, ja cita valsts - nerezidents).
+Informācija par partnera valsti un statusu tiek ņemta no
+:doc:`Partnera<112>` aprakstā norādītās Partnera Valsts (Ja Partnerim
+valsts norādīta Latvija - rezident, ja cita valsts - nerezidents).
 
 
 
@@ -51,6 +51,6 @@ akcijas turētāja:
 
 
 Saglabātie ieraksti - pievienotās Akcijas, būs pieejams
-apskatei/labošanai `Akciju žurnālā`_.
+apskatei/labošanai :doc:`Akciju žurnālā<7009>`.
 
  

@@ -1,7 +1,7 @@
-.. 279 ======================Ieejošo kodu veidi====================== 
+.. 279 Ieejošo kodu veidi********************** 
 
 
-Šajā sarakstā tiek nodefinēti algu `ieejošo kodu`_ veidi.
+Šajā sarakstā tiek nodefinēti algu :doc:`ieejošo kodu<282>` veidi.
 
 
 

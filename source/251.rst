@@ -1,8 +1,8 @@
-.. 251 ========================Darba līgumu žurnāls======================== 
-``_
+.. 251 Darba līgumu žurnāls************************ 
+:doc:`<251>`
 
-Darba līgumu žurnālā tiek saglabāti visi `slodzei`_pievienotie darba
-līgumi.
+Darba līgumu žurnālā tiek saglabāti visi
+:doc:`slodzei<207>`pievienotie darba līgumi.
 
 Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
 tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
@@ -31,16 +31,17 @@ Jauna Darba līgumapievienošana
 
 Darba līgumu strādājošajam iespējams pievienot:
 
-1. Strādājošā `Slodzes`_ aprakstā, nospiežot pogu ;
+1. Strādājošā :doc:`Slodzes<207>` aprakstā, nospiežot pogu ;
 
 
 
-2. Atrodoties`Darba līgumu žurnālā`_un rīku joslānospiežot pogu ;
+2. Atrodoties:doc:`Darba līgumu žurnālā<251>`un rīku joslānospiežot
+pogu ;
 
 
 
-Lai aizpildītu Darba līgumu, jāizvēlas `Strādājošais`_ (`slodze`_ ),
-uz kuru attieksies darba līgums:
+Lai aizpildītu Darba līgumu, jāizvēlas :doc:`Strādājošais<111>`
+(:doc:`slodze<207>` ), uz kuru attieksies darba līgums:
 
 
 
@@ -72,6 +73,7 @@ Dati tiek saglabāti, nospiežot pogu .
 
 
 
-Pievienotie un saglabātie dati tiek saglabāti`Darba līgumu žurnālā`_.
+Pievienotie un saglabātie dati tiek saglabāti:doc:`Darba līgumu
+žurnālā<251>`.
 
  

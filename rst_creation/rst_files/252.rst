@@ -1,4 +1,4 @@
-.. 252 ===================================================Kultūras un citu pasākumu ieejas biļešu žurnāls=================================================== 
+.. 252 Kultūras un citu pasākumu ieejas biļešu žurnāls*************************************************** 
 
 
 Lai uzskaitītukultūras un citu pasākumu ieejas biļešuizlietojumu,
@@ -91,8 +91,8 @@ turpināta pārējo grāmatiņu secīga numerācija pēc kārtas.
 
 
 Pēc visu nepieciešamo lauku aizpildīšanasnospiežot pogu -dokuments
-tiks saglabāts un būs pieejams apskatei/labošanai `Kultūras un citu
-pasākumu ieejas biļešu žurnālā`_.
+tiks saglabāts un būs pieejams apskatei/labošanai :doc:`Kultūras un
+citu pasākumu ieejas biļešu žurnālā<252>`.
 
 Nospiežot pogu , darbība tiks atcelta unieejas biļetes netiks
 pievienotas datu bāzei.
@@ -104,8 +104,8 @@ pievienotas datu bāzei.
 ++++++++++++++++++++++++++++
 
 IzvēlotiesKultūras un citu pasākumu ieejas biļešužurnālāpieejamo
-funkciju , iespēja atvērt Ieņēmumu dokumentu - `Kases ieņēmumu
-orderi`_, kuram izvēlētās ieejas biļetes ir piesaistītas:
+funkciju , iespēja atvērt Ieņēmumu dokumentu - :doc:`Kases ieņēmumu
+orderi<350>`, kuram izvēlētās ieejas biļetes ir piesaistītas:
 
 
 
@@ -113,24 +113,24 @@ orderi`_, kuram izvēlētās ieejas biļetes ir piesaistītas:
 
 
 
-Instrukcija: `Kultūras un citu ieejas biļešu piesaistīšana kases
-ieņēmumu orderim`_
+Instrukcija: :doc:`Kultūras un citu ieejas biļešu piesaistīšana kases
+ieņēmumu orderim<14112>`
 
 
 Pievienoto Kultūras un citu pasākumu ieejas biļešu labošana
 ```````````````````````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverotIeejas biļetes
-aprakstu, kurš pieejams apskatei/labošanai `Kultūras un citu pasākumu
-ieejas biļešu žurnālā`_. Lai labotu pievienoto ierakstu, Kultūras un
-citu pasākumu ieejas biļešu žurnālā jāizmanto komandpoga (ALT+A),
-unatvērtajāierakstā iespējams veiktnepieciešamos labojumus.
+aprakstu, kurš pieejams apskatei/labošanai :doc:`Kultūras un citu
+pasākumu ieejas biļešu žurnālā<252>`. Lai labotu pievienoto ierakstu,
+Kultūras un citu pasākumu ieejas biļešu žurnālā jāizmanto komandpoga
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus.
 
 Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
 
 
 
 Kultūras un citu pasākumu ieejas biļešužurnālā pievieontās ieejas
-biļetes iespējams piesaistīt `Kases ieņēmumu orderim`_.
+biļetes iespējams piesaistīt :doc:`Kases ieņēmumu orderim<350>`.
 
  

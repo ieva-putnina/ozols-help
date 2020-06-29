@@ -1,4 +1,4 @@
-.. 4457 =============================Nomenklatūras apgrozījums============================= 
+.. 4457 Nomenklatūras apgrozījums***************************** 
 
 
 Nomenklatūras apgrozījuma atskaiteparādakrājumu sākuma atlikumus,

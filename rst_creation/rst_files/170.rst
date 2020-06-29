@@ -1,4 +1,4 @@
-.. 170 ========================Ārējo maksājumu kodi======================== Klasifikators ir `Latvijas bankas apstiprināts`_ ārējo maksājumu
+.. 170 ========================Ārējo maksājumu kodi======================== Klasifikators ir :doc:`Latvijas bankas apstiprināts` ārējo maksājumu
 saraksts. Katram ārējā maksājuma mērķim tiek piešķirts trīsciparu
 maksājuma kods, atbilstoši maksājumu bilances starptautiskajiem
 standartiem.

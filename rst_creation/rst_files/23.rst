@@ -1,31 +1,31 @@
 .. 23 ============Saraksti============ 
-`Apmaksas veidi`_
+:doc:`Apmaksas veidi<122>`
 
-`Atlaižu grupas`_
+:doc:`Atlaižu grupas<185>`
 
-`Bankas kontu grupas`_
+:doc:`Bankas kontu grupas<857>`
 
-`Cenas`_
+:doc:`Cenas<749>`
 
-`Cenu veidi`_
+:doc:`Cenu veidi<105>`
 
-`Cenu veidu kursi`_
+:doc:`Cenu veidu kursi<897>`
 
-`Debitoru korespondences komentāri`_
+:doc:`Debitoru korespondences komentāri<991>`
 
-`Grupas`_
+:doc:`Grupas<148>`
 
-`Iepirkumu dokumentu veidi`_
+:doc:`Iepirkumu dokumentu veidi<158>`
 
-`Pakalpojumi`_
+:doc:`Pakalpojumi<108>`
 
-`Pārdošanas dokumentu veidi`_
+:doc:`Pārdošanas dokumentu veidi<157>`
 
-`Standartizētie nosaukumi`_
+:doc:`Standartizētie nosaukumi<768>`
 
-`Teksta sagataves`_
+:doc:`Teksta sagataves<140>`
 
-`Uzrēķini`_
+:doc:`Uzrēķini<686>`
 
 
 

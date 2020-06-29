@@ -1,11 +1,12 @@
-.. 692 =================================Nomenklatūras norakstīšana uz================================= 
+.. 692 Nomenklatūras norakstīšana uz********************************* 
 
 
 Lai nodrošinātu nomenklatūras pārsūtīšanu uz uzņēmuma
-`Struktūrvienībām`_ un vienlaicīgi nomenklatūras norakstīšanu no
-`Noliktavas`_, nepieciešams veidot Nomenklatūras norakstīšana uz...
-dokumentu. Nomenklatūras norakstīšanas uz... dokuments tiek saglabāts
-`Iekšējās kustības dokumentu žurnālā`_.
+:doc:`Struktūrvienībām<117>` un vienlaicīgi nomenklatūras norakstīšanu
+no :doc:`Noliktavas<142>`, nepieciešams veidot Nomenklatūras
+norakstīšana uz... dokumentu. Nomenklatūras norakstīšanas uz...
+dokuments tiek saglabāts :doc:`Iekšējās kustības dokumentu
+žurnālā<688>`.
 
 
 Jauna Nomenklatūras norakstīšanas uz... dokumenta pievienošana
@@ -105,8 +106,8 @@ ir iespējams:
 
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai `Iekšējās kustības dokumentu
-žurnālā`_.
+apskatei/labošanai/grāmatošanai :doc:`Iekšējās kustības dokumentu
+žurnālā<688>`.
 
 2. Apstiprināt, nospiežot rīku joslā pogu -Nomenklatūras norakstīšanas
 uz...dokuments tiks Apstiprināts un to būs iespējams Grāmatot.
@@ -116,8 +117,8 @@ Nomenklatūrasnorakstīšanas uz...dokumenta grāmatošana
 `````````````````````````````````````````````````````
 
 Nomenklatūrasnorakstīšanas uzdokumentuiespējams grāmatot no atvērta
-dokumenta vai izvēloties (iezīmējot)dokumentu `Iekšējās kustības
-dokumentu žurnālā`_.
+dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Iekšējās kustības
+dokumentu žurnālā<688>`.
 
 Lai iegrāmatotu Nomenklatūras norakstīšanu uz, dokumentu nepieciešams
 Apstiprināt, nospiežot rīku joslā pogu . Apstiprinātu dokumentu ir
@@ -125,7 +126,7 @@ iespējams grāmatot, nospiežot rīku joslā pogu .
 
 
 
-Instrukcija - `Dokumentu grāmatošanas principi`_
+Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
 
 
 PievienotāNorakstīšanas uz...dokumenta labošana
@@ -133,8 +134,8 @@ PievienotāNorakstīšanas uz...dokumenta labošana
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Nomenklatūras
 norakstīšanas uz... dokumentu, kurš pieejams
-apskatei/labošanai`Iekšējās kustības dokumentu žurnālā`_. Lai veiktu
-labojumusNomenklatūras norakstīšanas uz...
+apskatei/labošanai:doc:`Iekšējās kustības dokumentu žurnālā<688>`. Lai
+veiktu labojumusNomenklatūras norakstīšanas uz...
 dokumentā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 

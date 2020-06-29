@@ -1,14 +1,14 @@
-.. 49 ===============Virsgrāmata=============== 
+.. 49 Virsgrāmata=============== 
 
 
 Virsgrāmata ir galvenā grāmatvedības sistēmas OZOLS finanšu uzskaites
 sastāvdaļa. Ar programmas palīdzību tiek uzturēti būtiskākie
-grāmatvedības sistēmas OZOLS saraksti - `Kontu plāns`_, dimensijas,
-`Kontu atlikumi`_finanšu gada sākumā, finanšu plāni. Tajā pieejami
-visi sistēmas grāmatojumu dati, kurus izmanto kontējumu atskaišu
-sagatavošanai. Ar Virsgrāmatas palīdzību var ievadīt manuālos
-grāmatojumus (bez pirmdokumentiem), kā arī sagatavot grāmatvedības
-atskaites.
+grāmatvedības sistēmas OZOLS saraksti - :doc:`Kontu plāns<114>`,
+dimensijas, :doc:`Kontu atlikumi<146>`finanšu gada sākumā, finanšu
+plāni. Tajā pieejami visi sistēmas grāmatojumu dati, kurus izmanto
+kontējumu atskaišu sagatavošanai. Ar Virsgrāmatas palīdzību var
+ievadīt manuālos grāmatojumus (bez pirmdokumentiem), kā arī sagatavot
+grāmatvedības atskaites.
 
 
 Virsgrāmata nodrošina:

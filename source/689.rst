@@ -1,4 +1,4 @@
-.. 689 =====================================Nomenklatūras daudzumi noliktavās===================================== 
+.. 689 Nomenklatūras daudzumi noliktavās************************************* 
 
 
 Sarakstā iespējams jebkurai precei/krājumam nomenklatūras kartiņā

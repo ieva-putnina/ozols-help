@@ -1,4 +1,4 @@
-.. 14014 ========================Darbs ar dokumentiem======================== 
+.. 14014 Darbs ar dokumentiem************************ 
 
 Apstiprinātie dokumenti
 +++++++++++++++++++++++

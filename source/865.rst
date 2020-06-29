@@ -1,4 +1,4 @@
-.. 865 ==============================================Pamatlīdzekļiem nav aprēķināts nolietojums============================================== 
+.. 865 Pamatlīdzekļiem nav aprēķināts nolietojums********************************************** 
 Šajā atskaitē tiek atlasīti pamatlīdzekļi, kuriem nav aprēķināts
 nolietojums. Atskaite tiek sagatavota par norādīto nolietojuma periodu
 pēc noteiktiem izvēlētajiem kritērijiem.

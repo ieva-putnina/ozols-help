@@ -1,8 +1,8 @@
-.. 253 ===========================Maksājumu dzēšanas akti=========================== 
+.. 253 Maksājumu dzēšanas akti*************************** 
 
 
-Maksājumu dzēšanas akti ir paredzēti `Kases`_/`Bankas
-ieņēmumu`_/`izdevumu`_ nenosegto summu dzēšanai, ja nav atbilstoša
-norēķinu dokumenta.
+Maksājumu dzēšanas akti ir paredzēti :doc:`Kases<350>`/:doc:`Bankas
+ieņēmumu<349>`/:doc:`izdevumu<347>` nenosegto summu dzēšanai, ja nav
+atbilstoša norēķinu dokumenta.
 
  

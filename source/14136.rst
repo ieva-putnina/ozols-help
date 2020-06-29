@@ -1,4 +1,4 @@
-.. 14136 =====================================================Klientu menedžeru piesaiste Pārdošanas dokumentos===================================================== 
+.. 14136 Klientu menedžeru piesaiste Pārdošanas dokumentos***************************************************** 
 Lai ērti un efektīvi varētu iegūt analīzes datus par pircēju/preču
 apgrozījumu konkrētā periodā sadalījumā pa klientu menedžeriem,
 iespējams izmantot sistēmā pieejamās iespējas, piesaistot konkrētam
@@ -6,49 +6,52 @@ klientiem attiecīgo klientu menedžeri, kurš pēc tam automātiski tiek
 piesaistīts klientam, gatavojot pārdošanas dokumentu.
 
 1. Klientu menedžeris tiek definēts Partneru sarakstā CRM
-(Partneri)->Saraksti->`Partneri`_ - partnera aprakstā atzīmējot grupu
-"strādājošais":
+(Partneri)->Saraksti->:doc:`Partneri<112>` - partnera aprakstā
+atzīmējot grupu "strādājošais":
 
 
 
 2. Lai informācija par klientu menedžeri automātiski aizpildītos
 sagatavojot Pārdošanas dokumentu konkrētam klientam, klientu menedžeri
 nepieciešams piesaistīt konkrētam partnerim.
-CRM(Partneri)->Saraksti->`Partneri`_ - atverot konkrētu partneri,
-sadaļā "Pārējie dati":
+CRM(Partneri)->Saraksti->:doc:`Partneri<112>` - atverot konkrētu
+partneri, sadaļā "Pārējie dati":
 
 
 
-3. Turpmāk, sagatavojot `Pārdošanas dokumentu`_ šim klientam, kuram
-klientu menedžeris ir piesaistīts, automātiski dokumenta virsraksta
-sadaļā tiks ielādēta piesaistītā menedžera informācija:
+3. Turpmāk, sagatavojot :doc:`Pārdošanas dokumentu<304>` šim klientam,
+kuram klientu menedžeris ir piesaistīts, automātiski dokumenta
+virsraksta sadaļā tiks ielādēta piesaistītā menedžera informācija:
 
 
 
-4. Atbilstoši šādā veidā sagatavotiem `Pārdošanas dokumentiem`_,
-izmantojot Ozolā pieejamās Norēķinu un Noliktavas atskaites, iespējams
-iegūt detalizētu informāciju par sagatavotajiem Pārdošanas dokumentiem
-un pārdotajām precēm klientu menedžeru griezumā:
+4. Atbilstoši šādā veidā sagatavotiem :doc:`Pārdošanas
+dokumentiem<204>`, izmantojot Ozolā pieejamās Norēķinu un Noliktavas
+atskaites, iespējams iegūt detalizētu informāciju par sagatavotajiem
+Pārdošanas dokumentiem un pārdotajām precēm klientu menedžeru
+griezumā:
 
-1) Norēķini->Atskaites->`Pircēju apgrozījums`_-> iespēja atlasīt
-filtrā norādītajam klientu menedžerim piesaistīto pircēju apgrozījumu:
-
-
-
-2) Norēķini->Atskaites->`Pārdošanas dokumenti`_ -> iespēja atlasīt
-visus vienam klientu menedžerim piesaistītos Pārdošanas dokumentus:
+1) Norēķini->Atskaites->:doc:`Pircēju apgrozījums<583>`-> iespēja
+atlasīt filtrā norādītajam klientu menedžerim piesaistīto pircēju
+apgrozījumu:
 
 
 
-3) Noliktava->Atskaites->`Pārdotā nomenklatūra`_ -> iespēja atlasīt
-datus par pārdotajām precēm klienta menedžera griezumā:
+2) Norēķini->Atskaites->:doc:`Pārdošanas dokumenti<539>` -> iespēja
+atlasīt visus vienam klientu menedžerim piesaistītos Pārdošanas
+dokumentus:
 
 
 
-4) Noliktava->Atskaites->`Pārdotā nomenklatūra (detalizēti)`_->
-iespēja atlasīt datus par pārdotajām precēm klienta menedžera
-griezumā, uzrādot arī detalizētu informāciju par pašu Pārdošanas
-dokumentu:
+3) Noliktava->Atskaites->:doc:`Pārdotā nomenklatūra<547>` -> iespēja
+atlasīt datus par pārdotajām precēm klienta menedžera griezumā:
+
+
+
+4) Noliktava->Atskaites->:doc:`Pārdotā nomenklatūra
+(detalizēti)<553>`-> iespēja atlasīt datus par pārdotajām precēm
+klienta menedžera griezumā, uzrādot arī detalizētu informāciju par
+pašu Pārdošanas dokumentu:
 
 
 

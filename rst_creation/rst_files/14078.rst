@@ -1,23 +1,23 @@
-.. 14078 ========================================Kontējumu shēmas Polišu grāmatošanai======================================== 
+.. 14078 Kontējumu shēmas Polišu grāmatošanai**************************************** 
 
 
 Polišu grāmatojumu kontējumu shēmas tiek veidotas, balstoties uz
-iepriekš sagatavoto `Kontu plānu`_ un datu uzskaites dimensiju
-klasifikatora ierakstiem(Piemēram, Apdrošināšanas veids) norādītajiem
-noklusētajiem kontiem.
+iepriekš sagatavoto :doc:`Kontu plānu<114>` un datu uzskaites
+dimensiju klasifikatora ierakstiem(Piemēram, Apdrošināšanas veids)
+norādītajiem noklusētajiem kontiem.
 
 
 Nepieciešamās detalizācijas izveide kontu plānā
 +++++++++++++++++++++++++++++++++++++++++++++++
 
-Lai būtu iespējams iegūt detalizētu informāciju `Virsgrāmatas
-atskaitēs`_, sadalījumā pa polišu veidiem, konta plānā -
+Lai būtu iespējams iegūt detalizētu informāciju :doc:`Virsgrāmatas
+atskaitēs<524>`, sadalījumā pa polišu veidiem, konta plānā -
 grāmatvediskajiem kontiem, pēc vienota principa ieteicams veidot
 subkontus, atšifrējot kontus pa apdrošināšanas veidiem.
 
-`Kontu plānā`_augstākā līmeņa konta apakškontus iespējams pievienot,
-izmantojot rīku joslas pogu un aizpildot nepieciešamos konta apraksta
-ierakstus.
+:doc:`Kontu plānā<114>`augstākā līmeņa konta apakškontus iespējams
+pievienot, izmantojot rīku joslas pogu un aizpildot nepieciešamos
+konta apraksta ierakstus.
 
 
 

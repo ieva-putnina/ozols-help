@@ -1,9 +1,9 @@
-.. 4209 =================CSNg. žurnāls================= 
+.. 4209 CSNg. žurnāls***************** 
 
 
 Ceļu satiksmes negadījumužurnālā saraksta veidā tiek parādīti
 reģistrētie ceļu satiksmes negadījumi, balstoties uz kuriem tiek
-veidotas `Atlīdzību lietas`_.
+veidotas :doc:`Atlīdzību lietas<4205>`.
 
 
 
@@ -22,8 +22,9 @@ vietas apraksts.
 
 
 2. Labot - šajā lapā, uzklikšķinot uz atbilstošajiem ierakstiem,
-iespējams iegūtinformāciju par izveidoto `Atlīdzību lietu`_un`Regresa
-lietu`_, balstoties uzCSNg informāciju.
+iespējams iegūtinformāciju par izveidoto :doc:`Atlīdzību
+lietu<4205>`un:doc:`Regresa lietu<4210>`, balstoties uzCSNg
+informāciju.
 
 
 

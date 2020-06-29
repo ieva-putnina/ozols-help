@@ -1,8 +1,8 @@
-.. 874 ================Atgādinātāji================ 
+.. 874 Atgādinātāji**************** 
 
 
-Atgādinātāju žurnālātiek saglabāti visi sagatavotie `Atgādinājumu
-ieraksti`_.
+Atgādinātāju žurnālātiek saglabāti visi sagatavotie :doc:`Atgādinājumu
+ieraksti<875>`.
 
 
 
