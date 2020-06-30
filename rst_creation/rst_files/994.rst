@@ -2,7 +2,7 @@
 Pieteikumu tiesai dokumentu žurnāls ir specifisks darba režīms, kas
 pieejams, izmantojot Ozols papildus funkcionalitāti.
 Pieteikumu tiesai dokumentu žurnālā saraksta veidātiek saglabāti
-izveidotie:doc:` :doc:`Pieteikums tiesai<993>`.
+izveidotie:doc:` :doc:`Pieteikums tiesai<993>` .
 
 
 Lai atlasītu dokumentus dokumentu žurnālā, jāizmanto datu atlases

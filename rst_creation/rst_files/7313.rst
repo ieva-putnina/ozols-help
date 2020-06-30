@@ -1,12 +1,12 @@
 .. 7313 Struktūrvienības******************** 
 Struktūrvienību sarakstā tiek saglabātas visas pievienotās
-:doc:`struktūrvienības<7304>`. Struktūrvienības saraksts tiek veidots
-pēc :doc:`hierarhiska saraksta principa<14041>`.
+:doc:`struktūrvienības<7304>` . Struktūrvienības saraksts tiek veidots
+pēc :doc:`hierarhiska saraksta principa<14041>` .
 
 Aktivizējot konkrētu struktūrvienības ierakstu no saraksta, tiek
 atvērts :doc:`struktūrvienības ieraksts<7304>` un :doc:`personu<7305>`
 saraksts, kuras ir konkrētajā struktūrvienībā (:doc:`personas<7305>`
-informācijasierakstā norādīta:doc:`struktūrvienība<7313>`):
+informācijasierakstā norādīta:doc:`struktūrvienība<7313>` ):
 
 
 

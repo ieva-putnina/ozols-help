@@ -2,7 +2,7 @@
 
 
 Sarakstā tieksaglabāti visi Ozols datu bāzē pievienotie
-uzņēmuma:doc:`Potenciālais partner<884>`:doc:`i<312>`(gan fiziskas,
+uzņēmuma:doc:`Potenciālais partner<884>` :doc:`i<312>` (gan fiziskas,
 gan juridiskas personas).
 
 

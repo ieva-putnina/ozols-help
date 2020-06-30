@@ -5,8 +5,8 @@ Konta izraksts parāda kontā iegrāmatotās operācijas norādītajā laika
 periodā. Naudas kontos atskaite parāda naudas kustību kontā, iegūstot
 saldo uz norādītā kopsavilkuma perioda sākumu un beigām.
 
-No atskaites ierakstiem var atvērt :doc:`Konta korespondenci<523>`,
-:doc:`Operāciju pārskatu<521>`.
+No atskaites ierakstiem var atvērt :doc:`Konta korespondenci<523>` ,
+:doc:`Operāciju pārskatu<521>` .
 
 Filtrs jāaizpilda, lai sagatavotu atskaiti.
 

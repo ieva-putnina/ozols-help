@@ -110,7 +110,7 @@ nepieciešamsnorādīt satura ierakstu nosacījumus:
 Grāmatojuma šablonā iespējas izvēlēties Kategoriju (Ek.kods),
 Struktūrvienību, Projektu, Nozari (VFK), Budžetuun Partneri ierobežo
 izmantojamo :doc:`Dimensiju konfigurācija<701>` un konta apraksts
-:doc:`Kontu plānā<114>`, kur var būt noteikts nelietot uzskaiti pa
+:doc:`Kontu plānā<114>` , kur var būt noteikts nelietot uzskaiti pa
 partneriem vai nelietot kādu no dimensijām. Ja kāda no dimensijām
 netiek lietota, dimensijas lauks grāmatojuma šablonā neparādās.
 

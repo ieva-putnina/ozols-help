@@ -3,8 +3,8 @@
 
 Žurnālu ir paredzēts lietot Atlīdzību lietu inventarizācijas laikā, kā
 rezultātā uz sistēmu Ozols tiks pārnestas visas aktīvas
-:doc:`Atlīdzību lietas<4205>`, t.i. tās ir tās atlīdzību lietas, kuras
-nav slēgtas, jo atlīdzību regresa lieta vēl ir aktīva.
+:doc:`Atlīdzību lietas<4205>` , t.i. tās ir tās atlīdzību lietas,
+kuras nav slēgtas, jo atlīdzību regresa lieta vēl ir aktīva.
 
 
 

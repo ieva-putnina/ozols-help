@@ -1,7 +1,8 @@
-.. 43 Noliktava============= 
+.. 43 Noliktava============= .. role:: raw-html(raw)     :format: html
 Komponents „Noliktava” paredzēts preču un krājumuuzskaitei
 untirdzniecībai. Kopā ar Norēķiniem tā veido pilnu preču un saistību
 uzskaiti uzņēmuma noliktavā un grāmatvedībā.
+
 
 
 Noliktavas uzskaites modulis nodrošina:
@@ -17,11 +18,11 @@ detalizēt krājumu un prečuuzskaiti. Katram nomenklatūras atlikumam var
 definēt materiāli atbildīgo personu.
 + Krājumu un prečuuzskaites dokumentu veidošanu Ar Noliktavas moduļa
 palīdzību,paredzēta nomenklatūras iekšējās kustības dokumentu
-veidošana - :doc:`Nomenklatūras norakstīšana<693>`,
-:doc:`Nomenklatūras pārsūtīšana<691>`un :doc:`Nomenklatūras
-pārsūtīšana uz<692>`, kā arī :doc:`Ražošanas
-dokumentu<756>`veidošana.Nomenklatūru iespējamspārsūtīt starp
-struktūrvienībām, atrašanās vietām vai atbildīgajām personām.
+veidošana - :doc:`Nomenklatūras norakstīšana<693>` ,
+:doc:`Nomenklatūras pārsūtīšana<691>` un :doc:`Nomenklatūras
+pārsūtīšana uz<692>` , kā arī :doc:`Ražošanas dokumentu<756>`
+veidošana.Nomenklatūru iespējamspārsūtīt starp struktūrvienībām,
+atrašanās vietām vai atbildīgajām personām.
 + Preču uzskaiti pēc nepārtrauktās inventarizācijas metodes Programmas
 uzbūve nodrošina preču uzskaiti kontā 213 pēc nepārtrauktās
 inventarizācijas metodes. Veidojot un grāmatojot preču iepirkuma un

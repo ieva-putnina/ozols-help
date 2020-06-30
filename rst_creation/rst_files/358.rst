@@ -73,6 +73,7 @@ par akta sagatavošanas iemesliem;
 
 
 
+
 Norēķinu dzēšanas aktasatura aizpildīšana
 `````````````````````````````````````````
 
@@ -108,7 +109,7 @@ akta vai izvēloties (iezīmējot) dokumentu Norēķinu dzēšanas aktu
 žurnālā. Lai iegrāmatotu Norēķinu dzēšanas aktu, nepieciešams vispirms
 apstiprināt dokumentu, izmantojot komandu no rīku joslas. Apstiprinātu
 dokumentu ir iespējams grāmatot, izmantojot komandu . Dokumentu
-grāmatošanu skatīt :doc:`Dokumentu grāmatošanas principi<14044>`.
+grāmatošanu skatīt :doc:`Dokumentu grāmatošanas principi<14044>` .
 
 
 

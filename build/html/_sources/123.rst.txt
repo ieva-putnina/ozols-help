@@ -7,6 +7,7 @@ un kases apraksta informācija - grāmatojumu konts, struktūrvienība
 nodrošina kases dokumentu automatizētu grāmatošanu.
 
 
+
 JaunasKases pievienošana:
 `````````````````````````
 
@@ -24,11 +25,11 @@ nosaukums), Nosaukumu un Atbildīgo personu (Kasieri).
 
 
 
-Lai :doc:`Kases ieņēmumu<227>`un :doc:`Kases
-izdevumu<225>`dokumentugrāmatošanas procesu padarītu ērtāku un būtu
-iespēja grāmatot Kases dokumentus, izmantojot :doc:`Grāmatojumu
-šablonus<135>`, kases aprakstā nepieciešams piesaistīt grāmatvedisko
-kontu no :doc:`Kontu plāna<114>`:
+Lai :doc:`Kases ieņēmumu<227>` un :doc:`Kases izdevumu<225>`
+dokumentugrāmatošanas procesu padarītu ērtāku un būtu iespēja grāmatot
+Kases dokumentus, izmantojot :doc:`Grāmatojumu šablonus<135>` , kases
+aprakstā nepieciešams piesaistīt grāmatvedisko kontu no :doc:`Kontu
+plāna<114>` :
 
 
 
@@ -54,6 +55,7 @@ nepieciešamo valūtu:
 
 Kad visi nepieciešamie lauki ir aizpildīti, lai saglabātu jaunu Kasi,
 nepieciešams nospiest pogu .
+
 
 
 PievienotāsKases labošana:

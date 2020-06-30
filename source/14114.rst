@@ -88,7 +88,7 @@ lai norādītu, kādas datu kolonnas ekrāna formā jāparāda:
 
 
 Atskaišu kolonnām jābūt sakonfigurētām pie darba režīmiem:
-:doc:`Kolonnu virsraksti<214>`. Lai drukātu veidlapas, atvērtam algu
+:doc:`Kolonnu virsraksti<214>` . Lai drukātu veidlapas, atvērtam algu
 aprēķinam jāizvēlas Kolonnas - Personīgais konts vai Sociālās
 apdrošināšanas kartīte unpēc tamDrukāt: Personīgais konts vai Sociālās
 apdrošināšanas kartīte.
@@ -96,8 +96,8 @@ apdrošināšanas kartīte.
 
 10.Sodzes rīkojumi (Ctrl+V)
 Var atvērt apskatei un rediģēšanai strādājošajam izveidoto
-:doc:`Rīkojumu žurnālu<209>`. No rīkojuma žurnāla var pievienot jaunus
-rīkojumus.
+:doc:`Rīkojumu žurnālu<209>` . No rīkojuma žurnāla var pievienot
+jaunus rīkojumus.
 
 
 11.Slodzes nodokļu dokumenti (Ctrl+O)
@@ -115,7 +115,7 @@ datu aizpildīšanai algu aprēķinā.
 13.Algu lapiņa (F3)
 Var sagatavot un drukāt strādājošā algu lapiņu. Lai sagatavotu un
 drukātu algu lapiņas visiem strādājošajiem kopā, jālieto atskaite
-:doc:`Algu lapiņas<611>`.
+:doc:`Algu lapiņas<611>` .
 
 
 14.Piezīmes

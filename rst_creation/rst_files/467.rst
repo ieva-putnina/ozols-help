@@ -6,7 +6,8 @@ paredzēts debeta karšu operāciju noformēšanai. Šis dokumenta veids
 jāizmanto, kad banka ir veikusi atskaitījumus no uzņēmuma bankas konta
 par iegādātajām precēm ar uzņēmuma debetkarti - no bankaskonta
 pārskaitītas summas par debetkartes pirkumiem. Dokuments tiek
-saglabāts žurnālā :doc:`Bankas izdevumi<224>`.
+saglabāts žurnālā :doc:`Bankas izdevumi<224>` .
+
 
 
 Jauna Bankas maksājuma ar maksājumu kartipievienošana
@@ -14,6 +15,7 @@ Jauna Bankas maksājuma ar maksājumu kartipievienošana
 
 Izvēloties dokumenta veidu Bankas maksājums ar maksājuma karti, tiks
 atvērts jauns logs:
+
 
 
 
@@ -72,7 +74,8 @@ precēm ar uzņēmuma debetkarti, līdz ar to Piegādātājabankas
 kontuaizpildīt vairs nav nepieciešams.
 
 Lauks Reģ.nr. tiks aizpildīts automātiski no :doc:`Partnera
-kartiņas<312>`.
+kartiņas<312>` .
+
 
 
 
@@ -98,6 +101,7 @@ satura ierakstu iespējams, satura daļā nospiežot pogu .
 
 
 
+
 Maksājuma dokumenta Mērķaaizpildīšana
 +++++++++++++++++++++++++++++++++++++
 
@@ -106,7 +110,7 @@ Maksājuma dokumenta lauks Mērķis tiek drukāts maksājuma uzdevuma rindā
 Maksājuma mērķis.
 
 Lauku Bankas maksājuma uzdevuma Mērķis, iespējams aizpildīt manuāli
-vai izvēloties no :doc:`Bankas paskaidrojumu saraksta<147>`:
+vai izvēloties no :doc:`Bankas paskaidrojumu saraksta<147>` :
 
 
 
@@ -118,10 +122,11 @@ Kad visi nepieciešamie lauki ir aizpildīti, Bankas maksājums ar
 maksājumukartiir sagatavots un to ir iespējams:
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai :doc:`Bankas izdevumu<224>`.
+apskatei/labošanai/grāmatošanai :doc:`Bankas izdevumu<224>` .
 
 2. Apstiprināt, nospiežot rīku joslā pogu - Bankas maksājums ar
 maksājumu karti tiks Apstiprināts un to būs iespējams Grāmatot.
+
 
 
 Bankas maksājumaar maksājumu kartigrāmatošana
@@ -129,7 +134,7 @@ Bankas maksājumaar maksājumu kartigrāmatošana
 
 Dokumentuiespējams grāmatot no atvērta Bankas maksājuma ar maksājumu
 kartidokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Bankas
-izdevumu žurnālā<224>`.
+izdevumu žurnālā<224>` .
 
 Lai iegrāmatotu Bankas maksājumu ar maksājumu karti, dokumentu
 nepieciešams Apstiprināt, nospiežot rīku joslā pogu .
@@ -142,12 +147,13 @@ pogu .
 Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
 
 
+
 Pievienotā Bankasmaksājumaar maksājumu kartilabošana
 ````````````````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Bankas
 maksājuma dokumentu, kurš pieejams apskatei/labošanai:doc:` Bankas
-izdevumu žurnālā <224>`. Lai veiktu labojumus,dokumentunepieciešams
+izdevumu žurnālā <224>` . Lai veiktu labojumus,dokumentunepieciešams
 atvērt, izmantojot rīku joslas pogu (ALT+A), unatvērtajāierakstā
 iespējams veiktnepieciešamos labojumus:
 

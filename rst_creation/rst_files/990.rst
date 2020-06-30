@@ -2,7 +2,7 @@
 
 Ievedums-Instrastat-1A atskaitē tiek attēlota informācija par preces
 ievedumu Latvijā no ES dalībvalsts - pamatojoties uz ievadītajiem
-:doc:`Iepirkumu dokumenti<210>`, atskaitē norādot atbilstoši šo
+:doc:`Iepirkumu dokumenti<210>` , atskaitē norādot atbilstoši šo
 :doc:`Iepirkuma dokumenta<310>` saturā minēto preču astoņu zīmju kodu,
 preču vērtību latos, partnervalsti, svaru, darījuma veida kodu, svaru
 un daudzumu papildmērvienībās.
@@ -20,6 +20,7 @@ kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
 kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
 arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
 atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
 
 
 Pārskata Ievedums-Instrastat-1A sagatavošana
@@ -70,7 +71,7 @@ aprakstā, sadaļā "Nomenklatūra"):
 
 
 Kā arī pamatinformācija par saņemto preču daudzumu un summām no
-:doc:`Iepirkuma dokumenta<310>`:
+:doc:`Iepirkuma dokumenta<310>` :
 
 
 
@@ -91,7 +92,7 @@ aprakstā norādītās Valsts kods);
 
 
 Sagatavoto atskaiti iespējams saglabāt :doc:`Intrastat atskaišu
-sarakstā...<989>`:doc:`<531>`, kur tā būs pieejama
+sarakstā...<989>` :doc:`<531>` , kur tā būs pieejama
 labošanai/drukāšanai, nospiežot pogu: .
 
 

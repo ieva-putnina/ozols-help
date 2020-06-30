@@ -18,12 +18,14 @@ Laukā , iespējams izvēlēties attiecīgo brokeri par kuru dati tiks
 atlasīti.
 
 
+
 Aktuāli
 +++++++
 
 Lapaspusē Aktuāli ir iespējams iegūt datus par aktuālajām polisēm,
 kurām tuvojas beigu termiņš. Izvēles laukā Termiņš, uzstādot attiecīgo
 termiņa periodu, tiks atlasīti dati pēc norādītajiem kritērijiem:
+
 
 
 
@@ -39,6 +41,7 @@ līgumiem.Tāpat ir iespējams norādīts kādi ir parakstītie līgumi kā
 Brokeri, kā Asistentam vai kā Visi (gan kā brokeris,asistents un
 piesaistītājs). Norādot attiecīgo Parakstīšanas un Neatjaunošanas
 periodu, iespēja atlasīt visas izvēlētā perioda datus.
+
 
 
 
@@ -63,12 +66,14 @@ uzdevumiem un informācija par veidotajiem piedāvājumiem.
 
 
 
+
 Debitori
 ++++++++
 
 Lapaspusē Debitori iespējams iegūt datus par neapmaksātajiem
 pārdošanas dokumentiem (Polišu faktūrrēķiniem un Apdrošināšanas
 sabiedrības rēķiniem):
+
 
 
 

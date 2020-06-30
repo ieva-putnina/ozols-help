@@ -14,7 +14,7 @@ Jaunapārdošanas dokumenta pievienošana
 Izmantojot Pārdošanas dokumentus, tiek realizēts preces, krājumi vai
 pakalpojumi uzņēmuma pircējiem. Iespējams izmantot dažādus pārdošanas
 dokumentu veidus, kurus iespējams definēt Norēķinu
-Sarakstos::doc:`Pārdošanas dokumentu veidi<157>`.
+Sarakstos::doc:`Pārdošanas dokumentu veidi<157>` .
 
 
 Lai pievienotu jaunu pārdošanas dokumentu, atrodoties zem moduļa
@@ -86,7 +86,7 @@ ievadīti :doc:`Stingrās uzskaites dokumentu<180>` žurnālā.
 
 Ja pircējs nav datu bāzē, izmantojot komandu atveras partneru saraksta
 logs un ir iespējams pievienot jaunu pircēju partneru sarakstā. Lai
-pievienotu jaunu :doc:`Partneri<312>`, jāizmanto komanda no rīku
+pievienotu jaunu :doc:`Partneri<312>` , jāizmanto komanda no rīku
 joslas un atveras jauna partnera ievades kartiņa.
 **Apmaksas veids:** iespēja norādīt pārdošanas dokumenta apmaksas
 termiņu. Šo termiņu iespējams piesaistīt konkrētam partnerim,
@@ -99,7 +99,7 @@ ievadīt ar roku vai izvēlēties jau iepriekš sagatavotu paskaidrojuma
 tekstu.
 
 
-Lai pievienotu jaunu :doc:`Paskaidrojuma tekstu<370>`, jāizmanto
+Lai pievienotu jaunu :doc:`Paskaidrojuma tekstu<370>` , jāizmanto
 komanda un pievienot.
 
 
@@ -172,7 +172,7 @@ vai izvēloties (iezīmējot) dokumentuPārdošanas dokumentu žurnālā. Lai
 iegrāmatotuPārdošanas dokumentu, nepieciešams vispirms apstiprināt
 dokumentu, izmantojot komandu no rīku joslas. Apstiprinātu dokumentu
 ir iespējams grāmatot, izmantojot komandu . Dokumentu grāmatošanu
-skatīt :doc:`Dokumentu grāmatošanas principi<14044>`.
+skatīt :doc:`Dokumentu grāmatošanas principi<14044>` .
 
 
 

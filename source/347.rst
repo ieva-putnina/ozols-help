@@ -2,11 +2,11 @@
 
 
 Bankas maksājuma uzdevums noformē naudas pārskaitījumu no uzņēmuma
-:doc:`Banku konta<141>`- pārskaitījums uzņēmuma piegādātājiem, algu
+:doc:`Banku konta<141>` - pārskaitījums uzņēmuma piegādātājiem, algu
 izmaksas, nodokļu maksājumi, utt.. Maksājuma uzdevumus var drukāt,
 izmantojot iebūvēto izdrukas formu, vai eksportēt uz :doc:`Bankas
-elektronisko norēķinu sistēmām<160>`, lai tālāk nosūtītu apstrādei uz
-banku. Dokuments tiek saglabāts žurnālā :doc:`Bankas izdevumi<224>`.
+elektronisko norēķinu sistēmām<160>` , lai tālāk nosūtītu apstrādei uz
+banku. Dokuments tiek saglabāts žurnālā :doc:`Bankas izdevumi<224>` .
 
 
 Jauna Bankas maksājuma uzdevuma pievienošana
@@ -65,7 +65,7 @@ Dokumenta summu:
 
 
 Izvēloties nepieciešamo Piegādātāju, lauki Nor.konts , Reģ.nr. , Banka
-un Kods tiks aizpildīti automātiski no :doc:`Partnera kartiņas<312>`.
+un Kods tiks aizpildīti automātiski no :doc:`Partnera kartiņas<312>` .
 
 
 
@@ -99,7 +99,7 @@ Maksājuma dokumentu lauki Mērķis un Saturs tiek drukāti maksājuma
 uzdevuma rindā Maksājuma mērķis.
 
 Lauku Bankas maksājuma uzdevuma Mērķis, iespējams aizpildīt manuāli
-vai izvēloties no :doc:`Bankas paskaidrojumu saraksta<147>`:
+vai izvēloties no :doc:`Bankas paskaidrojumu saraksta<147>` :
 
 
 
@@ -119,8 +119,8 @@ summu:
 
 
 Sagatavojot Bankas maksājuma uzdevumu, dokumentam, kurš sagatavots
-izvēloties uzņēmuma :doc:`Banku kontu<141>`, kuram piesaistīta kāda no
-:doc:`Bankas elektronisko norēķinu sistēmām<160>`, ekrāna formā
+izvēloties uzņēmuma :doc:`Banku kontu<141>` , kuram piesaistīta kāda
+no :doc:`Bankas elektronisko norēķinu sistēmām<160>` , ekrāna formā
 automātiski ir aktivizēta izvēle Eksportēt uz bankas elektronisko
 norēķinu sistēmu:
 
@@ -132,7 +132,7 @@ norēķinu sistēmu:
 
 Visi dokumenti, kuriem ir šāda izvēle, var tik eksportēti uz
 elektronisko banku norēķinu sistēmu, lai būtu iespējams
-veikt:doc:`Datu apmaiņu ar banku<451>`.
+veikt:doc:`Datu apmaiņu ar banku<451>` .
 
 
 
@@ -151,7 +151,7 @@ Kad visi nepieciešamie lauki ir aizpildīti, Bankas maksājuma uzdevums
 ir sagatavots un to ir iespējams:
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai :doc:`Bankas izdevumu žurnālā<224>`.
+apskatei/labošanai/grāmatošanai :doc:`Bankas izdevumu žurnālā<224>` .
 
 2. Apstiprināt, nospiežot rīku joslā pogu - Bankas maksājuma uzdevums
 tiks Apstiprināts un to būs iespējams Grāmatot.
@@ -162,7 +162,7 @@ Bankas maksājuma uzdevuma grāmatošana
 
 Bankas maksājumu uzdevumu iespējams grāmatot no atvērta Bankas
 maksājuma uzdevuma dokumenta vai izvēloties (iezīmējot)dokumentu
-:doc:`Bankas izdevumu žurnālā<224>`.
+:doc:`Bankas izdevumu žurnālā<224>` .
 
 Lai iegrāmatotu Bankas maksājuma uzdevumu, dokumentu nepieciešams
 Apstiprināt, nospiežot rīku joslā pogu .
@@ -180,7 +180,7 @@ Pievienotā Bankasmaksājuma uzdevumalabošana
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Bankas
 maksājuma uzdevumu, kurš pieejams apskatei/labošanai:doc:`Bankas
-izdevumu žurnālā<224>`. Lai veiktu labojumusBankas maksājuma
+izdevumu žurnālā<224>` . Lai veiktu labojumusBankas maksājuma
 uzdevumā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 

@@ -2,7 +2,7 @@
 
 
 Atgādinātāju žurnālātiek saglabāti visi sagatavotie :doc:`Atgādinājumu
-ieraksti<875>`.
+ieraksti<875>` .
 
 
 

@@ -1,6 +1,6 @@
 .. 4432 Adreses*********** 
 Adrešu žurnālā tiek saglabātas visas pievienotās partneru
-:doc:`adreses<4439>`.
+:doc:`adreses<4439>` .
 
 Ar filtru iespējams atlasīt partneru adreses pēc dažādiem izvēlētiem
 atlasīšanas kritērijiem:
@@ -29,6 +29,6 @@ atlasīts visu partneru adrešu saraksts.
 
 Lai labotu adresi, jānospiež poga , bet lai pievienotu jaunu adresi
 jau pievienotam partnerim, jānospiež poga un jāpievieno dati kā
-norādīts :doc:`Jaunas adreses pievienošanas sadaļā<4439>`.
+norādīts :doc:`Jaunas adreses pievienošanas sadaļā<4439>` .
 
  

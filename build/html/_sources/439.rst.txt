@@ -6,7 +6,8 @@ palielinās pamatlīdzekļu uzskaites vērtība un summa, par kuru
 paplielinās pamatlīdzekļa uzskaites vērtība, jāņem uzskaitē citādākās
 dimemensijās nekā ir ņemts uzskaitē pamatlīdzeklis, jāreģistrē
 Pamatlīdzekļu papildināšanas dokumentā (jauna daļa). Dokuments pēc
-saglabāšanas ir pieejams :doc:`Pamatlīdzekļu dokumentu sarakstā<233>`.
+saglabāšanas ir pieejams :doc:`Pamatlīdzekļu dokumentu sarakstā<233>`
+.
 
 
 
@@ -30,7 +31,7 @@ Jāaizpilda dokumenta virsraksta dati:
 
 Numurs - jānorāda pamatlīdzekļa dokumenta numurs. Šis numurs strādājot
 ar sistēmu tiek piešķirts automātiski pēc iebūvētā
-:doc:`numeratora<139>`. Visiem pamatlīdzekļu dokumentiem ir viena
+:doc:`numeratora<139>` . Visiem pamatlīdzekļu dokumentiem ir viena
 numerācija.
 
 Datums - pamatlīdzekļu dokumenta izveidošanas datums.
@@ -68,7 +69,8 @@ funkciju .
 
 
 Pēc dokumenta apstiprināšanas Pamatlīdzekļupapildināšanasdokuments
-(jauna daļa) ir :doc:`jānogrāmato<14044>`.
+(jauna daļa) ir :doc:`jānogrāmato<14044>` .
+
 
 
 

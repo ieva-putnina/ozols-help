@@ -2,11 +2,11 @@
 
 
 Bankas izejošā dokumenta veids Bankā izmaksāts avanss jāveido, kad
-tiek izmaksāta nauda uzņēmuma :doc:`Avansu personai<196>`. Šī
+tiek izmaksāta nauda uzņēmuma :doc:`Avansu personai<196>` . Šī
 dokumenta veida izmantošana nodrošina automatizētu izmaksāto avansa
-summu uzskaiti :doc:`Avansa norēķinu<375>`dokumentā. Bankas avansa
-maksājums vienlaicīgi tiek parādīts :doc:`Bankas izdevumu<224>`un
-:doc:`Avansu norēķinu<232>`dokumentu žurnālos. Dokumenta izdruka ir
+summu uzskaiti :doc:`Avansa norēķinu<375>` dokumentā. Bankas avansa
+maksājums vienlaicīgi tiek parādīts :doc:`Bankas izdevumu<224>` un
+:doc:`Avansu norēķinu<232>` dokumentu žurnālos. Dokumenta izdruka ir
 standarta maksājuma uzdevums.
 
 
@@ -16,8 +16,8 @@ JaunaBankā izmaksāta avansa dokumentapievienošana
 Lai uzskaitītu izmaksātās avansu summas, un tās parādītos avansu
 norēķinu dokumentā, izmaksājot avansus, dokuments ir jāveido kā Bankā
 izmaksāts avanss. Dokumentā ir pieejams lauks persona, kur no
-:doc:`Partneru saraksta<112>`var izvēlēties personas, kuru aprakstā ir
-pazīme :doc:`Avansu persona<196>`.
+:doc:`Partneru saraksta<112>` var izvēlēties personas, kuru aprakstā
+ir pazīme :doc:`Avansu persona<196>` .
 
 
 
@@ -65,7 +65,7 @@ Dokumenta summu:
 
 
 4. No saraksta izvēlēties nepieciešamo personu, kuras aprakstā ir
-pazīme :doc:`Avansu persona<196>`, kurai šis naudas avansa
+pazīme :doc:`Avansu persona<196>` , kurai šis naudas avansa
 pārskaitījums tiks noformēts:
 
 
@@ -75,7 +75,7 @@ pārskaitījums tiks noformēts:
 
 
 Izvēloties nepieciešamo Personu, lauki Nor.konts , Pers.k. , Banka un
-Kods tiks aizpildīti automātiski no :doc:`Partnera kartiņas<112>`.
+Kods tiks aizpildīti automātiski no :doc:`Partnera kartiņas<112>` .
 
 
 
@@ -109,7 +109,7 @@ Maksājuma dokumentu lauki Mērķis un Saturs tiek drukāti maksājuma
 uzdevuma rindā Maksājuma mērķis.
 
 Lauku Mērķis , iespējams aizpildīt manuāli vai izvēloties no
-:doc:`Bankas paskaidrojumu saraksta<147>`:
+:doc:`Bankas paskaidrojumu saraksta<147>` :
 
 
 
@@ -129,8 +129,8 @@ PVN summu:
 
 
 Sagatavojot Bankā izmaksātu avansu, dokumentam, kurš sagatavots
-izvēloties uzņēmuma :doc:`Banku kontu<141>`, kuram piesaistīta kāda no
-:doc:`Bankas elektronisko norēķinu sistēmām<160>`, ekrāna formā
+izvēloties uzņēmuma :doc:`Banku kontu<141>` , kuram piesaistīta kāda
+no :doc:`Bankas elektronisko norēķinu sistēmām<160>` , ekrāna formā
 automātiski ir aktivizēta izvēle Eksportēt uz bankas elektronisko
 norēķinu sistēmu:
 
@@ -142,7 +142,7 @@ norēķinu sistēmu:
 
 Visi dokumenti, kuriem ir šāda izvēle, var tik eksportēti uz
 elektronisko banku norēķinu sistēmu, lai būtu iespējams veikt
-:doc:`Datu apmaiņa ar banku<451>`.
+:doc:`Datu apmaiņa ar banku<451>` .
 
 
 
@@ -165,7 +165,7 @@ Kad visi nepieciešamie lauki ir aizpildīti, Bankā izmaksāts avanssir
 sagatavots un to ir iespējams:
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai :doc:`Bankas izdevumu žurnālā<224>`.
+apskatei/labošanai/grāmatošanai :doc:`Bankas izdevumu žurnālā<224>` .
 
 2. Apstiprināt, nospiežot rīku joslā pogu - Bankā izmaksāts avansstiks
 Apstiprināts un to būs iespējams Grāmatot.
@@ -175,7 +175,7 @@ Dokumenta - Bankā izmaksāts avanss grāmatošana
 ``````````````````````````````````````````````
 
 Bankā izmaksātu avansu iespējams grāmatot no atvērta dokumenta vai
-izvēloties (iezīmējot)dokumentu :doc:`Bankas izdevumu žurnālā<224>`.
+izvēloties (iezīmējot)dokumentu :doc:`Bankas izdevumu žurnālā<224>` .
 
 Lai iegrāmatotu Bankā izmaksātu avansu, dokumentu nepieciešams
 Apstiprināt, nospiežot rīku joslā pogu .
@@ -193,8 +193,8 @@ PievienotāBankā izmaksātāavansalabošana
 
 Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu Bankā
 izmaksāts avanss, kurš vienlaicīgi pieejams
-apskatei/labošanai:doc:`Bankas izdevumu<224>`un :doc:`Avansu
-norēķinu<232>`dokumentu žurnālos. Lai veiktu
+apskatei/labošanai:doc:`Bankas izdevumu<224>` un :doc:`Avansu
+norēķinu<232>` dokumentu žurnālos. Lai veiktu
 labojumus,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 

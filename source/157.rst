@@ -80,6 +80,7 @@ Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu no rīku
 joslas vai (Ctrl+S).
 
 
+
 Pārdošanas dokumenta veida labošana
 
 Lai veiktu labojumuspārdošanas dokumenta veidā, ierakstu nepieciešams
@@ -87,6 +88,7 @@ atvērt, izmantojot komandu no rīku joslas (Alt+A). Atvērtajā logā
 iespējams mainīt jebkuru no laukos esošo informāciju. Pēc labojumu
 veikšanas, veiktās izmaiņas iespējams saglabāt ar komandu no rīku
 joslas.
+
 
 
 

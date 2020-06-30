@@ -2,7 +2,7 @@
 
 
 Atskaitē Visi partneri, tiek attēlotidati, par pilnīgi visiem datu
-bāzē pievienotajiem :doc:`Partneriem<112>`(fiziskām un juridiskām
+bāzē pievienotajiem :doc:`Partneriem<112>` (fiziskām un juridiskām
 personām). Atskaitē iespējamsiegūt informāciju par ParPartnera
 kontaktinformāciju, Adresi, Reģistrācijas nr., :doc:`Partneru
 grupu<113>` un :doc:`Sektoru<810>` griezumā.
@@ -31,16 +31,16 @@ Sektors: Iespējams atlasīt konkrēta :doc:`Sektora<810>`
 aprakstā, sadaļā Pārējie dati - laukā "Sektors" - norādīts Partnerim
 atbilstošs Sektors)
 
-Partneru grupa: Iespēja atlasīt :doc:`Partnerus<112>`, kuri atbilst
-konkrētai, filtrā izvēlētajai :doc:`Partneru grupai<113>`.
+Partneru grupa: Iespēja atlasīt :doc:`Partnerus<112>` , kuri atbilst
+konkrētai, filtrā izvēlētajai :doc:`Partneru grupai<113>` .
 
 Piedāvājums: Iespēja atlasīt partnerus, kuriem sagatavots
-:doc:`Piedāvājums<879>`, izmantojot Ozols CRM moduļa piedāvātās
-:doc:`Aktivitātes<743>`izveides iespējas.
+:doc:`Piedāvājums<879>` , izmantojot Ozols CRM moduļa piedāvātās
+:doc:`Aktivitātes<743>` izveides iespējas.
 
 Piedāv.stadija: Atlasīt partnerus,kuriem sagatavots
-:doc:`Piedāvājums<879>`, izmantojot Ozols CRM moduļa piedāvātās
-:doc:`Aktivitātes<743>`izveides iespējas, pēc konkrētas filtrā
+:doc:`Piedāvājums<879>` , izmantojot Ozols CRM moduļa piedāvātās
+:doc:`Aktivitātes<743>` izveides iespējas, pēc konkrētas filtrā
 norādītās piedāvājuma stadijas.
 
 
@@ -55,10 +55,10 @@ aktivitāti, nospiežot pogu .
 
 No Atskaites Visi partneri, izmantojot rīku joslā esošo pogu Funkcijas
 , atrodoties uz konkrēta Partnera ieraksta, iespējams atvērt - kā
-rezultātā tiks atvērta atskaite: :doc:`Visas aktivitātes<843>`, kur
+rezultātā tiks atvērta atskaite: :doc:`Visas aktivitātes<843>` , kur
 pieejama informācija par visiem, saistībā ar konkrēto
-:doc:`Partneri<312>`, reģistrētajiem :doc:`Darba uzdevumiem<743>`,
-:doc:`Notikumiem<743>`, :doc:`Ieg./izg. korespondenci<745>`un
-:doc:`Piedāvājumiem<743>`.
+:doc:`Partneri<312>` , reģistrētajiem :doc:`Darba uzdevumiem<743>` ,
+:doc:`Notikumiem<743>` , :doc:`Ieg./izg. korespondenci<745>` un
+:doc:`Piedāvājumiem<743>` .
 
  

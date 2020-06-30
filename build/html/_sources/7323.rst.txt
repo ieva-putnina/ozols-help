@@ -1,12 +1,13 @@
 .. 7323 =====================Kalendārais plāns===================== 
 Kalendārais plāns ir visu pievienoto :doc:`notikumu<7308>`
-(:doc:`pasākumu<7303>`, :doc:`darbību<7307>`) attēlojums pa
-:doc:`telpām<7306>`, datumiem, laikiem, nosaukumiem un darbībām.
+(:doc:`pasākumu<7303>` , :doc:`darbību<7307>` ) attēlojums pa
+:doc:`telpām<7306>` , datumiem, laikiem, nosaukumiem un darbībām.
 Kalendārajā plānā ir iespējams redzēt visus pasākumus pa visām telpām
 vienā konkrētā nedēļā, vai arī atlasīt pēc konkrēta kritērija
-(kalendārā nedēļa, :doc:`pasākuma nosaukums<7312>`,
-:doc:`darbība<7316>`, :doc:`telpa<7315>`), kā arī, izdrukāt atlasītos
-informāciju:
+(kalendārā nedēļa, :doc:`pasākuma nosaukums<7312>` ,
+:doc:`darbība<7316>` , :doc:`telpa<7315>` ), kā arī, izdrukāt
+atlasītos informāciju:
+
 
 
 
@@ -30,8 +31,9 @@ atlasīšanas kritērijus:
 
 Informācijas atlasīšanas kritēriju sarakstā ir pieejama tā
 informācija, kura ir nodefinēta un saglabāta :doc:`Mākslinieciskā
-darba plānošanas sarakstos<7311>` (:doc:`darbības<7316>`,
-:doc:`pasākumi<7312>`, :doc:`telpas<7315>`).
+darba plānošanas sarakstos<7311>` (:doc:`darbības<7316>` ,
+:doc:`pasākumi<7312>` , :doc:`telpas<7315>` ).
+
 
 
 Pasākumu ieraksta atvēršana no kalendārā vai dienas plāna
@@ -52,7 +54,7 @@ nospiežot pogu - tiek atvērts nākošās dienas plāns.
 
 Nospiežot pogu ir iespējams izdrukāt dienas plānu.
 
-Lai no dienas plāna, atvērtu konkrētu :doc:`Pasākumu<7312>`,
+Lai no dienas plāna, atvērtu konkrētu :doc:`Pasākumu<7312>` ,
 jāaktivizē pasākuma ieraksts dienas vai kalendāra plānā, un,
 aktivizējot ierakstu, ar peles kreiso taustiņu, tiek atvērts jau
 pievienots :doc:`pasākuma<7303>` ieraksta logs:
@@ -75,7 +77,7 @@ Atverot Dalībnieku sadaļu - , redzams pasākuma dalībnieku saraksts:
 
 
 Dalībnieku sadaļas ierakstus iespējams kārtot pēc
-:doc:`sturktūrvienības<7313>`, lomas, :doc:`personas<7314>`,
+:doc:`sturktūrvienības<7313>` , lomas, :doc:`personas<7314>` ,
 uzstāšanās laika vai radošās brigādes. Loga lejas daļā redzama
 ieraksta informācija un ieraksta statuss.
 
@@ -90,11 +92,11 @@ Lai labotu notikumu, jānospiež poga :
 Sadaļā Apraksts , iespējams labot notikuma informāciju. Pasākuma
 nosaukumu iespējams ierakstīt manuāli, ja nav bijis nodefinēts jau
 iepriekš, tā saglabājot pasākuma pamatinformāciju :doc:`pasākuma
-sarakstā<7312>`.
+sarakstā<7312>` .
 
 Lai pievienotu jaunu darbību, kura nav sarakstā, jānospiež poga un
-jāsaglabā pievienotā :doc:`darbība<7307>`. Tāpat, ja nepieciešams,no
-notikuma apraksta tiekpievienots jaunas :doc:`telpas <7306>`ieraksts.
+jāsaglabā pievienotā :doc:`darbība<7307>` . Tāpat, ja nepieciešams,no
+notikuma apraksta tiekpievienots jaunas :doc:`telpas <7306>` ieraksts.
 
 Dalībnieku sadaļā iespājams nodefinēt lomas pievienotajiem
 dalībniekiem, labot uzstāšanās laikus,un, janav nodefinēta radošā
@@ -140,12 +142,13 @@ Lai no dienas plāna aizietu atpakaļ uz nedēļas kalendārā plāna skatu,
 jānospiež kalendāra podziņa .
 
 
+
 Jauna notikuma pievienošana nedēļas/ dienas kalendārajā plānā
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Kalendārajā nedēļas vai dienas plānā ir iespējams pievienot
-:doc:`jaunu notikumu<7308>`. Jauna notikuma pievienošana iespējama arī
-moduļa sadaļā :doc:`jauns notikums<7308>`.
+:doc:`jaunu notikumu<7308>` . Jauna notikuma pievienošana iespējama
+arī moduļa sadaļā :doc:`jauns notikums<7308>` .
 
 Lai pievienotu jaunu notikumu noteiktā datumā, noteiktās telpas
 ierakstu logā jānospiež uz bultiņas notikumu informatīvajā
@@ -160,6 +163,6 @@ skatlodziņā:
 
 
 Jauna notikuma pievienošanas apraksts sadaļā :doc:`Jauns
-notikums<7308>`.
+notikums<7308>` .
 
  

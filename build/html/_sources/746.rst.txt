@@ -1,6 +1,6 @@
 .. 746 Avansa izdevumu žurnāls (old)********************************* 
 Avansu izdevumu žurnālā tiek saglabāti visi izveidotie :doc:`Avansa
-izdevumu<747>`dokumenti.
+izdevumu<747>` dokumenti.
 
 Lai atlasītu dokumentus Avansa izdevumu žurnālā, jāizmanto datu
 atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem

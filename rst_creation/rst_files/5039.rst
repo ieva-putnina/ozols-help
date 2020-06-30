@@ -3,6 +3,7 @@ Budžeta pieprasīšanai tiek izveidoti Budžeta pieprasījuma dokumenti,
 kuri tiek saglabāti :doc:`Budžeta pieprasījumu<5035>` žurnālā.
 
 
+
 Jauna budžeta pieprasījuma pievienošana
 +++++++++++++++++++++++++++++++++++++++
 

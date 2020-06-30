@@ -30,6 +30,7 @@ Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
 kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
 
 
+
 Izglītībaspievienošana
 ++++++++++++++++++++++
 
@@ -37,7 +38,7 @@ JaunuIzglītības datuierakstu strādājošajam iespējams izveidot:
 
 
 
-1. :doc:`Strādājošā aprakstā<111>`, sadāļā Personāls - iespēja
+1. :doc:`Strādājošā aprakstā<111>` , sadāļā Personāls - iespēja
 pievienotinformācijas par izglītību:
 
 
@@ -68,6 +69,6 @@ Dati tiek saglabāti nospiežot pogu .
 
 
 
-Pievienotie ierakstitiek saglabāti :doc:`Izglītības dokumentos<763>`.
+Pievienotie ierakstitiek saglabāti :doc:`Izglītības dokumentos<763>` .
 
  

@@ -1,2 +1,2 @@
-.. 6800 Līgumi========== 
+.. 6800 Līgumi========== .. role:: raw-html(raw)     :format: html
  .. toctree::   :maxdepth: 6    6805.rst   84.rst   856.rst   6801.rst

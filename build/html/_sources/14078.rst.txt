@@ -7,15 +7,16 @@ dimensiju klasifikatora ierakstiem(Piemēram, Apdrošināšanas veids)
 norādītajiem noklusētajiem kontiem.
 
 
+
 Nepieciešamās detalizācijas izveide kontu plānā
 +++++++++++++++++++++++++++++++++++++++++++++++
 
 Lai būtu iespējams iegūt detalizētu informāciju :doc:`Virsgrāmatas
-atskaitēs<524>`, sadalījumā pa polišu veidiem, konta plānā -
+atskaitēs<524>` , sadalījumā pa polišu veidiem, konta plānā -
 grāmatvediskajiem kontiem, pēc vienota principa ieteicams veidot
 subkontus, atšifrējot kontus pa apdrošināšanas veidiem.
 
-:doc:`Kontu plānā<114>`augstākā līmeņa konta apakškontus iespējams
+:doc:`Kontu plānā<114>` augstākā līmeņa konta apakškontus iespējams
 pievienot, izmantojot rīku joslas pogu un aizpildot nepieciešamos
 konta apraksta ierakstus.
 
@@ -24,6 +25,7 @@ konta apraksta ierakstus.
 Subkontus ieteicams veidot pēc vienota principa, kontam pirmos
 simbolus norādot atbilstošus augstākajam līmenim un detalizāciju -
 atbilstoši attiecīgajam apdrošināšanas veidam:
+
 
 
 

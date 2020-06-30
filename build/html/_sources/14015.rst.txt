@@ -40,6 +40,7 @@ atvērt pagājušā vai nākamā mēneša datumus.
 
 
 
+
 Kalendārs
 +++++++++
 
@@ -95,6 +96,7 @@ izvēlne:
 
 Tāpat, noklikšķinot uz gada skaitļa kalendāra virsrakstā, parādīsies
 gada maiņas komandpogas:
+
 
 
 
@@ -203,6 +205,7 @@ Tab . Pārvietoties uz augšu - lietojot taustiņu kombināciju Shift+Tab
 . Tomēr reizēm šāda veida darbības var aizņemt daudz laika. Taustiņu
 kombinācijas var izmantot, lai aktivizētu noteiktu komandu vai
 novietotu kursoru noteiktā ekrāna formas laukā.
+
 
 
 Taustiņu kombinācijas

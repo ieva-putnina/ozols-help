@@ -262,7 +262,7 @@ class Parser(SGMLParser):
         if '#pending' in self.hrefs:
             if self.hrefs['#pending'].find("skf_id=") != -1:
                 pos = self.hrefs['#pending'].find("skf_id=")
-                self.data('<' + self.hrefs['#pending'][pos+7:] + '>`')
+                self.data('<' + self.hrefs['#pending'][pos+7:] + '>` ')
                 #print('<' + self.hrefs['#pending'][pos+7:] + '>`')
             else:
                 self.data('`')
@@ -354,6 +354,7 @@ class Parser(SGMLParser):
             start = 0
         self.linebuffer.indent(len(self.lists[-1]), start=start)
         self.write()
+
 
     def start_dl(self, attrs):
         self.writeline()

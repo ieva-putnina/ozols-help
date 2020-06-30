@@ -12,8 +12,8 @@ partneris. Analītiskās uzskaites kontos atskaitē grāmatojumu dati tiek
 sagrupēti atsevišķi pa darījuma partneriem.
 
 No konta analītiskā apgrozījuma var atvērt :doc:`Partnera
-aprakstu<312>`, :doc:`Operāciju pārskatu<521>`,:doc:`Konta
-atlikumus<665>`.
+aprakstu<312>` , :doc:`Operāciju pārskatu<521>` ,:doc:`Konta
+atlikumus<665>` .
 
 
 

@@ -15,7 +15,7 @@ uz nekonkrēto kreditoru kontu;
 #. pārkontē kreditoru no nekonkrētā kreditora konta uz konkrēto,
 piesaistot attiecīgo Piegādātāju (kreditoru);
 #. veic maksājumu, norādot dinamikā Atlīdzību lietas numuru;
-#. saņem no :doc:`Juridiskā daļas<14029>`dokumentus par attiecīgo
+#. saņem no :doc:`Juridiskā daļas<14029>` dokumentus par attiecīgo
    Atlīdzību lietu:
 
     + ja Regresa lieta netiek ierosināta, Lietu žurnālā izmaksāto
@@ -25,6 +25,7 @@ piesaistot attiecīgo Piegādātāju (kreditoru);
 
 #. Lietu žurnālā uzskaita saņemtos maksājumus attiecīgajā Regresa
    lietā.
+
 
 
 

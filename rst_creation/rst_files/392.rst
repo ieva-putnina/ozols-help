@@ -19,6 +19,6 @@ pievienotos datus, nospiežot pogu .
 
 
 Visas partnerim pievienotās adreses tiek saglabātas:doc:`partneru
-sarakstā<112>`.
+sarakstā<112>` .
 
  

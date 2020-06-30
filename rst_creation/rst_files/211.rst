@@ -2,10 +2,10 @@
 
 
 Šajā sarakstā tiek nodefinēti algu periodi algu aprēķiniem. Aktīvais
-algu periods tiek norādīts :doc:`Rīkos - Algu perioda atvēršanā<499>`.
-Lai veiktu algu aprēķinu par mēnesi nepieciešams šo periodu izveidot
+algu periods tiek norādīts :doc:`Rīkos - Algu perioda atvēršanā<499>`
+. Lai veiktu algu aprēķinu par mēnesi nepieciešams šo periodu izveidot
 Algu periodu sarakstā un pēc tam norādīt šo periodu kā aktīvu
-:doc:`Algu perioda atvēršanā<499>`. Algu aprēķins ir iespējams tikai
+:doc:`Algu perioda atvēršanā<499>` . Algu aprēķins ir iespējams tikai
 aktīvajā algu periodā.
 
 
@@ -23,7 +23,7 @@ Kods - perioda kods.
 
 Nosaukums - perioda nosaukums.
 
-Aprēķina modulis - jānorāda :doc:`Aprēķina modulis<213>`, ja uzņēmumā
+Aprēķina modulis - jānorāda :doc:`Aprēķina modulis<213>` , ja uzņēmumā
 tiek izmantoti vairāki.
 
 Piezīmes - iespēja aizpildīt piezīmes par periodu.
@@ -33,6 +33,7 @@ Piezīmes - iespēja aizpildīt piezīmes par periodu.
 Vairāku uzņēmumu uzskaitē, algu periodi visiem uzņēmumiem ir kopīgi.
 
 
+
 Perioda konfigurācijas datu izmantošana
 +++++++++++++++++++++++++++++++++++++++
 
@@ -40,7 +41,7 @@ Lai pareizi tiktu piemēroti konfigurācijas dati algu aprēķinā,
 jāpievērš uzmanība sekojošajam:
 
 
-1. Pievienojot jaunu periodu :doc:`Ienākuma nodokļa<222>`un
+1. Pievienojot jaunu periodu :doc:`Ienākuma nodokļa<222>` un
 :doc:`Sociālo nodokļa<223>` metožu sarakstos tiek izveidoti jauni
 ieraksti atbilstošajam periodam ar tādām pašām nodokļa un atvieglojumu
 likmēm, kā tas ir norādīts iepriekšējā periodā. Ja likmes ir
@@ -54,7 +55,7 @@ darba dienas, kas iekrīt brīvdienās, īsās darba dienas. Notikumu
 saraksta ieraksti nodrošina pareizu perioda darba dienu aprēķinu.
 
 
-3. :doc:`Algu aprēķinu žurnālā<212>`, atvērtajā algu aprēķinā ar
+3. :doc:`Algu aprēķinu žurnālā<212>` , atvērtajā algu aprēķinā ar
 taustiņa F4 palīdzību var atvērt perioda datus, kur tiek parādīti
 piemērojamās nodokļu likmes un atvieglojumi strādājošajam. Lai pareizi
 tiktu aprēķināta alga, perioda datiem jābūt noteiktiem.
@@ -62,7 +63,7 @@ tiktu aprēķināta alga, perioda datiem jābūt noteiktiem.
 
 4. Pievienojot jaunu algu aprēķina periodu, tajā tiek pārnestas
 iepriekšējā algu periodā pievienotās :doc:`Algu tarifikācijas
-konstantes<281>`. Ja konstantes vērtības jāmaina, tas jādara pirms
+konstantes<281>` . Ja konstantes vērtības jāmaina, tas jādara pirms
 algu aprēķina uzsākšanas algu aprēķina perioda aprakstā.
 
 

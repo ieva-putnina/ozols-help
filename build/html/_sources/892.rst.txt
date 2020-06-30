@@ -3,7 +3,7 @@
 
 PVN deklarācijas pielikums tiek sagatavots pēc Ministru kabineta
 noteikumiem. Atskaite tiek saglabāta kā pielikums PVN mēneša
-deklarācijai atskaišu :doc:`Sarakstā<531>`, un atskaites datus
+deklarācijai atskaišu :doc:`Sarakstā<531>` , un atskaites datus
 nepieciešamības gadījumā var pārrēķināt. Atskaite tiek sagatavota par
 darījumu summu pamat valūtā, iekļaujot pārdošanas dokumentu valūtu,
 partneri un partnera reģistrācijas numuru.
@@ -12,7 +12,8 @@ partneri un partnera reģistrācijas numuru.
 
 Lai būtu iespējams sagatavot Pārskatu par preču piegādēm un
 sniegtajiem pakalpojumiem ES,iepriekš jābūt izveidotai
-:doc:`Grāmatojumu atskaišu konfigurācijai<179>`.
+:doc:`Grāmatojumu atskaišu konfigurācijai<179>` .
+
 
 
 Pārskata par preču piegādēm un sniegtajiem pakalpojumiem ES
@@ -28,7 +29,7 @@ jānorāda nepieciešamie parametri, pēc kādiem atskaite tiks sagatavota.
 
 
 2. Nepieciešams norādīt attiecīgo profilu (45.rindas konfigurāciju) -
-:doc:`atskaites konfigurāciju<179>`, pēc kādiem konfigurācijas datiem
+:doc:`atskaites konfigurāciju<179>` , pēc kādiem konfigurācijas datiem
 atskaite tiks sagatavota.
 
 
@@ -43,12 +44,12 @@ to var papildināt neaizverot atskaiti.
 
 
 5. Ja pēc atskaites sagatavošanas veiktas izmaiņas :doc:`atskaites
-konfigurācijā<179>`, atskaiti pēc izmanītās konfigurācijas datiem var
+konfigurācijā<179>` , atskaiti pēc izmanītās konfigurācijas datiem var
 pārrēķināt, nospiežot pogu: . Pārrēķinot atskaiti, tajā tiek parādīti
 jaunākie dati.
 
 6. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
-sarakstā<531>`, kur tā būs pieejama labošanai/drukāšanai, nospiežot
+sarakstā<531>` , kur tā būs pieejama labošanai/drukāšanai, nospiežot
 pogu: .
 
 

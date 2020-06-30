@@ -15,7 +15,7 @@ Lai pievienotu jaunu Lietotāju grupu, rīku joslā jānospiež poga :
 
 
 Nepieciešams ievadīt grupas nosaukumu un izveidotajai grupai Pievienot
-nepieciešamos :doc:`Lietotājus<194>`.
+nepieciešamos :doc:`Lietotājus<194>` .
 
 
 

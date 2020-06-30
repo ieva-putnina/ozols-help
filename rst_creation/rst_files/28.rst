@@ -22,14 +22,14 @@ Izveidot algu konfigurāciju, definējot atbilstošos algu kodus:
 + :doc:`Sistēmas kodi<614>`
 
 
-Izveidot Kolonnu virsrakstu konfigurācijas :doc:`Algu atskaitēm<57>`:
+Izveidot Kolonnu virsrakstu konfigurācijas :doc:`Algu atskaitēm<57>` :
 
 
 + :doc:`Kolonnu virsraksti<214>`
 
 
-Kā arī pievienot jaunus :doc:`Algu periodus<211>`un nodefinēt
-:doc:`Individuālos<733>`un :doc:`Kopīgos<732>`konfigurācijas
+Kā arī pievienot jaunus :doc:`Algu periodus<211>` un nodefinēt
+:doc:`Individuālos<733>` un :doc:`Kopīgos<732>` konfigurācijas
 iestādījumus.
 
 

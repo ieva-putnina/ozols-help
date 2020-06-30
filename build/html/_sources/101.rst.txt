@@ -8,6 +8,7 @@ Informācija par bankām tiek izmantota pievienojot partneru rekvizītus
 un uzņēmuma banku kontus.
 
 
+
 Jaunas Bankas pievienošana sarakstā:
 ````````````````````````````````````
 
@@ -22,7 +23,7 @@ atvērts jauns logs:
 
 Laukā Kods, nepieciešams ierakstīts Bankas kods, Laukā Nosaukums
 -Bankas nosaukumu, Laukā Bankas kods - Bankas kodu, Laukā Tips -
-norādīt nepieciešamo :doc:`Bankas kodu tipu<118>`.
+norādīt nepieciešamo :doc:`Bankas kodu tipu<118>` .
 
 
 
@@ -35,6 +36,7 @@ tiktu izmantoti konti tikai IBAN formātā (ES valstu vienotā kontu
 numerācijas sistēma, kuru izmanto Eiropas valstis),
 
 Ieraksts tiks saglabāts, izpildot komandu .
+
 
 
 Pievienotās Bankas apraksta labošana:

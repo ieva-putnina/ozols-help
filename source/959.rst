@@ -5,7 +5,7 @@ Amatu grupu sarakstā jānodefinē uzņēmuma Amatu grupas, kā arī katrai
 grupai jāpievieno attiecīgāsAmata grupas kompetences atbilstošajā
 secībā.
 
-Amatu saraksts tiek lietots pievienojot jaunu :doc:`slodzi<207>`.
+Amatu saraksts tiek lietots pievienojot jaunu :doc:`slodzi<207>` .
 
 Lai pievienotu jaunu amatu, rīku joslā jānospiež poga (Atl+P), tiek
 atvērts logs, kur nepieciešams ievadīt Amata grupas kodu un nosaukumu:

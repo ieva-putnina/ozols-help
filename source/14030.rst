@@ -52,7 +52,7 @@ OZOLS.
 
 
 #. Pēc tam, kad veikta izmaksa, Atlīdzību lietas dokumentu pakete tiek
-   iesniegta :doc:`Juridiskajai daļai<14029>`. Juridiskā nodaļa pieņem
+   iesniegta :doc:`Juridiskajai daļai<14029>` . Juridiskā nodaļa pieņem
    lēmumu vai tiks uzsākta Regresa lieta:
 
     + ja Regresa lieta netiek uzsākta, izmaksa atlīdzību lietā tiek
@@ -61,13 +61,12 @@ OZOLS.
         + D 7120 – norakstītās Regresa lietas
         + C 2321– nenoskaidrotā debitora konts;
 
-    + ja Regresa lieta tiek uzsākta, :doc:`Juridiskajai
-    daļa<14029>`atlīdzības maksātāju un informē par to :doc:`Finanšu
-    daļu<14028>`.
+    + ja Regresa lieta tiek uzsākta, :doc:`Juridiskajai daļa<14029>`
+    atlīdzības maksātāju un informē par to :doc:`Finanšu daļu<14028>` .
     + Ja atlīdzības maksātājs (ja nepieciešams, TRL vadītājs, TRL
     īpašnieks, TRL nomnieks) nav ievadīts sistēmā, Juridiskā daļa ievada
     Partnera kartiņu.
-    + :doc:`Finanšu daļa<14028>`veic debitora noteikšanas kontējumu:
+    + :doc:`Finanšu daļa<14028>` veic debitora noteikšanas kontējumu:
 
         + D 2321 – nenoskaidrotā debitora konts,
         + C 2322 – konkrētā debitora konts, kuram tiek pievienots Partneris.

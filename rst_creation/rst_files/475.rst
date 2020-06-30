@@ -6,8 +6,8 @@ ieņēmumu ordera veids Naudas izņemšana no bankas konta. Naudas
 izņemšanas dokuments noformē divas operācijas - bankas izdevumus
 norādītajā bankas kontā un kases ieņēmumus. Naudas izņemšanas
 dokumentem tiek piešķirta kases ieņēmumu dokumentu secīga numerācija
-un tas tiek vienlaicīgi parādīts :doc:`Kases ieņēmumu<227>`un
-:doc:`Bankas izdevumu<224>`dokumentu žurnālos. Darījuma atšifrēšanai
+un tas tiek vienlaicīgi parādīts :doc:`Kases ieņēmumu<227>` un
+:doc:`Bankas izdevumu<224>` dokumentu žurnālos. Darījuma atšifrēšanai
 pa finanšu (EK) kodiem, jāaizpilda dokumenta saturs. Lai dokumenta
 izdrukā parādītos grāmatojumu konti, dokuments pirms izdrukāšanas ir
 jāiegrāmato.
@@ -113,7 +113,7 @@ Kasesieņēmumalauks Pamatojums tiek drukāts Naudas izņemšanas no bankas
 konta dokumenta rindā Pamatojums.
 
 Lauku Pamatojums , iespējams aizpildīt manuāli vai izvēloties no
-:doc:`Kases paskaidrojumu saraksta<136>`:
+:doc:`Kases paskaidrojumu saraksta<136>` :
 
 
 
@@ -129,7 +129,7 @@ aizpildīšana
 
 
 Lauku Pielikumā ,Naudas izņemšanai no bankas konta iespējams aizpildīt
-manuāli vai izvēloties no :doc:`Kases pielikumu saraksta<137>`, laukā
+manuāli vai izvēloties no :doc:`Kases pielikumu saraksta<137>` , laukā
 Piel.num. nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:
 
 
@@ -142,8 +142,8 @@ Kad visi nepieciešamie lauki ir aizpildīti, Naudas izņemšanas no
 bankas konta dokuments ir sagatavots un to ir iespējams:
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai vienlaicīgi:doc:`Kases
-ieņēmumu<227>`un :doc:`Bankas izdevumu<224>`žurnālos.
+apskatei/labošanai/grāmatošanai vienlaicīgi:doc:`Kases ieņēmumu<227>`
+un :doc:`Bankas izdevumu<224>` žurnālos.
 
 2. Apstiprināt, nospiežot rīku joslā pogu -Naudas izņemšanas no bankas
 kontadokumentstiks Apstiprināts un to būs iespējams Grāmatot.
@@ -154,7 +154,7 @@ Naudas izņemšanas no bankas konta dokumenta grāmatošana
 
 Naudas izņemšanas no bankas konta dokumentu iespējams grāmatot no
 atvērta dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Kases
-ieņēmumu<227>`vai :doc:`Bankas izdevumu<224>`žurnālā.
+ieņēmumu<227>` vai :doc:`Bankas izdevumu<224>` žurnālā.
 
 Lai iegrāmatotu Naudas izņemšanu no bankas konta, dokumentu
 nepieciešams Apstiprināt, nospiežot rīku joslā pogu .
@@ -172,8 +172,8 @@ PievienotāNaudas izņemšanas no bankas konta dokumentalabošana
 
 Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu
 Naudas izņemšana no bankas konta, kurš pieejams apskatei/labošanai
-vienlaicīgi:doc:`Kases ieņēmumu<227>`un :doc:`Bankas
-izdevumu<224>`žurnālos.
+vienlaicīgi:doc:`Kases ieņēmumu<227>` un :doc:`Bankas izdevumu<224>`
+žurnālos.
 
 Lai veiktu labojumus,dokumentunepieciešams atvērt, izmantojot rīku
 joslas pogu (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos

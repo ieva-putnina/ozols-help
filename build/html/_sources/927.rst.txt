@@ -1,7 +1,7 @@
 .. 927 PVN mēneša deklarācija 2011******************************* 
 
 Sagatavotās PVN deklarācijas tiek saglabātas atskaišu
-:doc:`Sarakstā<531>`. Deklarācijai ir iebūvēta izdrukas forma.
+:doc:`Sarakstā<531>` . Deklarācijai ir iebūvēta izdrukas forma.
 Atskaites dati ir sadalīti ekrāna formās Virsraksts, Darījums,
 Priekšnodoklis, Papildus un Pielikumi, katrā no formām iekļaujot
 noteiktus atskaites datus. Atskaite ir konfigurējama, nosakot kādu
@@ -12,7 +12,7 @@ atskaites datus, neveidojot jaunu atskaiti.
 
 
 Lai būtu iespējams sagatavot PVN mēneša deklarāciju,iepriekš jābūt
-izveidotai :doc:`Grāmatojumu atskaišu konfigurācijai<179>`.
+izveidotai :doc:`Grāmatojumu atskaišu konfigurācijai<179>` .
 
 
 PVN mēneša deklarācijassagatavošana
@@ -31,7 +31,7 @@ atskaite tiks sagatavota:
 
 
 2. Nepieciešams norādīt attiecīgo profilu - :doc:`atskaites
-konfigurāciju<179>`, pēc kādiem konfigurācijas datiem atskaite tiks
+konfigurāciju<179>` , pēc kādiem konfigurācijas datiem atskaite tiks
 sagatavota:
 
 
@@ -105,8 +105,8 @@ iekļaujot tajā arī neapstiprinātos grāmatojumus.
 
 5. Sadaļā "Pielikumi" tiek parādīti sagatavotie deklarācijas
 pielikumi. Pievienojot jaunus pielikumus, jāizvēlas attiecīgā
-pielikuma konfigurācija (:doc:`PVN1:I<533>`; :doc:`PVN1:II<535>`;
-:doc:`PVN1:III<983>`; :doc:`PVN2<892>`). Sagatavotos pielikumus
+pielikuma konfigurācija (:doc:`PVN1:I<533>` ; :doc:`PVN1:II<535>` ;
+:doc:`PVN1:III<983>` ; :doc:`PVN2<892>` ). Sagatavotos pielikumus
 iespējams atvērt un, pēc nepieciešamības, arī labot.
 
 7. Ekrāna formā ir pieejams atskaišu konfigurācijas saraksts.
@@ -116,12 +116,12 @@ to var papildināt neaizverot atskaiti.
 
 
 8. Ja pēc atskaites sagatavošanas veiktas izmaiņas :doc:`atskaites
-konfigurācijā<179>`, atskaiti pēc izmanītās konfigurācijas datiem var
+konfigurācijā<179>` , atskaiti pēc izmanītās konfigurācijas datiem var
 pārrēķināt, nospiežot pogu: . Pārrēķinot atskaiti, tajā tiek parādīti
 jaunākie dati.
 
 9. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
-sarakstā<531>`, kur tā būs pieejama labošanai/drukāšanai, nospiežot
+sarakstā<531>` , kur tā būs pieejama labošanai/drukāšanai, nospiežot
 pogu: .
 
 

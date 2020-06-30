@@ -1,7 +1,7 @@
 .. 237 Līgumu žurnāls****************** 
 
 
-Dokumentu žurnālā tiek saglabāti pievienotie :doc:`Līgumi<394>`.
+Dokumentu žurnālā tiek saglabāti pievienotie :doc:`Līgumi<394>` .
 
 
 

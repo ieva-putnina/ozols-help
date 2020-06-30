@@ -4,11 +4,11 @@
 Nomenklatūras sarakstā tiek saglabāti preču un krājumu apraksti.
 Nomenklatūras apraksts ir informācija, kas ir kopīga visām vienādām
 precēm vai krājumiem. Nomenklatūras apraksts satur informāciju par
-ražotāju, :doc:`Grupu<148>`, nosaukumu, kodu, ražotāja kodu,
-mērvienību un :doc:`Cenu<749>`. Viens nomenklatūras apraksts apzīmē
+ražotāju, :doc:`Grupu<148>` , nosaukumu, kodu, ražotāja kodu,
+mērvienību un :doc:`Cenu<749>` . Viens nomenklatūras apraksts apzīmē
 vienu nomenklatūru, kuras daudzums un cena var mainīties.
 
-Nomenklatūra tiek uzskaitīta pa :doc:`Noliktavām<142>`un grupēta,
+Nomenklatūra tiek uzskaitīta pa :doc:`Noliktavām<142>` un grupēta,
 izmantojot :doc:`Grupu<148>` sarakstu.
 
 
@@ -51,14 +51,14 @@ Nomenklatūras kodu iespējams ievadīt katru reizi manuāli vai
 arīnoteikt konfigurācijas formātu, kur atbilstošā rakstzīme ir viens
 simbols no dažādiem nomenklatūras apraksta kodiem. Nomenklatūras koda
 ģenerēšanu automātiski iespējams noteikt konfigurācijas iestādījumos
-(>Konfigurācija > Iestādījumi > Kopīgie > :doc:`Noliktava<716>`).Ņemot
-vērā nomenklatūras koda veidošanas nosacījumus, tiek automatizēti
-izveidots nomenklatūras apraksta laukā Kods.
+(>Konfigurācija > Iestādījumi > Kopīgie > :doc:`Noliktava<716>`
+).Ņemot vērā nomenklatūras koda veidošanas nosacījumus, tiek
+automatizēti izveidots nomenklatūras apraksta laukā Kods.
 
 
 
 3. Ievadīt nomenklatūras nosaukumu, norādīt atbilstošo nomenklatūras
-mērvienību no:doc:`Mērvienību saraksta<124>`, ja nepieciešams -
+mērvienību no:doc:`Mērvienību saraksta<124>` , ja nepieciešams -
 ievadīt svītrkodu un aizpildīt nomenklatūras apraksta paskaidrojošo
 informāciju laukā "info":
 
@@ -77,7 +77,7 @@ informāciju laukā "info":
 Nomenklatūras kartiņas aprakstā iespējams norādīt konkrētu EK kodu
 (vai fin.kat.) no :doc:`kategoriju<116>` klasifikatora vai arī
 izvēlēties noklusēto izvēli [Grupas], kas nozīmē, ka :doc:`Iepirkuma
-dokumenta<310>`saturā, izvēloties konkrēto nomenklatūru, satura laukā
+dokumenta<310>` saturā, izvēloties konkrēto nomenklatūru, satura laukā
 EK kods (fin.kat),dati tiks ielasīti no nomenklatūras aprakstā
 norādītās :doc:`Grupas<148>` EK (fin.kat)koda.
 
@@ -112,8 +112,8 @@ Pēc attēla pievienošanas, izvēlēto pielikuma failuiespējams vai .
 ++++++++
 
 Nomenklatūras aprakstā iespējams arī nodefinēt preču pārdošanas cenas,
-norādot atbilstošo pārdošanas cenu izvēlētajam :doc:`Cenu
-veidam<105>`:
+norādot atbilstošo pārdošanas cenu izvēlētajam :doc:`Cenu veidam<105>`
+:
 
 
 
@@ -122,10 +122,10 @@ veidam<105>`:
 
 
 Atkarībā no izveidotajām cenām (>Saraksti > Norēķini > :doc:`Cenu
-veidi<105>`),nomenklatūras aprakstā var parādīties vairākas cenas. No
+veidi<105>` ),nomenklatūras aprakstā var parādīties vairākas cenas. No
 nomenklatūras apraksta pārdošanas cena tiek ievienota :doc:`Pārdošanas
-dokumentā<204>`. Preces var cenot ierakstot pārdošanas cenu preces
-aprakstā vai veidojot :doc:`Cenošanas dokumentus<231>`.
+dokumentā<204>` . Preces var cenot ierakstot pārdošanas cenu preces
+aprakstā vai veidojot :doc:`Cenošanas dokumentus<231>` .
 
 
 4. Nomenklatūra
@@ -179,8 +179,8 @@ Individuāls uzsk.cenas aprēķins: pazīme,kas nodrošina
 funkcionalitāti,lai būtu iespēja nomenklatūras kartiņaiizmantot
 individuālu uzskaites cenas aprēķinu;
 
-Veidojot:doc:`Nomenklatūras norakstīšanas<693>`vai:doc:`Nomenklatūras
-pārsūtīšana<687>`dokumentus, aizpildot satura ierakstus - izvēloties
+Veidojot:doc:`Nomenklatūras norakstīšanas<693>` vai:doc:`Nomenklatūras
+pārsūtīšana<687>` dokumentus, aizpildot satura ierakstus - izvēloties
 šo nomenklatūras kartiņu, summas lauks netiks aizpildīts automātiski,
 ņemot vērā uzņēmuma aprakstā -> sadaļā Noliktavadefinēto nomenklatūras
 uzskaites cenas aprēķina metodi:
@@ -200,8 +200,8 @@ Operatīvās uzskaites krājums: pazīme, kas nodrošina funkcionalitāti,
 lai būtu iespēja nomenklatūras kartiņai izmantot operatīvās uzskaites
 principus;
 
-Veidojot:doc:`Nomenklatūras norakstīšanas<693>`vai:doc:`Nomenklatūras
-pārsūtīšana<687>`dokumentus, aizpildot satura ierakstus - izvēloties
+Veidojot:doc:`Nomenklatūras norakstīšanas<693>` vai:doc:`Nomenklatūras
+pārsūtīšana<687>` dokumentus, aizpildot satura ierakstus - izvēloties
 šo nomenklatūras kartiņu, kurai atzīmēta pazīme "operatīvās uzskaites
 krājumu", nomenklatūrai būs iespējams norakstīt summāro vērtību,
 nemainot atlikuma daudzumu.
@@ -211,8 +211,8 @@ nemainot atlikuma daudzumu.
 +++++++++++
 
 Nomenklatūras atlikumus uz perioda sākuma iespējams pievienot gan
-izvēloties dokumentu :doc:`Nomenklatūras atlikumi perioda
-sākumā<107>`, gan arī pievienojot atlikumus nomenklatūras kartiņā.
+izvēloties dokumentu :doc:`Nomenklatūras atlikumi perioda sākumā<107>`
+, gan arī pievienojot atlikumus nomenklatūras kartiņā.
 
 Lai nomenklatūras aprakstā pievienotu atlikumus, sadaļā
 "Atlikumi"nepieciešams nospiest pogu :
@@ -223,7 +223,7 @@ Lai nomenklatūras aprakstā pievienotu atlikumus, sadaļā
 
 
 
-Izvēloties atbilstošo:doc:`Noliktavu<142>`no saraksta, iespējams
+Izvēloties atbilstošo:doc:`Noliktavu<142>` no saraksta, iespējams
 ievadīt nomenklatūras atlikumus perioda sākumā - norādot atbilstošo
 perioda sākuma atlikuma daudzumu, kopējo atlikuma summu un atbildīgo
 personu.
@@ -274,7 +274,7 @@ struktūrvienību, kurā šis krājums/prece ir atlikumā; Ek.kods, u.c.
 Pēc datu aizpildīšanas,norādītos minimālos un maksimālos
 atlikumadaudzumus Noliktavāiespējams vai .
 
-Izmantojot atskaiti :doc:`Pasūtījumi<543>`,nomenklatūras aprakstā
+Izmantojot atskaiti :doc:`Pasūtījumi<543>` ,nomenklatūras aprakstā
 norādītais minimālais nepieciešamais daudzums noliktavā tiek ņemts
 vērā, aprēķinot nepieciešamo pasūtījumu apjomu.
 

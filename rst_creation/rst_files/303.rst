@@ -9,6 +9,7 @@ Izvēloties dokumenta veidu Pilnvara, tiks atvērts jauns logs:
 
 
 
+
 Pilnvaras virsrakstaaizpildīšana
 ++++++++++++++++++++++++++++++++
 
@@ -57,11 +58,12 @@ saņemta:
 Japiegādātājs nav datu bāzē, izmantojot komandu atveras partneru
 saraksta logs un ir iespējams pievienot jaunu partneri partneru
 sarakstā. Partnera pievienošanu un aizpildīšanu skatīt :doc:`
-Partneris <312>`.
+Partneris <312>` .
 
 
 
 5. Laukā "Pask.", iespējams ievadīt Pilnvaras paskaidrojošo tekstu:
+
 
 
 

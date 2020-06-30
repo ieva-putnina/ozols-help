@@ -7,13 +7,13 @@ kritērijiem.
 
 Aktivitāšu veidi:
 
-:doc:`Darba uzdevumi<743>`;
+:doc:`Darba uzdevumi<743>` ;
 
-:doc:`Notikumi<743>`;
+:doc:`Notikumi<743>` ;
 
-:doc:`ieg./izg. korespondences<745>`;
+:doc:`ieg./izg. korespondences<745>` ;
 
-:doc:`Piedāvājumi<743>`.
+:doc:`Piedāvājumi<743>` .
 
 
 
@@ -40,16 +40,16 @@ Statuss: aktivitātes statuss (Paziņots, Anulēts, Apskatīts,
 Apstiprināts, Izpilde atlikta, Izpildīts, Neizpildīts), iespēja
 atlasīt aktivitātes pēc to statusa;
 
-Veids: aktivitātes veids (:doc:`Darba uzdevums<743>`,
-:doc:`Notikums<743>`, :doc:`ieg./izg. korespondence<745>`,
-:doc:`Piedāvājums<743>`);
+Veids: aktivitātes veids (:doc:`Darba uzdevums<743>` ,
+:doc:`Notikums<743>` , :doc:`ieg./izg. korespondence<745>` ,
+:doc:`Piedāvājums<743>` );
 
 Prioritāte: aktivitātes prioritāte;
 
 Partneris: aktivitātes, kuras attiecas uz noteiktu
-:doc:`partneri<312>`;
+:doc:`partneri<312>` ;
 
-Sektors: partneru dalījums :doc:`sektoros<810>`;
+Sektors: partneru dalījums :doc:`sektoros<810>` ;
 
 Izpildes termiņš: aktivitāšu atlasīšana pēc izpildes termiņa (datums
 vai periods);

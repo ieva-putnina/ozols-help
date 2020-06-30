@@ -2,9 +2,10 @@
 
 
 CRM atskaitē Dzimšanas un vārda dienu kalendārs, tiek attēlotidati,
-par datu bāzē pievienotajiem :doc:`Partneriem<112>`(fiziskā personām).
-Atskaitē iespējams redzēt informāciju par Partneru dzimšanas datiem,
-vārda dienu, vecumu, kā arī Partnera kontaktinofrmāciju.
+par datu bāzē pievienotajiem :doc:`Partneriem<112>` (fiziskā
+personām). Atskaitē iespējams redzēt informāciju par Partneru
+dzimšanas datiem, vārda dienu, vecumu, kā arī Partnera
+kontaktinofrmāciju.
 
 Filtrs (rīku joslā poga (Ctrl+F)) jāaizpilda, lai sagatavotu atskaiti.
 
@@ -34,7 +35,7 @@ pēc Partnera dzimšanas dienas.
 
 
 - Izvēles rūtiņa jāatzīmē, ja nepieciešams sagatvot atskaiti tikai par
-uzņēmumā :doc:`Strādājošajiem<111>`.
+uzņēmumā :doc:`Strādājošajiem<111>` .
 
 
 

@@ -2,7 +2,7 @@
 Licenču sarakstā redzamas visas programmā pievienotās licences.
 
 Lai pievienotu jaunu Licenci, jāiet uz Degvielas pasūtījumu sadaļu
-:doc:`Jauns<6908>`, un jāizvēlas :doc:`Licenci<6908>`. Licenču
+:doc:`Jauns<6908>` , un jāizvēlas :doc:`Licenci<6908>` . Licenču
 sarakstā redzams:
 
 

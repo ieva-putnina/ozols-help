@@ -8,7 +8,7 @@ partnerim, tādejādi iegūstot detalizētas ieņēmumu-izdevumu tāmes ar
 iespēju iegūt apvienotās (konsolidētās) tāmes pa visu uzņēmumu kopumā.
 
 Lai pievienotu jaunu plānu, vispirms nepieciešams nodefinēt
-:doc:`Plāna periodu<156>`.
+:doc:`Plāna periodu<156>` .
 
 Pēc Plāna perioda nodefinēšanas, iespējams ievadīt budžeta plāna
 ierakstus attiecīgajam plāna periodam, aizpildot nepieciešamos laukus:

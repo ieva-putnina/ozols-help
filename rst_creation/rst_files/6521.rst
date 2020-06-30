@@ -17,6 +17,7 @@ Izvēloties darba režīmu Polise, tiks atvērts šāds logs:
 
 
 
+
 1. Polises apraksta Info lapa
 +++++++++++++++++++++++++++++
 
@@ -31,32 +32,40 @@ Laukus kurus jūs varat aplūkot:
 
 
 
+
 2. Sadaļa "Labot"
 +++++++++++++++++
+
 
 
 3. Komentāri
 ++++++++++++
 
 
+
 4. Faili
 ++++++++
+
 
 
 5. Pielikumi
 ++++++++++++
 
 
+
 6. Maksājumu plāns
 ++++++++++++++++++
+
 
 
 7. Pirmdokumenti
 ++++++++++++++++
 
 
+
 8. Grāmatojumi
 ++++++++++++++
+
 
 
 9. Bilande

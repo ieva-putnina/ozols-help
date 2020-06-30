@@ -3,11 +3,11 @@
 
 Pamatlīdzekļu ienākšanas dokuments jāveido ņemot uzskaitē jaunus
 pamatlīdzekļus. Dokuments pēc saglabāšanas tiek pievienots
-:doc:`Pamatlīdzekļu dokumentu sarakstā<233>`. Pamatlīdzekļu ienākšanas
-dokumentu iespējams arī automatizēti ģenerēt no:doc:`Iepirkumu
-dokumentu žurnāla<210>` (skat. zemāk Automātiska pamatlīdzekļu
-ienākšanas dokumenta izveide no iepirkuma dokumenta ), kas ir
-jāpapildina ar trūkstošo informāciju.
+:doc:`Pamatlīdzekļu dokumentu sarakstā<233>` . Pamatlīdzekļu
+ienākšanas dokumentu iespējams arī automatizēti ģenerēt
+no:doc:`Iepirkumu dokumentu žurnāla<210>` (skat. zemāk Automātiska
+pamatlīdzekļu ienākšanas dokumenta izveide no iepirkuma dokumenta ),
+kas ir jāpapildina ar trūkstošo informāciju.
 
 
 
@@ -22,7 +22,7 @@ Pamatlīdzekļu ienākšanas dokuments .
 
 Numurs - jānorāda pamatlīdzekļa dokumenta numurs. Šis numurs strādājot
 ar sistēmu tiek piešķirts automātiski pēc iebūvētā
-:doc:`numeratora<139>`. Visiem pamatlīdzekļu dokumentiem ir viena
+:doc:`numeratora<139>` . Visiem pamatlīdzekļu dokumentiem ir viena
 numerācija.
 
 Datums - pamatlīdzekļu dokumenta izveidošanas datums.
@@ -54,7 +54,8 @@ obligāti pēc saglabāšanas dokuments ir jāapstiprina ar funkciju .
 
 
 Pēc dokumenta apstiprināšanas Pamatlīdzekļu ienākšanasdokuments ir
-:doc:`jānogrāmato<14044>`.
+:doc:`jānogrāmato<14044>` .
+
 
 
 
@@ -118,7 +119,7 @@ Iegādes dat. - jānorāda faktiskais iegādes datums.
 
 Ieg. vērtība - jānorāda pamatlīdzekļa iegādes vērtība.
 
-Īpašuma veids - jānorāda :doc:`pamatlīdzekļa īpašuma veids<183>`.
+Īpašuma veids - jānorāda :doc:`pamatlīdzekļa īpašuma veids<183>` .
 
 Izsl.datums - šis lauks tiek aizpildīts automātiski pēc pamatlīdzekļa
 izslēgšanas un lietotājs to mainīt nevar.
@@ -136,19 +137,19 @@ Stājies ekspl. - jānorāda pamatlīdzekļa faktiskais stāšanās
 ekspluatācijā datums.
 
 mēn. - jānorāda derīgās lietošanas mēneši. Šis lauks tiek aizpildīts
-automātiski pievienojot :doc:`Pamatlīdzeklim kategoriju<129>`, bet
+automātiski pievienojot :doc:`Pamatlīdzeklim kategoriju<129>` , bet
 lietotājam ir iespēja derīgās lietošanas mēnešu skaitu mainīt
 atbilstoši uzņēmumā noteiktajam laikam.
 
 Der.liet.beig.dat. - šis lauks nav jāaizpilda un ir informatīvs. Dati
 tiek rādīti ņemot vērā Stājies ekspl. un mēn. norādītos datus.
 
-Kategorija - jānorāda :doc:`Pamatlīdzekļa kategorija<129>`. Caur
+Kategorija - jānorāda :doc:`Pamatlīdzekļa kategorija<129>` . Caur
 Pamatlīdzekļu kategoriju pamatlīdzeklim tiek nodefinēts pamatlīdzekļa
 uzskaites konts, nolietojuma konts, izdevumu konts un derīgās
 lietošanas laiks.
 
-Objekts - jānorāda :doc:`pamatlīdzekļa objekts<202>`.
+Objekts - jānorāda :doc:`pamatlīdzekļa objekts<202>` .
 
 Dimensijas - iespēja norādīt uzņēmumā izmantojamo dimensiju vērtības
 (piem. ekonomiskās klasifikācijas kods, valdības funkcija, projekts,
@@ -156,7 +157,7 @@ finansējums, utt.).
 
 Struktūrv. - jānorāda struktūrvienība.
 
-Atb.persona - jānorāda materiāli :doc:`atbildīgā persona<195>`.
+Atb.persona - jānorāda materiāli :doc:`atbildīgā persona<195>` .
 
 Uzsk.vērtība - jānorāda uzskaites vērtība finanšu vajadzībām un
 jānorāda uzskaites vērtība nodokļu vajadzībām.
@@ -167,7 +168,7 @@ darbs ar sistēmu.
 
 
 
-Piegādātājs - iespēja norādīt pamatlīdzekļa :doc:`Piegādātāju<150>`.
+Piegādātājs - iespēja norādīt pamatlīdzekļa :doc:`Piegādātāju<150>` .
 
 Līgums - iespēja norādīt līguma numuru.
 
@@ -175,14 +176,15 @@ Garantijas term. - iespēja norādīt pamatlīdzekļa garantijas termiņu.
 
 Piegādātāja valsts - iespēja norādīt piegādātāja valsti.
 
-Apdr.sabiedr. - iespēja norādīt :doc:`Apdrošināšanas sabiedrību<155>`.
+Apdr.sabiedr. - iespēja norādīt :doc:`Apdrošināšanas sabiedrību<155>`
+.
 
 Max.atlīdzība - iespēja norādīt apdrošināšanas maksimālo atlīdzību.
 
 Garantijas term. - iespēja norādīt maksimālās atlīdzības garantijas
 termiņu.
 
-Pazīme - iespēja norādīt :doc:`Pamatlīdzekļa pazīmi<130>`.
+Pazīme - iespēja norādīt :doc:`Pamatlīdzekļa pazīmi<130>` .
 
 Platība - ja pamatlīdzeklis ir zeme vai nekustamais īpašums, tad ir
 iespēja norādīt platību.
@@ -196,6 +198,7 @@ Saglabāt - jāspiež šī poga lai saglabātu ievadītos datus par
 pamatlīdzekli.
 Atcelt - jāspiež šī poga, ja lietotājs nevēlas saglabāt aizpildītos
 datus par pamatlīdzekli.
+
 
 
 
@@ -264,13 +267,14 @@ ienākšanas dokumenta numuru.
 Pēc pamatlīdzekļu automatizētas izveidesPamatlīdzekļu ienākšanas
 dokumentā obligāti jāpapildina trūkstošā informācija par
 pamatlīdzekļiem, kuri atrodas :doc:`Pamatlīdzekļu dokumentu
-žurnālā<233>`.
+žurnālā<233>` .
 
 
 
 Lietotājam ir iespēja uzreiz atvērt Pamatlīdzekļu ienākšanas
 dokumentuapstiprinot, vai neapstiprināt un atvērtPamatlīdzekļu
-ienākšanas dokumentuvēlāk :doc:`Pamatlīdzekļu dokumentu žurnālā<233>`.
+ienākšanas dokumentuvēlāk :doc:`Pamatlīdzekļu dokumentu žurnālā<233>`
+.
 
 
 

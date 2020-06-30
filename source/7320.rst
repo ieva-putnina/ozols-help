@@ -1,6 +1,6 @@
 .. 7320 Repertuārs************** 
 Repertuāra atskaitē ir redzami visi konkrētā periodā pievienotie
-:doc:`pasākumi<7303>`. Atskaiti iespējams sagatavot pēc pasākuma
+:doc:`pasākumi<7303>` . Atskaiti iespējams sagatavot pēc pasākuma
 veida, :doc:`telpas` un perioda:
 
 
@@ -17,6 +17,6 @@ Izdrukāt:
 
 
 No repertuāra atskaites, aktivzējot repertuāra nosaukumu, iespējams
-atvērt :doc:`notikuma aprakstu<7308>`.
+atvērt :doc:`notikuma aprakstu<7308>` .
 
  

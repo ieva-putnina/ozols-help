@@ -1,7 +1,10 @@
 import csv
 from html2rest import html2rest
 from io import BytesIO as StringIO
-
+from bs4 import BeautifulSoup as bs
+import time
+#import bs4
+start_time = time.time()
 #file_names = []
 with open('ozols-help-csv.csv') as csvFile:
     rowsArray = list(csv.reader(csvFile))
@@ -22,7 +25,7 @@ with open('ozols-help-csv.csv') as csvFile:
     index_file.write("   :maxdepth: " + str(maxdepth) + chr(13))    
     index_file.write(" " + chr(13))
     
-    def parse_rst(row):
+    def parse_csv(row):
         param_array = ["","","","","","", ""]
         
         ozols_id = str(row[0])   
@@ -52,11 +55,24 @@ with open('ozols-help-csv.csv') as csvFile:
         #rst_name = rst_name.replace(" ", "_")
         #rst_name = rst_name.lower()
         
-        html_code = html_code.replace("_x000D_", "") #chr(13))
+        html_code = html_code.replace("_x000D_", "\n" + chr(13))
         html_code = html_code.replace("\\", "-=+=")
         html_code = html_code.replace("-=+=-=+=", "\\")
         html_code = html_code.replace("-=+=", "\\")   
-    
+        
+        #print(html_code.find("IMG"))
+       
+        #soup = None
+        #soup = bs(html_code, "html.parser")
+        #print(soup)
+        #images = None
+        #images = soup.findAll('img')
+        #print(skf_id)
+        #for image in images:        
+          #print(image["src"])
+          #print("+++++++++++++++++++++++++++++++++++++++++++++")
+        #print("===============================================")
+        
         param_array[0] = ozols_id
         param_array[1] = ssw_id
         param_array[2] = skf_id
@@ -65,15 +81,11 @@ with open('ozols-help-csv.csv') as csvFile:
         param_array[5] = caption
         param_array[6] = rst_name
         
-        return(param_array)    
-    
-    #def rst_hierachy(param_array, param_array2):
-        
-    
+        return(param_array)        
     
     for row in rowsArray:
         if count != 0:            
-            param_array = parse_rst(row)
+            param_array = parse_csv(row)
             
             if param_array[3] == "0":
                 index_file.write("   " + param_array[6] + ".rst" + chr(13))
@@ -86,15 +98,27 @@ with open('ozols-help-csv.csv') as csvFile:
                 #f.write(header_sep + chr(13))
                 f.write(param_array[5] + chr(13))
                 f.write(header_sep + chr(13))
-                f.write(" " + chr(13))              
+                f.write(" " + chr(13))         
+                f.write(".. role:: raw-html(raw)" + chr(13))            
+                f.write("     :format: html")
                 stream = StringIO()
+                soup = None
+                soup = bs(param_array[4], "html.parser")
+                images = soup.findAll('img')
+                print(param_array[2])
+                for image in images:
+                    img_start_pos =  param_array[4].find(image["src"]) - 10
+                    img_end_pos  =  param_array[4].find(">", img_start_pos)  
+                    img_id = image["src"][image["src"].find("=") + 1:]
+                    print("IMAGE ID:  " + str(img_id))                     
+                    param_array[4] = param_array[4].replace(param_array[4][ img_start_pos : img_end_pos+1 ], " .. image:: " + image["src"] + " <br />")   
                 html2rest(param_array[4], writer = stream)
                 f.write(stream.getvalue().decode("utf8") + chr(13))
                 f.write(" " + chr(13))
                 
                 isParent = False
                 for row_child in rowsArray:
-                    param_array2 = parse_rst(row_child)
+                    param_array2 = parse_csv(row_child)
                     maxdepth = 6
                     if param_array2[3] == param_array[2]:                                    
                         isParent = True
@@ -105,7 +129,7 @@ with open('ozols-help-csv.csv') as csvFile:
                     f.write(" " + chr(13))
                 
                 for row_child in rowsArray:                    
-                    param_array2 = parse_rst(row_child)
+                    param_array2 = parse_csv(row_child)
                     maxdepth = 6
                     isParent = False
                     if param_array2[3] == param_array[2]:
@@ -124,13 +148,22 @@ with open('ozols-help-csv.csv') as csvFile:
                             f2.write(header_sep + chr(13))
                             f2.write(" " + chr(13))            
                             stream2 = StringIO()
+                            soup = None
+                            soup = bs(param_array[4], "html.parser")
+                            images = soup.findAll('img')
+                            print(param_array2[2])
+                            for image in images:
+                                img_start_pos =  param_array2[4].find(image["src"]) - 10
+                                img_end_pos  =  param_array2[4].find(">", img_start_pos)                
+                                param_array2[4] = param_array2[4].replace(param_array2[4][ img_start_pos : img_end_pos+1 ], " .. image:: " + image["src"] + " <br />")   
+                
                             html2rest(param_array2[4], writer = stream2)
                             f2.write(stream2.getvalue().decode("utf8") + chr(13))
                             f2.write(" " + chr(13))
                             
                             isParent = False
                             for row_child2 in rowsArray:
-                                param_array3 = parse_rst(row_child2)
+                                param_array3 = parse_csv(row_child2)
                                 maxdepth = 5
                                 if param_array3[3] == param_array2[2]:                                    
                                     isParent = True
@@ -140,7 +173,7 @@ with open('ozols-help-csv.csv') as csvFile:
                                 f2.write("   :maxdepth: "+ str(maxdepth) + chr(13)) 
                                 f2.write(" " + chr(13))
                             for row_child2 in rowsArray:                    
-                                param_array3 = parse_rst(row_child2)
+                                param_array3 = parse_csv(row_child2)
                                 maxdepth = 5
                                 isParent = False
                                 if param_array3[3] == param_array2[2]:
@@ -160,16 +193,22 @@ with open('ozols-help-csv.csv') as csvFile:
                                         f3.write(" " + chr(13))              
                                         #if param_array3[6] != "14066" and param_array3[6] != "721": 
                                         stream3 = StringIO()
-                                        #print("++++++++++++++++++++++++++++++++++++++++++++++++++++" + chr(13))
-                                        #print(param_array3[6] + chr(13))
-                                        #print(param_array3[4] + chr(13))
+                                        soup = None
+                                        soup = bs(param_array[4], "html.parser")
+                                        images = soup.findAll('img')
+                                        print(param_array3[2])
+                                        for image in images:
+                                            img_start_pos =  param_array3[4].find(image["src"]) - 10
+                                            img_end_pos  =  param_array3[4].find(">", img_start_pos)                
+                                            param_array3[4] = param_array3[4].replace(param_array3[4][ img_start_pos : img_end_pos+1 ], " .. image:: " + image["src"] + " <br />")   
+                
                                         html2rest(param_array3[4], writer = stream3)
                                         f3.write(stream3.getvalue().decode("utf8") + chr(13))
                                         f3.write(" " + chr(13))
                                         
                                         isParent = False
                                         for row_child3 in rowsArray:
-                                            param_array4 = parse_rst(row_child3)
+                                            param_array4 = parse_csv(row_child3)
                                             maxdepth = 4
                                             if param_array4[3] == param_array3[2]:                                    
                                                 isParent = True
@@ -180,7 +219,7 @@ with open('ozols-help-csv.csv') as csvFile:
                                             f3.write(" " + chr(13))
                                            
                                         for row_child3 in rowsArray:                    
-                                            param_array4 = parse_rst(row_child3)
+                                            param_array4 = parse_csv(row_child3)
                                             maxdepth = 4
                                             isParent = False
                                             if param_array4[3] == param_array3[2]:
@@ -199,13 +238,22 @@ with open('ozols-help-csv.csv') as csvFile:
                                                     f4.write(header_sep + chr(13))
                                                     f4.write(" " + chr(13))           
                                                     stream4 = StringIO()
+                                                    soup = None
+                                                    soup = bs(param_array[4], "html.parser")
+                                                    images = soup.findAll('img')
+                                                    print(param_array4[2])
+                                                    for image in images:
+                                                        img_start_pos =  param_array4[4].find(image["src"]) - 10
+                                                        img_end_pos  =  param_array4[4].find(">", img_start_pos)                
+                                                        param_array4[4] = param_array4[4].replace(param_array4[4][ img_start_pos : img_end_pos+1 ], " .. image:: " + image["src"] + " <br />")   
+                
                                                     html2rest(param_array4[4], writer = stream4)
                                                     f4.write(stream4.getvalue().decode("utf8") + chr(13))
                                                     f4.write(" " + chr(13))                                        
 
                                                     isParent = False
                                                     for row_child4 in rowsArray:
-                                                        param_array5 = parse_rst(row_child4)
+                                                        param_array5 = parse_csv(row_child4)
                                                         maxdepth = 3
                                                         if param_array5[3] == param_array4[2]:                                    
                                                             isParent = True
@@ -215,7 +263,7 @@ with open('ozols-help-csv.csv') as csvFile:
                                                         f4.write("   :maxdepth: "+ str(maxdepth) + chr(13)) 
                                                         f4.write(" " + chr(13))
                                                     for row_child4 in rowsArray:                    
-                                                        param_array5 = parse_rst(row_child4)
+                                                        param_array5 = parse_csv(row_child4)
                                                         maxdepth = 3
                                                         isParent = False
                                                         if param_array5[3] == param_array4[2]:
@@ -234,6 +282,15 @@ with open('ozols-help-csv.csv') as csvFile:
                                                                 f5.write(header_sep + chr(13))
                                                                 f5.write(" " + chr(13))
                                                                 stream5 = StringIO()
+                                                                soup = None
+                                                                soup = bs(param_array[4], "html.parser")
+                                                                images = soup.findAll('img')
+                                                                print(param_array5[2])
+                                                                for image in images:
+                                                                    img_start_pos =  param_array5[4].find(image["src"]) - 10
+                                                                    img_end_pos  =  param_array5[4].find(">", img_start_pos)                
+                                                                    param_array5[4] = param_array5[4].replace(param_array5[4][ img_start_pos : img_end_pos+1 ], " .. image:: " + image["src"] + " <br />")   
+                
                                                                 html2rest(param_array5[4], writer = stream5)
                                                                 f5.write(stream5.getvalue().decode("utf8") + chr(13))
                                                                 f5.write(" " + chr(13)) 
@@ -241,7 +298,7 @@ with open('ozols-help-csv.csv') as csvFile:
                                                                 
                                                                 isParent = False
                                                                 for row_child5 in rowsArray:
-                                                                    param_array6 = parse_rst(row_child5)
+                                                                    param_array6 = parse_csv(row_child5)
                                                                     maxdepth = 2
                                                                     if param_array5[3] == param_array5[2]:                                    
                                                                         isParent = True
@@ -251,7 +308,7 @@ with open('ozols-help-csv.csv') as csvFile:
                                                                     f5.write("   :maxdepth: "+ str(maxdepth) + chr(13)) 
                                                                     f5.write(" " + chr(13))
                                                                 for row_child5 in rowsArray:                    
-                                                                    param_array6 = parse_rst(row_child5)
+                                                                    param_array6 = parse_csv(row_child5)
                                                                     maxdepth = 2
                                                                     isParent = False
                                                                     if param_array6[3] == param_array5[2]:
@@ -270,6 +327,15 @@ with open('ozols-help-csv.csv') as csvFile:
                                                                             f6.write(header_sep + chr(13))
                                                                             f6.write(" " + chr(13))              
                                                                             stream6 = StringIO()
+                                                                            soup = None
+                                                                            soup = bs(param_array[4], "html.parser")
+                                                                            images = soup.findAll('img')
+                                                                            print(param_array6[2])
+                                                                            for image in images:
+                                                                                img_start_pos =  param_array6[4].find(image["src"]) - 10
+                                                                                img_end_pos  =  param_array6[4].find(">", img_start_pos)                
+                                                                                param_array6[4] = param_array6[4].replace(param_array6[4][ img_start_pos : img_end_pos+1 ], " .. image:: " + image["src"] + " <br />")   
+                
                                                                             html2rest(param_array6[4], writer = stream6)
                                                                             f6.write(stream6.getvalue().decode("utf8") + chr(13))
                                                                             f6.write(" " + chr(13))                                                                 
@@ -294,3 +360,4 @@ with open('ozols-help-csv.csv') as csvFile:
     #index_file.write("* :ref:`search`" + chr(13))
     #index_file.close()    
 csvFile.close()          
+print("Execution time: " + str(time.time() - start_time))

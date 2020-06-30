@@ -1,6 +1,6 @@
 .. 7321 Mēģinājumu kopsavilkums*************************** 
 Mēģinājumu kopsavilkuma atskaitē ir redzami visi pievienotie un
-apstiprinātie mēģinājumi (:doc:`darbības<7307>`). Mēģinājumu
+apstiprinātie mēģinājumi (:doc:`darbības<7307>` ). Mēģinājumu
 kosavilkuma atskaiti iespējams sagatavot pēc konkrētiem kritērijiem
 (filtra parametriem). Lai sagatavotu atskaiti, ja nepieciešmas,
 jānorāda kāds no atlasīšanas kritērijiem un jānospiež poga :
@@ -9,9 +9,8 @@ jānorāda kāds no atlasīšanas kritērijiem un jānospiež poga :
 
 
 
-Iespējams atlasīt mēģinājumus pēc viena konkrēta
-:doc:`Pasākuma<7312>`, :doc:`Darbības<7316>` vai
-:doc:`Struktūrvienības<7313>`.
+Iespējams atlasīt mēģinājumus pēc viena konkrēta :doc:`Pasākuma<7312>`
+, :doc:`Darbības<7316>` vai :doc:`Struktūrvienības<7313>` .
 
 Mēģinājumu kopsavilkuma atskaitē redzams pasākuma nosaukums,
 mēģinājuma sākuma un beigu datums, darbību skaits un kopīgais
@@ -27,7 +26,7 @@ Aktivizējot katru kolonnas virsrakstu, parādās saīsinātā darbības
 nosaukuma atšifrējums (pilns nosaukums).
 
 Mēģinājuma kopsavilkumā ir redzami tikai apstiprinātie mēģinājumi
-(:doc:`darbības<7307>`).
+(:doc:`darbības<7307>` ).
 
 
 

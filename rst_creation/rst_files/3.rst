@@ -2,13 +2,13 @@
 
 
 Noliktavas uzskaite tiek organizēta, izmantojot komponentes
-:doc:`Norēķini<44>`un :doc:`Noliktava<43>`. Norēķinu daļa izmantojama
-darbam ar :doc:`Iepirkumu dokumentiem<210>` un :doc:`Pārdošanas
-dokumentiem<204>`. Noliktavas dokumentiizmantojami preču un krājumu
-uzskaitei noliktavā. Izmantojot Noliktavas dokumentus, iespējams
-noformēt nomenklatūras iekšējās kustības dokumentus, veidot cenošanas
-un ražošanas dokumentus, kā arī ievadīt nomenklatūras atlikumus uz
-perioda sākumu.
+:doc:`Norēķini<44>` un :doc:`Noliktava<43>` . Norēķinu daļa
+izmantojama darbam ar :doc:`Iepirkumu dokumentiem<210>` un
+:doc:`Pārdošanas dokumentiem<204>` . Noliktavas dokumentiizmantojami
+preču un krājumu uzskaitei noliktavā. Izmantojot Noliktavas
+dokumentus, iespējams noformēt nomenklatūras iekšējās kustības
+dokumentus, veidot cenošanas un ražošanas dokumentus, kā arī ievadīt
+nomenklatūras atlikumus uz perioda sākumu.
 
 
 

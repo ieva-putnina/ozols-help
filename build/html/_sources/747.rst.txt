@@ -1,9 +1,10 @@
 .. 747 Avansa izdevums******************* 
 Avansa izdevums noformē attaisnojošos izdevumus Avansu norēķinu
 personām. Avansu izdevumu dokumenti tiek saglabāti :doc:`Avansa
-izdevumu žurnālā<746>`. Avansa izdevumu dokumenti tiek piesaistīti
+izdevumu žurnālā<746>` . Avansa izdevumu dokumenti tiek piesaistīti
 avansu norēķiniem, lai nodrošinātu datu uzskaiti Avansu norēķinu
 personām.
+
 
 
 Jauna Avansu izdevuma pievienošana
@@ -12,9 +13,10 @@ Jauna Avansu izdevuma pievienošana
 Jaunu Avansa izdevumu iespējams pievienot Avansu norēķinam,
 :doc:`Avansa norēķina<748>` formā, sadaļā Izdevumi, nospiežot pogu
 "Pievienot" vai arī izvēloties dokumenta veidu :doc:`Avansa
-izdevums<747>`.
+izdevums<747>` .
 
 Veicot vienu no iepriekš minētajām darbībām, tiks atvērts jauns logs:
+
 
 
 
@@ -29,7 +31,7 @@ Lai aizpildītu Avansa izdevuma Virsrakstu, nepieciešams:
 
 
 
-1. Laukā Persona, izvēlēties :doc:`Avansu norēķinu personu<196>`no
+1. Laukā Persona, izvēlēties :doc:`Avansu norēķinu personu<196>` no
 saraksta:
 
 
@@ -118,7 +120,7 @@ dokumentu.
 
 Avansa izdevuma iespējams grāmatot no atvērta Avansu izdevuma
 dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Avansa izdevumu
-žurnālā<746>`.
+žurnālā<746>` .
 
 Lai iegrāmatotu Avansu izdevumu, dokumentu nepieciešams Apstiprināt,
 nospiežot rīku joslā pogu .
@@ -146,13 +148,14 @@ aizpildīts pirmdokuments un izveidots grāmatojumu šablons.
 Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
 
 
+
 Pievienotā Avansa izdevuma labošana
 ```````````````````````````````````
 
 Labojumus saglabātajā dokumentā iespējams veikt atverot Avansa
 izdevuma dokumentu, kurš pieejams apskatei/labošanai:doc:`Avansa
-izdevumu žurnālā<746>`vai arī atverot to :doc:`Avansu norēķinu<232>`,
-uz kuru šis Avansu izdevums attiecas un Avansu norēķina sadaļā
+izdevumu žurnālā<746>` vai arī atverot to :doc:`Avansu norēķinu<232>`
+, uz kuru šis Avansu izdevums attiecas un Avansu norēķina sadaļā
 Izdevumi, atverot nepieciešamo Avansa izdevuma dokumentu. Lai veiktu
 labojumus Avansu izdevumā, dokumentu nepieciešams atvērt, izmantojot
 rīku joslas pogu (ALT+A), un atvērtajā ierakstā iespējams veikt

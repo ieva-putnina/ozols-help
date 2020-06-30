@@ -4,7 +4,7 @@
 Grāmatvedības sistēmā Ozols datu uzskaite notiek veidojot
 pirmdokumentus un tos grāmatojot. Grāmatojums tiek veidots arī kā
 dokuments, kas tiek sasaistīts ar vienu pirmdokumentu. Visi
-grāmatojumi tiek saglabāti :doc:`Grāmatojumu žurnālā<131>`, kur tie
+grāmatojumi tiek saglabāti :doc:`Grāmatojumu žurnālā<131>` , kur tie
 pieejami apskatei/labošanai/anulēšanai/dzēšanai.
 
 

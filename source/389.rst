@@ -11,10 +11,10 @@ Jauns kontakts kā kontaktpersona tiek pievienots jau esošam partnerim:
 
 Tiek izvēlēts partneris, kuram tiks pievienota šī kontaktpersona. Ir
 iespējams norādīt kontaktpersonas kontaktus, kā ārī piesaistīt
-:doc:`kontaktpersonu grupām<113>`. Jaunu kontaktpersonu ir iespējams
-pievienot arī caur :doc:`Partnera pievienošanu<312>`, :doc:`partneru
-sarakstu<112>` un:doc:`kontaktusarakstu<189>`. Lai saglabātu
+:doc:`kontaktpersonu grupām<113>` . Jaunu kontaktpersonu ir iespējams
+pievienot arī caur :doc:`Partnera pievienošanu<312>` , :doc:`partneru
+sarakstu<112>` un:doc:`kontaktusarakstu<189>` . Lai saglabātu
 pievienotot kontaktpersonu, jānospiež poga . Visi pievienotie kontakti
-tiek saglabāti :doc:`kontaktu sarakstā<189>`.
+tiek saglabāti :doc:`kontaktu sarakstā<189>` .
 
  

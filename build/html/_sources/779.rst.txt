@@ -11,7 +11,7 @@ dokumentu<304>` un aizpildot datus par Pārvadātāju:
 
 
 Lai izveidotu Pārvadātāju un Šoferu sarakstu, ir jāizveido
-:doc:`Partneru grupas<113>`. Partneru grupas tiek veidotas CRM
+:doc:`Partneru grupas<113>` . Partneru grupas tiek veidotas CRM
 Partneru Sarakstos:
 
 

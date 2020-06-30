@@ -2,7 +2,7 @@
 Polišu imports nodrošina liela apjoma polišu datu importēšanu sistēmā
 no sagatavota excel datu faila. Polišu datu importēšanas procesā
 notiek :doc:`Partnera kartiņas<312>` izveide ar partnerim norādīto
-kontaktinformāciju, :doc:`polises izveide<6510>`, polišu
+kontaktinformāciju, :doc:`polises izveide<6510>` , polišu
 :doc:`rēķina<304>` izveide un :doc:`bankas<349>` vai :doc:`kases
 ieņēmuma<350>` izveide un sasaiste ar maksājumu.
 
@@ -39,12 +39,12 @@ orderi.
 
 
 Ja nav nepieciešams polišu rēķinus saistīt ar :doc:`Kases
-ieņēmumie<350>`/apmaksām, tad pie polišu importa nav jānorāda Kase.
+ieņēmumie<350>` /apmaksām, tad pie polišu importa nav jānorāda Kase.
 
 
 
 5. Jānorāda uzņēmuma Bankas konts, kurš tiks norādīts polišu
-maksājumos/:doc:`rēķinos<304>`:
+maksājumos/:doc:`rēķinos<304>` :
 
 
 

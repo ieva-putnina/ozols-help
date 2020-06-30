@@ -22,7 +22,7 @@ iespējams pievienot nepieciešamo skaitu ar pavadzīmju numuriem:
 
 
 Izmantojot stingrās uzskaites dokumentu žurnālā reģistrēto numuru
-:doc:`Pārdošanas dokumentā<304>`, stingrās uzskaites dokumenta numura
+:doc:`Pārdošanas dokumentā<304>` , stingrās uzskaites dokumenta numura
 apraksta laukā "Izpildes datums" tiek automatizēti aizpildīts datums,
 kas sakrīt ar :doc:`Pārdošanas dokumentā<304>` datumu:
 
@@ -31,7 +31,7 @@ kas sakrīt ar :doc:`Pārdošanas dokumentā<304>` datumu:
 
 
 
-Anulējot izveidoto :doc:`Pārdošanas dokumentu<304>`, kuram piešķirts
+Anulējot izveidoto :doc:`Pārdošanas dokumentu<304>` , kuram piešķirts
 numurs no stingrās uzskaites dokumentu reģistra, stingrās uzskaites
 dokumenta numura apraksta laukā "Anulēšanas datums" tiek automatizēti
 aizpildīts datums, kas sakrīt ar :doc:`Pārdošanas dokumenta<304>`
@@ -44,7 +44,7 @@ Anulēto pārdošanas dokumentu numuru atkārtota izmantošana
 `````````````````````````````````````````````````````````
 Lai stingrās uzskaites dokumentu reģistrācijas žurnālā esošajam
 uzskaites numuram, kuram statuss ir "Anulēts" atceltu anulāciju un to
-varētu izmantot nākamajā :doc:`Pārdošanas dokumentā<304>`,
+varētu izmantot nākamajā :doc:`Pārdošanas dokumentā<304>` ,
 nepieciešams veikt sekojošas darbības:
 
 1) Atvērt stingrās uzskaites dokumentu

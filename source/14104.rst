@@ -37,7 +37,7 @@ Lai cenas tiktu saglabātas, jānospiež poga .
 Ir iespējams arī manuāli ierakstīt Cenu vai cenu ar PVN, un programma
 automātiski aprēķinās uzcenojumu (%).
 
-Izveidotās cenas tiek saglabātas :doc:`cenu sarakstā<749>`.
+Izveidotās cenas tiek saglabātas :doc:`cenu sarakstā<749>` .
 
 
 
@@ -64,17 +64,17 @@ Spēkā no: datums, no kura stājas spēkā izveidotās cenas;
 Noliktava: :doc:`noliktava<142>` tiek automātiski notādītā tā, kura ir
 norādīta iepirkuma dokumentā;
 
-Izsniedza: iespējams norādīt :doc:`atbildīgo personu<312>`;
+Izsniedza: iespējams norādīt :doc:`atbildīgo personu<312>` ;
 
-Cenas veids: jānorāda :doc:`cenu veids<105>`;
+Cenas veids: jānorāda :doc:`cenu veids<105>` ;
 
 Tad, nospiežot pogu , tiek atvērt logs, kur jānorāda :doc:`cenošanas
 metode<159>` (ja norāda manuālo metodi, tad cenošana jāveic manuāli
 norādot procentuālu uzcenojumu), un tiek norādīts iepirkuma dokuments,
 no kura tiek veikta cenošana. Jānospiež poga , lai tiktu veikta
 cenošana un aizpildītos cenošanas dokumenta saturs. Cenošanas
-dokuments tiek saglabāts :doc:`Cenošanas dokumentu žurnālā<231>`, kur
-tiek saglabāti arī manuāli pievienotie :doc:`cenošanas
-dokumenti<374>`.
+dokuments tiek saglabāts :doc:`Cenošanas dokumentu žurnālā<231>` , kur
+tiek saglabāti arī manuāli pievienotie :doc:`cenošanas dokumenti<374>`
+.
 
  

@@ -29,6 +29,7 @@ Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
 kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
 
 
+
 Jauna Apbalvojuma pievienošana
 ++++++++++++++++++++++++++++++
 
@@ -36,7 +37,7 @@ Jaunu Apbalvojuma ierakstu strādājošajam iespējams izveidot:
 
 
 
-1. :doc:`Strādājošā aprakstā<111>`, sadāļā Personāls - iespēja
+1. :doc:`Strādājošā aprakstā<111>` , sadāļā Personāls - iespēja
 pievienot strādājošā dažādu veidu apbalvojumus, un arī pārkāpumus:
 
 
@@ -64,6 +65,6 @@ jāsaglabā, nospiežot pogu .
 
 
 
-Pievienotie dati tiek saglabāti :doc:`Apbalvojumu dokumentos<764>`.
+Pievienotie dati tiek saglabāti :doc:`Apbalvojumu dokumentos<764>` .
 
  

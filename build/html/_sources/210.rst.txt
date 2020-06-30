@@ -2,7 +2,7 @@
 
 
 Iepirkuma dokumentu žurnālā saraksta veidā tiek saglabāti izveidotie
-:doc:`Iepirkuma dokumenti<310>`.
+:doc:`Iepirkuma dokumenti<310>` .
 
 
 

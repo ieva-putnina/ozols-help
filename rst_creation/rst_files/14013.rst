@@ -33,6 +33,7 @@ darbības laiku, strādājot ar dažādiem atvērtajiem darba režīmiem
 ekrāna labajā pusē.
 
 
+
 Summējošais pārlūks
 +++++++++++++++++++
 
@@ -95,6 +96,7 @@ tikai tie dati, kuri veido šo kopsavilkuma rindu.
 
 
 
+
 Galvenā izvēlne
 +++++++++++++++
 
@@ -113,6 +115,7 @@ Visus tos pašus darba režīmus var atrast arī izmantojot Pārlūku.
 
 Biežāk lietotās galvenās izvēlnes komandas pieejamas arī no
 datorprogrammas rīku joslas.
+
 
 
 
@@ -152,6 +155,7 @@ Rīku joslu var konfigurēt, izmantojot galvenās izvēlnes komandu
 
 
 >Konfigurācija > Iestādījumi > Individuālie > Rīku joslas pielāgošana
+
 
 
 Rīku joslas komandas

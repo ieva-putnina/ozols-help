@@ -2,8 +2,8 @@
 
 
 Piedāvājumužurnālā tiek saglabāti visi sagatavotās
-:doc:`Aktivitātes<743>`:Piedāvājumi - :doc:`Potenciālajiem<884>` un
-:doc:`esošajiem<312>` :doc:`Partneriem<112>`.
+:doc:`Aktivitātes<743>` :Piedāvājumi - :doc:`Potenciālajiem<884>` un
+:doc:`esošajiem<312>` :doc:`Partneriem<112>` .
 
 
 
@@ -31,15 +31,15 @@ Datus iespējams atlasīt pēc:
 
 
 Piedāv.stadija : Piedāvājuma stadija, kādā pašlaik ir sagatvotais
-piedāvājums (stadiju iespējams norādīt katrā
-:doc:`Piedāvājuma<743>`dokumentā, sadaļā Citi)
+piedāvājums (stadiju iespējams norādīt katrā :doc:`Piedāvājuma<743>`
+dokumentā, sadaļā Citi)
 
 Līguma stadija : Kādā līgums uz doto brīdi atrodas - Aktīvs,
 Izpildīts, Lauzts, Projekts, Piedāvājums
 
 Kampaņa : Kampaņas veids, kas piesaisīts Piedāvājuma dokumentam
-(kampaņas veiduiespējams norādīt katrā
-:doc:`Piedāvājuma<743>`dokumentā, sadaļā Citi)
+(kampaņas veiduiespējams norādīt katrā :doc:`Piedāvājuma<743>`
+dokumentā, sadaļā Citi)
 
 Adresāts :Piedāvājuma dokumentaadresāts
 
@@ -58,8 +58,8 @@ izmaiņu datumu no..līdz
 
 Lietotājs: Lietotājs, kurš pievienojis ierakstu
 
-Partnera grupa : :doc:`Partneru grupu<113>`dalījums, kas norādīts
-:doc:`Partnera<112>`aprakstā, kuram:doc:`Piedāvājuma<743>` dokuments
+Partnera grupa : :doc:`Partneru grupu<113>` dalījums, kas norādīts
+:doc:`Partnera<112>` aprakstā, kuram:doc:`Piedāvājuma<743>` dokuments
 sagatavots
 
 Prioritāte : Piedāvāvājuma dokumenta Prioritātes līmenis.

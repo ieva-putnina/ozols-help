@@ -2,7 +2,7 @@
 
 
 Korespondences žurnālātiek saglabāti visi sagatavotie Ienākošās vai
-Izejošās:doc:`Korespondences ieraksti<745>`, kas piesaistīti kādam no
+Izejošās:doc:`Korespondences ieraksti<745>` , kas piesaistīti kādam no
 sistēmā ievadītajiem dokumentiem (vai nu izmantojot taustiņu
 kombināciju CTRL+Q vai arī opciju no izvēlnes loga Dati->Jauna
 aktivitāte (CTRL+Q))

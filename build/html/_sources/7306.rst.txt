@@ -1,7 +1,7 @@
 .. 7306 Telpa********* 
 Pievienotei telpu ieraksti tiek saglabāti telpu sarakstā. Telpu
 saraksts tiek lietots :doc:`jaunu notikumu<7308>` pievienošanā un
-:doc:`atskaišu <7317>`sagatavošanā.
+:doc:`atskaišu <7317>` sagatavošanā.
 
 
 

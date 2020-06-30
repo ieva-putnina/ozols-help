@@ -4,7 +4,7 @@ jaunus Norēķinu dokumentus:
 
 :doc:`Apmaksas atgādinājums<343>`
 
-:doc:`<831>`:doc:`Iepirkuma dokuments<310>`
+:doc:`<831>` :doc:`Iepirkuma dokuments<310>`
 
 :doc:`Norēķina dzēšanas akts<358>`
 

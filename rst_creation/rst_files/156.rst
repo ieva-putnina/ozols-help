@@ -4,6 +4,7 @@ izpildes<48>` uzskaites veikšanai un dokumentu slēgšanai.
 
 
 
+
 Plāna perioda pievienošana
 
 Plāna periodu izmato :doc:`budžeta izpildes<48>` uzskaitei. Lai
@@ -24,7 +25,7 @@ Dokumentu perioda pievienošana
 ``````````````````````````````
 
 Dokumentu periodu izmanto nodefinētā :doc:`perioda dokumentu
-slēgšanai<453>`. Lai pievienotu jaunu dokumentu periodu, rīku joslā
+slēgšanai<453>` . Lai pievienotu jaunu dokumentu periodu, rīku joslā
 jānospiež poga un tiek atvērts jauns logs:, kur jānorāda perioda veids
 - Dokumentu periods (tiek slēgts), perioda garums - diena, nedēļa,
 mēnesis, gads, un izvēlētā perioda sākuma un beigu datumu:

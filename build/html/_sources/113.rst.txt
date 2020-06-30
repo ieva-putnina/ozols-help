@@ -3,7 +3,7 @@
 
 Sarakstā tiek saglabātas Partneru grupas, kurastiek lietotas
 pievienojot :doc:`Partneri<312>` un :doc:`Partnera
-kontaktpersonu<389>`.
+kontaktpersonu<389>` .
 
 
 

@@ -101,18 +101,19 @@ kādu no pamatlīdzekļu dokumenta veidiem;
 
 Pl.Izsl.datums: pamatlīdzekļu izslēgšanas datums (periods);
 
-Piegādātāja valsts: piegādātāja valsts no :doc:`Valstu saraksta<103>`;
+Piegādātāja valsts: piegādātāja valsts no :doc:`Valstu saraksta<103>`
+;
 
 Pl.nosaukums: pamatlīdzekļa nosaukums;
 
 Īpašuma veids: īpašuma veids kurš nodefinēts :doc:`pamatlīdzekļu
-īpašuma veidu sarakstā<183>`;
+īpašuma veidu sarakstā<183>` ;
 
 Amats: iespējams izvēlēties atbildīgās personas amatu kurš nodefinēts
-:doc:`Amatu sarakstā<186>`;
+:doc:`Amatu sarakstā<186>` ;
 
 Pazīme: pazīme, kura nodefinēta :doc:`Pamatlīdzekļu pazīmju
-sarakstā<130>`;
+sarakstā<130>` ;
 
 Kad papildus filtra kritēriji izvēlēti, jānospiež paga un
 pamatlīdzekļu nolietojuma filtra logā, ja visi atskaites datu

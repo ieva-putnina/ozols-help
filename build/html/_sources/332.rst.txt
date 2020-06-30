@@ -4,7 +4,7 @@
 Kases izdevumu orderis jāveido, kad tiek noformēta operācija par
 skaidras naudas izmaksu no uzņēmuma kases. Dokumentam ir iebūvēta
 standarta izdrukas forma. Dokuments tiek saglabāts žurnālā :doc:`Kases
-izdevumi<225>`. Darījuma atšifrēšanai pa finanšu (EK) kodiem,
+izdevumi<225>` . Darījuma atšifrēšanai pa finanšu (EK) kodiem,
 jāaizpilda dokumenta saturs. Lai dokumenta izdrukā parādītos
 grāmatojumu konti, dokuments pirms izdrukāšanas ir jāiegrāmato.
 
@@ -118,7 +118,7 @@ Kases izdevumu orderalauki Pamatojums un Saturs tiek drukāti kases
 izdevumu ordera rindā Pamatojums.
 
 Lauku Kases izdevuma ordera Pamatojums , iespējams aizpildīt manuāli
-vai izvēloties no :doc:`Kases paskaidrojumu saraksta<136>`:
+vai izvēloties no :doc:`Kases paskaidrojumu saraksta<136>` :
 
 
 
@@ -144,7 +144,7 @@ Kases izdevuma ordera Pielikuma informācijas aizpildīšana
 
 
 Lauku Pielikumā , Kases izdevumu orderim iespējams aizpildīt manuāli
-vai izvēloties no :doc:`Kases pielikumu saraksta<137>`, laukā
+vai izvēloties no :doc:`Kases pielikumu saraksta<137>` , laukā
 Piel.num. nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:
 
 
@@ -157,7 +157,7 @@ Kad visi nepieciešamie lauki ir aizpildīti, Kases izdevumu orderis ir
 sagatavots un to ir iespējams:
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai :doc:`Kases izdevumu žurnālā<225>`.
+apskatei/labošanai/grāmatošanai :doc:`Kases izdevumu žurnālā<225>` .
 
 2. Apstiprināt, nospiežot rīku joslā pogu -Kases izdevumu orderistiks
 Apstiprināts un to būs iespējams Grāmatot.
@@ -171,7 +171,7 @@ izdrukāšanas ir jāiegrāmato.
 
 Kases izdevumu orderiiespējams grāmatot no atvērta Kases izdevumu
 ordera dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Kases
-izdevumu žurnālā<225>`.
+izdevumu žurnālā<225>` .
 
 Lai iegrāmatotu Kases izdevumu orderi, dokumentu nepieciešams
 Apstiprināt, nospiežot rīku joslā pogu .
@@ -189,7 +189,7 @@ Pievienotā Kases izdevumu ordera labošana
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Kases izdevumu
 orderi, kurš pieejams apskatei/labošanai:doc:`Kases izdevumu
-žurnālā<225>`. Lai veiktu labojumusKases izdevumu
+žurnālā<225>` . Lai veiktu labojumusKases izdevumu
 orderī,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 

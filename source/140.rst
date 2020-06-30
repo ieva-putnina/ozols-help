@@ -39,6 +39,7 @@ iespējams mainīt nosaukumu. Pēc labojumu veikšanas, veiktās izmaiņas
 iespējams saglabāt ar komandu no rīku joslas.
 
 
+
 Paskaidrojuma tekstadzēšana
 ```````````````````````````
 

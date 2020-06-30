@@ -3,8 +3,9 @@
 
 Sarakstā tiek saglabāti Kampaņu veidi, kas tiek izmantoti dažādu Ozolā
 reģistrēto :doc:`Aktivitātāšu<743>` detalizētākam aprakstam un sniedz
-iespēju CRM atskaitē - :doc:`Visas aktivitātes<843>`, kampaņu veidu
+iespēju CRM atskaitē - :doc:`Visas aktivitātes<843>` , kampaņu veidu
 izmantot kā datu atlases kritēriju.
+
 
 
 Jaunas Kampaņas veidapievienošana:
@@ -33,6 +34,7 @@ Mērķa auditorija: Uzņēmuma veidotās kampaņas mērķauditorija
 
 
 Ieraksts tiks saglabāts, izpildot komandu .
+
 
 
 Pievienotā Kampaņas veidalabošana:

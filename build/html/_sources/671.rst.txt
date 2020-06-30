@@ -3,6 +3,7 @@ Maksājuma dzēšanasakts ir paredzēts Kases/Bankas ieņēmumu/izdevumu
 nenosegto summu dzēšanai, ja nav atbilstoša norēķinu dokumenta.
 
 
+
 Jauna Maksājuma dzēšanas akta pievienošana
 ``````````````````````````````````````````
 
@@ -11,9 +12,11 @@ Jaunu Maksājuma dzēšanas aktu iespējams pievienot divos veidos:
 
 
 
+
 1. Izvēloties dokumenta veidu Maksājuma dzēšanas akts, tiks atvērts
 jauns logs:
 +++++++++++
+
 
 
 
@@ -67,6 +70,7 @@ nosaukumu:
 Maksājuma dzēšanas aktu.
 
 
+
 2.Jauna Maksājuma akta sagatavošana no dokumentu saistīšanas ekrāna
 formas
 ++++++
@@ -91,6 +95,7 @@ maksājumu dokumenta.
 
 
 
+
 Maksājuma dzēšanas aktaSatura aizpildīšana
 ++++++++++++++++++++++++++++++++++++++++++
 
@@ -106,12 +111,13 @@ dimensijas) un norādīt satura ieraksta summu:
 
 
 
+
 Maksājuma dzēšanas akta grāmatošana
 ```````````````````````````````````
 
 Maksājuma dzēšanas aktuiespējams grāmatot no atvērtadokumenta vai
 izvēloties (iezīmējot)dokumentu :doc:`Maksājumu dzēšanas aktu
-žurnālā<253>`.
+žurnālā<253>` .
 
 Lai iegrāmatotu Maksājuma dzēšanas aktu, dokumentu nepieciešams
 Apstiprināt, nospiežot rīku joslā pogu .
@@ -124,12 +130,13 @@ pogu .
 Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
 
 
+
 Pievienotā Maksājuma dzēšanas akta labošana
 ```````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Maksājuma
 dzēšanas aktu, kurš pieejams apskatei/labošanai:doc:`Maksājumu
-dzēšanas aktu žurnālā<253>`. Lai veiktu labojumusMaksājuma dzēšanas
+dzēšanas aktu žurnālā<253>` . Lai veiktu labojumusMaksājuma dzēšanas
 aktā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 

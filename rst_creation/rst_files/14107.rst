@@ -60,7 +60,7 @@ sagatavot Norēķinu dzēšanas aktu, kuru jāsaglabā.
 Gadījumos, kad pēc polises pārtraukšanas tiek dzēsti atlikušie
 uzģenerētie maksājumi un ir zināms, ka netiks veikts komisijas
 aprēķins par atlikušajiem neapmaksātajiem maksājumiem, izveidojot
-:doc:`Pārdošanas norēķinu dzēšanas aktu<358>`, jāatzīmē, ka summa
+:doc:`Pārdošanas norēķinu dzēšanas aktu<358>` , jāatzīmē, ka summa
 netiks iekļauta komisijas aprēķinā:
 
 
@@ -70,7 +70,7 @@ netiks iekļauta komisijas aprēķinā:
 
 
 Pēc Norēķinu dzēšanas akta sagatavošanas, jāveic Komisijas aprēķins
-(polišu rīks->:doc:`polišu komisijas aprēķins<6517>`), kā rezultātā
+(polišu rīks->:doc:`polišu komisijas aprēķins<6517>` ), kā rezultātā
 polises Maksājuma plāna sadaļā un :doc:`Uzņēmuma komisijas<6524>`
 atskaitē būs redzama nenostrādātās prēmijas uzņēmuma komisija ar mīnus
 zīmi.

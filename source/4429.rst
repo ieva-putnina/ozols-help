@@ -24,7 +24,7 @@ Uzņ. veids : uzņēmējdarbības veids (jāizvēlas no saraksta);
 PVN kods : ja uzņēmums ir PVN maksātājs, tad jānorāda PVN kods;
 
 Partneru grupas : pievienotais partneris tiek piesaistīts
-nodefinētajām :doc:`partneru grupām<113>`, lai būtu iespējams grupēt
+nodefinētajām :doc:`partneru grupām<113>` , lai būtu iespējams grupēt
 partnerus.
 
 Lai saglabātu pievienotā partnera datus, jānospiež poga , un, lai
@@ -32,6 +32,6 @@ labotu, jānospiež poga , bet, lai pievienotu jaunu partneri, jānospiež
 poga . Lai dzēstu, jānospiež poga .
 
 Visi pievienotie partneri un to dati tiek saglabāti :doc:`partneru
-žurnālā<4427>`.
+žurnālā<4427>` .
 
  .. toctree::   :maxdepth: 4    5275.rst   4436.rst   4435.rst   5279.rst   5246.rst   4437.rst   5280.rst   5276.rst   5277.rst   5278.rst

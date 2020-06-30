@@ -37,6 +37,7 @@ Jānorāda "ceļš" importa un eksporta katalogam:
 
 
 
+
 Papildiespēju atzīmēšana Elektronisko norēķinu sistēmai:
 ````````````````````````````````````````````````````````
 
@@ -44,7 +45,7 @@ Papildiespēju atzīmēšana Elektronisko norēķinu sistēmai:
 
 Atzīmējot šo izvēles rūtiņu, būs iespējams importēt visus programmā
 sagatavotos izejošos maksājumus - :doc:`Bankas izdevumu
-dokumentus<224>`, kuriem :doc:`Bankas maksājuma uzdevumā<347>` būs
+dokumentus<224>` , kuriem :doc:`Bankas maksājuma uzdevumā<347>` būs
 atzīmēta pazīme "Eksportēt uz bankas elektronisko norēķinu sistēmu".
 
 
@@ -69,6 +70,7 @@ jaunizveidoto failu.
 
 Kad visi nepieciešamie lauki ir aizpildīti, lai saglabātu Elektronisko
 norēķinu sistēmu, nepieciešams nospiest pogu .
+
 
 
 PievienotāsElektronisko norēķinu sistēmas labošana:

@@ -27,7 +27,7 @@ Slodze: no saraksta jāizvēlas strādājošā slodze, kurai Avansu
 pārskaitījums tiks definēts
 
 Konts: atbilstoši izvēlētajai slodzei, tiks ielādēts:doc:`Partnera
-kartiņā<312>`ievadītais strādājošā Privātkonts
+kartiņā<312>` ievadītais strādājošā Privātkonts
 
 Maksājuma tips: nepieciešams izvēlēties tipu: "Avansa maksājums"
 

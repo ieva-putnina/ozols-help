@@ -5,6 +5,7 @@ Lai uzskaitītu caurlaižu izlietojumu, Uzņēmuma rīcībā esošo caurlaižu
 numuri jāpievieno Caurlaižu žurnālā.
 
 
+
 Jaunas caurlaides pievienošana datu bāzei
 `````````````````````````````````````````
 
@@ -42,6 +43,7 @@ Anulēšanas dat. - laukā automātiski tiks iefiksēts caurlaides
 anulēšanas datums, anulējot Caurlaidi.
 
 
+
 Caurlaižu žurnālā pieejamās funkcijas
 `````````````````````````````````````
 
@@ -57,6 +59,7 @@ Caurlaižu žurnālā ir izveidotas funkcijas:
 izsniegta caurlaide;
 
 3) Izsniegt iezīmētās caurlaides.
+
 
 
 
@@ -79,10 +82,11 @@ uzģenerēts norādītais skaits caurlaižu:
 
 Pēc visu nepieciešamo lauku aizpildīšanasnospiežot pogu -dokuments
 tiks saglabāts un būs pieejams apskatei/labošanai :doc:`Caurlaižu
-žurnālā<773>`.
+žurnālā<773>` .
 
 Nospiežot pogu , darbība tiks atcelta un caurlaides netiks pievienotas
 datu bāzei.
+
 
 
 
@@ -91,8 +95,10 @@ datu bāzei.
 ++++++++++++++++++++++++++++
 
 Izvēloties Caurlaižu žurnālāpieejamo funkciju , iespēja atvērt
-Ieņēmumu dokumentu - :doc:`Kases ieņēmumu orderi<350>`vai :doc:`Bankas
-ieejošais maksājumu<349>`, kuram izvēlētā Caurlaide ir piesaistīta:
+Ieņēmumu dokumentu - :doc:`Kases ieņēmumu orderi<350>` vai
+:doc:`Bankas ieejošais maksājumu<349>` , kuram izvēlētā Caurlaide ir
+piesaistīta:
+
 
 
 
@@ -115,29 +121,31 @@ izsniegtas bez maksas:
 
 
 
+
 Pievienoto caurlaižu labošana
 `````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Caurlaides
 aprakstu, kurš pieejams apskatei/labošanai :doc:`Caurlaižu
-žurnālā<773>`. Lai labotu pievienoto caurlaidi, Caurlaižu žurnālā
+žurnālā<773>` . Lai labotu pievienoto caurlaidi, Caurlaižu žurnālā
 jāizmanto komandpoga (ALT+A), unatvērtajāierakstā iespējams
 veiktnepieciešamos labojumus caurlaides apraksta ekrāna formā.
 
 Pēc labojumu veikšanas, veiktās izmaiņas iespējams vai .
 
 
+
 Pievienoto Caurlaižu piesaiste Kases/Bankas ieņēmumu dokumentam
 ```````````````````````````````````````````````````````````````
 
 Caurlaižu žurnālā pievienotās Caurlaides iespējams piesaistīt
-:doc:`Kases ieņēmumu orderim<350>`.
+:doc:`Kases ieņēmumu orderim<350>` .
 
 Caurlaižu žurnālā pievienotās Caurlaides iespējams piesaistīt
-:doc:`Bankas ieejošajam maksājumam<349>`, ja :doc:`Bankas kopīgajā
+:doc:`Bankas ieejošajam maksājumam<349>` , ja :doc:`Bankas kopīgajā
 konfigurācijā<708>` ir norādīta pazīme „Atļaut uzskaites dokumentu
 ievadi bankas ieņēmumos”, tad līdzīgi kā :doc:`Kases ieņēmumu
-orderī<350>`, ir iespēja norādīt caurlaides, par kurām veikts
+orderī<350>` , ir iespēja norādīt caurlaides, par kurām veikts
 maksājums.
 
  

@@ -7,8 +7,8 @@ caurlaides, caurlaižu cena, reģistrēto caurlaižu skaits un summa bankā
 un kasē, kā arī noteikts caurlaižu atlikums norādītā perioda beigās.
 Lai sagatavotu atskaiti par caurlaižu izlietojumu, programmā jābūt
 ievadītiem datiem par iegādātajāmcaurlaidēm :doc:`Caurlaižu
-žurnāls<773>`un :doc:`Kases ieņēmumu orderos<350>`vai :doc:`Bankas
-ieejošajos maksājumos<349>`jānorāda, kurascaurlaides tiek izlietotas.
+žurnāls<773>` un :doc:`Kases ieņēmumu orderos<350>` vai :doc:`Bankas
+ieejošajos maksājumos<349>` jānorāda, kurascaurlaides tiek izlietotas.
 Atskaite tiek sagatavota no pirmdokumentu datiem.
 
 

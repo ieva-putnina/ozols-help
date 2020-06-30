@@ -21,7 +21,7 @@ nodoklis”.
 
 Lai atskaitē tiktu parādīti aprēķinātā uzņēmējdarbības riska nodeva,
 tās lielums vienam strādājošajam jāieraksta laukā Riska nodeva.
-Izveidotās atskaites tiek saglabātas atskaišu :doc:`sarakstā<596>`,
+Izveidotās atskaites tiek saglabātas atskaišu :doc:`sarakstā<596>` ,
 kur pēc tam ir pieejamas apskatei un atkārtotai drukāšanai.
 
 

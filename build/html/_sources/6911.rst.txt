@@ -9,6 +9,6 @@ Tvertņu sarakstā iespējams atlasīt vienas noteiktas Adreses visas
 tvertnes.
 
 Lai pievienotu jaunu Tvertni sarakstam, jāiet uz Degvielas pasūtījumu
-sadaļu :doc:`Jauns<6909>` un jāizvēlas :doc:`Tvertne<6909>`.
+sadaļu :doc:`Jauns<6909>` un jāizvēlas :doc:`Tvertne<6909>` .
 
  

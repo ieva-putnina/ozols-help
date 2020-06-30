@@ -1,11 +1,11 @@
 .. 615 Pārskaitījumi***************** Atskaite Pārskaitījumi parāda sagatavotos :doc:`izmaksu
-sarakstus<238>`, tajos iekļautos ierakstu skaitus – izmaksas
+sarakstus<238>` , tajos iekļautos ierakstu skaitus – izmaksas
 strādājošajiem, kopsummu, pārskaitījumu kustību starp bankām.
 
 Atskaiti iespējams sagatavot par:
 - dažādiem laika periodiem;
 - atlasot datus pa finansējumiem ( datu uzskaites dimensijām);
-- vienai :doc:`personāla kategorijai<127>`;
+- vienai :doc:`personāla kategorijai<127>` ;
 - norādot bankas, starp kurām naudas kustība ir noteikta izmaksu
 sarakstos;
 - vienam konkrētam :doc:`izmaksu sarakstam<238>`

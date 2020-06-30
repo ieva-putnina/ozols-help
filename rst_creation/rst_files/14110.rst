@@ -71,7 +71,7 @@ taustiņš: "New Login"
 
 Jāievada lietotāja vārds, jānorāda SQL vai Windows autentifikācija un
 jāatzīmē atbilstošās :doc:`Datu bāzes lietotāju tiesības darba
-režīmiem<14086>`.
+režīmiem<14086>` .
 
 
 

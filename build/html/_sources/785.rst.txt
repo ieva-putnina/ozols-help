@@ -5,6 +5,7 @@ Ziņojumu žurnālātiek saglabāti visi sagatavotie Ziņojumi, kas
 pievienoti Dokumentu žurnālā.
 
 
+
 Jauna ziņojuma pievienošana
 +++++++++++++++++++++++++++
 

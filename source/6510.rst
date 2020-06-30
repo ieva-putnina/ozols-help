@@ -15,6 +15,7 @@ Izvēloties darba režīmu Polise, tiks atvērts šāds logs:
 
 
 
+
 1. Polises apraksta Info lapa
 +++++++++++++++++++++++++++++
 
@@ -24,6 +25,7 @@ informācijas iegūšanai apskates režīmā.
 Info sadaļa tiek veidota no Polises "Labot" lapas. Tiklīdz lapā Labot
 tiek veiktas kādas izmaiņas, labotā informācija tiek attēlota Info
 lapā:
+
 
 
 
@@ -148,7 +150,7 @@ jāieraksta/jālabo procentu sadalījums:
 
 
 Lai manuāli (M) mainītie/pievienotie % tiktu saglabāti komisijas
-aprēķina brīdī (palaižot :doc:`komisijas aprēķina Rīku<6517>`), M
+aprēķina brīdī (palaižot :doc:`komisijas aprēķina Rīku<6517>` ), M
 podziņai jābūt aktīvai/iespiestai:
 
 
@@ -169,7 +171,8 @@ Tiklīdz būs nodzēsts klienta parāds, tā aprēķināsies komisija. Ja
 parāds nodzēsts nebūs, tad arī komisija netiks aprēķināta.
 
 Nospiežot pogu , iespējams pievienot papildus informāciju, pēc kuras
-būs iespējams sagatavot arī :doc:`polišu atskaiti<6513>`:
+būs iespējams sagatavot arī :doc:`polišu atskaiti<6513>` :
+
 
 
 
@@ -184,12 +187,14 @@ attiecināmi uz konkrēto polises līgumu. Sadaļai ir informatīvs
 raksturs.
 
 
+
 4. Faili
 ++++++++
 
 Polises apraksta failu lapā iespējams pievienot nepieciešamos failus,
 norādot "ceļu" uz konkrēto polišu līguma dokumentu. Piemēram, mašīnu
 fotogrāfijas, Worda dokumentus, Exel dokumentus, utt.
+
 
 
 
@@ -229,6 +234,7 @@ Piezīmes : Lauks ir informatīvs, kur lietotājs brīvā tekstā var
 ievadīt nepieciešamās piezīmes.
 
 
+
 6. Maksājumu plāns
 ++++++++++++++++++
 
@@ -237,7 +243,7 @@ ievadīt nepieciešamās piezīmes.
 
 
 1. Pirms rēķinu ģenerēšanas jānorāda atbilstošais :doc:`rēķina
-veids<157>`:
+veids<157>` :
 
 
 

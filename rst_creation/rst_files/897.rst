@@ -17,8 +17,8 @@ tiks atvērts jauns logs:
 
 
 
-**Veids:** iespējams izvēlēties no saraksta :doc:`Cenu veidu<105>`, uz
-kuru definētā valūta un kurss tiks attiecināts;
+**Veids:** iespējams izvēlēties no saraksta :doc:`Cenu veidu<105>` ,
+uz kuru definētā valūta un kurss tiks attiecināts;
 
 
 **Datums: **datums, uz kuru valūta un valūtas kurss tiek noteikts;

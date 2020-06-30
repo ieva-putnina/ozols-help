@@ -18,7 +18,7 @@ Izcelsme : notikuma izcelsme;
 Ielūgtās personas : iespējams pievienot vairākas personas, kuras tiks
 ielūgtas uz notikumu (tiks nosūtīts e-pasts ar paziņojumu un
 ierakstīts katras ielūgtās :doc:`personas kalendārā<4426>` un
-:doc:`uzņēmuma kalendārā<4482>`, grafikā), vai arī izņemt no ielūgto
+:doc:`uzņēmuma kalendārā<4482>` , grafikā), vai arī izņemt no ielūgto
 personu saraksta;
 
 Līgums : iespējams izvēlēties partnerim piesaistītu līgumu uz kuru
@@ -53,8 +53,8 @@ katrai ielūgtajai personai.
 Lai pievienotu jaunu notikumu, jānospiež poga . Bet, lai saglabātu un
 aizvērtu notikumu, jānospiež poga . Notikumu iespējams izdrukāt,
 nospiežot pogu , un/vai labot, nospiežot pogu . Visi pievienotie
-notikumi tiek saglabāti :doc:`Notikumu žurnālā<4459>`, tie ir redzami
+notikumi tiek saglabāti :doc:`Notikumu žurnālā<4459>` , tie ir redzami
 :doc:`uzņēmuma kalendārā<4482>` un ielūgto :doc:`personu kalendārā
-(grafikā),<4426>`un :doc:`visu aktivitāšu sarakstā<4472>`.
+(grafikā),<4426>` un :doc:`visu aktivitāšu sarakstā<4472>` .
 
  .. toctree::   :maxdepth: 4    4463.rst

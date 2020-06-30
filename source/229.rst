@@ -1,7 +1,7 @@
 .. 229 Norēķinu dzēšanas akti************************** 
 
 Norēķinu dzēšanas aktu dokumentu žurnālā saraksta veidātiek saglabāti
-izveidotie :doc:`Norēķina dzēšanas akti<358>`.
+izveidotie :doc:`Norēķina dzēšanas akti<358>` .
 
 
 

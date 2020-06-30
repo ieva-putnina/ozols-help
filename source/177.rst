@@ -6,6 +6,7 @@ lauka Paskaidrojums automatizētai aizpildīšanai (Avansa norēķina
 izdrukā lauks - Avansa norēķina mērķis).
 
 
+
 JaunaAvansa paskaidrojumu sarakstapievienošana:
 +++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -18,6 +19,7 @@ tiks atvērts jauns logs:
 
 Laukā Nosaukums, nepieciešams ierakstītAvansa paskaidrojuma nosaukumu.
 Ieraksts tiks saglabāts, izpildot komandu .
+
 
 
 PievienotāAvansapaskaidrojumalabošana:

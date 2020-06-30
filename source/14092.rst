@@ -2,12 +2,12 @@
 
 
 Nomenklatūras norakstīšanas dokumentus iespējams grāmatot
-:doc:`Iekšējās kustības dokumentu žurnālā<14013>`, izmantojot rīku
+:doc:`Iekšējās kustības dokumentu žurnālā<14013>` , izmantojot rīku
 joslas pogu .
 
 
 
-:doc:` Iekšējās kustības dokumentu žurnāla <14013>`filtrā iespējams
+:doc:` Iekšējās kustības dokumentu žurnāla <14013>` filtrā iespējams
 norādīt parametrus, pēc kādiem tiks atlasīti Nomenklatūras
 norakstīšanas dokumenti grāmatošanai. Atlases parametriem jābūt
 tādiem, kas atlasītu dokumentus, kuriem ir vienots grāmatošanas

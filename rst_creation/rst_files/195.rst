@@ -2,7 +2,7 @@
 
 
 Atbildīgo personu saraksts tiek veidots, pievienojot
-Jaunu:doc:`Partneri<312>`un Partnera aprakstaDatu logā atzīmējot
+Jaunu:doc:`Partneri<312>` un Partnera aprakstaDatu logā atzīmējot
 izvēles rūtiņu .
 
 Lai apskatītu Atbildīgās personas aprakstu, Rīku joslā jānospiež poga
@@ -15,9 +15,9 @@ Lai apskatītu Atbildīgās personas aprakstu, Rīku joslā jānospiež poga
 
 
 Atbildīgo personu saraksts tiek lietots veidojot :doc:`jaunus
-Pamatlīdzekļu ienākšanas dokumentus<433>`, :doc:`Pamatlīdzekļu
-pieņemšanu eksplutācijā<828>`, :doc:`Pamatlīdzekļu pārsūtīšanas
-dokumentus<437>`, :doc:`Nomeklatūras norakstīšanas<693>`,
-:doc:`Nomeklatūras pārsūtīšanas dokumentus<687>`.
+Pamatlīdzekļu ienākšanas dokumentus<433>` , :doc:`Pamatlīdzekļu
+pieņemšanu eksplutācijā<828>` , :doc:`Pamatlīdzekļu pārsūtīšanas
+dokumentus<437>` , :doc:`Nomeklatūras norakstīšanas<693>` ,
+:doc:`Nomeklatūras pārsūtīšanas dokumentus<687>` .
 
  

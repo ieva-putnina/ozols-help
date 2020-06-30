@@ -7,14 +7,14 @@ nostrādāto dienu un nakts stundu skaitu dienā.
 Darba laika uzskaites Tabelē tiek uzrādīta visa aizpildītā informācija
 par katru darbinieku - gan ievadītās nostrādātās stundas darba dienā
 (naktī), gan arī uz darbinieku attiecināmie ievadītie
-:doc:`Rīkojumi<5111>`, kas ietekmē darbinieku kalendāru, kā piemēram,
+:doc:`Rīkojumi<5111>` , kas ietekmē darbinieku kalendāru, kā piemēram,
 Ikgadējā atvaļinājuma rīkojums, Slimības apmaksas rīkojums, u.c.
 
 Darba laika uzskaites tabeli iespējams aizpildīt, gan ielādējot datus
-no noklusētajām vērtībām pēc :doc:`Kalendāra<218>`, gan arī izmantojot
-iepriekš definētos :doc:`Darba laika uzskaites grafikus<984>`, kā arī
-ir iespēja aizpildīt datus, ievadot nostrādātās stundas katram
-darbiniekam manuāli.
+no noklusētajām vērtībām pēc :doc:`Kalendāra<218>` , gan arī
+izmantojot iepriekš definētos :doc:`Darba laika uzskaites
+grafikus<984>` , kā arī ir iespēja aizpildīt datus, ievadot
+nostrādātās stundas katram darbiniekam manuāli.
 
 :doc:`Darba laika uzskaites Tabeles aizpildīšana<5146>`
 

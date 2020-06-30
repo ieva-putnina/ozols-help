@@ -2,6 +2,6 @@
 
 
 Izmantojot Dividenžu dokumentus iespējams pievienot jaunas
-:doc:`Akcijas<7010>`.
+:doc:`Akcijas<7010>` .
 
  .. toctree::   :maxdepth: 5    7010.rst

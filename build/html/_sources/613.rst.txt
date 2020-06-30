@@ -2,7 +2,7 @@
 veiktā algu aprēķina. Ja visas štata vietas nav aizpildītas, atskaitē
 amats tiek parādīts kā vakance.
 Atskaite tiek sagatavota līdzīgi kā ":doc:`Atskaite par algu budžetu
-un tā faktisko izpildi<612>`".
+un tā faktisko izpildi<612>` ".
 Datu uzskaite ir jāveic tā, lai vienā amatā uzskaitītu personas ar
 vienādu atalgojumu. Plāns var tikt noteikts vairākiem algu aprēķina
 rezultātiem un līdz ar to arī attiecīgi tiek iegūti dati par noteiktā

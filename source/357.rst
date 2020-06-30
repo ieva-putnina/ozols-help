@@ -11,6 +11,7 @@ saistības un pircēju parādu, kā arī veikt dokumenta saistīšanu, lai
 samazinātu dokumentu parādu summas.
 
 
+
 Jauna savstarpējo norēķinu dzēšanas akta pievienošana
 `````````````````````````````````````````````````````
 
@@ -27,7 +28,7 @@ dzēšanas akts, tiek atvērts logs:
 
 Savstarpējo norēķinu dzēšanas akta virsrakstā jānorāda dokumenta
 numurs, datums, nosaukums (piemēram, pamatojoties uz līgumu) un no
-saraksta jāizvēlas attiecīgais :doc:`partneris<112>`.
+saraksta jāizvēlas attiecīgais :doc:`partneris<112>` .
 
 
 

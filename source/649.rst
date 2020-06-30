@@ -5,6 +5,7 @@ Sarakstā tiek saglabāti līgumu veidi, kas tiek izmantoti Līgumu
 :doc:`Līguma grupu<653>` nosacījumu aizpildīšanai.
 
 
+
 Jauna Līgumu veida pievienošana:
 ++++++++++++++++++++++++++++++++
 
@@ -32,8 +33,8 @@ atvērts jauns logs:
 Izvēloties aprēķina algoritmu - Summas, :doc:`Līguma grupas<653>`
 aprakstā būs iespējams norādīt fiksēto maksājuma summu. Izvēloties
 aprēķina algoritmu - Līzings - Fiksēts maksājums, :doc:`Līguma
-grupas<653>`aprakstā būs iespējams norādīt Fiksēto maksājuma summu, kā
-arī Līzinga procentu likmi.
+grupas<653>` aprakstā būs iespējams norādīt Fiksēto maksājuma summu,
+kā arī Līzinga procentu likmi.
 
 
 
@@ -52,7 +53,7 @@ summa tiks uzskaitīta visa līgumā apjomā.
 
 
 4. Līguma veidam iespējams piesaistīt Pakalpojuma veidu, no Norēķinu
-Sarakstos pievienotajiem :doc:`Pakalpojumiem<108>`:
+Sarakstos pievienotajiem :doc:`Pakalpojumiem<108>` :
 
 
 
@@ -61,8 +62,8 @@ Sarakstos pievienotajiem :doc:`Pakalpojumiem<108>`:
 
 
 5. Nepieciešams norādīt izrakstāmā :doc:`Pārdošanas dokumenta
-veidu<157>`, kāds tiks sagatavots automatizēti no :doc:`Apmaksas plānu
-žurnāla<645>`ģenerējot Pārdošanas dokumentu:
+veidu<157>` , kāds tiks sagatavots automatizēti no :doc:`Apmaksas
+plānu žurnāla<645>` ģenerējot Pārdošanas dokumentu:
 
 
 
@@ -71,6 +72,7 @@ veidu<157>`, kāds tiks sagatavots automatizēti no :doc:`Apmaksas plānu
 
 
 Ieraksts tiks saglabāts, nospiežot pogu .
+
 
 
 Pievienotā Līguma veida labošana:

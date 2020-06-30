@@ -2,7 +2,7 @@
 
 
 Dokumentu žurnālā tiek saglabāti visi izveidotie
-:doc:`Grāmatojumi<331>`.
+:doc:`Grāmatojumi<331>` .
 
 
 

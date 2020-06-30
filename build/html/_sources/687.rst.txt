@@ -1,13 +1,14 @@
 .. 687 Nomenklatūras pārsūtīšana***************************** 
 
 
-Nomenklatūras uzskaiti var organizēt vairākās :doc:`Noliktavās<142>`,
+Nomenklatūras uzskaiti var organizēt vairākās :doc:`Noliktavās<142>` ,
 kā arī vairākās uzņēmuma :doc:`Struktūrvienībās<117>` vienas
 Noliktavas ietvaros. Lai uzskaitītu nomenklatūras kustību starp
 uzņēmumu noliktavām, struktūrvienībām, objektiem vai atbildīgajām
 personām, jāveido nomenklatūras pārsūtīšanas dokuments. Pārsūtīšanas
 dokuments tiek saglabāts :doc:`Iekšējās kustības dokumentu
-žurnālā<688>`.
+žurnālā<688>` .
+
 
 
 Jauna Nomenklatūras pārsūtīšanas dokumenta pievienošana
@@ -15,6 +16,7 @@ Jauna Nomenklatūras pārsūtīšanas dokumenta pievienošana
 
 Izvēloties dokumenta veidu Nomenklatūras pārsūtīšana, tiks atvērts
 jauns logs:
+
 
 
 
@@ -57,6 +59,7 @@ pārsūtīšanu.
 automātiski - dati tiek ielādēti no Iekšējās kustības dokumenta veida
 nosaukuma. Paskaidrojuma laukā esošo informāciju iespējams koriģēt,
 labojot aizpildīto informāciju manuāli.
+
 
 
 Nomenklatūras pārsūtīšanas dokumenta Satura aizpildīšana
@@ -110,10 +113,11 @@ dokumentsir sagatavots un to ir iespējams:
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
 apskatei/labošanai/grāmatošanai :doc:`Iekšējās kustības dokumentu
-žurnālā<688>`.
+žurnālā<688>` .
 
 2. Apstiprināt, nospiežot rīku joslā pogu - Pārsūtīšanas dokuments
 tiks Apstiprināts un to būs iespējams Grāmatot.
+
 
 
 Nomenklatūras pārsūtīšanas dokumenta grāmatošana
@@ -121,7 +125,7 @@ Nomenklatūras pārsūtīšanas dokumenta grāmatošana
 
 Nomenklatūras pārsūtīšanas dokumentuiespējams grāmatot no atvērta
 dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Iekšējās kustības
-dokumentu žurnālā<688>`.
+dokumentu žurnālā<688>` .
 
 Lai iegrāmatotu Nomenklatūras pārsūtīšanu, dokumentu nepieciešams
 Apstiprināt, nospiežot rīku joslā pogu .
@@ -134,12 +138,13 @@ pogu .
 Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
 
 
+
 Pievienotā Pārsūtīšanas dokumenta labošana
 ``````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Nomenklatūras
 pārsūtīšanas dokumentu, kurš pieejams apskatei/labošanai:doc:`Iekšējās
-kustības dokumentu žurnālā<688>`. Lai veiktu labojumusPārsūtīšanas
+kustības dokumentu žurnālā<688>` . Lai veiktu labojumusPārsūtīšanas
 dokumentā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 

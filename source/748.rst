@@ -25,7 +25,7 @@ Lai aizpildītuAvansa norēķinaVirsrakstu, nepieciešams:
 
 
 
-1. Laukā Persona, izvēlēties :doc:`Avansu norēķinu personu<196>`no
+1. Laukā Persona, izvēlēties :doc:`Avansu norēķinu personu<196>` no
 saraksta:
 
 
@@ -36,7 +36,7 @@ saraksta:
 
 Aizpildot lauku Persona , automātiski tiks aizpildīts lauks konts,
 kurā tiks ielasīts grāmatvediskais konts, kāds norādīts :doc:`Avansu
-personas<196>`aprakstā (sadaļā Pārējie dati).
+personas<196>` aprakstā (sadaļā Pārējie dati).
 
 
 
@@ -78,19 +78,18 @@ Maksājumi, Izdevumi un Beigu atlikumi:
 norēķins tiek sagatavots pirmo reizi, avansa atlikums personai tiek
 sarēķināts no atlikuma avansu norēķinu kontā, kas ir pievienots kontu
 atlikuma sarakstā (Virsgrāmata -> Dokumenti -> :doc:`Kontu
-atlikumi<146>`). Personai naudas atlikums tiek meklēts :doc:`Avansu
-personas<196>`aprakstā (sadaļā Pārējie dati)norādītajā av.nor.pers.
+atlikumi<146>` ). Personai naudas atlikums tiek meklēts :doc:`Avansu
+personas<196>` aprakstā (sadaļā Pārējie dati)norādītajā av.nor.pers.
 kontā. Veidojot nākamos avansu norēķinus sākuma atlikums tiek
 noteikts, ņemot vērā iepriekšējā avansu norēķina beigu atlikuma summu.
 
 
 
 2. Maksājumi - Saņemtie avansu maksājumi - summa no :doc:`Kases avansa
-maksājuma<471>`(Avansa pieprastījuma - :doc:`Avansa
-maksājums<465>`)vai no :doc:`Bankā izmaksāta avansa<469>`. Kā arī
-atgrieztās summas no Kases un Bankas ieņēmumu dokumentu veidiem
-(:doc:`Bankā atgriezts avanss<473>`un :doc:`Kasē atgriezts
-avanss<474>`).
+maksājuma<471>` (Avansa pieprastījuma - :doc:`Avansa maksājums<465>`
+)vai no :doc:`Bankā izmaksāta avansa<469>` . Kā arī atgrieztās summas
+no Kases un Bankas ieņēmumu dokumentu veidiem (:doc:`Bankā atgriezts
+avanss<473>` un :doc:`Kasē atgriezts avanss<474>` ).
 
 Lai avansu norēķina dokumentā parādītos saņemtās un atgrieztās avansu
 summas, naudas izmaksas dokumentiem jābūt izveidotiem kā avansa
@@ -125,7 +124,7 @@ jāpievieno finanšu kodi un kodu aprakstā jābūt norādītiem izdevumu
 kontiem), bet grāmatojuma kopsavilkumā avansu norēķina izdrukas
 augšpusē no grāmatojuma datiem. Lai korekti sagatavotu avansa norēķina
 izdruku, avansa izdevumu dokumentu saturā jānorāda finanšu kodi un
-pirms drukāšanas katrs :doc:`Avansa izdevuma<747>`dokuments ir
+pirms drukāšanas katrs :doc:`Avansa izdevuma<747>` dokuments ir
 jāiegrāmato.
 
 

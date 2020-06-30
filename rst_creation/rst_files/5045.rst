@@ -22,7 +22,7 @@ tiek attēloti budžetu dati nesagrupētā veidā.Lai atvērtu ierakstu
 pārlūku, jāaktivizē konkrētais ierakst, atverot jaunā pārlūka logā
 detalizētu atskaiti, un no detalizētās atskaites iespējams atvērt jau
 konkrēto budžeta dokumentu ar summas sadalījumu pa EKK kā
-:doc:`Budžetu atskaiti<5064>`:
+:doc:`Budžetu atskaiti<5064>` :
 
 
 

@@ -58,8 +58,8 @@ Nosaukums: Brīvā formā iespējams ievadīt izmaksu saraksta nosaukumu
 
 Dati par atbildīgo personu, galveno grāmatvedi un uzņēmuma vadītāju
 tiek ņemti no uzņēmuma aprakstā ievadītās informācijas. Ja
-:doc:`Uzņēmuma informācijas<703>`visi lauki ir aizpildīti korketi, tad
-arī šajā logā informācija aizpildīsies automātiski un nebūs jāvada
+:doc:`Uzņēmuma informācijas<703>` visi lauki ir aizpildīti korketi,
+tad arī šajā logā informācija aizpildīsies automātiski un nebūs jāvada
 manuāli.
 
 

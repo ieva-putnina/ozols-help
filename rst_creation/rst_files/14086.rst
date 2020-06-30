@@ -4,12 +4,13 @@ Datu bāzes lietotāji
 ++++++++++++++++++++
 
 Sistēmas lietotāji tiek noteikti sistēmas :doc:`Lietotāju
-sarakstā<194>`. Ja lietotājs nav pievienots lietotāju sarakstā, sākt
+sarakstā<194>` . Ja lietotājs nav pievienots lietotāju sarakstā, sākt
 darbu ar programmu nebūs iespējams. Pievienojot lietotājus, jānosaka
 lietotāju tiesības izmantot datubāzi, izmantot darba režīmus un
 uzņēmumu datus. Lietotāju tiesības nosaka, kādas būs iespējas izmantot
 datubāzes procedūras – vai lietotājs varēs tikai skatīt datus, vai
 varēs skatīt un saglabāt datus.
+
 
 
 Lietotāju grupu definēšana
@@ -31,10 +32,11 @@ fiksēto lomu „db_owner” vai „db_securityadmin” dalībnieks.
 
 
 Izmantojot datu bāzes :doc:`Lietotāju definētās lomas<14088>`
-un:doc:`Fiksētās datu bāzeslomas<14087>`, iespējams definēt lietotāju
+un:doc:`Fiksētās datu bāzeslomas<14087>` , iespējams definēt lietotāju
 tiesības darba režīmiem, uzņēmumiem un piešķirtajam tiesību apjomam.
 Tas nozīmē, vai attiecīgais sistēmas OZOLS darba režīms lietotāju
 grupai būs pieejams.
+
 
 
 Lietotāju tiesības darba režīmiem

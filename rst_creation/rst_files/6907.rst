@@ -27,7 +27,7 @@ Daudzums (litri): degvielas daudzums litros;
 Summa, Ls: pasūtījuma summa latos.
 
 Lai izveidotu jaunu degvielas pasūtījumu, degvielas pasūtījumu sadaļā
-Jauns jāizvēlas :doc:`Degvielas pasūtījums<6904>`.
+Jauns jāizvēlas :doc:`Degvielas pasūtījums<6904>` .
 
 
 

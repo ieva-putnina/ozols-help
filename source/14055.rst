@@ -3,7 +3,8 @@
 
 Grāmatojumus var labot no grāmatojumu žurnāla, atverot no
 pirmdokumenta vai sameklējot grāmatojumu kādā atskaitē, piemēram,
-:doc:`Operāciju pārskats<521>`.
+:doc:`Operāciju pārskats<521>` .
+
 
 
 Grāmatojumus var labot:

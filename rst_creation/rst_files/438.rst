@@ -4,7 +4,7 @@
 Pamatlīdzekļu pārvērtēšanas dokuments paredzēts veidot
 pamatlīdzekļiem, kuriem pārvērtēšanas rezultātā ir mainījusies
 uzskaites vērtība. Dokuments pēc saglabāšanas ir pieejams
-:doc:`Pamatlīdzekļu dokumentu sarakstā<233>`.
+:doc:`Pamatlīdzekļu dokumentu sarakstā<233>` .
 
 
 
@@ -24,7 +24,7 @@ Pamatlīdzekļu pārvērtēšanas dokuments .
 
 Numurs - jānorāda pamatlīdzekļa dokumenta numurs. Šis numurs strādājot
 ar sistēmu tiek piešķirts automātiski pēc iebūvētā :doc:` numeratora
-<139>`. Visiem pamatlīdzekļu dokumentiem ir viena numerācija.
+<139>` . Visiem pamatlīdzekļu dokumentiem ir viena numerācija.
 
 Datums - pamatlīdzekļu dokumenta izveidošanas datums.
 
@@ -53,7 +53,8 @@ obligāti pēc saglabāšanas dokuments ir jāapstiprina ar funkciju .
 
 
 Pēc dokumenta apstiprināšanas Pamatlīdzekļu pārvērtēšanas dokuments ir
-:doc:`jānogrāmato<14044>`.
+:doc:`jānogrāmato<14044>` .
+
 
 
 

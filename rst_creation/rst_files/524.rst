@@ -6,10 +6,10 @@ apgrozījumu, un kontu beigu atlikumus konkrētā laika periodā. Dati
 tiek summēti uz augstākā līmeņa kontiem.
 
 No virsgrāmatas var atvērt atskaitē iekļautā :doc:`Konta
-atlikumus<665>`,:doc:`Operāciju pārskatu<521>`:doc:` `pa izvēlēto
-kontu un tā korespondenci, :doc:`Konta korespondenci<523>`,
-:doc:`Konta analītiskais apgrozījumu<529>`,:doc:`Konta izrakstu<522>`,
-:doc:`Memoriālais orderi<525>`.
+atlikumus<665>` ,:doc:`Operāciju pārskatu<521>` :doc:` `pa izvēlēto
+kontu un tā korespondenci, :doc:`Konta korespondenci<523>` ,
+:doc:`Konta analītiskais apgrozījumu<529>` ,:doc:`Konta izrakstu<522>`
+, :doc:`Memoriālais orderi<525>` .
 
 
 

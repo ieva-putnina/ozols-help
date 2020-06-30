@@ -49,7 +49,7 @@ dimensijas, kādā griezumā konta sākuma atlikums jāsadala):
 
 3. Ja kontam tiek izmantota analītiskā uzskaite (Partneris), tad arī
 konta sākuma atlikumam nepieciešams norādīt analītiku - Partneri,
-izvēloties to no :doc:`Partneru saraksta<112>`:
+izvēloties to no :doc:`Partneru saraksta<112>` :
 
 
 

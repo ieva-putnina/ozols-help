@@ -5,6 +5,7 @@
 Darbiniekam.
 
 
+
 1. Novērtēšanas anketas atvēršana
 +++++++++++++++++++++++++++++++++
 
@@ -27,6 +28,7 @@ aizpildīšanu, nepieciešamsnospiest uz jebkuras kolonnas ierakstu:
 
 
 Pēc šo darbību veikšanas, tiksatvērta Darbinieka novērtējuma anketa.
+
 
 
 2. Novērtēšanas anketas aizpildīšana
@@ -132,6 +134,7 @@ attīstību.
 8) Nozīmīgākais, kas nepieciešams, lai Sabiedrībā paaugstinātos darba
 efektivitāte -> Obligāti aizpildāms lauks, kur brīvā formā
 nepieciešams ievadi informāciju.
+
 
 
 3. Novērtēšanas anketas saglabāšana, apstiprināšana un izdruka

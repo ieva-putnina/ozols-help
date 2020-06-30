@@ -4,7 +4,7 @@
 Izmaksu sarakstu veidu sarakstā tiek nodefinēti uzņēmumā izmantotie
 algu izmaksu sarakstu veidi (piem. avansi, starpizmaksa, izmaksa).
 Izmaksu sarakstu veidi tiek izmantoti veidojot izmaksu sarkstus
-:doc:`Izmaksu sarkastu žurnālā<238>`.
+:doc:`Izmaksu sarkastu žurnālā<238>` .
 
 
 

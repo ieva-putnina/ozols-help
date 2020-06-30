@@ -1,2 +1,2 @@
-.. 7900 Ēdināšana============= 
+.. 7900 Ēdināšana============= .. role:: raw-html(raw)     :format: html
  .. toctree::   :maxdepth: 6    7903.rst   7902.rst   7904.rst   7905.rst   7901.rst

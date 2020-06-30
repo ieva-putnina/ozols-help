@@ -10,7 +10,7 @@ veidus:
 
 :doc:`Nomenklatūras norakstīšana<693>`
 
-:doc:`Nomenklatūras pārsūtīšana<687>`:doc:`<691>`
+:doc:`Nomenklatūras pārsūtīšana<687>` :doc:`<691>`
 
 :doc:`Nomenklatūras pārsūtīšana uz<692>`
 

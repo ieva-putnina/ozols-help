@@ -8,7 +8,7 @@ pieejams izmantojot Ozols papildus funkcionalitāti.
 Jauna pieteikuma tiesai pievienošana
 Izmantojot šo dokumentu veidu, tiek realizēts tiesas pieteikuma
 sagatavošanas process, kur dati dokumentā tiek aizpildīti no atskaites
-- :doc:`Neapmaksātie pārdošanas dokumenti<540>`.
+- :doc:`Neapmaksātie pārdošanas dokumenti<540>` .
 
 Lai pievienotu jaunu dokumentu, atrodoties dokumentu žurnālā, rīku
 joslā jānospiež poga: un tiks atvērts jauns dokuments:

@@ -9,6 +9,7 @@ sagatavošanā. Noliktavas aprakstā var norādīt nomenklatūras grupas,
 kuras tiks piesaistītas konkrētajai Noliktavai.
 
 
+
 JaunasNoliktavas pievienošana:
 ``````````````````````````````
 
@@ -56,7 +57,7 @@ uzrādīta pēc noklusējuma.
 
 
 Katrai izveidotajai Noliktavai ir iespēja piesaistīt konkrētas
-nomenklatūras :doc:`Grupas<148>`, noliktavas aprakstā – nomenklatūras
+nomenklatūras :doc:`Grupas<148>` , noliktavas aprakstā – nomenklatūras
 grupas, atzīmējot nepieciešamās grupas:
 
 

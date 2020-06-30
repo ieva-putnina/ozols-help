@@ -20,7 +20,8 @@ norakstīšanas dokumenti.
 
 
 Šādi atlasītus dokumentus iespējams arī iegrāmatot:
-:doc:`Nomenklatūras norakstīšanas dokumentu grāmatošana<14092>`.
+:doc:`Nomenklatūras norakstīšanas dokumentu grāmatošana<14092>` .
+
 
 
 ->Ozols->Noliktava->Atskaites->:doc:`Norakstīšanas aktu

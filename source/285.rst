@@ -4,7 +4,7 @@
 Paziņojums par algas nodokli tiek sagatavots atbilstoši MK noteikumos
 noteiktajām veidlapu formām un ir saglabājams atskaišu žurnālā. Lai
 sagatavotu atskaiti, jābūt izveidotām atskaišu kolonnām: :doc:`Kolonnu
-virsraksti<214>`- atskaišu kolonnu virsrakstu konfigurācijā jābūt
+virsraksti<214>` - atskaišu kolonnu virsrakstu konfigurācijā jābūt
 norādei, ka datu kolonnas tiek izmantotas [Paziņojumā]:
 
 
@@ -14,9 +14,9 @@ norādei, ka datu kolonnas tiek izmantotas [Paziņojumā]:
 
 
 Paziņojumu par algas nodokli var sagatavot no :doc:`Paziņojumu
-žurnāla<285>`. Paziņojumu žurnālā tiek saglabāti izveidotie paziņojumi
-par algas nodokli. No atvērtas atskaites formas var drukāt Paziņojumu
-par algas nodokli (1.pielikums)
+žurnāla<285>` . Paziņojumu žurnālā tiek saglabāti izveidotie
+paziņojumi par algas nodokli. No atvērtas atskaites formas var drukāt
+Paziņojumu par algas nodokli (1.pielikums)
 Sagatavojot paziņojumu, obligāti jānorāda atbilstošās atskaites
 sagatavošanā izmantojamās datu kolonnas.
 

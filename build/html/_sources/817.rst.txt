@@ -4,7 +4,8 @@
 Darbības ar pamatlīdzekļiem (piem. kapitālais remonts), kuru rezultātā
 palielinās pamatlīdzekļu uzskaites vērtība, jāreģistrē Pamatlīdzekļu
 papildināšanas dokumentā. Dokuments
-pēcsaglabāšanasirpieejams:doc:`Pamatlīdzekļu dokumentu sarakstā<233>`.
+pēcsaglabāšanasirpieejams:doc:`Pamatlīdzekļu dokumentu sarakstā<233>`
+.
 
 
 
@@ -28,7 +29,7 @@ Jāaizpilda dokumenta virsraksta dati:
 
 Numurs - jānorāda pamatlīdzekļa dokumenta numurs. Šis numurs strādājot
 ar sistēmu tiek piešķirts automātiski pēc iebūvētā
-:doc:`numeratora<139>`. Visiem pamatlīdzekļu dokumentiem ir viena
+:doc:`numeratora<139>` . Visiem pamatlīdzekļu dokumentiem ir viena
 numerācija.
 
 Datums - pamatlīdzekļu dokumenta izveidošanas datums.
@@ -64,7 +65,8 @@ obligāti pēc saglabāšanas dokuments ir jāapstiprina ar funkciju .
 
 
 Pēc dokumenta apstiprināšanas Pamatlīdzekļupapildināšanasdokuments ir
-:doc:`jānogrāmato<14044>`.
+:doc:`jānogrāmato<14044>` .
+
 
 
 

@@ -24,7 +24,7 @@ izmantoti uzņēmuma finanšu un vadības grāmatvedības uzskaitē:
 saraksti->:doc:`Struktūrvienības<117>`
 2. Pēc vajadzības, papildināt mērvienību sarakstu, kas tiks izmantotas
 norēķinu dokumentu saturu aizpildīšanai: Kopējie
-saraksti->:doc:`Mērvienību saraksts<124>`.
+saraksti->:doc:`Mērvienību saraksts<124>` .
 
 
 CRM (Partneri):
@@ -33,16 +33,15 @@ Uzsākot darbu sistēmā OZOLS, lai būtu iespējams ievadīt
 saņemtos:doc:`<304>` :doc:`Iepirkumu<310>` dokumentus un sagatavot
 :doc:`Pārdošanas<304>` dokumentus, nepieciešams ievadīt biežāk
 izmantojamo partneru sarakstu, ar iespēju pēc tam šo sarakstu
-papildināt:
-CRM(Partneri)->Saraksti->:doc:`Partneri<112>`->Pievienot->Aizpildīt
-nepieciešamos datus.
+papildināt: CRM(Partneri)->Saraksti->:doc:`Partneri<112>`
+->Pievienot->Aizpildīt nepieciešamos datus.
 
 
 Norēķini:
 `````````
 Uzsākot darbu ar Norēķiniem, nepieciešams aizpildīt pamatdatus, kas
-tiks izmantoti jaunu :doc:`Iepirkumu<310>` un :doc:`Pārdošanas
-<304>`dokumentu veidošanai:
+tiks izmantoti jaunu :doc:`Iepirkumu<310>` un :doc:`Pārdošanas <304>`
+dokumentu veidošanai:
 
 1. Pēc vajadzības papildināt apmaksas veidu sarakstu, kas tiks
 izmantots :doc:`Iepirkumu<310>` un :doc:`Pārdošanas<304>` dokumentu
@@ -99,10 +98,10 @@ sākumā<107>`
 6. Ja uzņēmuma noliktavas uzskaite ietver sevī preču pārdošanu un
 preces tiek cenotas, tad nepieciešams katram pircējam noteikt
 piemērojamo pārdošanas cenu un atlaides. Katram klientam Partnera
-aprakstā (CRM(Partneri)->Saraksti->:doc:`Partneri<112>`->Pārējie dati)
-var noteikt vienu no preces pārdošanas cenu veidiem
-(Norēķini->Saraksti->:doc:`Cenu veidi<105>`), norādīt noklusēto
-atlaižu grupu (Norēķini->Saraksti->:doc:`Atlaižu grupas<185>`).
+aprakstā (CRM(Partneri)->Saraksti->:doc:`Partneri<112>` ->Pārējie
+dati) var noteikt vienu no preces pārdošanas cenu veidiem
+(Norēķini->Saraksti->:doc:`Cenu veidi<105>` ), norādīt noklusēto
+atlaižu grupu (Norēķini->Saraksti->:doc:`Atlaižu grupas<185>` ).
 
 
 Personāls
@@ -111,10 +110,10 @@ Uzsākot darbu, nepieciešams izveidot pamatklasifikatorus, kas tiks
 izmantoti uzņēmuma personāla uzskaitei un algu aprēķiniem:
 
 1. Jāizveido pamatklasifikatori, lai varētu pilnvērtīgi aizpildīt
-strādājošā kartiņu: Personāls->Saraksti->:doc:`Amati<186>`/:doc:`Amatu
-grupas<959>`/:doc:`Atvaļinājumu
-kalendāri<284>`/:doc:`Kalendāri<218>`/:doc:`Personāla
-kategorijas<127>`/:doc:`Slodžu veidi<288>`
+strādājošā kartiņu: Personāls->Saraksti->:doc:`Amati<186>`
+/:doc:`Amatu grupas<959>` /:doc:`Atvaļinājumu kalendāri<284>`
+/:doc:`Kalendāri<218>` /:doc:`Personāla kategorijas<127>`
+/:doc:`Slodžu veidi<288>`
 2. Nepieciešams aizpildīt informāciju par svētku un pārceltajā
 2. Nepieciešams aizpildīt informāciju par svētku un pārceltajām dienām
 kalendārajā periodā: Personāls->Saraksti->:doc:`Notikumu

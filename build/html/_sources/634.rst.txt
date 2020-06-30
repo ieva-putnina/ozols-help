@@ -21,7 +21,7 @@ Kad ir ierakstīta attiecīgā tautība,jānospiež poga .
 
 
 
-Tautību sarakstu izmanto veidojot :doc:`Valstu sarakstu<103>`, kur
+Tautību sarakstu izmanto veidojot :doc:`Valstu sarakstu<103>` , kur
 iespējams norādīt tautību:
 
 

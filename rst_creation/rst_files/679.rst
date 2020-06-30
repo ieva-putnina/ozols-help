@@ -10,6 +10,7 @@ Izvēloties dokumenta veidu Iepirkums, tiks atvērts jauns logs:
 
 
 
+
 1. Iepirkuma Virsraksta sadaļa
 ++++++++++++++++++++++++++++++
 
@@ -61,6 +62,7 @@ Ieprikuma, pieņemšanas datumu:
 
 
 
+
 2. Citi dati
 ++++++++++++
 
@@ -80,6 +82,6 @@ vai .
 
 
 Saglabātie ieraksti - pievienotie Ieprikumi, būs pieejams
-apskatei/labošanai :doc:`Iepirkumu žurnālā<678>`.
+apskatei/labošanai :doc:`Iepirkumu žurnālā<678>` .
 
  

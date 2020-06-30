@@ -5,6 +5,7 @@ pārdošanas dokumentā, piedāvājuma sagatavošanas veidu.
 
 
 
+
 **Atvērt preču meklēšanas formu**
 Komanda nosaka, ka pievienojot pārdošanas dokumenta saturu, uzreiz
 tiek atvērta preču meklēšanas forma. Preču konfigurācijas komanda ir

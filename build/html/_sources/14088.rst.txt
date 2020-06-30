@@ -4,7 +4,7 @@ Ieteicamās lietotāja definētās datu bāzes lomas
 
 
 Sistēmā OZOLS datu bāzes lietotāju definētās lomas var izveidot sadaļā
-Konfigurācja->Lietotāji-> :doc:`Lietotāju grupas<162>`.
+Konfigurācja->Lietotāji-> :doc:`Lietotāju grupas<162>` .
 
 
 
@@ -27,14 +27,14 @@ uzņēmumam, kura datus būs nepieciešams izmantot.
 atsevišķas grupas tiesību apjomam - vai lietotājam būs tiesības datus
 ievadīt/labo/dzēst, vai tikai skatīšanās režīmā. Nodefinēt tiesību
 apjomu visai grupai iespējams, izmantojot :doc:`Lietotāju lomu
-funkcijas<14097>`.
+funkcijas<14097>` .
 
 
 
-Izveidojot nepieciešamās :doc:`Lietotāju grupas<162>`, :doc:`Lietotāju
-tiesības darba režīmiem<169>`, tiesību apjomam un :doc:`Lietotāju
-tiesības uzņēmumiem<190>` nepieciešam noteikt grupām, nevis katram
-lietotājam individuāli.
+Izveidojot nepieciešamās :doc:`Lietotāju grupas<162>` ,
+:doc:`Lietotāju tiesības darba režīmiem<169>` , tiesību apjomam un
+:doc:`Lietotāju tiesības uzņēmumiem<190>` nepieciešam noteikt grupām,
+nevis katram lietotājam individuāli.
 
 Viens lietotājs vienlaicīgi var atrasties vairākās grupās.
 

@@ -21,6 +21,6 @@ Kad visi dati ievadīti, jānospiež poga un, lai pievienotu jaunu
 tvertni, jānospiež poga . Ja jaunas tvertnes vairs netiks pievienotas,
 jānospiež poga pēc pēdējās tvertnes pievienošanas.
 
-Visas pievienotās tvertnes ir redzamas :doc:`tvertņu sarakstā<6911>`.
+Visas pievienotās tvertnes ir redzamas :doc:`tvertņu sarakstā<6911>` .
 
  

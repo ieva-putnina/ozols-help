@@ -5,6 +5,7 @@ Sarakstā tiek saglabāti koeficienti, kuru vērtību iespējamsnodefinēt
 konkrētam laika periodam.
 
 
+
 Jauna Koeficienta pievienošana:
 +++++++++++++++++++++++++++++++
 
@@ -35,6 +36,7 @@ darbības periodu:
 
 
 Ieraksts tiks saglabāts, izpildot komandu .
+
 
 
 Pievienotā Koeficienta apraksta labošana:

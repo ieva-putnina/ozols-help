@@ -3,7 +3,7 @@ Standarta kalendārs nosaka vērtības, kas ir kopīgas visiem uzņēmumā
 strādājošajiem.
 
 Kalendāru saraksts tiek izmantots veidojot. Strādājošo
-:doc:`Slodzes<207>`:
+:doc:`Slodzes<207>` :
 
 
 

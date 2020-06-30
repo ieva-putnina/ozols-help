@@ -4,7 +4,7 @@
 Kases konta izraksts parāda naudas apgrozījumu un atlikumus noteiktā
 laika periodā norādītajā uzņēmuma kasē. Sākuma atlikuma summa atskaitē
 tiek parādīta no kontu atlikumu saraksta. Kases saistība ar
-grāmatvedības kontu tiek noteikta :doc:`Kases aprakstā<123>`. Konta
+grāmatvedības kontu tiek noteikta :doc:`Kases aprakstā<123>` . Konta
 izraksts iekļauj datus par katru kases kontā ieejošo un izejošo summu,
 pēc katras operācijas tiek sarēķināts konta atlikums. Atskaiti var
 sagatavot:

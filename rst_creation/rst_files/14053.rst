@@ -6,6 +6,7 @@ Grāmatojums ir saistīts ar pirmdokumentu, bet var pievienot arī t.s.
 manuālos grāmatojumus, kuriem pirmdokumenta nebūs.
 
 
+
 Grāmatojumu var izveidot:
 +++++++++++++++++++++++++
 
@@ -30,10 +31,10 @@ dimensijas un ja nepieciešams - analītiku (partneri):
 
 
 
-2. No :doc:`Grāmatojumu žurnāla<131>`- pievienojot manuālo grāmtojumu,
-rīku joslā nospiežot pogu tiks atvērts jauns grāmatojums,kas nav
-saistīts ar pirmdokumentu. Manuālajā grāmatojumā bieži vien kontējums
-jāpievieno ar roku:
+2. No :doc:`Grāmatojumu žurnāla<131>` - pievienojot manuālo
+grāmtojumu, rīku joslā nospiežot pogu tiks atvērts jauns
+grāmatojums,kas nav saistīts ar pirmdokumentu. Manuālajā grāmatojumā
+bieži vien kontējums jāpievieno ar roku:
 
 
 

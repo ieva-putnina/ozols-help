@@ -27,7 +27,7 @@ Darbinieks partneru sarakstā ir jāpievieno tikai vienu reizi.
 
 
 No strādājošā apraksta caur pogu var izsaukt vai pievienot jaunu
-:doc:`Slodzi<207>`.
+:doc:`Slodzi<207>` .
 
 Strādājošā apraksta sadaļā Personāls var pievienot personāla uzskaitei
 nepieciešamo informāciju. Lai izveidotu un drukātu personas kartīti,
@@ -63,7 +63,7 @@ lietotājiem nebūs pieejami.
 
 
 
-Caur pogu tiek pievienotas strādājošā :doc:`adreses<192>`. Ja ar
+Caur pogu tiek pievienotas strādājošā :doc:`adreses<192>` . Ja ar
 programmu tiek vesta uzskaite vairākiem uzņēmumiem, tad strādājošā
 adresēm tiek norādīti uzņēmumi uz kuru konkrētā strādājošā adrese
 attiecas. Šīs uz uzņēmumu norādītās adreses citu uzņēmumu programmas
@@ -74,6 +74,6 @@ kartes.
 
 
 
-Caur pogu ir iespējams atvērt strādājošā :doc:`slodzi<207>`.
+Caur pogu ir iespējams atvērt strādājošā :doc:`slodzi<207>` .
 
  

@@ -3,7 +3,7 @@
 
 Izmantojot sistēmā iebūvētos Rīkus, ir iespēja veidot datu bāzes
 rezerves kopiju datora failu sistēmā. Rīks ir pieejams izvēlnes zarā
-Rīki->Datu bāzes pārvaldīšana->:doc:`Rezerves kopija<737>`:
+Rīki->Datu bāzes pārvaldīšana->:doc:`Rezerves kopija<737>` :
 
 
 

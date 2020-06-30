@@ -2,7 +2,7 @@
 
 
 Sarakstā tiek saglabāti Iesniegumu veidi, kas tiek izmantoti
-:doc:`Iesnieguma dokumenta<791>`aizpildīšanai.
+:doc:`Iesnieguma dokumenta<791>` aizpildīšanai.
 
 Lai pievienotu jaunu iesnieguma veidu, rīku joslā jānospiež poga
 (Alt+P) un jāaizpilda nepieciešamā informācija:
@@ -14,7 +14,7 @@ Lai pievienotu jaunu iesnieguma veidu, rīku joslā jānospiež poga
 
 
 Algu rīkoj.veids: No saraksta nepieciešams izvēlēties atbilstošo
-:doc:`Algu rīkojumu veidu<277>`, lai norādītu, kāda veida Iesniegums
+:doc:`Algu rīkojumu veidu<277>` , lai norādītu, kāda veida Iesniegums
 tiks sagatavots (Piemēram, Iesnieguma veids"Ikgadējais atvaļinājums" -
 Rīkojuma par ikgadējo atvaļinājumu sagatavošanai):
 
@@ -41,7 +41,7 @@ definēts laika periods - no...līdz;
 
 Atzīmējot kādu no iepriekš minētajām izvēles rūtiņām, tiks piedāvāts
 definēt Iesnieguma rezultātā izveidotā Notikuma krāsas attēlojumu
-:doc:`Notikumu kalendārā<893>`:
+:doc:`Notikumu kalendārā<893>` :
 
 
 

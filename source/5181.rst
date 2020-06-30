@@ -25,12 +25,14 @@ Anketas statuss nosaka, vai Novērtēšanas anketa jau ir aizpildīta un
 apstiprināta vai tā vēl ir tikai iesniegšanas režīmā.
 
 
+
 1. Novērtēšanas anketas atvēršana
 +++++++++++++++++++++++++++++++++
 
 Lai uzsāktu anketas aizpildīšanu par sevi (Vadītāju),
 nepieciešamsizvēlēties atbilstošo ierakstu un nospiest uz jebkuras no
 kolonnas ierakstiem (Piemēram, Ievadīt):
+
 
 
 
@@ -52,6 +54,7 @@ režīma->Novērtēšanas anketas:
 
 Instrukcija novērtēšanas anketas aizpildīšanai: :doc:`Novērtēšanas
 anketas<5191>`
+
 
 
 3. Novērtēšanas anketas aizpildīšana par pakļautībā esošajiem
@@ -170,6 +173,7 @@ attīstību.
 8) Nozīmīgākais, kas nepieciešams, lai Sabiedrībā paaugstinātos darba
 efektivitāte -> Obligāti aizpildāms lauks, kur brīvā formā
 nepieciešams ievadi informāciju.
+
 
 
 4. Novērtēšanas anketas saglabāšana, apstiprināšana un izdruka

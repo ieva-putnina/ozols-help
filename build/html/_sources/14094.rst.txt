@@ -1,7 +1,7 @@
 .. 14094 Novērotās problēmas programmas atjaunošanas laikā***************************************************** 
 
 
-1.:doc:`Darba izpildes loga<735>`JOB izpildes aprakstākolonnā
+1.:doc:`Darba izpildes loga<735>` JOB izpildes aprakstākolonnā
 Rezultāts rāda , ka JOB solis izpildās, bet paziņojums ir ilgu laika
 sprīdi . Parasti viss programmas atjaunošanas un datu bāzes
 modifikācijas cikls izpildās 10 – 15 minūtes, maksimāli 30 minūtes,

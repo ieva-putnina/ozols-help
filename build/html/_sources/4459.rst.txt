@@ -1,10 +1,11 @@
 .. 4459 Tikšanās************ 
-Notikumu žurnālā tiek saglabāti visi :doc:`izveidotie notikumi<4462>`.
+Notikumu žurnālā tiek saglabāti visi :doc:`izveidotie notikumi<4462>`
+.
 
 Notikumu ir iespējams atvērt caur katras :doc:`ielūgtās personas
-kalendāru<4462>`, caur :doc:`uzņēmuma kalendāru<4482>` (grafiku),caur
+kalendāru<4462>` , caur :doc:`uzņēmuma kalendāru<4482>` (grafiku),caur
 :doc:`visu aktivitāšu sarakstu<4472>` un caur :doc:`notikumu
-žurnālu<4459>`.
+žurnālu<4459>` .
 
 Atverot notikumu, tam iespējams veikt dažādas darbības. Lai notikums
 tiktu izpildīts, slēgts, jānospiež poga , tiek atvērt logs:

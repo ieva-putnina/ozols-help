@@ -6,6 +6,7 @@ izdevumu un ieņēmumu pamatojumi. Paskaidrojumi tiek izmantoti kases
 dokumentu lauka Pamatojums aizpildīšanai.
 
 
+
 JaunaKases paskaidrojumu sarakstapievienošana:
 ++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -18,6 +19,7 @@ tiks atvērts jauns logs:
 
 Laukā Nosaukums, nepieciešams ierakstītKases paskaidrojuma nosaukumu.
 Ieraksts tiks saglabāts, izpildot komandu .
+
 
 
 PievienotāKasespaskaidrojumu sarakstalabošana:

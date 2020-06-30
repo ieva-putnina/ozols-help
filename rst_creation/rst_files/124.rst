@@ -14,7 +14,7 @@ Pēc Nosaukuma aizpildīšanas,ierakstu iespējams vai .
 
 
 Mērvienību saraksts tiek lietots :doc:`Pamatlīdzekļu ienākšanas
-dokumentu<433>`, :doc:`Iepirkumu dokumentu<310>` un :doc:`Pārdošanas
-dokumentu izveidošanā<304>`.
+dokumentu<433>` , :doc:`Iepirkumu dokumentu<310>` un :doc:`Pārdošanas
+dokumentu izveidošanā<304>` .
 
  

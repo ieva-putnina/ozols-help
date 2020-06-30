@@ -26,8 +26,8 @@ Pievienojot papildus kolonnas, iespējams redzēt arī papildus
 informāciju.
 
 Lai no ieimportētajiem realizācijas čekiem tiktu uzģenerēti pārdošanas
-dokumenti, kuri būs pieejami :doc:`pārdošanas dokumentu žurnālā<204>`,
-jāveic realizācijas dokumentu sagatavošanas funkcija:
+dokumenti, kuri būs pieejami :doc:`pārdošanas dokumentu žurnālā<204>`
+, jāveic realizācijas dokumentu sagatavošanas funkcija:
 
 
 
@@ -56,6 +56,6 @@ Klients):
 
 
 Kad Pircēja lauks aizpildīts, dokuments jāapstiprina un, ja
-nepieciešams, :doc:`jāiegrāmato<14044>`.
+nepieciešams, :doc:`jāiegrāmato<14044>` .
 
  

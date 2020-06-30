@@ -11,6 +11,6 @@ Kontaktpersonu sarakstā tiek saglabāti visi
 
 
 Kontaktpersonu sarakstā, nospiežot pogu , iespējams :doc:`pievienot
-jaunu kontaktpersonu<4438>`.
+jaunu kontaktpersonu<4438>` .
 
  

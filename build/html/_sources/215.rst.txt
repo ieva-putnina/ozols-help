@@ -1,6 +1,6 @@
 .. 215 -Norakstīšanas dokumenti**************************** 
 Norakstīšanas dokumentužurnālātiek saglabāti visi izveidotie
-:doc:`Nomenklatūras norakstīšanas<693>`dokumenti.
+:doc:`Nomenklatūras norakstīšanas<693>` dokumenti.
 
 Lai atlasītu dokumentus Norakstīšanas dokumentu žurnālā, jāizmanto
 datu atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši

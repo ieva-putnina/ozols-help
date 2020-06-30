@@ -4,13 +4,14 @@
 Algu aprēķinarīks paredzēts automatizētai algu aprēķināšanai un/vai
 izmaksu veikšanai uz izmaksu sarakstiemvisiem darbiniekiem vai
 lietotāja norādītai darbinieku grupai. Pēc lietotāja norādīto darbību
-veikšanas algu aprēķini ir pieejami :doc:`Algu aprēķinu žurnālā<212>`.
+veikšanas algu aprēķini ir pieejami :doc:`Algu aprēķinu žurnālā<212>`
+.
 
 
 
 Pirms aprēķinu veikšanas jāpārbauda, vai ir savadīti visi dati
-:doc:`Algu tarifikācijā<728>`, :doc:`Nodokļu dokumentu žurnālā<208>`,
-:doc:`Rīkojumu žurnālā<209>`par attiecīgo periodu lai varētu veikt
+:doc:`Algu tarifikācijā<728>` , :doc:`Nodokļu dokumentu žurnālā<208>`
+, :doc:`Rīkojumu žurnālā<209>` par attiecīgo periodu lai varētu veikt
 algu aprēķinuun izveidoti :doc:`Izmaksu saraksti<238>` par attiecīgo
 periodu lai veiktu aprēķinu izmaksu uz izmaksu sarakstiem.
 
@@ -63,22 +64,22 @@ pārējās darbības, kas atzīmētas šajā formā.
 
 Aizpildīt algu ieejošos kodus no tarifikācijas - atzīmējot šo izvēles
 rūtiņu sistēma izveidotajos algu aprēķinos aizpildīs datus no
-:doc:`Algu tarifikācijas<728>`.
+:doc:`Algu tarifikācijas<728>` .
 
 Aizpildīt ieejošos kodus no slodzes kalendāra - atzīmējot šo izvēles
 rūtiņu sistēma izveidotajos algu aprēķinos aizpildīs datus no
-:doc:`Rīkojumiem<209>`.
+:doc:`Rīkojumiem<209>` .
 
 Palaist algu aprēķinu (algu rēķinās tikai slodzēm ar nod.dok.) -
 atzīmējot šo izvēles rūtiņu sistēma veiks par attiecīgo periodu algu
 aprēķinus izveidotajiem algu aprēķiniem :doc:`Algu aprēķinu
-žurnālā<212>`.
+žurnālā<212>` .
 
 Starpību starp aprēķināto un ieturēto palaist uz izmaksu sarakstiem -
 atzīmējot šo izvēles rūtiņu sistēma algu aprēķinu izmaksājamās summas
 aizpildīs Izmaksu sarakstos. Lai sistēma varētu veiksmīgi veikt šo
 darbību, lietotājam pirms tam ir jāizveido Izmkasu saraksts
-:doc:`Izmaksu sarakstu žurnālā<238>`.
+:doc:`Izmaksu sarakstu žurnālā<238>` .
 
 
 

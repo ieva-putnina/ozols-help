@@ -70,6 +70,6 @@ Lai apstiprinātu stāšanās spēkā norādīto informāciju, jānospiež poga
 Apstiprināt. Lai atceltu darbību-poga Atcelt.
 
 Saglabātie budžeta pieprasījumi ir pieejami :doc:`budžeta pieprasījumu
-žurnālā<5035>` un budžeta plānošanas :doc:`atskaitēs<5042>`.
+žurnālā<5035>` un budžeta plānošanas :doc:`atskaitēs<5042>` .
 
  .. toctree::   :maxdepth: 4    6660.rst   6661.rst   6659.rst   6662.rst

@@ -5,7 +5,7 @@ Rezultējošo kodu konfigurēšana
 
 Rezultējošo kodu konfigurācija nosaka algu aprēķina algoritma
 pareizību. Ar sastādīto formulu palīdzību, ievadot algu aprēķinā
-:doc:`Ieejošo kodu vērtības<282>`, tiek izrēķināt algu rezultāts –
+:doc:`Ieejošo kodu vērtības<282>` , tiek izrēķināt algu rezultāts –
 aprēķināti nodokļi un noteikta summa izmaksai. Lai sakonfigurētu algu
 rezultātus, jāveido rezultējošie kodi.
 
@@ -53,7 +53,8 @@ jānorāda kā “Aprēķināts”. Savukārt visiem ieturējumiem (nodokļiem u
 ieturējumiem) ir jānorāda “Ieturēts”.
 Ja rezultāts ir izmaksa, tad laukā Izmaksāt jānorāda, kurš izmaksu
 saraksta veids tiks izmantots. Izmaksu saraksta veidiem jābūt iepriekš
-izveidotiem (>Saraksti > Alga > :doc:`Izmaksu sarakstu veidi<280>`).
+izveidotiem (>Saraksti > Alga > :doc:`Izmaksu sarakstu veidi<280>` ).
+
 
 
 Algu aprēķina formulu sastādīšanas secība
@@ -82,6 +83,7 @@ iepriekšminētie maksājumi tiek summēti ar ienākuma nodokli apliekamajā
 starpsummā (bruto), kura tiek izmantota ienākuma nodokļa aprēķināšanā.
 Tiek veikts ienākuma nodokļa aprēķins. Pēc tam tiek sagatavoti pārējie
 ieturējumi.
+
 
 
 Rezultējošo kodu konfigurēšana algu grāmatojumu izveidei

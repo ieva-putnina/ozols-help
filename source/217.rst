@@ -17,7 +17,7 @@ Algas aprēķina.
 Datums: datums, kurā ir attiecīgais notikums, kurā ir brīvdiena vai
 samazināts stundu skaits
 
-Kalendārs: jāizvēlas no :doc:` Kalendāri<218>`saraksta, uz kuru tieši
+Kalendārs: jāizvēlas no :doc:` Kalendāri<218>` saraksta, uz kuru tieši
 attieksies, vai arī uz [Visi]
 
 Notikuma tips: attiecīgi tiek norādīts vai tā ir Brīvdiena vai svētku

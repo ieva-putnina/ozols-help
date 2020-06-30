@@ -1,8 +1,8 @@
 .. 7307 Darbība*********** 
 Pievienotās un saglabātās darbības tiek saglabātas :doc:`darbības
-sarakstā<7316>`.
+sarakstā<7316>` .
 
-Darbību sarakststiek izmantotas :doc:`notikumu <7308>`pievienošanā
+Darbību sarakststiek izmantotas :doc:`notikumu <7308>` pievienošanā
 :doc:`atskaišu<7317>` sagatavošanā.
 
 

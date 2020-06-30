@@ -5,8 +5,9 @@ Bankas ieejošais maksājums ir dokuments, kas noformē saņemtos naudas
 līdzekļus noteiktā bankas kontā. Bankas ieejošais maksājums ir
 jāveido, kad kontā tiek saņemta nauda no pircējiem vai citi
 ieskaitījumi. Izmantojot sasaisti ar :doc:`Bankas elektronisko
-norēķinu sistēmu<160>`, bankas ieejošos maksājumus var importēt datu
-bāzē. Dokuments tiek saglabāts žurnālā :doc:`Bankas ieņēmumi<226>`.
+norēķinu sistēmu<160>` , bankas ieejošos maksājumus var importēt datu
+bāzē. Dokuments tiek saglabāts žurnālā :doc:`Bankas ieņēmumi<226>` .
+
 
 
 JaunaBankas ieejošā maksājumapievienošana
@@ -14,6 +15,7 @@ JaunaBankas ieejošā maksājumapievienošana
 
 Izvēloties dokumenta veidu Bankas ieejošais maksājums, tiks atvērts
 jauns logs:
+
 
 
 
@@ -72,12 +74,13 @@ personu, no kuras tiek saņemta nauda uzņēmuma bankas kontā:
 
 
 Izvēloties nepieciešamo Pircēju, lauki Nor.konts un R.Nr. tiks
-aizpildīti automātiski no :doc:`Partnera kartiņas<312>`.
+aizpildīti automātiski no :doc:`Partnera kartiņas<312>` .
 
 
 
 5. Laukā Teksts iespējams ievadīt Bankas ieejošā dokumenta
 paskaidrojošo informāciju:
+
 
 
 
@@ -93,7 +96,7 @@ elektronisko norēķinu sistēmas<160>`
 
 
 Ja ieejošie maksājumi tiek importēti no :doc:`Bankas elektronisko
-norēķinu sistēmām<160>`, tad maksājuma mērķis (lauks Teksts ),
+norēķinu sistēmām<160>` , tad maksājuma mērķis (lauks Teksts ),
 partnera (lauks Pircējs )rekvizīti, dokumenta datums (lauks Datums )un
 dokumenta kopējāsumma(lauks Summa ) jau būs ieimportēti.
 
@@ -111,7 +114,8 @@ no kura nauda ir saņemta:
 Ja datu bāzē tiks atrasts Partneris, kura nosaukums sakritīs ar
 importētā dokumenta virsrakstā norādīto nosaukumu, lauki Nor.konts un
 R.Nr. tiks aizpildīti automātiski no atšifrētā:doc:`Partnera
-kartiņas<312>`.
+kartiņas<312>` .
+
 
 
 Bankas ieejošā maksājumaSatura aizpildīšana
@@ -138,17 +142,18 @@ Kad visi nepieciešamie lauki ir aizpildīti, Bankas ieejošais
 maksājumsir sagatavots un to ir iespējams:
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai:doc:`Bankas ieņēmumu žurnālā<226>`.
+apskatei/labošanai/grāmatošanai:doc:`Bankas ieņēmumu žurnālā<226>` .
 
 2. Apstiprināt, nospiežot rīku joslā pogu - Bankas ieejošais
 maksājumstiks Apstiprināts un to būs iespējams Grāmatot.
+
 
 
 Bankas ieejošā maksājumagrāmatošana
 ```````````````````````````````````
 
 Bankas ieejošo maksājumu iespējams grāmatot no atvērta dokumenta vai
-izvēloties (iezīmējot)dokumentu :doc:`Bankas ieņēmumu žurnālā<226>`.
+izvēloties (iezīmējot)dokumentu :doc:`Bankas ieņēmumu žurnālā<226>` .
 
 Lai iegrāmatotu Bankas ieejošo maksājumu, dokumentu nepieciešams
 Apstiprināt, nospiežot rīku joslā pogu .
@@ -161,12 +166,13 @@ pogu .
 Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
 
 
+
 PievienotāBankas ieejošā maksājuma labošana
 ```````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu
 Bankas ieejošais maksājums, kurš pieejams
-apskatei/labošanai:doc:`Bankas ieņēmumu žurnālā<226>`. Lai veiktu
+apskatei/labošanai:doc:`Bankas ieņēmumu žurnālā<226>` . Lai veiktu
 labojumus,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 
@@ -178,6 +184,7 @@ labojumus,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
 
 
 Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+
 
 
 

@@ -24,7 +24,7 @@ Slodzes: Dokumentu žurnālā iespējams atlasīt datus - informāciju par
 Apbalvojumiem,par Aktīvajām vai Neaktīvajām slodzēm;
 
 Veids: Atlasīt datus pēc nepieciešamā :doc:`Citas informācijas
-veida<898>`;
+veida<898>` ;
 
 Datums: Filtrā iespēja atlasīt datus pēc norādītajiem datumiem
 no...līdz.
@@ -35,6 +35,7 @@ Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
 kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
 
 
+
 Citas informācijaspievienošana
 ++++++++++++++++++++++++++++++
 
@@ -42,7 +43,7 @@ Papildus informāciju par strādājošo iespējams izveidot:
 
 
 
-1. :doc:`Strādājošā aprakstā<111>`, sadāļā Personāls - iespēja
+1. :doc:`Strādājošā aprakstā<111>` , sadāļā Personāls - iespēja
 pievienotpapildus(citu)informāciju par strādājošo:
 
 
@@ -55,7 +56,7 @@ joslānospiežot pogu :
 
 
 Izvēloties pievienot Citu informāciju, jāizvēlas attiecīgais
-:doc:`veids<898>`, jāievada Datums un brīvā formā nosaukums:
+:doc:`veids<898>` , jāievada Datums un brīvā formā nosaukums:
 
 
 

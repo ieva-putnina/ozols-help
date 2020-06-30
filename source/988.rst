@@ -13,7 +13,8 @@ papildmērvienībās.
 
 
 
-:doc:` <990>`Atskaites sagatavošana: :doc:`Ievedums–Intrastat–1A<990>`
+:doc:` <990>` Atskaites sagatavošana:
+:doc:`Ievedums–Intrastat–1A<990>`
 
 
 

@@ -35,9 +35,8 @@ CRM (Partneri):
 Uzsākot darbu sistēmā OZOLS, lai būtu iespējams ievadīt saņemtos
 Iepirkumu dokumentus un sagatavot Pārdošanas dokumentus, nepieciešams
 ievadīt biežāk izmantojamo partneru sarakstu, ar iespēju pēc tam šo
-sarakstu papildināt:
-CRM(Partneri)->Saraksti->:doc:`Partneri<112>`->Pievienot->Aizpildīt
-nepieciešamos datus.
+sarakstu papildināt: CRM(Partneri)->Saraksti->:doc:`Partneri<112>`
+->Pievienot->Aizpildīt nepieciešamos datus.
 
 
 Finanses:
@@ -123,7 +122,7 @@ Pamatlīdzekļi->Saraksti->:doc:`Pamatlīdzekļu objekti<202>`
 Avansi
 ``````
 1. Lai nodrošinātu avansu norēķinu uzskaiti, nepieciešams izveidot
-:doc:`Avansu personu saraksts<196>`, partnera aprakstā atzīmējot
+:doc:`Avansu personu saraksts<196>` , partnera aprakstā atzīmējot
 atbilstošo grupu - Avansa persona.
 2. Ja kopīgajos :doc:`Virsgrāmatas<707>` iestādījumos norādītais
 avansu personas grāmatvediskais konts ne visām uzņēmumā esošajām
@@ -139,10 +138,10 @@ Uzsākot darbu, nepieciešams izveidot pamatklasifikatorus, kas tiks
 izmantoti uzņēmuma personāla uzskaitei un algu aprēķiniem:
 
 1. Jāizveido pamatklasifikatori, lai varētu pilnvērtīgi aizpildīt
-strādājošā kartiņu: Personāls->Saraksti->:doc:`Amati<186>`/:doc:`Amatu
-grupas<959>`/:doc:`Atvaļinājumu
-kalendāri<284>`/:doc:`Kalendāri<218>`/:doc:`Personāla
-kategorijas<127>`/:doc:`Slodžu veidi<288>`
+strādājošā kartiņu: Personāls->Saraksti->:doc:`Amati<186>`
+/:doc:`Amatu grupas<959>` /:doc:`Atvaļinājumu kalendāri<284>`
+/:doc:`Kalendāri<218>` /:doc:`Personāla kategorijas<127>`
+/:doc:`Slodžu veidi<288>`
 2. Nepieciešams aizpildīt informāciju par svētku un pārceltajām dienām
 kalendārajā periodā: Personāls->Saraksti->:doc:`Notikumu
 saraksts<217>`

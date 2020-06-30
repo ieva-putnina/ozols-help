@@ -3,16 +3,16 @@
 
 Lai algu aprēķinā tiktu piemērotas pareizas nodokļu likmes, jāpārbauda
 nodokļa aprēķina metožu sarakstu - :doc:`Ienākuma nodokļu
-metodes<222>`un :doc:`Sociālo nodokļu metodes<223>`-pareizība, nodokļu
-dokumentā jāpievieno atbilstoša nodokļu aprēķina metode. Veicot algu
-aprēķinu, jāpārbauda, vai tiek piemērots atbilstošais nodokļu
-dokuments.
+metodes<222>` un :doc:`Sociālo nodokļu metodes<223>` -pareizība,
+nodokļu dokumentā jāpievieno atbilstoša nodokļu aprēķina metode.
+Veicot algu aprēķinu, jāpārbauda, vai tiek piemērots atbilstošais
+nodokļu dokuments.
 
 
 
 Nodokļu dokuments nosaka, kādas nodokļa likmes tiks piemērotas algu
 aprēķinā. Nodokļu dokumentus var pievienot strādājošā
-:doc:`Slodzes<207>`kartiņā caur pogu vai nodokļu dokumentu žurnālā,
+:doc:`Slodzes<207>` kartiņā caur pogu vai nodokļu dokumentu žurnālā,
 nospiežot Rīku joslā pogu :
 
 

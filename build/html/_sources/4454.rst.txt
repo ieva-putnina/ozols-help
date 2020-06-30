@@ -5,7 +5,7 @@ iOzols Noliktavas modulis paredzēts krājumu uzskaitei pa materiāi
 atbildīgajām personām, kur, izmantojot web interfeisu, uzņēmuma
 krājumu materiāli atbildīgajām personām ir iespēja aplūkot uz savu
 vārdu reģistrētus krājumu atlikumus un veikt :doc:`Nomenklatūras
-norakstīšanu<4487>`. Pēc norakstīšanas dokumenta apstiprināšanas, tas
+norakstīšanu<4487>` . Pēc norakstīšanas dokumenta apstiprināšanas, tas
 ir pieejams OZOLS :doc:`Noliktavas<43>` modulī.
 
 

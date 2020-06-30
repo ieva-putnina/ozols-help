@@ -2,7 +2,7 @@
 Atskaite, par budžeta summu pēc dimensijas, tiek sagatvota, ja
 nepieciešams attēlot budžeta sadalījumu pēc dažādiem atlases
 kritērijiem un pēc konkrētas dimensijas. Atskaitē sagatavotā
-informācija tiek ņemta no :doc:`budžeta dokumentiem<5035>`.
+informācija tiek ņemta no :doc:`budžeta dokumentiem<5035>` .
 
 Dimensijas laukā ir jānorāda konkrēta dimensija, pēc kuras tiks
 sagatavota atskaite ar budžeta summām. Lai sagatavotu atskaiti, filtra

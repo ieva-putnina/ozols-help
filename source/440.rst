@@ -6,7 +6,7 @@ nolietojuma (gan finanšu, gan nodokļu vajadzībām) aprēķināšanai.
 Nolietojumu iespējams aprēķināt automatizēti pēc lietotāja atlases
 nosacījumiem izvēlētai pamatlīdzekļu grupai un lietotāja izvēlētam
 periodam. Dokuments pēc saglabāšanas tiek pievienots
-:doc:`Pamatlīdzekļu dokumentu sarakstā<233>`.
+:doc:`Pamatlīdzekļu dokumentu sarakstā<233>` .
 
 
 
@@ -25,7 +25,7 @@ Jāaizpilda dokumenta virsraksta dati:
 
 Numurs - jānorāda pamatlīdzekļa dokumenta numurs. Šis numurs strādājot
 ar sistēmu tiek piešķirts automātiski pēc iebūvētā
-:doc:`numeratora<139>`. Visiem pamatlīdzekļu dokumentiem ir viena
+:doc:`numeratora<139>` . Visiem pamatlīdzekļu dokumentiem ir viena
 numerācija.
 
 Datums - pamatlīdzekļu dokumenta datums.
@@ -57,7 +57,8 @@ obligāti pēc saglabāšanas dokuments ir jāapstiprina ar funkciju .
 
 
 Pēc dokumenta apstiprināšanas Pamatlīdzekļu nolietojumadokuments ir
-:doc:`jānogrāmato<14044>`.
+:doc:`jānogrāmato<14044>` .
+
 
 
 
@@ -71,6 +72,7 @@ Pamatlīdzekļu nolietojuma aprēķināšana
 
 Pamatlīdzekļu nolietojuma dokumentā pamatlīdzekļu nolietojuma
 aprēķinamir 2 metodes.
+
 
 
 
@@ -112,6 +114,8 @@ dokumenta formā ar funkciju .
 Saglabāt - pamatlīdzekļa nolietojuma saglabāšana.
 
 Atcelt - pamatlīdzekļa nolietojuma atcelšana.
+
+
 
 
 

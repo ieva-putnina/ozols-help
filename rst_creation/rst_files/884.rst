@@ -3,7 +3,7 @@
 
 Jauna Potenciālā partnera pievienošana ir iespējama caur Potenciālo
 partneru sadaļu:doc:`Potenciālais partneris<884>` un :doc:`Potenciālo
-partneru sarakstu<842>`.
+partneru sarakstu<842>` .
 
 Lai pievienotu jaunu Potenciālo partneri, rīku joslā jānospiež poga ,
 tiek atvērts partnera datu logs:

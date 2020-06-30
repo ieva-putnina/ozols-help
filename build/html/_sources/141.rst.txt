@@ -10,6 +10,7 @@ elektronisko norēķinu sistēmu izmantošanu. Banku kontu var būt dažādās
 valūtās.
 
 
+
 JaunaBankas kontapievienošana:
 ``````````````````````````````
 
@@ -46,11 +47,12 @@ jāpievieno katrai valūtai atbilstošs ieraksts (bankas konts).
 
 
 
-Lai :doc:`Bankas ieņēmumu<226>`un :doc:`Bankas izdevumu<224>`dokumentu
-grāmatošanas procesu padarītu ērtāku un būtu iespēja grāmatot Bankas
-dokumentus, izmantojot :doc:`Grāmatojumu šablonus<135>`, bankas konta
-aprakstā,sadaļā Dažādi,nepieciešams piesaistīt grāmatvedisko kontu no
-:doc:`Kontu plāna<114>`:
+Lai :doc:`Bankas ieņēmumu<226>` un :doc:`Bankas izdevumu<224>`
+dokumentu grāmatošanas procesu padarītu ērtāku un būtu iespēja
+grāmatot Bankas dokumentus, izmantojot :doc:`Grāmatojumu
+šablonus<135>` , bankas konta aprakstā,sadaļā Dažādi,nepieciešams
+piesaistīt grāmatvedisko kontu no :doc:`Kontu plāna<114>` :
+
 
 
 
@@ -64,9 +66,9 @@ Bankas elektronisko norēķinu sistēmas piesaiste uzņēmuma Bankas kontam
 
 
 
-Lai izmantotu :doc:`Datu apmaiņa ar banku<451>`, pievienotajam Bankas
+Lai izmantotu :doc:`Datu apmaiņa ar banku<451>` , pievienotajam Bankas
 kontam nepieciešams norādīt atbilstošu :doc:`Bankas elektronisko
-norēķinu sistēmu<160>`, izvēloties sistēmu no sarakstā piedāvātajām:
+norēķinu sistēmu<160>` , izvēloties sistēmu no sarakstā piedāvātajām:
 
 
 
@@ -76,6 +78,7 @@ norēķinu sistēmu<160>`, izvēloties sistēmu no sarakstā piedāvātajām:
 
 Kad visi nepieciešamie lauki ir aizpildīti, lai saglabātu jaunu Bankas
 kontu, nepieciešams nospiest pogu .
+
 
 
 Pievienotā Bankas konta labošana:

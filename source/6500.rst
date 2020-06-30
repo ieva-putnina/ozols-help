@@ -1,8 +1,9 @@
-.. 6500 Polises=========== 
+.. 6500 Polises=========== .. role:: raw-html(raw)     :format: html
 
 
 Polišu modulisparedzēts apdrošināšanas brokeru sabiedrībām, kas veic
 vairāku apdrošinātāju polišu pārdošanu.
+
 
 
 Polišu uzskaite nodrošina sekojošu funkcionalitāti:
@@ -12,7 +13,7 @@ Polišu uzskaite nodrošina sekojošu funkcionalitāti:
 + :doc:`Polises<6521>` paraksts (ar lietotāja definējamiem laukiem)
 + Apmaksas grafiks (integrēts grāmatvedības uzskaitē)
 + Faili (attēli vai jebkurš cits fails)
-+ Polišu :doc:`Pielikumi<6518>`/dublikāti
++ Polišu :doc:`Pielikumi<6518>` /dublikāti
 + Brokera, aģentu, starpnieku :doc:`Komisijas aprēķins<6516>`
 + :doc:`Komisijas uzskaite<6516>` starp Brokeri un Apdrošināšanas
   sabiedrībām

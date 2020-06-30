@@ -2,7 +2,7 @@
 
 
 Izmantojot šo darba režīmu, iespējams pievienot jaunu Koeficientu
-esošajam :doc:`Koeficientu<7007>`sarakstam.
+esošajam :doc:`Koeficientu<7007>` sarakstam.
 
 
 

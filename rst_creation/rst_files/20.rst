@@ -2,7 +2,7 @@
 
 
 Izmantojot Avansu dokumentus, iespējams noformēt:doc:`Avansa
-norēķinus<748>`un Avansu norēķiniem piesaistīt naudas attaisnojošos -
-:doc:`Avansa izdevumu dokumentus<747>`.
+norēķinus<748>` un Avansu norēķiniem piesaistīt naudas attaisnojošos -
+:doc:`Avansa izdevumu dokumentus<747>` .
 
  .. toctree::   :maxdepth: 5    914.rst   746.rst   232.rst

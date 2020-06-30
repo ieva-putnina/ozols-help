@@ -1,6 +1,6 @@
 .. 196 Avansu personu saraksts*************************** 
 Avansu personu sarakstā tiek parādītas visi tie partneri, kas ievadīti
-programmā un kuriem :doc:`Partnera<112>`kartiņā norādīta pazīme -
+programmā un kuriem :doc:`Partnera<112>` kartiņā norādīta pazīme -
 Avansu persona:
 
 
@@ -17,6 +17,7 @@ nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus.
 
 Datu atlases kritērijus var saglabāt ( ). Izvēloties izveidoto filtra
 sagatavi ( ), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+
 
 
 Jaunas Avansu personaspievienošana:
@@ -62,7 +63,7 @@ kartiņā nepieciešams atzīmēt pazīmi - Avansu persona:
 Partnera kartiņā, sadaļā Pārējie dati,nepieciešams norādīt Avansu
 norēķina personai piesaistītogrāmatvedisko kontu, ja tas atšķiras no
 kopējos iestādījumos (Konfigurācija->Iestādījumi->
-:doc:`Virsgrāmata<707>`)norādītā Uzņēmuma avansu norēķina personu
+:doc:`Virsgrāmata<707>` )norādītā Uzņēmuma avansu norēķina personu
 konta:
 
 
@@ -73,6 +74,7 @@ konta:
 
 Pēc visu nepieciešamo lauku aizpildīšanas,Avansu personas kartiņatiks
 saglabāts, izpildot komandu .
+
 
 
 PievienotāsAvansu personasapraksta labošana:

@@ -1,4 +1,4 @@
-.. 48 Budžeta izpilde=================== 
+.. 48 Budžeta izpilde=================== .. role:: raw-html(raw)     :format: html
 
 
 Budžeta plānošanas modulis nodrošina izdevumu un ieņēmumu plānošanu,
@@ -11,12 +11,12 @@ Budžeta plānošana nodrošina:
 
 
 + Budžeta noteikšanu noteiktam periodam Uzņēmums savus ienākumus un
-  izdevumus var sadalīt pa :doc:`Finanšu kategorijām<116>`,
-  :doc:`Struktūrvienībām<117>`, :doc:`Projektiem<109>` un
-  :doc:`Nozarēm<165>`. Pievienojot plānus tiek noteikts paredzamais
+  izdevumus var sadalīt pa :doc:`Finanšu kategorijām<116>` ,
+  :doc:`Struktūrvienībām<117>` , :doc:`Projektiem<109>` un
+  :doc:`Nozarēm<165>` . Pievienojot plānus tiek noteikts paredzamais
   ieņēmumu vai izdevumu apjoms noteiktam darbības veidam vai ieņēmumu,
   izdevumu kategorijai.
-+ Plānu izpildes kontroli Atskaite :doc:`Budžeta izpilde<526>`parāda
++ Plānu izpildes kontroli Atskaite :doc:`Budžeta izpilde<526>` parāda
   uzstādīto plānu norādītajā laika periodā, un plāna izpildes summas -
   reālos uzņēmuma ieņēmumus vai izdevumus. Budžeta izpildes atskaiti var
   sagatavot, grupējot datus pa kontiem, finanšu kategorijām,

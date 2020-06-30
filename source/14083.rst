@@ -5,7 +5,7 @@ Lai grāmatošanas process būtu ērts un automatizēts, iepriekš
 nepieciešams izveidot atbilstošu grāmatojumu šablonus Polišu moduļa
 darba režīmiem, balstoties uz Apdrošināšanas veida aprakstā
 norādītajiem grāmatvediskajiem kontiem no uzņēmuma papildinātā
-:doc:`Kontu plāna<114>`.
+:doc:`Kontu plāna<114>` .
 
 
 
@@ -15,6 +15,7 @@ esošajā šablonā no darba režīma:
 
 
 Virsgrāmata->Saraksti->:doc:`Grāmatojumu šabloni<135>`
+
 
 
 Nepieciešamie grāmatojumu šabloni Polišu darba režīmam

@@ -14,8 +14,8 @@ atvēršana<499>`
 
 
 
-3. Avansu izmaksu saraksta aizpildīšana
-no:doc:`Pārskaitījumu<294>`žurnāla
+3. Avansu izmaksu saraksta aizpildīšana no:doc:`Pārskaitījumu<294>`
+žurnāla
 
 
 
@@ -46,12 +46,12 @@ periodā
 
 
 
-10. Algu :doc:`Izmaksu sarakstu<238>`zveidošana
+10. Algu :doc:`Izmaksu sarakstu<238>` zveidošana
 
 
 
 11. Izmaksu sarakstu aizpildīšana no algu aprēķiniem ->
-Alga->Rīki->:doc:`Algu aprēķins<498>`-> Starpību starp aprēķināto un
+Alga->Rīki->:doc:`Algu aprēķins<498>` -> Starpību starp aprēķināto un
 ieturēto palaist uz izmaksu sarakstiem
 
 

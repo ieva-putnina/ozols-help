@@ -1,7 +1,7 @@
 .. 7310 Notikumi************ 
-Notikumu žurnālā tiek saglabāti visi :doc:`pievienotie
-notikumu<7308>`. Notikumu žurnālā ir redzams notikumu sākuma un beigu
-laiki, :doc:`nosaukums<7312>`, :doc:`darbība<7316>`,:doc:`
+Notikumu žurnālā tiek saglabāti visi :doc:`pievienotie notikumu<7308>`
+. Notikumu žurnālā ir redzams notikumu sākuma un beigu laiki,
+:doc:`nosaukums<7312>` , :doc:`darbība<7316>` ,:doc:`
 telpa/vieta<7315>` un notikumu statuss.
 
 
@@ -9,6 +9,6 @@ telpa/vieta<7315>` un notikumu statuss.
 
 
 Aktivizējot pasākuma nosaukumu, iespējams atvērt :doc:`notikuma
-aprakstu<7308>`.
+aprakstu<7308>` .
 
  

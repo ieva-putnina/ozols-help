@@ -1,13 +1,14 @@
-.. 41 Finanses============ 
+.. 41 Finanses============ .. role:: raw-html(raw)     :format: html
 
 
 Finanses nodrošina bankas un kases dokumentu veidošanu un grāmatošanu
 - naudas līdzekļu uzskaiti.
 
-Kopā ar Finansēm var izmantot :doc:`Datu apmaiņu ar banku<451>`.
+Kopā ar Finansēm var izmantot :doc:`Datu apmaiņu ar banku<451>` .
 Sasaiste ar banku elektronisko norēķinu sistēmām nodrošina sagatavoto
 maksājuma uzdevumu eksportu un ieejošo maksājumu apmaiņu starp
 uzņēmuma vadības sistēmu un bankas elektronisko norēķinu sistēmu.
+
 
 
 Finanses nodrošina kases un bankas operāciju uzskaiti:

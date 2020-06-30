@@ -5,7 +5,7 @@
 Sarakstā tiek saglabāti debitoru korespondences komentāri -
 paskaidrojumu teksti, kas tiek izmantoti Debitoru korespondences
 uzturēšanai, izmantojot CRM funkcionalitāti - pievienojot komentārus
-atskaitē :doc:`Pircēju parādi<555>`.
+atskaitē :doc:`Pircēju parādi<555>` .
 
 
 
@@ -42,6 +42,7 @@ Lai veiktu labojumus komentāra ierakstā, to nepieciešams atvērt,
 izmantojot komandu no rīku joslas (Alt+A). Atvērtajā logā iespējams
 mainīt nosaukumu. Pēc labojumu veikšanas, veiktās izmaiņas iespējams
 saglabāt ar komandu no rīku joslas.
+
 
 
 Ieraksta dzēšana

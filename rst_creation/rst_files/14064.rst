@@ -1,7 +1,7 @@
 .. 14064 Klienta programmas versijas atjaunošana******************************************* 
 
 
-Pēc tam kad ir veikta :doc:`Datu bāzes versijas atjaunošana<14066>`,
+Pēc tam kad ir veikta :doc:`Datu bāzes versijas atjaunošana<14066>` ,
 Klienta programmas versija tiek atjaunota automātiski, kur pēc
 programmas startēšanas tiek aktivizēta ekrāna forma:
 

@@ -2,13 +2,15 @@
 Ja saņemto un atpakaļ atgriezto avansu summu uzskaite netiek veikta ar
 kases un bankas dokumentu palīdzību, iespējams izmantot avansa
 dokumenta veidu avansa maksājums. Dokuments tiks saglabāts
-:doc:`Avansu norēķinu<232>`žurnālā.
+:doc:`Avansu norēķinu<232>` žurnālā.
+
 
 
 JaunaAvansu maksājuma pievienošana
 ``````````````````````````````````
 
 Izvēloties dokumenta veidu Avansa maksājums, tiks atvērts jauns logs:
+
 
 
 
@@ -33,7 +35,7 @@ persona, kurai šis Avansa maksājums tiks veikts:
 
 
 
-2. No saraksta izvēlēties nepieciešamo :doc:`Avansu personu<196>`,
+2. No saraksta izvēlēties nepieciešamo :doc:`Avansu personu<196>` ,
 kurai šis dokuments tiks noformēts:
 
 
@@ -51,6 +53,7 @@ kurai šis dokuments tiks noformēts:
 
 
 4.Ievadīt kopējo Avansa pieprasījuma summu:
+
 
 
 
@@ -78,12 +81,13 @@ satura ierakstu iespējams, satura daļā nospiežot pogu .
 
 
 
+
 Pievienotā Avansa maksājuma labošana
 ````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Avansa
 pieprasījumu, kurš pieejams apskatei/labošanai :doc:`Avansu
-norēķinu<232>`žurnālā. Lai veiktu labojumusAvansa
+norēķinu<232>` žurnālā. Lai veiktu labojumusAvansa
 pieprasījumā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 

@@ -3,21 +3,21 @@ Pamatlīdzekļudokumentu žurnālā tiek parādīta informācija par uzņēmuma
 dokumentiem, kuri saistīti ar Pamatlīdzekļiem:
 
 
-+ :doc:`Pamatlīdzekļu atlikumu ievades dokumenti<436>`;
++ :doc:`Pamatlīdzekļu atlikumu ievades dokumenti<436>` ;
 + :doc:`Pamatlīdzekļu derīgās lietošanas termiņa maiņas
-  dokumenti<812>`;
-+ :doc:`Pamatlīdzekļu ienākšanas dokumenti<433>`;
-+ :doc:`Pamatlīdzekļu inventarizācijas dokumenti<462>`;
-+ :doc:`Pamatlīdzekļu likvidācijas vērtības korekcijas
-  dokumenti<442>`;
-+ :doc:`Pamatlīdzekļu nolietojuma dokumenti<440>`;
-+ :doc:`Pamatlīdzekļu norakstīšanas dokumenti<441>`;
-+ :doc:`Pamatlīdzekļu pieņemšanas ekspluatācijā dokumenti<828>`;
-+ :doc:`Pamatlīdzekļu sadales dokumenti<432>`;
-+ :doc:`Pamatlīdzekļu norakstīšanas dokumenti (daļēji)<820>`;
-+ :doc:`Pamatlīdzekļu papildināšanas dokumenti<817>`;
-+ :doc:`Pamatlīdzekļu pārvērtēšanas dokumenti<438>`;
-+ :doc:`Pamatlīdzekļu pārsūtīšanas dokumenti<437>`.
+  dokumenti<812>` ;
++ :doc:`Pamatlīdzekļu ienākšanas dokumenti<433>` ;
++ :doc:`Pamatlīdzekļu inventarizācijas dokumenti<462>` ;
++ :doc:`Pamatlīdzekļu likvidācijas vērtības korekcijas dokumenti<442>`
+  ;
++ :doc:`Pamatlīdzekļu nolietojuma dokumenti<440>` ;
++ :doc:`Pamatlīdzekļu norakstīšanas dokumenti<441>` ;
++ :doc:`Pamatlīdzekļu pieņemšanas ekspluatācijā dokumenti<828>` ;
++ :doc:`Pamatlīdzekļu sadales dokumenti<432>` ;
++ :doc:`Pamatlīdzekļu norakstīšanas dokumenti (daļēji)<820>` ;
++ :doc:`Pamatlīdzekļu papildināšanas dokumenti<817>` ;
++ :doc:`Pamatlīdzekļu pārvērtēšanas dokumenti<438>` ;
++ :doc:`Pamatlīdzekļu pārsūtīšanas dokumenti<437>` .
 
 
 Lai atlasītu precīzāku dokumenta veidu, Rīku joslā jānospiež poga

@@ -1,6 +1,6 @@
 .. 4469 Kampaņa*********** 
-Pievienotās kampaņas tiek saglabātas :doc:`kampaņu žurnālā<4470>`, un
-tiek lietotas :doc:`Kontaktu kampaņu organizātorā<5016>`.
+Pievienotās kampaņas tiek saglabātas :doc:`kampaņu žurnālā<4470>` , un
+tiek lietotas :doc:`Kontaktu kampaņu organizātorā<5016>` .
 
 Jaunas kampaņas pievienošana:
 
@@ -26,11 +26,11 @@ Mērķauditorija: kampaņas mērķauditorija;
 Kampaņas veids: veids no kampaņas veidu saraksta;
 
 Šablons: iespējams pievienot kādu no izveidotajiem
-:doc:`šabloniem<5014>`;
+:doc:`šabloniem<5014>` ;
 
 Kad visi kapmaņas dati aizpildīti, lai saglabātu kampaņu :doc:`kampaņu
-sarakstā<4470>`, jānospiež poga , un lai pievienotu jaunu kampaņu, tad
-jānospiež poga , bet, ja netiks pievienota jauna kampaņa, tad
+sarakstā<4470>` , jānospiež poga , un lai pievienotu jaunu kampaņu,
+tad jānospiež poga , bet, ja netiks pievienota jauna kampaņa, tad
 jānospiež poga . Lai dzēstu kamapņu, jānospiež poga .
 
  

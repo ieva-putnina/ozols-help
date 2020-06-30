@@ -30,10 +30,11 @@ Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
 kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
 
 
+
 Informācijas pievienošana par valodas prasmēm
 +++++++++++++++++++++++++++++++++++++++++++++
 
-1. :doc:`Strādājošā aprakstā<111>`, sadāļā Personāls - iespējams
+1. :doc:`Strādājošā aprakstā<111>` , sadāļā Personāls - iespējams
 pievienot informāciju par strādājošā valodas prasmēm:
 
 

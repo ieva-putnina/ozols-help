@@ -11,6 +11,7 @@ neierobežoti plašu un hierarhisku. Hierarhiskais grupu saraksts
 nodrošina datu grupēšanu uz augstākajiem grupu saraksta līmeņiem.
 
 
+
 Jaunas nomenklatūras grupas pievienošana
 ````````````````````````````````````````
 

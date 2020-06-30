@@ -9,7 +9,7 @@ esošās biļetes jāpievieno:doc:`Kultūras un citu pasākumu ieejas biļešu
 
 
 Lai pārdotās biļetes piesaistītu kases ieņēmumu orderim, nepieciešams
-izveidot Kases ieņēmumu dokumentu, :doc:`Kases ieņēmumu<227>`žurnālā
+izveidot Kases ieņēmumu dokumentu, :doc:`Kases ieņēmumu<227>` žurnālā
 izmantojot rīku joslas pogu: , tiks atvērts kases ieņēmumu orderis,
 kur nepieciešams aizpildīt:
 
@@ -17,7 +17,7 @@ kur nepieciešams aizpildīt:
 
 1. Dokumenta Virsrakstu:
 Kase: Nepieciešams no saraksta izvēlēties pievienotouzņēmuma
-:doc:`Kasi<123>`, kurā nauda tiek saņemta
+:doc:`Kasi<123>` , kurā nauda tiek saņemta
 
 Datums: Operācijas veikšanas datums
 
@@ -44,7 +44,7 @@ atbilstošās dimensiju un summu sadalījumu
 biļetes iespējams piesaisīt kases ieņēmumu orderim, dokumenta apakšējā
 daļā,nospiežot uz pogas -> Tiks atvērts jauns logs, kurā iespējams
 pievienot biļetes no :doc:`Kultūras un citu pasākumu ieejas biļešu
-žurnālā<252>`pievienotajām:
+žurnālā<252>` pievienotajām:
 
 
 

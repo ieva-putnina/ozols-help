@@ -25,11 +25,11 @@ saturā);
 **Mērvienība: **uzrēķina mērvienība;
 **Fin.kat.:** ja uzņēmuma finanšu uzskaitē tiek izmantotas
 :doc:`Dimensijas<701>` (piemēram, dimensija - :doc:`Finanšu
-kategorija<116>`), tad iespējams piesaistīt uzrēķinam konkrētu
+kategorija<116>` ), tad iespējams piesaistīt uzrēķinam konkrētu
 :doc:`Finanšu kategorija<116>` no klasifikatora, vai arī atstāt
 noklusēto iestādījumu [grupas] - šajā gadījumā fin.kat.tiks
 piesaistīta tāda, kāda definēta uzrēķinam piesaistītajai
-:doc:`Grupai<148>`.
+:doc:`Grupai<148>` .
 
 Pēc datu aizpildīšanas, uzrēķina aprakstu iespējams vai .
 

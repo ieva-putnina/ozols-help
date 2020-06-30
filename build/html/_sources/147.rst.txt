@@ -3,8 +3,9 @@
 
 Bankas paskaidrojumi ir saraksts, kurā tiek saglabāti biežāk
 izmantotie maksājuma mērķu teksti :doc:`Bankas maksājuma
-uzdevumos<347>`. Paskaidrojumu saraksta dati tiek izmantoti maksājuma
+uzdevumos<347>` . Paskaidrojumu saraksta dati tiek izmantoti maksājuma
 uzdevuma lauka Mērķis automatizētai aizpildīšanai.
+
 
 
 
@@ -21,6 +22,7 @@ tiks atvērts jauns logs:
 
 Laukā Nosaukums, nepieciešams ierakstīt Bankas paskaidrojuma
 nosaukumu. Ieraksts tiks saglabāts, izpildot komandu .
+
 
 
 Pievienotā Bankaspaskaidrojumu sarakstalabošana:

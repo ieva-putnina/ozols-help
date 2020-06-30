@@ -5,10 +5,11 @@ Sarakstā tiek saglabāti akciju veidi, kas tiek izmantoti jaunu Akciju
 pievienošanai
 
 
+
 Jauna Akciju veida pievienošana:
 ++++++++++++++++++++++++++++++++
 
-Lai pievienotu jaunu :doc:`Akciju veidu<7006>`rīku joslā jānospiež
+Lai pievienotu jaunu :doc:`Akciju veidu<7006>` rīku joslā jānospiež
 poga un tiks atvērts jauns logs:
 
 
@@ -32,6 +33,7 @@ faktisko vērtību:
 
 
 Ieraksts tiks saglabāts, izpildot komandu .
+
 
 
 Pievienotā Akcijas veida labošana:

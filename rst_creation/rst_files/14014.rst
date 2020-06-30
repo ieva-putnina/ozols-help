@@ -33,6 +33,7 @@ atcelšanas datums, laiks un operators tiek ierakstīti īpašā sistēmas
 žurnālā.
 
 
+
 Anulētie dokumenti
 ++++++++++++++++++
 
@@ -58,12 +59,14 @@ datums, laiks un operators tiek ierakstīti īpašā sistēmas žurnālā.
 
 
 
+
 Anulēto dokumentu parādīšana dokumentu žurnālos
 +++++++++++++++++++++++++++++++++++++++++++++++
 
 Standartā anulētie dokumenti dokumentu žurnālos parādīti netiek. Lai
 dokumentu žurnālos tiktu parādīti arī anulētie dokumenti, jāizsauc
 dokumentu žurnāla filtrs ( ). Filtrā jāaktivizē izvēle:
+
 
 
 
@@ -143,6 +146,7 @@ Ekrāna formas aizvēršana
 
 
 
+
 Ekrāna formu izmēri
 +++++++++++++++++++
 
@@ -181,6 +185,7 @@ izmantojot galveno izvēlni
 
 
 >Logs > Sakārtot visus
+
 
 
 
@@ -238,6 +243,7 @@ Page down - pārvietoties ar kursoru virzienā uz leju
 
 
 
+
 Darba režīmu skati
 ++++++++++++++++++
 
@@ -275,6 +281,7 @@ formātu, iespējams datus nokopēt, iezīmējot datus un izmantojot CTRL+C
 un CTRL+V komandas. Līdz ar to informāciju var pārkopēt Word, Excel
 formātā vai nosūtīt pa e-pastu. Lai drukātu no HTML izdrukas formas,
 nepieciešama Internet Explorer 6. versija.
+
 
 
 
@@ -319,6 +326,7 @@ Aktīva izvēles rūtiņa Drošības jautājumi nodrošina drošības jautājumu
 uzdošanu darba laikā.
 
 
+
 Drošības jautājumi
 ++++++++++++++++++
 
@@ -360,6 +368,7 @@ komandas aktivizēšanu.
 
 
 
+
 Datu meklēšana
 ++++++++++++++
 
@@ -382,6 +391,7 @@ satura.
 Meklēšanas ekrāna formā jāievada meklēšanas kritērijs, jānorāda
 meklēšanas parametri, jāspiež komandpoga Meklēt vai taustiņš Enter, un
 kursors ekrāna formā nostāsies uz meklētā ieraksta.
+
 
 
 
@@ -425,6 +435,7 @@ un jālieto komanda Uzstādīt.
 Ja dati ir filtrēti, ekrāna formas apakšā parādās atfiltrēto dokumentu
 ierakstu daudzums, bet iekavās kopējais ierakstu skaits. Lai dokumentu
 žurnālā tiktu parādīti visi ieraksti, filtrs jānoņem.
+
 
 
 Saglabājamie filtra iestādījumi
@@ -475,6 +486,7 @@ filtra ekrāna formas atvēršanas.
 
 
 
+
 Nākamā dokumenta pievienošana
 +++++++++++++++++++++++++++++
 
@@ -494,6 +506,7 @@ Komandpogu Sagl&Piev. pievienošanu var aktivizēt, pielāgojot rīku
 joslu. Komanda Sagl.&Piev. (Karstais taustiņš F12 ) nodrošina jauna
 dokumenta pievienošanas ekrāna formas automātisku parādīšanu pēc
 iepriekšējā dokumenta pievienošanas un saglabāšanas.
+
 
 
 
@@ -536,6 +549,7 @@ Kolonnu iestādījumi tiek saglabāti katram lietotājam atsevišķi. Lai
 izdrukātu datus ar iestādītajām kolonām jālieto HTML izdruka. Iebūvētā
 izdrukas formā, kuru izmanto lietojot komandu Drukāt, tiks drukātas
 Standarta datu kolonnas.
+
 
 
 Dokumentu numerācija

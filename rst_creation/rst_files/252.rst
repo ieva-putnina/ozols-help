@@ -6,6 +6,7 @@ Uzņēmuma rīcībā esošās biļetes jāpievienoKultūras un citu pasākumu
 ieejas biļešužurnālā.
 
 
+
 Kultūras un citu pasākumu ieejas biļešupievienošana datu bāzei
 ``````````````````````````````````````````````````````````````
 
@@ -40,6 +41,7 @@ Struktūrvienība - iespēja norādīt struktūrvienību, kura šo kvīšu
 grāmatiņu pieņem uzskaitē.
 
 
+
 Kultūras un citu pasākumu ieejas biļešužurnālā pieejamās funkcijas
 ``````````````````````````````````````````````````````````````````
 
@@ -54,6 +56,7 @@ funkcijas:
 1)Ieejas biļešugrāmatiņupakas pievienošanas funkcija;
 2) Naudas ieņēmumu dokumenta atvēršana, kuram piesaistītas ieejas
 biļetes;
+
 
 
 1) Pievienot dokumentu paku
@@ -92,10 +95,11 @@ turpināta pārējo grāmatiņu secīga numerācija pēc kārtas.
 
 Pēc visu nepieciešamo lauku aizpildīšanasnospiežot pogu -dokuments
 tiks saglabāts un būs pieejams apskatei/labošanai :doc:`Kultūras un
-citu pasākumu ieejas biļešu žurnālā<252>`.
+citu pasākumu ieejas biļešu žurnālā<252>` .
 
 Nospiežot pogu , darbība tiks atcelta unieejas biļetes netiks
 pievienotas datu bāzei.
+
 
 
 
@@ -105,7 +109,7 @@ pievienotas datu bāzei.
 
 IzvēlotiesKultūras un citu pasākumu ieejas biļešužurnālāpieejamo
 funkciju , iespēja atvērt Ieņēmumu dokumentu - :doc:`Kases ieņēmumu
-orderi<350>`, kuram izvēlētās ieejas biļetes ir piesaistītas:
+orderi<350>` , kuram izvēlētās ieejas biļetes ir piesaistītas:
 
 
 
@@ -117,12 +121,13 @@ Instrukcija: :doc:`Kultūras un citu ieejas biļešu piesaistīšana kases
 ieņēmumu orderim<14112>`
 
 
+
 Pievienoto Kultūras un citu pasākumu ieejas biļešu labošana
 ```````````````````````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverotIeejas biļetes
 aprakstu, kurš pieejams apskatei/labošanai :doc:`Kultūras un citu
-pasākumu ieejas biļešu žurnālā<252>`. Lai labotu pievienoto ierakstu,
+pasākumu ieejas biļešu žurnālā<252>` . Lai labotu pievienoto ierakstu,
 Kultūras un citu pasākumu ieejas biļešu žurnālā jāizmanto komandpoga
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus.
 
@@ -131,6 +136,6 @@ Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
 
 
 Kultūras un citu pasākumu ieejas biļešužurnālā pievieontās ieejas
-biļetes iespējams piesaistīt :doc:`Kases ieņēmumu orderim<350>`.
+biļetes iespējams piesaistīt :doc:`Kases ieņēmumu orderim<350>` .
 
  

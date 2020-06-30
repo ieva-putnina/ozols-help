@@ -51,6 +51,6 @@ akcijas turētāja:
 
 
 Saglabātie ieraksti - pievienotās Akcijas, būs pieejams
-apskatei/labošanai :doc:`Akciju žurnālā<7009>`.
+apskatei/labošanai :doc:`Akciju žurnālā<7009>` .
 
  

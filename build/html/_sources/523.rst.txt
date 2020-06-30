@@ -9,7 +9,7 @@ sarēķināts datu atlases filtrā norādītā konta debeta vai kredīta
 sākuma un beigu atlikums.
 
 Iezīmējot korespondējošo kontu ierakstus, no atskaites var atvērt
-:doc:`Operāciju pārskatu<521>`.
+:doc:`Operāciju pārskatu<521>` .
 
 
 

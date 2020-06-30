@@ -3,7 +3,7 @@
 
 Algu aprēķinu moduļu sarakstā tiek veidoti algu aprēķinu moduļi, kas
 tiek izmantotialgu konfigurācijā :doc:`Ieejošo kodu
-konfigurācijā<282>`un :doc:`Rezultējošo kodu konfigurācijā<283>`.
+konfigurācijā<282>` un :doc:`Rezultējošo kodu konfigurācijā<283>` .
 Aprēķinot algas pietiek ar vienu algu aprēķina moduli. Otrs aprēķinu
 modulis jāveido, ja uzņēmumā būtiski mainās algu aprēķinu politika un
 algoritms.

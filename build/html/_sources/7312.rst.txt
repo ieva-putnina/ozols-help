@@ -2,7 +2,7 @@
 Pasākumu sarakstā tiek saglabāti visi :doc:`pievienotie
 pasākuma<7303>` nosaukumi. Aktivizējot konkrētu pasākuma nosaukumu,
 tiek atvērts :doc:`pasākuma ierakst<7303>` un ar to saistīto
-:doc:`notikumu pārskats<7308>`:
+:doc:`notikumu pārskats<7308>` :
 
 
 

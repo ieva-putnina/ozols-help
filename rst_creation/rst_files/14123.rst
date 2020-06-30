@@ -2,7 +2,7 @@
 
 
 Operāciju kontu slēgšanu sistēmā iiespējams organizēt, izmantojot
-Virsgrāmatas atskaiti: :doc:`Konta atlikumi<665>`.
+Virsgrāmatas atskaiti: :doc:`Konta atlikumi<665>` .
 
 
 

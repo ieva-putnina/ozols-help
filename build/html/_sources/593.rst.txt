@@ -6,7 +6,7 @@ strādājošajam dienu un summu veidā.
 
 1. Lai atskaite tiktu sagatavota pareizi, programmā jāveic precīza
 atvaļinājumu datu uzskaite. Uzsākot darbu ar programmu strādājošā
-:doc:`Slodzei<207>`norāda neizmantoto atvaļinājumu dienu skaitu uz
+:doc:`Slodzei<207>` norāda neizmantoto atvaļinājumu dienu skaitu uz
 konkrētu datumu:
 
 
@@ -16,9 +16,9 @@ konkrētu datumu:
 
 
 2. Programmā jābūt uzkrātiem datiem par nepieciešamajiem iepriekšējiem
-periodiem vidējās izpeļņas aprēķināšanai, :doc:`Slodzes
-aprakstā<207>`jābūt noteiktam :doc:`Atvaļinājumu kalendāram<284>`un
-tajā – atvaļinājumu dienu skaitam:
+periodiem vidējās izpeļņas aprēķināšanai, :doc:`Slodzes aprakstā<207>`
+jābūt noteiktam :doc:`Atvaļinājumu kalendāram<284>` un tajā –
+atvaļinājumu dienu skaitam:
 
 
 

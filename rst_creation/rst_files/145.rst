@@ -12,6 +12,6 @@ dimensijām un analītiku - partneriem:
 
 
 Kontu atlikumu kopsavilkuma saraksts ir informatīvs, atlikumi ir
-jāpievieno no saraksta :doc:`Kontu atlikumi<146>`.
+jāpievieno no saraksta :doc:`Kontu atlikumi<146>` .
 
  

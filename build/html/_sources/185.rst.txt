@@ -1,6 +1,6 @@
 .. 185 Atlaižu grupas****************** 
 Sarakstā tiek saglabātas atlaižu grupas, kas tiek izmantotas norēķinu
-dokumentos un piešķirtas konkrētiem partneriem:doc:`<106>`. Iespējams
+dokumentos un piešķirtas konkrētiem partneriem:doc:`<106>` . Iespējams
 izveidot neierobežotu daudzumu atlaižu grupas, kurus iespējams
 piesaistīt partneriem, norādot atbilstošo noklusēto atlaižu grupu
 :doc:`Partnera apraksta<312>` sadaļā "Pārējie dati", lai tādā veidā

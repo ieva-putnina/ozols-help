@@ -2,13 +2,14 @@
 
 
 Peļņas vai zaudējumu aprēķins ir saglabājams atskaišu
-:doc:`Sarakstā<531>`. Atskaites sastādīšanu nosaka konfigurācijas
+:doc:`Sarakstā<531>` . Atskaites sastādīšanu nosaka konfigurācijas
 iestādījumi.
 
 
 
 Lai būtu iespējams sagatavot Peļņas vai zaudējumu aprēķinu,iepriekš
-jābūt izveidotai :doc:`Grāmatojumu atskaišu konfigurācijai<179>`.
+jābūt izveidotai :doc:`Grāmatojumu atskaišu konfigurācijai<179>` .
+
 
 
 Peļņas vai zaudējumu aprēķinasagatavošana
@@ -27,7 +28,7 @@ kādiem atskaite tiks sagatavota:
 
 
 2. Nepieciešams norādīt attiecīgo profilu - :doc:`atskaites
-konfigurāciju<179>`, pēc kādiem konfigurācijas datiem atskaite tiks
+konfigurāciju<179>` , pēc kādiem konfigurācijas datiem atskaite tiks
 sagatavota:
 
 
@@ -94,12 +95,12 @@ formu, to var papildināt neaizverot atskaiti.
 
 
 8. Ja pēc atskaites sagatavošanas veiktas izmaiņas :doc:`atskaites
-konfigurācijā<179>`, atskaiti pēc izmanītās konfigurācijas datiem var
+konfigurācijā<179>` , atskaiti pēc izmanītās konfigurācijas datiem var
 pārrēķināt, nospiežot pogu: . Pārrēķinot atskaiti, tajā tiek parādīti
 jaunākie dati.
 
 9. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
-sarakstā<531>`, kur tā būs pieejama labošanai/drukāšanai, nospiežot
+sarakstā<531>` , kur tā būs pieejama labošanai/drukāšanai, nospiežot
 pogu: .
 
 

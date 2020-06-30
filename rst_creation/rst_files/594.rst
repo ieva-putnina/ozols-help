@@ -9,6 +9,7 @@ izlietojuma uzskaite pēc sērijām un numuriem katrā izveidotajā
 pārdošanas dokumentā – pavadzīmē.
 
 
+
 Pārskata parpavadzīmju numuru izlietojumusagatavošana
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -67,7 +68,7 @@ sagatavota tukša!):
 
 
 7. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
-sarakstā<531>`, kur tā būs pieejama labošanai/drukāšanai, nospiežot
+sarakstā<531>` , kur tā būs pieejama labošanai/drukāšanai, nospiežot
 pogu: .
 
 

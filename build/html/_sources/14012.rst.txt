@@ -42,6 +42,7 @@ vadības loga kreisajā malā. Vadības loga labajā malā tiks parādītas
 attiecīgās sadaļas komandpogas žurnālu vai darba režīmu aktivizēšanai.
 
 
+
 Lietotāju licenču, komponentu un uzņēmumu izmantošana
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -49,6 +50,7 @@ Vienlaicīgs lietotāju pieslēgums katram no komponentiem tiek
 ierobežots ar iegādāto licenču skaitu. Lietotājs var izmantot dažādu
 uzņēmumu datus. Uzņēmumu un komponentu datu lietošanu jānosaka sākot
 darbu ar sistēmu.
+
 
 
 
@@ -102,6 +104,7 @@ varēs tam uzņēmumam, kas uzsākot darbu norādīts laukā Uzņēmums.
 
 
 
+
 Uzņēmuma maiņa
 ++++++++++++++
 
@@ -122,6 +125,7 @@ Uzņēmums un var izmantot iespēju parādīt visu uzņēmumu datus kopā,
 aktivizējot komandu Rādīt sarakstos visus pieejamos uzņēmumus.
 
 
+
 Izmantoto komponentu licence
 ++++++++++++++++++++++++++++
 
@@ -133,6 +137,7 @@ attēloti programmā pieejamo komponentu saraksts:
 + Izmantoto licenču skaits;
 + Licenču bilance;
 + Lietotāji kuri ir reģistrējušies sistēmā.
+
 
 
 

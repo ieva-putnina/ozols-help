@@ -2,7 +2,7 @@
 
 
 Jauna Partnera pievienošana ir iespējama caur Partneru sadaļu
-:doc:`Jauns Partneris<312>` un :doc:`Partneru sarakstu<112>`.
+:doc:`Jauns Partneris<312>` un :doc:`Partneru sarakstu<112>` .
 
 Lai pievienotu jaunu Partneri, rīku joslā jānospiež poga , tiek
 atvērts partnera datu logs:
@@ -41,7 +41,7 @@ caur [Atvērt kontaktpersonas aprakstu]:
 
 
 
-Arī :doc:`adreses <192>`ir iespējams norādīt vairākas:
+Arī :doc:`adreses <192>` ir iespējams norādīt vairākas:
 
 
 
@@ -86,7 +86,7 @@ norādīti uzņēmumi uz kuru konkrētais strādājošā bankas konts attiecas.
 lietotājiem nebūs pieejami.
 
 Caur pogu ir redzams partnera pievienoto :doc:`kontaktpersonu
-saraksts<189>`, un rīku joslā ar pogu tiek pievienota jauna
+saraksts<189>` , un rīku joslā ar pogu tiek pievienota jauna
 kontaktpersona.
 
 
@@ -101,7 +101,7 @@ pieejamas.
 
 
 Caur pogu un tad pogu rīku joslā tiek pievienotas :doc:`maksājumu
-kartes<651>`.
+kartes<651>` .
 
 
 
@@ -118,8 +118,8 @@ kartītes datu pievienošanai:
 
 
 Personas kartītē var pievienot datus par ģimenes sastāvu, :doc:`valodu
-prasmi<761>`, :doc:`karjeru<762>`, :doc:`izglītību<763>`,
-apbalvojumiem un sodiem, kā arī :doc:`citu informāciju<765>`.
+prasmi<761>` , :doc:`karjeru<762>` , :doc:`izglītību<763>` ,
+apbalvojumiem un sodiem, kā arī :doc:`citu informāciju<765>` .
 Lai labotu ierakstu, divreiz jāuzklikšķina uz rindas, kuru jālabo.
 
 
@@ -136,13 +136,13 @@ Tiek noteikts partnera statuss, institucionālo :doc:`sektoru<810>`
 klasifikācija.
 
 Mūsu konts : uzņēmuma konts, kurš piesaistīts partnerim un parādīsies
-:doc:`norēķinu dokumentos<22>`;
+:doc:`norēķinu dokumentos<22>` ;
 
 Apmaksas veids: partnerim kā pircējam tiek nodefinēts apmaksas
 termiņš;
 
 Koresp. e-pasts: jānorāda e-pasta adrese uz kuru tiks sūtīti dažādi
-:doc:`norēķinu dokumenti<204>`.
+:doc:`norēķinu dokumenti<204>` .
 
 
 
@@ -162,7 +162,7 @@ Ja partneris ir Piegādātājs, Pircējs vai Avansu personas grupā:
 
 Tad attiecīgi katrai partnera grupai tiek piesaistīts grāmatvediskais
 konts - vai nu Noklusētais no Kopīgajiem :doc:`Virsgrāmatas
-iestādījumiem<707>`vai arī iespējams izvēlētajam partnerim norādīt
+iestādījumiem<707>` vai arī iespējams izvēlētajam partnerim norādīt
 individuālu - Piegādātāja, Pircēja un Av.pers. grāmatvedisko kontu no
 kontu plāna.
 

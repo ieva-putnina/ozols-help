@@ -18,7 +18,7 @@ pieprasījumu izskatīšanu:
 
 
 Pieprasījuma dokuments ir iesniegts :doc:`budžeta pieprasījumu
-izskatīšanai<5041>`.
+izskatīšanai<5041>` .
 
 
 

@@ -1,9 +1,9 @@
 .. 7002 =============Dokumenti============= 
 
 
-Izmantojot Dividenžu dokumentus, iespējams :doc:`Akciju
-žurnālā<7009>`pievienot neierobežotu daudzumu akciju, norādot akcijas
-turētāju (:doc:`Partneri<112>`), :doc:`Akciju veidu<7006>`, skaitu un
+Izmantojot Dividenžu dokumentus, iespējams :doc:`Akciju žurnālā<7009>`
+pievienot neierobežotu daudzumu akciju, norādot akcijas turētāju
+(:doc:`Partneri<112>` ), :doc:`Akciju veidu<7006>` , skaitu un
 darbības periodu.
 
  .. toctree::   :maxdepth: 5    7009.rst

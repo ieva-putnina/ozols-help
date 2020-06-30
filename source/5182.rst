@@ -105,6 +105,7 @@ efektivitāte -> Obligāti aizpildāms lauks, kur brīvā formā
 nepieciešams ievadi informāciju.
 
 
+
 2. Novērtēšanas anketas saglabāšana, apstiprināšana un izdruka
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 

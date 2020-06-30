@@ -5,14 +5,14 @@ struktūrvienībai, tādejādi nodrošinot algu datu sadalījumu pa uzņēmuma
 struktūrvienībām.
 
 
-Slodzē tiek saglabāta informācija par strādājošā :doc:`Amatu<186>`,
-:doc:`Profesijas kodu<128>`. Darba laika uzskaitei jānorāda
+Slodzē tiek saglabāta informācija par strādājošā :doc:`Amatu<186>` ,
+:doc:`Profesijas kodu<128>` . Darba laika uzskaitei jānorāda
 izmantojamais kalendārs. Standarta :doc:`kalendārs<218>` ir
 konfigurējams, kur var noteikt, ka piemēram, pilns darba laiks ir 5
 darba dienas nedēļā, 8 stundas dienā.
 No strādājošā slodzes var atvērt strādājošajam izveidotos
-:doc:`Nodokļu dokumentus<208>`, :doc:`rīkojumus<209>`, :doc:`algu
-aprēķinu<212>` un :doc:`kalendāru<218>`. Lai atvērtu strādājošā
+:doc:`Nodokļu dokumentus<208>` , :doc:`rīkojumus<209>` , :doc:`algu
+aprēķinu<212>` un :doc:`kalendāru<218>` . Lai atvērtu strādājošā
 slodzi, jāizvēlas strādājošais un rīku joslā jānospiež poga .
 
 Slodzes var pievienot rīku joslā nospiežot pogu un izvēloties
@@ -26,33 +26,33 @@ strādājošo, vai :doc:`strādājošā<111>` aprakstā caur pogu :
 
 Slodze uz: datums;
 
-Persona: :doc:`strādājošais<111>`;
+Persona: :doc:`strādājošais<111>` ;
 
 Uzņēmums: ja ir vairāki uzņēmumi, tad jānorāda to, kurā strādā šis
 strādājošais;
 
 Pieņemts darbā_ ar rīkojumu: datums, kurā strādājošais tiek pieņemts
-darbā, un :doc:`rīkojums<209>`;
+darbā, un :doc:`rīkojums<209>` ;
 
 Struktūrv.: struktūrvienība, kurā strādā šis strādājošais;
 
 Amats: strādājošā amats;
 
-Slodzes veids: slodzes veids no :doc:`slodžu saraksta<288>`;
+Slodzes veids: slodzes veids no :doc:`slodžu saraksta<288>` ;
 
-Pers.kategorija: :doc:`personāla kategorija<127>`no saraksta;
+Pers.kategorija: :doc:`personāla kategorija<127>` no saraksta;
 
 Kalendārs: :doc:`kalendārs<218>` no saraksta;
 
 Atvaļin.kalendārs: :doc:`atvaļinājuma kalendārs<284>` no saraksta;
 
 Neizm. atv.dienas: neizmantotās atvaļinājuma dienas( tiek lietotas
-:doc:`atvaļinājuma rezerves aprēķinā<593>`);
+:doc:`atvaļinājuma rezerves aprēķinā<593>` );
 
 Nodokļu dok.: strādājošā nodokļu dokuments;
 
 Nodokļu dokumentu jāpievieno obligāti, pretējā gadījumā nebūs
-iespējams veikt :doc:`algas aprēķinu<212>`.
+iespējams veikt :doc:`algas aprēķinu<212>` .
 
 Stājas spēkā: no kura datuma stājas spēka;
 
@@ -61,7 +61,7 @@ Atlaists_ ar rīkojumu: atlaišanas datums un rīkojums.
 
 
 Caur pogu tiek pievienoti vai atvērti rīkojumi. Rīkojumui tiek
-saglabāti:doc:` rīkojumu žurnālā<209>`. Rikojums obligāti
+saglabāti:doc:` rīkojumu žurnālā<209>` . Rikojums obligāti
 jāapstiprina.
 
 
@@ -78,7 +78,7 @@ nodokļu dokumentu, ir iespējams izvēlēties tā veidu:
 Caur pogu tiek pievienoti vai atvērti darba līgumi. Lai pievienotu
 līgumu, rīku joslā jānospiež poga , jāaizpilda saturs un jāsaglabā
 līgums, nospiežot pogu . Visi pievienotie darba līgumi tiek saglabāti
-:doc:`darba līgumu žurnālā<251>`.
+:doc:`darba līgumu žurnālā<251>` .
 
 Caur pogu iespējams atvērt vai pievienot algu tarifikāciju.
 

@@ -13,19 +13,19 @@ joslas (Alt+P) un tiks atvērts jauns logs:
 
 
 **Cenošanas.dok.:** lauks netiks aizpildīts, ja ieraksts būs
-pievienots manuāli nevis no :doc:`Cenošanas dokumenta<374>`;
-**Noliktava:** :doc:`Noliktava<142>`, uz kuru izveidotā cena būs
+pievienots manuāli nevis no :doc:`Cenošanas dokumenta<374>` ;
+**Noliktava:** :doc:`Noliktava<142>` , uz kuru izveidotā cena būs
 spēkā;
-**Veids:** :doc:`Cenas veids<105>`, kuru iespējams piesaistīt
+**Veids:** :doc:`Cenas veids<105>` , kuru iespējams piesaistīt
 konkrētam partnerim, norādot to :doc:`Partnera<312>` aprakstā;
 **Datums:** datums, no kura šī izveidotā cena būs spēkā;
-**Prece:** no saraksta iespējams izvēlēties :doc:`Nomenklatūru<106>`,
+**Prece:** no saraksta iespējams izvēlēties :doc:`Nomenklatūru<106>` ,
 kurai cena tiek noteikta;
 **Cena p.v.bez PVN: **nepieciešams ievadīt cenu veidam atbilstošo cenu
 pamatvalūtā bez PVN
 **Cena p.v.ar PVN:** automātiski tiek noteikta cena ar PVN
 pamatvalūtā, balstoties uz cenu bez PVN un noteiktu PVN likmi
-:doc:`Grupai<148>`, kurā atrodas šī prece, kas tiek cenota.
+:doc:`Grupai<148>` , kurā atrodas šī prece, kas tiek cenota.
 **Piezīmes:** brīvā formā iespējams ievadīt piezīmes par attiecīgo
 ierakstu.
 Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu no rīku

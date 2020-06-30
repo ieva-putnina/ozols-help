@@ -39,6 +39,7 @@ labojumu veikšanas, veiktās izmaiņas iespējams saglabāt ar komandu no
 rīku joslas.
 
 
+
 Ieraksta dzēšana
 ````````````````
 

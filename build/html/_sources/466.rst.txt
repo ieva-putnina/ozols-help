@@ -3,11 +3,12 @@
 
 Bankas komisija ir bankas izdevumu dokumenta veids, kas noformē bankas
 atskaitījumus par bankas pakalpojumiem. Atšķirībā no :doc:`Bankas
-maksājuma uzdevuma<347>`, bankas komisijas dokumentā ir jāpievieno
-mazāk informācijas, un, izmantojot :doc:`Datu apmaiņa ar banku<451>`,
+maksājuma uzdevuma<347>` , bankas komisijas dokumentā ir jāpievieno
+mazāk informācijas, un, izmantojot :doc:`Datu apmaiņa ar banku<451>` ,
 tos kopā ar ieejošajiem maksājumiem var importēt datu bāzē. Bankas
-komisijas dokuments tiek saglabāts žurnālā :doc:`Bankas
-izdevumi<224>`.
+komisijas dokuments tiek saglabāts žurnālā :doc:`Bankas izdevumi<224>`
+.
+
 
 
 Jauna Bankas komisijas dokumenta pievienošana
@@ -21,6 +22,7 @@ un kā partneris tiek parādīts bankas konts.
 
 
 Izvēloties dokumenta veidu Bankaskomisija tiks atvērts jauns logs:
+
 
 
 
@@ -64,6 +66,7 @@ kopējo Dokumenta summu:
 
 
 
+
 Bankas komisijas dokumenta Satura aizpildīšana
 ++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -85,6 +88,7 @@ satura ierakstu iespējams, satura daļā nospiežot pogu .
 
 
 
+
 Bankas komisijasdokumenta Mērķa aizpildīšana
 ++++++++++++++++++++++++++++++++++++++++++++
 
@@ -93,7 +97,7 @@ Maksājuma dokumentu lauki Mērķis un Saturs tiek drukāti maksājuma
 uzdevuma rindā Maksājuma mērķis.
 
 Lauku Bankaskomisijas Mērķis, iespējams aizpildīt manuāli vai
-izvēloties no :doc:`Bankas paskaidrojumu saraksta<147>`:
+izvēloties no :doc:`Bankas paskaidrojumu saraksta<147>` :
 
 
 
@@ -107,10 +111,12 @@ Kad visi nepieciešamie lauki ir aizpildīti, Bankaskomisijas
 dokumentsir sagatavots un to ir iespējams:
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai :doc:` Bankas izdevumu žurnālā <224>`.
+apskatei/labošanai/grāmatošanai :doc:` Bankas izdevumu žurnālā <224>`
+.
 
 2. Apstiprināt, nospiežot rīku joslā pogu - Bankaskomisijas dokuments
 tiks Apstiprināts un to būs iespējams Grāmatot.
+
 
 
 Bankaskomisijas dokumenta grāmatošana
@@ -118,7 +124,7 @@ Bankaskomisijas dokumenta grāmatošana
 
 Bankaskomisijas dokumentu iespējams grāmatot no atvērta
 Bankaskomisijas dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`
-Bankas izdevumu žurnālā <224>`.
+Bankas izdevumu žurnālā <224>` .
 
 Lai iegrāmatotu Bankas komisijas dokumentu, dokumentu nepieciešams
 Apstiprināt, nospiežot rīku joslā pogu .
@@ -131,12 +137,13 @@ pogu .
 Instrukcija - :doc:` Dokumentu grāmatošanas principi <14044>`
 
 
+
 Pievienotā Bankaskomisijas dokumentalabošana
 ````````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Bankas
 komisijas dokumentu, kurš pieejams apskatei/labošanai:doc:` Bankas
-izdevumu žurnālā <224>`. Lai veiktu labojumusBankas komisijas
+izdevumu žurnālā <224>` . Lai veiktu labojumusBankas komisijas
 dokumentā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 

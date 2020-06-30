@@ -77,6 +77,7 @@ Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu no rīku
 joslas vai(Ctrl+S).
 
 
+
 Iepirkuma dokumenta veida labošana
 ``````````````````````````````````
 Lai veiktu labojumus iepirkuma dokumenta veidā, ierakstu nepieciešams

@@ -6,7 +6,7 @@ Lai aprēķinātuslimības naudu strādājošajam:
 
 1.Nepieciešams izveidot atbilstošu :doc:`Rīkojumu dokumentu<409>` par
 Slimības apmaksu (>Dokumenti > Personāla uzskaite > :doc:`Rīkojumu
-žurnāls<209>`):
+žurnāls<209>` ):
 
 
 
@@ -26,7 +26,7 @@ jāapstiprina.
 
 
 2. Aprēķinot algu strādājošajam (>Dokumenti > Alga > :doc:`Algu
-aprēķinu žurnāls<212>`), jāaizpilda ieejošie dati no slodzes
+aprēķinu žurnāls<212>` ), jāaizpilda ieejošie dati no slodzes
 kalendāra:
 
 

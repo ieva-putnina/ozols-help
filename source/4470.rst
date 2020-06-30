@@ -1,6 +1,6 @@
 .. 4470 Kampaņas************ 
 Kapmaņu sarakstā tiek saglabātas visas :doc:`pievienotās
-kampaņas<4469>`.
+kampaņas<4469>` .
 
 
 

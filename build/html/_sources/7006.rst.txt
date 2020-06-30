@@ -22,7 +22,7 @@ faktisko vērtību:
 
 
 
-Ieraksts tiks saglabāts :doc:`Akciju veidu<7005>`sarakstā, izpildot
+Ieraksts tiks saglabāts :doc:`Akciju veidu<7005>` sarakstā, izpildot
 komandu .
 
  

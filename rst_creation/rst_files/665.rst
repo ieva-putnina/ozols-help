@@ -7,7 +7,7 @@ dažādām datu uzskaites dimensijām (EKK, Projekts, Budžets,
 Finansējums, u.c.), kā arī nedalīt pa datu uzskaites dimensijām un
 uzrādīt konta atlikuma kopējo summu.
 
-No Konta atlikumu atskaites, iespējama :doc:`Kontu slēgšana<14123>`.
+No Konta atlikumu atskaites, iespējama :doc:`Kontu slēgšana<14123>` .
 
 
 

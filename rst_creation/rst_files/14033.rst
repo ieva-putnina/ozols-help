@@ -9,6 +9,7 @@ uzņēmumu datus. Uzņēmumu un komponentu datu lietošanu jānosaka sākot
 darbu ar sistēmu.
 
 
+
 Pieteikšanās uzņēmuma un komponentu izmantošanai
 ++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -67,6 +68,7 @@ datus par visiem lietotāja uzņēmumiem, bet pievienot jaunus dokuments
 varēs tam uzņēmumam, kas uzsākot darbu norādīts laukā Uzņēmums.
 
 
+
 Komponentu un uzņēmumu maiņa
 ++++++++++++++++++++++++++++
 
@@ -77,6 +79,7 @@ datus, tad pārslēgties uz cita uzņēmuma datiem var no darba režīma:
 Lai pārslēgtos uz cita uzņēmuma datiem, jāizvēlas uzņēmums laukā
 Uzņēmums un var izmantot iespēju parādīt visu uzņēmumu datus kopā,
 aktivizējot komandu:
+
 
 
 Atteikšanās no komponentu izmantošanas

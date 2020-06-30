@@ -38,7 +38,7 @@ Pircējs: iespēja atlasīt datus par konkrētu pircēju;
 
 
 Menedžeris: iespēja atlasīt datus par konkrētu :doc:`Klientu
-menedžeri<14136>`;
+menedžeri<14136>` ;
 
 
 Rādīt tikai dokumentus ar stingrās uzskaites numuru: atzīmējot šo

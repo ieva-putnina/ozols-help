@@ -5,13 +5,13 @@ Kad nauda no kases tiek iemaksāta bankā, jāveido kases izdevumu
 orderis - Naudas iemaksa bankā. Dokuments nodrošina uzreiz divu
 operāciju noformēšanu - naudas izmaksu no kases un bankas ieņēmumus
 uzņēmuma kontā. Dokumens vienlaicīgi tiek parādīts :doc:`Kases
-izdevumu<225>`un attiecīgā bankas konta :doc:`Bankas
-ieņēmumu<226>`dokumentu žurnālos. Dokuments Naudas iemaksā bankā ir
-uzskatāms par kases izdevumu orderi, tam ir iebūvēta kases izdevumu
-ordera izdrukas forma, tas iekļaujas kopējā kases izdevumu dokumentu
-numerācijā. Darījuma atšifrēšanai pa finanšu (EK) kodiem, jāaizpilda
-dokumenta saturs. Lai dokumenta izdrukā parādītos grāmatojumu konti,
-dokuments pirms izdrukāšanas ir jāiegrāmato.
+izdevumu<225>` un attiecīgā bankas konta :doc:`Bankas ieņēmumu<226>`
+dokumentu žurnālos. Dokuments Naudas iemaksā bankā ir uzskatāms par
+kases izdevumu orderi, tam ir iebūvēta kases izdevumu ordera izdrukas
+forma, tas iekļaujas kopējā kases izdevumu dokumentu numerācijā.
+Darījuma atšifrēšanai pa finanšu (EK) kodiem, jāaizpilda dokumenta
+saturs. Lai dokumenta izdrukā parādītos grāmatojumu konti, dokuments
+pirms izdrukāšanas ir jāiegrāmato.
 
 
 JaunaNaudas iemaksas bankā dokumena pievienošana
@@ -119,7 +119,7 @@ Naudas iemaksas bankā dokumentalauki Pamatojums un Saturs tiek drukāti
 kases izdevumu ordera rindā Pamatojums.
 
 Lauku Pamatojums , iespējams aizpildīt manuāli vai izvēloties no
-:doc:`Kases paskaidrojumu saraksta<136>`:
+:doc:`Kases paskaidrojumu saraksta<136>` :
 
 
 
@@ -145,7 +145,7 @@ Dokumenta - Naudasiemaksa bankā -Pielikuma informācijas aizpildīšana
 
 
 Lauku Pielikumā ,Naudas iemaksai bankāiespējams aizpildīt manuāli vai
-izvēloties no :doc:`Kases pielikumu saraksta<137>`, laukā Piel.num.
+izvēloties no :doc:`Kases pielikumu saraksta<137>` , laukā Piel.num.
 nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:
 
 
@@ -158,8 +158,8 @@ Kad visi nepieciešamie lauki ir aizpildīti, Naudas iemaksas bankā
 dokuments ir sagatavots un to ir iespējams:
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai vienlaicīgi :doc:`Kases
-izdevumu<225>`un :doc:`Bankas ieņēmumu<226>`žurnālos.
+apskatei/labošanai/grāmatošanai vienlaicīgi :doc:`Kases izdevumu<225>`
+un :doc:`Bankas ieņēmumu<226>` žurnālos.
 
 2. Apstiprināt, nospiežot rīku joslā pogu -Naudas iemaksas bankā
 dokumentstiks Apstiprināts un to būs iespējams Grāmatot.
@@ -172,8 +172,8 @@ Lai dokumenta izdrukā parādītos grāmatojumu konti, dokuments pirms
 izdrukāšanas ir jāiegrāmato.
 
 Naudas iemaksas bankā dokumentuiespējams grāmatot no atvērta dokumenta
-vai izvēloties (iezīmējot)dokumentu :doc:`Kases izdevumu<225>`vai
-:doc:`Bankas ieņēmumu<226>`žurnālā.
+vai izvēloties (iezīmējot)dokumentu :doc:`Kases izdevumu<225>` vai
+:doc:`Bankas ieņēmumu<226>` žurnālā.
 
 Lai iegrāmatotu Naudas iemaksu bankā, dokumentu nepieciešams
 Apstiprināt, nospiežot rīku joslā pogu .
@@ -191,7 +191,7 @@ Pievienotā Naudas iemaksas dokumenta labošana
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Naudas iemaksas
 bankā dokumentu, kurš pieejams apskatei/labošanaivienlaicīgi
-:doc:`Kases izdevumu<225>`un:doc:`Bankas ieņēmumu<226>`žurnālos. Lai
+:doc:`Kases izdevumu<225>` un:doc:`Bankas ieņēmumu<226>` žurnālos. Lai
 veiktu labojumus,dokumentunepieciešams atvērt, izmantojot rīku joslas
 pogu (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos
 labojumus:

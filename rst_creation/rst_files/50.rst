@@ -1,9 +1,10 @@
-.. 50 Datu apmaiņa ar banku========================= 
+.. 50 Datu apmaiņa ar banku========================= .. role:: raw-html(raw)     :format: html
 
 
 Grāmatvedības sistēmā Ozols ir iebūvētas iespējas izmantot banku
 elektroniskās norēķinu sistēmas. Sasaiste ar banku sistēmām nodrošina
 datu apmaiņu starp programmām, paātrinot datu apstrādes procesus.
+
 
 
 Sasaiste ar banku elektronisko norēķinu sistēmām nodrošina:

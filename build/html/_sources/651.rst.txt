@@ -1,7 +1,7 @@
 .. 651 Maksājumu kartes******************** 
 
 
-Sarakstā tiek saglabātas katra :doc:`Partnera<312>`aprakstam
+Sarakstā tiek saglabātas katra :doc:`Partnera<312>` aprakstam
 piesaistītās maksājumu, degvielas, u.c.kartes.
 
 Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
@@ -27,14 +27,15 @@ Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
 kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
 
 
+
 Partnera maksājumu kartes pievienošana
 ++++++++++++++++++++++++++++++++++++++
 
 Partneru maksājumu kartes tiek pievienotas:
 
-1.:doc:`Partnera<312>`aprakstā caur pogu ;
+1.:doc:`Partnera<312>` aprakstā caur pogu ;
 
-2. Atrodoties:doc:`Partneru maksājumu karšu sarakstā<651>`, rīku
+2. Atrodoties:doc:`Partneru maksājumu karšu sarakstā<651>` , rīku
 joslānospiežot pogu :
 
 
@@ -64,7 +65,7 @@ Mēneša limits: Uzņēmumā noteiktais summas limits (informatīvs lauks,
 kas sniedz tikai informatīvu informāciju par noteiktajiem
 ierobežojumiem) pakalpojumu izmantošanai no norādītā kartes īpašnieka;
 
-Pakalpojums: Iespēja norādīt :doc:`Pakalpojumu<108>`, kas saistīts ar
+Pakalpojums: Iespēja norādīt :doc:`Pakalpojumu<108>` , kas saistīts ar
 šo Partnera maksājuma karti un Kartes īpašnieku.
 
 
@@ -73,7 +74,7 @@ Lai maksājumu kartes varētu izmantot ne tikai informatīvi -
 informācijas iegūšanai par uzņēmuma darbiniekiem piederošajām kartēm,
 bet arī kā datu uzskaites dimensiju, lai iegūtu detalizētas atskaites
 par veiktajiem darījumiem saistībā ar kartēm, sadaļā
-Konfigurācija->Iestādījumi->Kopīgie->:doc:`Dimensijas<701>`->Citi,
+Konfigurācija->Iestādījumi->Kopīgie->:doc:`Dimensijas<701>` ->Citi,
 nepieciešams norādīt, ka tiks izmantota dimensija "Kartes":
 
 
@@ -84,7 +85,7 @@ nepieciešams norādīt, ka tiks izmantota dimensija "Kartes":
 
 Pie nosacījuma, ja :doc:`Dimensiju<701>` iestādījumos būs atzīmēta
 izvēles rūtiņa "Kartes", :doc:`Iepirkuma dokumentā<310>` Virsrakstā
-norādot :doc:`Partneri<312>`i, kurš ir norādīts kā Īpašnieks kādai no
+norādot :doc:`Partneri<312>` i, kurš ir norādīts kā Īpašnieks kādai no
 pievienotajām maksājuma kartērm, pievienojot :doc:`Iepirkuma
 dokumenta<310>` satura ierakstu, tiks attēlots papildus lauks
 "kartes", kur no izvēlnes tiks piedāvāta iespēja norādīt kādu no
@@ -97,7 +98,7 @@ pievienotajām Partnera maksājumu kartēm:
 
 
 Šādā veidā iespējams nodrošinā detalizētu uzskaiti par katru
-kartiindividuāli, no atskaites:doc:`Dimensiju apgrozījums<648>`,
+kartiindividuāli, no atskaites:doc:`Dimensiju apgrozījums<648>` ,
 iegūstot informāciju par :doc:`Iepirkumu dokumentiem<210>` Kartes
 dimensijas griezumā.
 
@@ -108,6 +109,6 @@ Nospiežotpogu , ieraksts tiks pievienots datu bāzei.
 
 
 Visas partnerim pievienotās kartes tiek saglabātas :doc:`Partneru
-maksājumu karšu sarakstā<651>`.
+maksājumu karšu sarakstā<651>` .
 
  

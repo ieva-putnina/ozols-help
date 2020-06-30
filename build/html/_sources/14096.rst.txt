@@ -4,7 +4,7 @@
 Sistēmā OZOLS ir iespēja noteikt lietotājiem piesakoties sistēmā
 paroles satura minimālās prasības. Paroles konfigurēšanas iespējas ir
 pieejamas izvēlnes zarā Konfigurācija->Lietotāji->:doc:`Paroles
-konfigurācija<163>`:
+konfigurācija<163>` :
 
 
 
@@ -45,7 +45,7 @@ Lai saglabātu Paroles iestādījumus, nepieciešams nospiest pogu: .
 
 Sistēmā OZOLS ir iespēja slēgt lietotāju kontus un pieprasīt
 lietotājam jaunas paroles ievadi, nākošajā lietotāja pieteikšanās
-reizē. Lietotāji->:doc:`Lietotāju saraksts<194>`->Atverot Lietotāja
+reizē. Lietotāji->:doc:`Lietotāju saraksts<194>` ->Atverot Lietotāja
 aprakstu, sadaļā: Ozols iestādījumi:
 
 
@@ -74,7 +74,7 @@ Nākošajā solī lietotājam ir jāveic esošās paroles maiņa:
 Esošā parole: Jāievada esošā (administratora piešķirtā) parole
 
 Jaunā parole: Jāievada jaunā parole, kas atbilstu noteiktajai
-:doc:`Paroles konfigurācijai<163>`.
+:doc:`Paroles konfigurācijai<163>` .
 
 Atkārtota parole: Atkārtoti jāievada jaunā parole.
 
@@ -82,7 +82,7 @@ Atkārtota parole: Atkārtoti jāievada jaunā parole.
 
 Nospiežot pogu , parole tiek nomainīta un pēc jaunās paroles ievades,
 tiek pārbaudīta paroles atbilstība sistēmas OZOLS lietotāju
-:doc:`Paroles minimālo prasību iestādījumiemi<163>`. Ja kāda no
+:doc:`Paroles minimālo prasību iestādījumiemi<163>` . Ja kāda no
 prasībām netiek izpildīta, tad sistēma paziņo par neatbilstību un
 neļauj lietotājam nomainīt paroli.
 Ja lietotājs ignorē paziņojumu un nenomaina iepriekšējo paroli pret
@@ -95,7 +95,7 @@ tiks parādīts paziņojums:
 
 
 
-Savas :doc:`Paroles maiņu<722>`lietotāji var veikt neatkarīgi no
+Savas :doc:`Paroles maiņu<722>` lietotāji var veikt neatkarīgi no
 paroles termiņa iestādījumiem.
 
  

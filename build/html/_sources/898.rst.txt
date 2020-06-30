@@ -2,7 +2,7 @@
 
 
 Sarakstā tiek saglabāti Citas informācijas veidi, kas tiek izmantot
-Personāla datu -:doc:`Citas informācijas<765>`aizpildīšanai.
+Personāla datu -:doc:`Citas informācijas<765>` aizpildīšanai.
 
 Lai pievienotu jaunu Citas informācijas veidu, rīku joslā jānospiež
 poga (Alt+P) un jāieraksta Informācijas veida nosaukums (Piemēram,

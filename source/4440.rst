@@ -25,6 +25,6 @@ termiņu;
 Lai saglabātu bankas konta datus, jānospiež poga , un, lai labotu,
 jānospiež poga , bet, lai pievienotu jaunu kontu, jānospiež poga . Lai
 saglabātu un aizvērtu, jānospiež poga . Visi pievienotie konti tiek
-saglabāti :doc:`Bankas kontu žurnālā<4431>`.
+saglabāti :doc:`Bankas kontu žurnālā<4431>` .
 
  

@@ -1,4 +1,4 @@
-.. 47 Personāla vadība==================== 
+.. 47 Personāla vadība==================== .. role:: raw-html(raw)     :format: html
 
 
 Personāla vadības modulis paredzēts organizācijas struktūras un štatu
@@ -6,6 +6,7 @@ saraksta pārvaldībai, strādājošo personu, kā arī vakanču aizpildījuma
 uzskaitei. Personāla uzskaite nodrošina pilnas informācijas uzkrāšanu
 par darba ņēmēju kustību un karjeru uzņēmumā, kā arī var tikt
 izmantots personāla atlasei – darbam ar vakancēm.
+
 
 
 Personāla vadības modulis nodrošina:

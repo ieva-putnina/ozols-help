@@ -3,7 +3,7 @@
 
 Ceļu satiksmes negadījumužurnālā saraksta veidā tiek parādīti
 reģistrētie ceļu satiksmes negadījumi, balstoties uz kuriem tiek
-veidotas :doc:`Atlīdzību lietas<4205>`.
+veidotas :doc:`Atlīdzību lietas<4205>` .
 
 
 
@@ -22,9 +22,8 @@ vietas apraksts.
 
 
 2. Labot - šajā lapā, uzklikšķinot uz atbilstošajiem ierakstiem,
-iespējams iegūtinformāciju par izveidoto :doc:`Atlīdzību
-lietu<4205>`un:doc:`Regresa lietu<4210>`, balstoties uzCSNg
-informāciju.
+iespējams iegūtinformāciju par izveidoto :doc:`Atlīdzību lietu<4205>`
+un:doc:`Regresa lietu<4210>` , balstoties uzCSNg informāciju.
 
 
 

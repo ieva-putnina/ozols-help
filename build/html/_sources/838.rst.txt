@@ -52,7 +52,7 @@ Izpildes laiks no ... līdz ...: projekta izpildes termiņš;
 Cena : projekta izmaksas.
 
 Lai saglabātu darbu pasūtījumu, jānospiež poga Saglabāt. Saglabātais
-darbu pasūtījums tiek saglabāts :doc:`darbu pasūtījumu žurnālā<839>`.
+darbu pasūtījums tiek saglabāts :doc:`darbu pasūtījumu žurnālā<839>` .
 
 
 

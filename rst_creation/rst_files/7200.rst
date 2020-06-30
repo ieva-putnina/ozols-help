@@ -1,2 +1,2 @@
-.. 7200 Personāla pašapkalpošanās============================= 
+.. 7200 Personāla pašapkalpošanās============================= .. role:: raw-html(raw)     :format: html
  .. toctree::   :maxdepth: 6    7250.rst   7220.rst

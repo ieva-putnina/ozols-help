@@ -4,7 +4,8 @@
 Pamatlīdzekļu pārsūtīšanas dokumentu paredzēts veidot pamatlīdzekļu
 pārvietošanai starp materiāli atbildīgām personām, struktūrvienībām
 un/vai citām uzņēmumā izmantotām dimensijām. Dokuments pēc
-saglabāšanas ir pieejams :doc:`Pamatlīdzekļu dokumentu sarakstā<233>`.
+saglabāšanas ir pieejams :doc:`Pamatlīdzekļu dokumentu sarakstā<233>`
+.
 
 
 
@@ -24,7 +25,7 @@ Pamatlīdzekļu pārsūtīšanas dokuments .
 
 Numurs - jānorāda pamatlīdzekļa dokumenta numurs. Šis numurs strādājot
 ar sistēmu tiek piešķirts automātiski pēc iebūvētā :doc:` numeratora
-<139>`. Visiem pamatlīdzekļu dokumentiem ir viena numerācija.
+<139>` . Visiem pamatlīdzekļu dokumentiem ir viena numerācija.
 
 Datums - pamatlīdzekļu dokumenta izveidošanas datums.
 
@@ -48,6 +49,7 @@ komandpoga Atcelt.
 
 Lai izveidotā Pamatlīdzekļupārsūtīšanas dokumenta dati stātos spēkā
 obligāti pēc saglabāšanas dokuments ir jāapstiprina ar funkciju .
+
 
 
 

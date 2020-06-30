@@ -12,7 +12,7 @@ Juridiskās daļas darbinieki:
 iesniedz dokumentus tiesā utt.);
 + katrs regresa lietu jurists seko līdz uzticēto lietu attīstībai
 dinamikā, kontrolē naudas saņemšanu;
-+ iesniedz :doc:`Finanšu daļai<14028>`dokumentus par papildus
++ iesniedz :doc:`Finanšu daļai<14028>` dokumentus par papildus
   izmaksām, kas saistītas ar Regresa lietu (Valsts nodevas,
   administratīvie izdevumi, tiesas izdevumi u.c.).
 

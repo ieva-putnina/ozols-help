@@ -6,12 +6,12 @@ aizpildīts, atbilstoši infrastruktūras uzturēšanas izdevumu sadalei.
 Ievadot :doc:`Iepirkuma dokumentu<310>` un aizpildot tā saturu, pēc
 iepriekš nodefinētiem kritērijiem, summas automātiski iespējams
 sadalīt starp projektiem, ņemot vērā plānoto gada finansējumu -
-:doc:`Budžetu<178>`.
+:doc:`Budžetu<178>` .
 
 Informācija par plānoto gada finansējumu tiek ņemta no sastādītā
-:doc:`Budžeta plāna<178>`, atbilstoši sekojošiem parametriem - konts
+:doc:`Budžeta plāna<178>` , atbilstoši sekojošiem parametriem - konts
 (grāmatvediskais konts un tam atbilstoši piesaistītais :doc:`Bankas
-konts<141>`), :doc:`Struktūrvienība<117>`, Algoritms - izdevumu.
+konts<141>` ), :doc:`Struktūrvienība<117>` , Algoritms - izdevumu.
 Procentuālais sadalījums starp projektiem tiek veidots katra
 :doc:`Bankas konta<141>` ietvaros.
 

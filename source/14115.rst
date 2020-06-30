@@ -14,7 +14,7 @@ rezultāta kods (Avanss), uz kura izmaksas aprēķinā jāparāda.
 
 Pēc šāda izmaksu saraksta izveidošanas, ir iespējams aizpildīt avansu
 izmaksu sarakstu, no iepriekš nodefinētajiem Pārskaitījumiem
-:doc:`Pārskaitījumu žurnālā<294>`. Lai aizpildītu izmaksu sarakstu,
+:doc:`Pārskaitījumu žurnālā<294>` . Lai aizpildītu izmaksu sarakstu,
 nepieciešams izmantot rīku joslas pogu un izvēlēties funkciju:
 
 
@@ -25,8 +25,8 @@ nepieciešams izmantot rīku joslas pogu un izvēlēties funkciju:
 
 Izpildot funkciju "Aizpildīt sarakstu no avansu pārskaitījumiem" un
 avansu izmaksu saraksta aizpildīšanas logā, nospiežot pogu "Aizpildīt
-izmaksu sarakstu", tiks ielādēti iepriekš
-:doc:`Pārskaitījumos<294>`nodefinētie avansu pārskaitījumi:
+izmaksu sarakstu", tiks ielādēti iepriekš :doc:`Pārskaitījumos<294>`
+nodefinētie avansu pārskaitījumi:
 
 
 

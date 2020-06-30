@@ -7,6 +7,7 @@ datu bāzē, sistēmas reģistrā vai .ini failā.
 
 
 
+
 **Glabāt iestādījumus reģistrā**
 Iestādījumi tiek saglabāti reģistrā. Lietotāja iestādījumi tiek
 saglabāti datora reģistrā. Iestādījumu saglabāšana reģistrā nodrošina

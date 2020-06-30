@@ -4,7 +4,7 @@
 Dividenžu aprēķina atskaite parāda aprēķinātās dividendes :doc:`Akciju
 žurnālā<7009>` pievienotajām :doc:`Akcijām<7010>` par filtrā norādīto
 laika periodu, balstoties uz sarakstos definēto
-:doc:`Koeficientu<7007>`.
+:doc:`Koeficientu<7007>` .
 
 
 
@@ -29,7 +29,7 @@ par:
 
 :doc:`Personu<112>` - akcijas turētāju;
 
-:doc:`Akciju veidu<7005>`;
+:doc:`Akciju veidu<7005>` ;
 
 Akcijas nominālu;
 
@@ -38,7 +38,7 @@ Periodu - no kura, līdz kuram Persona ir akcijas turētājs;
 Dienu skaitu, par kurām dividenžu summa tiek aprēķināta;
 
 Bruto summu - kas tiek aprēķināta, balstoties uz nodefinēto
-:doc:`Koeficientu<7007>`;
+:doc:`Koeficientu<7007>` ;
 
 Nodokļa summu - kas tiek aprēķināta pie nosacījuma, ja akcijas
 turētājs ir nerezidents;

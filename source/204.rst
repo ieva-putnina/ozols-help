@@ -2,7 +2,7 @@
 
 
 Pārdošanasdokumentu žurnālā saraksta veidātiek saglabāti izveidotie
-:doc:`Pārdošanas dokumenti<304>`.
+:doc:`Pārdošanas dokumenti<304>` .
 
 
 

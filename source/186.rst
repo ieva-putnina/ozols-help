@@ -2,14 +2,14 @@
 
 
 Amatu sarakstā jānodefinē uzņēmuma amats, jāpievieno profesija no
-:doc:`Profesiju klasifikatora<128>`, kā arī iespējams amatam
-piesaistīt - :doc:`Personāla kategoriju<127>`, :doc:`Amatu
-grupu<959>`, aizpildīt informāciju brīvajos teksta laukos par
+:doc:`Profesiju klasifikatora<128>` , kā arī iespējams amatam
+piesaistīt - :doc:`Personāla kategoriju<127>` , :doc:`Amatu
+grupu<959>` , aizpildīt informāciju brīvajos teksta laukos par
 kaitīgiem vai īpašiem darba apstākļiem, norādīt nepieciešamo veselības
 pārbaužu skaitu, atzīmēt pazīmi par sanitārās grāmatiņas
 nepieciešamību, kā arī ievadīt amata aprakstu.
 
-Amatu saraksts tiek lietots pievienojot jaunu :doc:`slodzi<207>`.
+Amatu saraksts tiek lietots pievienojot jaunu :doc:`slodzi<207>` .
 Katram amatam iespējams pievienot budžetu un amata skaitu uz noteiktu
 periodu.
 
@@ -37,11 +37,11 @@ Nosaukums: amata nosaukums;
 Profesija: no :doc:`Profesiju klasifikatora<128>` jāizvēlas
 attiecīgais kods.
 
-Pers.kategorija: no :doc:`Personāla kategoriju<127>`klasifikatora
+Pers.kategorija: no :doc:`Personāla kategoriju<127>` klasifikatora
 jāizvēlas attiecīgais kods;
 
-Grupa: no :doc:`Amatu grupu<959>`saraksta jāizvēlas nepieciešamā amata
-grupa
+Grupa: no :doc:`Amatu grupu<959>` saraksta jāizvēlas nepieciešamā
+amata grupa
 
 
 
@@ -55,8 +55,8 @@ uz 2007. gada janvāri tiek noteikta 1 štata vieta, bet uz 2008. gada
 janvāri - 2 štata vietas. Ieraksti jāpievieno periodā, kad notiek
 amatu skaita izmaiņas. Amata aprakstā pievienojot štata vietu skaitu
 un slodzes aprakstā norādot strādājošā ieņemamo amatu, tiek gatavotas
-atskaites :doc:`Štatu saraksta aizpildījums<608>`un :doc:`Štatu
-saraksta aizpildījumu kopsavilkums<609>`.
+atskaites :doc:`Štatu saraksta aizpildījums<608>` un :doc:`Štatu
+saraksta aizpildījumu kopsavilkums<609>` .
 
 
 

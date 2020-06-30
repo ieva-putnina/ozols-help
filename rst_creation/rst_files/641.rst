@@ -2,7 +2,7 @@
 
 
 Sagatavotās PVN deklarācijas tiek saglabātas atskaišu
-:doc:`Sarakstā<531>`. Deklarācijai ir iebūvēta Ministru kabineta
+:doc:`Sarakstā<531>` . Deklarācijai ir iebūvēta Ministru kabineta
 noteikta standarta izdrukas forma. Atskaites dati ir sadalīti ekrāna
 formās Virsraksts, Darījums, Priekšnodoklis, Papildus, katrā no formām
 iekļaujot noteiktus atskaites datus. Atskaite ir konfigurējama,
@@ -13,7 +13,8 @@ pārrēķināt atskaites datus, neveidojot jaunu atskaiti.
 
 
 Lai būtu iespējams sagatavot PVN mēneša deklarāciju,iepriekš jābūt
-izveidotai :doc:`Grāmatojumu atskaišu konfigurācijai<179>`.
+izveidotai :doc:`Grāmatojumu atskaišu konfigurācijai<179>` .
+
 
 
 PVN mēneša deklarācijassagatavošana
@@ -32,7 +33,7 @@ atskaite tiks sagatavota:
 
 
 2. Nepieciešams norādīt attiecīgo profilu - :doc:`atskaites
-konfigurāciju<179>`, pēc kādiem konfigurācijas datiem atskaite tiks
+konfigurāciju<179>` , pēc kādiem konfigurācijas datiem atskaite tiks
 sagatavota:
 
 
@@ -105,12 +106,12 @@ to var papildināt neaizverot atskaiti.
 
 
 8. Ja pēc atskaites sagatavošanas veiktas izmaiņas :doc:`atskaites
-konfigurācijā<179>`, atskaiti pēc izmanītās konfigurācijas datiem var
+konfigurācijā<179>` , atskaiti pēc izmanītās konfigurācijas datiem var
 pārrēķināt, nospiežot pogu: . Pārrēķinot atskaiti, tajā tiek parādīti
 jaunākie dati.
 
 9. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
-sarakstā<531>`, kur tā būs pieejama labošanai/drukāšanai, nospiežot
+sarakstā<531>` , kur tā būs pieejama labošanai/drukāšanai, nospiežot
 pogu: .
 
 

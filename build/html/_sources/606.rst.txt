@@ -15,18 +15,18 @@ Izvēlotes šo atskaiti, tiks atvērts jauns logs:
 
 
 
-Partneris: Iespēja no :doc:`Partneru saraksta<112>`izvēlēties
-nepieciešamo :doc:`Partneri<312>`, par kuru dati -
-:doc:`Adrese<192>`,tiks drukāti;
+Partneris: Iespēja no :doc:`Partneru saraksta<112>` izvēlēties
+nepieciešamo :doc:`Partneri<312>` , par kuru dati - :doc:`Adrese<192>`
+,tiks drukāti;
 
 Kontakpersona: Iespēja norādīt kādu no :doc:`Partnerim<312>`
-piesaistītajām :doc:`Kontaktpersonām<189>`.
+piesaistītajām :doc:`Kontaktpersonām<189>` .
 
 Adrese: Lauks tiks aizpildīts automātiski, ielādējot izvēlētā
-:doc:`Partnera aprakstā<312>`norādīto :doc:`Adresei<192>`. Situācijās,
-ja Partnerim,:doc:`Partnera aprakstā<312>` norādītas vairākas
-:doc:`Adreses<192>` - šajā izvēlnes laukā iespējams izvēlēties
-attiecīgajā situācijānepieciešamo.
+:doc:`Partnera aprakstā<312>` norādīto :doc:`Adresei<192>` .
+Situācijās, ja Partnerim,:doc:`Partnera aprakstā<312>` norādītas
+vairākas :doc:`Adreses<192>` - šajā izvēlnes laukā iespējams
+izvēlēties attiecīgajā situācijānepieciešamo.
 
 
 

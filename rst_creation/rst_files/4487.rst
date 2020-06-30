@@ -53,6 +53,7 @@ saglabāt:
 
 
 
+
 Norakstāmo nomenklatūras daudzumu pievienošana nomenklatūras
 norakstīšanas dokumentam
 ++++++++++++++++++++++++
@@ -95,6 +96,6 @@ Pēc dokumenta apstiprināšanas, dokumentu iespējams izdrukāt:
 :doc:`Norakstīšanas akta izdruka<14093>`
 
 Saglabātie dokumenti apskatei pieeja:doc:`Iekšējās kustības dokumentu
-žurnālā<4455>`.
+žurnālā<4455>` .
 
  

@@ -59,7 +59,7 @@ Datu atlases Filtrā, obligāts nosacījum - norādīt Aprēķina periodu
 (izmantojot kura perioda algu aprēķinu rezultātus tiks sagatavots
 grāmatojums) un grupēšanas parametrus ( obligāts nosacījums - grupēt
 pēc konta - dati atbilstoši tiks sagrupēt pa :doc:`grāmatvediskajiem
-kontiem, kādi ir nodefinēti algu rezultējošiem kodiem<14109>`).
+kontiem, kādi ir nodefinēti algu rezultējošiem kodiem<14109>` ).
 
 Pārējie filtra iestādījumi ir lietotāja brīvi definējami un
 izmantojami detalizētākai informācijas atlasei (līdz ar to, sniedz
@@ -83,7 +83,7 @@ sagatavots un to ir iespējams:
 
 1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
 apskatei/labošanai/grāmatošanai :doc:`Algu grāmatojumu pirmdokumentu
-žurnālā<681>`.
+žurnālā<681>` .
 
 2. Apstiprināt, nospiežot rīku joslā pogu - dokuments tiks
 Apstiprināts un to būs iespējams Grāmatot.
@@ -94,7 +94,7 @@ Algu grāmatojumu pirmdokumentagrāmatošana
 
 Algu grāmatojumu pirmdokumentuiespējams grāmatot no atvērta dokumenta
 vai izvēloties (iezīmējot)dokumentu :doc:`Algu grāmatojumu
-pirmdokumentu žurnālā<681>`.
+pirmdokumentu žurnālā<681>` .
 
 Dokumentuiespējams grāmatot, nospiežot rīku joslā pogu - tiks atvērts
 Algu pirmdokumenta grāmatojums, kas sagatavots balstoties uz Algu

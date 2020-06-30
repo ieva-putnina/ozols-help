@@ -50,6 +50,7 @@ Tikai aktīvajā algu aprēķina periodā iespējams labot aprēķina datus,
 pārējo periodu aprēķini ir pieejami tikai apskates režīmā.
 
 
+
 Ar algu aprēķiniem saistītās instrukcijas:
 ++++++++++++++++++++++++++++++++++++++++++
 
@@ -67,13 +68,15 @@ periodiem/papildperiodiem<14130>`
 
 
 
+
 Algu aprēķinupievienošana
 +++++++++++++++++++++++++
 
 Veicot algu aprēķinu, vispirms ir :doc:`jāatver atbilstošais algu
-aprēķina periods<499>`un tajā jāpievieno algu aprēķina ieraksti. Jauns
-algu aprēķins tiek pievienots,rīku joslānospiežot pogu un izvēloties
-atbilstošo slodzi, kurai tiks veikts algas aprēķins:
+aprēķina periods<499>` un tajā jāpievieno algu aprēķina ieraksti.
+Jauns algu aprēķins tiek pievienots,rīku joslānospiežot pogu un
+izvēloties atbilstošo slodzi, kurai tiks veikts algas aprēķins:
+
 
 
 
@@ -110,10 +113,10 @@ strādājošajam:
 2. Lai veiktu algu aprēķinu, nepieciešams:
 
 
-+ Ielādēt datus no :doc:`Algu tarifikācijas<728>`(nospiežot algu
++ Ielādēt datus no :doc:`Algu tarifikācijas<728>` (nospiežot algu
 aprēķina ekrāna formas rīku joslas 4 pogu)
 + Ielādēt datus no slodzes kalendāra (dati no :doc:`Rīkojumu
-žurnālā<209>`reģistrētajiem rīkojumiem) (nospiežot algu aprēķina
+žurnālā<209>` reģistrētajiem rīkojumiem) (nospiežot algu aprēķina
 ekrāna formas rīku joslas3 pogu): :doc:`Rīkojumu nosacījumu
 pievienošana strādājošā algu aprēķinam<14127>`
 + Ja nepieciešams algu aprēķinā pievienot papildus ieejošos kodus, kas
@@ -130,7 +133,7 @@ pievienošana strādājošā algu aprēķinam<14127>`
 
 
 Ieejošo kodu izvēle atkarīga no algu aprēķina :doc:`Ieejošo kodu
-konfigurācijas<282>`. Ieejošie kodi var būt arī kavētās darba dienas,
+konfigurācijas<282>` . Ieejošie kodi var būt arī kavētās darba dienas,
 atvaļinājuma dienas, piemaksas, prēmijas, ieturējumi,u.tml..
 
 
@@ -140,16 +143,16 @@ labajā pusē var atvērt rezultātu sarakstu, kur redzami visi algu
 aprēķinā noteiktie rezultāti.
 + Izmaksājamā summa tiek parādīta algu aprēķina formā un tā ir
   jānosūta uz izmaksu sarakstu, izmantojot komandu Uz izmaksu (F8) vai
-  arī Algu Rīkus->:doc:`Algu aprēķins<498>`: pēdējā izvēles rūtiņa: .
-  Jābūt izveidotam :doc:`Izmaksu sarakstam<238>`. Ja summa tiek nosūtīta
-  pirmo reizi uz izmaksu sarakstu, jānorāda, uz kuru izmaksu sarakstu
-  summa jāsūta. Izmaksu saraksti tiek parādīti atbilstoši izvēlētajam
-  maksājumam. Ja izmaksu sarakstā veids ir izmaksa bankā, tad, lai
-  norādītu šo izmaksu sarakstu, maksājums ir jāizvēlas arī summas
-  nosūtīšanas laikā. Kad izmaksu saraksts pirmo reizi ir norādīts,
-  pārējiem strādājošiem tas tiek piedāvāts kā standarta saraksts izmaksu
-  nosūtīšanai. Lai izvēlētos citu sarakstu, jālieto algu aprēķina rīko
-  joslas komanda Izmaksa.
+  arī Algu Rīkus->:doc:`Algu aprēķins<498>` : pēdējā izvēles rūtiņa: .
+  Jābūt izveidotam :doc:`Izmaksu sarakstam<238>` . Ja summa tiek
+  nosūtīta pirmo reizi uz izmaksu sarakstu, jānorāda, uz kuru izmaksu
+  sarakstu summa jāsūta. Izmaksu saraksti tiek parādīti atbilstoši
+  izvēlētajam maksājumam. Ja izmaksu sarakstā veids ir izmaksa bankā,
+  tad, lai norādītu šo izmaksu sarakstu, maksājums ir jāizvēlas arī
+  summas nosūtīšanas laikā. Kad izmaksu saraksts pirmo reizi ir
+  norādīts, pārējiem strādājošiem tas tiek piedāvāts kā standarta
+  saraksts izmaksu nosūtīšanai. Lai izvēlētos citu sarakstu, jālieto
+  algu aprēķina rīko joslas komanda Izmaksa.
 
 
 

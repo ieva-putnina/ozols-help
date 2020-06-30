@@ -3,7 +3,7 @@ Atgādinājums kalpo, lai atcerētos un piezīmētu kādas lietas, kuras ir
 nepieciešams atgādināt. Šie atgādinātāji, kuri tiek ievadīti sistēmā,
 tiek saglabāti un, nepieciešamības gadijumā, var tos atlasīt.
 Attiecīgi iespējams zināt, kādi darbi sagaida dienas gaitā, vai arī
-attiecīgajā :doc:`atlases kritērija periodā<874>`.
+attiecīgajā :doc:`atlases kritērija periodā<874>` .
 
 Atgādinātājus iespējams piesaistīt jebkuram dokumentam.
 
@@ -65,7 +65,7 @@ adresāts, virsraksts un atgādinājuma datums.
 Ja atgādinājums ir uzrakstīts un visi obligātie lauki aizpildīti, tad
 spiežot pogu , atgādinājums tiek saglabāts sistēmā.
 
-Lai atgādinātāju "Izpildītu" (:doc:`statuss Izpildīts<843>`), kad nav
+Lai atgādinātāju "Izpildītu" (:doc:`statuss Izpildīts<843>` ), kad nav
 nepieciešams turpināt atgādināt, jāieliek ķeksītis .
 
  

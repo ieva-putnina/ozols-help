@@ -3,22 +3,24 @@
 
 Grāmatojums ir pirmdokumenta kontējums. Grāmatojums tiek izveidots
 dokumenta veidā, un visi izveidotie grāmatojumi ir pieejami
-:doc:`Grāmatojumu žurnālā<131>`. Grāmatojums ar pirmdokumentu ir cieši
-saistīts, no pirmdokumenta ar CTRL+G komandas palīdzību var izsaukt
-dokumenta grāmatojumu. No grāmatojuma ekrāna formas var atvērt
+:doc:`Grāmatojumu žurnālā<131>` . Grāmatojums ar pirmdokumentu ir
+cieši saistīts, no pirmdokumenta ar CTRL+G komandas palīdzību var
+izsaukt dokumenta grāmatojumu. No grāmatojuma ekrāna formas var atvērt
 grāmatojuma pirmdokumentu. Aktīvās grāmatojumu atskaites sniedz
 detalizāciju līdz pat grāmatojuma atvēršanai no atskaites formas.
-Grāmatojot dokumentu, jāizvēlas :doc:`Grāmatojumu šablons<135>`, lai
+Grāmatojot dokumentu, jāizvēlas :doc:`Grāmatojumu šablons<135>` , lai
 automatizēti izveidotu kontējumu.
 
 Grāmatojuma satura kolonnas var konfigurēt, nosakot kādu informāciju
 jāparāda grāmatojuma saturā.
 
 
+
 Jauna manuālā grāmatojuma pievienošana
 ``````````````````````````````````````
 
 Izvēloties dokumenta veidu Grāmatojums, tiks atvērts jauns logs:
+
 
 
 
@@ -56,7 +58,9 @@ pēc LB kursa)
 
 3. Iespēja aizpildīt Grāmatojuma Paskaidrojumu, izvēloties
 paskaidrojuma tekstu nonodefinētajiem:doc:`Grāmatojumu
-paskaidrojuiem<628>`vai ierakstot Paskaidrojuma tekstu manuāli:
+paskaidrojuiem<628>` vai ierakstot Paskaidrojuma tekstu manuāli:
+
+
 
 
 
@@ -89,12 +93,14 @@ Pēcsatura ierakstu aizpildīšanas,ierakstu iespējams vai .
 
 
 
+
 Manuālā grāmatojuma Satura ierakstu labošana
 ++++++++++++++++++++++++++++++++++++++++++++
 
 Lai veiktu labojumus,satura ierakstunepieciešams atvērt, izmantojot
 rīku joslas pogu (ALT+A), unatvērtajāierakstā iespējams
 veiktnepieciešamos labojumus:
+
 
 
 
@@ -117,12 +123,12 @@ Jagrāmatojums ir aizpildīts, ir divas iespējas, kā saglabāt
 grāmatojumu:
 
 1) nospiežot pogu - grāmatojums tiks saglabāts :doc:`Grāmatojumu
-žurnālā<131>`, bet tas nebūs Apstiprināts, un līdz ar to būs iespēja
+žurnālā<131>` , bet tas nebūs Apstiprināts, un līdz ar to būs iespēja
 veikt korekcijas, ja tas būs nepieciešams;
 
 2) rīku joslā nospiežot pogu (Ctrl+R)- izpildot šo darbību,
 grāmatojums vienlaicīgi tiks saglabāts un apstiprināts, kasnozīmē,
 kagrāmatojuma sagatavošana ir pabeigta. Apstiprinātais grāmatojums būs
-pieejams :doc:`Grāmatojumu žurnālā<131>`.
+pieejams :doc:`Grāmatojumu žurnālā<131>` .
 
  

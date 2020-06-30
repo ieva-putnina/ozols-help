@@ -30,6 +30,7 @@ Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
 kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
 
 
+
 Karjeras datu pievienošana
 ++++++++++++++++++++++++++
 
@@ -37,7 +38,7 @@ Informāciju par karjerustrādājošajam iespējams izveidot:
 
 
 
-1. :doc:`Strādājošā aprakstā<111>`, sadāļā Personāls - iespējams
+1. :doc:`Strādājošā aprakstā<111>` , sadāļā Personāls - iespējams
 pievienot strādājošā karjeras datus:
 
 
@@ -66,6 +67,6 @@ Dati tiek saglabāti nospiežot pogu .
 
 
 
-Pievienotie ierakstitiek saglabāti:doc:`Karjeras dokumentos<762>`.
+Pievienotie ierakstitiek saglabāti:doc:`Karjeras dokumentos<762>` .
 
  

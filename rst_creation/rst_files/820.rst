@@ -3,7 +3,7 @@
 
 Pamatlīdzekļu dokuments paredzēts pamatlīdzekļu daļējai norakstīšanai.
 Dokuments pēc saglabāšanas ir pieejams :doc:`Pamatlīdzekļu dokumentu
-sarakstā<233>`.
+sarakstā<233>` .
 
 
 
@@ -29,7 +29,7 @@ Jāaizpilda dokumenta virsraksta dati:
 
 Numurs - jānorāda pamatlīdzekļa dokumenta numurs. Šis numurs strādājot
 ar sistēmu tiek piešķirts automātiski pēc iebūvētā
-:doc:`numeratora<139>`. Visiem pamatlīdzekļu dokumentiem ir viena
+:doc:`numeratora<139>` . Visiem pamatlīdzekļu dokumentiem ir viena
 numerācija.
 
 Datums - pamatlīdzekļu dokumenta izveidošanas datums.
@@ -59,7 +59,8 @@ funkciju .
 
 
 Pēc dokumenta apstiprināšanas Pamatlīdzekļu norakstīšanasdokuments
-(daļēji) ir :doc:`jānogrāmato<14044>`.
+(daļēji) ir :doc:`jānogrāmato<14044>` .
+
 
 
 

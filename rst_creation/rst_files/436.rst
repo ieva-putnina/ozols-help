@@ -5,7 +5,7 @@ Pamatlīdzekļu atlikumu ievades dokuments paredzēts pamatlīdzekļu
 sākuma atlikumu ievadei uzsākot darbu ar sistēmu. Šādu sistēmā
 pievienotupamatlīdzekļu datiatskaitēs vienmēr tiek rādīti kā sākuma
 atlikumi. Dokuments pēc saglabāšanas ir pieejams :doc:`Pamatlīdzekļu
-dokumentu sarakstā<233>`.
+dokumentu sarakstā<233>` .
 
 
 
@@ -20,7 +20,7 @@ Pamatlīdzekļu atlikumu ievades dokuments.
 
 Numurs - jānorāda pamatlīdzekļa dokumenta numurs. Šis numurs strādājot
 ar sistēmu tiek piešķirts automātiski pēc
-iebūvētā:doc:`numeratora<139>`. Visiem pamatlīdzekļu dokumentiem ir
+iebūvētā:doc:`numeratora<139>` . Visiem pamatlīdzekļu dokumentiem ir
 viena numerācija.
 
 Paskaidrojums - jānorāda dokumenta paskaidrojums.
@@ -38,6 +38,7 @@ pievienošanas jāspiež šī poga lai saglabātu izveidoto dokumentu.
 Lai izveidotā Pamatlīdzekļu atlikumu ievades dokumenta dati stātos
 spēkā obligāti pēc saglabāšanas dokuments ir jāapstiprina ar funkciju
 .
+
 
 
 
@@ -102,7 +103,7 @@ Iegādes dat. - jānorāda faktiskais iegādes datums.
 
 Ieg. vērtība - jānorāda pamatlīdzekļa iegādes vērtība.
 
-Īpašuma veids - jānorāda :doc:`pamatlīdzekļa īpašuma veids<183>`.
+Īpašuma veids - jānorāda :doc:`pamatlīdzekļa īpašuma veids<183>` .
 
 Izsl.datums - šis lauks tiek aizpildīts automātiski pēc pamatlīdzekļa
 izslēgšanas un lietotājs to mainīt nevar.
@@ -120,19 +121,19 @@ Stājies ekspl. - jānorāda pamatlīdzekļa faktiskais stāšanās
 ekspluatācijā datums.
 
 mēn. - jānorāda derīgās lietošanas mēneši. Šis lauks tiek aizpildīts
-automātiski pievienojot :doc:`Pamatlīdzeklim kategoriju<129>`, bet
+automātiski pievienojot :doc:`Pamatlīdzeklim kategoriju<129>` , bet
 lietotājam ir iespēja derīgās lietošanas mēnešu skaitu mainīt
 atbilstoši uzņēmumā noteiktajam laikam.
 
 Der.liet.beig.dat. - šis lauks nav jāaizpilda un ir informatīvs. Dati
 tiek rādīti ņemot vērā Stājies ekspl. un mēn. norādītos datus.
 
-Kategorija - jānorāda :doc:`Pamatlīdzekļa kategorija<129>`. Caur
-:doc:`Pamatlīdzekļu kategoriju<129>`pamatlīdzeklim tiek nodefinēts
+Kategorija - jānorāda :doc:`Pamatlīdzekļa kategorija<129>` . Caur
+:doc:`Pamatlīdzekļu kategoriju<129>` pamatlīdzeklim tiek nodefinēts
 pamatlīdzekļa uzskaites konts, nolietojuma konts, izdevumu konts un
 derīgās lietošanas laiks.
 
-Objekts - jānorāda :doc:`pamatlīdzekļa objekts<202>`.
+Objekts - jānorāda :doc:`pamatlīdzekļa objekts<202>` .
 
 Dimensijas - iespēja norādīt uzņēmumā izmantojamo dimensiju vērtības
 (piem. ekonomiskās klasifikācijas kods, valdības funkcija, projekts,
@@ -140,7 +141,7 @@ finansējums, utt.).
 
 Struktūrv. - jānorāda struktūrvienība.
 
-Atb.persona - jānorāda materiāli :doc:`atbildīgā persona<195>`.
+Atb.persona - jānorāda materiāli :doc:`atbildīgā persona<195>` .
 
 Uzsk.vērtība - jānorāda uzskaites vērtība finanšu vajadzībām un
 jānorāda uzskaites vērtība nodokļu vajadzībām.
@@ -151,22 +152,23 @@ uzsāktsdarbs arsistēmu.
 
 
 
-Piegādātājs - iespēja norādīt pamatlīdzekļa:doc:`Piegādātāju<112>`.
+Piegādātājs - iespēja norādīt pamatlīdzekļa:doc:`Piegādātāju<112>` .
 
 Līgums - iespēja norādīt līguma numuru.
 
 Garantijas term. - iespēja norādīt pamatlīdzekļa garantijas termiņu.
 
-Piegādātāja valsts - iespēja norādīt piegādātāja:doc:`valsti<103>`.
+Piegādātāja valsts - iespēja norādīt piegādātāja:doc:`valsti<103>` .
 
-Apdr.sabiedr. - iespēja norādīt :doc:`Apdrošināšanas sabiedrību<155>`.
+Apdr.sabiedr. - iespēja norādīt :doc:`Apdrošināšanas sabiedrību<155>`
+.
 
 Max.atlīdzība - iespēja norādīt apdrošināšanas maksimālo atlīdzību.
 
 Garantijas term. - iespēja norādīt maksimālās atlīdzības garantijas
 termiņu.
 
-Pazīme - iespēja norādīt :doc:`Pamatlīdzekļa pazīmi<130>`.
+Pazīme - iespēja norādīt :doc:`Pamatlīdzekļa pazīmi<130>` .
 
 Platība - ja pamatlīdzeklis ir zeme vai nekustamais īpašums, tad ir
 iespēja norādīt platību.

@@ -5,8 +5,8 @@ Grāmatvedības sistēmā Ozols datu uzskaite notiek nodrošinot
 identificēto datu - pirmdokumentuautomātisku pārnesi no CSNRZRS uz
 OZOLS. Dokumenti tiek sagrupēti dokumentu žurnālos.
 
-Dokumentu žurnāli ir pieejami no izvēlnes :doc:`Dokumenti<4201>`un tie
-sīkāk tiek sadalīti pēc operāciju nozīmes:
+Dokumentu žurnāli ir pieejami no izvēlnes :doc:`Dokumenti<4201>` un
+tie sīkāk tiek sadalīti pēc operāciju nozīmes:
 
 
 + :doc:`CSNg. žurnāls<4209>`
@@ -17,7 +17,7 @@ sīkāk tiek sadalīti pēc operāciju nozīmes:
 
 Dokumentu veidošanā tiek izmantota pārnestā informācija no CNSRZRS un
 sistēmā OZOLS esošie saraksti. Saraksti ir pieejami no izvēlnes
-:doc:`Saraksti<4203>`. Saraksti tiek izmantoti LTAB moduļa darba
+:doc:`Saraksti<4203>` . Saraksti tiek izmantoti LTAB moduļa darba
 režīmā.
 
  .. toctree::   :maxdepth: 5    4225.rst   4205.rst   4209.rst   4212.rst   4211.rst   4226.rst   4210.rst   4214.rst   4220.rst

@@ -27,8 +27,8 @@ Priekšnosacījumi sekmīgai rēķinu nosūtīšanai elektroniskā formātā pa
 e-pastu
 ```````
 
-1. Pirms algu lapiņu izsūtīšanas:doc:`<304>`,:doc:`partneru
-kartiņā<312>`jābūt norādītam partnera e-pastam:
+1. Pirms algu lapiņu izsūtīšanas:doc:`<304>` ,:doc:`partneru
+kartiņā<312>` jābūt norādītam partnera e-pastam:
 
 
 
@@ -107,7 +107,7 @@ izsūtīšanai sagatavotajām algu lapiņām:
 
 
 Ieraksti par izsūtītajām algu lapiņām tiek saglabāti Pasta modulī
-:doc:`nosūtīto vēstuļu žurnālā<298>`.
+:doc:`nosūtīto vēstuļu žurnālā<298>` .
 
 
 

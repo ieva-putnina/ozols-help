@@ -1,2 +1,2 @@
-.. 12 Konfigurācija================= 
+.. 12 Konfigurācija================= .. role:: raw-html(raw)     :format: html
  .. toctree::   :maxdepth: 6    13.rst   706.rst   19.rst   722.rst
