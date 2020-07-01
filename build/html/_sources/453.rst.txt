@@ -12,23 +12,26 @@ Lai slēgtu perioda dokumentus
    vairākiem uzņēmumiem), jānorāda pievienotais Dokumentu periods,
    jāatzīmē dokumenti, kuri tiks slēgti un jānospiež poga Slēgt/Atslēgt:
 
-.. image:: images_ozols/26438.png
-   :scale: 100%
-
+|images_ozols/26438.png|
 
 Pēc atzīmēto dokumentu slēgšanas konkrētajā periodā, sistēmas
 lietotājiem, veicot darbības ar slēgtā perioda dokumentiem, tiks
 parādīts paziņojums un aizlieta darbība ar dokumentu:
 
-.. image:: images_ozols/26439.png
-   :scale: 100%
-
+|images_ozols/26439.png|
 
 Lai atslēgtu perioda dokumentus, jāveic tādas pat darbības kā pie
 perioda dokumentu slēgšanas - jāatzīmē dokumenti izņemot atzīmes,kurus
-nepieciešams atslēgt un jānospiež poga .. image::
-images_ozols/26440.png
-   :scale: 100%
-. Ar šo pogu tiek gan slēgti gan atslēgti konkrētā perioda dokumenti.
+nepieciešams atslēgt un jānospiež poga |images_ozols/26440.png| . Ar
+šo pogu tiek gan slēgti gan atslēgti konkrētā perioda dokumenti.
+
+.. |images_ozols/26438.png| image:: images_ozols/26438.png
+    :scale: 100%
+
+.. |images_ozols/26439.png| image:: images_ozols/26439.png
+    :scale: 100%
+
+.. |images_ozols/26440.png| image:: images_ozols/26440.png
+    :scale: 100%
 
  

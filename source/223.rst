@@ -26,9 +26,7 @@ atbilstošajā periodā:
 
 
 
-.. image:: images_ozols/26526.png
-:scale: 100%
-
+|images_ozols/26526.png|
 
 
 
@@ -47,5 +45,8 @@ piezīmes.
 Uzņēmuma sociālā nodokļa likme un summas tiek noteiktas algu aprēķina
 laikā un parādītas algu rezultātu atskaitēs atbilstoši izveidotajai
 algu aprēķina un atskaišu kolonnu konfigurācijai.
+
+.. |images_ozols/26526.png| image:: images_ozols/26526.png
+    :scale: 100%
 
  

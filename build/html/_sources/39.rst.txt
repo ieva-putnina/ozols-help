@@ -8,15 +8,13 @@ darbībai nepieciešams :doc:`Personāla<47>` uzskaites modulis.
 
 
 
-.. image:: images_ozols/24545.gif
-        :scale: 100%
-Ja tiek iegādātas licences tikai Algu modulim (bez Personāla moduļa
-licences iegādes), tad Algu aprēķinus iespējams veikt izmantojot
-Personāla moduļa darba režīmus, kuriem pilnā Personāla moduļa licenci
-nav nepieciešams iegādāties. Iegādājoties tikai Algu moduli,
-lietotājam iespējams izmantot sekojošus Personāla moduļa darba
-režīmus: :doc:`Rīkojumu žurnāls<209>` , :doc:`Amati<186>` ,
-:doc:`Atvaļinājumu kalendāri<284>` , :doc:`Kalendāri<218>` ,
+|images_ozols/24545.gif| Ja tiek iegādātas licences tikai Algu modulim
+(bez Personāla moduļa licences iegādes), tad Algu aprēķinus iespējams
+veikt izmantojot Personāla moduļa darba režīmus, kuriem pilnā
+Personāla moduļa licenci nav nepieciešams iegādāties. Iegādājoties
+tikai Algu moduli, lietotājam iespējams izmantot sekojošus Personāla
+moduļa darba režīmus: :doc:`Rīkojumu žurnāls<209>` , :doc:`Amati<186>`
+, :doc:`Atvaļinājumu kalendāri<284>` , :doc:`Kalendāri<218>` ,
 :doc:`Kalendārs<216>` , :doc:`Notikumu saraksts<217>` ,
 :doc:`Personāla kategorijas<127>` , :doc:`Profesiju
 klasifikators<128>` , :doc:`Slodzes<207>` , :doc:`Slodžu veidi<288>` ,
@@ -56,5 +54,8 @@ sagatavošanu un eksportu sociālās apdrošināšanas iestāžu vajadzībām;
 + Visu LR likumdošanai atbilstošo algas :doc:`pārskatu<59>`
   automatizētu sagatavošanu un uzglabāšanu.
 
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
 
  .. toctree::   :maxdepth: 6    57.rst   25.rst   844.rst   28.rst   29.rst   8.rst

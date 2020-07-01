@@ -9,9 +9,7 @@ dokumentužurnāli atrodami zematbilstošā moduļa sadaļā "Dokumenti"
 Lai pievienotu jaunu dokumentu var izmantot (vairākas programas
 piedāvātās iespējas):
 
-1) komandu.. image:: images_ozols/24708.png
-:scale: 100%
-no rīku joslas
+1) komandu |images_ozols/24708.png| no rīku joslas
 
 2) taustiņu kombināciju Alt+P
 
@@ -28,9 +26,7 @@ Kad ir pievienots jauns dokuments, ir jāizvēlas dokumenta veids.
 
 
 
-.. image:: images_ozols/25150.png
-:scale: 100%
-
+|images_ozols/25150.png|
 
 
 
@@ -42,9 +38,7 @@ satura sadaļas.
 
 
 
-.. image:: images_ozols/25146.png
-:scale: 100%
-
+|images_ozols/25146.png|
 
 
 
@@ -52,15 +46,11 @@ Ja dokuments ir aizpildīts, ir divas iespējas, kā saglabāt dokumentu:
 
 
 
-1) nospiežot pogu .. image:: images_ozols/24615.jpg
-:scale: 100%
-(šādi dokuments tiks saglabāts, bet būs iespēja veikt korekcijas, ja
-tas būs nepieciešams)
+1) nospiežot pogu |images_ozols/24615.jpg| (šādi dokuments tiks
+saglabāts, bet būs iespēja veikt korekcijas, ja tas būs nepieciešams)
 
-2) nospiežot pogu.. image:: images_ozols/24715.gif
-:scale: 100%
-no rīku joslas, dokuments tiek apstiprināts un nozīmē, ka dokumenta
-sagatavošana ir pabeigta.
+2) nospiežot pogu |images_ozols/24715.gif| no rīku joslas, dokuments
+tiek apstiprināts un nozīmē, ka dokumenta sagatavošana ir pabeigta.
 
 Dokumentu var apstiprināt arī izmantojot taustiņu kombināciju CtrL+R ,
 izvēloties komandu "Apstiprināt" no izvēlnes Dati vainospiežot peles
@@ -74,9 +64,7 @@ jāiegrāmato.
 Iegrāmatot var tikai apstiprinātu dokumentu. Dokumentu variegrāmatot
 izmantojot:
 
-1) komandu.. image:: images_ozols/24716.gif
-:scale: 100%
-no rīku joslas
+1) komandu |images_ozols/24716.gif| no rīku joslas
 
 2) taustiņu kombināciju CtrL+G
 
@@ -103,5 +91,23 @@ Dokuments tiek uzskatīts par sagatavotu un pabeigtu, ja ir veiktas
 4) dokuments ir iegrāmatots
 
 5) dokumenta grāmatojums ir apstiprināts
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/25150.png| image:: images_ozols/25150.png
+    :scale: 100%
+
+.. |images_ozols/25146.png| image:: images_ozols/25146.png
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
+
+.. |images_ozols/24715.gif| image:: images_ozols/24715.gif
+    :scale: 100%
+
+.. |images_ozols/24716.gif| image:: images_ozols/24716.gif
+    :scale: 100%
 
  

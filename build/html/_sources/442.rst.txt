@@ -3,19 +3,13 @@ Pamatlīdzekļu likvidācijas vērtības korekcijas dokuments tiek veidots,
 ja nepieciešams mainīt pamatlīdzekļa likvidācijas vērtību. Dokuments
 pēc saglabāšanas ir pieejams :doc:`Pamatlīdzekļu dokumentu<233>`
 žurnālā. Lai pievienotu jaunu pamatlīdzekļu likvidācijas vērtības
-korekcijas dokumentu, rīku joslā jānospiež paga.. image::
-images_ozols/24708.png
-:scale: 100%
-. Tiek atvērts logs, kur jānospiež poga .. image::
-images_ozols/24708.png
-:scale: 100%
-:
+korekcijas dokumentu, rīku joslā jānospiež paga
+|images_ozols/24708.png| . Tiek atvērts logs, kur jānospiež poga
+|images_ozols/24708.png| :
 
 
 
-.. image:: images_ozols/25500.png
-:scale: 100%
-
+|images_ozols/25500.png|
 
 
 
@@ -25,19 +19,33 @@ Likvid.summa: jaunā likvidācijas summa;
 
 Piezīmes : iespējams pierakstīt piezīmes.
 
-Kad pamatlīdzekļa likvidācijas summa ir ierakstīta, jānospiež poga ..
-image:: images_ozols/24710.png
-:scale: 100%
-. Dokumentam ir iespējams pievienot vairākus pamtlīdzekļus ar manītu
-likvidācijas vērtību. Lai atvērtu un, ja nepieciešams, dzēstu vai
-labotu dokumeta ierakstu, attiecīgi jānospiež poga .. image::
-images_ozols/24720.gif
-:scale: 100%
-vai .. image:: images_ozols/24719.gif
-:scale: 100%
-. Kad visi ieraksti veikti, tad pamatlīdzekļa likvidācijas vērtības
-korekcijas dokumentā jānospiež poga.. image:: images_ozols/24615.jpg
-:scale: 100%
-.
+Kad pamatlīdzekļa likvidācijas summa ir ierakstīta, jānospiež poga
+|images_ozols/24710.png| . Dokumentam ir iespējams pievienot vairākus
+pamtlīdzekļus ar manītu likvidācijas vērtību. Lai atvērtu un, ja
+nepieciešams, dzēstu vai labotu dokumeta ierakstu, attiecīgi jānospiež
+poga |images_ozols/24720.gif| vai |images_ozols/24719.gif| . Kad visi
+ieraksti veikti, tad pamatlīdzekļa likvidācijas vērtības korekcijas
+dokumentā jānospiež poga |images_ozols/24615.jpg| .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/25500.png| image:: images_ozols/25500.png
+    :scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+    :scale: 100%
+
+.. |images_ozols/24720.gif| image:: images_ozols/24720.gif
+    :scale: 100%
+
+.. |images_ozols/24719.gif| image:: images_ozols/24719.gif
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
 
  

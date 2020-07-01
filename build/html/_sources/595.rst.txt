@@ -10,23 +10,25 @@ par kuru periodu ienākuma nodoklis atskaitē ir jāiekļauj. Noteikti
 jānorāda sociālā nodokļa aprēķina metode, lai sagatavotu atsevišķas
 atskaites pensionāriem, invalīdiem u.c.
 
-.. image:: images_ozols/26551.png
-:scale: 100%
-
+|images_ozols/26551.png|
 
 Ja atsevišķa atskaite ir jāizveido tiem atlaistajiem darbiniekiem,
 kuriem atskaitē jāiekļauj tikai ienākuma nodoklis, tad Sociālā nodokļa
 metodes laukā jāizvēlas parametrs „Ieturēts tikai iedzīvotāju ienākuma
 nodoklis”.
 
-.. image:: images_ozols/26552.png
-:scale: 100%
-
+|images_ozols/26552.png|
 
 Lai atskaitē tiktu parādīti aprēķinātā uzņēmējdarbības riska nodeva,
 tās lielums vienam strādājošajam jāieraksta laukā Riska nodeva.
 Izveidotās atskaites tiek saglabātas atskaišu :doc:`sarakstā<596>` ,
 kur pēc tam ir pieejamas apskatei un atkārtotai drukāšanai.
 
+
+.. |images_ozols/26551.png| image:: images_ozols/26551.png
+    :scale: 100%
+
+.. |images_ozols/26552.png| image:: images_ozols/26552.png
+    :scale: 100%
 
  

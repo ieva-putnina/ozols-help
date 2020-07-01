@@ -3,9 +3,7 @@ Nomenklatūras koda ģenerēšanu nosaka konfigurācijas iestādījumi:
 
 
 
-.. image:: images_ozols/25311.png
-:scale: 100%
-
+|images_ozols/25311.png|
 
 
 
@@ -17,9 +15,7 @@ pievienotā ražotāja koda. Laukā Simbols var norādīt datu atdalītāju.
 
 
 
-.. image:: images_ozols/25312.png
-:scale: 100%
-
+|images_ozols/25312.png|
 
 Atzīmējot šo izvēles rūtiņu, dokumenta apmaksas termiņš tiks
 aprēķināts, par pamatu izmantojot norādīto dokumenta datumu laukā
@@ -27,9 +23,7 @@ aprēķināts, par pamatu izmantojot norādīto dokumenta datumu laukā
 
 
 
-.. image:: images_ozols/25314.png
-:scale: 100%
-
+|images_ozols/25314.png|
 
 Atzīmējot šo izvēles rūtiņu, iepirkumu un pārdošanas dokumentu saturā
 lauks "struktūrvienība", tiks aizpildīts no dokumentu virsrakstā
@@ -38,12 +32,22 @@ struktūrvienību iespējams piesaistīt :doc:`Noliktavas<142>` aprakstā).
 
 
 
-.. image:: images_ozols/25315.png
-:scale: 100%
-
+|images_ozols/25315.png|
 
 Izvēles rūtiņa jāatzīmē, ja Ozols modulis Noliktava tiek saistīts kopā
 ar uzņēmumā esošoiVeikalu, lai cena iepirkuma dokumenta precēm tiktu
 ņemta no iVeikalā norādītās.
+
+.. |images_ozols/25311.png| image:: images_ozols/25311.png
+    :scale: 100%
+
+.. |images_ozols/25312.png| image:: images_ozols/25312.png
+    :scale: 100%
+
+.. |images_ozols/25314.png| image:: images_ozols/25314.png
+    :scale: 100%
+
+.. |images_ozols/25315.png| image:: images_ozols/25315.png
+    :scale: 100%
 
  

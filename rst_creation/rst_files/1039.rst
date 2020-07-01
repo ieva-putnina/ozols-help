@@ -13,9 +13,7 @@ PZA1".
 
 
 
-.. image:: images_ozols/26572.jpg
-:scale: 100%
-
+|images_ozols/26572.jpg|
 
 
 

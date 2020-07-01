@@ -7,29 +7,21 @@ norādītajai slodzei un tiek izmantoti :doc:`algu aprēķinos<498>` .
 Izveidotie rīkojumi tiek parādīti personīgajā kontā un tiek izmantoti,
 lai sastādītu atskaiti par darbinieku kustību.
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Lai rīkojumu dokumenti piedalītos algu aprēķinos, tie obligāti
-jāapstiprina (rīku joslā poga .. image:: images_ozols/25702.png
-:scale: 100%
-).
+|images_ozols/24545.gif| Lai rīkojumu dokumenti piedalītos algu
+aprēķinos, tie obligāti jāapstiprina (rīku joslā poga
+|images_ozols/25702.png| ).
 
 
 
-Ar filtru .. image:: images_ozols/24942.png
-:scale: 100%
-ir iespējams atlasīt rīkojumus pēc viena rīkojuma veida, slodzes,
-datuma, slodzes statusa.Dati uz ekrāna tiek parādīti atbilstoši
-norādītajiem datu atlases kritērijiem filtra ekrāna formā. Rīku joslā
-nopiežot pogu.. image:: images_ozols/24535.gif
-:scale: 100%
+Ar filtru |images_ozols/24942.png| ir iespējams atlasīt rīkojumus pēc
+viena rīkojuma veida, slodzes, datuma, slodzes statusa.Dati uz ekrāna
+tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
+ekrāna formā. Rīku joslā nopiežot pogu |images_ozols/24535.gif|
 (Ctrl+F), tiek atvērts filtra logs:
 
 
 
-.. image:: images_ozols/26108.png
-:scale: 100%
-
+|images_ozols/26108.png|
 
 
 
@@ -53,9 +45,25 @@ Slodzes statuss : atlasīt datus - Rīkojumus pēc slodzes statusa
 
 
 LaiRīkojumu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
-kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga ..
-image:: images_ozols/25944.png
-:scale: 100%
-.
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga
+|images_ozols/25944.png| .
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/25702.png| image:: images_ozols/25702.png
+    :scale: 100%
+
+.. |images_ozols/24942.png| image:: images_ozols/24942.png
+    :scale: 100%
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+    :scale: 100%
+
+.. |images_ozols/26108.png| image:: images_ozols/26108.png
+    :scale: 100%
+
+.. |images_ozols/25944.png| image:: images_ozols/25944.png
+    :scale: 100%
 
  

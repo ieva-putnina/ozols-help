@@ -1,14 +1,10 @@
 .. 364 ==================================Elektronisko norēķinu sistēmas================================== 
-Lai pievienotu jaunu elektronisko norēķinu sistēmu jānospiež poga ..
-image:: images_ozols/24532.jpg
-   :scale: 100%
-un tiks atvērts jauns logs:
+Lai pievienotu jaunu elektronisko norēķinu sistēmu jānospiež poga
+|images_ozols/24532.jpg| un tiks atvērts jauns logs:
 
 
 
-.. image:: images_ozols/24581.jpg
-   :scale: 100%
-
+|images_ozols/24581.jpg|
 
 
 
@@ -16,9 +12,7 @@ Nepieciešams izvēlēties atbilstošo bankas sistēmu no saraksta:
 
 
 
-.. image:: images_ozols/24584.jpg
-   :scale: 100%
-
+|images_ozols/24584.jpg|
 
 
 
@@ -26,8 +20,18 @@ Jānorāda "ceļš" importa un eksporta katalogam:
 
 
 
-.. image:: images_ozols/24583.jpg
-   :scale: 100%
+|images_ozols/24583.jpg|
 
+.. |images_ozols/24532.jpg| image:: images_ozols/24532.jpg
+    :scale: 100%
+
+.. |images_ozols/24581.jpg| image:: images_ozols/24581.jpg
+    :scale: 100%
+
+.. |images_ozols/24584.jpg| image:: images_ozols/24584.jpg
+    :scale: 100%
+
+.. |images_ozols/24583.jpg| image:: images_ozols/24583.jpg
+    :scale: 100%
 
  

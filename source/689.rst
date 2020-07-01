@@ -5,16 +5,12 @@ Sarakstā iespējams jebkurai precei/krājumam nomenklatūras kartiņā
 norādīt minimālu un maksimālo daudzuma atlikumu Noliktavā.
 
 Lai nomenklatūras aprakstā norādītu minimālo un maksimālo daudzuma
-atlikumu Noliktavā,rīku joslānepieciešams nospiest pogu .. image::
-images_ozols/24708.png
-:scale: 100%
-:
+atlikumu Noliktavā,rīku joslānepieciešams nospiest pogu
+|images_ozols/24708.png| :
 
 
 
-.. image:: images_ozols/25328.png
-:scale: 100%
-
+|images_ozols/25328.png|
 
 
 
@@ -24,15 +20,25 @@ struktūrvienību, kurā šis krājums/prece ir atlikumā; Ek.kods, u.c.
 
 
 
-.. image:: images_ozols/25329.png
-:scale: 100%
-
+|images_ozols/25329.png|
 
 Pēc datu aizpildīšanas,norādītos minimālos un maksimālos
-atlikumadaudzumus Noliktavāiespējams .. image:: images_ozols/24615.jpg
-:scale: 100%
-vai .. image:: images_ozols/24617.jpg
-:scale: 100%
-.
+atlikumadaudzumus Noliktavāiespējams |images_ozols/24615.jpg| vai
+|images_ozols/24617.jpg| .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/25328.png| image:: images_ozols/25328.png
+    :scale: 100%
+
+.. |images_ozols/25329.png| image:: images_ozols/25329.png
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+    :scale: 100%
 
  

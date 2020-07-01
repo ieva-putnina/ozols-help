@@ -4,9 +4,7 @@ veidoti datu saraksti, kur saglabājas pievienotie dati:
 
 
 
-.. image:: images_ozols/25835.png
-   :scale: 100%
-
+|images_ozols/25835.png|
 
 
 
@@ -14,16 +12,13 @@ Atverot pievienotos viena partnera datus (:doc:`adreses<4432>` ,
 :doc:`bankas kontus<4431>` , :doc:`kontaktpersonas<4428>` vai
 :doc:`partnera aprakstu<4427>` ), logā ir iespējams redzēt visas
 informatīvās sadaļas, kas saistīta ar izvēlēto partneri. Sadaļās,
-kurās ir poga .. image:: images_ozols/25850.png
-   :scale: 100%
-, iespējams pievienot jaunus datus (:doc:`jaunu adresi<4439>` ,
-:doc:`jaunu bankas kontu<4440>` , :doc:`jaunu kontaktpersonu<4438>` ):
+kurās ir poga |images_ozols/25850.png| , iespējams pievienot jaunus
+datus (:doc:`jaunu adresi<4439>` , :doc:`jaunu bankas kontu<4440>` ,
+:doc:`jaunu kontaktpersonu<4438>` ):
 
 
 
-.. image:: images_ozols/25849.png
-   :scale: 100%
-
+|images_ozols/25849.png|
 
 
 
@@ -46,5 +41,14 @@ Nomenklatūras atlikumi : :doc:`nomenklatūras atlikumi<4456>` ;
 Pārdošanas dok .: :doc:`Pārdošanas dokumenti<4433>` ;
 
 Pers. dati : :doc:`personas dati<4409>` .
+
+.. |images_ozols/25835.png| image:: images_ozols/25835.png
+    :scale: 100%
+
+.. |images_ozols/25850.png| image:: images_ozols/25850.png
+    :scale: 100%
+
+.. |images_ozols/25849.png| image:: images_ozols/25849.png
+    :scale: 100%
 
  .. toctree::   :maxdepth: 5    4439.rst   4432.rst   4440.rst   4431.rst   4438.rst   5211.rst   4430.rst   4427.rst   4429.rst

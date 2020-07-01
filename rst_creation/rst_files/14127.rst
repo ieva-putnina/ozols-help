@@ -11,19 +11,15 @@ pievienot, izmantojot Algu Rīkus->:doc:`Algu aprēķins<498>` :
 
 
 
-Aktivizējot komandu: .. image:: images_ozols/26334.png
-:scale: 100%
-, visos pievienotajos algu aprēķinos tekošajā periodā tiks ielādēti
-dati no Rīkojumiem;
+Aktivizējot komandu: |images_ozols/26334.png| , visos pievienotajos
+algu aprēķinos tekošajā periodā tiks ielādēti dati no Rīkojumiem;
 
 
 
 2. Atverot strādājošā algu aprēķinu, datus ar komandu "Aizpildīt
 ieejošos kodus no slodzes kalendāra" var pievienot algu aprēķinam:
 
-.. image:: images_ozols/26336.png
-:scale: 100%
-
+|images_ozols/26336.png|
 
 
 
@@ -33,9 +29,7 @@ algu aprēķinam:
 
 
 
-.. image:: images_ozols/26335.png
-:scale: 100%
-
+|images_ozols/26335.png|
 
 
 Gadījumos, ja strādājošais mēneša sākumā iet atvaļinājumā, tad darba
@@ -46,5 +40,14 @@ aprēķināto algas daļu un atvaļinājuma naudu.nepieciešams
 izmantotkomandu "Aizpildīt ieejošos kodus no slodzes kalendāra līdz
 atvaļinājumam", kā rezultātā tiek ieimportētas kavētās kalendārās un
 kavētās darba dienas līdz mēneša beigām pēc atvaļinājuma.
+
+.. |images_ozols/26334.png| image:: images_ozols/26334.png
+    :scale: 100%
+
+.. |images_ozols/26336.png| image:: images_ozols/26336.png
+    :scale: 100%
+
+.. |images_ozols/26335.png| image:: images_ozols/26335.png
+    :scale: 100%
 
  

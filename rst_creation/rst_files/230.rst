@@ -9,40 +9,48 @@ dokumentu<22>` izveidošanā. Papildus Valūtu kursu informāciju izmanto
 aprēķināšanai<675>` Virsgrāmatā.
 
 Valūtu kursu sarakstu ir iespējams atlasīt attiecīgam periodam,
-nospiežot Rīku joslā pogu .. image:: images_ozols/24535.gif
-   :scale: 100%
-, tiek atvērts logs:
+nospiežot Rīku joslā pogu |images_ozols/24535.gif| , tiek atvērts
+logs:
 
 
 
-.. image:: images_ozols/25398.png
-   :scale: 100%
+|images_ozols/25398.png|
 
 
 
+Atvērtajā logā jānorāda periods, un, atzīmējot izvēles rūtiņu
+|images_ozols/25429.png| , jānospiež poga |images_ozols/25379.png| .
 
-Atvērtajā logā jānorāda periods, un, atzīmējot izvēles rūtiņu..
-image:: images_ozols/25429.png
-   :scale: 100%
-, jānospiež poga .. image:: images_ozols/25379.png
-   :scale: 100%
-.
+|images_ozols/24545.gif| Valūtu kursi tiek parādīti tikai tām valūtām,
+kuras ir pievienotas :doc:`Valūtu<119>` sarakstā.
 
-.. image:: images_ozols/24545.gif
-   :scale: 100%
-Valūtu kursi tiek parādīti tikai tām valūtām, kuras ir pievienotas
-:doc:`Valūtu<119>` sarakstā.
-
-Lai apskatītu Valūtu kursus,Rīku joslā jānospiež poga.. image::
-images_ozols/25420.png
-   :scale: 100%
-(Alt+A),tiek atvērts logs, kurā arī manuāli ir iespējams atjaunot
-Valūtu kursus, nospiežot attēlā iezīmēto pogu.
+Lai apskatītu Valūtu kursus,Rīku joslā jānospiež poga
+|images_ozols/25420.png| (Alt+A),tiek atvērts logs, kurā arī manuāli
+ir iespējams atjaunot Valūtu kursus, nospiežot attēlā iezīmēto pogu.
 
 
 
-.. image:: images_ozols/25430.png
-   :scale: 100%
+|images_ozols/25430.png|
 
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+    :scale: 100%
+
+.. |images_ozols/25398.png| image:: images_ozols/25398.png
+    :scale: 100%
+
+.. |images_ozols/25429.png| image:: images_ozols/25429.png
+    :scale: 100%
+
+.. |images_ozols/25379.png| image:: images_ozols/25379.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/25420.png| image:: images_ozols/25420.png
+    :scale: 100%
+
+.. |images_ozols/25430.png| image:: images_ozols/25430.png
+    :scale: 100%
 
  

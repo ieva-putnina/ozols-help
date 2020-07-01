@@ -7,11 +7,9 @@ Sarakstā tiek saglabāti apmaksu veidi, kas tiek izmantoti
 Jauna apmaksas veida pievienošana
 `````````````````````````````````
 
-Lai pievienotu jaunu apmaksas veidu jāizmanto komanda .. image::
-images_ozols/24708.png
-:scale: 100%
-no rīku joslas un tiks atvērts jauns logs, kur visi aizpildīšanas
-lauki būs tukši.
+Lai pievienotu jaunu apmaksas veidu jāizmanto komanda
+|images_ozols/24708.png| no rīku joslas un tiks atvērts jauns logs,
+kur visi aizpildīšanas lauki būs tukši.
 
 
 
@@ -19,9 +17,7 @@ Piemērs: "apmaksas veids - 14 dienas"
 
 
 
-.. image:: images_ozols/26118.png
-:scale: 100%
-
+|images_ozols/26118.png|
 
 
 
@@ -30,10 +26,8 @@ apmaksas termiņš pārdošanas un iepirkuma dokumentos.
 
 
 
-Jaunpievienotais ieraksts tiks saglabāts, izpildot komandu .. image::
-images_ozols/24710.png
-:scale: 100%
-
+Jaunpievienotais ieraksts tiks saglabāts, izpildot komandu
+|images_ozols/24710.png|
 
 
 
@@ -41,15 +35,11 @@ Pievienotā apmaksas veida labošana
 ``````````````````````````````````
 
 Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
-atvērt, izmantojot rīku joslas pogu .. image:: images_ozols/24709.png
-:scale: 100%
-(ALT+A). Atvērtajā logā var mainīt jebkuru informāciju pēc
-nepieciešamības. Pēc labojumu veikšanas, veiktās izmaņas iespējams
-saglabāt ar komandu .. image:: images_ozols/24710.png
-:scale: 100%
-vai atcelt ar komandu .. image:: images_ozols/24617.jpg
-:scale: 100%
-
+atvērt, izmantojot rīku joslas pogu |images_ozols/24709.png| (ALT+A).
+Atvērtajā logā var mainīt jebkuru informāciju pēc nepieciešamības. Pēc
+labojumu veikšanas, veiktās izmaņas iespējams saglabāt ar komandu
+|images_ozols/24710.png| vai atcelt ar komandu
+|images_ozols/24617.jpg|
 
 
 
@@ -57,9 +47,28 @@ Pievienotā apmaksas veida dzēšana
 `````````````````````````````````
 
 Lai dzēstu apmaksas veida ierakstu, tas ir jāiezīmē ar kursoru.
-Ieraksts nav jāatver. Izmantojot komandu .. image::
-images_ozols/24719.gif
-:scale: 100%
-no rīku joslas (ALT+Z) jādzēš ieraksts.
+Ieraksts nav jāatver. Izmantojot komandu |images_ozols/24719.gif| no
+rīku joslas (ALT+Z) jādzēš ieraksts.
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/26118.png| image:: images_ozols/26118.png
+    :scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+    :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+    :scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+    :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+    :scale: 100%
+
+.. |images_ozols/24719.gif| image:: images_ozols/24719.gif
+    :scale: 100%
 
  

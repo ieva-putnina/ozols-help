@@ -4,15 +4,12 @@ par visiem uzņēmuma pamatlīdzekļiem. Atverot pamatlīdzekli vai
 nemateriālo aktīvu, ir iespējams redzēt visas darbības, kuras veiktas
 ar šo pamatlīdzekli vai nemateriālo aktīvu.
 
-Izmantojot Rīku joslā pogu.. image:: images_ozols/24535.gif
-:scale: 100%
-, tiek atvērts filtra logs:
+Izmantojot Rīku joslā pogu |images_ozols/24535.gif| , tiek atvērts
+filtra logs:
 
 
 
-.. image:: images_ozols/25499.png
-:scale: 100%
-
+|images_ozols/25499.png|
 
 
 
@@ -56,9 +53,16 @@ pamatlīdzekļus;
 Rādīt tikai dubultos PL inventarizācijas numurus: atlasīt tikai tos
 pamatlīdzekļus, kuriem ir dubultie inventarizācijas numuri.
 
-Norādot visus atlasīšanas kritērijus, jānospiež poga.. image::
-images_ozols/25379.png
-:scale: 100%
-.
+Norādot visus atlasīšanas kritērijus, jānospiež poga
+|images_ozols/25379.png| .
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+    :scale: 100%
+
+.. |images_ozols/25499.png| image:: images_ozols/25499.png
+    :scale: 100%
+
+.. |images_ozols/25379.png| image:: images_ozols/25379.png
+    :scale: 100%
 
  

@@ -8,11 +8,10 @@ konkrēta uzņēmuma dokumenti, lietotājam nebūs pieejama cita uzņēmuma
 dokumentu pievienošana un datu apskate.
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Katram individuālam lietotājam tiks piešķirtas tādas tiesības, kādas
-būs noteiktas grupām - ja lietotājs vienlaicīgi atradīsies vairākās
-grupām, tad šim lietotājām tiesības tiks summētas.
+|images_ozols/24545.gif| Katram individuālam lietotājam tiks
+piešķirtas tādas tiesības, kādas būs noteiktas grupām - ja lietotājs
+vienlaicīgi atradīsies vairākās grupām, tad šim lietotājām tiesības
+tiks summētas.
 
 
 
@@ -23,9 +22,7 @@ pievienotie uzņēmumi:
 
 
 
-.. image:: images_ozols/25775.png
-:scale: 100%
-
+|images_ozols/25775.png|
 
 
 
@@ -35,16 +32,24 @@ pievienotie uzņēmumi:
 
 2.Jāaktivizē tie uzņēmumi, kuri šīs grupas lietotājiem būs pieejami
 
-3. Lai saglabātu tiesības iezīmētajai grupai, jānospiež poga ..
-image:: images_ozols/25771.png
-:scale: 100%
-
+3. Lai saglabātu tiesības iezīmētajai grupai, jānospiež poga
+|images_ozols/25771.png|
 
 4. Lai aizvērtu "Lietotāju tiesības darba režīmiem" logu, jānospiež
-poga .. image:: images_ozols/25772.png
-:scale: 100%
+poga |images_ozols/25772.png|
 
 
 
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/25775.png| image:: images_ozols/25775.png
+    :scale: 100%
+
+.. |images_ozols/25771.png| image:: images_ozols/25771.png
+    :scale: 100%
+
+.. |images_ozols/25772.png| image:: images_ozols/25772.png
+    :scale: 100%
 
  

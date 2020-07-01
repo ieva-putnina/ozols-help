@@ -32,9 +32,7 @@ kādiem atskaite tiks sagatavota:
 
 
 
-.. image:: images_ozols/26513.png
-:scale: 100%
-
+|images_ozols/26513.png|
 
 
 
@@ -45,16 +43,12 @@ periodu:
 
 
 
-.. image:: images_ozols/26514.png
-:scale: 100%
+|images_ozols/26514.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Par pamatu atskaites informācijas aizpildīšanai tiek izmantoti
-nomenklatūras aprakstā definētie kodi:
+|images_ozols/24545.gif| Par pamatu atskaites informācijas
+aizpildīšanai tiek izmantoti nomenklatūras aprakstā definētie kodi:
 
 **KN kods:** preces 8-zīmju kods atbilstoši ES kombinētajai
 nomenklatūrai - to iespējams norādīt :doc:`Nomenklatūras<106>`
@@ -70,18 +64,14 @@ aprakstā, sadaļā "Nomenklatūra"):
 
 
 
-.. image:: images_ozols/26518.png
-:scale: 100%
+|images_ozols/26518.png|
 
 
 
 
 
-
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Kā arī pamatinformācija par saņemto preču daudzumu un summām no
-:doc:`Iepirkuma dokumenta<310>` :
+|images_ozols/24545.gif| Kā arī pamatinformācija par saņemto preču
+daudzumu un summām no :doc:`Iepirkuma dokumenta<310>` :
 
 
 
@@ -103,39 +93,59 @@ aprakstā norādītās Valsts kods);
 
 Sagatavoto atskaiti iespējams saglabāt :doc:`Intrastat atskaišu
 sarakstā...<989>` :doc:`<531>` , kur tā būs pieejama
-labošanai/drukāšanai, nospiežot pogu: .. image::
-images_ozols/25054.png
-:scale: 100%
-.
+labošanai/drukāšanai, nospiežot pogu: |images_ozols/25054.png| .
 
 
 
-Nospiežot pogu .. image:: images_ozols/24617.jpg
-:scale: 100%
-atskaite sagatavota netiks un darbība tiks atcelta. Ja atskaite tiek
-izveidota un nav jāsaglabā, jālieto komanda Atcelt . Ja atskaite ir
-saglabāta sarakstā, komandu Atcelt var izmantot, lai nesaglabātu
-atskaitē veiktās izmaiņas.
+Nospiežot pogu |images_ozols/24617.jpg| atskaite sagatavota netiks un
+darbība tiks atcelta. Ja atskaite tiek izveidota un nav jāsaglabā,
+jālieto komanda Atcelt . Ja atskaite ir saglabāta sarakstā, komandu
+Atcelt var izmantot, lai nesaglabātu atskaitē veiktās izmaiņas.
 
 
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Sagatavotu atskaiti ir iespējams, rīku joslā nospiežot pogu .. image::
-images_ozols/25813.png
-:scale: 100%
-un izvēloties atbilstošo izdrukas formu (pieejamas 2 izdrukas formas -
-atskaites Virsraksta un Satura informācijas drukāšanai):
+|images_ozols/24545.gif| Sagatavotu atskaiti ir iespējams, rīku joslā
+nospiežot pogu |images_ozols/25813.png| un izvēloties atbilstošo
+izdrukas formu (pieejamas 2 izdrukas formas - atskaites Virsraksta un
+Satura informācijas drukāšanai):
 
 
 
 
-.. image:: images_ozols/26517.png
-:scale: 100%
+|images_ozols/26517.png|
 
 
 
 
+.. |images_ozols/26513.png| image:: images_ozols/26513.png
+    :scale: 100%
+
+.. |images_ozols/26514.png| image:: images_ozols/26514.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/26518.png| image:: images_ozols/26518.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/25054.png| image:: images_ozols/25054.png
+    :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/25813.png| image:: images_ozols/25813.png
+    :scale: 100%
+
+.. |images_ozols/26517.png| image:: images_ozols/26517.png
+    :scale: 100%
 
  

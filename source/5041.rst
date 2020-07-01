@@ -16,9 +16,7 @@ dokuments no pieprasījumu saraksta:
 
 
 
-.. image:: images_ozols/26330.png
-:scale: 100%
-
+|images_ozols/26330.png|
 
 
 
@@ -27,9 +25,7 @@ un, pēc komentāru pievienošanas, jānospiež poga Izskatīts:
 
 
 
-.. image:: images_ozols/26317.png
-:scale: 100%
-
+|images_ozols/26317.png|
 
 
 
@@ -44,9 +40,7 @@ fonu ir atzīmēti komentāri:
 
 
 
-.. image:: images_ozols/26319.png
-:scale: 100%
-
+|images_ozols/26319.png|
 
 
 
@@ -57,9 +51,7 @@ summām:
 
 
 
-.. image:: images_ozols/26326.png
-:scale: 100%
-
+|images_ozols/26326.png|
 
 
 
@@ -70,9 +62,7 @@ datumā:
 
 
 
-.. image:: images_ozols/26328.png
-:scale: 100%
-
+|images_ozols/26328.png|
 
 
 
@@ -81,5 +71,20 @@ Apstiprināt. Lai atceltu darbību-poga Atcelt.
 
 Saglabātie budžeta pieprasījumi ir pieejami :doc:`budžeta pieprasījumu
 žurnālā<5035>` un budžeta plānošanas :doc:`atskaitēs<5042>` .
+
+.. |images_ozols/26330.png| image:: images_ozols/26330.png
+    :scale: 100%
+
+.. |images_ozols/26317.png| image:: images_ozols/26317.png
+    :scale: 100%
+
+.. |images_ozols/26319.png| image:: images_ozols/26319.png
+    :scale: 100%
+
+.. |images_ozols/26326.png| image:: images_ozols/26326.png
+    :scale: 100%
+
+.. |images_ozols/26328.png| image:: images_ozols/26328.png
+    :scale: 100%
 
  .. toctree::   :maxdepth: 4    6660.rst   6661.rst   6659.rst   6662.rst

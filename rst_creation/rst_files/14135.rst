@@ -23,17 +23,13 @@ budžeta plāna, nepieciešams pievienot jaunu iepirkuma dokumentu
 Iepirkumu dokumentu žurnālā. Pēc dokumenta Virsraksta aizpildīšanas,
 nepieciešams izpildīt funkciju:
 
-.. image:: images_ozols/26457.png
-:scale: 100%
-
+|images_ozols/26457.png|
 
 Izpildot šo funkciju, tiks atvērts jauns satura logs, kur nepieciešams
 norādīt pamatkritērijus, pēc kuriem iepirkuma dokumenta saturs tiks
 aizpildīts:
 
-.. image:: images_ozols/26458.png
-:scale: 100%
-
+|images_ozols/26458.png|
 
 **Bankas konts:** Jāizvēlas atbilstošais bankas konts, balstoties uz
 kuru tiks aizpildīts procentuālais sadalījums no budžeta plāna
@@ -52,21 +48,30 @@ nepieciešams nospiest pogu "Aizpildīt".
 Pēc šīs darbības izpildes, dokumenta saturs tiks aizpildīts atbilstoši
 norādīto kritēriju procentuālajam sadalījumam no budžeta plāna:
 
-.. image:: images_ozols/26459.png
-:scale: 100%
-
+|images_ozols/26459.png|
 
 Pēc dokumenta satura aizpildīšanas, dokuments ir sekmīgi ievadīts un
 to ir iespējams:
 
-1. Saglabāt, nospiežot pogu .. image:: images_ozols/24615.jpg
-:scale: 100%
--dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošana :doc:`Iepirkumu dokumentu<210>`
-žurnālā;
-2. Apstiprināt, nospiežot rīku joslā pogu.. image::
-images_ozols/24740.png
-:scale: 100%
-- iepirkumu dokuments tiks Apstiprināts un to būs iespējams Grāmatot.
+1. Saglabāt, nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
+saglabāts un būs pieejams apskatei/labošanai/grāmatošana
+:doc:`Iepirkumu dokumentu<210>` žurnālā;
+2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| -
+iepirkumu dokuments tiks Apstiprināts un to būs iespējams Grāmatot.
+
+.. |images_ozols/26457.png| image:: images_ozols/26457.png
+    :scale: 100%
+
+.. |images_ozols/26458.png| image:: images_ozols/26458.png
+    :scale: 100%
+
+.. |images_ozols/26459.png| image:: images_ozols/26459.png
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+    :scale: 100%
 
  

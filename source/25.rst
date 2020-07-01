@@ -28,13 +28,15 @@ atvērtajam algu aprēķina periodam.
 
 
 
-.. image:: images_ozols/24545.gif
-   :scale: 100%
-Lai algu aprēķinā tiktu piemērotas pareizas nodokļu likmes, jāpārbauda
-nodokļa aprēķina metožu sarakstu pareizība: :doc:`Sociālo nodokļu
-metodes<223>` un :doc:`Ienākuma nodokļu metodes<222>` , :doc:`Nodokļu
-dokumentā<208>` jāpievieno atbilstoša nodokļu aprēķina metode. Veicot
-algu aprēķinu :doc:`Algu aprēķinu žurnālā<212>` , jāpārbauda, vai tiek
-piemērots atbilstošais nodokļu dokuments.
+|images_ozols/24545.gif| Lai algu aprēķinā tiktu piemērotas pareizas
+nodokļu likmes, jāpārbauda nodokļa aprēķina metožu sarakstu pareizība:
+:doc:`Sociālo nodokļu metodes<223>` un :doc:`Ienākuma nodokļu
+metodes<222>` , :doc:`Nodokļu dokumentā<208>` jāpievieno atbilstoša
+nodokļu aprēķina metode. Veicot algu aprēķinu :doc:`Algu aprēķinu
+žurnālā<212>` , jāpārbauda, vai tiek piemērots atbilstošais nodokļu
+dokuments.
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
 
  .. toctree::   :maxdepth: 5    212.rst   681.rst   728.rst   239.rst   957.rst   238.rst   208.rst   294.rst   659.rst

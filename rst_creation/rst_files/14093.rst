@@ -2,14 +2,16 @@
 
 
 Lai izdrukātu sagatavoto Nomenklatūras norakstīšanas dokumentu,
-nepieciešams nospiest pogu .. image:: images_ozols/25802.png
-:scale: 100%
-:
+nepieciešams nospiest pogu |images_ozols/25802.png| :
 
 
 
-.. image:: images_ozols/25804.png
-:scale: 100%
+|images_ozols/25804.png|
 
+.. |images_ozols/25802.png| image:: images_ozols/25802.png
+    :scale: 100%
+
+.. |images_ozols/25804.png| image:: images_ozols/25804.png
+    :scale: 100%
 
  

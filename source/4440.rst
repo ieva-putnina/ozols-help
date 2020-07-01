@@ -3,16 +3,12 @@ Bankas konts tiek pievienots jau esošam partnerim:
 
 
 
-.. image:: images_ozols/25840.png
-:scale: 100%
-
+|images_ozols/25840.png|
 
 
 
 Partneris : no partneru saraksta tiek izvēlēts partneris, kuram tiks
-pievienots šis bankas konts (caur pogu.. image::
-images_ozols/25837.png
-:scale: 100%
+pievienots šis bankas konts (caur pogu |images_ozols/25837.png|
 iespējams atvērt partneru sarakstu);
 
 Banka : no banku saraksta jāizvēlas banka;
@@ -24,22 +20,34 @@ Konts: konta numurs;
 Kartes Nr .: iespējams norādīt arī kartes numuru un tās derīguma
 termiņu;
 
-.. image:: images_ozols/25841.png
-:scale: 100%
-: tiks lietots kā noklusētais konts.
+|images_ozols/25841.png| : tiks lietots kā noklusētais konts.
 
-Lai saglabātu bankas konta datus, jānospiež poga .. image::
-images_ozols/25829.png
-:scale: 100%
-, un, lai labotu, jānospiež poga .. image:: images_ozols/25832.png
-:scale: 100%
-, bet, lai pievienotu jaunu kontu, jānospiež poga .. image::
-images_ozols/25831.png
-:scale: 100%
-. Lai saglabātu un aizvērtu, jānospiež poga .. image::
-images_ozols/25828.png
-:scale: 100%
-. Visi pievienotie konti tiek saglabāti :doc:`Bankas kontu
-žurnālā<4431>` .
+Lai saglabātu bankas konta datus, jānospiež poga
+|images_ozols/25829.png| , un, lai labotu, jānospiež poga
+|images_ozols/25832.png| , bet, lai pievienotu jaunu kontu, jānospiež
+poga |images_ozols/25831.png| . Lai saglabātu un aizvērtu, jānospiež
+poga |images_ozols/25828.png| . Visi pievienotie konti tiek saglabāti
+:doc:`Bankas kontu žurnālā<4431>` .
+
+.. |images_ozols/25840.png| image:: images_ozols/25840.png
+    :scale: 100%
+
+.. |images_ozols/25837.png| image:: images_ozols/25837.png
+    :scale: 100%
+
+.. |images_ozols/25841.png| image:: images_ozols/25841.png
+    :scale: 100%
+
+.. |images_ozols/25829.png| image:: images_ozols/25829.png
+    :scale: 100%
+
+.. |images_ozols/25832.png| image:: images_ozols/25832.png
+    :scale: 100%
+
+.. |images_ozols/25831.png| image:: images_ozols/25831.png
+    :scale: 100%
+
+.. |images_ozols/25828.png| image:: images_ozols/25828.png
+    :scale: 100%
 
  

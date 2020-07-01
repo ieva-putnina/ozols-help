@@ -3,9 +3,7 @@ Pievienotei telpu ieraksti tiek saglabāti telpu sarakstā. Telpu
 saraksts tiek lietots :doc:`jaunu notikumu<7308>` pievienošanā un
 :doc:`atskaišu <7317>` sagatavošanā.
 
-.. image:: images_ozols/26189.jpg
-:scale: 100%
-
+|images_ozols/26189.jpg|
 
 
 
@@ -17,16 +15,23 @@ Prioritāte: telpai iespējams nodefinēt prioritātes pakāpi.
 
 Iespējams pievienot dažādas piezīmes .
 
-Lai pievienotātelpa tiktu saglabāta, jānospiež poga .. image::
-images_ozols/25829.png
-:scale: 100%
-, un, ja nepieciešams pievienot vēl citu telpu, jānospiež poga ..
-image:: images_ozols/25850.png
-:scale: 100%
-un jāpievieno jauns telpas ierakst. Lai, pēc saglabāšanas, labotu
-pievienotāstelpas ierakstus, jānospiež poga .. image::
-images_ozols/25832.png
-:scale: 100%
-un pēc labošanas ieraksts jāsaglabā.
+Lai pievienotātelpa tiktu saglabāta, jānospiež poga
+|images_ozols/25829.png| , un, ja nepieciešams pievienot vēl citu
+telpu, jānospiež poga |images_ozols/25850.png| un jāpievieno jauns
+telpas ierakst. Lai, pēc saglabāšanas, labotu pievienotāstelpas
+ierakstus, jānospiež poga |images_ozols/25832.png| un pēc labošanas
+ieraksts jāsaglabā.
+
+.. |images_ozols/26189.jpg| image:: images_ozols/26189.jpg
+    :scale: 100%
+
+.. |images_ozols/25829.png| image:: images_ozols/25829.png
+    :scale: 100%
+
+.. |images_ozols/25850.png| image:: images_ozols/25850.png
+    :scale: 100%
+
+.. |images_ozols/25832.png| image:: images_ozols/25832.png
+    :scale: 100%
 
  

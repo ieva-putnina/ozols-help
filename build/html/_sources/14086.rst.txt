@@ -24,12 +24,11 @@ lietotāju tiesību administrēšanai, nodrošinot vieglu datu bāzes
 tiesību noteikšanu lietotājiem, ja kādai lietotāju grupai ir
 jānodrošina noteiktu aktivitāšu kopums.
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Lietotāja definētās lomas attiecas tikai uz datu bāzes līmeni un tās
-ir lokālas datu bāzei, kurā tās tika izveidotas.Lietotāja definētās
-lomas drīkst izveidot un pārvaldīt lietotājs, kas ir datu bāzes
-fiksēto lomu „db_owner” vai „db_securityadmin” dalībnieks.
+|images_ozols/24545.gif| Lietotāja definētās lomas attiecas tikai uz
+datu bāzes līmeni un tās ir lokālas datu bāzei, kurā tās tika
+izveidotas.Lietotāja definētās lomas drīkst izveidot un pārvaldīt
+lietotājs, kas ir datu bāzes fiksēto lomu „db_owner” vai
+„db_securityadmin” dalībnieks.
 
 
 
@@ -60,5 +59,8 @@ režīmiem<169>`
 
 Tiesībasuzņēmumiem sistēmā OZOLS var izveidot sadaļā
 Konfigurācija->Lietotāji->:doc:`Lietotāju tiesības uzņēmumiem<190>`
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
 
  .. toctree::   :maxdepth: 4    14097.rst   14087.rst   14088.rst

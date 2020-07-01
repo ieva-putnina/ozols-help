@@ -23,9 +23,7 @@ Izvēloties dokumenta veidu Grāmatojums, tiks atvērts jauns logs:
 
 
 
-.. image:: images_ozols/25096.png
-:scale: 100%
-
+|images_ozols/25096.png|
 
 
 
@@ -43,9 +41,7 @@ ielikts tekošās dienas datums):
 
 
 
-.. image:: images_ozols/25097.png
-:scale: 100%
-
+|images_ozols/25097.png|
 
 
 
@@ -56,9 +52,7 @@ pēc LB kursa)
 
 
 
-.. image:: images_ozols/25098.png
-:scale: 100%
-
+|images_ozols/25098.png|
 
 
 
@@ -67,9 +61,7 @@ paskaidrojuma tekstu nonodefinētajiem:doc:`Grāmatojumu
 paskaidrojuiem<628>` vai ierakstot Paskaidrojuma tekstu manuāli:
 
 
-.. image:: images_ozols/25099.png
-:scale: 100%
-
+|images_ozols/25099.png|
 
 
 
@@ -80,36 +72,25 @@ Manuālā grāmatojuma Satura aizpildīšana
 +++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu Grāmatojuma Saturu, dokumenta satura daļā nepieciešams
-nospiest .. image:: images_ozols/24708.png
-:scale: 100%
-un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
-satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
-ieraksta summu:
+nospiest |images_ozols/24708.png| un tiks atvērts operācijas satura
+logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā
+izmantotās dimensijas) un norādīt satura ieraksta summu:
 
 
 
-.. image:: images_ozols/25100.png
-:scale: 100%
+|images_ozols/25100.png|
 
 
 
+|images_ozols/24545.gif| Ja grāmatojuma satura ieraksta rindiņu Debeta
+un Kredīta pusē nepieciešams norādīt atšķirīgas dimensijas (Piemēram,
+DB puses EK atšķirīgs no CR puses EK), satura logā iespējams atzīmēt
+izvēles rūtiņu: |images_ozols/25103.png| , tādejādi labojot vienas
+puses ierakstus, labojums automātiski nepārnesīsies uz otru satura
+ieraksta pusi.
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Ja grāmatojuma satura ieraksta rindiņu Debeta un Kredīta pusē
-nepieciešams norādīt atšķirīgas dimensijas (Piemēram, DB puses EK
-atšķirīgs no CR puses EK), satura logā iespējams atzīmēt izvēles
-rūtiņu: .. image:: images_ozols/25103.png
-:scale: 100%
-, tādejādi labojot vienas puses ierakstus, labojums automātiski
-nepārnesīsies uz otru satura ieraksta pusi.
-
-Pēcsatura ierakstu aizpildīšanas,ierakstu iespējams .. image::
-images_ozols/24615.jpg
-:scale: 100%
-vai .. image:: images_ozols/24617.jpg
-:scale: 100%
-.
+Pēcsatura ierakstu aizpildīšanas,ierakstu iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
 
 
 
@@ -119,15 +100,12 @@ Manuālā grāmatojuma Satura ierakstu labošana
 ++++++++++++++++++++++++++++++++++++++++++++
 
 Lai veiktu labojumus,satura ierakstunepieciešams atvērt, izmantojot
-rīku joslas pogu.. image:: images_ozols/24709.png
-:scale: 100%
-(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+rīku joslas pogu |images_ozols/24709.png| (ALT+A), unatvērtajāierakstā
+iespējams veiktnepieciešamos labojumus:
 
 
 
-.. image:: images_ozols/25105.png
-:scale: 100%
-
+|images_ozols/25105.png|
 
 
 
@@ -146,17 +124,57 @@ dokumentātiek parādīts operācijas kontējums.
 Jagrāmatojums ir aizpildīts, ir divas iespējas, kā saglabāt
 grāmatojumu:
 
-1) nospiežot pogu .. image:: images_ozols/24615.jpg
-:scale: 100%
-- grāmatojums tiks saglabāts :doc:`Grāmatojumu žurnālā<131>` , bet tas
-nebūs Apstiprināts, un līdz ar to būs iespēja veikt korekcijas, ja tas
-būs nepieciešams;
+1) nospiežot pogu |images_ozols/24615.jpg| - grāmatojums tiks
+saglabāts :doc:`Grāmatojumu žurnālā<131>` , bet tas nebūs
+Apstiprināts, un līdz ar to būs iespēja veikt korekcijas, ja tas būs
+nepieciešams;
 
-2) rīku joslā nospiežot pogu.. image:: images_ozols/24740.png
-:scale: 100%
-(Ctrl+R)- izpildot šo darbību, grāmatojums vienlaicīgi tiks saglabāts
-un apstiprināts, kasnozīmē, kagrāmatojuma sagatavošana ir pabeigta.
+2) rīku joslā nospiežot pogu |images_ozols/24740.png| (Ctrl+R)-
+izpildot šo darbību, grāmatojums vienlaicīgi tiks saglabāts un
+apstiprināts, kasnozīmē, kagrāmatojuma sagatavošana ir pabeigta.
 Apstiprinātais grāmatojums būs pieejams :doc:`Grāmatojumu
 žurnālā<131>` .
+
+.. |images_ozols/25096.png| image:: images_ozols/25096.png
+    :scale: 100%
+
+.. |images_ozols/25097.png| image:: images_ozols/25097.png
+    :scale: 100%
+
+.. |images_ozols/25098.png| image:: images_ozols/25098.png
+    :scale: 100%
+
+.. |images_ozols/25099.png| image:: images_ozols/25099.png
+    :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/25100.png| image:: images_ozols/25100.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/25103.png| image:: images_ozols/25103.png
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+    :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+    :scale: 100%
+
+.. |images_ozols/25105.png| image:: images_ozols/25105.png
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+    :scale: 100%
 
  

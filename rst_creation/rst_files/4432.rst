@@ -5,9 +5,7 @@ Adrešu žurnālā tiek saglabātas visas pievienotās partneru
 Ar filtru iespējams atlasīt partneru adreses pēc dažādiem izvēlētiem
 atlasīšanas kritērijiem:
 
-.. image:: images_ozols/25847.png
-:scale: 100%
-
+|images_ozols/25847.png|
 
 
 
@@ -25,18 +23,25 @@ Iela : atlasīšana pēc ielas;
 
 Pasta indekss : atlasīšana pēc pasta indeksa:
 
-Ja visi atlasīšanas kritēriji norādīti un izvēlēti, jānospiež poga ..
-image:: images_ozols/25810.png
-:scale: 100%
-. Ja filtrā netiek norādīti vai izvēlēti nekādi kritēriji, tad tiek
-atlasīts visu partneru adrešu saraksts.
+Ja visi atlasīšanas kritēriji norādīti un izvēlēti, jānospiež poga
+|images_ozols/25810.png| . Ja filtrā netiek norādīti vai izvēlēti
+nekādi kritēriji, tad tiek atlasīts visu partneru adrešu saraksts.
 
-Lai labotu adresi, jānospiež poga .. image:: images_ozols/25832.png
-:scale: 100%
-, bet lai pievienotu jaunu adresi jau pievienotam partnerim, jānospiež
-poga .. image:: images_ozols/25831.png
-:scale: 100%
-un jāpievieno dati kā norādīts :doc:`Jaunas adreses pievienošanas
-sadaļā<4439>` .
+Lai labotu adresi, jānospiež poga |images_ozols/25832.png| , bet lai
+pievienotu jaunu adresi jau pievienotam partnerim, jānospiež poga
+|images_ozols/25831.png| un jāpievieno dati kā norādīts :doc:`Jaunas
+adreses pievienošanas sadaļā<4439>` .
+
+.. |images_ozols/25847.png| image:: images_ozols/25847.png
+    :scale: 100%
+
+.. |images_ozols/25810.png| image:: images_ozols/25810.png
+    :scale: 100%
+
+.. |images_ozols/25832.png| image:: images_ozols/25832.png
+    :scale: 100%
+
+.. |images_ozols/25831.png| image:: images_ozols/25831.png
+    :scale: 100%
 
  

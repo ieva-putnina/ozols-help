@@ -8,15 +8,11 @@ pievienot strādājošā algu aprēķinam norādītajā periodā, ielādējot
 datus no tarifikācijas.
 
 Jaunu prēmiju sadalījumu strādājošajam iespējams pievienot, rīku joslā
-nospiežot pogu: .. image:: images_ozols/25605.png
-:scale: 100%
+nospiežot pogu: |images_ozols/25605.png|
 
 
 
-
-.. image:: images_ozols/26253.png
-:scale: 100%
-
+|images_ozols/26253.png|
 
 
 
@@ -45,9 +41,16 @@ Uz kodu: nepieciešams norādīt uz kādu algu kodu izmaksa tiks veikta
 
 
 
-Lai saglabātu pievienotos datus, jānospiež poga .. image::
-images_ozols/24615.jpg
-:scale: 100%
-.
+Lai saglabātu pievienotos datus, jānospiež poga
+|images_ozols/24615.jpg| .
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+    :scale: 100%
+
+.. |images_ozols/26253.png| image:: images_ozols/26253.png
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
 
  

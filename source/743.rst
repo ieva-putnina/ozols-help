@@ -8,34 +8,24 @@ JaunuAktivitāti iespējams izveidot:
 1.Atrodoties kādā no Dokumetnu žurnāliem: :doc:`Piedāvājumu
 žurnāls<879>` , :doc:`Ziņojumu žurnāls<785>` , :doc:`Notikumu
 žurnāls<742>` vai :doc:`Atgādinātāji<874>` un rīku joslājānospiežot
-pogu.. image:: images_ozols/24708.png
-:scale: 100%
-;
+pogu |images_ozols/24708.png| ;
 
 2. No jebkura darba režīma, izmantojot taustiņu kombināciju CTRL+Q,
 tiks atvērts jauns izvēlnes logs:
 
 
 
-.. image:: images_ozols/25929.png
-:scale: 100%
+|images_ozols/25929.png|
 
 
 
-
-Izvēloties atbilstošo aktivitātes veidu un nospiežot pogu .. image::
-images_ozols/25619.png
-:scale: 100%
-vai atrodoties kādā no žurnāliem un rīkujoslā nospiežot pogu ..
-image:: images_ozols/24708.png
-:scale: 100%
-, tiks atvērts jauns logs:
+Izvēloties atbilstošo aktivitātes veidu un nospiežot pogu
+|images_ozols/25619.png| vai atrodoties kādā no žurnāliem un rīkujoslā
+nospiežot pogu |images_ozols/24708.png| , tiks atvērts jauns logs:
 
 
 
-.. image:: images_ozols/25930.png
-:scale: 100%
-
+|images_ozols/25930.png|
 
 
 
@@ -44,11 +34,9 @@ Prioritātes līmeni
 
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-CRM veidotajām aktivitātēm iespējams norādīt4 dažādus Prioritātes
-līmeņus, atbilstoši aktivitātes nozīmīgumam (sākot no: n - neitrāls
-līdz !!! - ļoti aktuāls)
+|images_ozols/24545.gif| CRM veidotajām aktivitātēm iespējams norādīt4
+dažādus Prioritātes līmeņus, atbilstoši aktivitātes nozīmīgumam (sākot
+no: n - neitrāls līdz !!! - ļoti aktuāls)
 
 
 
@@ -57,44 +45,34 @@ Virsrakstu
 
 3. Laukā Meklēt , iespējams ievadīt meklēšanas kritērijus,lai ērtāk
 atrastu nepieciešamo informāciju. Laukā Meklēt ievadot meklējamo
-objektu un nospiežot pogu .. image:: images_ozols/25931.png
-:scale: 100%
-, dati tiks atrasti, atbilstoši norādītajai Meklēšanas Konfigurācijai
-(.. image:: images_ozols/25932.png
-:scale: 100%
-).
+objektu un nospiežot pogu |images_ozols/25931.png| , dati tiks
+atrasti, atbilstoši norādītajai Meklēšanas Konfigurācijai (
+|images_ozols/25932.png| ).
 
 4. Laukā Partneris , nepieciešams no saraksta izvēlēties Partneri,
 kuram Piedāvājums tiks sagatavots:
 
 
 
-.. image:: images_ozols/25933.png
-:scale: 100%
+|images_ozols/25933.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Ja Piedāvājums tiks sagatavots, izmantojot taustiņu kombināciju
-CTRL+Q, lauks Partneris tiks automātiski aizpildīts (Piemēram, ja
-atrodoties Iepirkumu dokumentu žurnālā, no atvērta iepirkuma
-dokumentu, kur Piegādātājs norādīts Partneris "X", tiks nospiesta
-taustiņu kombinācija CTRL+Q, tad izvēloties aktivitātes veidu:
-Piedāvājums un nospiežot pogu "Sagatavot", automātiski Piedāvājuma
-logā jau būs aizpildīts Partnera lauks).
+|images_ozols/24545.gif| Ja Piedāvājums tiks sagatavots, izmantojot
+taustiņu kombināciju CTRL+Q, lauks Partneris tiks automātiski
+aizpildīts (Piemēram, ja atrodoties Iepirkumu dokumentu žurnālā, no
+atvērta iepirkuma dokumentu, kur Piegādātājs norādīts Partneris "X",
+tiks nospiesta taustiņu kombinācija CTRL+Q, tad izvēloties aktivitātes
+veidu: Piedāvājums un nospiežot pogu "Sagatavot", automātiski
+Piedāvājuma logā jau būs aizpildīts Partnera lauks).
 
 
 
-Nospiežot pogu pie partnera ieraksta .. image:: images_ozols/26051.png
-:scale: 100%
-, nepieciešams izvēlēties atbilstošo :doc:` potenciālo partneri <884>`
-no :doc:`potenciālo partneru saraksta<842>` , vai, nospiežot pogu ..
-image:: images_ozols/24635.gif
-:scale: 100%
-partnera lauka labajā pusē, iespējams pievienot jaunu :doc:`potenciālo
-partneri.<884>`
+Nospiežot pogu pie partnera ieraksta |images_ozols/26051.png| ,
+nepieciešams izvēlēties atbilstošo :doc:` potenciālo partneri <884>`
+no :doc:`potenciālo partneru saraksta<842>` , vai, nospiežot pogu
+|images_ozols/24635.gif| partnera lauka labajā pusē, iespējams
+pievienot jaunu :doc:`potenciālo partneri.<884>`
 
 
 
@@ -103,9 +81,7 @@ partneri.<884>`
 
 
 
-.. image:: images_ozols/26052.png
-:scale: 100%
-
+|images_ozols/26052.png|
 
 
 
@@ -121,23 +97,17 @@ Pēc piedāvājuma virsraksta lauku aizpildīšanas, jāpievieno piedāvājuma
 apraksts un/vai kāda no darbībām:
 
 
-.. image:: images_ozols/26053.png
-:scale: 100%
+|images_ozols/26053.png|
 
 
 
-
-Lai pievienotu jaunu darbību, jānospiež poga .. image::
-images_ozols/25605.png
-:scale: 100%
+Lai pievienotu jaunu darbību, jānospiež poga |images_ozols/25605.png|
 , tiek atvērts jaunas darbības logs, kur jāizvēlās attiecīgā darbība
 (Komentārs, Mainīt atbildīgo, Atcelt aktivitāti), iespēja ierakstīt
 komentāru unarī iztērēto laiku.
 
-Lai saglabātu pievienoto informāciju, jānospiež poga .. image::
-images_ozols/25621.png
-:scale: 100%
-.
+Lai saglabātu pievienoto informāciju, jānospiež poga
+|images_ozols/25621.png| .
 
 
 
@@ -151,29 +121,80 @@ Cena ir informatīvs lauks, kur iespējams norādīt piedāvājuma cenu:
 
 
 
-.. image:: images_ozols/26054.png
-:scale: 100%
-
+|images_ozols/26054.png|
 
 
 
 Neaizverot Aktivitāšu logu, caur funkciju iespējams atvērt visas
 partnera aktivitātes vai pievienot jaunu saistītu aktivitāti. Lai
-veiktu attiecīgo funkciju, aktivitātes logā jānospiež pogu .. image::
-images_ozols/25814.png
-:scale: 100%
-un jāizvēlās attiecīgā funkcija:
+veiktu attiecīgo funkciju, aktivitātes logā jānospiež pogu
+|images_ozols/25814.png| un jāizvēlās attiecīgā funkcija:
 
 
 
-.. image:: images_ozols/26055.png
-:scale: 100%
-
+|images_ozols/26055.png|
 
 
 
 Atkarībā no izvēlētās funkcijas, tiek atvērtas visas partnerim
 piesaistītās aktivitātes (piedāvājumi, notikumi, ienākošās/izejošās
 korespondences, darba uzdevumi) vai izveidota jauna aktivitāte.
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/25929.png| image:: images_ozols/25929.png
+    :scale: 100%
+
+.. |images_ozols/25619.png| image:: images_ozols/25619.png
+    :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/25930.png| image:: images_ozols/25930.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/25931.png| image:: images_ozols/25931.png
+    :scale: 100%
+
+.. |images_ozols/25932.png| image:: images_ozols/25932.png
+    :scale: 100%
+
+.. |images_ozols/25933.png| image:: images_ozols/25933.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/26051.png| image:: images_ozols/26051.png
+    :scale: 100%
+
+.. |images_ozols/24635.gif| image:: images_ozols/24635.gif
+    :scale: 100%
+
+.. |images_ozols/26052.png| image:: images_ozols/26052.png
+    :scale: 100%
+
+.. |images_ozols/26053.png| image:: images_ozols/26053.png
+    :scale: 100%
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+    :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+    :scale: 100%
+
+.. |images_ozols/26054.png| image:: images_ozols/26054.png
+    :scale: 100%
+
+.. |images_ozols/25814.png| image:: images_ozols/25814.png
+    :scale: 100%
+
+.. |images_ozols/26055.png| image:: images_ozols/26055.png
+    :scale: 100%
 
  

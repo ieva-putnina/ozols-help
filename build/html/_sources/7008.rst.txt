@@ -6,9 +6,7 @@ esošajam :doc:`Koeficientu<7007>` sarakstam.
 
 
 
-.. image:: images_ozols/25459.png
-:scale: 100%
-
+|images_ozols/25459.png|
 
 
 
@@ -17,9 +15,7 @@ darbības periodu:
 
 
 
-.. image:: images_ozols/25460.png
-:scale: 100%
-
+|images_ozols/25460.png|
 
 
 
@@ -27,15 +23,22 @@ darbības periodu:
 
 
 
-.. image:: images_ozols/25461.png
-:scale: 100%
+|images_ozols/25461.png|
 
 
 
+Ieraksts tiks saglabāts, izpildot komandu |images_ozols/24710.png| .
 
-Ieraksts tiks saglabāts, izpildot komandu .. image::
-images_ozols/24710.png
-:scale: 100%
-.
+.. |images_ozols/25459.png| image:: images_ozols/25459.png
+    :scale: 100%
+
+.. |images_ozols/25460.png| image:: images_ozols/25460.png
+    :scale: 100%
+
+.. |images_ozols/25461.png| image:: images_ozols/25461.png
+    :scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+    :scale: 100%
 
  

@@ -3,9 +3,7 @@ Lai pievienotu, reģistrētu jaunu Notikumu:
 
 
 
-.. image:: images_ozols/25890.png
-:scale: 100%
-
+|images_ozols/25890.png|
 
 
 
@@ -40,15 +38,11 @@ Kampaņa : iespējams piesaistīt kampaņu;
 Apraksts : notikuma apraksts.
 
 Ja visa notikuma informācija ievadīta, lai saglabātu
-notikumu,jānospiež poga .. image:: images_ozols/25829.png
-:scale: 100%
-:
+notikumu,jānospiež poga |images_ozols/25829.png| :
 
 
 
-.. image:: images_ozols/25894.png
-:scale: 100%
-
+|images_ozols/25894.png|
 
 
 
@@ -56,20 +50,34 @@ Saglabājot notikumu, tā Statuss ir Paziņots. Izveidotam notikumam
 iespējams veikt dažādas darbības, un tāspa e-pastutiks paziņotas
 katrai ielūgtajai personai.
 
-Lai pievienotu jaunu notikumu, jānospiež poga .. image::
-images_ozols/25831.png
-:scale: 100%
-. Bet, lai saglabātu un aizvērtu notikumu, jānospiež poga .. image::
-images_ozols/25828.png
-:scale: 100%
-. Notikumu iespējams izdrukāt, nospiežot pogu .. image::
-images_ozols/25892.png
-:scale: 100%
-, un/vai labot, nospiežot pogu .. image:: images_ozols/25893.png
-:scale: 100%
-. Visi pievienotie notikumi tiek saglabāti :doc:`Notikumu
-žurnālā<4459>` , tie ir redzami :doc:`uzņēmuma kalendārā<4482>` un
-ielūgto :doc:`personu kalendārā (grafikā),<4426>` un :doc:`visu
-aktivitāšu sarakstā<4472>` .
+Lai pievienotu jaunu notikumu, jānospiež poga |images_ozols/25831.png|
+. Bet, lai saglabātu un aizvērtu notikumu, jānospiež poga
+|images_ozols/25828.png| . Notikumu iespējams izdrukāt, nospiežot pogu
+|images_ozols/25892.png| , un/vai labot, nospiežot pogu
+|images_ozols/25893.png| . Visi pievienotie notikumi tiek saglabāti
+:doc:`Notikumu žurnālā<4459>` , tie ir redzami :doc:`uzņēmuma
+kalendārā<4482>` un ielūgto :doc:`personu kalendārā (grafikā),<4426>`
+un :doc:`visu aktivitāšu sarakstā<4472>` .
+
+.. |images_ozols/25890.png| image:: images_ozols/25890.png
+    :scale: 100%
+
+.. |images_ozols/25829.png| image:: images_ozols/25829.png
+    :scale: 100%
+
+.. |images_ozols/25894.png| image:: images_ozols/25894.png
+    :scale: 100%
+
+.. |images_ozols/25831.png| image:: images_ozols/25831.png
+    :scale: 100%
+
+.. |images_ozols/25828.png| image:: images_ozols/25828.png
+    :scale: 100%
+
+.. |images_ozols/25892.png| image:: images_ozols/25892.png
+    :scale: 100%
+
+.. |images_ozols/25893.png| image:: images_ozols/25893.png
+    :scale: 100%
 
  .. toctree::   :maxdepth: 4    4463.rst

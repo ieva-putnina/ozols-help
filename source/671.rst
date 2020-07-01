@@ -19,9 +19,7 @@ jauns logs:
 
 
 
-.. image:: images_ozols/24997.png
-:scale: 100%
-
+|images_ozols/24997.png|
 
 
 
@@ -38,9 +36,7 @@ Lai aizpildītu Maksājuma dzēšanas akta Virsrakstu, nepieciešams:
 
 
 
-.. image:: images_ozols/24725.png
-:scale: 100%
-
+|images_ozols/24725.png|
 
 
 
@@ -49,9 +45,7 @@ dzēšanas akts tiks veidots:
 
 
 
-.. image:: images_ozols/24972.png
-:scale: 100%
-
+|images_ozols/24972.png|
 
 
 
@@ -59,9 +53,7 @@ dzēšanas akts tiks veidots:
 
 
 
-.. image:: images_ozols/24812.png
-:scale: 100%
-
+|images_ozols/24812.png|
 
 
 
@@ -70,9 +62,7 @@ nosaukumu:
 
 
 
-.. image:: images_ozols/24976.png
-:scale: 100%
-
+|images_ozols/24976.png|
 
 
 
@@ -86,10 +76,7 @@ formas
 ++++++
 
 Jebkuram Bankas izdevumu dokumentam iespējams izveidot Maksājuma
-dzēšanas aktu, nospiežot rīku joslā pogu .. image::
-images_ozols/24978.png
-:scale: 100%
-.
+dzēšanas aktu, nospiežot rīku joslā pogu |images_ozols/24978.png| .
 
 Jauna Maksājuma dzēšanasakta sagatavošana ir paredzēta no dokumentu
 saistīšanas ekrāna formas, izmantojot komandpogu "Jauns maksājuma akts
@@ -97,9 +84,7 @@ saistīšanas ekrāna formas, izmantojot komandpogu "Jauns maksājuma akts
 
 
 
-.. image:: images_ozols/24980.png
-:scale: 100%
-
+|images_ozols/24980.png|
 
 
 
@@ -115,17 +100,13 @@ Maksājuma dzēšanas aktaSatura aizpildīšana
 ++++++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu Maksājuma dzēšanas akta Saturu, dokumenta satura daļā
-nepieciešams nospiest .. image:: images_ozols/24708.png
-:scale: 100%
-un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
-satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
-ieraksta summu:
+nepieciešams nospiest |images_ozols/24708.png| un tiks atvērts
+operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus
+(uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:
 
 
 
-.. image:: images_ozols/24728.png
-:scale: 100%
-
+|images_ozols/24728.png|
 
 
 
@@ -139,15 +120,10 @@ izvēloties (iezīmējot)dokumentu :doc:`Maksājumu dzēšanas aktu
 žurnālā<253>` .
 
 Lai iegrāmatotu Maksājuma dzēšanas aktu, dokumentu nepieciešams
-Apstiprināt, nospiežot rīku joslā pogu .. image::
-images_ozols/24740.png
-:scale: 100%
-.
+Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| .
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu .. image:: images_ozols/24741.png
-:scale: 100%
-.
+pogu |images_ozols/24741.png| .
 
 
 
@@ -161,23 +137,61 @@ Pievienotā Maksājuma dzēšanas akta labošana
 Labojumus saglabātajādokumentā iespējams veikt atverot Maksājuma
 dzēšanas aktu, kurš pieejams apskatei/labošanai:doc:`Maksājumu
 dzēšanas aktu žurnālā<253>` . Lai veiktu labojumusMaksājuma dzēšanas
-aktā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu..
-image:: images_ozols/24709.png
-:scale: 100%
-(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+aktā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
+|images_ozols/24709.png| (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus:
 
 
 
-.. image:: images_ozols/24981.png
-:scale: 100%
+|images_ozols/24981.png|
 
 
+Pēc labojumu veikšanas, veiktās izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
 
-Pēc labojumu veikšanas, veiktās izmaiņas iespējams .. image::
-images_ozols/24615.jpg
-:scale: 100%
-vai .. image:: images_ozols/24617.jpg
-:scale: 100%
-.
+.. |images_ozols/24997.png| image:: images_ozols/24997.png
+    :scale: 100%
+
+.. |images_ozols/24725.png| image:: images_ozols/24725.png
+    :scale: 100%
+
+.. |images_ozols/24972.png| image:: images_ozols/24972.png
+    :scale: 100%
+
+.. |images_ozols/24812.png| image:: images_ozols/24812.png
+    :scale: 100%
+
+.. |images_ozols/24976.png| image:: images_ozols/24976.png
+    :scale: 100%
+
+.. |images_ozols/24978.png| image:: images_ozols/24978.png
+    :scale: 100%
+
+.. |images_ozols/24980.png| image:: images_ozols/24980.png
+    :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/24728.png| image:: images_ozols/24728.png
+    :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+    :scale: 100%
+
+.. |images_ozols/24741.png| image:: images_ozols/24741.png
+    :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+    :scale: 100%
+
+.. |images_ozols/24981.png| image:: images_ozols/24981.png
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+    :scale: 100%
 
  

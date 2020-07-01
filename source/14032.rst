@@ -5,9 +5,7 @@ Palaižot programmatūru, tiek atvērta lietotāja reģistrācijas ekrāna
 forma:
 
 
-.. image:: images_ozols/24697.png
-   :scale: 100%
-
+|images_ozols/24697.png|
 
 
 Lietojot izvēli Windows autentifikācija, automātiski tiek izmantota
@@ -24,10 +22,15 @@ autentifikācija var nebūt iespējama, un tiks parādīts paziņojums, ka
 savienojumu nav iespējams izveidot. Šādā gadījumā jāizmanto SQL
 autentifikācija - administratora piešķirtais lietotājvārds un parole.
 
-Pēc Lietotājvārds un Paroles ierakstīšanas jānospiež poga .. image::
-images_ozols/24542.jpg
-   :scale: 100%
-un tiks ielādēta datorprogramma Ozols, kurā atvērsies vadības logs.
+Pēc Lietotājvārds un Paroles ierakstīšanas jānospiež poga
+|images_ozols/24542.jpg| un tiks ielādēta datorprogramma Ozols, kurā
+atvērsies vadības logs.
 
+
+.. |images_ozols/24697.png| image:: images_ozols/24697.png
+    :scale: 100%
+
+.. |images_ozols/24542.jpg| image:: images_ozols/24542.jpg
+    :scale: 100%
 
  .. toctree::   :maxdepth: 5    14132.rst

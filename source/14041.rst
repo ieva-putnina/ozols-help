@@ -32,8 +32,7 @@ Piemērs - pamatlīdzekļu kategoriju saraksts
 
 
 
-.. image:: images_ozols/25152.png
-:scale: 100%
+|images_ozols/25152.png|
 
 
 
@@ -41,5 +40,7 @@ Piemērs - pamatlīdzekļu kategoriju saraksts
 
 
 
+.. |images_ozols/25152.png| image:: images_ozols/25152.png
+    :scale: 100%
 
  

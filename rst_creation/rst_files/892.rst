@@ -36,35 +36,42 @@ atskaite tiks sagatavota.
 
 
 3.Pārskats par preču piegādēm un sniegtajiem pakalpojumiem ES tiks
-sagatavots, nospiežot pogu .. image:: images_ozols/25049.png
-:scale: 100%
-:
+sagatavots, nospiežot pogu |images_ozols/25049.png| :
 
 4. Ekrāna formā ir pieejams atskaišu konfigurācijas saraksts.
-Nospiežot pogu .. image:: images_ozols/25055.png
-:scale: 100%
-, komanda izsauc atskaites konfigurācijas ekrāna formu, to var
-papildināt neaizverot atskaiti.
+Nospiežot pogu |images_ozols/25055.png| , komanda izsauc atskaites
+konfigurācijas ekrāna formu, to var papildināt neaizverot atskaiti.
 
 
 5. Ja pēc atskaites sagatavošanas veiktas izmaiņas :doc:`atskaites
 konfigurācijā<179>` , atskaiti pēc izmanītās konfigurācijas datiem var
-pārrēķināt, nospiežot pogu: .. image:: images_ozols/25053.png
-:scale: 100%
-. Pārrēķinot atskaiti, tajā tiek parādīti jaunākie dati.
+pārrēķināt, nospiežot pogu: |images_ozols/25053.png| . Pārrēķinot
+atskaiti, tajā tiek parādīti jaunākie dati.
 
 6. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
 sarakstā<531>` , kur tā būs pieejama labošanai/drukāšanai, nospiežot
-pogu: .. image:: images_ozols/25054.png
-:scale: 100%
-.
+pogu: |images_ozols/25054.png| .
 
 
 
-7. Nospiežot pogu .. image:: images_ozols/24617.jpg
-:scale: 100%
-atskaite sagatavota netiks un darbība tiks atcelta. Ja atskaite tiek
-izveidota un nav jāsaglabā, jālieto komanda Atcelt .
+7. Nospiežot pogu |images_ozols/24617.jpg| atskaite sagatavota netiks
+un darbība tiks atcelta. Ja atskaite tiek izveidota un nav jāsaglabā,
+jālieto komanda Atcelt .
 
+
+.. |images_ozols/25049.png| image:: images_ozols/25049.png
+    :scale: 100%
+
+.. |images_ozols/25055.png| image:: images_ozols/25055.png
+    :scale: 100%
+
+.. |images_ozols/25053.png| image:: images_ozols/25053.png
+    :scale: 100%
+
+.. |images_ozols/25054.png| image:: images_ozols/25054.png
+    :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+    :scale: 100%
 
  

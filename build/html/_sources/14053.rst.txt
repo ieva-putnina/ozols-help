@@ -10,9 +10,7 @@ manuālos grāmatojumus, kuriem pirmdokumenta nebūs.
 Grāmatojumu var izveidot:
 +++++++++++++++++++++++++
 
-1. No pirmdokumenta ekrāna formas (Ctrl+G vai .. image::
-images_ozols/24947.png
-:scale: 100%
+1. No pirmdokumenta ekrāna formas (Ctrl+G vai |images_ozols/24947.png|
 ), tiks atvērts grāmatojums, kas saistīts ar pirmdokumentu. Grāmatojot
 pirmdokumentus, grāmatojumā ar šablonu palīdzību automatizēti var
 pārnest vairāk informācijas, ja ir pareizi aizpildīts pirmdokuments un
@@ -20,37 +18,28 @@ izveidots grāmatojumu šablons.
 
 
 
-.. image:: images_ozols/25040.png
-:scale: 100%
+|images_ozols/25040.png|
 
-
-Grāmatojuma saturā nospiežot pogu .. image:: images_ozols/24708.png
-:scale: 100%
-, iespēja pievienot jaunu kontējuma rindu, kuru nepieciešams
-aizpildīt, norādot satura ieraksta summu un atbilstošos debeta un
-kredīta kontus, kā arī pārējās nepieciešamās dimensijas un ja
-nepieciešams - analītiku (partneri):
+Grāmatojuma saturā nospiežot pogu |images_ozols/24708.png| , iespēja
+pievienot jaunu kontējuma rindu, kuru nepieciešams aizpildīt, norādot
+satura ieraksta summu un atbilstošos debeta un kredīta kontus, kā arī
+pārējās nepieciešamās dimensijas un ja nepieciešams - analītiku
+(partneri):
 
 
 
-.. image:: images_ozols/25041.png
-:scale: 100%
-
+|images_ozols/25041.png|
 
 
 
 2. No :doc:`Grāmatojumu žurnāla<131>` - pievienojot manuālo
-grāmtojumu, rīku joslā nospiežot pogu .. image::
-images_ozols/24708.png
-:scale: 100%
-tiks atvērts jauns grāmatojums,kas nav saistīts ar pirmdokumentu.
-Manuālajā grāmatojumā bieži vien kontējums jāpievieno ar roku:
+grāmtojumu, rīku joslā nospiežot pogu |images_ozols/24708.png| tiks
+atvērts jauns grāmatojums,kas nav saistīts ar pirmdokumentu. Manuālajā
+grāmatojumā bieži vien kontējums jāpievieno ar roku:
 
 
 
-.. image:: images_ozols/25042.png
-:scale: 100%
-
+|images_ozols/25042.png|
 
 
 
@@ -61,20 +50,40 @@ Grāmatojuma dokumentā tiek parādīts operācijas kontējums.
 Jagrāmatojums ir aizpildīts, ir divas iespējas, kā saglabāt
 grāmatojumu:
 
-1) nospiežot pogu .. image:: images_ozols/24615.jpg
-:scale: 100%
-(šādigrāmatojums tiks saglabāts, bet būs iespēja veikt korekcijas, ja
-tas būs nepieciešams)
+1) nospiežot pogu |images_ozols/24615.jpg| (šādigrāmatojums tiks
+saglabāts, bet būs iespēja veikt korekcijas, ja tas būs nepieciešams)
 
-2) rīku joslā nospiežot pogu.. image:: images_ozols/24740.png
-:scale: 100%
-,grāmatojums tiks apstiprināts, kasnozīmē, kagrāmatojuma sagatavošana
-ir pabeigta.
+2) rīku joslā nospiežot pogu |images_ozols/24740.png| ,grāmatojums
+tiks apstiprināts, kasnozīmē, kagrāmatojuma sagatavošana ir pabeigta.
 
 
 
 Dokumentu var apstiprināt arī izmantojot taustiņu kombināciju CtrL+R ,
 izvēloties komandu "Apstiprināt" no izvēlnes Dati vai nospiežot peles
 labo pogu un izvēloties komandu "Apstiprināt"
+
+.. |images_ozols/24947.png| image:: images_ozols/24947.png
+    :scale: 100%
+
+.. |images_ozols/25040.png| image:: images_ozols/25040.png
+    :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/25041.png| image:: images_ozols/25041.png
+    :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/25042.png| image:: images_ozols/25042.png
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+    :scale: 100%
 
  

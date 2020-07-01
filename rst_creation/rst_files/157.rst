@@ -14,16 +14,13 @@ atsevišķu dokumenta numerāciju
 
 Jauna pārdošanas dokumenta veida pievienošana
 
-Lai pievienotu jaunupārdošanas dokumenta veidu, jāizmanto komanda..
-image:: images_ozols/24879.png
-:scale: 100%
-no rīku joslas (Alt+P) un tiks atvērts jauns logs:
+Lai pievienotu jaunupārdošanas dokumenta veidu, jāizmanto komanda
+|images_ozols/24879.png| no rīku joslas (Alt+P) un tiks atvērts jauns
+logs:
 
 
 
-.. image:: images_ozols/26498.png
-:scale: 100%
-
+|images_ozols/26498.png|
 
 
 
@@ -80,33 +77,45 @@ Avansa rēķins - iespēja sagatavot pārdošanas dokumentu kā avansa
 rēķinu.
 Kredītrēķins - attiecīgo pārdošanas dokumenta veidu būs iespējams
 saistīt ar bankas izdevuma dokumentu;
-Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu .. image::
-images_ozols/24867.png
-:scale: 100%
-no rīku joslas vai (Ctrl+S).
+Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu
+|images_ozols/24867.png| no rīku joslas vai (Ctrl+S).
 
 
 
 Pārdošanas dokumenta veida labošana
 
 Lai veiktu labojumuspārdošanas dokumenta veidā, ierakstu nepieciešams
-atvērt, izmantojot komandu .. image:: images_ozols/24869.png
-:scale: 100%
-no rīku joslas (Alt+A). Atvērtajā logā iespējams mainīt jebkuru no
-laukos esošo informāciju. Pēc labojumu veikšanas, veiktās izmaiņas
-iespējams saglabāt ar komandu .. image:: images_ozols/24867.png
-:scale: 100%
-no rīku joslas.
+atvērt, izmantojot komandu |images_ozols/24869.png| no rīku joslas
+(Alt+A). Atvērtajā logā iespējams mainīt jebkuru no laukos esošo
+informāciju. Pēc labojumu veikšanas, veiktās izmaiņas iespējams
+saglabāt ar komandu |images_ozols/24867.png| no rīku joslas.
 
 
 
 
 Pārdošanasdokumenta veida dzēšana
 
-Lai dzēstupārdošanas dokumenta veidu, jāizmanto komanda.. image::
-images_ozols/25602.png
-:scale: 100%
-no rīku joslas. Ieraksts ir jādzēš neatvērtā veidā.
+Lai dzēstupārdošanas dokumenta veidu, jāizmanto komanda
+|images_ozols/25602.png| no rīku joslas. Ieraksts ir jādzēš neatvērtā
+veidā.
 
+
+.. |images_ozols/24879.png| image:: images_ozols/24879.png
+    :scale: 100%
+
+.. |images_ozols/26498.png| image:: images_ozols/26498.png
+    :scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+    :scale: 100%
+
+.. |images_ozols/24869.png| image:: images_ozols/24869.png
+    :scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+    :scale: 100%
+
+.. |images_ozols/25602.png| image:: images_ozols/25602.png
+    :scale: 100%
 
  

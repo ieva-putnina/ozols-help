@@ -7,47 +7,55 @@ secībā.
 
 Amatu saraksts tiek lietots pievienojot jaunu :doc:`slodzi<207>` .
 
-Lai pievienotu jaunu amatu, rīku joslā jānospiež poga .. image::
-images_ozols/24708.png
-:scale: 100%
-(Atl+P), tiek atvērts logs, kur nepieciešams ievadīt Amata grupas kodu
-un nosaukumu:
+Lai pievienotu jaunu amatu, rīku joslā jānospiež poga
+|images_ozols/24708.png| (Atl+P), tiek atvērts logs, kur nepieciešams
+ievadīt Amata grupas kodu un nosaukumu:
 
 
 
-.. image:: images_ozols/26406.png
-:scale: 100%
-
+|images_ozols/26406.png|
 
 Lai aizpildītu katras Amatu grupas kompetences, grupas aprakstā,
-nepieciešams nospiest pogu .. image:: images_ozols/24708.png
-:scale: 100%
-un tiks atvērts jauns, kur iespējams ievadīt amata grupas kompetenci,
-norādot kompetences secību izvēlētajā amata grupā, kā arī no saraksta
+nepieciešams nospiest pogu |images_ozols/24708.png| un tiks atvērts
+jauns, kur iespējams ievadīt amata grupas kompetenci, norādot
+kompetences secību izvēlētajā amata grupā, kā arī no saraksta
 izvēloties kompetenci:
 
 
 
-.. image:: images_ozols/26407.png
-:scale: 100%
+|images_ozols/26407.png|
 
 
 
-
-Lai saglabātu pievienotos datus, jānospiež poga .. image::
-images_ozols/24615.jpg
-:scale: 100%
-.
+Lai saglabātu pievienotos datus, jānospiež poga
+|images_ozols/24615.jpg| .
 
 
 
-Lai ierakstus atvērtu un labotu, vai dzēstu, jānospiež poga .. image::
-images_ozols/25603.png
-:scale: 100%
-(Alt+A) vai .. image:: images_ozols/25602.png
-:scale: 100%
-(Alt+D).
+Lai ierakstus atvērtu un labotu, vai dzēstu, jānospiež poga
+|images_ozols/25603.png| (Alt+A) vai |images_ozols/25602.png| (Alt+D).
 
 
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/26406.png| image:: images_ozols/26406.png
+    :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/26407.png| image:: images_ozols/26407.png
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
+
+.. |images_ozols/25603.png| image:: images_ozols/25603.png
+    :scale: 100%
+
+.. |images_ozols/25602.png| image:: images_ozols/25602.png
+    :scale: 100%
 
  

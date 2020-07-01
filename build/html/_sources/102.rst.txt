@@ -12,15 +12,11 @@ Nodokļu sarakstā definētās likmes tiek izmantotas definējot
 dokumentu<310>` satura ierakstus.
 
 Lai nodokļu sarakstā pievienotu jaunu pievienotās vērtības nodokli,
-rīku joslā jānospiež poga .. image:: images_ozols/25605.png
-   :scale: 100%
-, tiek atvērt logs:
+rīku joslā jānospiež poga |images_ozols/25605.png| , tiek atvērt logs:
 
 
 
-.. image:: images_ozols/26559.png
-   :scale: 100%
-
+|images_ozols/26559.png|
 
 
 
@@ -33,5 +29,11 @@ Vērtība: Nodokļa procentuālā vērtība.
 
 Konts : :doc:`Kontu plānā<114>` izveidotais pievienotās vērtības
 nodokļa grāmatvediskais konts.
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+    :scale: 100%
+
+.. |images_ozols/26559.png| image:: images_ozols/26559.png
+    :scale: 100%
 
  

@@ -6,8 +6,10 @@ Vadītājam.
 
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-:doc:` Novērtēšanas anketas aizpildīšana <5181>`
+|images_ozols/24545.gif| :doc:` Novērtēšanas anketas aizpildīšana
+<5181>`
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
 
  .. toctree::   :maxdepth: 4    5181.rst   5185.rst

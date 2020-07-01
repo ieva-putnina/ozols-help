@@ -6,9 +6,7 @@ ar pircējiem un piegādātājiem.
 
 
 
-.. image:: images_ozols/25485.png
-:scale: 100%
-
+|images_ozols/25485.png|
 
 
 
@@ -21,30 +19,22 @@ Lapaspusē Dokuments ir jāaizpilda Līguma dokumenta pamat dati
 
 
 
-.. image:: images_ozols/26414.png
-:scale: 100%
+|images_ozols/26414.png|
 
 
 
-
-.. image:: images_ozols/26415.png
-:scale: 100%
-
+|images_ozols/26415.png|
 
 Līgums (līguma veids):
 
-.. image:: images_ozols/26416.png
-:scale: 100%
-
+|images_ozols/26416.png|
 
 
 
 Brokeru uzņēmumiem ir vēl viena papildus izvēlne pie Līguma - ar ko
 tiks slēgts sadarbībaslīgums:
 
-.. image:: images_ozols/26417.png
-:scale: 100%
-
+|images_ozols/26417.png|
 
 
 
@@ -62,9 +52,7 @@ Piedāvājumu, kur lauciņā atspoguļojas Piedāvājuma numurs
 
 
 
-.. image:: images_ozols/26121.png
-:scale: 100%
-
+|images_ozols/26121.png|
 
 
 
@@ -91,5 +79,23 @@ jānorāda Soda % dienā.
 Līgumu žurnālā, atzīmējot konkrēto līgumu, jānospiež peles labais
 taustiņš un jāizvēlas Kopēt. Tiek nokopēts līgums.
 
+
+.. |images_ozols/25485.png| image:: images_ozols/25485.png
+    :scale: 100%
+
+.. |images_ozols/26414.png| image:: images_ozols/26414.png
+    :scale: 100%
+
+.. |images_ozols/26415.png| image:: images_ozols/26415.png
+    :scale: 100%
+
+.. |images_ozols/26416.png| image:: images_ozols/26416.png
+    :scale: 100%
+
+.. |images_ozols/26417.png| image:: images_ozols/26417.png
+    :scale: 100%
+
+.. |images_ozols/26121.png| image:: images_ozols/26121.png
+    :scale: 100%
 
  

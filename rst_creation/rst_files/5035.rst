@@ -9,25 +9,20 @@ dažādiem kritērijiem.
 
 Atverotizveidotu pieprasījumu arstatusu Tiek izpildīts, tas jāiesniedz
 izskatīšanai:
-Atverot pieprasījumu, jānospiež poga .. image:: images_ozols/26316.png
-:scale: 100%
-, lai dokumentstiktu nosūtītsuz pieprasījumu izskatīšanu:
+Atverot pieprasījumu, jānospiež poga |images_ozols/26316.png| , lai
+dokumentstiktu nosūtītsuz pieprasījumu izskatīšanu:
 
 
 
 
-.. image:: images_ozols/26301.png
-:scale: 100%
-
+|images_ozols/26301.png|
 
 Pieprasījuma dokuments ir iesniegts :doc:`budžeta pieprasījumu
 izskatīšanai<5041>` .
 
 
 
-.. image:: images_ozols/26299.png
-:scale: 100%
-
+|images_ozols/26299.png|
 
 
 
@@ -49,21 +44,31 @@ logs, kurā jāieraskta komentās un jāsaglabā:
 
 
 
-.. image:: images_ozols/26324.png
-:scale: 100%
-
+|images_ozols/26324.png|
 
 
 
 Pēc komentāru pievienošanas budžeta pieprasījuma saturā, lai nosūtītu
-pieprasījumu izskatītājam, jānospiež poga .. image::
-images_ozols/26325.png
-:scale: 100%
-
+pieprasījumu izskatītājam, jānospiež poga |images_ozols/26325.png|
 
 Pēc komentāru pievienošanas un nosūtīšanas pieprasījumu izskatītājam,
 pieprasītājama nav iespējas atkārtoti komentēt pieprasījumu. Tālāk ir
 iespējams skatīties pieprasījumu statusu, apstiprināto summu un
 stāšanās spēkā informāciju.
+
+.. |images_ozols/26316.png| image:: images_ozols/26316.png
+    :scale: 100%
+
+.. |images_ozols/26301.png| image:: images_ozols/26301.png
+    :scale: 100%
+
+.. |images_ozols/26299.png| image:: images_ozols/26299.png
+    :scale: 100%
+
+.. |images_ozols/26324.png| image:: images_ozols/26324.png
+    :scale: 100%
+
+.. |images_ozols/26325.png| image:: images_ozols/26325.png
+    :scale: 100%
 
  

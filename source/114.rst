@@ -14,16 +14,13 @@ augstākajiem kontu līmeņiem.
 Jauna konta pievienošana
 ````````````````````````
 
-Lai kontu plānā pievienotu jaunu kontu , jāizmanto komanda .. image::
-images_ozols/24708.png
-   :scale: 100%
-no rīku joslas (Alt+P) un tiks atvērts jauns logs:
+Lai kontu plānā pievienotu jaunu kontu , jāizmanto komanda
+|images_ozols/24708.png| no rīku joslas (Alt+P) un tiks atvērts jauns
+logs:
 
 
 
-.. image:: images_ozols/26136.png
-   :scale: 100%
-
+|images_ozols/26136.png|
 
 
 
@@ -33,9 +30,7 @@ tad kā augstāko kontu norāda [Nav]:
 
 
 
-.. image:: images_ozols/26133.png
-   :scale: 100%
-
+|images_ozols/26133.png|
 
 
 
@@ -48,9 +43,7 @@ arī ieraksts ir slēgts:
 
 
 
-.. image:: images_ozols/26134.png
-   :scale: 100%
-
+|images_ozols/26134.png|
 
 
 
@@ -62,10 +55,8 @@ varēs izmantot grāmatojot dokumentus.
 
 
 
-.. image:: images_ozols/24545.gif
-   :scale: 100%
-Abu augstāk minēto statusu maiņa esošajiem kontiem, neietekmē
-vēsturiski grāmatotos dokumentus un atskaites.
+|images_ozols/24545.gif| Abu augstāk minēto statusu maiņa esošajiem
+kontiem, neietekmē vēsturiski grāmatotos dokumentus un atskaites.
 
 
 Ieraksts ir slēgts - kontu nevarēs izmantot grāmatojumos un veidojot
@@ -78,9 +69,7 @@ vai abos):
 
 
 
-.. image:: images_ozols/26135.png
-   :scale: 100%
-
+|images_ozols/26135.png|
 
 
 
@@ -88,9 +77,7 @@ Dimensiju lietošana grāmatojumos:
 
 
 
-.. image:: images_ozols/26137.png
-   :scale: 100%
-
+|images_ozols/26137.png|
 
 
 
@@ -104,29 +91,56 @@ Nelietot: grāmatojumos netiks lietotā attiecīgā dimensija.
 
 
 
-.. image:: images_ozols/26138.png
-   :scale: 100%
-- tiek lietots, lai attiecīgajam kontam tiktu rēķinātas :doc:`valūtu
-kursu svārstības<675>` :
+|images_ozols/26138.png| - tiek lietots, lai attiecīgajam kontam tiktu
+rēķinātas :doc:`valūtu kursu svārstības<675>` :
 
 
 
-.. image:: images_ozols/26139.png
-   :scale: 100%
-- tiek lietots, ja nepieciešams :doc:`valūtu kursu svārstību<675>`
-sadalījums pa dimensijām
+|images_ozols/26139.png| - tiek lietots, ja nepieciešams :doc:`valūtu
+kursu svārstību<675>` sadalījums pa dimensijām
 
-Lai konts tiktu pievienots un saglabāts kontu plānā, jānospiež poga ..
-image:: images_ozols/25621.png
-   :scale: 100%
-.
+Lai konts tiktu pievienots un saglabāts kontu plānā, jānospiež poga
+|images_ozols/25621.png| .
 
 Lai veiktu izmaiņas pievienotajos kontos, ieraksts ir jāatver, rīku
-joslā nospiežot pogu .. image:: images_ozols/24869.png
-   :scale: 100%
-un jāveic izmaiņas. Lai saglabātu veiktās izmaiņas ir jānospiež poga
-.. image:: images_ozols/24867.png
-   :scale: 100%
+joslā nospiežot pogu |images_ozols/24869.png| un jāveic izmaiņas. Lai
+saglabātu veiktās izmaiņas ir jānospiež poga |images_ozols/24867.png|
 .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/26136.png| image:: images_ozols/26136.png
+    :scale: 100%
+
+.. |images_ozols/26133.png| image:: images_ozols/26133.png
+    :scale: 100%
+
+.. |images_ozols/26134.png| image:: images_ozols/26134.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/26135.png| image:: images_ozols/26135.png
+    :scale: 100%
+
+.. |images_ozols/26137.png| image:: images_ozols/26137.png
+    :scale: 100%
+
+.. |images_ozols/26138.png| image:: images_ozols/26138.png
+    :scale: 100%
+
+.. |images_ozols/26139.png| image:: images_ozols/26139.png
+    :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+    :scale: 100%
+
+.. |images_ozols/24869.png| image:: images_ozols/24869.png
+    :scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+    :scale: 100%
 
  

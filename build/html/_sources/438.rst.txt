@@ -8,10 +8,9 @@ uzskaites vērtība. Dokuments pēc saglabāšanas ir pieejams
 
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Pirms pamatlīdzekļu pārvērtēšanas jāpārliecinās vai visiem
-pārvērtējamiem pamatlīdzekļiem ir aprēķināts nolietojums.
+|images_ozols/24545.gif| Pirms pamatlīdzekļu pārvērtēšanas
+jāpārliecinās vai visiem pārvērtējamiem pamatlīdzekļiem ir aprēķināts
+nolietojums.
 
 
 
@@ -20,9 +19,7 @@ Pamatlīdzekļu pārvērtēšanas dokuments .
 
 
 
-.. image:: images_ozols/25240.png
-:scale: 100%
-
+|images_ozols/25240.png|
 
 
 
@@ -51,20 +48,14 @@ komandpoga Atcelt.
 
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Lai izveidotā Pamatlīdzekļu pārvērtēšanas dokumenta dati stātos spēkā
-obligāti pēc saglabāšanas dokuments ir jāapstiprina ar funkciju ..
-image:: images_ozols/24715.gif
-:scale: 100%
-.
+|images_ozols/24545.gif| Lai izveidotā Pamatlīdzekļu pārvērtēšanas
+dokumenta dati stātos spēkā obligāti pēc saglabāšanas dokuments ir
+jāapstiprina ar funkciju |images_ozols/24715.gif| .
 
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Pēc dokumenta apstiprināšanas Pamatlīdzekļu pārvērtēšanas dokuments ir
-:doc:`jānogrāmato<14044>` .
+|images_ozols/24545.gif| Pēc dokumenta apstiprināšanas Pamatlīdzekļu
+pārvērtēšanas dokuments ir :doc:`jānogrāmato<14044>` .
 
 
 
@@ -76,27 +67,19 @@ dokumentam
 
 Pēc dokumenta datu aizpildīšanas ir jāaizpilda dati par pārvērtējamiem
 pamatlīdzekļiem. Dokumentam jaunu pārvērtējamo pamatlīdzekli pievieno
-atvērtā Pamatlīdzekļu pārvērtēšanas dokumenta formā ar funkciju ..
-image:: images_ozols/24708.png
-:scale: 100%
-.
+atvērtā Pamatlīdzekļu pārvērtēšanas dokumenta formā ar funkciju
+|images_ozols/24708.png| .
 
 Datus par pārvērtējamo pamatlīdzekli iespējams labot atvērtā
-Pamatlīdzekļu pārvērtēšanas dokumenta formā ar funkciju .. image::
-images_ozols/24709.png
-:scale: 100%
-.
+Pamatlīdzekļu pārvērtēšanas dokumenta formā ar funkciju
+|images_ozols/24709.png| .
 
 Pamatlīdzekli dzēš atvērtā Pamatlīdzekļu pārvērtēšanas dokumenta formā
-ar funkciju .. image:: images_ozols/24719.gif
-:scale: 100%
-.
+ar funkciju |images_ozols/24719.gif| .
 
 
 
-.. image:: images_ozols/25241.png
-:scale: 100%
-
+|images_ozols/25241.png|
 
 
 
@@ -141,5 +124,32 @@ pārvērtēto pamatlīdzekli.
 
 Atcelt - jāspiež šī komandpoga, ja lietotājs nevēlas saglabāt
 aizpildītos datus par pamatlīdzekli.
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/25240.png| image:: images_ozols/25240.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/24715.gif| image:: images_ozols/24715.gif
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+    :scale: 100%
+
+.. |images_ozols/24719.gif| image:: images_ozols/24719.gif
+    :scale: 100%
+
+.. |images_ozols/25241.png| image:: images_ozols/25241.png
+    :scale: 100%
 
  

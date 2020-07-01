@@ -13,13 +13,9 @@ nomenklatūras atlikumi perioda sākumā tikai šajā Noliktavā. Filtru var
 uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot
 nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus.
 
-Datu atlases kritērijus var saglabāt (.. image::
-images_ozols/24938.png
-:scale: 100%
-). Izvēloties izveidoto filtra sagatavi (.. image::
-images_ozols/24943.png
-:scale: 100%
-), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves.
 
 
 
@@ -33,16 +29,12 @@ Nomenklatūras atlikumu pievienošana
 Nomenklatūras atlikuma pievienošana, izmantojot rīku joslas pogu
 "Pievienot" un aizpildot apraksta ekrāna formu, nodrošina vienas
 nomenklatūrasatlikumapievienošanu datu bāzē. AtrodotiesNomenklatūras
-atlikumi perioda sākumā - žurnālā, rīku joslā nospiežot pogu.. image::
-images_ozols/24708.png
-:scale: 100%
-, tiks atvērta ekrāna forma:
+atlikumi perioda sākumā - žurnālā, rīku joslā nospiežot pogu
+|images_ozols/24708.png| , tiks atvērta ekrāna forma:
 
 
 
-.. image:: images_ozols/25339.png
-:scale: 100%
-
+|images_ozols/25339.png|
 
 
 
@@ -63,18 +55,12 @@ struktūrvienību, kurā šis krājums/prece ir atlikumā; Ek.kods, u.c.
 
 
 
-.. image:: images_ozols/25329.png
-:scale: 100%
-
+|images_ozols/25329.png|
 
 
 
 Pēc datu aizpildīšanas, nomenklatūrasatlikumu perioda sākumā iespējams
-.. image:: images_ozols/24615.jpg
-:scale: 100%
-vai .. image:: images_ozols/24617.jpg
-:scale: 100%
-.
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
 
 
 Datu labošana pievienotajos nomenklatūras atlikumos
@@ -83,19 +69,44 @@ Datu labošana pievienotajos nomenklatūras atlikumos
 Labojumus saglabātajos ierakstosiespējams veikt atverotnomenklatūras
 atlikuma ierakstu, kurš pieejams apskatei/labošanai Dokumentu
 sarakstā::doc:`Nomenklatūras atlikumi perioda sākumā<107>` . Lai
-labotu pievienotos atlikumus, jāizmanto komandpoga.. image::
-images_ozols/24709.png
-:scale: 100%
-(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus
-ekrāna formā: Nomenklatūras atlikums perioda sākumā.
+labotu pievienotos atlikumus, jāizmanto komandpoga
+|images_ozols/24709.png| (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus ekrāna formā: Nomenklatūras atlikums
+perioda sākumā.
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
-images_ozols/24615.jpg
-:scale: 100%
-vai .. image:: images_ozols/24617.jpg
-:scale: 100%
-.
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
 
 :doc:`<107>`
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+    :scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+    :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/25339.png| image:: images_ozols/25339.png
+    :scale: 100%
+
+.. |images_ozols/25329.png| image:: images_ozols/25329.png
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+    :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+    :scale: 100%
 
  

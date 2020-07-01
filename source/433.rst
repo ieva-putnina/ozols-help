@@ -16,9 +16,7 @@ Pamatlīdzekļu ienākšanas dokuments .
 
 
 
-.. image:: images_ozols/25051.png
-:scale: 100%
-
+|images_ozols/25051.png|
 
 
 
@@ -50,20 +48,14 @@ dokumentu.
 
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Lai izveidotā Pamatlīdzekļuienākšanas dokumenta dati stātos spēkā
-obligāti pēc saglabāšanas dokuments ir jāapstiprina ar funkciju ..
-image:: images_ozols/24715.gif
-:scale: 100%
-.
+|images_ozols/24545.gif| Lai izveidotā Pamatlīdzekļuienākšanas
+dokumenta dati stātos spēkā obligāti pēc saglabāšanas dokuments ir
+jāapstiprina ar funkciju |images_ozols/24715.gif| .
 
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Pēc dokumenta apstiprināšanas Pamatlīdzekļu ienākšanasdokuments ir
-:doc:`jānogrāmato<14044>` .
+|images_ozols/24545.gif| Pēc dokumenta apstiprināšanas Pamatlīdzekļu
+ienākšanasdokuments ir :doc:`jānogrāmato<14044>` .
 
 
 
@@ -79,33 +71,23 @@ Pamatlīdzekļu pievienošana Pamatlīdzekļuienākšanas dokumentam
 Pēc dokumenta datu aizpildīšanas ir jāaizpilda dati par
 pamatlīdzekļiem. Dokumentam jaunu pamatlīdzekli pievieno atvērtā
 
-Pamatlīdzekļuienākšanas dokumenta formā ar funkciju .. image::
-images_ozols/24708.png
-:scale: 100%
-.
+Pamatlīdzekļuienākšanas dokumenta formā ar funkciju
+|images_ozols/24708.png| .
 
 Datus par pamatlīdzekli iespējams labot atvērtā
-Pamatlīdzekļuienākšanas dokumenta formā ar funkciju .. image::
-images_ozols/24709.png
-:scale: 100%
-.
+Pamatlīdzekļuienākšanas dokumenta formā ar funkciju
+|images_ozols/24709.png| .
 
 Pamatlīdzekli dzēš atvērtā Pamatlīdzekļu atlikumu ievades dokumenta
-formā ar funkciju .. image:: images_ozols/24719.gif
-:scale: 100%
-.
+formā ar funkciju |images_ozols/24719.gif| .
 
 
 
-.. image:: images_ozols/25056.png
-:scale: 100%
+|images_ozols/25056.png|
 
 
 
-
-.. image:: images_ozols/25058.png
-:scale: 100%
-
+|images_ozols/25058.png|
 
 
 
@@ -248,9 +230,7 @@ Pamatlīdz.
 
 
 
-.. image:: images_ozols/25076.png
-:scale: 100%
-
+|images_ozols/25076.png|
 
 
 
@@ -262,9 +242,7 @@ ienākšanas dokumentu.
 
 
 
-.. image:: images_ozols/25078.png
-:scale: 100%
-
+|images_ozols/25078.png|
 
 
 
@@ -278,9 +256,7 @@ aprakstītās darbības.
 
 
 
-.. image:: images_ozols/25083.png
-:scale: 100%
-
+|images_ozols/25083.png|
 
 
 
@@ -291,12 +267,10 @@ ienākšanas dokumenta numuru.
 
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Pēc pamatlīdzekļu automatizētas izveidesPamatlīdzekļu ienākšanas
-dokumentā obligāti jāpapildina trūkstošā informācija par
-pamatlīdzekļiem, kuri atrodas :doc:`Pamatlīdzekļu dokumentu
-žurnālā<233>` .
+|images_ozols/24545.gif| Pēc pamatlīdzekļu automatizētas
+izveidesPamatlīdzekļu ienākšanas dokumentā obligāti jāpapildina
+trūkstošā informācija par pamatlīdzekļiem, kuri atrodas
+:doc:`Pamatlīdzekļu dokumentu žurnālā<233>` .
 
 
 
@@ -307,8 +281,7 @@ ienākšanas dokumentuvēlāk :doc:`Pamatlīdzekļu dokumentu žurnālā<233>`
 
 
 
-.. image:: images_ozols/25085.png
-:scale: 100%
+|images_ozols/25085.png|
 
 
 
@@ -316,5 +289,46 @@ ienākšanas dokumentuvēlāk :doc:`Pamatlīdzekļu dokumentu žurnālā<233>`
 
 
 
+.. |images_ozols/25051.png| image:: images_ozols/25051.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/24715.gif| image:: images_ozols/24715.gif
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+    :scale: 100%
+
+.. |images_ozols/24719.gif| image:: images_ozols/24719.gif
+    :scale: 100%
+
+.. |images_ozols/25056.png| image:: images_ozols/25056.png
+    :scale: 100%
+
+.. |images_ozols/25058.png| image:: images_ozols/25058.png
+    :scale: 100%
+
+.. |images_ozols/25076.png| image:: images_ozols/25076.png
+    :scale: 100%
+
+.. |images_ozols/25078.png| image:: images_ozols/25078.png
+    :scale: 100%
+
+.. |images_ozols/25083.png| image:: images_ozols/25083.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/25085.png| image:: images_ozols/25085.png
+    :scale: 100%
 
  

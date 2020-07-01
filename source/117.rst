@@ -1,18 +1,11 @@
 .. 117 ====================Struktūrvienības==================== 
 Struktūrvienību klasifikatoru iespējams veidot hierarhisku, veidojot
 detalizācijas līmeni atbilstoši uzņēmuma vajadzībām. Lai pievienotu
-jaunu ierakstu, rīku joslā nepieciešams nospiest pogu .. image::
-images_ozols/25605.png
-   :scale: 100%
-un aizpildīt sekojošus laukus:
+jaunu ierakstu, rīku joslā nepieciešams nospiest pogu
+|images_ozols/25605.png| un aizpildīt sekojošus laukus:
 
-.. image::
-images_ozols/file:///C:/Users/INESE%7E1.ITS/AppData/Local/Temp/moz-
-screenshot-5.png.gif
-   :scale: 100%
-.. image:: images_ozols/26432.png
-   :scale: 100%
-
+|images_ozols/file:///C:/Users/INESE%7E1.ITS/AppData/Local/Temp/moz-
+screenshot-5.png.gif| |images_ozols/26432.png|
 
 **Virslīmenis: **jānorāda augstākais līmenis, zem kura šis ieraksts
 tiks pievienots. Ja tāda nav, tad jānorāda izvēlne [Nav];
@@ -26,13 +19,27 @@ struktūrdaļa, utt.);
 **Atb.persona**: iespēja piesaistīt struktūrvienībai atbildīgo
 personu.
 
-Lai saglabātu izmaiņas, jānospiež poga .. image::
-images_ozols/24867.png
-   :scale: 100%
-. Lai veiktu izmaiņas pievienotajos struktūrvienību aprakstos,
-ieraksts ir jāatver, rīku joslā nospiežot pogu .. image::
-images_ozols/24869.png
-   :scale: 100%
-.
+Lai saglabātu izmaiņas, jānospiež poga |images_ozols/24867.png| . Lai
+veiktu izmaiņas pievienotajos struktūrvienību aprakstos, ieraksts ir
+jāatver, rīku joslā nospiežot pogu |images_ozols/24869.png| .
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+    :scale: 100%
+
+..
+|images_ozols/file:///C:/Users/INESE%7E1.ITS/AppData/Local/Temp/moz-
+screenshot-5.png.gif| image::
+images_ozols/file:///C:/Users/INESE%7E1.ITS/AppData/Local/Temp/moz-
+screenshot-5.png.gif
+    :scale: 100%
+
+.. |images_ozols/26432.png| image:: images_ozols/26432.png
+    :scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+    :scale: 100%
+
+.. |images_ozols/24869.png| image:: images_ozols/24869.png
+    :scale: 100%
 
  

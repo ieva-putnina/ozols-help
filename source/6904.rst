@@ -3,9 +3,7 @@ Lai izveidotu jaunu degvielas pasūtījumu:
 
 
 
-.. image:: images_ozols/25573.png
-:scale: 100%
-
+|images_ozols/25573.png|
 
 
 
@@ -29,19 +27,13 @@ Apmaksa: apmaksa tiek sasaistīta ar līgumā nodefinētajiem nosacījumiem
 par apmaksas termiņu (ja ļīgumā nav nodefinēts termiņš, tad ir
 iespējams izvēlēties apmaksas termiņu).
 
-Kad visi dati ievadīti, rīku joslā jānospiež poga .. image::
-images_ozols/25561.png
-:scale: 100%
-.
+Kad visi dati ievadīti, rīku joslā jānospiež poga
+|images_ozols/25561.png| .
 
-Lai pievienotu pasūtījuma saturu, jānospiež poga .. image::
-images_ozols/25580.png
-:scale: 100%
-:
+Lai pievienotu pasūtījuma saturu, jānospiež poga
+|images_ozols/25580.png| :
 
-.. image:: images_ozols/25581.png
-:scale: 100%
-
+|images_ozols/25581.png|
 
 Izkraušanas adrese: pasūtījuma izkraušanas adrese;
 
@@ -60,33 +52,52 @@ Summa: apmaksas summa;
 
 Nospiežot pogu Pievienot, pasūtījuma saturs tiks pievienots
 pasūtījumam. Lai pievienotu jaunu pasūtījuma saturu, atkal jānospiež
-poga .. image:: images_ozols/25580.png
-:scale: 100%
-un jāaizpilda saturs.
+poga |images_ozols/25580.png| un jāaizpilda saturs.
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Lai veiktu citas darbības ar pasūtījumu un tā saturu:
+|images_ozols/24545.gif| Lai veiktu citas darbības ar pasūtījumu un tā
+saturu:
 
 
 
-.. image:: images_ozols/25582.png
-:scale: 100%
+|images_ozols/25582.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Ja ir nepieciešams dzēst visu pasūtījumu, rīku joslā jānospiež poga ..
-image:: images_ozols/25583.png
-:scale: 100%
-un tad turpat rīku joslā jānospiež poga .. image::
-images_ozols/25584.png
-:scale: 100%
-.
+|images_ozols/24545.gif| Ja ir nepieciešams dzēst visu pasūtījumu,
+rīku joslā jānospiež poga |images_ozols/25583.png| un tad turpat rīku
+joslā jānospiež poga |images_ozols/25584.png| .
 
 Visi izveidotie pasūtījumi tiek saglabāti sadaļā dokumenti
 :doc:`Pasūtījumu žurnālā<6907>` .
+
+.. |images_ozols/25573.png| image:: images_ozols/25573.png
+    :scale: 100%
+
+.. |images_ozols/25561.png| image:: images_ozols/25561.png
+    :scale: 100%
+
+.. |images_ozols/25580.png| image:: images_ozols/25580.png
+    :scale: 100%
+
+.. |images_ozols/25581.png| image:: images_ozols/25581.png
+    :scale: 100%
+
+.. |images_ozols/25580.png| image:: images_ozols/25580.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/25582.png| image:: images_ozols/25582.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/25583.png| image:: images_ozols/25583.png
+    :scale: 100%
+
+.. |images_ozols/25584.png| image:: images_ozols/25584.png
+    :scale: 100%
 
  .. toctree::   :maxdepth: 4    6913.rst   6914.rst

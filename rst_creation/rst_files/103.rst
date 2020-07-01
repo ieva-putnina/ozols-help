@@ -7,24 +7,18 @@ nosaukums (LATVIA).
 
 
 
-.. image:: images_ozols/25369.png
-   :scale: 100%
-
+|images_ozols/25369.png|
 
 
 
 Valstu sarakstu izmanto pievienojot:doc:`Partneri<312>` un aizpildot
 :doc:`Pamatlīdzekļu ienākšanas dokumentu<433>` virsrakstu. Lai
 apskatītu detalizētāku izvēlētās Valsts aprakstu, jānospiež Rīku joslā
-poga .. image:: images_ozols/25420.png
-   :scale: 100%
-(ALT+A), tiek atvērts logs:
+poga |images_ozols/25420.png| (ALT+A), tiek atvērts logs:
 
 
 
-.. image:: images_ozols/25371.png
-   :scale: 100%
-
+|images_ozols/25371.png|
 
 
 
@@ -40,15 +34,27 @@ Valūta - Valsts valūta;
 
 Piezīmes - iespējams ierakstīt dažādas piezīmes;
 
-.. image:: images_ozols/25372.png
-   :scale: 100%
-- Latvija kā pamatvalsts (noklusētā valsts).
+|images_ozols/25372.png| - Latvija kā pamatvalsts (noklusētā valsts).
 
-Aprakstu ir iespējams labot vai papildināt, beigās nospiežot pogu ..
-image:: images_ozols/24615.jpg
-   :scale: 100%
-vai .. image:: images_ozols/24617.jpg
-   :scale: 100%
-.
+Aprakstu ir iespējams labot vai papildināt, beigās nospiežot pogu
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+.. |images_ozols/25369.png| image:: images_ozols/25369.png
+    :scale: 100%
+
+.. |images_ozols/25420.png| image:: images_ozols/25420.png
+    :scale: 100%
+
+.. |images_ozols/25371.png| image:: images_ozols/25371.png
+    :scale: 100%
+
+.. |images_ozols/25372.png| image:: images_ozols/25372.png
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+    :scale: 100%
 
  

@@ -3,9 +3,7 @@ Pievienotās struktūrvienības tiek saglabātas :doc:`struktūrvienību
 sarakstā<7313>` . Struktūrvienības tiek izmantotas :doc:`jaunas
 personas<7305>` pievienošanai un :doc:`atskaišu<7317>` sagatavošanai.
 
-.. image:: images_ozols/26188.jpg
-:scale: 100%
-
+|images_ozols/26188.jpg|
 
 
 
@@ -25,15 +23,22 @@ pārskata atskaiti<7322>` ;
 Kārtas nr.: struktūrvienību saraksta kārtas nr.
 
 
-Lai struktūrvienības ierakst tiktu saglabāts, jānospiež poga ..
-image:: images_ozols/25829.png
-:scale: 100%
-. Lai pievienotu jaunu struktūrvienību, jānospiež poga .. image::
-images_ozols/25850.png
-:scale: 100%
-un jāpievieno jaunu struktūrvienības ierakstu. Lai, pēc saglabāšanas,
-labotu pievienotās struktūrvienības ierakstu, jānospiež poga ..
-image:: images_ozols/25832.png
-:scale: 100%
-un pēc labošanas ieraksts jāsaglabā.
+Lai struktūrvienības ierakst tiktu saglabāts, jānospiež poga
+|images_ozols/25829.png| . Lai pievienotu jaunu struktūrvienību,
+jānospiež poga |images_ozols/25850.png| un jāpievieno jaunu
+struktūrvienības ierakstu. Lai, pēc saglabāšanas, labotu pievienotās
+struktūrvienības ierakstu, jānospiež poga |images_ozols/25832.png| un
+pēc labošanas ieraksts jāsaglabā.
+.. |images_ozols/26188.jpg| image:: images_ozols/26188.jpg
+    :scale: 100%
+
+.. |images_ozols/25829.png| image:: images_ozols/25829.png
+    :scale: 100%
+
+.. |images_ozols/25850.png| image:: images_ozols/25850.png
+    :scale: 100%
+
+.. |images_ozols/25832.png| image:: images_ozols/25832.png
+    :scale: 100%
+
  

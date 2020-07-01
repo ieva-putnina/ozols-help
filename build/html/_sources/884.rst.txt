@@ -5,16 +5,12 @@ Jauna Potenciālā partnera pievienošana ir iespējama caur Potenciālo
 partneru sadaļu:doc:`Potenciālais partneris<884>` un :doc:`Potenciālo
 partneru sarakstu<842>` .
 
-Lai pievienotu jaunu Potenciālo partneri, rīku joslā jānospiež poga ..
-image:: images_ozols/25605.png
-:scale: 100%
-, tiek atvērts partnera datu logs:
+Lai pievienotu jaunu Potenciālo partneri, rīku joslā jānospiež poga
+|images_ozols/25605.png| , tiek atvērts partnera datu logs:
 
 
 
-.. image:: images_ozols/26056.png
-:scale: 100%
-
+|images_ozols/26056.png|
 
 
 
@@ -46,9 +42,7 @@ Juridiskai personai papildus lauki:
 
 
 
-.. image:: images_ozols/26057.png
-:scale: 100%
-
+|images_ozols/26057.png|
 
 
 
@@ -67,8 +61,18 @@ Valsts: Valsts, kuru juridiskā persona pārstāv.
 
 
 Ja visi dati par Potenciālo partneri aizpildīti, tad tie jāsaglabā,
-nospiežot pogu .. image:: images_ozols/25621.png
-:scale: 100%
-.
+nospiežot pogu |images_ozols/25621.png| .
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+    :scale: 100%
+
+.. |images_ozols/26056.png| image:: images_ozols/26056.png
+    :scale: 100%
+
+.. |images_ozols/26057.png| image:: images_ozols/26057.png
+    :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+    :scale: 100%
 
  

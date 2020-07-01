@@ -12,9 +12,7 @@ sekojošas izmaiņas datora iestādījumos.
 
 
 
-.. image:: images_ozols/26347.png
-:scale: 100%
-
+|images_ozols/26347.png|
 
 
 
@@ -22,9 +20,7 @@ sekojošas izmaiņas datora iestādījumos.
 
 
 
-.. image:: images_ozols/26348.png
-:scale: 100%
-
+|images_ozols/26348.png|
 
 
 
@@ -33,12 +29,19 @@ composition":
 
 
 
-.. image:: images_ozols/26349.png
-:scale: 100%
+|images_ozols/26349.png|
 
 
 
 
 
+.. |images_ozols/26347.png| image:: images_ozols/26347.png
+    :scale: 100%
+
+.. |images_ozols/26348.png| image:: images_ozols/26348.png
+    :scale: 100%
+
+.. |images_ozols/26349.png| image:: images_ozols/26349.png
+    :scale: 100%
 
  

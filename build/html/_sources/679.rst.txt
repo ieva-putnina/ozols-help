@@ -5,9 +5,7 @@ Izvēloties dokumenta veidu Iepirkums, tiks atvērts jauns logs:
 
 
 
-.. image:: images_ozols/25517.png
-:scale: 100%
-
+|images_ozols/25517.png|
 
 
 
@@ -25,9 +23,7 @@ rezultātu un šī rīkojuma numuru:
 
 
 
-.. image:: images_ozols/25518.png
-:scale: 100%
-
+|images_ozols/25518.png|
 
 
 
@@ -36,9 +32,7 @@ piešķirto Iepirkuma nosaukumu:
 
 
 
-.. image:: images_ozols/25519.png
-:scale: 100%
-
+|images_ozols/25519.png|
 
 
 
@@ -47,9 +41,7 @@ Iepirkums ir izveidots:
 
 
 
-.. image:: images_ozols/25520.png
-:scale: 100%
-
+|images_ozols/25520.png|
 
 
 
@@ -58,9 +50,7 @@ projekta stadijā, izpildīts, izpildīts, lauzts, utt.:
 
 
 
-.. image:: images_ozols/25520.png
-:scale: 100%
-
+|images_ozols/25520.png|
 
 
 
@@ -69,9 +59,7 @@ Ieprikuma, pieņemšanas datumu:
 
 
 
-.. image:: images_ozols/25521.png
-:scale: 100%
-
+|images_ozols/25521.png|
 
 
 
@@ -84,22 +72,43 @@ Iepirkumu, no uzņēmuma puses:
 
 
 
-.. image:: images_ozols/25522.png
-:scale: 100%
-
+|images_ozols/25522.png|
 
 
 
 PēcVirsraksta un Citu datuierakstu aizpildīšanas,Iepirkumu iespējams
-.. image:: images_ozols/24615.jpg
-:scale: 100%
-vai .. image:: images_ozols/24617.jpg
-:scale: 100%
-.
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
 
 
 
 Saglabātie ieraksti - pievienotie Ieprikumi, būs pieejams
 apskatei/labošanai :doc:`Iepirkumu žurnālā<678>` .
+
+.. |images_ozols/25517.png| image:: images_ozols/25517.png
+    :scale: 100%
+
+.. |images_ozols/25518.png| image:: images_ozols/25518.png
+    :scale: 100%
+
+.. |images_ozols/25519.png| image:: images_ozols/25519.png
+    :scale: 100%
+
+.. |images_ozols/25520.png| image:: images_ozols/25520.png
+    :scale: 100%
+
+.. |images_ozols/25520.png| image:: images_ozols/25520.png
+    :scale: 100%
+
+.. |images_ozols/25521.png| image:: images_ozols/25521.png
+    :scale: 100%
+
+.. |images_ozols/25522.png| image:: images_ozols/25522.png
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+    :scale: 100%
 
  

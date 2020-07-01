@@ -4,18 +4,14 @@
 Atskaite parāda uzkrājumu neizmantotajam atvaļinājumam katram
 strādājošajam dienu un summu veidā.
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-1. Lai atskaite tiktu sagatavota pareizi, programmā jāveic precīza
-atvaļinājumu datu uzskaite. Uzsākot darbu ar programmu strādājošā
-:doc:`Slodzei<207>` norāda neizmantoto atvaļinājumu dienu skaitu uz
-konkrētu datumu:
+|images_ozols/24545.gif| 1. Lai atskaite tiktu sagatavota pareizi,
+programmā jāveic precīza atvaļinājumu datu uzskaite. Uzsākot darbu ar
+programmu strādājošā :doc:`Slodzei<207>` norāda neizmantoto
+atvaļinājumu dienu skaitu uz konkrētu datumu:
 
 
 
-.. image:: images_ozols/26199.png
-:scale: 100%
-
+|images_ozols/26199.png|
 
 
 
@@ -26,9 +22,7 @@ atvaļinājumu dienu skaitam:
 
 
 
-.. image:: images_ozols/26200.png
-:scale: 100%
-
+|images_ozols/26200.png|
 
 
 
@@ -38,11 +32,9 @@ nozīmē, kapar katru pilnu nostrādāto mēnesišim darbiniekam pienākas
 mēnešiem~ 1.67 atv.dienas par pilnu nostrādāto mēnesi).
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Sagatavojot atskaiti, tajā tiek iekļautas visas datu atlases filtram
-atbilstošās slodzes. Sagatavojot atskaiti, atskaitē tiek uzrādīti šādi
-dati:
+|images_ozols/24545.gif| Sagatavojot atskaiti, tajā tiek iekļautas
+visas datu atlases filtram atbilstošās slodzes. Sagatavojot atskaiti,
+atskaitē tiek uzrādīti šādi dati:
 
 
 
@@ -76,5 +68,17 @@ Dien.atl.p.b. - Uzkrātās atvaļinājuma dienu atlikums uz perioda beigām
 
 Summa p.b. - Uzkrātā atvaļinājuma summa periodabeigās
 (vid.izpeļņa*uzkrāto atv.dienu skaits);
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/26199.png| image:: images_ozols/26199.png
+    :scale: 100%
+
+.. |images_ozols/26200.png| image:: images_ozols/26200.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
 
  

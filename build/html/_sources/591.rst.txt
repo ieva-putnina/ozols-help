@@ -10,9 +10,7 @@ ir modificējamas un tajās var noteikt parādīšanai atskaitē jebkurus
 datus no sakonfigurētajiem algu aprēķina rezultātiem
 (:doc:`Rezultējošo kodu konfigurācij<283>` :doc:`a`)
 
-.. image:: images_ozols/26546.png
-:scale: 100%
-
+|images_ozols/26546.png|
 
 Datus var atlasīt atsevišķiem aprēķina periodiem, struktūrvienībām,
 finansējumiem. Atskaiti var sagatavot par vienu no strādājošo amatiem,
@@ -23,14 +21,18 @@ kolonnās algu rezultātu summas. Kolonnas Persona, Slodžu skaits ir
 noteiktas programmā, bet algu aprēķina rezultātu kolonnas tiek
 konfigurētas atskaišu kolonnu sarakstā.
 
-.. image:: images_ozols/26547.png
-:scale: 100%
-
+|images_ozols/26547.png|
 
 Tā kā rezultāti horizontāli var iekļaut ļoti daudz datu kolonnu, šī
 atskaite ir pieejama lietošanai tikai HTML skatā. Ja drukājot
 atskaiti, datiem nepietiek vietas lapā, atskaite ir jāeksportē vai
 jākopē ārējā failā, jāformatē teksts vai jākoriģē kolonnu skaits un
 jādrukā no MS Office programmām.
+
+.. |images_ozols/26546.png| image:: images_ozols/26546.png
+    :scale: 100%
+
+.. |images_ozols/26547.png| image:: images_ozols/26547.png
+    :scale: 100%
 
  

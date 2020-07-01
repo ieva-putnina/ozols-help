@@ -10,9 +10,7 @@ aktīvajā algu periodā.
 
 
 
-.. image:: images_ozols/26521.png
-:scale: 100%
-
+|images_ozols/26521.png|
 
 
 
@@ -32,19 +30,16 @@ Piezīmes - iespēja aizpildīt piezīmes par periodu.
 
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Vairāku uzņēmumu uzskaitē, algu periodi visiem uzņēmumiem ir kopīgi.
+|images_ozols/24545.gif| Vairāku uzņēmumu uzskaitē, algu periodi
+visiem uzņēmumiem ir kopīgi.
 
 
 
 Perioda konfigurācijas datu izmantošana
 +++++++++++++++++++++++++++++++++++++++
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Lai pareizi tiktu piemēroti konfigurācijas dati algu aprēķinā,
-jāpievērš uzmanība sekojošajam:
+|images_ozols/24545.gif| Lai pareizi tiktu piemēroti konfigurācijas
+dati algu aprēķinā, jāpievērš uzmanība sekojošajam:
 
 
 1. Pievienojot jaunu periodu :doc:`Ienākuma nodokļa<222>` un
@@ -72,5 +67,14 @@ iepriekšējā algu periodā pievienotās :doc:`Algu tarifikācijas
 konstantes<281>` . Ja konstantes vērtības jāmaina, tas jādara pirms
 algu aprēķina uzsākšanas algu aprēķina perioda aprakstā.
 
+
+.. |images_ozols/26521.png| image:: images_ozols/26521.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
 
  

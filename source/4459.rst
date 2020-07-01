@@ -8,15 +8,17 @@ kalendāru<4462>` , caur :doc:`uzņēmuma kalendāru<4482>` (grafiku),caur
 žurnālu<4459>` .
 
 Atverot notikumu, tam iespējams veikt dažādas darbības. Lai notikums
-tiktu izpildīts, slēgts, jānospiež poga .. image::
-images_ozols/25895.png
-:scale: 100%
-, tiek atvērt logs:
+tiktu izpildīts, slēgts, jānospiež poga |images_ozols/25895.png| ,
+tiek atvērt logs:
 
 
 
-.. image:: images_ozols/25896.png
-:scale: 100%
+|images_ozols/25896.png|
 
+.. |images_ozols/25895.png| image:: images_ozols/25895.png
+    :scale: 100%
+
+.. |images_ozols/25896.png| image:: images_ozols/25896.png
+    :scale: 100%
 
  

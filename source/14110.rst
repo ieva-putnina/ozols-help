@@ -15,9 +15,7 @@ Registration:
 
 
 
-.. image:: images_ozols/26242.png
-:scale: 100%
-
+|images_ozols/26242.png|
 
 
 
@@ -31,9 +29,7 @@ Database:
 
 
 
-.. image:: images_ozols/26246.png
-:scale: 100%
-
+|images_ozols/26246.png|
 
 
 
@@ -42,9 +38,7 @@ ceļu uzbackup failu, no kura dati tiks atjaunoti:
 
 
 
-.. image:: images_ozols/26247.png
-:scale: 100%
-
+|images_ozols/26247.png|
 
 
 
@@ -62,9 +56,7 @@ Users->Iezīmēt nepieciešamo loginu->Dzēst ierakstu:
 
 
 
-.. image:: images_ozols/26249.png
-:scale: 100%
-
+|images_ozols/26249.png|
 
 
 
@@ -73,9 +65,7 @@ taustiņš: "New Login"
 
 
 
-.. image:: images_ozols/26248.png
-:scale: 100%
-
+|images_ozols/26248.png|
 
 
 
@@ -84,5 +74,20 @@ jāatzīmē atbilstošās :doc:`Datu bāzes lietotāju tiesības darba
 režīmiem<14086>` .
 
 
+
+.. |images_ozols/26242.png| image:: images_ozols/26242.png
+    :scale: 100%
+
+.. |images_ozols/26246.png| image:: images_ozols/26246.png
+    :scale: 100%
+
+.. |images_ozols/26247.png| image:: images_ozols/26247.png
+    :scale: 100%
+
+.. |images_ozols/26249.png| image:: images_ozols/26249.png
+    :scale: 100%
+
+.. |images_ozols/26248.png| image:: images_ozols/26248.png
+    :scale: 100%
 
  

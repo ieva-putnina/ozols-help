@@ -19,9 +19,7 @@ tiks atvērts jauns logs:
 
 
 
-.. image:: images_ozols/25000.png
-:scale: 100%
-
+|images_ozols/25000.png|
 
 
 Naudas pārsūtīšanas starp bankas kontiem Virsraksta aizpildīšana
@@ -38,9 +36,7 @@ izpildīts:
 
 
 
-.. image:: images_ozols/24724.png
-:scale: 100%
-
+|images_ozols/24724.png|
 
 
 
@@ -49,9 +45,7 @@ veidots:
 
 
 
-.. image:: images_ozols/24725.png
-:scale: 100%
-
+|images_ozols/24725.png|
 
 
 
@@ -61,9 +55,7 @@ bankas konta uz citu:
 
 
 
-.. image:: images_ozols/24726.png
-:scale: 100%
-
+|images_ozols/24726.png|
 
 
 
@@ -72,9 +64,7 @@ pārskaitījums tiks noformēts:
 
 
 
-.. image:: images_ozols/24791.png
-:scale: 100%
-
+|images_ozols/24791.png|
 
 
 
@@ -87,17 +77,13 @@ Dokumenta Naudas pārsūtīšana starp bankas kontiemSatura aizpildīšana
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītuNaudas pārsūtīšanas dokumentaSaturu, dokumenta satura
-daļā nepieciešams nospiest .. image:: images_ozols/24708.png
-:scale: 100%
-un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
-satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
-ieraksta summu:
+daļā nepieciešams nospiest |images_ozols/24708.png| un tiks atvērts
+operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus
+(uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:
 
 
 
-.. image:: images_ozols/24792.png
-:scale: 100%
-
+|images_ozols/24792.png|
 
 
 Maksājuma dokumenta Mērķa un Satura aizpildīšana
@@ -112,9 +98,7 @@ Lauku Mērķis , iespējams aizpildīt manuāli vai izvēloties no
 
 
 
-.. image:: images_ozols/24793.png
-:scale: 100%
-
+|images_ozols/24793.png|
 
 
 
@@ -125,9 +109,7 @@ summu:
 
 
 
-.. image:: images_ozols/24795.png
-:scale: 100%
-
+|images_ozols/24795.png|
 
 
 
@@ -139,9 +121,7 @@ elektronisko norēķinu sistēmu:
 
 
 
-.. image:: images_ozols/24733.png
-:scale: 100%
-
+|images_ozols/24733.png|
 
 
 
@@ -154,15 +134,12 @@ elektronisko banku norēķinu sistēmu, lai būtu iespējams veikt
 Kad visi nepieciešamie lauki ir aizpildīti,Naudas pārsūtīšanas
 dokumentsir sagatavots un to ir iespējams:
 
-1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
-:scale: 100%
--dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai vienlaicīgi:doc:`Bankas izdevumu<224>`
-un :doc:`Bankas ieņēmumu<226>` žurnālos.
+1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
+saglabāts un būs pieejams apskatei/labošanai/grāmatošanai
+vienlaicīgi:doc:`Bankas izdevumu<224>` un :doc:`Bankas ieņēmumu<226>`
+žurnālos.
 
-2. Apstiprināt, nospiežot rīku joslā pogu .. image::
-images_ozols/24740.png
-:scale: 100%
+2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png|
 -Naudas pārsūtīšanas dokumentstiks Apstiprināts un to būs iespējams
 Grāmatot.
 
@@ -175,15 +152,11 @@ vai izvēloties (iezīmējot)dokumentu :doc:`Bankas izdevumu<224>` vai
 :doc:`Bankas ieņēmumu<226>` žurnālā.
 
 Lai iegrāmatotu Naudas pārsūtīšanu starp bankas kontiem, dokumentu
-nepieciešams Apstiprināt, nospiežot rīku joslā pogu .. image::
-images_ozols/24740.png
-:scale: 100%
-.
+nepieciešams Apstiprināt, nospiežot rīku joslā pogu
+|images_ozols/24740.png| .
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu .. image:: images_ozols/24741.png
-:scale: 100%
-.
+pogu |images_ozols/24741.png| .
 
 
 
@@ -196,23 +169,70 @@ PievienotāNaudas pārsūtīšanas starp bankas kontiem dokumentalabošana
 Labojumus saglabātajādokumentā iespējams veikt atverot Naudas
 pārsūtīšanas dokumentu, kurš pieejams apskatei/labošanai :doc:`Bankas
 izdevumu<224>` vai :doc:`Bankas ieņēmumu<226>` žurnālā. Lai veiktu
-labojumus,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu..
-image:: images_ozols/24709.png
-:scale: 100%
-(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+labojumus,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
+|images_ozols/24709.png| (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus:
 
 
 
-.. image:: images_ozols/24796.png
-:scale: 100%
+|images_ozols/24796.png|
 
 
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
-images_ozols/24615.jpg
-:scale: 100%
-vai .. image:: images_ozols/24617.jpg
-:scale: 100%
-.
+.. |images_ozols/25000.png| image:: images_ozols/25000.png
+    :scale: 100%
+
+.. |images_ozols/24724.png| image:: images_ozols/24724.png
+    :scale: 100%
+
+.. |images_ozols/24725.png| image:: images_ozols/24725.png
+    :scale: 100%
+
+.. |images_ozols/24726.png| image:: images_ozols/24726.png
+    :scale: 100%
+
+.. |images_ozols/24791.png| image:: images_ozols/24791.png
+    :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/24792.png| image:: images_ozols/24792.png
+    :scale: 100%
+
+.. |images_ozols/24793.png| image:: images_ozols/24793.png
+    :scale: 100%
+
+.. |images_ozols/24795.png| image:: images_ozols/24795.png
+    :scale: 100%
+
+.. |images_ozols/24733.png| image:: images_ozols/24733.png
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+    :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+    :scale: 100%
+
+.. |images_ozols/24741.png| image:: images_ozols/24741.png
+    :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+    :scale: 100%
+
+.. |images_ozols/24796.png| image:: images_ozols/24796.png
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+    :scale: 100%
 
  

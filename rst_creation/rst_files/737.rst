@@ -6,9 +6,7 @@ failu sistēmā:
 
 
 
-.. image:: images_ozols/25861.png
-:scale: 100%
-
+|images_ozols/25861.png|
 
 
 
@@ -21,55 +19,67 @@ Kopijas katalogs: katalogs, kurā tiks izveidota datu bāzes rezerves
 kopija
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Norādītās datu bāzes rezerves kopiju veidošanas plānošanu ir iespēja
-veikt fiksējot attiecīgo fiksētās izvēlnes rūtiņu un laiku, kādā ir
-jāizpildās attiecīgas dienas SQL darbam. Piemēram, ja ir fiksēta
-izvēlnes rūtiņa "Otrdiena" un laiks 12:00, tad datu bāzes rezerves
-kopija tiks veidota katru otrdienu pulksten 12:00.
+|images_ozols/24545.gif| Norādītās datu bāzes rezerves kopiju
+veidošanas plānošanu ir iespēja veikt fiksējot attiecīgo fiksētās
+izvēlnes rūtiņu un laiku, kādā ir jāizpildās attiecīgas dienas SQL
+darbam. Piemēram, ja ir fiksēta izvēlnes rūtiņa "Otrdiena" un laiks
+12:00, tad datu bāzes rezerves kopija tiks veidota katru otrdienu
+pulksten 12:00.
 
 
 
-Veidot rezerves kopiju vienā datnē: atzīmējot šo izvēlnes rūtiņu..
-image:: images_ozols/25862.png
-:scale: 100%
-, norādītās datu bāzes rezerves kopija tiks veidota vienā datnē.Ja
-fiksētās izvēlnes rūtiņa netiks atzīmēta, tad katras izvēlētās dienas
-datu bāzes rezerves kopija tiks izveidota atsvešķā datnē. Datnes
-nosaukums norādītajā katalogā būs tāds kāds ir norādīts labošanas
-ekrāna formas laukos Datnes nosaukums (OZOLS_backup_01, utt.).
+Veidot rezerves kopiju vienā datnē: atzīmējot šo izvēlnes rūtiņu
+|images_ozols/25862.png| , norādītās datu bāzes rezerves kopija tiks
+veidota vienā datnē.Ja fiksētās izvēlnes rūtiņa netiks atzīmēta, tad
+katras izvēlētās dienas datu bāzes rezerves kopija tiks izveidota
+atsvešķā datnē. Datnes nosaukums norādītajā katalogā būs tāds kāds ir
+norādīts labošanas ekrāna formas laukos Datnes nosaukums
+(OZOLS_backup_01, utt.).
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Lai izveidotu izvēlētās datu bāzes rezerves kopiju tūlītēji, ir
-jāspiež poga: .. image:: images_ozols/25863.png
-:scale: 100%
-, rezerves kopija tiks izveidota norādītajā katalogā ar datnes
-nosaukumu formātā [Datu bāzes nosaukums]_[backup].
+|images_ozols/24545.gif| Lai izveidotu izvēlētās datu bāzes rezerves
+kopiju tūlītēji, ir jāspiež poga: |images_ozols/25863.png| , rezerves
+kopija tiks izveidota norādītajā katalogā ar datnes nosaukumu formātā
+[Datu bāzes nosaukums]_[backup].
 
 
 
 Lai saglabātu Datu bāzes rezerves kopijas logā sagatavotos
-iestādījumus, nepieciešams nospiest pogu: .. image::
-images_ozols/25621.png
-:scale: 100%
-.
+iestādījumus, nepieciešams nospiest pogu: |images_ozols/25621.png| .
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Rezerves kopiju veidošanas SQL darbu status tiek attēlots pogu
-attēlos, ja attēls ir zilā krāsā, tad darba status ir nenoteikts vai
-veiksmīgi izpildījies, ja attēls ir sarkanā krāsā, tad darbs ir
-neveiksmīgi izpildījies. Darba soļu detalizētu aprakstu var iegūt
-nospiežot uz konkrētās dienas darba izpildes statusa pogas:
+|images_ozols/24545.gif| Rezerves kopiju veidošanas SQL darbu status
+tiek attēlots pogu attēlos, ja attēls ir zilā krāsā, tad darba status
+ir nenoteikts vai veiksmīgi izpildījies, ja attēls ir sarkanā krāsā,
+tad darbs ir neveiksmīgi izpildījies. Darba soļu detalizētu aprakstu
+var iegūt nospiežot uz konkrētās dienas darba izpildes statusa pogas:
 
 
 
-.. image:: images_ozols/25864.png
-:scale: 100%
+|images_ozols/25864.png|
 
+.. |images_ozols/25861.png| image:: images_ozols/25861.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/25862.png| image:: images_ozols/25862.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/25863.png| image:: images_ozols/25863.png
+    :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/25864.png| image:: images_ozols/25864.png
+    :scale: 100%
 
  

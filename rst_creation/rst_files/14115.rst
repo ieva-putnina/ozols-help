@@ -8,25 +8,19 @@ rezultāta kods (Avanss), uz kura izmaksas aprēķinā jāparāda.
 
 
 
-.. image:: images_ozols/26279.png
-:scale: 100%
-
+|images_ozols/26279.png|
 
 
 
 Pēc šāda izmaksu saraksta izveidošanas, ir iespējams aizpildīt avansu
 izmaksu sarakstu, no iepriekš nodefinētajiem Pārskaitījumiem
 :doc:`Pārskaitījumu žurnālā<294>` . Lai aizpildītu izmaksu sarakstu,
-nepieciešams izmantot rīku joslas pogu .. image::
-images_ozols/25814.png
-:scale: 100%
-un izvēlēties funkciju:
+nepieciešams izmantot rīku joslas pogu |images_ozols/25814.png| un
+izvēlēties funkciju:
 
 
 
-.. image:: images_ozols/26281.png
-:scale: 100%
-
+|images_ozols/26281.png|
 
 
 
@@ -37,9 +31,7 @@ nodefinētie avansu pārskaitījumi:
 
 
 
-.. image:: images_ozols/26282.png
-:scale: 100%
-
+|images_ozols/26282.png|
 
 
 
@@ -50,21 +42,35 @@ maksājumu summas:
 
 
 
-.. image:: images_ozols/26283.png
-:scale: 100%
-
+|images_ozols/26283.png|
 
 
 
 Pēc nepieciešamo korekciju veikšanas, sarakstu nepieciešams saglabāt,
-nospiežot pogu: .. image:: images_ozols/25621.png
-:scale: 100%
-.
+nospiežot pogu: |images_ozols/25621.png| .
 
 
 
 
 
 
+
+.. |images_ozols/26279.png| image:: images_ozols/26279.png
+    :scale: 100%
+
+.. |images_ozols/25814.png| image:: images_ozols/25814.png
+    :scale: 100%
+
+.. |images_ozols/26281.png| image:: images_ozols/26281.png
+    :scale: 100%
+
+.. |images_ozols/26282.png| image:: images_ozols/26282.png
+    :scale: 100%
+
+.. |images_ozols/26283.png| image:: images_ozols/26283.png
+    :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+    :scale: 100%
 
  

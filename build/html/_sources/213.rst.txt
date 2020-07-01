@@ -10,14 +10,15 @@ algoritms.
 
 
 
-.. image:: images_ozols/26350.png
-:scale: 100%
-
+|images_ozols/26350.png|
 
 
 
 Nosaukums - jānorāda algu aprēķina moduļa nosaukums.
 
 Piezīmes - iespēja norādīt algu aprēķina moduļa piezīmes.
+
+.. |images_ozols/26350.png| image:: images_ozols/26350.png
+    :scale: 100%
 
  

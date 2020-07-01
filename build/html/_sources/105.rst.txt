@@ -10,17 +10,13 @@ pircēju grupām varētu definēt atšķirīgus cenu veidus.
 Jauna Cenu veida pievienošana
 `````````````````````````````
 
-Lai pievienotu jaunu Cenu veidu,rīku joslā jānospiež poga.. image::
-images_ozols/24708.png
-:scale: 100%
-un tiks atvērts jauns logs:
+Lai pievienotu jaunu Cenu veidu,rīku joslā jānospiež poga
+|images_ozols/24708.png| un tiks atvērts jauns logs:
 
 
 
 
-.. image:: images_ozols/26500.png
-:scale: 100%
-
+|images_ozols/26500.png|
 
 
 
@@ -30,18 +26,14 @@ klientu cena)
 
 
 
-Izmantojot pogu .. image:: images_ozols/24708.png
-:scale: 100%
-, cenu veidam iespējams piesaistīt uz konkrētu datumu valūtu un
-valūtas kursu:
+Izmantojot pogu |images_ozols/24708.png| , cenu veidam iespējams
+piesaistīt uz konkrētu datumu valūtu un valūtas kursu:
 
 
 
 
 
-.. image:: images_ozols/26501.png
-:scale: 100%
-
+|images_ozols/26501.png|
 
 
 
@@ -59,9 +51,21 @@ piesaistīta definētajam cenas veidam;
 
 
 
-Ieraksts tiks saglabāts, izpildot komandu .. image::
-images_ozols/24710.png
-:scale: 100%
-.
+Ieraksts tiks saglabāts, izpildot komandu |images_ozols/24710.png| .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/26500.png| image:: images_ozols/26500.png
+    :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/26501.png| image:: images_ozols/26501.png
+    :scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+    :scale: 100%
 
  

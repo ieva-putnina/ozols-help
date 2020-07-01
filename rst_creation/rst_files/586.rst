@@ -9,30 +9,20 @@ parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai arī ātrāk
 sameklētu nepieciešamos datus. Filtrs tiek izmantots arī atskaišu
 sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
 
-Datu atlases kritērijus var saglabāt (.. image::
-images_ozols/24938.png
-:scale: 100%
-). Izvēloties izveidoto filtra sagatavi (.. image::
-images_ozols/24943.png
-:scale: 100%
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png|
 ),filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai
 izveidotu atskaiti pēc vēlamajiem kritērijiem, rīku joslā jānospiež
-poga.. image:: images_ozols/24535.gif
-:scale: 100%
-(Ctrl+F), tiek atvērts filtra logs:
+poga |images_ozols/24535.gif| (Ctrl+F), tiek atvērts filtra logs:
 
 
 
-.. image:: images_ozols/25509.png
-:scale: 100%
+|images_ozols/25509.png|
 
 
 
-
-Noliet. veids: jāizvēlas nolietojuma aprēķināšanas veids .. image::
-images_ozols/25505.png
-:scale: 100%
-(uzņēmuma vai nodokļiem);
+Noliet. veids: jāizvēlas nolietojuma aprēķināšanas veids
+|images_ozols/25505.png| (uzņēmuma vai nodokļiem);
 
 Periods: periods par kuru tiks veidota atskaite;
 
@@ -68,9 +58,8 @@ numura;
 Pl./Nem.aktīvs: iespējams izvēlēties pamatlīdzekļus vai nemateriālos
 aktīvus;
 
-Grupēt pēc: .. image:: images_ozols/25510.png
-:scale: 100%
-jāizvēlas pēc kura kritērija grupēt;
+Grupēt pēc: |images_ozols/25510.png| jāizvēlas pēc kura kritērija
+grupēt;
 
 Iekļaut nolietojuma dokumentus: lai iekļautu atskaitē arī
 pamatlīdzekļu nolietojuma dokumentus;
@@ -82,23 +71,19 @@ Iekļaut neapstiprinātos dokumentus: lai iekļautu atskaitē arī
 neapstiprinātos kustību dokumentus
 
 Kad filtra loga kritēriji ir izvēlēti, ir iespējams nodefinēt Papildus
-filtra parametrus, nospiežot pogu.. image:: images_ozols/24535.gif
-:scale: 100%
-atvērtajā filtra logā. Tiek atvērts papildus filtra nosacījumu logs:
+filtra parametrus, nospiežot pogu |images_ozols/24535.gif| atvērtajā
+filtra logā. Tiek atvērts papildus filtra nosacījumu logs:
 
 
 
-.. image:: images_ozols/25529.png
-:scale: 100%
+|images_ozols/25529.png|
 
 
 
-
-Dok. Veids: sarakstlodziņa labajā pusē, noklikšķinot uz podziņu..
-image:: images_ozols/25530.png
-:scale: 100%
-tiek atvērts dokumenta veidu izvēlņu saraksts, kur iespējams
-izvēlēties kādu no pamatlīdzekļu dokumenta veidiem;
+Dok. Veids: sarakstlodziņa labajā pusē, noklikšķinot uz podziņu
+|images_ozols/25530.png| tiek atvērts dokumenta veidu izvēlņu
+saraksts, kur iespējams izvēlēties kādu no pamatlīdzekļu dokumenta
+veidiem;
 
 Pl.Izsl.datums: pamatlīdzekļu izslēgšanas datums (periods);
 
@@ -116,46 +101,86 @@ Amats: iespējams izvēlēties atbildīgās personas amatu kurš nodefinēts
 Pazīme: pazīme, kura nodefinēta :doc:`Pamatlīdzekļu pazīmju
 sarakstā<130>` ;
 
-Kad papildus filtra kritēriji izvēlēti, jānospiež paga.. image::
-images_ozols/25533.png
-:scale: 100%
-. Kad arī pamatlīdzekļu kustību filtra logā visi atskaites datu
-kritēriji izvēlēti, jānospiež poga.. image:: images_ozols/25504.png
-:scale: 100%
-.
+Kad papildus filtra kritēriji izvēlēti, jānospiež paga
+|images_ozols/25533.png| . Kad arī pamatlīdzekļu kustību filtra logā
+visi atskaites datu kritēriji izvēlēti, jānospiež poga
+|images_ozols/25504.png| .
 
 Sagatavotos atskaites datus ir iespējams arī izdrukāt. Lai drukātu
-datus, rīko joslā jānospiež poga.. image:: images_ozols/24944.png
-:scale: 100%
-(Ctrl+P), un jāizvēlās iebūvētā izdrukas forma "pamatlīdzekļu
-kustība", jānospiež poga.. image:: images_ozols/25507.png
-:scale: 100%
-. Katru pamatlīdzekļa kustības dokumentu ir iespējams arī atvērt un
-apsaktīties tā saturu. Lai atvērtu dokumentu, rīku joslā janospiež
-poga.. image:: images_ozols/24709.png
-:scale: 100%
-, tiek atvērta pamatlīdzekļu kartīte;
+datus, rīko joslā jānospiež poga |images_ozols/24944.png| (Ctrl+P), un
+jāizvēlās iebūvētā izdrukas forma "pamatlīdzekļu kustība", jānospiež
+poga |images_ozols/25507.png| . Katru pamatlīdzekļa kustības dokumentu
+ir iespējams arī atvērt un apsaktīties tā saturu. Lai atvērtu
+dokumentu, rīku joslā janospiež poga |images_ozols/24709.png| , tiek
+atvērta pamatlīdzekļu kartīte;
 
 
 
-.. image:: images_ozols/25524.png
-:scale: 100%
-
+|images_ozols/25524.png|
 
 
 
 Pamatlīdzekļu kartītē redzams pamatlīdzekļa apraksts un dokumenti,
 kuri sasitīti ar šo pamatlīdzekli. Lai atvērtu kādu no šiem, ar
 pamatlīdzekli saistītajiem dokumentiem, jāizvēlas attiecīgais
-dokuments un jānospiež poga.. image:: images_ozols/25525.png
-:scale: 100%
-, tā tiek atvērts izvēlētais pirmdokuments. Lai atvērtu pamatlīdzekļa
-aprakstu un/vai mainītu Derīgās lietošanas laiku, jānospiež poga..
-image:: images_ozols/25526.png
-:scale: 100%
-. Lai aizvērtu dokumentu, jānospiež poga.. image::
-images_ozols/25527.png
-:scale: 100%
-.
+dokuments un jānospiež poga |images_ozols/25525.png| , tā tiek atvērts
+izvēlētais pirmdokuments. Lai atvērtu pamatlīdzekļa aprakstu un/vai
+mainītu Derīgās lietošanas laiku, jānospiež poga
+|images_ozols/25526.png| . Lai aizvērtu dokumentu, jānospiež poga
+|images_ozols/25527.png| .
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+    :scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+    :scale: 100%
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+    :scale: 100%
+
+.. |images_ozols/25509.png| image:: images_ozols/25509.png
+    :scale: 100%
+
+.. |images_ozols/25505.png| image:: images_ozols/25505.png
+    :scale: 100%
+
+.. |images_ozols/25510.png| image:: images_ozols/25510.png
+    :scale: 100%
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+    :scale: 100%
+
+.. |images_ozols/25529.png| image:: images_ozols/25529.png
+    :scale: 100%
+
+.. |images_ozols/25530.png| image:: images_ozols/25530.png
+    :scale: 100%
+
+.. |images_ozols/25533.png| image:: images_ozols/25533.png
+    :scale: 100%
+
+.. |images_ozols/25504.png| image:: images_ozols/25504.png
+    :scale: 100%
+
+.. |images_ozols/24944.png| image:: images_ozols/24944.png
+    :scale: 100%
+
+.. |images_ozols/25507.png| image:: images_ozols/25507.png
+    :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+    :scale: 100%
+
+.. |images_ozols/25524.png| image:: images_ozols/25524.png
+    :scale: 100%
+
+.. |images_ozols/25525.png| image:: images_ozols/25525.png
+    :scale: 100%
+
+.. |images_ozols/25526.png| image:: images_ozols/25526.png
+    :scale: 100%
+
+.. |images_ozols/25527.png| image:: images_ozols/25527.png
+    :scale: 100%
 
  

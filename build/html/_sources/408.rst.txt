@@ -15,27 +15,30 @@ aprēķinā.
 
 
 
-.. image:: images_ozols/25640.png
-:scale: 100%
+|images_ozols/25640.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Nodokļa dokumenta veids var būt darba līgums, nodokļu grāmatiņa vai
-uzņēmuma līgums. Lai algu aprēķins tiktu veikts korekti, jāizvēlas
-pareizās ienākuma nodokļa un sociālā nodokļa metodes no sarakstiem.
-Nodokļu metodēs tiek noteikts piemērojamo nodokļu un atvieglojumu
-apmērs. Izvēloties nodokļu dokumentu – Uzņēmuma līgums, darbiniekiem,
-kam ir dotais nodokļu dokumenta veids, 3.pielikuma ziņojumā par
-sociālo nodokli netiks iekļauta riska nodeva.
+|images_ozols/24545.gif| Nodokļa dokumenta veids var būt darba līgums,
+nodokļu grāmatiņa vai uzņēmuma līgums. Lai algu aprēķins tiktu veikts
+korekti, jāizvēlas pareizās ienākuma nodokļa un sociālā nodokļa
+metodes no sarakstiem. Nodokļu metodēs tiek noteikts piemērojamo
+nodokļu un atvieglojumu apmērs. Izvēloties nodokļu dokumentu –
+Uzņēmuma līgums, darbiniekiem, kam ir dotais nodokļu dokumenta veids,
+3.pielikuma ziņojumā par sociālo nodokli netiks iekļauta riska nodeva.
 
 
 
-Lai saglabātu pievienotos datus, jānospiež poga .. image::
-images_ozols/24615.jpg
-:scale: 100%
-.
+Lai saglabātu pievienotos datus, jānospiež poga
+|images_ozols/24615.jpg| .
+
+.. |images_ozols/25640.png| image:: images_ozols/25640.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
 
  

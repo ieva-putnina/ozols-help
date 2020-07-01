@@ -7,20 +7,22 @@ kritērijiem:
 
 
 
-.. image:: images_ozols/25823.png
-:scale: 100%
+|images_ozols/25823.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Atskaitē sagatavojamos dati tiks attēloti sagrupēti, ja tiks atzīmēta
-kāda no izvēles rūtiņām "Grupēt pēc nomenklatūras", "Grupēt pēc
-nomenklatūras grupas".
+|images_ozols/24545.gif| Atskaitē sagatavojamos dati tiks attēloti
+sagrupēti, ja tiks atzīmēta kāda no izvēles rūtiņām "Grupēt pēc
+nomenklatūras", "Grupēt pēc nomenklatūras grupas".
 
 Lai atskaitē netiktu iekļauti nomenklatūras ieraksti, kuriem filtrā
 norādītajā periodā nav bijis apgrozījums, nepieciešams atzīmēt izvēles
 rūtiņu: "Nerādīt nomenklatūras bez atlikumiem".
+
+.. |images_ozols/25823.png| image:: images_ozols/25823.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
 
  

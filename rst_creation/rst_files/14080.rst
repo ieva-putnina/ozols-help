@@ -15,9 +15,7 @@ Izveidotais grāmatojums pieejams Polises aprakstā, sadaļā
 
 
 
-.. image:: images_ozols/25370.png
-:scale: 100%
-
+|images_ozols/25370.png|
 
 
 
@@ -26,5 +24,8 @@ grāmatojums pieejams :doc:`Grāmatojumu žurnālā<131>` , atlasot datus
 pēc grāmatojuma veida "Polises parakstīšana (POP)".
 
 
+
+.. |images_ozols/25370.png| image:: images_ozols/25370.png
+    :scale: 100%
 
  

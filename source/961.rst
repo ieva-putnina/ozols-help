@@ -14,17 +14,12 @@ kategorijām, tad sarakstu var atstāt neaizpildītu.
 
 
 Lai pievienotujaunuAmata kvalifikācijaskategoriju, rīku joslā
-jānospiež poga .. image:: images_ozols/25605.png
-:scale: 100%
-(Alt+P) un, kad nosaukums ierakstīts, jānospiež poga .. image::
-images_ozols/24615.jpg
-:scale: 100%
-.
+jānospiež poga |images_ozols/25605.png| (Alt+P) un, kad nosaukums
+ierakstīts, jānospiež poga |images_ozols/24615.jpg| .
 
 
 
-.. image:: images_ozols/26404.png
-:scale: 100%
+|images_ozols/26404.png|
 
 
 
@@ -32,5 +27,13 @@ images_ozols/24615.jpg
 
 
 
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+    :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+    :scale: 100%
+
+.. |images_ozols/26404.png| image:: images_ozols/26404.png
+    :scale: 100%
 
  

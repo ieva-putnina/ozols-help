@@ -9,19 +9,13 @@ norēķinu dokuments Pircējam, uz kā pamata, pēc piedāvājuma
 apstiprināšanas, būs iespējams ģenerēt Pārdošanas dokumentu.
 
 Lai pievienotu jaunu piedāvājuma dokumentu, dokumentu žurnālā
-nepieciešams rīku joslā nospiest pogu .. image::
-images_ozols/24879.png
-:scale: 100%
-un tiks atvērts jauns dokuments:
+nepieciešams rīku joslā nospiest pogu |images_ozols/24879.png| un tiks
+atvērts jauns dokuments:
 
-.. image:: images_ozols/26493.png
-:scale: 100%
+|images_ozols/26493.png|
 
-
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Piedāvājuma dokumenta aizpildīšanas principi ir
-identiski:doc:`Pārdošanas dokumenta<304>` sagatavošanai. Aizpildot
+|images_ozols/24545.gif| Piedāvājuma dokumenta aizpildīšanas principi
+ir identiski:doc:`Pārdošanas dokumenta<304>` sagatavošanai. Aizpildot
 dokumenta virsrakstu un saturu, tiks sagatavots Piedāvājuma dokuments,
 kuru iespējams nosūtīt potenciālajam pircējam saskaņošanai un pēc
 dokumenta apstiprināšanas no Piedāvājumu dokumenta žurnāla, izmantojot
@@ -36,19 +30,30 @@ Piedāvājumu dokumentu pārveidot par Pārdošanas dokumentu iespējams no
 aizvērta Piedāvājuma dokumenta piedāvājumu dokumentu žurnālā,
 izmantojot rīku joslā pieejamās Funkcijas:
 
-.. image:: images_ozols/26494.png
-:scale: 100%
-
+|images_ozols/26494.png|
 
 Izmantojot šo funkciju, tiks atvērts jauns Pārdošanas dokuments, kuram
 Virsraksta un Satura informācija tiks ņemta no iepriekš gatavotā
 Piedāvājuma dokumenta:
 
-.. image:: images_ozols/26495.png
-:scale: 100%
-
+|images_ozols/26495.png|
 
 Apstiprinot un saglabājot šo dokumentu, dokuments būs pieejams
 :doc:`Pārdošanas dokumentu<204>` žurnālā.
+
+.. |images_ozols/24879.png| image:: images_ozols/24879.png
+    :scale: 100%
+
+.. |images_ozols/26493.png| image:: images_ozols/26493.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/26494.png| image:: images_ozols/26494.png
+    :scale: 100%
+
+.. |images_ozols/26495.png| image:: images_ozols/26495.png
+    :scale: 100%
 
  

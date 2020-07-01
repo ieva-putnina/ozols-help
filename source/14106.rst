@@ -8,44 +8,34 @@ darījums ir noticis:
 
 
 
-.. image:: images_ozols/26146.png
-:scale: 100%
+|images_ozols/26146.png|
 
 
 
 
 
-
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Balstoties uz izveidoto pirmdokumentu, tiek veidots Grāmatojums, kurā
-tiekiegrāmatota konvertācijas darījumā rezultātā izveidojusies peļņa
-vai zaudējumi.
+|images_ozols/24545.gif| Balstoties uz izveidoto pirmdokumentu, tiek
+veidots Grāmatojums, kurā tiekiegrāmatota konvertācijas darījumā
+rezultātā izveidojusies peļņa vai zaudējumi.
 
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Pirms dokumenta grāmatošanas, nepieciešams pārliecināties, vai ir
-aizpildīti visi nepieciešamie grāmatvedisko kontu iestādījumi sadaļā:
+|images_ozols/24545.gif| Pirms dokumenta grāmatošanas, nepieciešams
+pārliecināties, vai ir aizpildīti visi nepieciešamie grāmatvedisko
+kontu iestādījumi sadaļā:
 Konfigurācija->Iestādījumi->Kopīgie->:doc:`Virsgrāmata<707>` (Obligāts
 nosacījums korekta konvertācijas dokumenta izveidošanaii ir aizpildīti
 grāmatvediskiekonti: Starpkonta ekvivalents, Peļņa no konvertācijas un
 Zaudējumi no konvertācijas)
 
 2. Balstoties uz sagatavoto pirmdokumentu, nepieciešams veidot
-Grāmatojumu, rīku joslā nospiežot pogu .. image::
-images_ozols/26148.png
-:scale: 100%
-un grāmatojuma logā jāizvēlas poga .. image:: images_ozols/25814.png
-:scale: 100%
-, lai izvēloties Ieņēmumu vai Izdevumu konvertāciju:
+Grāmatojumu, rīku joslā nospiežot pogu |images_ozols/26148.png| un
+grāmatojuma logā jāizvēlas poga |images_ozols/25814.png| , lai
+izvēloties Ieņēmumu vai Izdevumu konvertāciju:
 
 
 
-.. image:: images_ozols/26149.png
-:scale: 100%
-
+|images_ozols/26149.png|
 
 
 
@@ -55,22 +45,16 @@ valūtas summa:
 
 
 
-.. image:: images_ozols/26150.png
-:scale: 100%
-
+|images_ozols/26150.png|
 
 
 
 4. Konvertācija tiks veikta un atbilstošas grāmatojuma ieraksta
-rindiņas izveidotas, nospiežot pogu .. image:: images_ozols/26151.png
-:scale: 100%
-:
+rindiņas izveidotas, nospiežot pogu |images_ozols/26151.png| :
 
 
 
-.. image:: images_ozols/26152.png
-:scale: 100%
-
+|images_ozols/26152.png|
 
 
 
@@ -88,5 +72,32 @@ pamatvalūtā, kas izveidojusies konvertācijas rezultātā un izmantojot
 Starpkontu, iegrāmatota uz grāmatvedisko kontu "Peļņa no
 konvertācijas" (Db. Konvertācijas starpkonts - Cr. Peļņa no
 konvertācijas)
+
+.. |images_ozols/26146.png| image:: images_ozols/26146.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/26148.png| image:: images_ozols/26148.png
+    :scale: 100%
+
+.. |images_ozols/25814.png| image:: images_ozols/25814.png
+    :scale: 100%
+
+.. |images_ozols/26149.png| image:: images_ozols/26149.png
+    :scale: 100%
+
+.. |images_ozols/26150.png| image:: images_ozols/26150.png
+    :scale: 100%
+
+.. |images_ozols/26151.png| image:: images_ozols/26151.png
+    :scale: 100%
+
+.. |images_ozols/26152.png| image:: images_ozols/26152.png
+    :scale: 100%
 
  

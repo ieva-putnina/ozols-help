@@ -7,9 +7,7 @@ pievienošanai:
 
 
 
-.. image:: images_ozols/26272.png
-:scale: 100%
-
+|images_ozols/26272.png|
 
 
 1.Slodzes kalendārs
@@ -85,9 +83,7 @@ lai norādītu, kādas datu kolonnas ekrāna formā jāparāda:
 
 
 
-.. image:: images_ozols/26273.png
-:scale: 100%
-
+|images_ozols/26273.png|
 
 
 
@@ -137,5 +133,11 @@ ieraksts.
 Izmantojot komandu Nākošais, automatizēti tiek saglabāts atvērtais
 algu aprēķins un atvērts nākošais algu aprēķina žurnāla ieraksts.
 
+
+.. |images_ozols/26272.png| image:: images_ozols/26272.png
+    :scale: 100%
+
+.. |images_ozols/26273.png| image:: images_ozols/26273.png
+    :scale: 100%
 
  

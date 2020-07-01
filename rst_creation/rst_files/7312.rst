@@ -6,10 +6,11 @@ tiek atvērts :doc:`pasākuma ierakst<7303>` un ar to saistīto
 
 
 
-.. image:: images_ozols/26191.jpg
-:scale: 100%
+|images_ozols/26191.jpg|
 
 
 
+.. |images_ozols/26191.jpg| image:: images_ozols/26191.jpg
+    :scale: 100%
 
  

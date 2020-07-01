@@ -9,10 +9,9 @@ saglabāšanas ir pieejams :doc:`Pamatlīdzekļu dokumentu sarakstā<233>`
 
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Pirms pamatlīdzekļu pārsūtīšanas jāpārliecinās vai visiem
-pārsūtāmajiem pamatlīdzekļiem ir aprēķināts nolietojums.
+|images_ozols/24545.gif| Pirms pamatlīdzekļu pārsūtīšanas
+jāpārliecinās vai visiem pārsūtāmajiem pamatlīdzekļiem ir aprēķināts
+nolietojums.
 
 
 
@@ -21,9 +20,7 @@ Pamatlīdzekļu pārsūtīšanas dokuments .
 
 
 
-.. image:: images_ozols/25173.png
-:scale: 100%
-
+|images_ozols/25173.png|
 
 
 
@@ -51,13 +48,9 @@ komandpoga Atcelt.
 
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Lai izveidotā Pamatlīdzekļupārsūtīšanas dokumenta dati stātos spēkā
-obligāti pēc saglabāšanas dokuments ir jāapstiprina ar funkciju ..
-image:: images_ozols/24715.gif
-:scale: 100%
-.
+|images_ozols/24545.gif| Lai izveidotā Pamatlīdzekļupārsūtīšanas
+dokumenta dati stātos spēkā obligāti pēc saglabāšanas dokuments ir
+jāapstiprina ar funkciju |images_ozols/24715.gif| .
 
 
 
@@ -71,27 +64,19 @@ dokumentam
 
 Pēc dokumenta datu aizpildīšanas ir jāaizpilda dati parpārsūtāmajiem
 pamatlīdzekļiem. Dokumentam jaunupārsūtāmo pamatlīdzekli pievieno
-atvērtā Pamatlīdzekļupārsūtīšanas dokumentaformā ar funkciju ..
-image:: images_ozols/24708.png
-:scale: 100%
-.
+atvērtā Pamatlīdzekļupārsūtīšanas dokumentaformā ar funkciju
+|images_ozols/24708.png| .
 
 Datus parpārsūtāmo pamatlīdzekli iespējams labot atvērtā
-Pamatlīdzekļupārsūtīšanas dokumentaformā ar funkciju .. image::
-images_ozols/24709.png
-:scale: 100%
-.
+Pamatlīdzekļupārsūtīšanas dokumentaformā ar funkciju
+|images_ozols/24709.png| .
 
 Pamatlīdzekli dzēš atvērtā Pamatlīdzekļupārsūtīšanas dokumenta formā
-ar funkciju .. image:: images_ozols/24719.gif
-:scale: 100%
-.
+ar funkciju |images_ozols/24719.gif| .
 
 
 
-.. image:: images_ozols/25174.png
-:scale: 100%
-
+|images_ozols/25174.png|
 
 
 
@@ -147,5 +132,29 @@ Atcelt - jāspiež šī komandpoga, ja lietotājs nevēlas saglabāt
 aizpildītos datus par pamatlīdzekli.
 
 
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/25173.png| image:: images_ozols/25173.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/24715.gif| image:: images_ozols/24715.gif
+    :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+    :scale: 100%
+
+.. |images_ozols/24719.gif| image:: images_ozols/24719.gif
+    :scale: 100%
+
+.. |images_ozols/25174.png| image:: images_ozols/25174.png
+    :scale: 100%
 
  

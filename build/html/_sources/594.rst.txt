@@ -21,9 +21,7 @@ parametri, pēc kādiem atskaite tiks sagatavota:
 
 
 
-.. image:: images_ozols/25065.png
-:scale: 100%
-
+|images_ozols/25065.png|
 
 
 
@@ -38,9 +36,7 @@ ievadot datumus manuāli:
 
 
 
-.. image:: images_ozols/25046.png
-:scale: 100%
-
+|images_ozols/25046.png|
 
 4. Ja vienā Ozols datu bāzē tiek veikta grāmatvedības uzskaite
 vairākiem uzņēmumiem,filtrā iespējams izvēlēties, pēc kura uzņēmuma
@@ -48,22 +44,17 @@ datiem atskaite tiks sagatavota:
 
 
 
-.. image:: images_ozols/25047.png
-:scale: 100%
+|images_ozols/25047.png|
 
 
 
-
-6. Atskaiti iespējamssagatavot, nospiežot pogu .. image::
-images_ozols/25049.png
-:scale: 100%
-. Pēc pogas Sagatavot nospiešanas, parādīsies paziņojums:
+6. Atskaiti iespējamssagatavot, nospiežot pogu
+|images_ozols/25049.png| . Pēc pogas Sagatavot nospiešanas, parādīsies
+paziņojums:
 
 
 
-.. image:: images_ozols/25066.png
-:scale: 100%
-
+|images_ozols/25066.png|
 
 
 
@@ -73,25 +64,43 @@ sagatavota tukša!):
 
 
 
-.. image:: images_ozols/25068.png
-:scale: 100%
-
+|images_ozols/25068.png|
 
 
 
 7. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
 sarakstā<531>` , kur tā būs pieejama labošanai/drukāšanai, nospiežot
-pogu: .. image:: images_ozols/25054.png
-:scale: 100%
-.
+pogu: |images_ozols/25054.png| .
 
 
 
-8. Nospiežot pogu .. image:: images_ozols/24617.jpg
-:scale: 100%
-atskaite sagatavota netiks un darbība tiks atcelta. Ja atskaite tiek
-izveidota un nav jāsaglabā, jālieto komanda Atcelt . Ja atskaite ir
-saglabāta sarakstā, komandu Atcelt var izmantot, lai nesaglabātu
-atskaitē veiktās izmaiņas.
+8. Nospiežot pogu |images_ozols/24617.jpg| atskaite sagatavota netiks
+un darbība tiks atcelta. Ja atskaite tiek izveidota un nav jāsaglabā,
+jālieto komanda Atcelt . Ja atskaite ir saglabāta sarakstā, komandu
+Atcelt var izmantot, lai nesaglabātu atskaitē veiktās izmaiņas.
+
+.. |images_ozols/25065.png| image:: images_ozols/25065.png
+    :scale: 100%
+
+.. |images_ozols/25046.png| image:: images_ozols/25046.png
+    :scale: 100%
+
+.. |images_ozols/25047.png| image:: images_ozols/25047.png
+    :scale: 100%
+
+.. |images_ozols/25049.png| image:: images_ozols/25049.png
+    :scale: 100%
+
+.. |images_ozols/25066.png| image:: images_ozols/25066.png
+    :scale: 100%
+
+.. |images_ozols/25068.png| image:: images_ozols/25068.png
+    :scale: 100%
+
+.. |images_ozols/25054.png| image:: images_ozols/25054.png
+    :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+    :scale: 100%
 
  

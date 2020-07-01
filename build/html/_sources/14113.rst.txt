@@ -8,9 +8,7 @@ kādas nodokļu likmes un atvieglojumi tiek piemēroti strādājošajam:
 
 
 
-.. image:: images_ozols/26264.png
-:scale: 100%
-
+|images_ozols/26264.png|
 
 
 
@@ -24,9 +22,7 @@ piemēroti. Lai norādītu piemērojamos nodokļus un atvieglojumus:
 
 1.Jāatver perioda dati
 
-.. image:: images_ozols/26265.png
-:scale: 100%
-Perioda dati (F4)
+|images_ozols/26265.png| Perioda dati (F4)
 
 
 2.Jānorāda strādājošā nodokļa dokuments. Nodokļa dokumentā jābūt
@@ -34,9 +30,7 @@ noteiktām sociālā un ienākuma nodokļa aprēķina metodēm:
 
 
 
-.. image:: images_ozols/26266.png
-:scale: 100%
-
+|images_ozols/26266.png|
 
 
 
@@ -57,9 +51,7 @@ dokumentu pēc tā, kurš ir spēkā attiecīgajā periodā:
 
 
 
-.. image:: images_ozols/26267.png
-:scale: 100%
-
+|images_ozols/26267.png|
 
 
 
@@ -80,15 +72,30 @@ Atvērtajā periodā salikt jaunāko info no slodzes aprakstiem:
 
 
 
-.. image:: images_ozols/26268.png
-:scale: 100%
+|images_ozols/26268.png|
 
 
+No Perioda dati |images_ozols/26265.png| (F4) loga, nospiežot
+komandpogu „Nodokļu dok.” iespējams pievienot jaunu vai labot esošo
+nodokļu dokumentu.
 
-No Perioda dati .. image:: images_ozols/26265.png
-:scale: 100%
-(F4) loga, nospiežot komandpogu „Nodokļu dok.” iespējams pievienot
-jaunu vai labot esošo nodokļu dokumentu.
 
+.. |images_ozols/26264.png| image:: images_ozols/26264.png
+    :scale: 100%
+
+.. |images_ozols/26265.png| image:: images_ozols/26265.png
+    :scale: 100%
+
+.. |images_ozols/26266.png| image:: images_ozols/26266.png
+    :scale: 100%
+
+.. |images_ozols/26267.png| image:: images_ozols/26267.png
+    :scale: 100%
+
+.. |images_ozols/26268.png| image:: images_ozols/26268.png
+    :scale: 100%
+
+.. |images_ozols/26265.png| image:: images_ozols/26265.png
+    :scale: 100%
 
  

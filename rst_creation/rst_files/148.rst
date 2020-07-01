@@ -15,16 +15,13 @@ nodrošina datu grupēšanu uz augstākajiem grupu saraksta līmeņiem.
 Jaunas nomenklatūras grupas pievienošana
 ````````````````````````````````````````
 
-Lai pievienotu jaunu nomenklatūras grupu, jāizmanto komanda .. image::
-images_ozols/24708.png
-:scale: 100%
-no rīku joslas (Alt+P) un tiks atvērts jauns logs:
+Lai pievienotu jaunu nomenklatūras grupu, jāizmanto komanda
+|images_ozols/24708.png| no rīku joslas (Alt+P) un tiks atvērts jauns
+logs:
 
 
 
-.. image:: images_ozols/26520.png
-:scale: 100%
-
+|images_ozols/26520.png|
 
 
 
@@ -52,34 +49,47 @@ konkrētajai nomenklatūras grupai.
 
 
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Uzņēmuma grāmatvedim laukos, kas paredzēti grāmatvedisko kontu
-ievadei, iespējams norādīt katrai grupai atbilstošos uzskaites,
-izdevumu un ieņēmumu kontus.
+|images_ozols/24545.gif| Uzņēmuma grāmatvedim laukos, kas paredzēti
+grāmatvedisko kontu ievadei, iespējams norādīt katrai grupai
+atbilstošos uzskaites, izdevumu un ieņēmumu kontus.
 
 
 
-Jaunizveidotais grupas ieraksts tiks saglabāts pēc komandas .. image::
-images_ozols/24867.png
-:scale: 100%
-aktivizēšanas.
+Jaunizveidotais grupas ieraksts tiks saglabāts pēc komandas
+|images_ozols/24867.png| aktivizēšanas.
 
 
 
 Lai veiktu izmaiņas jaunizveidotajā nomenklatūras grupā, ieraksts ir
-jāatver ar komandu .. image:: images_ozols/24869.png
-:scale: 100%
-no rīku joslas un jāveic izmaiņas. Lai saglabātu veiktās izmaiņas ir
-jāizmanto komandu .. image:: images_ozols/24867.png
-:scale: 100%
-no rīku joslas.
+jāatver ar komandu |images_ozols/24869.png| no rīku joslas un jāveic
+izmaiņas. Lai saglabātu veiktās izmaiņas ir jāizmanto komandu
+|images_ozols/24867.png| no rīku joslas.
 
 
 
-Lai dzēstu nomenklatūras grupu ir jāizmanto komanda .. image::
-images_ozols/25602.png
-:scale: 100%
-. Dzēšot nomenklatūras grupas ieraksts nav jāatver.
+Lai dzēstu nomenklatūras grupu ir jāizmanto komanda
+|images_ozols/25602.png| . Dzēšot nomenklatūras grupas ieraksts nav
+jāatver.
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+    :scale: 100%
+
+.. |images_ozols/26520.png| image:: images_ozols/26520.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+    :scale: 100%
+
+.. |images_ozols/24869.png| image:: images_ozols/24869.png
+    :scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+    :scale: 100%
+
+.. |images_ozols/25602.png| image:: images_ozols/25602.png
+    :scale: 100%
 
  

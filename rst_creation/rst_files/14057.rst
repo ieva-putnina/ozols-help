@@ -11,9 +11,7 @@ Lauka Veids vērtības var būt Virsraksts (V) vai Saturs (S):
 
 
 
-.. image:: images_ozols/25116.png
-:scale: 100%
-
+|images_ozols/25116.png|
 
 
 
@@ -23,9 +21,7 @@ maksājuma uzdevuma virsējās daļas:
 
 
 
-.. image:: images_ozols/25117.png
-:scale: 100%
-
+|images_ozols/25117.png|
 
 
 Saturs - viena šablona rinda radīs tik rindas grāmatojuma saturā, cik
@@ -37,18 +33,26 @@ atšķirīgs kontējums:
 
 
 
-.. image:: images_ozols/25118.png
-:scale: 100%
+|images_ozols/25118.png|
 
 
 
 
+|images_ozols/24545.gif| Ieraksta veids Saturs vienmēr ir jāizmanto
+budžeta iestādēm, ja grāmatojumā jāpievieno ekonomiskās klasifikācijas
+kodi. Ieraksta veids Saturs pareizi tiks pielietots tikai tad, ja
+pirmdokumentam būs aizpildīts dokumenta saturs.
 
-.. image:: images_ozols/24545.gif
-:scale: 100%
-Ieraksta veids Saturs vienmēr ir jāizmanto budžeta iestādēm, ja
-grāmatojumā jāpievieno ekonomiskās klasifikācijas kodi. Ieraksta veids
-Saturs pareizi tiks pielietots tikai tad, ja pirmdokumentam būs
-aizpildīts dokumenta saturs.
+.. |images_ozols/25116.png| image:: images_ozols/25116.png
+    :scale: 100%
+
+.. |images_ozols/25117.png| image:: images_ozols/25117.png
+    :scale: 100%
+
+.. |images_ozols/25118.png| image:: images_ozols/25118.png
+    :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+    :scale: 100%
 
  

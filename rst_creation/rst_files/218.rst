@@ -7,9 +7,7 @@ Kalendāru saraksts tiek izmantots veidojot. Strādājošo
 
 
 
-.. image:: images_ozols/25608.png
-:scale: 100%
-
+|images_ozols/25608.png|
 
 
 
@@ -19,20 +17,25 @@ dienu nedēļa ar 8 stundu darba dienu.
 Standarta kalendārā tiek pieņemts, ja noteiktas 5 darba dienas, tad
 sestdiena un svētdiena ir brīvdienas. Ja nosaka 6 dienu darba nedēļu,
 tad brīvdiena ir svētdiena.
-Lai pievienotu jaunu kalendāru, jānospiež Rīku joslā poga .. image::
-images_ozols/25605.png
-:scale: 100%
-, jāaizpilda lauki un jāsaglabā ieraksts.
+Lai pievienotu jaunu kalendāru, jānospiež Rīku joslā poga
+|images_ozols/25605.png| , jāaizpilda lauki un jāsaglabā ieraksts.
 
 
 
-.. image:: images_ozols/25609.png
-:scale: 100%
-
+|images_ozols/25609.png|
 
 
 
 Stundu kalendārs: tiek ieķeksēts tad, ja strādājošajam algas
 aprēķinstiekveikts balstoties uz nodefinēto stundas likmi.
+
+.. |images_ozols/25608.png| image:: images_ozols/25608.png
+    :scale: 100%
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+    :scale: 100%
+
+.. |images_ozols/25609.png| image:: images_ozols/25609.png
+    :scale: 100%
 
  

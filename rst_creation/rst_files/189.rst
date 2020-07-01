@@ -6,37 +6,46 @@ kontaktiem un pievienotajām kontaktpersonām:
 
 
 
-.. image:: images_ozols/25730.png
-:scale: 100%
+|images_ozols/25730.png|
 
 
 
-
-.. image:: images_ozols/25731.png
-:scale: 100%
+|images_ozols/25731.png|
 
 
 
+Pievienojot jaunu kontaktpersonu, nospiežot rīku joslā pogu
+|images_ozols/25605.png| , aizpildot kontaktpersonas
+kontaktinformāciju, to ir iespējams piesaistīt arī kādai no
+:doc:`Partneru grupām<113>` (šoferis, ģimenes loceklis, apgādājamais,
+ir tiesības saņemt preces, u.c.). Ja partnerim tiek pievienotas
+vairākas kontaktpersonas, tad vienu no tām ir jānodefinē kā galveno
+kontakpersonu, ieķeksējot |images_ozols/25732.png| . Lai datus
+saglabātu jānospiež poga |images_ozols/25621.png| . Jebkuru no
+kontaktu saraksta ierakstiem ir iespējam atvērt, nospiežot rīku joslā
+pogu |images_ozols/25603.png| . Ar filtru, rīku joslā nospiežot pogu
+|images_ozols/24535.gif| ( Ctrl+F), ir iespējams atlasīt viena
+partnera kontaktus/kontaktpersonas.
 
-Pievienojot jaunu kontaktpersonu, nospiežot rīku joslā pogu .. image::
-images_ozols/25605.png
-:scale: 100%
-, aizpildot kontaktpersonas kontaktinformāciju, to ir iespējams
-piesaistīt arī kādai no :doc:`Partneru grupām<113>` (šoferis, ģimenes
-loceklis, apgādājamais, ir tiesības saņemt preces, u.c.). Ja partnerim
-tiek pievienotas vairākas kontaktpersonas, tad vienu no tām ir
-jānodefinē kā galveno kontakpersonu, ieķeksējot .. image::
-images_ozols/25732.png
-:scale: 100%
-. Lai datus saglabātu jānospiež poga .. image:: images_ozols/25621.png
-:scale: 100%
-. Jebkuru no kontaktu saraksta ierakstiem ir iespējam atvērt,
-nospiežot rīku joslā pogu .. image:: images_ozols/25603.png
-:scale: 100%
-. Ar filtru, rīku joslā nospiežot pogu.. image::
-images_ozols/24535.gif
-:scale: 100%
-( Ctrl+F), ir iespējams atlasīt viena partnera
-kontaktus/kontaktpersonas.
+.. |images_ozols/25730.png| image:: images_ozols/25730.png
+    :scale: 100%
+
+.. |images_ozols/25731.png| image:: images_ozols/25731.png
+    :scale: 100%
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+    :scale: 100%
+
+.. |images_ozols/25732.png| image:: images_ozols/25732.png
+    :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+    :scale: 100%
+
+.. |images_ozols/25603.png| image:: images_ozols/25603.png
+    :scale: 100%
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+    :scale: 100%
 
  

@@ -9,23 +9,15 @@ kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
 arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
 atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
 
-Datu atlases kritērijus var saglabāt (.. image::
-images_ozols/24938.png
-:scale: 100%
-). Izvēloties izveidoto filtra sagatavi (.. image::
-images_ozols/24943.png
-:scale: 100%
-), filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai
-izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež
-poga.. image:: images_ozols/24535.gif
-:scale: 100%
-(Ctrl+F), tiek atvērts filtra logs:
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu
+atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež poga
+|images_ozols/24535.gif| (Ctrl+F), tiek atvērts filtra logs:
 
 
 
-.. image:: images_ozols/25914.png
-:scale: 100%
-
+|images_ozols/25914.png|
 
 
 
@@ -69,22 +61,18 @@ Atjaun.līg.veids: atjaunots līguma veids (Jā, Nē);
 Atjaunota polise: atskaite par atjaunotām vai neatjaunotām polisēm.
 
 Lai atvērtu papiluds filtra kritērijus, nepieciešams nospiest uz
-Filtra ekrāna formā redzamo papildus filtra pogu (.. image::
-images_ozols/24535.gif
-:scale: 100%
-). Papildus filtrā iespējams atlasīt datus pēc šādiem kritērijiem:
+Filtra ekrāna formā redzamo papildus filtra pogu (
+|images_ozols/24535.gif| ). Papildus filtrā iespējams atlasīt datus
+pēc šādiem kritērijiem:
 
 
 
-.. image:: images_ozols/25915.png
-:scale: 100%
-
+|images_ozols/25915.png|
 
 
 
 Lauks: polišu atskaite par izvēlētu konkrētu informāciju no
-:doc:`polises<6510>` "Labot" sadaļas .. image:: images_ozols/26004.png
-:scale: 100%
+:doc:`polises<6510>` "Labot" sadaļas |images_ozols/26004.png|
 pievienotās informācijas;
 
 Vērtība: izvēlētā papildlauka vērtība;
@@ -132,17 +120,44 @@ termiņš, prēmijas summa...);
 Atlasīt dublikātus:
 
 Lai saglabātu papildus filtra izvēlētosatlaseskritērijus, jānospiež
-poga .. image:: images_ozols/25621.png
-:scale: 100%
-, un filtra logā jānospiež poga .. image:: images_ozols/25619.png
-:scale: 100%
-.
+poga |images_ozols/25621.png| , un filtra logā jānospiež poga
+|images_ozols/25619.png| .
 
 Sagatavotos atskaites datus ir iespējams arī izdrukāt. Lai drukātu
-datus, rīko joslā jānospiež poga .. image:: images_ozols/24944.png
-:scale: 100%
-(Ctrl+P), un tad poga .. image:: images_ozols/25620.png
-:scale: 100%
-.
+datus, rīko joslā jānospiež poga |images_ozols/24944.png| (Ctrl+P), un
+tad poga |images_ozols/25620.png| .
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+    :scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+    :scale: 100%
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+    :scale: 100%
+
+.. |images_ozols/25914.png| image:: images_ozols/25914.png
+    :scale: 100%
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+    :scale: 100%
+
+.. |images_ozols/25915.png| image:: images_ozols/25915.png
+    :scale: 100%
+
+.. |images_ozols/26004.png| image:: images_ozols/26004.png
+    :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+    :scale: 100%
+
+.. |images_ozols/25619.png| image:: images_ozols/25619.png
+    :scale: 100%
+
+.. |images_ozols/24944.png| image:: images_ozols/24944.png
+    :scale: 100%
+
+.. |images_ozols/25620.png| image:: images_ozols/25620.png
+    :scale: 100%
 
  
