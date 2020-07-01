@@ -1,0 +1,226 @@
+.. 467 Bankas maksājums ar maksājumu karti*************************************** 
+
+
+Bankas izdevumu dokumenta veids Bankas maksājums ar maksājumu karti ir
+paredzēts debeta karšu operāciju noformēšanai. Šis dokumenta veids
+jāizmanto, kad banka ir veikusi atskaitījumus no uzņēmuma bankas konta
+par iegādātajām precēm ar uzņēmuma debetkarti - no bankaskonta
+pārskaitītas summas par debetkartes pirkumiem. Dokuments tiek
+saglabāts žurnālā :doc:`Bankas izdevumi<224>` .
+
+
+
+Jauna Bankas maksājuma ar maksājumu kartipievienošana
+`````````````````````````````````````````````````````
+
+Izvēloties dokumenta veidu Bankas maksājums ar maksājuma karti, tiks
+atvērts jauns logs:
+
+
+
+|images_ozols/24992.png|
+
+
+
+Dokumenta Bankas maksājums ar maksājumu kartiVirsraksta aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai aizpildītuBankas maksājuma ar maksājumu kartiVirsrakstu,
+nepieciešams:
+
+
+
+1. Norādīt Uzņēmuma bankas kontu, no kura šis maksājums tiks
+izpildīts:
+
+
+
+|images_ozols/24724.png|
+
+
+
+2. Izvēlēties Datumu, kurā šis dokumentstiek veidots:
+
+
+
+|images_ozols/24725.png|
+
+
+
+3. Norādīt nepieciešamo Bankas maksājuma ar maksājumu kartivalūtu un
+ievadīt kopējo Dokumenta summu:
+
+
+
+|images_ozols/24726.png|
+
+
+
+4. No saraksta izvēlēties nepieciešamo partneri (Piegādātāju), kuram
+šis naudas pārskaitījums tiks noformēts:
+
+
+
+|images_ozols/24727.png|
+
+
+
+Izvēloties nepieciešamo Piegādātāju, lauki Nor.konts , Banka un Kods
+netiek aizpildīti, jošis dokumenta veids tiek izmantots, kad banka jau
+ir veikusi atskaitījumus no uzņēmuma bankas konta par iegādātajām
+precēm ar uzņēmuma debetkarti, līdz ar to Piegādātājabankas
+kontuaizpildīt vairs nav nepieciešams.
+
+Lauks Reģ.nr. tiks aizpildīts automātiski no :doc:`Partnera
+kartiņas<312>` .
+
+
+
+
+
+Dokumenta Bankas maksājums ar maksājumu karti Satura aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītudokumenta Saturu, satura daļā nepieciešams nospiest
+|images_ozols/24708.png| un tiks atvērts operācijas satura logs, kurā
+nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās
+dimensijas) un norādīt satura ieraksta summu:
+
+
+
+|images_ozols/24786.png|
+
+
+
+|images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiem
+satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
+summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
+nospiežot pogu |images_ozols/24708.png| .
+
+
+
+
+
+Maksājuma dokumenta Mērķaaizpildīšana
++++++++++++++++++++++++++++++++++++++
+
+
+Maksājuma dokumenta lauks Mērķis tiek drukāts maksājuma uzdevuma rindā
+Maksājuma mērķis.
+
+Lauku Bankas maksājuma uzdevuma Mērķis, iespējams aizpildīt manuāli
+vai izvēloties no :doc:`Bankas paskaidrojumu saraksta<147>` :
+
+
+
+|images_ozols/24787.png|
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti, Bankas maksājums ar
+maksājumukartiir sagatavots un to ir iespējams:
+
+1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
+saglabāts un būs pieejams apskatei/labošanai/grāmatošanai :doc:`Bankas
+izdevumu<224>` .
+
+2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| -
+Bankas maksājums ar maksājumu karti tiks Apstiprināts un to būs
+iespējams Grāmatot.
+
+
+
+Bankas maksājumaar maksājumu kartigrāmatošana
+`````````````````````````````````````````````
+
+Dokumentuiespējams grāmatot no atvērta Bankas maksājuma ar maksājumu
+kartidokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Bankas
+izdevumu žurnālā<224>` .
+
+Lai iegrāmatotu Bankas maksājumu ar maksājumu karti, dokumentu
+nepieciešams Apstiprināt, nospiežot rīku joslā pogu
+|images_ozols/24740.png| .
+
+Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu |images_ozols/24741.png| .
+
+
+
+Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
+
+
+
+Pievienotā Bankasmaksājumaar maksājumu kartilabošana
+````````````````````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot Bankas
+maksājuma dokumentu, kurš pieejams apskatei/labošanai:doc:` Bankas
+izdevumu žurnālā <224>` . Lai veiktu labojumus,dokumentunepieciešams
+atvērt, izmantojot rīku joslas pogu |images_ozols/24709.png| (ALT+A),
+unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+
+
+
+|images_ozols/24788.png|
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+.. |images_ozols/24992.png| image:: images_ozols/24992.png
+:scale: 100%
+
+.. |images_ozols/24724.png| image:: images_ozols/24724.png
+:scale: 100%
+
+.. |images_ozols/24725.png| image:: images_ozols/24725.png
+:scale: 100%
+
+.. |images_ozols/24726.png| image:: images_ozols/24726.png
+:scale: 100%
+
+.. |images_ozols/24727.png| image:: images_ozols/24727.png
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/24786.png| image:: images_ozols/24786.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/24787.png| image:: images_ozols/24787.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+:scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+:scale: 100%
+
+.. |images_ozols/24741.png| image:: images_ozols/24741.png
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/24788.png| image:: images_ozols/24788.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

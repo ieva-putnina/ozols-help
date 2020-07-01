@@ -12,15 +12,24 @@ nodokļu dokuments.
 
 Nodokļu dokuments nosaka, kādas nodokļa likmes tiks piemērotas algu
 aprēķinā. Nodokļu dokumentus var pievienot strādājošā
-:doc:`Slodzes<207>` kartiņā caur pogu vai nodokļu dokumentu žurnālā,
-nospiežot Rīku joslā pogu :
+:doc:`Slodzes<207>` kartiņā caur pogu .. image::
+images_ozols/25639.png
+:scale: 100%
+vai nodokļu dokumentu žurnālā, nospiežot Rīku joslā pogu.. image::
+images_ozols/25605.png
+:scale: 100%
+:
+
+
+
+.. image:: images_ozols/25640.png
+:scale: 100%
 
 
 
 
-
-
-
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Nodokļa dokumenta veids var būt darba līgums, nodokļu grāmatiņa vai
 uzņēmuma līgums. Lai algu aprēķins tiktu veikts korekti, jāizvēlas
 pareizās ienākuma nodokļa un sociālā nodokļa metodes no sarakstiem.
@@ -31,6 +40,9 @@ sociālo nodokli netiks iekļauta riska nodeva.
 
 
 
-Lai saglabātu pievienotos datus, jānospiež poga .
+Lai saglabātu pievienotos datus, jānospiež poga .. image::
+images_ozols/24615.jpg
+:scale: 100%
+.
 
  

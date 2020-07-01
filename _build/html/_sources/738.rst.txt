@@ -1,0 +1,38 @@
+.. 738 Lietotāju grupa******************* 
+
+
+Lietotāju tiesības darba režīmu un uzņēmumu izmantošanā tiek
+piešķirtas katram lietotājam atsevišķi. Lai paātrinātu lietotāju
+tiesību administrēšanu, lietotājus ar vienādām tiesībām var apvienot
+lietotāju grupās.
+
+Lai pievienotu jaunu Lietotāju grupu, rīku joslā jānospiež poga
+|images_ozols/25605.png| :
+
+
+
+|images_ozols/25765.png|
+
+
+
+Nepieciešams ievadīt grupas nosaukumu un izveidotajai grupai Pievienot
+nepieciešamos :doc:`Lietotājus<194>` .
+
+
+
+|images_ozols/24545.gif| Pirms lietotāju grupu izveidošanas,
+:doc:`Lietotāju sarakstā<194>` jābūt pievienotiem lietotājiem. Vienu
+lietotāju var pievienot vairākās lietotāju grupās. Lietotājam tiks
+piemērotas tiesības uz darba režīmiem un uzņēmumiem no visām lietotāju
+grupām, kur lietotājs ir pievienots.
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+:scale: 100%
+
+.. |images_ozols/25765.png| image:: images_ozols/25765.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+ 

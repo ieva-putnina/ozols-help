@@ -7,10 +7,14 @@ kritērijiem:
 
 
 
+.. image:: images_ozols/25823.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Atskaitē sagatavojamos dati tiks attēloti sagrupēti, ja tiks atzīmēta
 kāda no izvēles rūtiņām "Grupēt pēc nomenklatūras", "Grupēt pēc
 nomenklatūras grupas".

@@ -1,0 +1,120 @@
+.. 158 Iepirkumu dokumentu veidi***************************** 
+
+
+
+Sarakstā tiek saglabāti iepirkuma dokumentu veidi, kas tiek izmantoti
+iepirkuma dokumentu aizpildīšanai.
+
+Atsevišķi dokumentu veidi tiek izmantoti, lai programmā veiktu
+noteiktas uzskaites funkcijas. Dokumentu veidus var izmantot, lai
+dokumentu žurnālos ar datu atlases filtru palīdzību parādītu tikai
+viena veida dokumentus, noteiktu atsevišķu dokumenta numerāciju
+
+
+Jauna iepirkuma dokumenta veida pievienošana
+````````````````````````````````````````````
+
+Lai pievienotu jaunu iepirkuma dokumenta veidu, jāizmanto komanda
+|images_ozols/24879.png| no rīku joslas (Alt+P) un tiks atvērts jauns
+logs:
+
+
+
+|images_ozols/26496.png|
+
+
+
+
+**Veids**: ja tiek pievienots jauns iepirkuma dok.veids - jāizvēlas
+iepirkuma dokuments;
+
+**Dok.veids**: nepieciešams norādīts atbilstošo dokumenta veidu -
+Rēķins, Pavadzīmes vai Avansu izdevums.
+
+Rēķins - izmantojams pakalpojumu ievadei, izmantojot rēķinu netiek
+noformēta preču/krājumu kustība Noliktavā;
+
+
+Stingrās uzskaites pavadzīme - nodrošina stingrās uzskaites dokumenta
+numura un sērijas lauka izmantošanu veidlapu izlietojuma uzskaitei, kā
+arī noformē preču/krājumu kustību noliktavā.
+
+Avansu izdevums - nodrošina pilnvērtīgu avansu norēķinu uzskaiti, kā
+arī noformē preču/krājumu kustību noliktavā.
+
+
+**VID.darījuma veids:** nepieciešams norādīt ierakstu no saraksta,
+atbilstoši darījuma veidam, kuri tiks noformēti ar šo iepirkuma
+dokumenta veidu,
+
+**VID.dok.veids:** nepieciešams norādīt atbilstošo VID noteikto
+dokumenta veidu;
+
+**Kods:** iepirkuma dokumenta veida kodējums - pazīme, kas būs
+piesaistīta konkrētajam iepirkuma dokumenta veidam;
+
+**Nosaukums**: jaunizveidotā iepirkuma dokumenta veida nosaukums;
+
+**Virsraksts:** jaunizveidotā iepirkuma dokumenta veida Virsraksts,
+kas tiks uzrādīts arī iepirkuma dok.izdrukā;
+
+**Opcijas:** iespējams atzīmēt jaunizveidotā iepirkuma dokumenta
+papildus funkcijas:
+
+Apmaksājams dokuments - attiecīgais iep.dokumenta veids tiks iekļauts
+neapmaksāto iepirkumu dokumentu atskaitē;
+
+Negrāmatojams dokuments - attiecīgo iep.dokumenta veidu nebūs
+iespējams grāmatot;
+
+Kredītrēķins - attiecīgo iep.dokumenta veidu būs iespējams saistīt ar
+bankas ieņēmuma dokumentu;
+
+Avansa rēķins - attiecīgo iepirkuma dokumentu būs iespējams noformēt
+kā saņemto avansa rēķinu.
+
+
+Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu
+|images_ozols/24867.png| no rīku joslas vai(Ctrl+S).
+
+
+
+Iepirkuma dokumenta veida labošana
+``````````````````````````````````
+Lai veiktu labojumus iepirkuma dokumenta veidā, ierakstu nepieciešams
+atvērt, izmantojot komandu |images_ozols/24869.png| no rīku joslas
+(Alt+A). Atvērtajā logā iespējams mainīt jebkuru no laukos esošo
+informāciju. Pēc labojumu veikšanas, veiktās izmaiņas iespējams
+saglabāt ar komandu |images_ozols/24867.png| no rīku joslas.
+
+
+Iepirkuma dokumentaveida dzēšana
+````````````````````````````````
+
+Lai dzēstu iepirkuma dokumenta veidu, jāizmanto komanda
+|images_ozols/25602.png| no rīku joslas. Ieraksts ir jādzēš neatvērtā
+veidā.
+
+
+
+
+
+.. |images_ozols/24879.png| image:: images_ozols/24879.png
+:scale: 100%
+
+.. |images_ozols/26496.png| image:: images_ozols/26496.png
+:scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+:scale: 100%
+
+.. |images_ozols/24869.png| image:: images_ozols/24869.png
+:scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+:scale: 100%
+
+.. |images_ozols/25602.png| image:: images_ozols/25602.png
+:scale: 100%
+
+ 

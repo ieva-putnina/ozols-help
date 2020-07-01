@@ -1,15 +1,24 @@
 .. 124 =======================Mērvienību saraksts======================= 
 Lai Mērvienību sarakstam pievienotu jaunu mērvienību, Rīku joslā
-jānospiež poga , tiek atvērts logs, kur tekstlodziņā jāieraksta
-mērvienības nosaukums (saīsinājums, apzīmējums):
+jānospiež poga .. image:: images_ozols/25605.png
+   :scale: 100%
+, tiek atvērts logs, kur tekstlodziņā jāieraksta mērvienības nosaukums
+(saīsinājums, apzīmējums):
+
+
+
+.. image:: images_ozols/26065.png
+   :scale: 100%
 
 
 
 
-
-
-
-Pēc Nosaukuma aizpildīšanas,ierakstu iespējams vai .
+Pēc Nosaukuma aizpildīšanas,ierakstu iespējams .. image::
+images_ozols/24615.jpg
+   :scale: 100%
+vai .. image:: images_ozols/24617.jpg
+   :scale: 100%
+.
 
 
 

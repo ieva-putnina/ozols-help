@@ -17,8 +17,10 @@ grāmatvediskajiem kontiem, pēc vienota principa ieteicams veidot
 subkontus, atšifrējot kontus pa apdrošināšanas veidiem.
 
 :doc:`Kontu plānā<114>` augstākā līmeņa konta apakškontus iespējams
-pievienot, izmantojot rīku joslas pogu un aizpildot nepieciešamos
-konta apraksta ierakstus.
+pievienot, izmantojot rīku joslas pogu.. image::
+images_ozols/24708.png
+:scale: 100%
+un aizpildot nepieciešamos konta apraksta ierakstus.
 
 
 
@@ -28,6 +30,8 @@ atbilstoši attiecīgajam apdrošināšanas veidam:
 
 
 
+.. image:: images_ozols/25361.png
+:scale: 100%
 
 
 
@@ -41,13 +45,19 @@ nepieciešams norādīt atbilstošos grāmatvediskos kontus:
 
 
 
+.. image:: images_ozols/25362.png
+:scale: 100%
 
 
 > Kopējie saraksti > Apdrošināšanas veidi > izmantojot rīku joslas
-pogu (ALT+A), atvērtajāierakstā iespējams norādīt noklusētos kontus:
+pogu.. image:: images_ozols/24709.png
+:scale: 100%
+(ALT+A), atvērtajāierakstā iespējams norādīt noklusētos kontus:
 
 
 
+.. image:: images_ozols/25363.png
+:scale: 100%
 
 
  .. toctree::   :maxdepth: 4    14083.rst   14085.rst   14080.rst   14082.rst

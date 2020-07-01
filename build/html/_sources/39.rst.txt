@@ -1,1 +1,60 @@
-.. 39 Alga======== .. role:: raw-html(raw)     :format: html:doc:`<117>`Algu modulis paredzēts jebkura veida atalgojumu aprēķinam, alguvēsturisko datu uzkrāšanai, kā arī visu ar darba ņēmēju atalgojumusaistīto atskaišu un pārskatu sagatavošanai. Tā kā algu aprēķins tiekveikts, izmantojot uzņēmuma :doc:`Strādājošo<111>` ,:doc:`Struktūrvienību<117>` un :doc:`Slodžu<207>` datus, algu aprēķinadarbībai nepieciešams :doc:`Personāla<47>` uzskaites modulis... image:: /help/Skin/help/img.aspx?pid=24545Ja tiek iegādātas licences tikai Algu modulim (bez Personāla moduļalicences iegādes), tad Algu aprēķinus iespējams veikt izmantojotPersonāla moduļa darba režīmus, kuriem pilnā Personāla moduļa licencinav nepieciešams iegādāties. Iegādājoties tikai Algu moduli,lietotājam iespējams izmantot sekojošus Personāla moduļa darbarežīmus: :doc:`Rīkojumu žurnāls<209>` , :doc:`Amati<186>` ,:doc:`Atvaļinājumu kalendāri<284>` , :doc:`Kalendāri<218>` ,:doc:`Kalendārs<216>` , :doc:`Notikumu saraksts<217>` ,:doc:`Personāla kategorijas<127>` , :doc:`Profesijuklasifikators<128>` , :doc:`Slodzes<207>` , :doc:`Slodžu veidi<288>` ,:doc:`Strādājošie<111>` . Šo darba režīmu izmantošana sniedz iespējulietotājam izmantot Algu moduli pilnvērtīgi, taču nenodrošina pilnuPersonāla uzskaites funkcionalitāti (t.i.:doc:`Apbalvojumu<764>` ,:doc:`Cita informācijas<765>` , :doc:`Izglītības datu<763>` ,:doc:`Karjeras<762>` , :doc:`Sertifikātu<798>` , u.c. personālapapilddatu ievadi, kā arī :doc:`Maksājumu karšu uzskaiti<651>` ,:doc:`Darba līgumu žurnāla reģistru<251>` , :doc:`Iesniegumužurnāls<791>` un Personāla vadības :doc:`Atskaites<30>` )Algu modulis nodrošina:+ Pilnībā automatizētu algu aprēķinu kārtējam periodam, kā arīnākošajiem periodiem (atvaļinājuma aprēķins) un iepriekšējiemperiodiem (algu pārrēķins par slēgtajiem periodiem). Katrā periodā vartikt izmantots savs aprēķina algoritms;+ Neierobežotu izmaksas veidu izmantošanu, ar ārkārtīgi elastīgu:doc:`konfigurēšanas<28>` sistēmu, tādā veidā ļaujot izmantot jebkurusieejošo datu veidus – likmes, darba laika uzskaites vienības (stundas,dienas), gabaldarba uzskaites vienības, tarifus, koeficientus, utt.;+ Atšķirīgu algu aprēķina algoritmu uzturēšanu katrā periodā, kas irsvarīgi, mainoties likumdošanā noteiktajām nodokļu likmēm un citiemalgu aprēķina parametriem;+ Algu aprēķinu neierobežotam skaitam :doc:`Strādājošo<111>` brīvāalgu periodā (parasti mēnesis, bet iespējams ir arī cits periods,piemēram, nedēļa, ceturksnis, utt.;+ Strādājošo personisko kontu uzturēšanu visa finanšu gada garumā,iesniegto nodokļu dokumentu saglabāšanu, izmaksu sarakstu eksportu uzbanku elektronisko norēķinu sistēmām;+ Sociālās apdrošināšanas datu uzglabāšanu, kā arī pārskatusagatavošanu un eksportu sociālās apdrošināšanas iestāžu vajadzībām;+ Visu LR likumdošanai atbilstošo algas :doc:`pārskatu<59>`  automatizētu sagatavošanu un uzglabāšanu. .. toctree::   :maxdepth: 6    57.rst   25.rst   844.rst   28.rst   29.rst   8.rst
+.. 39 Alga======== 
+Algu modulis paredzēts jebkura veida atalgojumu aprēķinam, algu
+vēsturisko datu uzkrāšanai, kā arī visu ar darba ņēmēju atalgojumu
+saistīto atskaišu un pārskatu sagatavošanai. Tā kā algu aprēķins tiek
+veikts, izmantojot uzņēmuma :doc:`Strādājošo<111>` ,
+:doc:`Struktūrvienību<117>` un :doc:`Slodžu<207>` datus, algu aprēķina
+darbībai nepieciešams :doc:`Personāla<47>` uzskaites modulis.
+
+
+
+.. image:: images_ozols/24545.gif
+        :scale: 100%
+Ja tiek iegādātas licences tikai Algu modulim (bez Personāla moduļa
+licences iegādes), tad Algu aprēķinus iespējams veikt izmantojot
+Personāla moduļa darba režīmus, kuriem pilnā Personāla moduļa licenci
+nav nepieciešams iegādāties. Iegādājoties tikai Algu moduli,
+lietotājam iespējams izmantot sekojošus Personāla moduļa darba
+režīmus: :doc:`Rīkojumu žurnāls<209>` , :doc:`Amati<186>` ,
+:doc:`Atvaļinājumu kalendāri<284>` , :doc:`Kalendāri<218>` ,
+:doc:`Kalendārs<216>` , :doc:`Notikumu saraksts<217>` ,
+:doc:`Personāla kategorijas<127>` , :doc:`Profesiju
+klasifikators<128>` , :doc:`Slodzes<207>` , :doc:`Slodžu veidi<288>` ,
+:doc:`Strādājošie<111>` . Šo darba režīmu izmantošana sniedz iespēju
+lietotājam izmantot Algu moduli pilnvērtīgi, taču nenodrošina pilnu
+Personāla uzskaites funkcionalitāti (t.i.:doc:`Apbalvojumu<764>` ,
+:doc:`Cita informācijas<765>` , :doc:`Izglītības datu<763>` ,
+:doc:`Karjeras<762>` , :doc:`Sertifikātu<798>` , u.c. personāla
+papilddatu ievadi, kā arī :doc:`Maksājumu karšu uzskaiti<651>` ,
+:doc:`Darba līgumu žurnāla reģistru<251>` , :doc:`Iesniegumu
+žurnāls<791>` un Personāla vadības :doc:`Atskaites<30>` )
+
+
+
+Algu modulis nodrošina:
+
+
++ Pilnībā automatizētu algu aprēķinu kārtējam periodam, kā arī
+nākošajiem periodiem (atvaļinājuma aprēķins) un iepriekšējiem
+periodiem (algu pārrēķins par slēgtajiem periodiem). Katrā periodā var
+tikt izmantots savs aprēķina algoritms;
++ Neierobežotu izmaksas veidu izmantošanu, ar ārkārtīgi elastīgu
+:doc:`konfigurēšanas<28>` sistēmu, tādā veidā ļaujot izmantot jebkurus
+ieejošo datu veidus – likmes, darba laika uzskaites vienības (stundas,
+dienas), gabaldarba uzskaites vienības, tarifus, koeficientus, utt.;
++ Atšķirīgu algu aprēķina algoritmu uzturēšanu katrā periodā, kas ir
+svarīgi, mainoties likumdošanā noteiktajām nodokļu likmēm un citiem
+algu aprēķina parametriem;
++ Algu aprēķinu neierobežotam skaitam :doc:`Strādājošo<111>` brīvā
+algu periodā (parasti mēnesis, bet iespējams ir arī cits periods,
+piemēram, nedēļa, ceturksnis, utt.;
++ Strādājošo personisko kontu uzturēšanu visa finanšu gada garumā,
+iesniegto nodokļu dokumentu saglabāšanu, izmaksu sarakstu eksportu uz
+banku elektronisko norēķinu sistēmām;
++ Sociālās apdrošināšanas datu uzglabāšanu, kā arī pārskatu
+sagatavošanu un eksportu sociālās apdrošināšanas iestāžu vajadzībām;
++ Visu LR likumdošanai atbilstošo algas :doc:`pārskatu<59>`
+  automatizētu sagatavošanu un uzglabāšanu.
+
+
+ .. toctree::   :maxdepth: 6    57.rst   25.rst   844.rst   28.rst   29.rst   8.rst

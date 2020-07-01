@@ -7,11 +7,18 @@ personāla kategoriju. Ja uzņēmumā personāls netiek dalīts pa Personāla
 kategorijām, tad šajā sarakstā jābūt izveidotam vismaz vienam
 ierakstam, kuru tad vienmēr jāizmanto aizpildot datus par strādājošo.
 
-Lai pievienotu personāla kategoriju, rīku joslā jānospiež poga (Alt+P)
-un, kad nosaukums ierakstīts, jānospiež poga .
+Lai pievienotu personāla kategoriju, rīku joslā jānospiež poga ..
+image:: images_ozols/25605.png
+:scale: 100%
+(Alt+P) un, kad nosaukums ierakstīts, jānospiež poga .. image::
+images_ozols/24615.jpg
+:scale: 100%
+.
 
 
 
+.. image:: images_ozols/25641.png
+:scale: 100%
 
 
  

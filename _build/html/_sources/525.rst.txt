@@ -1,0 +1,57 @@
+.. 525 Memoriālais orderis*********************** 
+
+
+Memoriālais orderis ir konta korespondences pārskats. Atskaitē kontu
+korespondence tiek parādīta šahveida tabulā, kur vertikālā kolonnā
+tiek grupētas operācijas, bet horizontālās kolonnās parādīta izvēlētā
+konta korespondence norādītajā laika periodā. Atskaite parāda konta
+atlikumu perioda sākumā un beigās. Atskaite tiek sagatavota HLML
+skatā. Atskaiti var pārkopēt vai eksportēt uz Excel programmu, kur var
+veikt datu apstrādi un formatēšanu.
+
+
+
+**Datums**
+Datums. Tiek parādīts, ja datus grupē pēc datuma, datuma un partnera.
+
+**Partneris**
+Partnera kods. Tiek parādīts, ja datus grupē pēc datuma un partnera.
+
+**Dok.veids**
+Dokumenta veids. Tiek parādīts, ja datus grupē pēc dokumenta veida un
+dokumenta numura.
+
+**Dok.num**
+Dokumenta numurs. Tiek parādīts, ja datus grupē pēc dokumenta veida un
+dokumenta numura.
+
+**Numurs**
+Grāmatojuma numurs. Tiek parādīts, ja datus grupē pēc grāmatojuma.
+
+**Db.kopā**
+Korespondējošo kontu debeta kopsumma.
+
+**Cr. kopā**
+Korespondējošo kontu kredīta kopsumma.
+
+
+
+Filtrs jāaizpilda, lai sagatavotu atskaiti.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves.
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+:scale: 100%
+
+ 

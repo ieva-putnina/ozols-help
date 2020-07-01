@@ -1,0 +1,102 @@
+.. 540 Neapmaksātie pārdošanas dokumenti************************************* 
+
+
+
+Neapmaksāto pārdošanas dokumentu atskaiti iespējams sagatavot pēc
+noteiktiem atlasīšanas kritērijiem.
+
+Filtrs jāaizpilda, lai sagatavotu atskaiti.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu
+atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež poga
+|images_ozols/24535.gif| (Ctrl+F), tiek atvērts filtra logs:
+
+
+
+|images_ozols/25625.png|
+
+
+
+Uzņēmums: ja ir vairāki uzņēmumi, tad jāizvēlas par kuru tiks gatavota
+atskaite;
+
+Noliktava: noliktava, no kuras tika izrakstīti pārdošanas dokumenti;
+
+Termiņš uz: dokumentu izrakstīšanas datums (visi dokumenti, kuri
+izrakstīti līdz norādītajam termiņam);
+
+Samaksāts līdz: apmaksas datums;
+
+Term.pārsniegts no_ līdz_ dienas: apmaksas termiņā pārsniegtās dienas;
+
+Dok. datums: dokumenta datums;
+
+Dok. veids: dokumenta veids (piem., pavadzīme);
+
+Veids: dokumenta veids (piem., stingrās uzskaites pavadzīme);
+
+Pircējs: iespējams sagatavot atskaiti par vienu pircēju;
+
+Ek.kods: dimensiju dalījums;
+
+VFK: dimensiju dalījums;
+
+Apmaksa: apmaksas termiņa definējums;
+
+Valūta: iespējams sagatavot atskaiti par viena veida valūtas
+dokumentiem;
+
+Rādīt tikai dokumentus ar stingrās uzskaites numuriem: lai tiktu
+sagatavota atskaite tikai par dokumentiem ar stingrās uzskaites
+numuriem;
+
+Rādīt arī apmaksātos dokumentus: atskaitē iekļaut arī apmaksātos
+dokumentus;
+
+Rādīt tikai apmaksātos dokumentus: atskaite tikai par apmaksātajiem
+pārdošanas dokumentiem.
+
+
+
+
+Sagatavojot atskaiti, iespējams definēt arī papildus filtra
+nosacījumus (izvēloties partnera veidu) un nospiežot pogu
+|images_ozols/25621.png| , un, ja filtrā visi atskaites kritēriji
+izvēlēti, jānospiež poga |images_ozols/25619.png| . Sagatavotos
+atskaites datus ir iespējams arī izdrukāt. Lai drukātu datus, rīko
+joslā jānospiež poga |images_ozols/24944.png| (Ctrl+P), un jānospiež
+poga |images_ozols/25620.png| .
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+:scale: 100%
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+:scale: 100%
+
+.. |images_ozols/25625.png| image:: images_ozols/25625.png
+:scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+:scale: 100%
+
+.. |images_ozols/25619.png| image:: images_ozols/25619.png
+:scale: 100%
+
+.. |images_ozols/24944.png| image:: images_ozols/24944.png
+:scale: 100%
+
+.. |images_ozols/25620.png| image:: images_ozols/25620.png
+:scale: 100%
+
+ 

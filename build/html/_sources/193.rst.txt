@@ -5,13 +5,19 @@ Uzņēmējdarbības veids:
 
 
 
+.. image:: images_ozols/25426.png
+:scale: 100%
 
 
-Lai pievienotu jaunu Uzņēmējdarbības veidu, Rīku joslā jānospiež poga
+Lai pievienotu jaunu Uzņēmējdarbības veidu, Rīku joslā jānospiež
+poga.. image:: images_ozols/25417.png
+:scale: 100%
 , tiek atvērts logs:
 
 
 
+.. image:: images_ozols/25427.png
+:scale: 100%
 
 
 

@@ -10,6 +10,8 @@ ir modificējamas un tajās var noteikt parādīšanai atskaitē jebkurus
 datus no sakonfigurētajiem algu aprēķina rezultātiem
 (:doc:`Rezultējošo kodu konfigurācij<283>` :doc:`a`)
 
+.. image:: images_ozols/26546.png
+:scale: 100%
 
 
 Datus var atlasīt atsevišķiem aprēķina periodiem, struktūrvienībām,
@@ -21,6 +23,8 @@ kolonnās algu rezultātu summas. Kolonnas Persona, Slodžu skaits ir
 noteiktas programmā, bet algu aprēķina rezultātu kolonnas tiek
 konfigurētas atskaišu kolonnu sarakstā.
 
+.. image:: images_ozols/26547.png
+:scale: 100%
 
 
 Tā kā rezultāti horizontāli var iekļaut ļoti daudz datu kolonnu, šī

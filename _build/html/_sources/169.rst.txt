@@ -1,0 +1,56 @@
+.. 169 Lietotāju tiesības darba režīmiem************************************* 
+
+
+Kad ir izveidotas lietotāju grupas un lietotāji ir pievienoti
+atbilstošajām lietotāju grupām, jānosaka tiesības grupām.
+|images_ozols/24545.gif| Katram individuālam lietotājam tiks
+piešķirtas tādas tiesības, kādas būs noteiktas grupām - ja lietotājs
+vienlaicīgi atradīsies vairākās grupām, tad šim lietotājām tiesības
+tiks summētas.
+
+
+
+Sarakstā tiek noteiktas lietotāju vai lietotāja grupu tiesības
+izmantot sistēmas darba režīmus.
+
+Atverot lietotāju tiesību noteikšanas ekrāna formu, kreisajā pusē tiek
+parādītas izveidotās lietotāju grupas virsējā līmenī un pievienotie
+lietotāji grupai zem tiem. Labajā ekrāna pusē tiek parādīti sistēmas
+darba režīmi:
+
+
+
+|images_ozols/25776.png|
+
+
+
+1. Jāiezīmē lietotāju grupa, kurai tiesības nepieciešams noteikt
+
+
+
+2.Jāaktivizē tie darba režīmi, kuri šīs grupas lietotājiem būs
+pieejami
+
+3. Lai saglabātu tiesības iezīmētajai grupai, jānospiež poga
+|images_ozols/25771.png|
+
+4. Lai aizvērtu "Lietotāju tiesības darba režīmiem" logu, jānospiež
+poga |images_ozols/25772.png|
+
+
+
+
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/25776.png| image:: images_ozols/25776.png
+:scale: 100%
+
+.. |images_ozols/25771.png| image:: images_ozols/25771.png
+:scale: 100%
+
+.. |images_ozols/25772.png| image:: images_ozols/25772.png
+:scale: 100%
+
+ 

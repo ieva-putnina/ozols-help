@@ -58,7 +58,7 @@ language = None
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = None
+pygments_style = 'sphinx'
 
 # If you want to have a consistent, platform independent look
 # sphinxemoji_style = 'twemoji'
@@ -100,7 +100,7 @@ html_css_files = ["page_nav.css"]
 #html_sidebars = {'**': ['util/sidetoc.html']}
 # html_logo = 'https://mirrors.creativecommons.org/presskit/icons/heart.black.png'
 
-
+import sphinx_glpi_theme
 #---sphinx-themes-----
 #html_theme = 'glpi'
 #html_theme = 'local_rtd_theme'
@@ -109,6 +109,7 @@ html_css_files = ["page_nav.css"]
 #html_theme = 'sphinx_press_theme'
 #html_theme = 'alabaster'
 html_theme = 'press'
+#html_theme_path = [sphinx_glpi_theme.get_html_themes_path()]
 html_theme_path = ["_themes", "_themes/sphinx_glpi_theme"]
 
 

@@ -1,0 +1,2 @@
+.. 5239 Bankas izejošais maksājums****************************** 
+ .. toctree::   :maxdepth: 3    5240.rst

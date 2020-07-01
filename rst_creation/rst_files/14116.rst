@@ -13,6 +13,8 @@ Lai eksportētu izmaksu sarakstu:
 jāeksportē un jālieto komanda Funkcijas->Eksportēt izmaksu sarakstu:
 
 
+.. image:: images_ozols/26284.png
+:scale: 100%
 
 
 
@@ -23,6 +25,8 @@ Lauka Fails dati tiks ievietoti automatizēti:
 
 
 
+.. image:: images_ozols/26285.png
+:scale: 100%
 
 
 

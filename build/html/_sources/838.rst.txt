@@ -4,6 +4,8 @@ logs, kur iespējams mainīt darbu pasūtījuma dokumenta veidu:
 
 
 
+.. image:: images_ozols/25853.png
+:scale: 100%
 
 
 
@@ -13,6 +15,8 @@ informācija:
 
 
 
+.. image:: images_ozols/25852.png
+:scale: 100%
 
 
 
@@ -64,6 +68,8 @@ Pirms funkcijas izsaukšanas, nepieciešams iezīmēt izvēlēto projektu:
 
 
 
+.. image:: images_ozols/25854.png
+:scale: 100%
 
 
 
@@ -76,6 +82,8 @@ informāciju:
 
 
 
+.. image:: images_ozols/25855.png
+:scale: 100%
 
 
 
@@ -89,6 +97,8 @@ pasūtījumu:
 
 
 
+.. image:: images_ozols/25856.png
+:scale: 100%
 
 
 
@@ -101,6 +111,8 @@ informāciju:
 
 
 
+.. image:: images_ozols/25857.png
+:scale: 100%
 
 
 
@@ -134,6 +146,8 @@ darba uzdevuma publiskošanu ar e-pasta vēstules palīdzību:
 
 
 
+.. image:: images_ozols/25858.png
+:scale: 100%
 
 
 
@@ -147,6 +161,8 @@ zem darba uzdevuma:
 
 
 
+.. image:: images_ozols/25859.png
+:scale: 100%
 
 
 
@@ -155,6 +171,8 @@ Darba uzdevuma komentāri:
 
 
 
+.. image:: images_ozols/25860.png
+:scale: 100%
 
 
  

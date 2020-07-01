@@ -1,0 +1,275 @@
+.. 472 Naudas iemaksa bankā************************ 
+
+
+Kad nauda no kases tiek iemaksāta bankā, jāveido kases izdevumu
+orderis - Naudas iemaksa bankā. Dokuments nodrošina uzreiz divu
+operāciju noformēšanu - naudas izmaksu no kases un bankas ieņēmumus
+uzņēmuma kontā. Dokumens vienlaicīgi tiek parādīts :doc:`Kases
+izdevumu<225>` un attiecīgā bankas konta :doc:`Bankas ieņēmumu<226>`
+dokumentu žurnālos. Dokuments Naudas iemaksā bankā ir uzskatāms par
+kases izdevumu orderi, tam ir iebūvēta kases izdevumu ordera izdrukas
+forma, tas iekļaujas kopējā kases izdevumu dokumentu numerācijā.
+Darījuma atšifrēšanai pa finanšu (EK) kodiem, jāaizpilda dokumenta
+saturs. Lai dokumenta izdrukā parādītos grāmatojumu konti, dokuments
+pirms izdrukāšanas ir jāiegrāmato.
+
+
+JaunaNaudas iemaksas bankā dokumena pievienošana
+````````````````````````````````````````````````
+
+Izvēloties dokumenta veidu Naudas iemaksa bankā, tiks atvērts jauns
+logs:
+
+
+
+|images_ozols/24998.png|
+
+
+Naudas iemaksas bankā dokumentaVirsraksta aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai aizpildītu Naudas iemaksas bankā dokumenta Virsrakstu,
+nepieciešams:
+
+
+
+1. Norādīt Uzņēmuma kasi, no kuras nauda tiks ieskaitīta uzņēmuma
+bankas kontā:
+
+
+
+|images_ozols/24826.png|
+
+
+
+2. Izvēlēties Datumu, kurā šisNaudas iemaksas dokumentstiek veidots:
+
+
+
+|images_ozols/24811.png|
+
+
+
+3.Ievadīt kopējo dokumenta summu:
+
+
+
+|images_ozols/24812.png|
+
+
+
+4. No saraksta izvēlēties nepieciešamouzņēmuma Bankas kontu , uz kuru
+nauda tiks pārskaitīta no uzņēmuma kases:
+
+
+
+|images_ozols/24724.png|
+
+
+
+5. No saraksta izvēlēties nepieciešamo Personu - fiziska persona
+(kasieris vai cita atbildīgā persona), kura veic naudas iemaksu bankas
+kontā:
+
+
+
+|images_ozols/24828.png|
+
+
+
+Aizpildot lauku Persona , lauks Pers.dok. tiks aizpildīts automātiski,
+pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:
+
+
+
+|images_ozols/24918.png|
+
+
+
+
+Naudas iemaksas bankā Satura aizpildīšana
++++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītuNaudas iemaksas bankā dokumentaSaturu, dokumenta satura
+daļā nepieciešams nospiest |images_ozols/24708.png| un tiks atvērts
+operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus
+(uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:
+
+
+
+|images_ozols/24919.png|
+
+
+
+|images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiem
+satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
+summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
+nospiežot pogu |images_ozols/24708.png| .
+
+
+
+
+Naudas iemaksas bankāPamatojuma un Satura aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Naudas iemaksas bankā dokumentalauki Pamatojums un Saturs tiek drukāti
+kases izdevumu ordera rindā Pamatojums.
+
+Lauku Pamatojums , iespējams aizpildīt manuāli vai izvēloties no
+:doc:`Kases paskaidrojumu saraksta<136>` :
+
+
+
+|images_ozols/24920.png|
+
+
+
+Aktivizējot izvēli Saturs, laukā tiek salikti dokumenta satura finanšu
+(EK) kodi un summas, līdz ar to iespējams automatizēti iegūt
+informāciju par summas sadalījumu pa EK kodiem vai maksājuma PVN
+summu:
+
+
+
+|images_ozols/24921.png|
+
+
+
+
+Dokumenta - Naudasiemaksa bankā -Pielikuma informācijas aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lauku Pielikumā ,Naudas iemaksai bankāiespējams aizpildīt manuāli vai
+izvēloties no :doc:`Kases pielikumu saraksta<137>` , laukā Piel.num.
+nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:
+
+
+
+|images_ozols/24838.png|
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti, Naudas iemaksas bankā
+dokuments ir sagatavots un to ir iespējams:
+
+1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
+saglabāts un būs pieejams apskatei/labošanai/grāmatošanai vienlaicīgi
+:doc:`Kases izdevumu<225>` un :doc:`Bankas ieņēmumu<226>` žurnālos.
+
+2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png|
+-Naudas iemaksas bankā dokumentstiks Apstiprināts un to būs iespējams
+Grāmatot.
+
+
+Naudas iemaksas bankā dokumentagrāmatošana
+``````````````````````````````````````````
+
+Lai dokumenta izdrukā parādītos grāmatojumu konti, dokuments pirms
+izdrukāšanas ir jāiegrāmato.
+
+Naudas iemaksas bankā dokumentuiespējams grāmatot no atvērta dokumenta
+vai izvēloties (iezīmējot)dokumentu :doc:`Kases izdevumu<225>` vai
+:doc:`Bankas ieņēmumu<226>` žurnālā.
+
+Lai iegrāmatotu Naudas iemaksu bankā, dokumentu nepieciešams
+Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| .
+
+Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu |images_ozols/24741.png| .
+
+
+
+Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
+
+
+Pievienotā Naudas iemaksas dokumenta labošana
+`````````````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot Naudas iemaksas
+bankā dokumentu, kurš pieejams apskatei/labošanaivienlaicīgi
+:doc:`Kases izdevumu<225>` un:doc:`Bankas ieņēmumu<226>` žurnālos. Lai
+veiktu labojumus,dokumentunepieciešams atvērt, izmantojot rīku joslas
+pogu |images_ozols/24709.png| (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus:
+
+
+
+|images_ozols/24922.png|
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+.. |images_ozols/24998.png| image:: images_ozols/24998.png
+:scale: 100%
+
+.. |images_ozols/24826.png| image:: images_ozols/24826.png
+:scale: 100%
+
+.. |images_ozols/24811.png| image:: images_ozols/24811.png
+:scale: 100%
+
+.. |images_ozols/24812.png| image:: images_ozols/24812.png
+:scale: 100%
+
+.. |images_ozols/24724.png| image:: images_ozols/24724.png
+:scale: 100%
+
+.. |images_ozols/24828.png| image:: images_ozols/24828.png
+:scale: 100%
+
+.. |images_ozols/24918.png| image:: images_ozols/24918.png
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/24919.png| image:: images_ozols/24919.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/24920.png| image:: images_ozols/24920.png
+:scale: 100%
+
+.. |images_ozols/24921.png| image:: images_ozols/24921.png
+:scale: 100%
+
+.. |images_ozols/24838.png| image:: images_ozols/24838.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+:scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+:scale: 100%
+
+.. |images_ozols/24741.png| image:: images_ozols/24741.png
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/24922.png| image:: images_ozols/24922.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

@@ -1,0 +1,10 @@
+.. 84 =============Dokumenti============= 
+
+
+Izmantojot Līgumu dokumentus, iespējams pievienot dažāda veida Līgumus
+:doc:`Līgumu žurnālā<237>` , fiksēt iepirkumu procedūru Iepirkumus
+:doc:`Iepirkumu žurnālā<678>` , pievienot :doc:`Pilnvaras<296>` , kā
+arī balstoties uz Līgumu nosacījumiem, definēt :doc:`Apmaksas
+plānus<645>` .
+
+ .. toctree::   :maxdepth: 5    645.rst   678.rst   242.rst   6810.rst   237.rst

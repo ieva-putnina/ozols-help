@@ -1,0 +1,216 @@
+.. 466 Bankas komisija******************* 
+
+
+Bankas komisija ir bankas izdevumu dokumenta veids, kas noformē bankas
+atskaitījumus par bankas pakalpojumiem. Atšķirībā no :doc:`Bankas
+maksājuma uzdevuma<347>` , bankas komisijas dokumentā ir jāpievieno
+mazāk informācijas, un, izmantojot :doc:`Datu apmaiņa ar banku<451>` ,
+tos kopā ar ieejošajiem maksājumiem var importēt datu bāzē. Bankas
+komisijas dokuments tiek saglabāts žurnālā :doc:`Bankas izdevumi<224>`
+.
+
+
+
+Jauna Bankas komisijas dokumenta pievienošana
+`````````````````````````````````````````````
+
+|images_ozols/24545.gif| Bankas komisijas dokuments jāveido, kad banka
+ietur komisijas maksu par pārskaitījumiem un citiem pakalpojumiem.
+Atšķirībā no maksājuma uzdevuma, bankas komisijas dokumentā ir
+jāpievieno mazāk informācijas un kā partneris tiek parādīts bankas
+konts.
+
+
+
+Izvēloties dokumenta veidu Bankaskomisija tiks atvērts jauns logs:
+
+
+
+|images_ozols/24990.png|
+
+
+
+Bankaskomisijas dokumentaVirsraksta aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai aizpildītu Bankaskomisijas dokumentaVirsrakstu, nepieciešams:
+
+
+
+1. Norādīt Uzņēmuma bankas kontu, no kura šis maksājums tiks
+izpildīts:
+
+
+
+|images_ozols/24724.png|
+
+
+
+2. Izvēlēties Datumu, kurā šis Bankas komisijas dokuments tiek
+veidots:
+
+
+
+|images_ozols/24725.png|
+
+
+
+3. Norādīt nepieciešamo Bankas komisijas maksājuma valūtu un ievadīt
+kopējo Dokumenta summu:
+
+
+
+|images_ozols/24759.png|
+
+
+
+
+
+Bankas komisijas dokumenta Satura aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu Bankas komisijas dokumenta Saturu, dokumenta satura
+daļā nepieciešams nospiest |images_ozols/24708.png| un tiks atvērts
+operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus
+(uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:
+
+
+
+|images_ozols/24763.png|
+
+
+
+|images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiem
+satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
+summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
+nospiežot pogu |images_ozols/24708.png| .
+
+
+
+
+
+Bankas komisijasdokumenta Mērķa aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+Maksājuma dokumentu lauki Mērķis un Saturs tiek drukāti maksājuma
+uzdevuma rindā Maksājuma mērķis.
+
+Lauku Bankaskomisijas Mērķis, iespējams aizpildīt manuāli vai
+izvēloties no :doc:`Bankas paskaidrojumu saraksta<147>` :
+
+
+
+|images_ozols/24764.png|
+
+
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti, Bankaskomisijas
+dokumentsir sagatavots un to ir iespējams:
+
+1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
+saglabāts un būs pieejams apskatei/labošanai/grāmatošanai :doc:`
+Bankas izdevumu žurnālā <224>` .
+
+2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| -
+Bankaskomisijas dokuments tiks Apstiprināts un to būs iespējams
+Grāmatot.
+
+
+
+Bankaskomisijas dokumenta grāmatošana
+`````````````````````````````````````
+
+Bankaskomisijas dokumentu iespējams grāmatot no atvērta
+Bankaskomisijas dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`
+Bankas izdevumu žurnālā <224>` .
+
+Lai iegrāmatotu Bankas komisijas dokumentu, dokumentu nepieciešams
+Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| .
+
+Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu |images_ozols/24741.png| .
+
+
+
+Instrukcija - :doc:` Dokumentu grāmatošanas principi <14044>`
+
+
+
+Pievienotā Bankaskomisijas dokumentalabošana
+````````````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot Bankas
+komisijas dokumentu, kurš pieejams apskatei/labošanai:doc:` Bankas
+izdevumu žurnālā <224>` . Lai veiktu labojumusBankas komisijas
+dokumentā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
+|images_ozols/24709.png| (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus:
+
+
+
+|images_ozols/24765.png|
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24990.png| image:: images_ozols/24990.png
+:scale: 100%
+
+.. |images_ozols/24724.png| image:: images_ozols/24724.png
+:scale: 100%
+
+.. |images_ozols/24725.png| image:: images_ozols/24725.png
+:scale: 100%
+
+.. |images_ozols/24759.png| image:: images_ozols/24759.png
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/24763.png| image:: images_ozols/24763.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/24764.png| image:: images_ozols/24764.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+:scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+:scale: 100%
+
+.. |images_ozols/24741.png| image:: images_ozols/24741.png
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/24765.png| image:: images_ozols/24765.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

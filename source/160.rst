@@ -11,11 +11,15 @@ sistēmu.
 Jaunas Elektronisko norēķinu sistēmas pievienošana:
 ```````````````````````````````````````````````````
 
-Lai pievienotu jaunu elektronisko norēķinu sistēmu jānospiež poga un
-tiks atvērts jauns logs:
+Lai pievienotu jaunu elektronisko norēķinu sistēmu jānospiež poga..
+image:: images_ozols/24708.png
+:scale: 100%
+un tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/24581.jpg
+:scale: 100%
 
 
 
@@ -24,6 +28,8 @@ Nepieciešams izvēlēties atbilstošo bankas sistēmu no saraksta:
 
 
 
+.. image:: images_ozols/24584.jpg
+:scale: 100%
 
 
 
@@ -32,6 +38,8 @@ Jānorāda "ceļš" importa un eksporta katalogam:
 
 
 
+.. image:: images_ozols/24583.jpg
+:scale: 100%
 
 
 
@@ -41,6 +49,8 @@ Jānorāda "ceļš" importa un eksporta katalogam:
 Papildiespēju atzīmēšana Elektronisko norēķinu sistēmai:
 ````````````````````````````````````````````````````````
 
+.. image:: images_ozols/24588.jpg
+:scale: 100%
 
 
 Atzīmējot šo izvēles rūtiņu, būs iespējams importēt visus programmā
@@ -50,6 +60,8 @@ atzīmēta pazīme "Eksportēt uz bankas elektronisko norēķinu sistēmu".
 
 
 
+.. image:: images_ozols/24589.jpg
+:scale: 100%
 
 
 Atzīmējot šo izvēles rūtiņu, iespēja no elektronisko norēķinu
@@ -60,6 +72,8 @@ dokumentus.
 
 
 
+.. image:: images_ozols/24590.jpg
+:scale: 100%
 
 
 Atzīmējot šo izvēles rūtiņu, eksportējot bankas izdevumu dokumentus,
@@ -69,7 +83,10 @@ jaunizveidoto failu.
 
 
 Kad visi nepieciešamie lauki ir aizpildīti, lai saglabātu Elektronisko
-norēķinu sistēmu, nepieciešams nospiest pogu .
+norēķinu sistēmu, nepieciešams nospiest pogu .. image::
+images_ozols/24615.jpg
+:scale: 100%
+.
 
 
 
@@ -77,11 +94,20 @@ PievienotāsElektronisko norēķinu sistēmas labošana:
 ```````````````````````````````````````````````````
 
 Lai veiktu labojumus pievienotajā Elektronisko norēķinu sistēmā,
-ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu (ALT+A),
-unatvērtajā logā iespējams veiktnepieciešamos labojumus:
+ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu.. image::
+images_ozols/24709.png
+:scale: 100%
+(ALT+A), unatvērtajā logā iespējams veiktnepieciešamos labojumus:
+
+.. image:: images_ozols/24616.jpg
+:scale: 100%
 
 
-
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
  

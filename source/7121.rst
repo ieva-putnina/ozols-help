@@ -4,6 +4,8 @@
 
 
 
+.. image:: images_ozols/26113.png
+:scale: 100%
 
 
 
@@ -25,12 +27,16 @@ Atlaide: atlaide, ja tāda tiek pielietota.
 Pievienojot papildus kolonnas, iespējams redzēt arī papildus
 informāciju.
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Lai no ieimportētajiem realizācijas čekiem tiktu uzģenerēti pārdošanas
 dokumenti, kuri būs pieejami :doc:`pārdošanas dokumentu žurnālā<204>`
 , jāveic realizācijas dokumentu sagatavošanas funkcija:
 
 
 
+.. image:: images_ozols/26114.png
+:scale: 100%
 
 
 
@@ -41,16 +47,21 @@ no POS:
 
 
 
+.. image:: images_ozols/26115.png
+:scale: 100%
 
 
 
 
 Uzģenerētos pārdošanas dokumentus (kases pavadzīmes) nepieciešams
-atvērt, nospiežot rīku joslā pogu , un jāpievieno pircējs (piem.,
-Klients):
+atvērt, nospiežot rīku joslā pogu .. image:: images_ozols/25603.png
+:scale: 100%
+, un jāpievieno pircējs (piem., Klients):
 
 
 
+.. image:: images_ozols/26116.png
+:scale: 100%
 
 
 

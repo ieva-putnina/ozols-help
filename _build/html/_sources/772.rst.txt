@@ -1,0 +1,37 @@
+.. 772 Rezultējošo kodu pārrēķins****************************** 
+
+
+Rezultējošo kodu pārrēķina rīks dod iespēju lietotājam pārrēķināt algu
+rezultējošos kodus par lietotāja norādītu periodu. Lietotājam uzmanīgi
+jāizvēlas pārrēķināmie algu rezultējošie kodi, jo mainoties datiem,
+kas ir iesniegti atskaitēs, atskaites nepieciešams sagatavot
+atkārtoti.
+
+
+
+|images_ozols/26278.png|
+
+
+
+Uzņēmums - šis lauks ir informatīvs un lietotājs to labot nevar.
+
+Struktūrv. - šajā laukā jānorāda struktūrvienība, ja lietotājs vēlas
+veikt algu rezultējošā koda pārrēķinu vienai struktūrvienībai.
+
+Slodze - šajā laukā jānorāda slodze, ja lietotājs vēlas veikt algu
+rezultējošā koda pārrēķinu vienai slodzei.
+
+Aprēķina periods - jānorāda algu rezultējošā koda pārrēķina periods.
+
+Rezultējošie kodi - jānorāda algu rezultējošais kods, kuram lietotājs
+vēlas veikt pārrēķinu.
+
+
+
+Pēc atbilstošo datu norādes jāspiež poga Turpināt lai veiktu
+pārrēķinu.
+
+.. |images_ozols/26278.png| image:: images_ozols/26278.png
+:scale: 100%
+
+ 

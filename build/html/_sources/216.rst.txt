@@ -9,11 +9,15 @@ kuram dati tiks atlasīti:
 
 
 
+.. image:: images_ozols/26408.png
+:scale: 100%
 
 
 
 
-Nospiežot pogu , tiks atlasīts izvēlētais saraksts.
+Nospiežot pogu .. image:: images_ozols/25944.png
+:scale: 100%
+, tiks atlasīts izvēlētais saraksts.
 
 
 

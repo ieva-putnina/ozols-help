@@ -23,19 +23,31 @@ Jaunu grāmatojuma šablonuiespējams pievienot divos veidos:
 1.No Grāmatojuma ekrāna formas
 ++++++++++++++++++++++++++++++
 
-Katra pirmdokumenta grāmatošanas laikā no grāmatojuma ekrāna formas ar
+Katra pirmdokumenta grāmatošanas laikā no grāmatojuma ekrāna formas
+ar.. image:: images_ozols/25106.png
+:scale: 100%
 komandpogas palīdzību var atvērt grāmatojuma šablonu sarakstu:
 
 
 
+.. image:: images_ozols/25107.png
+:scale: 100%
 
 
 
 
 Tiks atvērts šablonu saraksts tikai grāmatojamā dokumenta tipam. No
-grāmatojumu šablonu saraksta var izveidot jaunu šablonu ( Pievienot),
-atvērt un labot jau izveidotu šablonu ( Atvērt), izveidot jaunu
-šablonu uz esošā šablona bāzes ( Kopēt), kā arī dzēst šablonu (
+grāmatojumu šablonu saraksta var izveidot jaunu šablonu (.. image::
+images_ozols/24933.png
+:scale: 100%
+Pievienot), atvērt un labot jau izveidotu šablonu (.. image::
+images_ozols/24932.png
+:scale: 100%
+Atvērt), izveidot jaunu šablonu uz esošā šablona bāzes (.. image::
+images_ozols/24940.png
+:scale: 100%
+Kopēt), kā arī dzēst šablonu (.. image:: images_ozols/24941.png
+:scale: 100%
 Dzēst).
 
 Lai veidotu jaunu šablonu, jāizmanto komanda Pievienot. Komandas
@@ -46,11 +58,15 @@ peles labās pogas palīdzību.
 2.Grāmatojumu šablonu sarakstā pievienojot jaunu ierakstu
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Lai pievienotu jaunu Grāmatojumu šablonu, rīku joslājānospiež poga un
-tiks atvērts jauns logs:
+Lai pievienotu jaunu Grāmatojumu šablonu, rīku joslājānospiež poga..
+image:: images_ozols/24708.png
+:scale: 100%
+un tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/25108.png
+:scale: 100%
 
 
 
@@ -64,10 +80,14 @@ grāmatojumu šaboni:
 
 
 
+.. image:: images_ozols/25109.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Katrs grāmatojuma šablons tiek sagatavots konkrētam darba režīmam,
 tāpēc ir svarīgi norādīt, kāda dokumenta grāmatošanai tas tiek
 veidots. Atkarībā no darba režīma, grāmatojuma šablonā tiek parādītas
@@ -86,27 +106,37 @@ nekļūdīgi identificēt starp citiem grāmatojumu šabloniem:
 
 
 
+.. image:: images_ozols/25110.png
+:scale: 100%
 
 
 
 
 3. Nepieciešams pievienot grāmatojuma šablona satura rindu nosacījumus
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Šablonā var pievienot neierobežotu skaitu ierakstu - kontējumu.
 Grāmatojuma šablona satura rindas ierakstā jānorāda šablona ieraksta
 veids, konts, var noteikt izmantojamo finanšu kategoriju (ekonomisko
 kodu), struktūrvienību, projektu, nozari, partneri.
 
 Lai aizpildītu Grāmatojuma šablona Saturu, dokumenta satura daļā
-nepieciešams nospiest un tiks atvērts operācijas satura logs, kurā
-nepieciešamsnorādīt satura ierakstu nosacījumus:
+nepieciešams nospiest .. image:: images_ozols/24708.png
+:scale: 100%
+un tiks atvērts operācijas satura logs, kurā nepieciešamsnorādīt
+satura ierakstu nosacījumus:
+
+
+
+.. image:: images_ozols/25112.png
+:scale: 100%
 
 
 
 
-
-
-
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Grāmatojuma šablonā iespējas izvēlēties Kategoriju (Ek.kods),
 Struktūrvienību, Projektu, Nozari (VFK), Budžetuun Partneri ierobežo
 izmantojamo :doc:`Dimensiju konfigurācija<701>` un konta apraksts
@@ -129,7 +159,11 @@ piemēram 1D (pirmā rinda, debets) un 1K (pirmā rinda, kredīts).
 
 Kad visi nepieciešamie lauki ir grāmatojuma šablona saturā aizpildīti,
 lai saglābātu Grāmatojuma šablona satura ierakstu, nepieciešams
-nospiest pogu . Nospiežot pogu , satura ieraksts saglabāts netiks.
+nospiest pogu .. image:: images_ozols/24615.jpg
+:scale: 100%
+. Nospiežot pogu .. image:: images_ozols/24617.jpg
+:scale: 100%
+, satura ieraksts saglabāts netiks.
 
 
 
@@ -138,16 +172,24 @@ Grāmatojuma šablonasatura ierakstu labošana
 +++++++++++++++++++++++++++++++++++++++++++
 
 Lai veiktu labojumus,satura ierakstunepieciešams atvērt, izmantojot
-rīku joslas pogu (ALT+A), unatvērtajāierakstā iespējams
-veiktnepieciešamos labojumus:
+rīku joslas pogu.. image:: images_ozols/24709.png
+:scale: 100%
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+
+
+
+.. image:: images_ozols/25115.png
+:scale: 100%
 
 
 
 
-
-
-
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
 
 

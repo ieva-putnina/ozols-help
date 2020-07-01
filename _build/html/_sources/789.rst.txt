@@ -1,0 +1,87 @@
+.. 789 Iesniegumu veidi******************** 
+
+
+Sarakstā tiek saglabāti Iesniegumu veidi, kas tiek izmantoti
+:doc:`Iesnieguma dokumenta<791>` aizpildīšanai.
+
+Lai pievienotu jaunu iesnieguma veidu, rīku joslā jānospiež poga
+|images_ozols/25605.png| (Alt+P) un jāaizpilda nepieciešamā
+informācija:
+
+
+
+|images_ozols/26076.png|
+
+
+
+Algu rīkoj.veids: No saraksta nepieciešams izvēlēties atbilstošo
+:doc:`Algu rīkojumu veidu<277>` , lai norādītu, kāda veida Iesniegums
+tiks sagatavots (Piemēram, Iesnieguma veids"Ikgadējais atvaļinājums" -
+Rīkojuma par ikgadējo atvaļinājumu sagatavošanai):
+
+
+
+|images_ozols/26081.png|
+
+
+
+Nosaukums: Brīvā formā ievadīts iesnieguma veida nosaukums;
+
+Sagatave: Brīvā formā ievadīts sagataves teksts, kas tiks attēlots
+Iesnieguma dokumentā.
+
+
+
+|images_ozols/26077.png| - izvēles rūtiņa jāatzīmē, japievienotajam
+Iesnieguma veidam tiks definēts notikuma beigu datums;
+
+|images_ozols/26079.png| - izvēles rūtiņa jāatzīmē, ja pievienotajam
+Iesnieguma veidam tiks definēts laika periods - no...līdz;
+
+
+
+Atzīmējot kādu no iepriekš minētajām izvēles rūtiņām, tiks piedāvāts
+definēt Iesnieguma rezultātā izveidotā Notikuma krāsas attēlojumu
+:doc:`Notikumu kalendārā<893>` :
+
+
+
+|images_ozols/26080.png|
+
+
+
+Standarta - atzīmējot šo izvēli, iesnieguma rezultātā izveidotais
+notikums :doc:`Notikumu kalendārā<893>` tiks attēlots standarta
+norādītajā krāsā
+
+Krāsa - atzīmējot šo izvēli, iesnieguma rezultātā izveidotais notikums
+:doc:`Notikumu kalendārā<893>` tiks attēlots lietotāja norādītajā
+krāsā.
+
+
+
+
+Ieraksts tiks saglabāts, izpildot komandu |images_ozols/24710.png| .
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+:scale: 100%
+
+.. |images_ozols/26076.png| image:: images_ozols/26076.png
+:scale: 100%
+
+.. |images_ozols/26081.png| image:: images_ozols/26081.png
+:scale: 100%
+
+.. |images_ozols/26077.png| image:: images_ozols/26077.png
+:scale: 100%
+
+.. |images_ozols/26079.png| image:: images_ozols/26079.png
+:scale: 100%
+
+.. |images_ozols/26080.png| image:: images_ozols/26080.png
+:scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+:scale: 100%
+
+ 

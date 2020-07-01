@@ -1,0 +1,26 @@
+.. 14011 Pieņemtie apzīmējumi************************ 
+
+
+Tālākajā tekstā izvēlnes komandas atzīmētas izmantojot > simbolu.
+Piemēram, izvēlnes komanda
+
+
+
+|images_ozols/25305.png|
+
+
+
+tiks apzīmēta kā
+
+
+
+>Dati > Drukāt
+
+
+
+vai atsevišķos gadījumos uzreiz tekstā: >Dati > Drukāt.
+
+.. |images_ozols/25305.png| image:: images_ozols/25305.png
+:scale: 100%
+
+ 

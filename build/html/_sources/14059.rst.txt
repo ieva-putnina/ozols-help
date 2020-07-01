@@ -7,6 +7,8 @@ noklusēto vērtību:
 
 
 
+.. image:: images_ozols/25127.png
+:scale: 100%
 
 
 

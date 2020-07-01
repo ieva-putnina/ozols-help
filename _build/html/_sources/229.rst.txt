@@ -1,0 +1,32 @@
+.. 229 Norēķinu dzēšanas akti************************** 
+
+Norēķinu dzēšanas aktu dokumentu žurnālā saraksta veidātiek saglabāti
+izveidotie :doc:`Norēķina dzēšanas akti<358>` .
+
+
+
+Lai atlasītu dokumentus Norēķinu dzēšanas aktu dokumentu žurnālā,
+jāizmanto datu atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši
+norādītajiem datu atlases kritērijiem filtra ekrāna formā. Filtru var
+uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot
+nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus.
+
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves.
+
+Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
+kritērijiem,pēc filtra iestādījumu aizpildīšanas,jānospiež poga
+|images_ozols/25944.png| .
+
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+:scale: 100%
+
+.. |images_ozols/25944.png| image:: images_ozols/25944.png
+:scale: 100%
+
+ 

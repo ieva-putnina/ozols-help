@@ -6,6 +6,8 @@ Atskaiti var sagatavot noteiktam aprēķina periodam, atsevišķai
 struktūrvienībai, finansējumam, atlasot datus par amatiem, slodzes
 veidiem, personāla kategorijām. Datus var filtrēt pēc dzīvesvietas
 koda un sociālā nodokļa aprēķina metodes.
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Kad ir veikts algu aprēķins un summas nosūtītas uz izmaksu sarakstiem,
 sagatavojot šo atskati, iespējams pārbaudīt vaiaprēķinātā alga no
 visiem aprēķiniem nosūtīta uz izmaksu sarakstiem.Ja atskaite neuzrāda
@@ -16,6 +18,8 @@ uz izmaksu sarakstiem.
 
 
 
+.. image:: images_ozols/26555.png
+:scale: 100%
 
 
 

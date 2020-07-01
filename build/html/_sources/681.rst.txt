@@ -8,12 +8,18 @@ saglabāti visi sistēmā izveidotie algu grāmatojumu pirmdokumenti.
 
 Algugrāmatojuma pirmdokumentapievienošana
 +++++++++++++++++++++++++++++++++++++++++
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Instrukcija par automatizētu nodokļu dokumentu ielādi no EDS sistēmas
 pieejama :doc:`šeit`!
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Pirms algu grāmatojuma pirmdokumenta veidošanas, jābūt veiktiem algu
 aprēķiniem tekošajā periodā!
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Pirms algu grāmatojuma pirmdokumenta veidošanas, algu rezultējošiem
 kodiem - ABruto, IIN, Soc_dn, Soc_dd un Riska_nod - :doc:`jābūt
 piesaistītiem DB un CR grāmatvediskajiem kontiem!<14109>`
@@ -21,10 +27,14 @@ piesaistītiem DB un CR grāmatvediskajiem kontiem!<14109>`
 
 
 Jauns algugrāmatojumu pirmdokumentstiek pievienots,rīku joslānospiežot
-pogu :
+pogu.. image:: images_ozols/24708.png
+:scale: 100%
+:
 
 
 
+.. image:: images_ozols/26140.png
+:scale: 100%
 
 
 
@@ -42,7 +52,10 @@ Alga par oktobri)
 
 Pēd dokumenta virsraksta aizpildīšanas, nepieciešams aizpildīt
 dokumenta saturu no algu aprēķina rezultātiem, izmantojot Algu
-grāmatojuma pirmdokumenta ekrāna formā pieejamo pogu:
+grāmatojuma pirmdokumenta ekrāna formā pieejamo pogu: .. image::
+images_ozols/26131.png
+:scale: 100%
+
 
 
 
@@ -51,6 +64,8 @@ atzīmēt datu atlases kritērijus:
 
 
 
+.. image:: images_ozols/26141.png
+:scale: 100%
 
 
 
@@ -69,11 +84,15 @@ ietvaros).
 
 
 
-Datu atlases filtrā nospiežot pogu , tiks sagatavots Algu grāmatojumu
-pirmdokuments pēc filtrā norādītajiem atlases kritēriejiem:
+Datu atlases filtrā nospiežot pogu .. image:: images_ozols/25619.png
+:scale: 100%
+, tiks sagatavots Algu grāmatojumu pirmdokuments pēc filtrā
+norādītajiem atlases kritēriejiem:
 
 
 
+.. image:: images_ozols/26142.png
+:scale: 100%
 
 
 
@@ -81,12 +100,16 @@ pirmdokuments pēc filtrā norādītajiem atlases kritēriejiem:
 Kad dokumenta saturs ir aizpildītsi, Algu grāmatojuma pirmdokuments ir
 sagatavots un to ir iespējams:
 
-1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
+1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
+:scale: 100%
+-dokuments tiks saglabāts un būs pieejams
 apskatei/labošanai/grāmatošanai :doc:`Algu grāmatojumu pirmdokumentu
 žurnālā<681>` .
 
-2. Apstiprināt, nospiežot rīku joslā pogu - dokuments tiks
-Apstiprināts un to būs iespējams Grāmatot.
+2. Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+:scale: 100%
+- dokuments tiks Apstiprināts un to būs iespējams Grāmatot.
 
 
 Algu grāmatojumu pirmdokumentagrāmatošana
@@ -96,13 +119,17 @@ Algu grāmatojumu pirmdokumentuiespējams grāmatot no atvērta dokumenta
 vai izvēloties (iezīmējot)dokumentu :doc:`Algu grāmatojumu
 pirmdokumentu žurnālā<681>` .
 
-Dokumentuiespējams grāmatot, nospiežot rīku joslā pogu - tiks atvērts
-Algu pirmdokumenta grāmatojums, kas sagatavots balstoties uz Algu
-pirmdokumenta grāmtojuma šablona (informācija tiešā veidā no
-pirmdokument tiek pārnesta uz grāmatojumu):
+Dokumentuiespējams grāmatot, nospiežot rīku joslā pogu .. image::
+images_ozols/24741.png
+:scale: 100%
+- tiks atvērts Algu pirmdokumenta grāmatojums, kas sagatavots
+balstoties uz Algu pirmdokumenta grāmtojuma šablona (informācija tiešā
+veidā no pirmdokument tiek pārnesta uz grāmatojumu):
 
 
 
+.. image:: images_ozols/26143.png
+:scale: 100%
 
 
 

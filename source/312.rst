@@ -4,11 +4,15 @@
 Jauna Partnera pievienošana ir iespējama caur Partneru sadaļu
 :doc:`Jauns Partneris<312>` un :doc:`Partneru sarakstu<112>` .
 
-Lai pievienotu jaunu Partneri, rīku joslā jānospiež poga , tiek
-atvērts partnera datu logs:
+Lai pievienotu jaunu Partneri, rīku joslā jānospiež poga .. image::
+images_ozols/25605.png
+:scale: 100%
+, tiek atvērts partnera datu logs:
 
 
 
+.. image:: images_ozols/25704.png
+:scale: 100%
 
 
 
@@ -37,6 +41,8 @@ caur [Atvērt kontaktpersonas aprakstu]:
 
 
 
+.. image:: images_ozols/25721.png
+:scale: 100%
 
 
 
@@ -45,6 +51,8 @@ Arī :doc:`adreses <192>` ir iespējams norādīt vairākas:
 
 
 
+.. image:: images_ozols/25712.png
+:scale: 100%
 
 
 
@@ -53,10 +61,14 @@ Juridiska persona:
 
 
 
+.. image:: images_ozols/25722.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Juridiskai personai, aizpildot reģistrācijas numuru, pirms numura nav
 jāraksta valsts kods (piem., LV).
 
@@ -66,10 +78,14 @@ jāraksta valsts kods (piem., LV).
 persona, atbildīgā vai norēķinu avansu ir Partneris P arī>
 
 
+.. image:: images_ozols/25645.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Partneris un :doc:`strādājošais<111>` partneru sarakstā ir jāpievieno
 tikai vienu reizi.
 
@@ -77,31 +93,44 @@ tikai vienu reizi.
 
 Ja partneris ir arī strādājošais, tad sadaļā Personāls var pievienot
 personāla uzskaitei nepieciešamo informāciju. Lai izveidotu un drukātu
-personas kartīti, jāaizpilda un strādājošā apraksta sadaļa Personāls.
+personas kartīti, jāaizpilda.. image:: images_ozols/25706.png
+:scale: 100%
+un strādājošā apraksta sadaļa Personāls.
 
-Caur pogu tiek pievienoti partnera banku konti. Ja ar programmu tiek
-vesta uzskaite vairākiem uzņēmumiem, tad strādājošā banku kontiem tiek
+Caur pogu .. image:: images_ozols/25707.png
+:scale: 100%
+tiek pievienoti partnera banku konti. Ja ar programmu tiek vesta
+uzskaite vairākiem uzņēmumiem, tad strādājošā banku kontiem tiek
 norādīti uzņēmumi uz kuru konkrētais strādājošā bankas konts attiecas.
 Šie uz uzņēmumu norādītie bankas konti citu uzņēmumu programmas
 lietotājiem nebūs pieejami.
 
-Caur pogu ir redzams partnera pievienoto :doc:`kontaktpersonu
-saraksts<189>` , un rīku joslā ar pogu tiek pievienota jauna
-kontaktpersona.
+Caur pogu.. image:: images_ozols/25724.png
+:scale: 100%
+ir redzams partnera pievienoto :doc:`kontaktpersonu saraksts<189>` ,
+un rīku joslā ar pogu .. image:: images_ozols/25605.png
+:scale: 100%
+tiek pievienota jauna kontaktpersona.
 
 
 
-Caur pogu ir redzams partnera :doc:`adrešu saraksts,<192>` un ar pogu
-rīku joslā tiek pievienotas adreses. Ja ar programmu tiek vesta
-uzskaite vairākiem uzņēmumiem, tad strādājošā adresēm tiek norādīti
-uzņēmumi uz kuru konkrētā strādājošā adrese attiecas. Šīs uz uzņēmumu
-norādītās adreses citu uzņēmumu programmas lietotājiem nebūs
-pieejamas.
+Caur pogu.. image:: images_ozols/25708.png
+:scale: 100%
+ir redzams partnera :doc:`adrešu saraksts,<192>` un ar pogu rīku joslā
+.. image:: images_ozols/25605.png
+:scale: 100%
+tiek pievienotas adreses. Ja ar programmu tiek vesta uzskaite
+vairākiem uzņēmumiem, tad strādājošā adresēm tiek norādīti uzņēmumi uz
+kuru konkrētā strādājošā adrese attiecas. Šīs uz uzņēmumu norādītās
+adreses citu uzņēmumu programmas lietotājiem nebūs pieejamas.
 
 
 
-Caur pogu un tad pogu rīku joslā tiek pievienotas :doc:`maksājumu
-kartes<651>` .
+Caur pogu.. image:: images_ozols/25716.png
+:scale: 100%
+un tad pogu rīku joslā .. image:: images_ozols/25605.png
+:scale: 100%
+tiek pievienotas :doc:`maksājumu kartes<651>` .
 
 
 
@@ -113,6 +142,8 @@ kartītes datu pievienošanai:
 
 
 
+.. image:: images_ozols/25725.png
+:scale: 100%
 
 
 
@@ -128,6 +159,8 @@ Sadaļā Pārējie dati :
 
 
 
+.. image:: images_ozols/25726.png
+:scale: 100%
 
 
 
@@ -150,6 +183,8 @@ Sadaļā Citi:
 
 
 
+.. image:: images_ozols/25728.png
+:scale: 100%
 
 
 
@@ -158,6 +193,8 @@ Ja partneris ir Piegādātājs, Pircējs vai Avansu personas grupā:
 
 
 
+.. image:: images_ozols/25662.png
+:scale: 100%
 
 
 Tad attiecīgi katrai partnera grupai tiek piesaistīts grāmatvediskais
@@ -167,6 +204,8 @@ individuālu - Piegādātāja, Pircēja un Av.pers. grāmatvedisko kontu no
 kontu plāna.
 
 Ja visi dati par Partneri aizpildīti, tad tie jāsaglabā, nospiežot
-pogu .
+pogu .. image:: images_ozols/25621.png
+:scale: 100%
+.
 
  

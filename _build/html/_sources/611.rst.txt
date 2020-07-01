@@ -1,0 +1,130 @@
+.. 611 Algu lapiņas**************** 
+
+
+Atskaiti - algu lapiņas, iespējams sagatavot par kārtējo periodu, pēc
+algu aprēķinu veikšanas, lai strādājošiem būtu iespējams piegādāt algu
+lapiņas, tās izdrukājot un izsniedzot papīra formātā vai nosūtot
+elektroniski uz strādājošā partnera kartiņas aprakstā norādīto
+e-pastu.
+
+
+
+
+Algu lapiņu izsūtīšana pa e-pastu kalpo ērtākai un ātrākai lapiņu
+nogādāšanai strādājošajiem elektroniskā formātā.
+
+
+Algu lapiņu sagatavošana sūtīšanaipa e-pastu
+````````````````````````````````````````````
+
+Algu lapiņas tiek sagatavotas atskaites veidā, norādot atbilstošos
+filtra atlases kritērijus, lai algu lapiņas tiktu sagatavotas viena
+perioda un struktūrvienības ietvaros, vai arī visa uzņēmuma ietvaros.
+
+
+
+Priekšnosacījumi sekmīgai rēķinu nosūtīšanai elektroniskā formātā pa
+e-pastu
+```````
+
+1. Pirms algu lapiņu izsūtīšanas:doc:`<304>` ,:doc:`partneru
+kartiņā<312>` jābūt norādītam partnera e-pastam:
+
+
+
+
+|images_ozols/26527.png|
+
+
+
+
+un iezīmētam ķeksītim:
+
+
+
+
+|images_ozols/26528.png|
+
+
+Algu lapiņu sūtīšanapa e-pastu
+``````````````````````````````
+
+Lai nosūtītu algu lapiņas pa e-pastu, datus atskaites veidā
+iespējamsatlasīt pēc nepieciešamajiem filtra kritērijiem:
+
+
+
+
+|images_ozols/26529.png|
+
+
+
+
+**Uzņēmums:** ja datu bāzē tiek uzskaitīti dati vairākiem uzņēmumiem,
+iespēja atlasīt datus konkrētajam uzņēmumam
+
+**Struktūrv.:** iespēja norādīt konkrētu struktūrvienību, kuras
+strādājošajiem algu lapiņas tiks sagatavotas
+
+**Aprēķina periods: **nepieciešams norādīt aprēķina periodu, par kuru
+atskaite tiks sagatavota
+
+**Slodze:** iespēja sagatavot atskaiti tikai vienai slodzei
+
+**Rādīt tikai strādājošos, kuriem ir norādīta lapiņas saņemšanas
+e-pasta adrese:** atzīmējot šo filtra atlases kritēriju, atskaitē dati
+tiks sagatavoti tikai par tiem strādājošajiem, kuriem partnera
+aprakstā norādīta e-pasta adrese algu lapiņas saņemšanai
+
+**Nedalīt kodus pa finansējumiem: **iespēja atzīmēm filtra atlases
+kritēriju, ja uzskaitei tiek izmantotas vairākas dimensijas un lai
+algu lapiņā dati netiktu dalīti pa finansējumiem
+
+
+
+
+Pēc atskaites sagatavošanas, atlasītos datus - algu lapiņas iespējams
+nosūtīt strādājošajiem, izpildot rīku joslā pieejamo Funkciju:
+
+
+
+
+|images_ozols/26530.png|
+
+
+
+
+Pēc funkcijas izpildes, tiks parādīts paziņojums ar informāciju par
+izsūtīšanai sagatavotajām algu lapiņām:
+
+
+
+
+|images_ozols/26531.png|
+
+
+
+
+
+Ieraksti par izsūtītajām algu lapiņām tiek saglabāti Pasta modulī
+:doc:`nosūtīto vēstuļu žurnālā<298>` .
+
+
+
+
+.. |images_ozols/26527.png| image:: images_ozols/26527.png
+:scale: 100%
+
+.. |images_ozols/26528.png| image:: images_ozols/26528.png
+:scale: 100%
+
+.. |images_ozols/26529.png| image:: images_ozols/26529.png
+:scale: 100%
+
+.. |images_ozols/26530.png| image:: images_ozols/26530.png
+:scale: 100%
+
+.. |images_ozols/26531.png| image:: images_ozols/26531.png
+:scale: 100%
+
+ 

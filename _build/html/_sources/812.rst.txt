@@ -1,0 +1,79 @@
+.. 812 Pamatlīdzekļu derīgās lietošanas termiņa maiņas dokuments************************************************************* 
+Darbības ar pamatlīdzekļiem (piem., derīgās lietošanas termiņu maiņa),
+kura rezultātā pagarinās vai samazinās derīgās lietošanas termiņš un
+tiek mainīts paredzamais pamatlīzdekļa kalpošanas laiks, jāreģistrē
+Pamatlīdzekļu derīgās lietošanas termiņa maiņas dokumentā. Dokuments
+pēc saglabāšanas ir pieejams :doc:`Pamatlīdzekļu dokumentu<233>`
+žurnālā.
+
+|images_ozols/24545.gif| Pirms pamatlīdzekļu derīgās lietošanas
+termiņa maiņas, jāpārliecinās vai visiem pamatlīdzekļiem, kuriem tiks
+mainīts derīgās lietošanas termiņš, ir aprēķināts nolietojums.
+
+|images_ozols/24545.gif| Ja tika izveidots :doc:`Pamatlīzdekļu
+papildināšanas dokuments<817>` šim pamatlīdzeklim, un tur tika mainīts
+derīgās lietošanas termiņš, tad šis (Pamatlīdzekļu derīgās lietošanas
+termiņa maiņas dokuments) nav jāveido.
+
+
+
+|images_ozols/25490.png|
+
+
+
+Pamatlīdzeklis: jāizvēlas pamatlīdzeklis, kuram tiks mainīts derīgās
+lietošanas termiņš;
+
+Dokumentam: automatizēti, izvēloties pamatlīdzekli, tiek parādīti
+visi, ar pamatlīdzekli saistītie dokumenti. Jāizvēlas dokuments,
+saistībā ar kuru tiek mainīts derīgās lietošanas termiņš.
+
+|images_ozols/25491.png| iespējams apskatīt pamatlīdzekļa aprakstu un
+dokumentu saturus, kuri saistīti ar pamatlīdzekli;
+
+Iepriekšējais derīgās lietošanas laiks
+
+Stājies ekspluatācijā: iepriekšējais derīgās lietošanas laiks, datums,
+kad pamatlīdzeklis stājies ekspluatācijā;
+
+mēn.: iepriekšējais derīgās lietošanas termiņš mēnešos;
+
+Der.liet.beig.dat.: iepriekšējā derīgās lietošanas termiņa beigu
+datums;
+
+Jaunais derīgās lietošanas laiks
+
+Stājies ekspl.: datums, kad pamatlīdzeklis stājies ekspluatācijā;
+
+mēn.: jaunais derīgās lietošanas termiņš mēnešos;
+
+Der.liet.beig.dat.: jaunais derīgās lietošanas termiņa beigu datums;
+
+|images_ozols/25492.png|
+
+|images_ozols/25496.png| ja pamatlīdzeklis sastāv no vairākām
+atsevišķām daļām, tad iespējams arī pārējām daļām mainīt derīgās
+lietošanas termiņu.
+
+Attiecīgās izmaiņas jāsaglabā, nospiežot pogu Saglabāt. Nospiežot pogu
+Atcelt, visas izmaiņas tiek atceltas.
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/25490.png| image:: images_ozols/25490.png
+:scale: 100%
+
+.. |images_ozols/25491.png| image:: images_ozols/25491.png
+:scale: 100%
+
+.. |images_ozols/25492.png| image:: images_ozols/25492.png
+:scale: 100%
+
+.. |images_ozols/25496.png| image:: images_ozols/25496.png
+:scale: 100%
+
+ 

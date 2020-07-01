@@ -1,0 +1,7 @@
+.. 614 Sistēmas kodi***************** 
+
+
+Sistēmas algoritmā iebūvētie kodi, kas izmantoti Algu
+:doc:`Rezultējošo kodu konfigurācijā.<283>`
+
+ 

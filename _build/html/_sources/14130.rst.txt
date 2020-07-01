@@ -1,0 +1,152 @@
+.. 14130 Atvaļinājuma naudas aprēķins nākamajiem periodiem/papildperiodiem********************************************************************* 
+
+Atvaļinājuma naudas aprēķins,kur atvaļinājuma periods iesniedzas
+vairākos aprēķina periodos
+++++++++++++++++++++++++++
+
+Lai aprēķinātu atvaļinājuma naudu strādājošajam, kuram atvaļinājums
+iesniedzas nākamajā periodā(-os), līdzīgi tāpat, kā tas ir standarta
+:doc:`Atvaļinājuma naudas aprēķina<14128>` gadījumā, nepieciešams
+izveidot atbilstošu :doc:`Rīkojumu dokumentu<409>` par Ikgadējo
+atvaļinājumu(>Dokumenti > Personāla uzskaite > :doc:`Rīkojumu
+žurnāls<209>` ):
+
+
+
+|images_ozols/26362.png|
+
+
+
+Apstiprinot rīkojumu par atvaļinājumu, tiek saskaitītas atvaļinājuma
+dienas un pievienotas slodzes kalendāram.
+
+
+
+|images_ozols/24545.gif| Lai rīkojumu dokumenti piedalītos algu
+aprēķinos, tie obligāti jāapstiprina.
+
+
+
+2. Aprēķinot algu strādājošajam (>Dokumenti > Alga > :doc:`Algu
+aprēķinu žurnāls<212>` ), jāaizpilda ieejošie dati no slodzes
+kalendāra:
+
+
+
+|images_ozols/26363.png|
+
+
+
+Algu aprēķinā - teikošajā periodā,tiksielādētas atbilstoši
+kalendāramesošās atvaļinājuma dienas un aprēķinātā vidējā dienas
+izpeļņa. Tāpat arī tekošajā algu aprēķinā tiksautomātiski pievienots
+papildus periods un ielādētas atbilstoši slodzes kalendāram
+aprēķinātās atvaļinājuma dienas par nākamo periodu. Atbilstoši
+izveidotajām algu aprēķina formulām tiks aprēķināta atvaļinājuma
+naudas summa - gan par tekošo, gan nākamo periodu:
+
+
+
+|images_ozols/26364.png|
+
+
+
+:ai tekošajā aprēķina periodā redzētu izmaksājamās aprēķinātās
+atvaļinājuma naudas kopsummas un lai nosūtītu aprēķinātās summas uz
+izmaksu sarakstu, nepieciešams izvēlēties tekošo algu aprēķina periodu
+unalgu aprēķina kartiņā nepieciešams atzīmēt izvēles rūtiņu: "Rādīt
+visus periodus", kā rezultātā algu aprēķina kartiņas rezultējošo kodu
+pusē tiks uzrādītas aprēķinātās un ieturamās summas arī par nākamo
+periodu (aiz aprēķinātās summas iekavās tiks norādīts periods, par
+kuru šī izmaksa tiks veikta):
+
+
+
+|images_ozols/26365.png|
+
+
+
+Atvaļinājuma naudas aprēķins par nākamo periodu
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Ja atvaļinājuma nauda jāaprēķina par nākamajiem periodiem, tad:
+
+
+
+1.Balstoties pēc principa, kā tas aprakstīts
+standarta:doc:`Atvaļinājuma naudas aprēķina<14128>` gadījumā,
+nepieciešams izveidot atbilstošu :doc:`Rīkojumu dokumentu<409>` par
+Ikgadējo atvaļinājumu(>Dokumenti > Personāla uzskaite > :doc:`Rīkojumu
+žurnāls<209>` )
+
+2. Lai aprēķinātu atvaļinājuma naudu nākamajam periodam,no tekošā
+perioda algu aprēķina nepieciešams veidot papildus periodus:
+
+
++ Atverot algu aprēķinu, no izvēlnes nepieciešams pievienot papildus
+  periodu:
+
+
+|images_ozols/26366.png|
+
+
++ Pievienojot papildperiodu-> Izvēloties nākamo periodu -> Saglabājot
+  ierakstu ->Tekošā perioda algu aprēķina kartiņā tiek pievienots
+  papildus periods, kuru iespējams izvēlēties, lai veiktu aprēķinus un
+  ielādētu datus no slodzes kalendāra - rīkojumu par ikgadējo
+  atvaļinājumu, atvaļinājuma naudas aprēķinam:
+
+
+|images_ozols/26367.png|
+
+
+
+
+
+3. Lai tekošajā aprēķina periodā redzētu par nākamo mēnesi aprēķināto
+atvaļinājumanaudu un lai nosūtītu aprēķinātās summas uz izmaksu
+sarakstu, nepieciešams izvēlēties tekošo algu aprēķina periodu unalgu
+aprēķina kartiņā nepieciešams atzīmēt izvēles rūtiņu: "Rādīt visus
+periodus", kā rezultātā algu aprēķina kartiņas rezultējošo kodu pusē
+tiks uzrādītas aprēķinātās un ieturamās summas arī par nākamo periodu
+(aiz aprēķinātās summas iekavās tiks norādīts periods, par kuru šī
+izmaksa tiks veikta):
+
+
+
+|images_ozols/26368.png|
+
+
+
+Aprēķināto rezultātu pusē tiks parādīti abu periodu aprēķini, kā
+rezultātā summas būs iespējams nosūtīt uz izmaksu sarakstu.
+
+
+
+
+
+.. |images_ozols/26362.png| image:: images_ozols/26362.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/26363.png| image:: images_ozols/26363.png
+:scale: 100%
+
+.. |images_ozols/26364.png| image:: images_ozols/26364.png
+:scale: 100%
+
+.. |images_ozols/26365.png| image:: images_ozols/26365.png
+:scale: 100%
+
+.. |images_ozols/26366.png| image:: images_ozols/26366.png
+:scale: 100%
+
+.. |images_ozols/26367.png| image:: images_ozols/26367.png
+:scale: 100%
+
+.. |images_ozols/26368.png| image:: images_ozols/26368.png
+:scale: 100%
+
+ 

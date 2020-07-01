@@ -1,0 +1,706 @@
+
+
+
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>Norēķini</title>
+    
+      <link rel="stylesheet" href="_static/pygments.css">
+      <link rel="stylesheet" href="_static/theme.css">
+      <link rel="stylesheet" href="_static/sphinx_press_theme.css">
+          <link rel="stylesheet" href="_static/page_nav.css" type="text/css" />
+          <link rel="stylesheet" href="_static/jquery.fancybox.min.css" type="text/css" />
+          <link rel="stylesheet" href="_static/sphinx_press_theme.css" type="text/css" />
+      
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+      <!-- sphinx script_files -->
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+        <script src="_static/jquery.fancybox.min.js"></script>
+
+      
+      <script src="_static/theme-vendors.js"></script>
+      <script src="_static/theme.js" defer></script>
+    
+  <link rel="index" title="Index" href="genindex.html" />
+  <link rel="search" title="Search" href="search.html" />
+  <link rel="next" title="Atskaites" href="56.html" />
+  <link rel="prev" title="Veids" href="6712.html" /> 
+  </head>
+
+  <body>
+    <div id="app" class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+  <router-link to="index.html" class="home-link">
+    
+      <span class="site-name">Sistēmas LĀCIS dokumentācija</span>
+    
+  </router-link>
+
+  <div class="links">
+    <navlinks class="can-hide">
+
+
+
+    </navlinks>
+  </div>
+</navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="index.html#ozols-palidzibas-sistema">ozols palīdzības sistēma</a></span>
+      </p>
+      <ul class="current">
+        
+          <li class="toctree-l1 "><a href="7603.html" class="reference internal ">Paziņojumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="600.html" class="reference internal ">Sākums</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="14000.html" class="reference internal ">Sistēmas lietošanas instrukcija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="18.html" class="reference internal ">Mani darbi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="39.html" class="reference internal ">Alga</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4000.html" class="reference internal ">Apdrošināšanas polises</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4800.html" class="reference internal ">Autoinfo</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="40.html" class="reference internal ">Avansi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="48.html" class="reference internal ">Budžeta izpilde</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6600.html" class="reference internal ">Budžeta plānošana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7700.html" class="reference internal ">Caurlaides</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="26.html" class="reference internal ">CRM (Partneri)</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="50.html" class="reference internal ">Datu apmaiņa ar banku</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7400.html" class="reference internal ">Degvielas tirdzniecība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7000.html" class="reference internal ">Dividendes</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7900.html" class="reference internal ">Ēdināšana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="41.html" class="reference internal ">Finanses</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4900.html" class="reference internal ">iVeikals</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="42.html" class="reference internal ">Krājumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7600.html" class="reference internal ">Kravu pārvadājumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4100.html" class="reference internal ">LaMSF</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6800.html" class="reference internal ">Līgumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4500.html" class="reference internal ">Maksājumu uzskaite</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7100.html" class="reference internal ">Mazumtirdzniecība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="43.html" class="reference internal ">Noliktava</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6770.html" class="reference internal ">Noma</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6700.html" class="reference internal ">Noma transportam</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 current"><a href="#" class="reference internal current">Norēķini</a>
+
+            
+              <ul>
+                
+                  <li class="toctree-l2"><a href="#norekinu-programma-nodrosina" class="reference internal">Norēķinu programma nodrošina:</a></li>
+                
+              </ul>
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="45.html" class="reference internal ">Pamatlīdzekļi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="34.html" class="reference internal ">Pasts</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7200.html" class="reference internal ">Personāla pašapkalpošanās</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="47.html" class="reference internal ">Personāla vadība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6500.html" class="reference internal ">Polises</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="46.html" class="reference internal ">Projektu kalkulācija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4200.html" class="reference internal ">Regresi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4300.html" class="reference internal ">TKU</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="49.html" class="reference internal ">Virsgrāmata</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4700.html" class="reference internal ">wap OZOLS</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="38.html" class="reference internal ">Citi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5226.html" class="reference internal ">Darbinieku portāls</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6901.html" class="reference internal ">Degvielas pasūtījumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5026.html" class="reference internal ">Iestādījumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4444.html" class="reference internal ">Klientu portāls</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="12.html" class="reference internal ">Konfigurācija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="1.html" class="reference internal ">Kopējie saraksti</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7301.html" class="reference internal ">Mākslinieciskā darba plānošana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5295.html" class="reference internal ">Meklēšanas rezultāti</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6734.html" class="reference internal ">Noma</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="31.html" class="reference internal ">Pievienot</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4461.html" class="reference internal ">Pievienot notikumu</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="10.html" class="reference internal ">Rīki</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7500.html" class="reference internal ">SPRK</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4445.html" class="reference internal ">Uzņēmuma portāls</a>
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="index.html">Docs</a> &raquo;</li>
+    
+    <li>Norēķini</li>
+  </ul>
+  
+
+  </script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="6712.html"
+       title="previous chapter">← Veids</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="56.html"
+       title="next chapter">Atskaites →</a>
+  </li>
+</ul>
+
+  
+</div>
+<hr>
+          <div class="content" role="main">
+            
+  <div class="section" id="norekini">
+<h1>Norēķini<a class="headerlink" href="#norekini" title="Permalink to this headline">¶</a></h1>
+<p>Norēķini paredzēti <a class="reference internal" href="210.html"><span class="doc">Iepirkumu dokumentu</span></a> uzskaitei un
+sistematizēšanai, <a class="reference internal" href="204.html"><span class="doc">Pārdošanas dokumentu</span></a> sagatavošanai un
+drukāšanai, norēķinu kontrolei ar pircējiem un piegādātājiem. Norēķini
+paredzēti debitoru, kreditoru grāmatveža darba vietas automatizācijai.</p>
+<div class="section" id="norekinu-programma-nodrosina">
+<h2>Norēķinu programma nodrošina:<a class="headerlink" href="#norekinu-programma-nodrosina" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference internal" href="210.html"><span class="doc">Iepirkumu dokumentu</span></a> ievadīšanu, <a class="reference internal" href="204.html"><span class="doc">Pārdošanas
+dokumentu</span></a> sagatavošanu un sistematizēšanu Programmā var
+sagatavot un izdrukāt pārdošanas dokumentus, kā arī uzskaitīt saņemtos
+norēķinu dokumentus no uzņēmuma piegādātājiem. Norēķinu un pārdošanas
+dokumenti tiek apkopoti un ir pieejami <a class="reference internal" href="22.html"><span class="doc">dokumentu</span></a> žurnālos.
+Žurnālos dokumentus var atlasīt pēc to izrakstīšanas vai apmaksas
+termiņa datuma, kā arī pēc dažādiem citiem datu atlases kritērijiem.</p></li>
+<li><p>Pārdošanas un iepirkuma dokumentu sagatavošanu valūtā Pārdošanas
+dokumentus var izrakstīt un iepirkuma dokumentus pievienot jebkurā
+valūtā. Dokumentu valūtas grāmatojumā ir iebūvēta saistība ar
+<a class="reference internal" href="230.html"><span class="doc">Valūtu kursu</span></a> sarakstu.</p></li>
+<li><p><a class="reference internal" href="229.html"><span class="doc">Norēķinu dzēšanas aktu</span></a> un <a class="reference internal" href="84.html"><span class="doc">Korespondences</span></a>
+dokumentu sagatavošanu Programmā var automatizēti izveidot
+<a class="reference internal" href="343.html"><span class="doc">Apmaksas atgādinājumu</span></a> , <a class="reference internal" href="342.html"><span class="doc">Savstarpējo norēķinu
+salīdzināšanas aktus</span></a> , <a class="reference internal" href="228.html"><span class="doc">Savstarpējo norēķinu dzēšanas
+aktus</span></a> , uzskaitīt noslēgtos <a class="reference internal" href="394.html"><span class="doc">Līgumus</span></a> un
+<a class="reference internal" href="679.html"><span class="doc">Iepirkumus</span></a> .</p></li>
+<li><p>Dokumentu saistīšanu Norēķinu dokumentus var sasaistīt ar
+izejošajiem maksājumiem, bet pārdošanas dokumentus ar ieejošajiem
+maksājumiem. Tādejādi, katram dokumentam iespējams fiksēt tā apmaksas
+stāvokli, kas programmā ir redzams jau pirms dokumentu iekontēšanas
+saistību kontos. Dokumentu apmaksas fiksēšana tiek izmantota, lai
+sagatavotu atskaites par partneru parādiem, norēķinu aktus, apmaksas
+atgādinājumus. Saistītie dokumenti ir pieejami atvēršanai no katra
+iesaistītā dokumenta, kas dod iespēju ātri noskaidrot ar apmaksu vai
+apmaksas datumiem saistītos jautājumus.</p></li>
+<li><p>Iepirkuma dokumenta automatizētu veidošanu no bankas maksājuma
+uzdevumiem Izmantojot iebūvētās funkcijas, iepirkuma dokumentu
+automatizēti un ar mazāku laika patēriņu var izveidot, ja par to tiek
+maksāts avansā. Šī funkcija ir ērti izmantojama, ja priekšapmaksa ir
+standarta iepirkumu apmaksas veids un jāapstrādā liels daudzums datu.</p></li>
+<li><p>Piemērojamo nodokļu veidu un likmju brīvu noteikšanu Nodokļu
+sarakstā uzņēmums var brīvi definēt dokumentos piemērojamos nodokļus
+un nodokļu likmes. Vienā pārdošanas un norēķinu dokumentā ir iespēja
+norādīt dažādas nodokļa likmes.</p></li>
+<li><p><a class="reference internal" href="180.html"><span class="doc">Stingrās uzskaites dokumentu</span></a> izlietojuma uzskaiti
+Iegādājoties stingrās uzskaites preču pavadzīmju numurus, to dati
+jāievada uzskaites dokumentu žurnālā. Katrs izrakstītais pārdošanas
+dokuments – pavadzīme sistēmā tiek saistīts ar izmantotās pavadzīmes
+numuru. Pavadzīmju uzskaites žurnāla dati tiek izmantoti atskaites
+Stingrās uzskaites dokumentu izlietojums sastādīšanai.</p></li>
+<li><p>Norēķinu kontroli ar pircējiem un piegādātājiem Saistot dokumentus
+ar veiktajām vai saņemtajām apmaksām, dokumentu žurnālos pārskatāmi
+redzama dokumentu apmaksas situācija. Norēķinu kontroli nodrošina
+atskaites par neapmaksātajiem iepirkuma vai pārdošanas dokumentiem,
+piegādātāju un pircēju parādu saraksti. Pārdošanas datu analīzei
+izmantojama pircēju apgrozījuma atskaite.</p></li>
+</ul>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="56.html">Atskaites</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="648.html">Dimensiju apgrozījums</a></li>
+<li class="toctree-l2"><a class="reference internal" href="644.html">Iepirkumu dokumenti</a></li>
+<li class="toctree-l2"><a class="reference internal" href="542.html">Iepirkumu dokumenti</a></li>
+<li class="toctree-l2"><a class="reference internal" href="1018.html">Iepirkumu dokumenti (detalizēti)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="1036.html">Nākamo periodu ieņēmumi/izdevumi</a></li>
+<li class="toctree-l2"><a class="reference internal" href="541.html">Neapmaksātie iepirkumu dokumenti</a></li>
+<li class="toctree-l2"><a class="reference internal" href="540.html">Neapmaksātie pārdošanas dokumenti</a></li>
+<li class="toctree-l2"><a class="reference internal" href="5012.html">Neapmaksāto pārdošanas dokumentu sodi</a></li>
+<li class="toctree-l2"><a class="reference internal" href="560.html">Norēķini ar piegādātājiem</a></li>
+<li class="toctree-l2"><a class="reference internal" href="610.html">Norēķini ar pircējiem</a></li>
+<li class="toctree-l2"><a class="reference internal" href="757.html">Norēķinu atlikumu salīdzināšana</a></li>
+<li class="toctree-l2"><a class="reference internal" href="584.html">Parādi piegādātājiem</a></li>
+<li class="toctree-l2"><a class="reference internal" href="539.html">Pārdošanas dokumenti</a></li>
+<li class="toctree-l2"><a class="reference internal" href="751.html">Pārdošanas/ iepirkuma dokumenti</a></li>
+<li class="toctree-l2"><a class="reference internal" href="583.html">Pircēju apgrozījums</a></li>
+<li class="toctree-l2"><a class="reference internal" href="555.html">Pircēju parādi</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="22.html">Dokumenti</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="235.html">Apmaksas atgādinājumi</a></li>
+<li class="toctree-l2"><a class="reference internal" href="830.html">Aprēķinātās soda naudas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="938.html">Dokumentu sasaiste</a></li>
+<li class="toctree-l2"><a class="reference internal" href="210.html">Iepirkumu dokumenti</a></li>
+<li class="toctree-l2"><a class="reference internal" href="6915.html">Klientu pasūtījumi</a></li>
+<li class="toctree-l2"><a class="reference internal" href="1032.html">Nākamo periodu ieņēmumi/izdevumi</a></li>
+<li class="toctree-l2"><a class="reference internal" href="450.html">Norēķins</a></li>
+<li class="toctree-l2"><a class="reference internal" href="229.html">Norēķinu dzēšanas akti</a></li>
+<li class="toctree-l2"><a class="reference internal" href="204.html">Pārdošanas dokumenti</a></li>
+<li class="toctree-l2"><a class="reference internal" href="6929.html">Pasūtījumi piegādātājiem</a></li>
+<li class="toctree-l2"><a class="reference internal" href="292.html">Piedāvājumu dokumenti</a></li>
+<li class="toctree-l2"><a class="reference internal" href="994.html">Pieteikumi tiesai</a></li>
+<li class="toctree-l2"><a class="reference internal" href="228.html">Savstarpējo norēķinu dzēšanas akti</a></li>
+<li class="toctree-l2"><a class="reference internal" href="234.html">Savstarpējo norēķinu salīdzināšanas akti</a></li>
+<li class="toctree-l2"><a class="reference internal" href="180.html">Stingrās uzskaites dokumenti</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="180.html#jaunu-ierakstu-pievienosana">Jaunu ierakstu pievienošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="180.html#anuleto-pardosanas-dokumentu-numuru-atkartota-izmantosana">Anulēto pārdošanas dokumentu numuru atkārtota izmantošana</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="848.html">Jauns</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="344.html">Apmaksas atgādinājuma saturs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="354.html">Apmaksas atgādinājuma saturs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="343.html">Apmaksas atgādinājums</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="343.html#jaunaapmaksas-atgadinajumapievienosana">Jaunaapmaksas atgādinājumapievienošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="343.html#apmaksas-atgadinajuma-virsraksta-aizpildisana">Apmaksas atgādinājuma virsraksta aizpildīšana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="343.html#apmaksas-atgadinajumasatura-aizpildisana">Apmaksas atgādinājumasatura aizpildīšana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="343.html#pievienotaapmaksas-atgadinajumalabosana">PievienotāApmaksas atgādinājumalabošana</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="831.html">Aprēķinātā soda nauda</a></li>
+<li class="toctree-l2"><a class="reference internal" href="402.html">Bankas/Kases saturs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="881.html">Dokumentu nosūtīšana uz e-pastu</a></li>
+<li class="toctree-l2"><a class="reference internal" href="403.html">Grāmatojuma saturs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="310.html">Iepirkuma dokuments</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="310.html#jauna-iepirkuma-dokumenta-pievienosana">Jauna iepirkuma dokumenta pievienošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="310.html#iepirkuma-dokumenta-virsraksta-aizpildisana">Iepirkuma dokumenta virsraksta aizpildīšana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="310.html#iepirkuma-dokumenta-gramatosana">Iepirkuma dokumenta grāmatošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="310.html#pievienota-iepirkuma-dokumenta-labosana">Pievienotā iepirkuma dokumenta labošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="310.html#satura-formas-lauku-konfiguracija">Satura formas lauku konfigurācija</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="998.html">Iepirkumu dokumentu aizpildīšana no budžeta plāna</a></li>
+<li class="toctree-l2"><a class="reference internal" href="304.html">Izejošais rēķins</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="304.html#pardosanasdokumenta-virsraksta-aizpildisana">Pārdošanasdokumenta virsraksta aizpildīšana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="304.html#pardosanasdokumenta-satura-aizpildisana">Pārdošanasdokumenta satura aizpildīšana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="304.html#pardosanas-dokumenta-gramatosana">Pārdošanas dokumenta grāmatošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="304.html#pievienotapardosanas-dokumenta-labosana">Pievienotāpārdošanas dokumenta labošana</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="1033.html">Nākamo periodu ieņēmumu/izdevumu dokuments</a></li>
+<li class="toctree-l2"><a class="reference internal" href="1035.html">Nākamo periodu ieņēmumu/izdevumu grafika ieraksts</a></li>
+<li class="toctree-l2"><a class="reference internal" href="1034.html">Nākamo periodu ieņēmumu/izdevumu grafiks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="358.html">Norēķina dzēšanas akts</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="358.html#jaunanorekinu-dzesanas-akta-pievienosana">Jaunanorēķinu dzēšanas akta pievienošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="358.html#norekinu-dzesanas-aktavirsraksta-aizpildisana">Norēķinu dzēšanas aktavirsraksta aizpildīšana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="358.html#norekinu-dzesanas-aktasatura-aizpildisana">Norēķinu dzēšanas aktasatura aizpildīšana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="358.html#norekinu-dzesanas-akta-gramatosana">Norēķinu dzēšanas akta grāmatošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="358.html#pievienota-norekinu-dzesanas-akta-labosana">Pievienotā norēķinu dzēšanas akta labošana</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="993.html">Pieteikums tiesai</a></li>
+<li class="toctree-l2"><a class="reference internal" href="305.html">Rēķina saturs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="357.html">Savstarpējo norēķinu dzēšanas akts</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="357.html#jauna-savstarpejo-norekinu-dzesanas-akta-pievienosana">Jauna savstarpējo norēķinu dzēšanas akta pievienošana</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="894.html">Savstarpējo norēķinu dzēšanas akts</a></li>
+<li class="toctree-l2"><a class="reference internal" href="342.html">Savstarpējo norēķinu salīdzināšanas akts</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="342.html#jauna-savstarpejo-norekinu-salidzinasanas-akta-pievienosana">Jauna savstarpējo norēķinu salīdzināšanas akta pievienošana</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="23.html">Saraksti</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="860.html">Ampaksas atgadinājumu iestadījumi</a></li>
+<li class="toctree-l2"><a class="reference internal" href="861.html">Apmaksas atgadinājuma iestadījums</a></li>
+<li class="toctree-l2"><a class="reference internal" href="122.html">Apmaksas veidi</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="122.html#jauna-apmaksas-veida-pievienosana">Jauna apmaksas veida pievienošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="122.html#pievienota-apmaksas-veida-labosana">Pievienotā apmaksas veida labošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="122.html#pievienota-apmaksas-veida-dzesana">Pievienotā apmaksas veida dzēšana</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="322.html">Apmaksas veids</a></li>
+<li class="toctree-l2"><a class="reference internal" href="333.html">Atlaide</a></li>
+<li class="toctree-l2"><a class="reference internal" href="132.html">Atlaides</a></li>
+<li class="toctree-l2"><a class="reference internal" href="384.html">Atlaižu grupa</a></li>
+<li class="toctree-l2"><a class="reference internal" href="185.html">Atlaižu grupas</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="185.html#jaunas-atlaizu-grupas-pievienosana">Jaunas Atlaižu grupas pievienošana</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="859.html">Bankas konts</a></li>
+<li class="toctree-l2"><a class="reference internal" href="858.html">Bankas kontu grupa</a></li>
+<li class="toctree-l2"><a class="reference internal" href="857.html">Bankas kontu grupas</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="857.html#jaunasbankas-konta-grupaspievienosana">JaunasBankas konta grupaspievienošana</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="750.html">Cena</a></li>
+<li class="toctree-l2"><a class="reference internal" href="749.html">Cenas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="361.html">Cenas veids</a></li>
+<li class="toctree-l2"><a class="reference internal" href="896.html">Cenu veida kurs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="105.html">Cenu veidi</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="105.html#jauna-cenu-veida-pievienosana">Jauna Cenu veida pievienošana</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="897.html">Cenu veidu kursi</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="897.html#jauna-cenu-veida-kursa-pievienosana">Jauna Cenu veida kursa pievienošana</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="991.html">Debitoru korespondences komentāri</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="991.html#debitoru-korespondences-komentara-ieraksta-labosana">Debitoru korespondences komentāra ieraksta labošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="991.html#ieraksta-dzesana">Ieraksta dzēšana</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="992.html">Debitoru korespondences komentārs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="372.html">Dokumenta veids</a></li>
+<li class="toctree-l2"><a class="reference internal" href="362.html">Grupa</a></li>
+<li class="toctree-l2"><a class="reference internal" href="148.html">Grupas</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="148.html#jaunas-nomenklaturas-grupas-pievienosana">Jaunas nomenklatūras grupas pievienošana</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="158.html">Iepirkumu dokumentu veidi</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="158.html#jauna-iepirkuma-dokumenta-veida-pievienosana">Jauna iepirkuma dokumenta veida pievienošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="158.html#iepirkuma-dokumenta-veida-labosana">Iepirkuma dokumenta veida labošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="158.html#iepirkuma-dokumentaveida-dzesana">Iepirkuma dokumentaveida dzēšana</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="767.html">Konfigurācija importam no xls</a></li>
+<li class="toctree-l2"><a class="reference internal" href="306.html">Nomenklatūra</a></li>
+<li class="toctree-l2"><a class="reference internal" href="108.html">Pakalpojumi</a></li>
+<li class="toctree-l2"><a class="reference internal" href="157.html">Pārdošanas dokumentu veidi</a></li>
+<li class="toctree-l2"><a class="reference internal" href="863.html">Salīdzināšanas akta teksts</a></li>
+<li class="toctree-l2"><a class="reference internal" href="862.html">Salīdzināšanas aktu teksti</a></li>
+<li class="toctree-l2"><a class="reference internal" href="769.html">Standartizētais nosaukums</a></li>
+<li class="toctree-l2"><a class="reference internal" href="768.html">Standartizētie nosaukumi</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="768.html#jauna-standartizeta-nosaukuma-pievienosana">Jauna Standartizētā nosaukuma pievienošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="768.html#standartizeta-nosaukuma-labosana">Standartizētā nosaukuma labošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="768.html#ieraksta-dzesana">Ieraksta dzēšana</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="370.html">Teksta sagatave</a></li>
+<li class="toctree-l2"><a class="reference internal" href="140.html">Teksta sagataves</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="140.html#jaunateksta-sagataves-paskaidrojuma-tekstapievienosana">Jaunateksta sagataves-paskaidrojuma tekstapievienošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="140.html#paskaidrojuma-teksta-labosana">Paskaidrojuma teksta labošana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="140.html#paskaidrojuma-tekstadzesana">Paskaidrojuma tekstadzēšana</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="686.html">Uzrēķini</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"></script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="6712.html"
+       title="previous chapter">← Veids</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="56.html"
+       title="next chapter">Atskaites →</a>
+  </li>
+</ul>
+<div class="footer" role="contentinfo">
+      &#169; Copyright 2020 Ozols Grupa.
+    <br>
+  Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.1.0 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a>.
+</div>
+                <script type="text/javascript">
+                  $(function(){
+                    $('.image-reference').fancybox();
+                  })
+                </script>
+            </div>
+          </div>
+      </page>
+    </div>
+    
+    
+  </body>
+</html>

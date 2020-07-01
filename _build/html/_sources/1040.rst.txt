@@ -1,0 +1,43 @@
+.. 1040 Peļņas vai zaudējumu aprēķins (PZA2 - Pēc izdevumu funkcijām)***************************************************************** 
+Lai piekļūtu Peļņas vai zaudējuma formai “Peļņas vai zaudējuma
+aprēķins PZA 2 ”, ir nepieciešams to aktivizēt, piešķirot lietotājam
+tiesības redzēt šo atskaites formu. Tiesības piešķir administrators.
+
+
+
+
+Kad atskaites forma ir aktivizēta, tad Virsgrāmata>Atskaites>VID
+atskaites ir pieejama atskaišu forma "Peļņas vai zaudējuma aprēķins
+PZA2".
+
+|images_ozols/26572.jpg|
+
+
+Aktivizētajām atskaišu formām nepieciešams veikt konfirgurāciju.
+
+
+Atskaišu konfigurāciju veic pie Konfigurācija>Virsgrāmatas atskaišu
+konfigurācija .
+
+
+Ja atskaišu sarakstā nav PZA2 formas, tad ir nepieciešams ņemt
+|images_ozols/25605.png| un atvērsies jauns Virsgrāmatas atskaites
+konfigurācijas dokuments. Laukā “Atskaite” no izvēlņu saraksta izvēlas
+atskaites veidu "Peļņas vai zaudējuma aprēķins (PZA2 - Pēc izdevumu
+funkcijām).
+
+
+
+
+
+|images_ozols/26576.jpg|
+
+
+
+
+
+
+
+
+
+ 

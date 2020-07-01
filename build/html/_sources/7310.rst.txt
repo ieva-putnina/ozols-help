@@ -4,6 +4,8 @@ Notikumu žurnālā tiek saglabāti visi :doc:`pievienotie notikumu<7308>`
 :doc:`nosaukums<7312>` , :doc:`darbība<7316>` ,:doc:`
 telpa/vieta<7315>` un notikumu statuss.
 
+.. image:: images_ozols/26190.jpg
+:scale: 100%
 
 
 

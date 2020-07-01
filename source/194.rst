@@ -1,16 +1,22 @@
 .. 194 Lietotāju saraksts********************** 
-Lai pievienotu jaunu Lietotāju, rīku joslā jānospiež poga , tiks
-atvērts Lietotāja iestādījumu logs:
+Lai pievienotu jaunu Lietotāju, rīku joslā jānospiež poga .. image::
+images_ozols/25605.png
+:scale: 100%
+, tiks atvērts Lietotāja iestādījumu logs:
 
 
 
+.. image:: images_ozols/25761.png
+:scale: 100%
 
 
 
 
 1.Jāpievieno lietotāja vārds
 
-2.Jānorāda, vai tiks izmantota Windows vai SQL autentifikācijas tips
+2.Jānorāda, vai tiks izmantota Windows vai SQL autentifikācijas tips..
+image:: images_ozols/24545.gif
+:scale: 100%
 Windows autentifikāciju var izmantot, ja tiek izmantots domēns.
 Izmantojot Windows autentifikāciju, lietotājs sistēmā tiks
 identificēts pēc savas datortīkla paroles un papildus paroles darbam
@@ -23,12 +29,16 @@ parole.
 
 
 3. Jānorāda lietotāja tiesības izmantot datu bāzi
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Lietotājiem, kuriem nebūs administrēšanas tiesību, jānorāda Ozola datu
 bāzes lomas public, db_datareader, db_datawriter, oz_procexec . Šīs
 tiesības jānorāda arī citiem lietotājiem, kuriem tiek noteiktas
 papildus administrēšanas tiesības.
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Lietotājiem, kuriem būs tiesības administrēt lietotāju datus - noteikt
 lietotājiem pieejamos :doc:`darba režīmus<169>` , noteikt lietotājiem
 pieejamos :doc:`uzņēmumus<190>` , papildus jāaktivizē Ozola datu bāzes

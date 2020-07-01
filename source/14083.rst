@@ -39,6 +39,8 @@ Debets Kredīts Konts [Pap.konts1] [Pap.konts2] Dimensija [Satura]
 
 
 
+.. image:: images_ozols/25364.png
+:scale: 100%
 
 
 

@@ -1,0 +1,53 @@
+.. 208 Nodokļu dokumentu žurnāls***************************** 
+
+
+Lai algu aprēķinā tiktu piemērotas pareizas nodokļu likmes, jāpārbauda
+nodokļa aprēķina metožu sarakstu - :doc:`Ienākuma nodokļu
+metodes<222>` un :doc:`Sociālo nodokļu metodes<223>` -pareizība,
+nodokļu dokumentā jāpievieno atbilstoša nodokļu aprēķina metode.
+Veicot algu aprēķinu, jāpārbauda, vai tiek piemērots atbilstošais
+nodokļu dokuments.
+
+
+
+Nodokļu dokuments nosaka, kādas nodokļa likmes tiks piemērotas algu
+aprēķinā. Nodokļu dokumentus var pievienot strādājošā
+:doc:`Slodzes<207>` kartiņā caur pogu |images_ozols/25639.png| vai
+nodokļu dokumentu žurnālā, nospiežot Rīku joslā pogu
+|images_ozols/25605.png| :
+
+
+
+|images_ozols/25640.png|
+
+
+
+|images_ozols/24545.gif| Nodokļa dokumenta veids var būt darba līgums,
+nodokļu grāmatiņa vai uzņēmuma līgums. Lai algu aprēķins tiktu veikts
+korekti, jāizvēlas pareizās ienākuma nodokļa un sociālā nodokļa
+metodes no sarakstiem. Nodokļu metodēs tiek noteikts piemērojamo
+nodokļu un atvieglojumu apmērs. Izvēloties nodokļu dokumentu –
+Uzņēmuma līgums, darbiniekiem, kam ir dotais nodokļu dokumenta veids,
+3.pielikuma ziņojumā par sociālo nodokli netiks iekļauta riska nodeva.
+
+
+
+Lai saglabātu pievienotos datus, jānospiež poga
+|images_ozols/24615.jpg| .
+
+.. |images_ozols/25639.png| image:: images_ozols/25639.png
+:scale: 100%
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+:scale: 100%
+
+.. |images_ozols/25640.png| image:: images_ozols/25640.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+ 

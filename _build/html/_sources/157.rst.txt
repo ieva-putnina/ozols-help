@@ -1,0 +1,121 @@
+.. 157 Pārdošanas dokumentu veidi****************************** 
+
+
+
+Sarakstā tiek saglabātipārdošanas dokumentu veidi, kas tiek
+izmantotipārdošanas dokumentu aizpildīšanai.Atsevišķi dokumentu veidi
+tiek izmantoti, lai programmā veiktu noteiktas uzskaites funkcijas.
+Dokumentu veidus var izmantot, lai dokumentu žurnālos ar datu atlases
+filtru palīdzību parādītu tikai viena veida dokumentus, noteiktu
+atsevišķu dokumenta numerāciju
+
+
+
+
+Jauna pārdošanas dokumenta veida pievienošana
+
+Lai pievienotu jaunupārdošanas dokumenta veidu, jāizmanto komanda
+|images_ozols/24879.png| no rīku joslas (Alt+P) un tiks atvērts jauns
+logs:
+
+
+
+|images_ozols/26498.png|
+
+
+
+
+
+**Veids**: ja tiek pievienots jauns pārdošanas dok.veids - jāizvēlas
+pārdošanas dokuments;
+
+**Dok.veids**: nepieciešams norādīts atbilstošo dokumenta veidu -
+Rēķins, Pavadzīmes vai Piedāvājums.
+
+Rēķins - izmantojams pakalpojumu ievadei, izmantojot rēķinu netiek
+noformēta preču/krājumu kustība Noliktavā;
+
+
+Stingrās uzskaites pavadzīme - nodrošina stingrās uzskaites dokumenta
+numura un sērijas lauka izmantošanu veidlapu izlietojuma uzskaitei, kā
+arī noformē preču/krājumu kustību noliktavā.
+
+Piedāvājums - izmantojams piedāvājumu dokumentu noformēšanai.
+
+
+**VID.darījuma veids:** nepieciešams norādīt ierakstu no saraksta,
+atbilstoši darījuma veidam, kuri tiks noformēti ar šo pārdošanas
+dokumenta veidu,
+
+**VID.dok.veids:** nepieciešams norādīt atbilstošo VID noteikto
+dokumenta veidu;
+
+**Kods:** pārdošanas dokumenta veida kodējums - pazīme, kas būs
+piesaistīta konkrētajam pārdošanas dokumenta veidam;
+
+**Nosaukums**: jaunizveidotā pārdošanas dokumenta veida nosaukums;
+
+**Virsraksts:** jaunizveidotā pārdošanas dokumenta veida Virsraksts,
+kas tiks uzrādīts arī pārdošanas dok.izdrukā;
+
+**Opcijas:** iespējams atzīmēt jaunizveidotā pārdošanas dokumenta
+papildus funkcijas:
+
+Apmaksājams dokuments - attiecīgais pārd.dokumenta veids tiks iekļauts
+neapmaksāto pārd.dokumentu atskaitē;
+
+Negrāmatojams dokuments - attiecīgo pārd.dokumenta veidu nebūs
+iespējams grāmatot;
+
+Atļaut saglabāt nepilnīgi aizpildītu rēķinu - dokumentu, ar attiecīgo
+veidu būs iespējams saglabāt pilnvērtīgi neaizpildītu;
+
+Atļaut krājumu pievienošanu - izmantojot šo veidu, būs iespējams
+sagatavot Pārdošanas dokumentu, kura saturā būs iespējams pievienot
+arī krājumus;
+Avansa rēķins - iespēja sagatavot pārdošanas dokumentu kā avansa
+rēķinu.
+Kredītrēķins - attiecīgo pārdošanas dokumenta veidu būs iespējams
+saistīt ar bankas izdevuma dokumentu;
+Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu
+|images_ozols/24867.png| no rīku joslas vai (Ctrl+S).
+
+
+
+Pārdošanas dokumenta veida labošana
+
+Lai veiktu labojumuspārdošanas dokumenta veidā, ierakstu nepieciešams
+atvērt, izmantojot komandu |images_ozols/24869.png| no rīku joslas
+(Alt+A). Atvērtajā logā iespējams mainīt jebkuru no laukos esošo
+informāciju. Pēc labojumu veikšanas, veiktās izmaiņas iespējams
+saglabāt ar komandu |images_ozols/24867.png| no rīku joslas.
+
+
+
+
+Pārdošanasdokumenta veida dzēšana
+
+Lai dzēstupārdošanas dokumenta veidu, jāizmanto komanda
+|images_ozols/25602.png| no rīku joslas. Ieraksts ir jādzēš neatvērtā
+veidā.
+
+
+.. |images_ozols/24879.png| image:: images_ozols/24879.png
+:scale: 100%
+
+.. |images_ozols/26498.png| image:: images_ozols/26498.png
+:scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+:scale: 100%
+
+.. |images_ozols/24869.png| image:: images_ozols/24869.png
+:scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+:scale: 100%
+
+.. |images_ozols/25602.png| image:: images_ozols/25602.png
+:scale: 100%
+
+ 

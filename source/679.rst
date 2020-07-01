@@ -5,6 +5,8 @@ Izvēloties dokumenta veidu Iepirkums, tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/25517.png
+:scale: 100%
 
 
 
@@ -23,6 +25,8 @@ rezultātu un šī rīkojuma numuru:
 
 
 
+.. image:: images_ozols/25518.png
+:scale: 100%
 
 
 
@@ -32,6 +36,8 @@ piešķirto Iepirkuma nosaukumu:
 
 
 
+.. image:: images_ozols/25519.png
+:scale: 100%
 
 
 
@@ -41,6 +47,8 @@ Iepirkums ir izveidots:
 
 
 
+.. image:: images_ozols/25520.png
+:scale: 100%
 
 
 
@@ -50,6 +58,8 @@ projekta stadijā, izpildīts, izpildīts, lauzts, utt.:
 
 
 
+.. image:: images_ozols/25520.png
+:scale: 100%
 
 
 
@@ -59,6 +69,8 @@ Ieprikuma, pieņemšanas datumu:
 
 
 
+.. image:: images_ozols/25521.png
+:scale: 100%
 
 
 
@@ -72,12 +84,18 @@ Iepirkumu, no uzņēmuma puses:
 
 
 
+.. image:: images_ozols/25522.png
+:scale: 100%
 
 
 
 
 PēcVirsraksta un Citu datuierakstu aizpildīšanas,Iepirkumu iespējams
-vai .
+.. image:: images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
 
 

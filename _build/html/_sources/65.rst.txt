@@ -1,0 +1,13 @@
+.. 65 ========Rīki======== 
+
+
+Elektroniskā datu apmaiņa ar banku nodrošina sagatavoto maksājuma
+uzdevumu eksportu, ieejošo maksājumu importu sistēmā.
+
+Lai izmantotu datu apmaiņu ar banku, uzņēmumam jālieto banku piedāvātā
+elektronisko norēķinu prorgammatūra.
+
+Izmantojot datu apmaiņas iepsēju ar banku, no interneta iespējams
+importēt Latvijas bankas valūtas kursu sarakstus.
+
+ .. toctree::   :maxdepth: 5    451.rst

@@ -1,0 +1,235 @@
+.. 687 Nomenklatūras pārsūtīšana***************************** 
+
+
+Nomenklatūras uzskaiti var organizēt vairākās :doc:`Noliktavās<142>` ,
+kā arī vairākās uzņēmuma :doc:`Struktūrvienībās<117>` vienas
+Noliktavas ietvaros. Lai uzskaitītu nomenklatūras kustību starp
+uzņēmumu noliktavām, struktūrvienībām, objektiem vai atbildīgajām
+personām, jāveido nomenklatūras pārsūtīšanas dokuments. Pārsūtīšanas
+dokuments tiek saglabāts :doc:`Iekšējās kustības dokumentu
+žurnālā<688>` .
+
+
+
+Jauna Nomenklatūras pārsūtīšanas dokumenta pievienošana
+```````````````````````````````````````````````````````
+
+Izvēloties dokumenta veidu Nomenklatūras pārsūtīšana, tiks atvērts
+jauns logs:
+
+
+
+|images_ozols/25340.png|
+
+
+
+Nomenklatūras pārsūtīšanas dokumentaVirsraksta aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu Pārsūtīšanas dokumenta Virsrakstu, nepieciešams:
+
+
+
+1. Norādīt datumu, kurā pārsūtīšana tiek veikta:
+
+
+
+|images_ozols/25341.png|
+
+
+
+2. Izvēlēties atbilstošās noliktavas, kuru ietvaros nomenklatūras
+kustība tiks veikta:
+
+
+
+|images_ozols/25342.png|
+
+
+
+|images_ozols/24545.gif| Ja nomenklatūras kustību nepieciešams veikt
+nevis Noliktavu ietvaros, bet gan struktūrvienību ietvaros, abos
+laukos "Noliktava no" un "Noliktava uz" jānorāda viena un tā pati
+Noliktava, kurai piesaistīta atbilstošā struktūrvienība, kuras
+ietvaros nepieciešams veikt pārsūtīšanu.
+
+
+
+3. Pārsūtīšanas dokumenta paskaidrojuma lauks tiek aizpildīts
+automātiski - dati tiek ielādēti no Iekšējās kustības dokumenta veida
+nosaukuma. Paskaidrojuma laukā esošo informāciju iespējams koriģēt,
+labojot aizpildīto informāciju manuāli.
+
+
+
+Nomenklatūras pārsūtīšanas dokumenta Satura aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu Nomenklatūras pārsūtīšanas dokumenta Saturu, dokumenta
+satura daļā nepieciešams nospiest pogu |images_ozols/24708.png| un
+tiks atvērts operācijas satura logs:
+
+
+
+|images_ozols/25344.png|
+
+
+
+Dokumenta saturā jāpievieno nomenklatūra, kas tiek pārsūtīta,
+aizpildot visas nepieciešamās dimensijas. Nomenklatūru var meklēt pēc
+nomenklatūras koda, nosaukuma vai nosaukuma daļas. Nomenklatūrai tiek
+parādīts atlikums noliktavā (ņemot vērā norādītās dimensijas), no
+kuras jāveic pārsūtīšana. Nomenklatūrai jānorāda daudzums, kas
+jāpārsūta.
+
+
+
+|images_ozols/24545.gif| Ja tiek izvēlēta nomenklatūra un norādītas
+dimensijas (Ek.kods no; Struktūrv.no) , bet atlikums uzrādās 0.0000,
+nepieciešams pārbaudīt norādītās dimensijas un Atbildīgo personu – vai
+nomenklatūrai, ar šādām norādītajām dimensijām, ir pārsūtīšanai
+nepieciešamie atlikumi attiecīgajās dimensijās.
+
+
+
+Lai saglabātu izveidoto satura ierakstu, nomenklatūras pārsūtīšanas
+logā nepieciešams nospiest |images_ozols/24615.jpg| vai
+|images_ozols/24617.jpg| - ja nomenklatūras pārsūtīšanu nav
+nepieciešams veikt.
+
+
+
+|images_ozols/24545.gif| Nomenklatūras pārsūtīšanas dokumenta saturs
+var sastāvēt no vairākiem satura ierakstiem.Pievienot nākamo satura
+ierakstu iespējams, satura daļā nospiežot pogu
+|images_ozols/24708.png| .
+
+
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti,Nomenklatūras pārsūtīšanas
+dokumentsir sagatavots un to ir iespējams:
+
+
+
+1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
+saglabāts un būs pieejams apskatei/labošanai/grāmatošanai
+:doc:`Iekšējās kustības dokumentu žurnālā<688>` .
+
+2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| -
+Pārsūtīšanas dokuments tiks Apstiprināts un to būs iespējams Grāmatot.
+
+
+
+Nomenklatūras pārsūtīšanas dokumenta grāmatošana
+````````````````````````````````````````````````
+
+Nomenklatūras pārsūtīšanas dokumentuiespējams grāmatot no atvērta
+dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Iekšējās kustības
+dokumentu žurnālā<688>` .
+
+Lai iegrāmatotu Nomenklatūras pārsūtīšanu, dokumentu nepieciešams
+Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| .
+
+Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu |images_ozols/24741.png| .
+
+
+
+Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
+
+
+
+Pievienotā Pārsūtīšanas dokumenta labošana
+``````````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot Nomenklatūras
+pārsūtīšanas dokumentu, kurš pieejams apskatei/labošanai:doc:`Iekšējās
+kustības dokumentu žurnālā<688>` . Lai veiktu labojumusPārsūtīšanas
+dokumentā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
+|images_ozols/24709.png| (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus:
+
+
+
+|images_ozols/25345.png|
+
+
+
+|images_ozols/24545.gif| Nomenklatūras pārsūtīšanas dokumenta datumu
+NAV iespējams labot, jo nomenklatūras atlikumi Noliktavā, ņemot vērā
+norādītās dimensijas, tiek rēķināti atbilstoši iepriekš izvēlētajam
+datumam un datuma maiņa varētu novest pie situācijas, kad nomenklatūra
+tiek pārsūtīta brīdī, kad tās nemaz nav atlikumā. Ja nepieciešams
+labot datumu, tad dokuments ir jāveido no jauna un iepriekš
+izveidotais dokuments jādzēš!
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+
+
+.. |images_ozols/25340.png| image:: images_ozols/25340.png
+:scale: 100%
+
+.. |images_ozols/25341.png| image:: images_ozols/25341.png
+:scale: 100%
+
+.. |images_ozols/25342.png| image:: images_ozols/25342.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/25344.png| image:: images_ozols/25344.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+:scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+:scale: 100%
+
+.. |images_ozols/24741.png| image:: images_ozols/24741.png
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/25345.png| image:: images_ozols/25345.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

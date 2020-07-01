@@ -6,21 +6,31 @@ pavadzīmju numuru reģistrs.
 Jaunu ierakstu pievienošana
 ```````````````````````````
 1. Lai pievienotu vienu uzskaites numuru, nepieciešams rīku joslā
-nospiest pogu - tiks atvērts jauns logs, kur iespējams ierakstīt
-numura sēriju, numuru un iegādes datumu:
+nospiest pogu .. image:: images_ozols/25605.png
+:scale: 100%
+- tiks atvērts jauns logs, kur iespējams ierakstīt numura sēriju,
+numuru un iegādes datumu:
 
+.. image:: images_ozols/26418.png
+:scale: 100%
 
 
 2. Ja nepieciešams pievienot uzreiz vairākus numurus, tad
 rekomendējams izmantot rīku joslā pieejamās funkcijas:
 
+.. image:: images_ozols/26419.png
+:scale: 100%
 
 
 Izvēloties funkciju "Pievienot paku", uzreiz automatizēti žurnālā
 iespējams pievienot nepieciešamo skaitu ar pavadzīmju numuriem:
 
+.. image:: images_ozols/26419.png
+:scale: 100%
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Izmantojot stingrās uzskaites dokumentu žurnālā reģistrēto numuru
 :doc:`Pārdošanas dokumentā<304>` , stingrās uzskaites dokumenta numura
 apraksta laukā "Izpildes datums" tiek automatizēti aizpildīts datums,
@@ -28,30 +38,42 @@ kas sakrīt ar :doc:`Pārdošanas dokumentā<304>` datumu:
 
 
 
+.. image:: images_ozols/26421.png
+:scale: 100%
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Anulējot izveidoto :doc:`Pārdošanas dokumentu<304>` , kuram piešķirts
 numurs no stingrās uzskaites dokumentu reģistra, stingrās uzskaites
 dokumenta numura apraksta laukā "Anulēšanas datums" tiek automatizēti
 aizpildīts datums, kas sakrīt ar :doc:`Pārdošanas dokumenta<304>`
 anulēšanas datumu:
 
+.. image:: images_ozols/26422.png
+:scale: 100%
 
 
 
 Anulēto pārdošanas dokumentu numuru atkārtota izmantošana
 `````````````````````````````````````````````````````````
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Lai stingrās uzskaites dokumentu reģistrācijas žurnālā esošajam
 uzskaites numuram, kuram statuss ir "Anulēts" atceltu anulāciju un to
 varētu izmantot nākamajā :doc:`Pārdošanas dokumentā<304>` ,
 nepieciešams veikt sekojošas darbības:
 
 1) Atvērt stingrās uzskaites dokumentu
-2) Izmantojot rīku joslā esošo pogu (Vai ja rīku joslā nav pieejama,
-tad Dati->Anulēt), anulēt iepriekš izmantoto dokumentu, lai to varētu
-izmantot turpmākos pārdošanas dokumentos:
+2) Izmantojot rīku joslā esošo pogu .. image:: images_ozols/26423.png
+:scale: 100%
+(Vai ja rīku joslā nav pieejama, tad Dati->Anulēt), anulēt iepriekš
+izmantoto dokumentu, lai to varētu izmantot turpmākos pārdošanas
+dokumentos:
 
+.. image:: images_ozols/26424.png
+:scale: 100%
 
 
 3) Saglabāt veiktās izmaiņas -> Pēc ieraksta saglabāšanas, numura

@@ -1,0 +1,33 @@
+.. 392 Adrese********** 
+Vienam partnerim ir iespējams pievienot vairākas adreses (biroja,
+deklarēto, noliktavas, u.c.) un vienu no tām aktivizējot kā galveno
+adresi, kas būs partnera noklusētā adrese:
+
+
+
+|images_ozols/25715.png|
+
+
+
+Adresei ir iespējams pievienot darba laiku, un saglabāt izmaiņas visus
+pievienotos datus, nospiežot pogu |images_ozols/25621.png| .
+
+
+
+|images_ozols/25719.png|
+
+
+
+Visas partnerim pievienotās adreses tiek saglabātas:doc:`partneru
+sarakstā<112>` .
+
+.. |images_ozols/25715.png| image:: images_ozols/25715.png
+:scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+:scale: 100%
+
+.. |images_ozols/25719.png| image:: images_ozols/25719.png
+:scale: 100%
+
+ 

@@ -1,10 +1,14 @@
 .. 634 ============Tautības============ 
-Lai pievienotu jaunu Tautību sarakstam, Rīku joslā jānospiež poga ,
-tiek atvērts logs:
+Lai pievienotu jaunu Tautību sarakstam, Rīku joslā jānospiež poga ..
+image:: images_ozols/25417.png
+   :scale: 100%
+, tiek atvērts logs:
 
 
 
 
+.. image:: images_ozols/26532.png
+   :scale: 100%
 
 
 
@@ -16,7 +20,10 @@ Sieviešu : sieviešu tautība
 
 Tautību saraksts tiek veidots gan vīriešu gan sieviešu dzimtā.
 
-Kad ir ierakstīta attiecīgā tautība,jānospiež poga .
+Kad ir ierakstīta attiecīgā tautība,jānospiež poga .. image::
+images_ozols/24615.jpg
+   :scale: 100%
+.
 
 
 
@@ -26,6 +33,8 @@ iespējams norādīt tautību:
 
 
 
+.. image:: images_ozols/26533.png
+   :scale: 100%
 
 
 
@@ -35,6 +44,8 @@ Arī :doc:`Partnera<312>` aprakstā ir iespējams norādīt tautību:
 
 
 
+.. image:: images_ozols/26534.png
+   :scale: 100%
 
 
 

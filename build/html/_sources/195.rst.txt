@@ -3,13 +3,19 @@
 
 Atbildīgo personu saraksts tiek veidots, pievienojot
 Jaunu:doc:`Partneri<312>` un Partnera aprakstaDatu logā atzīmējot
-izvēles rūtiņu .
+izvēles rūtiņu .. image:: images_ozols/25419.png
+   :scale: 100%
+.
 
 Lai apskatītu Atbildīgās personas aprakstu, Rīku joslā jānospiež poga
+.. image:: images_ozols/25603.png
+   :scale: 100%
 , tiks atvērts logs:
 
 
 
+.. image:: images_ozols/26060.png
+   :scale: 100%
 
 
 

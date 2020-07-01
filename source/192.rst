@@ -6,6 +6,8 @@ adresēm:
 
 
 
+.. image:: images_ozols/25712.png
+:scale: 100%
 
 
 
@@ -16,16 +18,27 @@ adresi, kas būs partnera noklusētā adrese:
 
 
 
+.. image:: images_ozols/25715.png
+:scale: 100%
 
 
 
 
-Atverot esoša partnera adresi, rīku joslā ar pogu , ir iespējams to
-labot vai papildināt, aktivizēt kā galveno adresi, ieķeksējot ,
-pievienot darba laiku, un saglabāt izmaiņas, nospiežot pogu .
+Atverot esoša partnera adresi, rīku joslā ar pogu .. image::
+images_ozols/25603.png
+:scale: 100%
+, ir iespējams to labot vai papildināt, aktivizēt kā galveno adresi,
+ieķeksējot .. image:: images_ozols/25717.png
+:scale: 100%
+, pievienot darba laiku, un saglabāt izmaiņas, nospiežot pogu ..
+image:: images_ozols/25621.png
+:scale: 100%
+.
 
 
 
+.. image:: images_ozols/25719.png
+:scale: 100%
 
 
  

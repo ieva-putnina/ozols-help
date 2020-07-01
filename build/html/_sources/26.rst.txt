@@ -1,4 +1,4 @@
-.. 26 CRM (Partneri)================== .. role:: raw-html(raw)     :format: html
+.. 26 CRM (Partneri)================== 
 
 
 CRM ir vienota uzņēmuma partneru datu bāze, kas nodrošina jebkuras

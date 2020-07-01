@@ -10,17 +10,24 @@ saraksta aizpildīšanai.
 Jauna Bankas koda tipa pievienošana:
 ++++++++++++++++++++++++++++++++++++
 
-Lai pievienotu jaunu bankas kodu tipu rīku joslā jānospiež poga un
-tiks atvērts jauns logs:
+Lai pievienotu jaunu bankas kodu tipu rīku joslā jānospiež poga..
+image:: images_ozols/24708.png
+:scale: 100%
+un tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/24654.jpg
+:scale: 100%
 
 
 
 
 Laukā Nosaukums, nepieciešams ierakstīt Bankas koda tipa nosaukumu.
-Ieraksts tiks saglabāts, izpildot komandu .
+Ieraksts tiks saglabāts, izpildot komandu .. image::
+images_ozols/24710.png
+:scale: 100%
+.
 
 
 
@@ -28,9 +35,15 @@ Pievienotā Bankas koda tipa labošana:
 +++++++++++++++++++++++++++++++++++++
 
 Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
-atvērt, izmantojot rīku joslas pogu (ALT+A), unatvērtajā logā nomainīt
-Nosaukumu.
+atvērt, izmantojot rīku joslas pogu.. image:: images_ozols/24709.png
+:scale: 100%
+(ALT+A), unatvērtajā logā nomainīt Nosaukumu.
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
  

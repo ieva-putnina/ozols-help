@@ -6,11 +6,15 @@ piesaistītās maksājumu, degvielas, u.c.kartes.
 
 Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
 tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
-ekrāna formā. Rīku joslā nopiežot pogu (Ctrl+F), tiek atvērts filtra
-logs:
+ekrāna formā. Rīku joslā nopiežot pogu.. image::
+images_ozols/24535.gif
+:scale: 100%
+(Ctrl+F), tiek atvērts filtra logs:
 
 
 
+.. image:: images_ozols/26102.png
+:scale: 100%
 
 
 
@@ -24,7 +28,10 @@ derīguma termiņa (attiecībā pret tekošās dienas datumu);
 
 
 Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
-kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga ..
+image:: images_ozols/25944.png
+:scale: 100%
+.
 
 
 
@@ -33,13 +40,20 @@ Partnera maksājumu kartes pievienošana
 
 Partneru maksājumu kartes tiek pievienotas:
 
-1.:doc:`Partnera<312>` aprakstā caur pogu ;
+1.:doc:`Partnera<312>` aprakstā caur pogu .. image::
+images_ozols/25716.png
+:scale: 100%
+;
 
 2. Atrodoties:doc:`Partneru maksājumu karšu sarakstā<651>` , rīku
-joslānospiežot pogu :
+joslānospiežot pogu.. image:: images_ozols/25605.png
+:scale: 100%
+:
 
 
 
+.. image:: images_ozols/26104.png
+:scale: 100%
 
 
 
@@ -70,6 +84,8 @@ Pakalpojums: Iespēja norādīt :doc:`Pakalpojumu<108>` , kas saistīts ar
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Lai maksājumu kartes varētu izmantot ne tikai informatīvi -
 informācijas iegūšanai par uzņēmuma darbiniekiem piederošajām kartēm,
 bet arī kā datu uzskaites dimensiju, lai iegūtu detalizētas atskaites
@@ -79,10 +95,14 @@ nepieciešams norādīt, ka tiks izmantota dimensija "Kartes":
 
 
 
+.. image:: images_ozols/26105.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Pie nosacījuma, ja :doc:`Dimensiju<701>` iestādījumos būs atzīmēta
 izvēles rūtiņa "Kartes", :doc:`Iepirkuma dokumentā<310>` Virsrakstā
 norādot :doc:`Partneri<312>` i, kurš ir norādīts kā Īpašnieks kādai no
@@ -93,6 +113,8 @@ pievienotajām Partnera maksājumu kartēm:
 
 
 
+.. image:: images_ozols/26106.png
+:scale: 100%
 
 
 
@@ -104,7 +126,9 @@ dimensijas griezumā.
 
 
 
-Nospiežotpogu , ieraksts tiks pievienots datu bāzei.
+Nospiežotpogu .. image:: images_ozols/25621.png
+:scale: 100%
+, ieraksts tiks pievienots datu bāzei.
 
 
 

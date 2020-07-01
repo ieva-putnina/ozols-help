@@ -1,0 +1,872 @@
+
+
+
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>Darbs ar dokumentiem</title>
+    
+      <link rel="stylesheet" href="_static/pygments.css">
+      <link rel="stylesheet" href="_static/theme.css">
+      <link rel="stylesheet" href="_static/sphinx_press_theme.css">
+          <link rel="stylesheet" href="_static/page_nav.css" type="text/css" />
+          <link rel="stylesheet" href="_static/jquery.fancybox.min.css" type="text/css" />
+          <link rel="stylesheet" href="_static/sphinx_press_theme.css" type="text/css" />
+      
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+      <!-- sphinx script_files -->
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+        <script src="_static/jquery.fancybox.min.js"></script>
+
+      
+      <script src="_static/theme-vendors.js"></script>
+      <script src="_static/theme.js" defer></script>
+    
+  <link rel="index" title="Index" href="genindex.html" />
+  <link rel="search" title="Search" href="search.html" />
+  <link rel="next" title="Darbs ar programmu" href="14012.html" />
+  <link rel="prev" title="Darbs ar atskaitēm" href="14016.html" /> 
+  </head>
+
+  <body>
+    <div id="app" class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+  <router-link to="index.html" class="home-link">
+    
+      <span class="site-name">Sistēmas LĀCIS dokumentācija</span>
+    
+  </router-link>
+
+  <div class="links">
+    <navlinks class="can-hide">
+
+
+
+    </navlinks>
+  </div>
+</navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="index.html#ozols-palidzibas-sistema">ozols palīdzības sistēma</a></span>
+      </p>
+      <ul class="">
+        
+          <li class="toctree-l1 "><a href="7603.html" class="reference internal ">Paziņojumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="600.html" class="reference internal ">Sākums</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="14000.html" class="reference internal ">Sistēmas lietošanas instrukcija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="18.html" class="reference internal ">Mani darbi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="39.html" class="reference internal ">Alga</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4000.html" class="reference internal ">Apdrošināšanas polises</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4800.html" class="reference internal ">Autoinfo</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="40.html" class="reference internal ">Avansi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="48.html" class="reference internal ">Budžeta izpilde</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6600.html" class="reference internal ">Budžeta plānošana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7700.html" class="reference internal ">Caurlaides</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="26.html" class="reference internal ">CRM (Partneri)</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="50.html" class="reference internal ">Datu apmaiņa ar banku</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7400.html" class="reference internal ">Degvielas tirdzniecība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7000.html" class="reference internal ">Dividendes</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7900.html" class="reference internal ">Ēdināšana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="41.html" class="reference internal ">Finanses</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4900.html" class="reference internal ">iVeikals</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="42.html" class="reference internal ">Krājumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7600.html" class="reference internal ">Kravu pārvadājumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4100.html" class="reference internal ">LaMSF</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6800.html" class="reference internal ">Līgumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4500.html" class="reference internal ">Maksājumu uzskaite</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7100.html" class="reference internal ">Mazumtirdzniecība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="43.html" class="reference internal ">Noliktava</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6770.html" class="reference internal ">Noma</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6700.html" class="reference internal ">Noma transportam</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="44.html" class="reference internal ">Norēķini</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="45.html" class="reference internal ">Pamatlīdzekļi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="34.html" class="reference internal ">Pasts</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7200.html" class="reference internal ">Personāla pašapkalpošanās</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="47.html" class="reference internal ">Personāla vadība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6500.html" class="reference internal ">Polises</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="46.html" class="reference internal ">Projektu kalkulācija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4200.html" class="reference internal ">Regresi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4300.html" class="reference internal ">TKU</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="49.html" class="reference internal ">Virsgrāmata</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4700.html" class="reference internal ">wap OZOLS</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="38.html" class="reference internal ">Citi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5226.html" class="reference internal ">Darbinieku portāls</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6901.html" class="reference internal ">Degvielas pasūtījumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5026.html" class="reference internal ">Iestādījumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4444.html" class="reference internal ">Klientu portāls</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="12.html" class="reference internal ">Konfigurācija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="1.html" class="reference internal ">Kopējie saraksti</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7301.html" class="reference internal ">Mākslinieciskā darba plānošana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5295.html" class="reference internal ">Meklēšanas rezultāti</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6734.html" class="reference internal ">Noma</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="31.html" class="reference internal ">Pievienot</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4461.html" class="reference internal ">Pievienot notikumu</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="10.html" class="reference internal ">Rīki</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7500.html" class="reference internal ">SPRK</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4445.html" class="reference internal ">Uzņēmuma portāls</a>
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="index.html">Docs</a> &raquo;</li>
+    
+      <li><a href="14000.html">Sistēmas lietošanas instrukcija</a> &raquo;</li>
+    
+      <li><a href="14010.html">Sistēmas lietošanas principi</a> &raquo;</li>
+    
+    <li>Darbs ar dokumentiem</li>
+  </ul>
+  
+
+  </script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="14016.html"
+       title="previous chapter">← Darbs ar atskaitēm</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="14012.html"
+       title="next chapter">Darbs ar programmu →</a>
+  </li>
+</ul>
+
+  
+</div>
+<hr>
+          <div class="content" role="main">
+            
+  <div class="section" id="darbs-ar-dokumentiem">
+<h1>Darbs ar dokumentiem<a class="headerlink" href="#darbs-ar-dokumentiem" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="apstiprinatie-dokumenti">
+<h2>Apstiprinātie dokumenti<a class="headerlink" href="#apstiprinatie-dokumenti" title="Permalink to this headline">¶</a></h2>
+<p>Dokumentus grāmatvedības sistēmas datorprogrammās var apstiprināt.
+Dokumentu apstiprināšana nozīmē, ka dokuments ir pabeigts. Apstiprinot
+dokumentu, tas tiek aizsargāts pret datu izmainīšanu.</p>
+<p>Dokumenta apstiprināšanas datums, laiks un operators tiek ierakstīti
+datu bāzē.</p>
+<p>Apstiprinot dokumentu, tas tiek saglabāts un bloķēts datu labošanai.
+Apstiprināta dokumenta ekrāna forma ir pelēka, tajā nevar labot datus,
+tikai atvērt apskatei satura ierakstus. Apstiprinātam dokumentam
+dokumentu žurnālā tiek pievienota rakstzīme R .</p>
+<p>Grāmatvedības sistēmas datorprogrammās tikai apstiprinātiem
+dokumentiem var veikt grāmatošanu, un datorprogrammā Preces preču
+atlikumi pievienojas, tikai ņemot vērā apstiprinātos iepirkumu un
+pārdošanas dokumentus.</p>
+<p>Apstiprinātam dokumentam var atcelt apstiprinājumu. Apstiprināšanas
+atcelšanas datums, laiks un operators tiek ierakstīti īpašā sistēmas
+žurnālā.</p>
+</div>
+<div class="section" id="anuletie-dokumenti">
+<h2>Anulētie dokumenti<a class="headerlink" href="#anuletie-dokumenti" title="Permalink to this headline">¶</a></h2>
+<p>Dokumentus grāmatvedības sistēmas datorprogrammās var anulēt.
+Dokumentu anulēšana ir līdzīga dokumenta dzēšanai, tikai anulētā
+informācija tiek saglabāta grāmatvedības datu bāzē.</p>
+<p>Dokumenta anulēšanas datums, laiks un operators tiek ierakstīti datu
+bāzē. Dokumenta anulēšanas iespējas galvenā priekšrocība ir iespēja
+anulēt grāmatojumus, neatverot grāmatojumu žurnālu. Anulējot
+dokumentu, laukā Piezīmes var pievienot anulēšanas iemeslu, kas tiks
+saglabāts anulētajā dokumentā. Anulētos dokumentus var atvērt apskates
+režīmā, to ekrāna formas ir pelēkas.</p>
+<p>Anulētie dokumenti tiek saglabāti attiecīgajos dokumentu žurnālos.
+Anulētam dokumentam dokumentu žurnālā tiek pievienota rakstzīme X .</p>
+<p>Anulētam dokumentam var atcelt anulēšanu, anulēšanas atcelšanas
+datums, laiks un operators tiek ierakstīti īpašā sistēmas žurnālā.</p>
+</div>
+<div class="section" id="anuleto-dokumentu-paradisana-dokumentu-zurnalos">
+<h2>Anulēto dokumentu parādīšana dokumentu žurnālos<a class="headerlink" href="#anuleto-dokumentu-paradisana-dokumentu-zurnalos" title="Permalink to this headline">¶</a></h2>
+<p>Standartā anulētie dokumenti dokumentu žurnālos parādīti netiek. Lai
+dokumentu žurnālos tiktu parādīti arī anulētie dokumenti, jāizsauc
+dokumentu žurnāla filtrs ( <img alt="images_ozols/24535.gif" src="_images/24535.gif" /> ). Filtrā
+jāaktivizē izvēle:</p>
+<p><img alt="images_ozols/24548.gif" src="_images/24548.gif" /></p>
+</div>
+<div class="section" id="dokumentu-drukasana-un-datu-eksporta-iespejas">
+<h2>Dokumentu drukāšana un datu eksporta iespējas<a class="headerlink" href="#dokumentu-drukasana-un-datu-eksporta-iespejas" title="Permalink to this headline">¶</a></h2>
+<p>Grāmatvedības sistēmas “Ozols” datorprogrammās var izdrukāt
+dokumentus, dokumentu žurnālus un sagatavotās atskaites. Dokumentu
+žurnālus un grāmatvedības dokumentus var izdrukāt no atvērtām ekrāna
+formām. Izdrukas iespējas ir iebūvētas datorprogrammā un par iespēju
+izmantot drukāšanu liecina aktīva rīku joslas komanda Drukāt.</p>
+<p>Izveidotos dokumentus var izdrukāt, izmantojot rīku joslu vai no
+galvenās izvēlnes</p>
+<p>&gt;Dati &gt; Drukāt</p>
+<p>Izdrukas ekrāna formā var izvēlēties iebūvēto izdrukas formu, kopējo
+vai individuālo formu, aktivizējot attiecīgos pārslēdžus Iebūvētā,
+Kopīgā vai Individuālā. Atskaiti var eksportēt uz teksta failu, MS
+Excel 5.0 failu, MS Visual Foxpro 5.0 failu, Dbase 3 failu.</p>
+<p>Logā Kopiju skaits var norādīt izdrukājamo kopiju skaitu.</p>
+<p>Izdrukas dialoga ekrāna formu var atvērt, aktivizējot izvēles rūtiņu
+Izsaukt izdrukas dialogu un spiežot komandpogu Drukāt. Izdrukas
+dialoga ekrāna formā var norādīt tikai vienu vai atsevišķas drukājamās
+lapas.</p>
+<p>Dokumentu izdrukā var iestādīt dažādus fontu veidus. Ja atskaišu
+izdrukām ir izvēlēts fonts, tā nosaukums parādās izdrukas ekrāna formā
+blakus komandpogai Fonts.</p>
+</div>
+<div class="section" id="objekts">
+<h2>Objekts<a class="headerlink" href="#objekts" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="paskaidrojums">
+<h2>Paskaidrojums<a class="headerlink" href="#paskaidrojums" title="Permalink to this headline">¶</a></h2>
+<p>Iebūvētā Iebūvētās izdrukas izmantošana Kopējā Kopējās izdrukas
+izmantošana Individuālā Individuālās izdrukas izmantošana Atvērt
+Iebūvētās izdrukas formas atvēršana Labot Kopējās izdrukas formas
+labošana Labot formu Individuālās izdrukas formas labošana Eksportēt
+Datu eksportēšana un norādīto faila veidu Atvērt Norādītā faila veida
+atvēršana Fonts Atskaišu izdrukas fonta iestādīšana HTML izdruka HTML
+dokumentu izdrukas iespējas Kopiju skaits Drukājamo kopiju skaita
+norādīšana Izdrukas parametri Izdrukas dialoga izsaukšana Palīgs
+Palīdzības sistēmas izsaukšana Teksts Dokumenta atvēršas teksta failā
+Apskatīt Dokumenta priekšapskate Drukāt Dokumenta drukāšana Aizvērt
+Ekrāna formas aizvēršana</p>
+<p><img alt="images_ozols/25287.png" src="_images/25287.png" /></p>
+</div>
+<div class="section" id="ekrana-formu-izmeri">
+<h2>Ekrāna formu izmēri<a class="headerlink" href="#ekrana-formu-izmeri" title="Permalink to this headline">¶</a></h2>
+<p>Ekrāna formu izmēru mainīšanas iespēja ļauj individuāli noteikt
+lietošanai piemērotāko ekrāna formas lielumu.</p>
+<p>Ekrāna formu izmērus var mainīt ar peles palīdzību, stiepjot formas
+stūrus vai malas vajadzīgajā virzienā, kamēr ekrāna forma iegūst
+optimālo lielumu. Novietojiet peles kursoru uz formas sānu malas vai
+stūra, pagaidiet, kamēr tas parādās kā bultiņa, spiediet peles
+taustiņu un velkot samaziniet vai palieliniet to. Šādi mainīt ekrāna
+formu izmēru var no visām četrām loga malām un stūriem.</p>
+<p>Mainīt ekrāna formu izmērus ir ērti, ja vienlaicīgi nepieciešams
+pārskatīt informāciju, kas atrodas divās dažādās sistēmas formās.</p>
+<p>Gadījumā, ja ekrāna forma nav redzama pilnībā, un ir noslēptas pat
+augšējās komandpogas Noslēpt, Palielināt / Pamazināt un Aizvērt,
+divreiz jāuzklikšķina uz formas augšējās zilās joslas. Ekrāna forma
+ieņems optimālāko izmēru, piemērotu jūsu monitora lielumam.</p>
+<p>Vairākas ekrāna formas vienlaicīgi uz ekrāna var ērti izkārtot,
+izmantojot galveno izvēlni</p>
+<p>&gt;Logs &gt; Sakārtot visus</p>
+</div>
+<div class="section" id="ierakstu-sakartosana">
+<h2>Ierakstu sakārtošana<a class="headerlink" href="#ierakstu-sakartosana" title="Permalink to this headline">¶</a></h2>
+<p>Sarakstos un dokumentu žurnālos var veikt ierakstu kārtošanu
+nepieciešamajā secībā. Ierakstus var sakārtot pēc jebkuras uzrādītās
+saraksta kolonnas.</p>
+<p>Uzklikšķinot peli uz ekrāna formas kolonnas nosaukuma, visas ievadītās
+burtu vērtības sakārtosies alfabētiskā vai arī summu lauki pēc sava
+lieluma augšupejošā vai lejupejošā secībā. Uzklikšķinot otru reizi,
+vērtības sakārtosies apgrieztā secībā – piemēram, summu lauki
+sakārtosies, sākot ar lielākām vērtībām vai otrādi – sākot ar
+mazākajām.</p>
+<p>Lai dokumenti tiktu sakārtoti to ievades secībā, jāuzklikšķina uz mazā
+kvadrātiņa, kolonnu nosaukumu rindas beigās.</p>
+<p>Sarakstos un dokumentu žurnālos var lietot komandas:</p>
+<p>HOME – kursors nostāsies uz pirmā ieraksta</p>
+<p>END - kursors nostāsies uz pēdējā ieraksta</p>
+<p>Page up – pārvietoties ar kursoru virzienā uz augšu</p>
+<p>Page down - pārvietoties ar kursoru virzienā uz leju</p>
+<p><img alt="images_ozols/25288.png" src="_images/25288.png" /></p>
+</div>
+<div class="section" id="darba-rezimu-skati">
+<h2>Darba režīmu skati<a class="headerlink" href="#darba-rezimu-skati" title="Permalink to this headline">¶</a></h2>
+<p>Darba režīmus ir iespējams parādīt vairākos skatos. Starp skatiem var
+pieslēgties ar komandu no izvēlnes</p>
+<p>&gt;Dati &gt; Skats</p>
+<p>Standartā darba režīmi tiek parādīti kā ekrāna formas Windows vidē,
+bet tos pašus datus var parādīt uz ekrāna un izmantot HTML formātā.
+Vairākas reizes nospiežot komandu Skats, darba režīma izskats mainās.
+Atsevišķos sarakstos, kur dati tiek izkārtoti hierarhiski, piemēram,
+kontu plānā, ir pieejams vēl viens – kokveidīgais skats.</p>
+<p><img alt="images_ozols/24556.gif" src="_images/24556.gif" /></p>
+<p><img alt="images_ozols/25289.png" src="_images/25289.png" /></p>
+<p>Ekrāna formās, katrs lietotājs var iestādīt atšķirīgas datu kolonnas
+parādīšanai uz ekrāna, tāpēc darba režīmiem un atskaitēm ir pieejama
+arī HTML skats, kur tiek parādītas tās informācijas kolonnas, kuras
+tiek parādītas uz ekrāna. Lietojot komandu Drukāt, izdrukas formā tiks
+parādītas standarta iebūvētās datu kolonnas. Izmantojot HTML izdrukas
+formātu, iespējams datus nokopēt, iezīmējot datus un izmantojot CTRL+C
+un CTRL+V komandas. Līdz ar to informāciju var pārkopēt Word, Excel
+formātā vai nosūtīt pa e-pastu. Lai drukātu no HTML izdrukas formas,
+nepieciešama Internet Explorer 6. versija.</p>
+<p><img alt="images_ozols/24558.gif" src="_images/24558.gif" /></p>
+</div>
+<div class="section" id="ekrans-un-izdruka">
+<h2>Ekrāns un izdruka<a class="headerlink" href="#ekrans-un-izdruka" title="Permalink to this headline">¶</a></h2>
+<p>Ekrāna un izdrukas konfigurācijas informācija tiek izmantota darbā ar
+datorprogrammas datiem. Ekrāna konfigurēšanas formu var atvērt no
+izvēlnes:</p>
+<p>&gt; Konfigurācija &gt; Iestādījumi &gt; Individuālie &gt; Ekrāns</p>
+<p>Ekrāna un izdrukas iestādījumi nosaka, kāds būs datorprogrammā
+izmantojamo ekrāna formu fons, vai tiks izsaukti drošības jautājumi un
+kādi būs dokumentu izdrukāšanas nosacījumi.</p>
+<p>Ekrāna konfigurācijā var iestādīt, ka drukājot vienmēr tiek izsaukta
+izdrukas dialoga ekrāna forma. Aktivizējot izvēles rūtiņu Drukāt
+atdalošās joslas, atskaitēs drukāsies pelēkas, datu rindas atdalošas
+joslas.</p>
+<p>Laukā Izlīdzinošais simb. skaitļu attēlošanai izvēlētā iespēja
+Pasvītrojums nodrošina skaitļu kolonnas izlīdzinājumu formās. Šai
+izvēlei ir vizuāls raksturs – visi skaitļu ieraksti tiek izlīdzināti
+pēc to labās malas.</p>
+<p>Aktīva izvēles rūtiņa Drošības jautājumi nodrošina drošības jautājumu
+uzdošanu darba laikā.</p>
+</div>
+<div class="section" id="drosibas-jautajumi">
+<h2>Drošības jautājumi<a class="headerlink" href="#drosibas-jautajumi" title="Permalink to this headline">¶</a></h2>
+<p>Uzsākot darbu ar datorprogrammu, drošības jautājumi vienmēr ir
+aktivizēti. Tas ir redzams atverot galvenās izvēlnes komandu</p>
+<p>&gt;Konfigurācija &gt; Iestādījumi &gt; Individuālie &gt; Ekrāns</p>
+<p>Kur ir iezīmēta, aktīva izvēles rūtiņa drošības jautājumi. Katru
+reizi, ieejot programmā no jauna, šie jautājumi tiks aktivizēti.</p>
+<p><img alt="images_ozols/24545.gif" src="_images/24545.gif" /> Drošības jautājumi pasargā datorprogrammā
+ievadītos datus no zaudējumiem, kas var rasties nejaušas izmainīšanas
+vai dzēšanas rezultātā.</p>
+<p>Tomēr, ja jāveic liels apjoms vienveidīgu darbību, drošības jautājumi
+var būtiski kavēt darba ātrumu. Drošības jautājumus var noņemt,
+noņemot izvēles rūtiņas Drošības jautājumi aktivizāciju.</p>
+<p>Drošības jautājums ir ekrāna forma, kurā tiek uzdots jautājums par
+komandas izpildīšanu. Ja vēlaties apstiprināt noteiktas komandas
+izpildi, ekrāna formā Jautājums, spiediet komandpogu Jā. Ja ir
+pieļauta kļūda, un jūs nemaz nevēlaties, lai šāda komanda tiktu
+izpildīta, vienmēr pastāv iespēja spiest komandpogu Nē un atsaukt
+komandas aktivizēšanu.</p>
+<p><img alt="images_ozols/25290.png" src="_images/25290.png" /></p>
+</div>
+<div class="section" id="datu-meklesana">
+<h2>Datu meklēšana<a class="headerlink" href="#datu-meklesana" title="Permalink to this headline">¶</a></h2>
+<p>Datu meklēšanu var veikt dokumentu žurnālos vai sarakstos. Datu
+meklēšanu jāveic no aktīvas ekrāna formas, izmantojot rīku joslu vai
+galveno izvēlni</p>
+<p>&gt;Dati &gt; Meklēt</p>
+<p>Meklējamais parametrs var būt numurs, datums, dokumenta veids, summa
+vai paskaidrojums, atkarībā no atvērtās ekrāna formas informācijas
+satura.</p>
+<p>Meklēšanas ekrāna formā jāievada meklēšanas kritērijs, jānorāda
+meklēšanas parametri, jāspiež komandpoga Meklēt vai taustiņš Enter, un
+kursors ekrāna formā nostāsies uz meklētā ieraksta.</p>
+<p><img alt="images_ozols/25291.png" src="_images/25291.png" /></p>
+</div>
+<div class="section" id="filtrs">
+<h2>Filtrs<a class="headerlink" href="#filtrs" title="Permalink to this headline">¶</a></h2>
+<p>Filtra uzstādīšana ļauj dokumentu žurnālā parādīt tikai nepieciešamos
+dokumentus. Filtru var uzlikt izmantojot rīku joslu vai galveno
+izvēlni</p>
+<p>&gt;Dati &gt; Filtrs</p>
+<p><img alt="images_ozols/25292.png" src="_images/25292.png" /></p>
+<p>Filtra ekrāna formā var norādīt vairākus dokumentu atlases parametrus
+- datumu, summu, dokumenta numuru u.c. Filtra uzstādīšanas parametru
+izvēle datorprogrammās var būt atšķirīga, atkarībā no datu rakstura.
+Datu filtrēšanu var veikt no aktīvas ekrāna formas.</p>
+<p>Uzstādīt filtru var ar komandpogu Uzstādīt. Lai noņemtu uzstādīto
+filtru, filtra ekrāna formu izsauc vēlreiz - filtra izvēles ir jānoņem
+un jālieto komanda Uzstādīt.</p>
+<p>Ja dati ir filtrēti, ekrāna formas apakšā parādās atfiltrēto dokumentu
+ierakstu daudzums, bet iekavās kopējais ierakstu skaits. Lai dokumentu
+žurnālā tiktu parādīti visi ieraksti, filtrs jānoņem.</p>
+</div>
+<div class="section" id="saglabajamie-filtra-iestadijumi">
+<h2>Saglabājamie filtra iestādījumi<a class="headerlink" href="#saglabajamie-filtra-iestadijumi" title="Permalink to this headline">¶</a></h2>
+<p>Filtra izvēles var saglabāt programmā, tādejādi katru reizi nav
+jāizvēlas filtra kritēriji, bet var izmantot jau izveidotās sagataves.
+Lai izmantotu saglabājamo filtru:</p>
+<ol class="arabic simple">
+<li><p>Jāatver filtrs, jāizvēlas filtra kritēriji un tie jāsaglabā</p></li>
+</ol>
+<p><img alt="images_ozols/25293.png" src="_images/25293.png" /></p>
+<p>2. Jānorāda filtra sagataves nosaukums. Lai filtra sagatave būtu
+pieejama visiem lietotājiem, jāaktivizē komanda Kopīga. Jālieto
+komanda Turpināt.</p>
+<p><img alt="images_ozols/25294.png" src="_images/25294.png" /></p>
+<p>3. Saglabātais filtrs ir pieejams laukā Filtra sagatave. Izvēloties
+sagatavi, no tās automātiski tiek aizpildītas filtra izvēles.</p>
+<p><img alt="images_ozols/25295.png" src="_images/25295.png" /></p>
+<p>Izmantot filtru var arī no dokumentu žurnāliem, kur rīku joslā
+komandai Filtrs būs pieejamas saglabātās filtra izvēles. Lai uzliktu
+filtru, jāuzspiež uz saglabātā filtra un dokumenti tiks atlasīti bez
+filtra ekrāna formas atvēršanas.</p>
+<p><img alt="images_ozols/25296.png" src="_images/25296.png" /></p>
+</div>
+<div class="section" id="nakama-dokumenta-pievienosana">
+<h2>Nākamā dokumenta pievienošana<a class="headerlink" href="#nakama-dokumenta-pievienosana" title="Permalink to this headline">¶</a></h2>
+<p>Dokumenta pievienošanas ekrāna formā var aktivizēt iespēju turpināt
+nākamā dokumenta pievienošanu, neaizverot ekrāna formu.</p>
+<p>Lai turpinātu dokumentu pievienošanu, neaizverot ekrāna formu,
+jāaktivizē komandpoga Sagl&amp;Piev.</p>
+<p>Komandpogu Sagl&amp;Piev. pievienošanu var aktivizēt, pielāgojot rīku
+joslu. Komanda Sagl.&amp;Piev. (Karstais taustiņš F12 ) nodrošina jauna
+dokumenta pievienošanas ekrāna formas automātisku parādīšanu pēc
+iepriekšējā dokumenta pievienošanas un saglabāšanas.</p>
+<p><img alt="images_ozols/24569.gif" src="_images/24569.gif" /></p>
+</div>
+<div class="section" id="datu-kolonnu-iestatijumi">
+<h2>Datu kolonnu iestatījumi<a class="headerlink" href="#datu-kolonnu-iestatijumi" title="Permalink to this headline">¶</a></h2>
+<p>Sistēmā ir iespējams izdarīt izmaiņas kolonnu izkārtojumā uz ekrāna,
+kolonnu platumā, kā arī parādīt dažādas citas kolonnas uz ekrāna.
+Kolonnu iestādīšanu var veikt jebkurā atskaitē, dokumentu žurnālā, vai
+sarakstā. Kolonnu konfigurācijas ekrāna formu var izsaukt ar komandas
+Ctrl+K , rīku joslas komandas palīdzību vai lietojot izvēlni</p>
+<p>&gt;Dati &gt; Kolonnas</p>
+<p><img alt="images_ozols/25297.png" src="_images/25297.png" /></p>
+<p>Sistēmā ir iestrādātas standarta kolonnas, un tās standarta variantā
+tiek parādītas uz ekrāna, lai parādītu citas kolonnas, tās no ekrāna
+formas kreisās puses var pārnest uz labo pusi, tādejādi parādot tās uz
+ekrāna (maksimālais iespējamais kolonnu skaits, kuras iespējams
+parādīt uz eksāna – 16 kolonnas). Ar komandām Augstāk, Zemāk tiek
+noteikta kolonnu parādīšanas secība, bet lietojot komandu Atvērt, var
+palielināt vai samazināt kolonnas platumu, kas tiek izmantots datu
+parādīšanai uz ekrāna. Kolonnas, kuru nosaukumi ir izcelti treknrakstā
+ir standarta kolonnas. Lai iestādītu visas standarta kolonnas, jālieto
+komanda Standarta kolonnas.</p>
+<p>Kolonnu iestādījumi tiek saglabāti katram lietotājam atsevišķi. Lai
+izdrukātu datus ar iestādītajām kolonām jālieto HTML izdruka. Iebūvētā
+izdrukas formā, kuru izmanto lietojot komandu Drukāt, tiks drukātas
+Standarta datu kolonnas.</p>
+</div>
+<div class="section" id="dokumentu-numeracija">
+<h2>Dokumentu numerācija<a class="headerlink" href="#dokumentu-numeracija" title="Permalink to this headline">¶</a></h2>
+<p>Dokumenti grāmatvedības sistēmā tiek numurēti pēc to veidiem, sākot no
+viens un skaitot vienu vienību uz priekšu.</p>
+<p>Sistēmas kopīgajos iestādījumos, pirms dokumentu izveidošanas, var
+noteikt dokumentu numerāciju:</p>
+<p>&gt;Konfigurācija &gt; Iestādījumi &gt; Kopīgie &gt; Banka</p>
+<p>&gt;Konfigurācija &gt; Iestādījumi &gt; Kopīgie &gt; Kase</p>
+<p>&gt;Konfigurācija &gt; Iestādījumi &gt; Kopīgie &gt; Krājumi</p>
+<p>Kases un Bankas dokumentiem var izvēlēties kopīgu vai atšķirīgu
+numerāciju pa bankas un kases kontiem. Krājumiem var noteikt kopīgu
+vai atšķirīgu numerāciju visiem krājumu dokumentu veidiem.</p>
+<p>Dzēsto dokumentu numuri sistēmā tiek uzskatīti par izmantotiem. Ja
+netiek mainīta dokumentu numerācijas veidošana, tad dzēstā dokumenta
+numurs otrreiz netiek izmatots. Lai izmainītu dokumentu numerāciju,
+dokumenta pievienošanas ekrāna formā numurus var labot ar roku. Lai
+nākamo dokumentu numerācija skaitītos automatizēti uz priekšu,
+dokumentu laukā Numurs jāuzklikšķina ar peles labo pogu</p>
+<p><img alt="images_ozols/25298.png" src="_images/25298.png" /></p>
+<p>Ar komandas Numerators palīdzību jāatver ekrāna forma, kur var
+norādīt, no kura numura jānumurē nākamie dokumenti. Numerācija tiks
+turpināta ar nākošo skaitli no norādītā laukā Turpināt numerāciju no.</p>
+<p><img alt="images_ozols/25299.png" src="_images/25299.png" /></p>
+<p>Numerācija tiks atsākta no nākamā skaitļa, kas šajā ekrāna formā ticis
+norādīts, ja numuri nav izmantoti datu bāzē saglabātajos dokumentos.</p>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+</div>
+</div>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"></script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="14016.html"
+       title="previous chapter">← Darbs ar atskaitēm</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="14012.html"
+       title="next chapter">Darbs ar programmu →</a>
+  </li>
+</ul>
+<div class="footer" role="contentinfo">
+      &#169; Copyright 2020 Ozols Grupa.
+    <br>
+  Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.1.0 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a>.
+</div>
+                <script type="text/javascript">
+                  $(function(){
+                    $('.image-reference').fancybox();
+                  })
+                </script>
+            </div>
+          </div>
+      </page>
+    </div>
+    
+    
+  </body>
+</html>

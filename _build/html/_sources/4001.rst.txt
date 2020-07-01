@@ -1,0 +1,2 @@
+.. 4001 =================Konfigurācija================= 
+ .. toctree::   :maxdepth: 5    4006.rst   4007.rst

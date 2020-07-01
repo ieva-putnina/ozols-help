@@ -1,9 +1,13 @@
 .. 155 ==============================Apdrošināšanas sabiedrības============================== 
 Lai pievienotu jaunu Apdrošināšanas sabiedrības nosaukumu, Rīku joslā
-jānospiež poga , tiks atvērts logs:
+jānospiež poga .. image:: images_ozols/25605.png
+   :scale: 100%
+, tiks atvērts logs:
 
 
 
+.. image:: images_ozols/26059.png
+   :scale: 100%
 
 
 
@@ -19,6 +23,8 @@ dokumenta <436>` saturā:
 
 
 
+.. image:: images_ozols/26058.png
+   :scale: 100%
 
 
  

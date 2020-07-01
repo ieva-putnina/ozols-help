@@ -13,13 +13,22 @@ kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
 arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
 atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
 
-Datu atlases kritērijus var saglabāt ( ). Izvēloties izveidoto filtra
-sagatavi ( ), filtrs tiek automatizēti aizpildīts no filtra sagataves.
-Lai izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā
-jānospiež poga (Ctrl+F), tiek atvērts filtra logs:
+Datu atlases kritērijus var saglabāt (.. image::
+images_ozols/24938.png
+:scale: 100%
+). Izvēloties izveidoto filtra sagatavi (.. image::
+images_ozols/24943.png
+:scale: 100%
+), filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai
+izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež
+poga .. image:: images_ozols/24535.gif
+:scale: 100%
+(Ctrl+F), tiek atvērts filtra logs:
 
 
 
+.. image:: images_ozols/25625.png
+:scale: 100%
 
 
 
@@ -67,9 +76,17 @@ pārdošanas dokumentiem.
 
 
 Sagatavojot atskaiti, iespējams definēt arī papildus filtra
-nosacījumus (izvēloties partnera veidu) un nospiežot pogu , un, ja
-filtrā visi atskaites kritēriji izvēlēti, jānospiež poga . Sagatavotos
-atskaites datus ir iespējams arī izdrukāt. Lai drukātu datus, rīko
-joslā jānospiež poga (Ctrl+P), un jānospiež poga .
+nosacījumus (izvēloties partnera veidu) un nospiežot pogu .. image::
+images_ozols/25621.png
+:scale: 100%
+, un, ja filtrā visi atskaites kritēriji izvēlēti, jānospiež poga ..
+image:: images_ozols/25619.png
+:scale: 100%
+. Sagatavotos atskaites datus ir iespējams arī izdrukāt. Lai drukātu
+datus, rīko joslā jānospiež poga.. image:: images_ozols/24944.png
+:scale: 100%
+(Ctrl+P), un jānospiež poga .. image:: images_ozols/25620.png
+:scale: 100%
+.
 
  

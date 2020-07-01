@@ -1,0 +1,15 @@
+.. 14025 ================Instrukcijas================ 
+
+#. :doc:`CSNRZRS un OZOLS integrēšanas procesa apraksts<14030>`
+#. :doc:`Darba vietu apraksts<14026>`
+
+    + :doc:`Atlīdzību daļa<14027>`
+    + :doc:`Finanšu daļa<14028>`
+    + :doc:`Juridiskā daļa<14029>`
+
+#. :doc:`Izmaksu veikšana atlīdzību lietās<14031>`
+
+
+
+
+ .. toctree::   :maxdepth: 5    14030.rst   14026.rst   14031.rst

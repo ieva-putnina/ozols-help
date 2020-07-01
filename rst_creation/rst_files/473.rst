@@ -21,6 +21,8 @@ logs:
 
 
 
+.. image:: images_ozols/24985.png
+:scale: 100%
 
 
 
@@ -39,6 +41,8 @@ naudu:
 
 
 
+.. image:: images_ozols/24724.png
+:scale: 100%
 
 
 
@@ -47,6 +51,8 @@ naudu:
 
 
 
+.. image:: images_ozols/24810.png
+:scale: 100%
 
 
 
@@ -55,6 +61,8 @@ naudu:
 
 
 
+.. image:: images_ozols/24811.png
+:scale: 100%
 
 
 
@@ -63,6 +71,8 @@ naudu:
 
 
 
+.. image:: images_ozols/24812.png
+:scale: 100%
 
 
 
@@ -72,6 +82,8 @@ saņemto avansa naudu uzņēmuma bankas kontā:
 
 
 
+.. image:: images_ozols/24807.png
+:scale: 100%
 
 
 Izvēloties nepieciešamo Pircēju, lauki Nor.konts un P.k. tiks
@@ -84,6 +96,8 @@ paskaidrojošo informāciju:
 
 
 
+.. image:: images_ozols/24808.png
+:scale: 100%
 
 
 
@@ -94,31 +108,44 @@ Bankāatgriezta avansaSatura aizpildīšana
 ++++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams
-nospiest pogu un tiks atvērts operācijas satura logs, kurā
-nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās
-dimensijas) un norādīt satura ieraksta summu:
+nospiest pogu.. image:: images_ozols/24708.png
+:scale: 100%
+un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
+satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
+ieraksta summu:
+
+
+
+.. image:: images_ozols/24800.png
+:scale: 100%
 
 
 
 
-
-
-
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
 kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
-satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu .
+satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu ..
+image:: images_ozols/24708.png
+:scale: 100%
+.
 
 
 
 Kad visi nepieciešamie lauki ir aizpildīti, Bankāatgriezts avanssir
 sagatavots un to ir iespējams:
 
-1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
+1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
+:scale: 100%
+-dokuments tiks saglabāts un būs pieejams
 apskatei/labošanai/grāmatošanai vienlaicīgi:doc:`Bankas ieņēmumu<226>`
 un :doc:`Avansu norēķinu<232>` žurnālos.
 
-2. Apstiprināt, nospiežot rīku joslā pogu - Bankāatgriezts avansstiks
-Apstiprināts un to būs iespējams Grāmatot.
+2. Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+:scale: 100%
+- Bankāatgriezts avansstiks Apstiprināts un to būs iespējams Grāmatot.
 
 
 
@@ -130,10 +157,15 @@ izvēloties (iezīmējot)dokumentu :doc:`Bankas ieņēmumu<226>` vai
 :doc:`Avansu norēķinu<232>` žurnālā.
 
 Lai iegrāmatotu Bankāatgrieztu avansu, dokumentu nepieciešams
-Apstiprināt, nospiežot rīku joslā pogu .
+Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+:scale: 100%
+.
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu .
+pogu .. image:: images_ozols/24741.png
+:scale: 100%
+.
 
 
 
@@ -148,16 +180,25 @@ Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu
 Bankāatgriezts avanss, kurš vienlaicīgi pieejams
 apskatei/labošanai:doc:`Bankas ieņēmumu<226>` :doc:`<224>` un
 :doc:`Avansu norēķinu<232>` dokumentu žurnālos. Lai veiktu
-labojumus,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
+labojumus,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu..
+image:: images_ozols/24709.png
+:scale: 100%
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 
 
 
+.. image:: images_ozols/24813.png
+:scale: 100%
 
 
 
 
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
  

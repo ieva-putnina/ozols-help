@@ -3,6 +3,8 @@ saraksts. Katram ārējā maksājuma mērķim tiek piešķirts trīsciparu
 maksājuma kods, atbilstoši maksājumu bilances starptautiskajiem
 standartiem.
 
+.. image:: images_ozols/26456.png
+   :scale: 100%
 
 
 Ārējo maksājumu klasifikators tiek lietots, lai veiktu pārskaitījumus

@@ -1,0 +1,71 @@
+.. 105 Cenu veidi************** 
+Sarakstā tiek saglabāti cenu veidi, kas tiek izmantoti :doc:`Cenošanas
+dokumentos<231>` dažādu cenu noteikšanai :doc:`precēm<106>` .
+Iespējams izveidot neierobežotu daudzumu cenu veidu, kurus iespējams
+piesaistīt pircējam , norādot atbilstošo cenu veidu:doc:`Partnera
+apraksta<312>` sadaļā "Pārējie dati", lai tādā veidā atšķirīgām
+pircēju grupām varētu definēt atšķirīgus cenu veidus.
+
+
+Jauna Cenu veida pievienošana
+`````````````````````````````
+
+Lai pievienotu jaunu Cenu veidu,rīku joslā jānospiež poga
+|images_ozols/24708.png| un tiks atvērts jauns logs:
+
+
+
+
+|images_ozols/26500.png|
+
+
+
+Nosaukums: Jāpiešķir cenas veida nosaukums (piemēram, patstāvīgo
+klientu cena)
+
+
+
+
+Izmantojot pogu |images_ozols/24708.png| , cenu veidam iespējams
+piesaistīt uz konkrētu datumu valūtu un valūtas kursu:
+
+
+
+
+
+|images_ozols/26501.png|
+
+
+
+
+**Veids:** lauks automātiski tiek aizpildīts no pievienotā cenas veida
+nosaukuma lauka;
+
+**Datums: **datums, uz kuru valūta un valūtas kurss tiek noteikts;
+
+**Valūta:** no saraksta iespējams izvēlēties atbilstošo valūtu, kas
+piesaistīta definētajam cenas veidam;
+
+**Kurss:** nepieciešams ievadīt valūtas kursu uz izvēlēto datumu.
+
+
+
+
+Ieraksts tiks saglabāts, izpildot komandu |images_ozols/24710.png| .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/26500.png| image:: images_ozols/26500.png
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/26501.png| image:: images_ozols/26501.png
+:scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+:scale: 100%
+
+ 

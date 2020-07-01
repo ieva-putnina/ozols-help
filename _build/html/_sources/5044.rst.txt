@@ -1,0 +1,27 @@
+.. 5044 Budžeta projektu žurnāls**************************** 
+Lietotājam, kuram lietotāja kontā nodefinētas tiesības mainīt
+dokumentu statusus, ir iespējams mainīt budžeta pieprasījumu statusus
+uz atpakaļejošu statusu, līdz pat pieprasījuma dzēšanai.
+
+
+
+Lai mainītu dokumentu statusu, filtrā jānorāda dokumentu konkrētu
+statusu, sarakstā jāatzīmē konkrētos dokumentus un norādot
+atpakaļejošu statusu, jāapstiprina:
+
+
+
+|images_ozols/26318.png|
+
+
+
+Pēc apstiprināšanas, filtrā jānorāda atpakaļejošs status, lai
+atfiltrētu pieprasījumu, kuram tika mainīts statuss.
+
+Statusa maiņa nepieciešama, lai veiktu budžeta pieprasījuma sākuma
+informācijas korekcijas.
+
+.. |images_ozols/26318.png| image:: images_ozols/26318.png
+:scale: 100%
+
+ 

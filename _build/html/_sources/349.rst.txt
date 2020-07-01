@@ -1,0 +1,258 @@
+.. 349 Bankas ieejošais maksājums****************************** 
+
+
+Bankas ieejošais maksājums ir dokuments, kas noformē saņemtos naudas
+līdzekļus noteiktā bankas kontā. Bankas ieejošais maksājums ir
+jāveido, kad kontā tiek saņemta nauda no pircējiem vai citi
+ieskaitījumi. Izmantojot sasaisti ar :doc:`Bankas elektronisko
+norēķinu sistēmu<160>` , bankas ieejošos maksājumus var importēt datu
+bāzē. Dokuments tiek saglabāts žurnālā :doc:`Bankas ieņēmumi<226>` .
+
+
+
+JaunaBankas ieejošā maksājumapievienošana
+`````````````````````````````````````````
+
+Izvēloties dokumenta veidu Bankas ieejošais maksājums, tiks atvērts
+jauns logs:
+
+
+
+|images_ozols/24988.png|
+
+
+
+Bankāieejošā maksājuma Virsraksta aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai aizpildītudokumenta Virsrakstu, nepieciešams:
+
+
+
+1. Norādīt Uzņēmuma bankas kontu, uz kuru tiek saņemta nauda no
+pircējiem vai citi ieskaitījumi.:
+
+
+
+|images_ozols/24724.png|
+
+
+
+2. Norādīt Bankas ieejošā maksājuma numuru:
+
+
+
+|images_ozols/24810.png|
+
+
+
+3. Izvēlēties Datumu, kurā šisdokuments tiek veidots:
+
+
+
+|images_ozols/24811.png|
+
+
+
+4.Ievadīt nepieciešamo Bankas ieejošā maksājumakopējo Dokumenta summu:
+
+
+
+|images_ozols/24812.png|
+
+
+
+5. No saraksta izvēlēties nepieciešamo Pircēju - fizisku vai juridisku
+personu, no kuras tiek saņemta nauda uzņēmuma bankas kontā:
+
+
+
+|images_ozols/24816.png|
+
+
+
+Izvēloties nepieciešamo Pircēju, lauki Nor.konts un R.Nr. tiks
+aizpildīti automātiski no :doc:`Partnera kartiņas<312>` .
+
+
+
+5. Laukā Teksts iespējams ievadīt Bankas ieejošā dokumenta
+paskaidrojošo informāciju:
+
+
+
+|images_ozols/24817.png|
+
+
+
+
+
+Bankas ieejošā maksājuma apstrāde, importējot datus no :doc:`Bankas
+elektronisko norēķinu sistēmas<160>`
+++++++++++++++++++++++++++++++++++++
+
+
+
+Ja ieejošie maksājumi tiek importēti no :doc:`Bankas elektronisko
+norēķinu sistēmām<160>` , tad maksājuma mērķis (lauks Teksts ),
+partnera (lauks Pircējs )rekvizīti, dokumenta datums (lauks Datums )un
+dokumenta kopējāsumma(lauks Summa ) jau būs ieimportēti.
+
+
+
+Apstrādājot dokumentu, laukā Pircējs nepieciešams atšifrēt partneri,
+no kura nauda ir saņemta:
+
+
+
+|images_ozols/24820.png|
+
+
+
+Ja datu bāzē tiks atrasts Partneris, kura nosaukums sakritīs ar
+importētā dokumenta virsrakstā norādīto nosaukumu, lauki Nor.konts un
+R.Nr. tiks aizpildīti automātiski no atšifrētā:doc:`Partnera
+kartiņas<312>` .
+
+
+
+Bankas ieejošā maksājumaSatura aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams
+nospiest pogu |images_ozols/24708.png| un tiks atvērts operācijas
+satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā
+izmantotās dimensijas) un norādīt satura ieraksta summu:
+
+
+
+|images_ozols/24818.png|
+
+
+
+|images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiem
+satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
+summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
+atkārtoti nospiežot pogu |images_ozols/24708.png| .
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti, Bankas ieejošais
+maksājumsir sagatavots un to ir iespējams:
+
+1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
+saglabāts un būs pieejams apskatei/labošanai/grāmatošanai:doc:`Bankas
+ieņēmumu žurnālā<226>` .
+
+2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| -
+Bankas ieejošais maksājumstiks Apstiprināts un to būs iespējams
+Grāmatot.
+
+
+
+Bankas ieejošā maksājumagrāmatošana
+```````````````````````````````````
+
+Bankas ieejošo maksājumu iespējams grāmatot no atvērta dokumenta vai
+izvēloties (iezīmējot)dokumentu :doc:`Bankas ieņēmumu žurnālā<226>` .
+
+Lai iegrāmatotu Bankas ieejošo maksājumu, dokumentu nepieciešams
+Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| .
+
+Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu |images_ozols/24741.png| .
+
+
+
+Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
+
+
+
+PievienotāBankas ieejošā maksājuma labošana
+```````````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu
+Bankas ieejošais maksājums, kurš pieejams
+apskatei/labošanai:doc:`Bankas ieņēmumu žurnālā<226>` . Lai veiktu
+labojumus,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
+|images_ozols/24709.png| (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus:
+
+
+
+|images_ozols/24819.png|
+
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+
+
+
+
+
+.. |images_ozols/24988.png| image:: images_ozols/24988.png
+:scale: 100%
+
+.. |images_ozols/24724.png| image:: images_ozols/24724.png
+:scale: 100%
+
+.. |images_ozols/24810.png| image:: images_ozols/24810.png
+:scale: 100%
+
+.. |images_ozols/24811.png| image:: images_ozols/24811.png
+:scale: 100%
+
+.. |images_ozols/24812.png| image:: images_ozols/24812.png
+:scale: 100%
+
+.. |images_ozols/24816.png| image:: images_ozols/24816.png
+:scale: 100%
+
+.. |images_ozols/24817.png| image:: images_ozols/24817.png
+:scale: 100%
+
+.. |images_ozols/24820.png| image:: images_ozols/24820.png
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/24818.png| image:: images_ozols/24818.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+:scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+:scale: 100%
+
+.. |images_ozols/24741.png| image:: images_ozols/24741.png
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/24819.png| image:: images_ozols/24819.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

@@ -1,0 +1,39 @@
+.. 102 ====================Nodokļu saraksts==================== 
+
+
+
+Nodokļu sarakstā tiek definētas visas pievienotās vērtības nodokļu
+likmes.
+
+
+
+Nodokļu sarakstā definētās likmes tiek izmantotas definējot
+:doc:`nomenklatūras grupas<148>` un aizpildot :doc:`Norēķinu
+dokumentu<310>` satura ierakstus.
+
+Lai nodokļu sarakstā pievienotu jaunu pievienotās vērtības nodokli,
+rīku joslā jānospiež poga |images_ozols/25605.png| , tiek atvērt logs:
+
+
+
+|images_ozols/26559.png|
+
+
+
+
+Kods : apzīmējums, kurš viegli atpazīstams dokumentu sarakstos.
+
+Nosaukums: Nodokļa pilns nosaukums.
+
+Vērtība: Nodokļa procentuālā vērtība.
+
+Konts : :doc:`Kontu plānā<114>` izveidotais pievienotās vērtības
+nodokļa grāmatvediskais konts.
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+        :scale: 100%
+
+.. |images_ozols/26559.png| image:: images_ozols/26559.png
+        :scale: 100%
+
+ 

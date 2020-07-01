@@ -1,0 +1,12 @@
+.. 14068 ===================Darba uzsākšana=================== 
+:doc:`1.Darba uzsākšana sistēmas OZOLS lietotājiem<14133>`
+
+:doc:`2.Darba uzsākšana grāmatvežiem<14134>`
+
+:doc:`3.Darba uzsākšana ar iOzols personāla sistēmu`
+:doc:`
+4.Darba uzsākšana ar OZOLS ēdināšanas risinājumu`
+:doc:`
+5.Darba uzsākšana ar OZOLS maksājumu uzskaites moduli`
+
+ .. toctree::   :maxdepth: 5    14133.rst   14134.rst   14138.rst   14139.rst   14140.rst

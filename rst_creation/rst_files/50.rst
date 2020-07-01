@@ -1,4 +1,4 @@
-.. 50 Datu apmaiņa ar banku========================= .. role:: raw-html(raw)     :format: html
+.. 50 Datu apmaiņa ar banku========================= 
 
 
 Grāmatvedības sistēmā Ozols ir iebūvētas iespējas izmantot banku

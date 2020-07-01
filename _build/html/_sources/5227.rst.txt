@@ -1,0 +1,2 @@
+.. 5227 =================Klasifikatori================= 
+ .. toctree::   :maxdepth: 5    5055.rst   5053.rst   5025.rst   5020.rst   5052.rst   5244.rst   5245.rst   6619.rst   5051.rst   5054.rst   5014.rst   5013.rst   5084.rst

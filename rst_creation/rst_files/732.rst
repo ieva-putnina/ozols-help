@@ -3,6 +3,8 @@ Nodefinēta algu kopīgā konfigurācija ietekmē kopējo algu aprēķinu:
 
 
 
+.. image:: images_ozols/26524.png
+:scale: 100%
 
 
 

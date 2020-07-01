@@ -1,0 +1,48 @@
+.. 749 Cenas********* 
+Sarakstā tiek saglabāti ierakstu ar preču cenām, kas veidotas
+balstoties uz Cenošanas dokumentu.
+
+|images_ozols/24545.gif| Instrukcija par preču cenošanu: :doc:`Preču
+cenošana no Iepirkumu dokumenta<14104>`
+
+Tāpat arī šajā sarakstā iespējams pievienot preču cenas konkrētai
+precei manuāli.
+Lai pievienotu jaunu cenu esošajai precei, jāizmanto komanda
+|images_ozols/24879.png| no rīku joslas (Alt+P) un tiks atvērts jauns
+logs:
+
+|images_ozols/26499.png|
+
+**Cenošanas.dok.:** lauks netiks aizpildīts, ja ieraksts būs
+pievienots manuāli nevis no :doc:`Cenošanas dokumenta<374>` ;
+**Noliktava:** :doc:`Noliktava<142>` , uz kuru izveidotā cena būs
+spēkā;
+**Veids:** :doc:`Cenas veids<105>` , kuru iespējams piesaistīt
+konkrētam partnerim, norādot to :doc:`Partnera<312>` aprakstā;
+**Datums:** datums, no kura šī izveidotā cena būs spēkā;
+**Prece:** no saraksta iespējams izvēlēties :doc:`Nomenklatūru<106>` ,
+kurai cena tiek noteikta;
+**Cena p.v.bez PVN: **nepieciešams ievadīt cenu veidam atbilstošo cenu
+pamatvalūtā bez PVN
+**Cena p.v.ar PVN:** automātiski tiek noteikta cena ar PVN
+pamatvalūtā, balstoties uz cenu bez PVN un noteiktu PVN likmi
+:doc:`Grupai<148>` , kurā atrodas šī prece, kas tiek cenota.
+**Piezīmes:** brīvā formā iespējams ievadīt piezīmes par attiecīgo
+ierakstu.
+Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu
+|images_ozols/24867.png| no rīku joslas vai(Ctrl+S)
+
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24879.png| image:: images_ozols/24879.png
+:scale: 100%
+
+.. |images_ozols/26499.png| image:: images_ozols/26499.png
+:scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+:scale: 100%
+
+ 

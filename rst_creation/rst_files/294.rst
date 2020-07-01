@@ -10,15 +10,21 @@ iespēja koriģēt pēc aktīvā perioda aktuālās informācijas.
 Pārskaitījumu žurnālā tiek pievienots katra strādājošā ikmēneša avansa
 summa. Izvēloties slodzi lietotājam laukā Bankas konts ir iespēja
 nodefinēt strādājošā bankas kontu uz kuru tiks pārskaitīts avanss.
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Veidojot avansu izmaksas ierakstu obligāti sadaļā Maksājuma tips ir
 jānorāda Avanss.
 
 
 JaunuPārskaitījumu strādājošajam iespējams pievienot, rīku joslā
-nospiežot pogu:
+nospiežot pogu: .. image:: images_ozols/25605.png
+:scale: 100%
 
 
 
+
+.. image:: images_ozols/26252.png
+:scale: 100%
 
 
 
@@ -41,6 +47,8 @@ noteiktaispārskaitījums būs spēkā, šo datumuvar neaizpildīt
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Daudzdimensiju uzskaitē (budžeti, ekonomiskās klasifikācijas kodi,
 utt.) lietotājam papildus obligāti veidojot avansu izmaksas ierakstu
 jānorāda no kādām dimensijām avanss tiks veidots. Jānorāda summa, un

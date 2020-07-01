@@ -1,0 +1,24 @@
+.. 213 Aprēķinu moduļi******************* 
+
+
+Algu aprēķinu moduļu sarakstā tiek veidoti algu aprēķinu moduļi, kas
+tiek izmantotialgu konfigurācijā :doc:`Ieejošo kodu
+konfigurācijā<282>` un :doc:`Rezultējošo kodu konfigurācijā<283>` .
+Aprēķinot algas pietiek ar vienu algu aprēķina moduli. Otrs aprēķinu
+modulis jāveido, ja uzņēmumā būtiski mainās algu aprēķinu politika un
+algoritms.
+
+
+
+|images_ozols/26350.png|
+
+
+
+Nosaukums - jānorāda algu aprēķina moduļa nosaukums.
+
+Piezīmes - iespēja norādīt algu aprēķina moduļa piezīmes.
+
+.. |images_ozols/26350.png| image:: images_ozols/26350.png
+:scale: 100%
+
+ 

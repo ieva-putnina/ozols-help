@@ -1,0 +1,146 @@
+.. 114 ===============Kontu plāns=============== 
+
+
+
+Sarakstā tiek saglabāti grāmatvediskie konti, kas tiek izmantoti
+:doc:`dokumentu grāmatošanai<14044>` , :doc:`grāmatojumu
+šablonos<135>` un :doc:`Virsgrāmatas<529>` atskaišu sagatavošanai.
+Kontu plānu var izveidot neierobežoti plašu un hierarhisku.
+:doc:`Hierarhiskais<14041>` kontu plāns nodrošina datu grupēšanu uz
+augstākajiem kontu līmeņiem.
+
+
+
+Jauna konta pievienošana
+````````````````````````
+
+Lai kontu plānā pievienotu jaunu kontu , jāizmanto komanda
+|images_ozols/24708.png| no rīku joslas (Alt+P) un tiks atvērts jauns
+logs:
+
+
+
+|images_ozols/26136.png|
+
+
+
+Augstākais konts: kontam, kuru jāpievieno kā subkontu (zemāka līmeņa
+kontu), jānorāda augstāk esošais konts. Ja augstāka līmeņa konts nav,
+tad kā augstāko kontu norāda [Nav]:
+
+
+
+|images_ozols/26133.png|
+
+
+
+Konts: jānorāda konts;
+
+Nosaukums: jānorāda konta nosaukums;
+
+Statuss: jānorāda vai kontam ir atļauta, aizliegta datu ievade, vai
+arī ieraksts ir slēgts:
+
+
+
+|images_ozols/26134.png|
+
+
+
+Aizliegt datu ievadi -kontu nevarēs izmantot grāmatojumos, bet varēs
+izmantot veidojot atskaites. Šo konta statusu vēlams izmantot
+augstākajiem kontu līmeņiem hierarhiskajā kontu plānā.
+Atļaut datu ievadi - šo statusu izmantot pievienojot jaunu kontu, kuru
+varēs izmantot grāmatojot dokumentus.
+
+
+
+|images_ozols/24545.gif| Abu augstāk minēto statusu maiņa esošajiem
+kontiem, neietekmē vēsturiski grāmatotos dokumentus un atskaites.
+
+
+Ieraksts ir slēgts - kontu nevarēs izmantot grāmatojumos un veidojot
+atskaites.
+
+
+
+Konta atlikums: konta atlikuma un grāmatojuma puses (debetā, kredītā
+vai abos):
+
+
+
+|images_ozols/26135.png|
+
+
+
+Dimensiju lietošana grāmatojumos:
+
+
+
+|images_ozols/26137.png|
+
+
+
+Lietot obligāti: dimensija tiks lietota grāmatojumā. Grāmatojumu nebūs
+iespējams saglabāt, ja netiks norādīta attiecīgā dimensija;
+
+Lietot pēc izvēles: grāmatojot iespējams izvēlēties, lietot vai
+nelietot;
+
+Nelietot: grāmatojumos netiks lietotā attiecīgā dimensija.
+
+
+
+|images_ozols/26138.png| - tiek lietots, lai attiecīgajam kontam tiktu
+rēķinātas :doc:`valūtu kursu svārstības<675>` :
+
+
+
+|images_ozols/26139.png| - tiek lietots, ja nepieciešams :doc:`valūtu
+kursu svārstību<675>` sadalījums pa dimensijām
+
+Lai konts tiktu pievienots un saglabāts kontu plānā, jānospiež poga
+|images_ozols/25621.png| .
+
+Lai veiktu izmaiņas pievienotajos kontos, ieraksts ir jāatver, rīku
+joslā nospiežot pogu |images_ozols/24869.png| un jāveic izmaiņas. Lai
+saglabātu veiktās izmaiņas ir jānospiež poga |images_ozols/24867.png|
+.
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+        :scale: 100%
+
+.. |images_ozols/26136.png| image:: images_ozols/26136.png
+        :scale: 100%
+
+.. |images_ozols/26133.png| image:: images_ozols/26133.png
+        :scale: 100%
+
+.. |images_ozols/26134.png| image:: images_ozols/26134.png
+        :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+        :scale: 100%
+
+.. |images_ozols/26135.png| image:: images_ozols/26135.png
+        :scale: 100%
+
+.. |images_ozols/26137.png| image:: images_ozols/26137.png
+        :scale: 100%
+
+.. |images_ozols/26138.png| image:: images_ozols/26138.png
+        :scale: 100%
+
+.. |images_ozols/26139.png| image:: images_ozols/26139.png
+        :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+        :scale: 100%
+
+.. |images_ozols/24869.png| image:: images_ozols/24869.png
+        :scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+        :scale: 100%
+
+ 

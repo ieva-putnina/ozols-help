@@ -4,6 +4,8 @@
 Atskaite parāda uzkrājumu neizmantotajam atvaļinājumam katram
 strādājošajam dienu un summu veidā.
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 1. Lai atskaite tiktu sagatavota pareizi, programmā jāveic precīza
 atvaļinājumu datu uzskaite. Uzsākot darbu ar programmu strādājošā
 :doc:`Slodzei<207>` norāda neizmantoto atvaļinājumu dienu skaitu uz
@@ -11,6 +13,8 @@ konkrētu datumu:
 
 
 
+.. image:: images_ozols/26199.png
+:scale: 100%
 
 
 
@@ -22,6 +26,8 @@ atvaļinājumu dienu skaitam:
 
 
 
+.. image:: images_ozols/26200.png
+:scale: 100%
 
 
 
@@ -32,6 +38,8 @@ nozīmē, kapar katru pilnu nostrādāto mēnesišim darbiniekam pienākas
 mēnešiem~ 1.67 atv.dienas par pilnu nostrādāto mēnesi).
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Sagatavojot atskaiti, tajā tiek iekļautas visas datu atlases filtram
 atbilstošās slodzes. Sagatavojot atskaiti, atskaitē tiek uzrādīti šādi
 dati:

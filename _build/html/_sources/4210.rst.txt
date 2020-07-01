@@ -1,0 +1,298 @@
+.. 4210 Regresa lietu žurnāls************************* 
+
+
+Sistēmā OZOLS izveido Regresa lietas kartiņu, uz kuru tiek pārnesti
+dati no CSNRZRS (atlīdzības lietas numurs; CSN atpazinums; datums;
+vieta; lēmuma summa; informācija par vainīgo un cietušo CSNg). Vienā
+regresa lietā var dažādā laikā iekļaut vairākas atlīdzības lietas —
+nepieciešama atlīdzības lietas iekļaušanas datuma un laika atzīmēšana.
+
+Uzsākot jaunu regresa lietu, tiek aizpildīta regresa lietas kartiņa,
+kurā tiek norādīta nepieciešamā informācija (atlīdzības lietas numurs,
+atbildīgais jurists, TRL vadītājs, maksātājs). Izveidotā regresa
+lietas kartiņa sastāv no vairākām lapaspusēm - Info, Labot,
+Pirmdokumenti, Grāmatojumi, Bilance, Korespondence, R.L.S.A.V.,
+Apmaksas plāns, Koresp.(Jauns):
+
+
+
+|images_ozols/26287.png|
+
+
+
+1. Info - regresa lietas kartiņas lapā redzama visa pieejamā
+informācija par ievadīto regresa lietu.
+
+
+
+2. Labot - šajā lapā ir iespējams veikt labojumus un papildinājums
+šādos laukos - atbildīgais jurists; lietas pieņemšanas datums; summa,
+no kuras tiek aprēķināts kavējama naudas procents; regresa maksātājs;
+galvinieks (informatīvs lauks); lietas slēgšanas datums; iemesls;
+piezīmes.
+
+
+
+No regresa lietas kartiņas lapas pieejams kav.naudu\Procentu
+kalkulators , kur iespējams nodefinēt regresa lietassummu, no kuras
+tiks aprēķināti kavējuma naudas procentiun atrunāto procenta
+likmidienā, pēc kura tiks aprēķināts kavējuma naudas apmērs:
+
+
+
+|images_ozols/26288.png|
+
+
+
+Summa: Nepieciešams ievadīt summu, no kuras % nepieciešams aprēķināt.
+
+Procenti dienā: nepieciešams norādīt procentu lielumu, balstoties uz
+kuru tiks veikts kavējuma naudas aprēķins.
+
+Datums no...līdz: Nepieciešams norādīt apmaksas periodu.
+
+Dienu tips: Jānorāda atbilstošais tips,balstoties uz kuru tiks veiks
+kavējuma naudas aprēķins: "Kalendārās dienas" vai "Darba dienas".
+
+Dienas : Dienas tiks aprēķinātas automātiski, izejot no ievadītās
+informācijas par laika periodu (datumus no...līdz) un norādīto dienu
+tipu (kalendārās vai darba dienas).
+
+Aprēķinātā summa: Sarēķinātā kavējuma naudas summa, balstoties uz
+iepriekš ievadīto regresa lietas summu, no kuras kavējuma nauda
+jāaprēķina, procenta likmi un dienu skaitu, par kuru kavējuma nauda
+jāaprēķina.
+
+
+
+Atzīmējot izvēles rūtiņu "salikti procenti" - Aprēķinātā summa tiks
+aprēķināta, balstoties uz salikto procentu aprēķinu algoritmu - t.i.
+summa tiks aprēķināta, pamatsummas procentiem pieskaitot procentus no
+agrākajiem periodiem uzkrātajiem procentiem.
+
+
+
+Atzīmējot izvēles rūtiņu "ģenerēt rēķinu" - tiks atvērti papildus
+lauki, kuros iespējams norādīt:
+
+
+
+|images_ozols/26289.png|
+
+
+
+Lai sagatavotu rēķinu, nepieciešams izpildīt komandu "Izveidot rēķinu"
+, izpildot šo darbību tiks uzģenerēts izvēlētā dokumenta veida rēķins,
+kurš būs pieejams :doc:`Iepirkumu dokumentu žurnālā<210>` .
+
+
+
+Lai labotos/pievienotos datus regresa lietas kartiņas lapā saglabātu,
+nepieciešams nospiest pogu: |images_ozols/25621.png| .
+
+
+
+3. Pirmdokumenti - regresa lietas kartiņas lapāattēlota visa
+informācija par Pirmdokumentiem, kas saistīti ar atbilstošās regresa
+lietas numuru. Jebkuru no dokumentiem iespējams
+pievienot/atvērt/drukāt/. Norēķinu dokumentu, izvēloties pogu
+"Funkcijas", iespējams saistīt ar kādu no Finanšu dokumentiem.
+
+
+
+4. Grāmatojumi - regresa lietas kartiņas lapā attēlota visa
+informācija par Grāmatojumiem, kas saistīti ar regresa lietas numuru.
+Jebkuru no grāmatojumiem iespējams Atvērt. Tāpat arī no šīs lapas
+iespējams izveidot manuālo grāmatojumu vai arī automātiski pievienot
+kādu no grāmatojumiem pēc iepriekš izveidotiem šabloniem:
+
+
+
+|images_ozols/26291.png|
+
+
+
+5. Bilance - regresa lietas kartiņas lapā attēlota informācija par
+bilances stāvokli, balstoties uz veiktajiem grāmatojumiem saistībā ar
+izvēlētās regresa lietas numuru.
+
+
+
+6. Korespondence - regresa lietas kartiņas lapā attēlota informācija
+par iepriekš, brīvā formā ievadīto korespondenci saistībā ar
+atbilstošo regresa lietas numuru, kur iepriekš korespondenci bija
+iespējams ievadīt brīvā tekstā, norādot korespondējošos dokumentus
+saistībā ar lietu.
+
+
+
+7. R.L.S.A.V. - regresa lietas summas atgūšanas veids - šajā lapā
+iespējams ievadīt informāciju, norādot datumu un veidu, balstoties uz
+kuru regresa lietas summa tiks atgūta:
+
+
+
+|images_ozols/26293.png|
+
+
+
+8. Apmaksas plāns - situācijā, kad panākta vienošanās par maksāšanu,
+šajā regresa lietas kartiņas lapā iespējams ģenerēt apmaksas plāna
+grafiku, balstoties uz norādīto pamatinformāciju par maksājumu
+termiņu, skaitu un definēto procentu:
+
+
+
+|images_ozols/26295.png|
+
+
+
+Pēc pamatinformācijas aizpildīšanas, iespējams ģenerēt apmaksas plānu,
+vai ja tāds jau bijis izveidots - rediģēt esošo plānu. Nospiežot pogu
+"Grafiks", tiks piedāvātas abas šīs funkcijas.
+
+Izvēloties funkciju: "Ģenerēt apmaksas grafiku", tiks piedāvāts
+automātiski izveidot vienošanās korespondenci, kur tiek norādīts
+izvēlētais Process, stadija, korespondences datums, adresāts:
+
+
+
+|images_ozols/26296.png|
+
+
+
+Atzīmējot izvēles rūtiņu "Atgādināt": Programmā tiks atvērts
+atgādinājums, pienākot termiņam, kas norādīt procesa aprakstā:
+
+
+
+|images_ozols/26297.png|
+
+
+
+Nospiežot pogu |images_ozols/25621.png| piedāvājuma loga, tiks
+uzģenerēts apmaksas plāns, kura virsrakstā (vai arī pie katra satura
+ieraksta) ir iespējams norādīt uzņēmuma bankas kontu, uz kuru
+maksājums jāveic, kā arī manuāli mainīt maksājumu summu, tādejādi
+programmā automātiski tiks pārrēķināti atlikušie maksājumi:
+
+
+
+|images_ozols/26298.png|
+
+
+
+|images_ozols/24545.gif| Lai saglabātu apmaksas plānu, visiem laukiem
+jābūt aizpildītiem!
+
+
+
+Sagatavoto apmaksas grafiku iespējams izdrukāt, izvēloties pogu:
+|images_ozols/25620.png| un izvēloties atbilstošo kopējo izdrukas
+formu: "Vienošanās izdruka" (bez pielikuma), "Vienošanās pielikums"
+vai "Vienošanās_atb_uz_vēstuli".
+
+
+
+|images_ozols/24545.gif| Ja nepieciešams veikt kādas korekcijas
+izdrukas formā, tad šādus labojumus iespējams veikt no izdrukas loga -
+eksportējot izvēlēto izdrukas formu MsWord formātā:
+|images_ozols/26300.png| , veicot korekcijas un izdrukājot Word
+dokumentu.
+
+
+
+9. Koresp.(Jauns) - regresa lietas kartiņas lapā attēlota informācija
+par visu ievadīto korespondenci saistībā ar izvēlētās regresa lietas
+numuru.
+
+No šīs lapas iespējams pievienot arī jaunus ierakstus, atvērtajā darba
+režīma logā nospiežot pogu "Pievienot" - tiks atvērts jauns logs:
+
+
+
+|images_ozols/26303.png|
+
+
+
+Virsraksts: Nepieciešams norādīt korespondences virsrakstu.
+
+Process: No saraksta nepieciešams izvēlēties atbilstošo biznesa
+procesu korespondencei.
+
+Stadija: No saraksta nepieciešams izvēlēties atbilstošo stadiju
+(atbilstoši katrai stadijai, pēc tam veicot korespondences izdruku,
+iespējams arī izvēlēties atbilstošo kopīgo izdrukas formu).
+
+Partneris: Partnera lauks tiek aizpildīts automātiski no regresa
+lietas.
+
+Kontaktpersona: Iespējams norādīt kontaktpersonu, izvēloties no
+saraksta.
+
+Kopresp.datums: Lauks tiek aizpildīts automātiski, ieliekot tekošās
+dienas datumu un laiku.
+
+Adresāts: Nepieciešams norādīt korespondences adresātu, kam šī
+informācija adresēta.
+
+Izdrukāt korespondenci iespējams no atvērta Ien.Izg.korespondences
+loga, nospiežot rīku joslā pogu: |images_ozols/25813.png| un
+izvēloties atbilstošo kopīgo izdrukas formu. Korespondence tiks
+saglabāta, nospiežot pogu: |images_ozols/25621.png| .
+
+.. |images_ozols/26287.png| image:: images_ozols/26287.png
+:scale: 100%
+
+.. |images_ozols/26288.png| image:: images_ozols/26288.png
+:scale: 100%
+
+.. |images_ozols/26289.png| image:: images_ozols/26289.png
+:scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+:scale: 100%
+
+.. |images_ozols/26291.png| image:: images_ozols/26291.png
+:scale: 100%
+
+.. |images_ozols/26293.png| image:: images_ozols/26293.png
+:scale: 100%
+
+.. |images_ozols/26295.png| image:: images_ozols/26295.png
+:scale: 100%
+
+.. |images_ozols/26296.png| image:: images_ozols/26296.png
+:scale: 100%
+
+.. |images_ozols/26297.png| image:: images_ozols/26297.png
+:scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+:scale: 100%
+
+.. |images_ozols/26298.png| image:: images_ozols/26298.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/25620.png| image:: images_ozols/25620.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/26300.png| image:: images_ozols/26300.png
+:scale: 100%
+
+.. |images_ozols/26303.png| image:: images_ozols/26303.png
+:scale: 100%
+
+.. |images_ozols/25813.png| image:: images_ozols/25813.png
+:scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+:scale: 100%
+
+ 

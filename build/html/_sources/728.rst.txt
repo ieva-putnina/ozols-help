@@ -16,11 +16,15 @@ tādejādi samazinot datu ievades apjomu.
 
 Lai atlasītu datus Algu tarifikācijā, jāizmanto datu atlases filtrs.
 Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
-kritērijiem filtra ekrāna formā. Rīku joslā nopiežot pogu (Ctrl+F),
-tiek atvērts filtra logs:
+kritērijiem filtra ekrāna formā. Rīku joslā nopiežot pogu.. image::
+images_ozols/24535.gif
+:scale: 100%
+(Ctrl+F), tiek atvērts filtra logs:
 
 
 
+.. image:: images_ozols/26144.png
+:scale: 100%
 
 
 
@@ -39,15 +43,22 @@ Slodzes: iespēja atlasīt algu tarifikācijas datu tikai par aktīvām vai
 neaktīvām slodzēm
 
 Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
-kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga ..
+image:: images_ozols/25944.png
+:scale: 100%
+.
 
 
 
 Jaunu tarifikāciju strādājošajam iespējams pievienot, rīku joslā
-nospiežot pogu:
+nospiežot pogu: .. image:: images_ozols/25605.png
+:scale: 100%
 
 
 
+
+.. image:: images_ozols/26250.png
+:scale: 100%
 
 
 

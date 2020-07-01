@@ -1,0 +1,76 @@
+.. 4443 Darba uzdevums****************** 
+Visi pievienotie darba uzdevumi tiek saglabāti :doc:`darba uzdevumu
+žurnālā<4442>` .
+
+Pievienojot jaunu darba uzdevumu, tiek atvērt logs:
+
+|images_ozols/25880.png|
+
+
+
+Partneris : partneris, klients uz kuru attiecas šis darba uzdevums;
+
+Kontaktpersona : kontaktpersona, kura ir piesaistīta partnerim;
+
+Virsraksts : darba uzdevuma virsraksts, nosaukums;
+
+Adresāts : kam adresāts šis darba uzdevums;
+
+Prioritāte : iespējams noteikt prioritāti;
+
+Atgādināt......pirms beigu termiņa : iespējams uzlikt atgādinātāju,
+norādot laiku pirms termiņa beigām;
+
+Izpildes term.: darba uzdevuma izpildes termiņš;
+
+Ieraksta tiesības : iespējams norādīt ieraksta tiesības;
+
+Projekts :uz kuru projektu attiecināms darba uzdevums;
+
+Versija : programmas versija;
+
+Pakalpojums : iespējams norādīt pakalpojumu;
+
+Līgums : partnerim piesaistītie līgumi (iespējams izvēlēties);
+
+Kampaņa : iespējams piesaistīt kampaņu;
+
+Apraksts : darba uzdevuma apraksts, kuru iespējams noformēr kā Word.
+
+Ja visa informācija ievadīta, jānospiež poga |images_ozols/25829.png|
+.
+
+Darba uzdevums tiek saglabāts un, ja adresātam ir norādīta e-pasta
+adrese, tad adresāts saņem šo darba uzdevumu:
+
+
+
+|images_ozols/25881.png|
+
+
+
+Veicot jebkādas darbības ar izveidoto darba uzdevumu, informācija tiek
+saglabāta zem darba uzdevuma sadaļā Darbības:
+
+
+
+|images_ozols/25882.png|
+
+
+
+Visas veiktās darbības tiek nosūtītas partnerim. Arī Izpildītam darba
+uzdevuma ir iespējams veikt dažādas darbības.
+
+.. |images_ozols/25880.png| image:: images_ozols/25880.png
+:scale: 100%
+
+.. |images_ozols/25829.png| image:: images_ozols/25829.png
+:scale: 100%
+
+.. |images_ozols/25881.png| image:: images_ozols/25881.png
+:scale: 100%
+
+.. |images_ozols/25882.png| image:: images_ozols/25882.png
+:scale: 100%
+
+ .. toctree::   :maxdepth: 4    4451.rst   5027.rst   4471.rst   4452.rst

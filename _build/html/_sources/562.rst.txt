@@ -1,0 +1,147 @@
+.. 562 Bilance*********** 
+
+
+Bilance ir konfigurējama atskaite, kas tiek saglabāta atskaišu
+:doc:`Sarakstā<531>` . Bilance tiek izveidota pēc sastādītās atskaites
+konfigurācijas. Atskaites konfigurācijā jāpievieno bilances rindas,
+atbilstoši gada pārskata veidlapas prasībām, un izteiksmes
+grāmatvedības datu ievietošanai bilances rindās.
+
+
+
+Lai būtu iespējams sagatavot atskaiti - Bilance,iepriekš jābūt
+izveidotai :doc:`Grāmatojumu atskaišu konfigurācijai<179>` .
+
+
+
+Atskaites - Bilance - sagatavošana
+``````````````````````````````````
+
+1. Izvēloties Virsgrāmatas atskaiti - Bilance, tiks atvērt filtra
+logs, kur jānorāda nepieciešamie parametri, pēc kādiem atskaite tiks
+sagatavota:
+
+
+
+|images_ozols/25043.png|
+
+
+
+2. Nepieciešams norādīt attiecīgo profilu - :doc:`atskaites
+konfigurāciju<179>` , pēc kādiem konfigurācijas datiem atskaite tiks
+sagatavota:
+
+
+
+|images_ozols/25045.png|
+
+
+
+3. Nepieciešams norādīt periodu, par kuru atskaite tiks sagatavota,
+izvēloties kādu no definētajiem datuma nosacījumiem vai arī "cits" un
+ievadot datumus manuāli:
+
+
+
+|images_ozols/25046.png|
+
+4. Ja vienā Ozols datu bāzē tiek veikta grāmatvedības uzskaite
+vairākiem uzņēmumiem,filtrā iespējams izvēlēties, pēc kura uzņēmuma
+datiem atskaite tiks sagatavota:
+
+
+
+|images_ozols/25047.png|
+
+
+
+5.Iespēja norādīt cik zīmes aiz komatabūtu jāuzrāda atskaitē:
+
+
+
+|images_ozols/25048.png|
+
+
+
+6. Atskaite tiks sagatavota, nospiežot pogu |images_ozols/25049.png| :
+
+
+
+|images_ozols/25052.png|
+
+
+
+1. Sadaļā "Dati" tiek parādīta sagatavotā atskaites informācija, pēc
+filtrā norādītajiem parametriem. Tiek parādītas bilances rindas un
+summas. Katrai bilances rindai tiek noteikts rindas sakārtojums,
+aktīvs vai pasīvs, teksta stils, rindas nosaukums un kods. Rindai var
+pievienot piezīmes numuru.
+
+2. Sadaļā "Virsraksts" tiek parādīta atskaites Virsraksta informācija
+- informācija par uzņēmumu (nosaukums, reģistrācijas nr., adrese,
+vadītājs) un atskaites nosaukums, kas nosaukumā ietver periodu, par
+kuru atskaite tiek sagatavota.
+
+3. Sadaļā "Papildus" tiek parādīta vispārēja informācija, kas ņemta no
+norādītajiem filtra parametriem sagatavojot atskaiti: izvēlētā
+atskaites konfigurācija, izvēlētais uzņēmums, pēc kura datiem šī
+atskaite tika sagatavota un norādītais zīmju skaits summām aiz komata.
+Ekrāna formā ir pieejams atskaišu konfigurācijas saraksts.
+
+
+
+7. Nospiežot pogu |images_ozols/25055.png| , komanda izsauc atskaites
+konfigurācijas ekrāna formu, to var papildināt neaizverot atskaiti.
+
+
+
+8. Ja pēc atskaites sagatavošanas veiktas izmaiņas :doc:`atskaites
+konfigurācijā<179>` , atskaiti pēc izmanītās konfigurācijas datiem var
+pārrēķināt, nospiežot pogu: |images_ozols/25053.png| . Pārrēķinot
+atskaiti, tajā tiek parādīti jaunākie dati.
+
+9. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
+sarakstā<531>` , kur tā būs pieejama labošanai/drukāšanai, nospiežot
+pogu: |images_ozols/25054.png| .
+
+
+
+10. Nospiežot pogu |images_ozols/24617.jpg| atskaite sagatavota netiks
+un darbība tiks atcelta. Ja atskaite tiek izveidota un nav jāsaglabā,
+jālieto komanda Atcelt . Ja atskaite ir saglabāta sarakstā, komandu
+Atcelt var izmantot, lai nesaglabātu atskaitē veiktās izmaiņas.
+
+.. |images_ozols/25043.png| image:: images_ozols/25043.png
+:scale: 100%
+
+.. |images_ozols/25045.png| image:: images_ozols/25045.png
+:scale: 100%
+
+.. |images_ozols/25046.png| image:: images_ozols/25046.png
+:scale: 100%
+
+.. |images_ozols/25047.png| image:: images_ozols/25047.png
+:scale: 100%
+
+.. |images_ozols/25048.png| image:: images_ozols/25048.png
+:scale: 100%
+
+.. |images_ozols/25049.png| image:: images_ozols/25049.png
+:scale: 100%
+
+.. |images_ozols/25052.png| image:: images_ozols/25052.png
+:scale: 100%
+
+.. |images_ozols/25055.png| image:: images_ozols/25055.png
+:scale: 100%
+
+.. |images_ozols/25053.png| image:: images_ozols/25053.png
+:scale: 100%
+
+.. |images_ozols/25054.png| image:: images_ozols/25054.png
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

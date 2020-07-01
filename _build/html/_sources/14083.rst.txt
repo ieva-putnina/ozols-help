@@ -1,0 +1,162 @@
+.. 14083 Grāmatojumu šablonu izveide Polišu moduļa darba režīmiem************************************************************ 
+
+
+Lai grāmatošanas process būtu ērts un automatizēts, iepriekš
+nepieciešams izveidot atbilstošu grāmatojumu šablonus Polišu moduļa
+darba režīmiem, balstoties uz Apdrošināšanas veida aprakstā
+norādītajiem grāmatvediskajiem kontiem no uzņēmuma papildinātā
+:doc:`Kontu plāna<114>` .
+
+
+
+Grāmatojumu šablonus iespējams pievienot un pēc tam veikt korekcijas
+esošajā šablonā no darba režīma:
+
+
+
+Virsgrāmata->Saraksti->:doc:`Grāmatojumu šabloni<135>`
+
+
+
+Nepieciešamie grāmatojumu šabloni Polišu darba režīmam
+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai ar Polisēm saistīto darbību grāmatošanas process tiktu
+automatizēts, nepieciešams izveidot sekojošus grāmatojumu šablonus:
+
+
+
+1. Aprēķināta brokeru komisija:
+
+
+
+Darba režīms:Pārdošanas dokuments(RRD)
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Satura]
+
+Debets Kredīts Konts [Pap.konts1] [Pap.konts2] Dimensija [Satura]
+[Satura] Partneris [Satura] [Satura]
+
+
+
+|images_ozols/25364.png|
+
+
+
+2. Bankas ieņēmumi-saņemta komisija:
+
+
+
+Darba režīms: Ieejošais maksājums (BIE)
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Satura]
+
+Debets Kredīts Konts Bankas [Pap.konts1] Dimensija [Satura] [Satura]
+Partneris [Satura] [Satura]
+
+3. Bankas ieņēmumi-tekošās polises:
+
+
+
+Darba režīms: Ieejošais maksājums (BIE)
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Satura]
+
+Debets Kredīts Konts Bankas [Fin.kat.] Dimensija [Satura] [Satura]
+Partneris [Satura] [Satura]
+
+4. Ieturēta komisija, kad pārskaitīta nauda uz AS:
+
+
+
+Darba režīms: Iepirkumu dokuments(IEP)
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Atlaide]
+
+Debets Kredīts Konts [Pap.konts6] [Pap.konts1] Dimensija [Satura]
+[Satura] Partneris [Satura] [Satura]
+
+5. Polises parakstīšana:
+
+
+
+Darba režīms: Polises parakstīšana (POP)
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Apdr.prēmija]
+
+Debets Kredīts Konts [4.Papildkonts] [3.Papildkonts] Dimensija
+[Polises] [Polises] Partneris [Polises] [Polises]
+
+6. Pārskaitīta prēmija ieturot brokera komisiju:
+
+
+
+Darba režīms:Maksājuma uzdevums(BIZ)
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Satura]
+
+Debets Kredīts Konts [Pap.konts6] [Bankas] Dimensija [Satura] [Satura]
+Partneris [Satura] [Satura]
+
+7. Aprēķināta un ieturēta komisija, kad pārskaitīta nauda uz AS:
+
+
+
+Darba režīms: Iepirkumu dokuments(IEP)
+
+1.rindiņa
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Atlaide]
+
+Debets Kredīts Konts [Pap.konts6] [Pap.konts1] Dimensija [Satura]
+[Satura] Partneris [Satura] [Satura]
+
+2.rindiņa
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Atlaide]
+
+Debets Kredīts Konts [Pap.konts1] [Pap.konts2] Dimensija [Satura]
+[Satura] Partneris [Satura] [Satura]
+
+8. Polise anulēta:
+
+
+
+Darba režīms:Pārdošanas dokumenti (RRD)
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Summa bez atlaides]
+
+Debets Kredīts Konts [Pap.konts3] [Pap.konts4] Dimensija [Satura]
+[Satura] Partneris [Satura] [Satura]
+
+9. Pārdošanas dokumenti - turpmākie maksājumi:
+
+
+
+Darba režīms:Pārdošanas dokumenti (RRD)
+
+1.rindiņa
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Summa bez atlaides]
+
+Debets Kredīts Konts [Fin.kat] [Pap.konts4] Dimensija [Satura]
+[Satura] Partneris [Satura] [Satura]
+
+2.rindiņa
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Summa bez atlaides]
+
+Debets Kredīts Konts [Pap.konts3] [Pap.konts6] Dimensija [Satura]
+[Satura] Partneris [Satura] [Satura]
+
+3.rindiņa
+
+Veids: Saturs(S), Summa: 100%, Summas lauks: [Atlaide]
+
+Debets Kredīts Konts [Pap.konts5] [Fin.kat] Dimensija [Satura]
+[Satura] Partneris [Satura] [Satura]
+
+.. |images_ozols/25364.png| image:: images_ozols/25364.png
+:scale: 100%
+
+ 

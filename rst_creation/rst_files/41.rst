@@ -1,4 +1,4 @@
-.. 41 Finanses============ .. role:: raw-html(raw)     :format: html
+.. 41 Finanses============ 
 
 
 Finanses nodrošina bankas un kases dokumentu veidošanu un grāmatošanu

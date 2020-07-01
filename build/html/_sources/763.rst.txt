@@ -6,11 +6,15 @@ kartiņās pievienotie dati parizglītību.
 
 Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
 tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
-ekrāna formā. Rīku joslā nopiežot pogu (Ctrl+F), tiek atvērts filtra
-logs:
+ekrāna formā. Rīku joslā nopiežot pogu.. image::
+images_ozols/24535.gif
+:scale: 100%
+(Ctrl+F), tiek atvērts filtra logs:
 
 
 
+.. image:: images_ozols/26098.png
+:scale: 100%
 
 
 
@@ -27,7 +31,10 @@ Izglītībutikai Aktīvajām vai Neaktīvajām slodzēm.
 
 
 Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
-kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga ..
+image:: images_ozols/25944.png
+:scale: 100%
+.
 
 
 
@@ -43,12 +50,16 @@ pievienotinformācijas par izglītību:
 
 
 
+.. image:: images_ozols/25779.png
+:scale: 100%
 
 
 
 
 2. Atrodoties:doc:`Izglītības dokumentu žurnālā<763>` un rīku
-joslānospiežot pogu :
+joslānospiežot pogu.. image:: images_ozols/24708.png
+:scale: 100%
+:
 
 
 
@@ -57,6 +68,8 @@ Izvēloties pievienot Izglītības datus, jāizvēlas slodze
 
 
 
+.. image:: images_ozols/26099.png
+:scale: 100%
 
 
 
@@ -65,7 +78,9 @@ Nepieciešams norādīt atbilstošo veidu no saraksta, ievadīt Izglītības
 iestādes nosaukumu, laika termiņu no...līdz, kā arī iespēja ievadīt
 Izglītības dokumenta Sēriju un Nr.
 
-Dati tiek saglabāti nospiežot pogu .
+Dati tiek saglabāti nospiežot pogu .. image:: images_ozols/25621.png
+:scale: 100%
+.
 
 
 

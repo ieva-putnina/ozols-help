@@ -1,0 +1,74 @@
+.. 852 =========Jauns========= 
+
+
+
+Lai pievienotu jaunu plānu, vispirms nepieciešams nodefinēt
+:doc:`Plāna periodu<156>` .
+
+Pēc Plāna perioda nodefinēšanas, iespējams ievadīt budžeta plāna
+ierakstus attiecīgajam plāna periodam, aizpildot nepieciešamos laukus:
+
+
+
+
+|images_ozols/26467.png|
+
+
+
+
+**Stājas spēkā:** nepieciešams norādīt datumu, no kura šis ieraksts
+stājas spēkā budžeta plāna izpildes atskaitē;
+
+
+**Algoritms:** iespēja norādīt, vai atbilstošai ieraksts tāmē būs
+attiecināms uz ieņēmumu vai izdevumu plānu;
+
+
+**Periods:** nepieciešams norādīt vēlamo plāna periodu, uz kuru tāme
+tiek gatavota;
+
+
+**Konts:** jānorāda grāmatvediskais konts, uz kuru ieņēmumi vai
+izdevumi tāmē tiek plānoti (var būt arī augstākā konta grupa);
+
+**EKK:** jānorāda EK kods atbilstoši kuram ieņēmumu vai izdevumu tāmes
+ieraksts tiek veidots;
+
+
+**Struktūrv.:** vajadzības gadījumā plāna tāmes ierakstu iespējams
+plānot struktūrvienības līmenī;
+
+
+**VFK:** jānorāda VFK kods atbilstoši kuram ieņēmumu vai izdevumu
+tāmes ieraksts tiek veidots;
+
+
+**Budž.-Proj.**: jānorāda Budžets, uz kuru tāmes ieraksts tiek plānots
+
+
+**Līgums:** ja tiek izmantota līguma dimensija uzņēmumā, iespējama
+budžeta tāmes plāna ievade arī sadalījumā pa līgumiem;
+
+
+**Partneris**: iespēja detalizēt budžeta plāna tāmes ierakstu,
+sadalījumā pa partneriem
+
+
+**Budžets:** nepieciešams norādīt plānotā tāmes ieraksta budžeta summu
+
+Lai ieraksts tiktu saglabāts budžeta plānas tāmē, nepieciešams
+nospiest pogu |images_ozols/25621.png| .
+
+|images_ozols/24545.gif| Budžeta sarakstā netiks saglabāti ieraksti ar
+identiskām dimensiju kombinācijām.
+
+.. |images_ozols/26467.png| image:: images_ozols/26467.png
+        :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+        :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+        :scale: 100%
+
+ .. toctree::   :maxdepth: 5    378.rst

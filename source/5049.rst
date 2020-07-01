@@ -3,6 +3,8 @@
 
 
 
+.. image:: images_ozols/26337.png
+:scale: 100%
 
 
  

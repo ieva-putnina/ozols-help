@@ -1,0 +1,108 @@
+.. 123 Kases********* 
+
+
+Sarakstā jāpievieno uzņēmuma kases. Kasu skaits šajā sarakstā netiek
+ierobežots. Kases saraksts tiek izmantots kases dokumentu veidošanai,
+un kases apraksta informācija - grāmatojumu konts, struktūrvienība
+nodrošina kases dokumentu automatizētu grāmatošanu.
+
+
+
+JaunasKases pievienošana:
+`````````````````````````
+
+Lai pievienotu jaunuKasi, rīku joslājānospiež poga
+|images_ozols/24708.png| un tiks atvērts jauns logs:
+
+
+
+|images_ozols/24661.jpg|
+
+
+
+Atvērtajā Kases apraksta logā iespējams norādīt Kases kodu (saīsināts
+nosaukums), Nosaukumu un Atbildīgo personu (Kasieri).
+
+
+
+Lai :doc:`Kases ieņēmumu<227>` un :doc:`Kases izdevumu<225>`
+dokumentugrāmatošanas procesu padarītu ērtāku un būtu iespēja grāmatot
+Kases dokumentus, izmantojot :doc:`Grāmatojumu šablonus<135>` , kases
+aprakstā nepieciešams piesaistīt grāmatvedisko kontu no :doc:`Kontu
+plāna<114>` :
+
+
+
+|images_ozols/24665.jpg|
+
+
+
+Kasei iespējams piesaistīt struktūrvienību no Struktūrvienību
+klasifikatora:
+
+
+
+|images_ozols/24667.jpg|
+
+
+
+Kases var būt dažādās valūtās, kases aprakstā iespējams norādīt
+nepieciešamo valūtu:
+
+
+
+|images_ozols/24668.jpg|
+
+Kad visi nepieciešamie lauki ir aizpildīti, lai saglabātu jaunu Kasi,
+nepieciešams nospiest pogu |images_ozols/24615.jpg| .
+
+
+
+PievienotāsKases labošana:
+``````````````````````````
+
+Lai veiktu labojumus pievienotajā Kases aprakstā, ierakstu
+nepieciešams atvērt, izmantojot rīku joslas pogu
+|images_ozols/24709.png| (ALT+A), unatvērtajā logā iespējams
+veiktnepieciešamos labojumus:
+
+
+
+|images_ozols/24669.jpg|
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/24661.jpg| image:: images_ozols/24661.jpg
+:scale: 100%
+
+.. |images_ozols/24665.jpg| image:: images_ozols/24665.jpg
+:scale: 100%
+
+.. |images_ozols/24667.jpg| image:: images_ozols/24667.jpg
+:scale: 100%
+
+.. |images_ozols/24668.jpg| image:: images_ozols/24668.jpg
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/24669.jpg| image:: images_ozols/24669.jpg
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

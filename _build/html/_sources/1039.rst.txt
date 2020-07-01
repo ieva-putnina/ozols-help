@@ -1,0 +1,26 @@
+.. 1039 Peļņas vai zaudējumu aprēķins (PZA1 - Pēc izdevumu veidiem)*************************************************************** 
+Lai piekļūtu Peļņas vai zaudējuma formai “Peļņas vai zaudējuma
+aprēķins PZA1”, ir nepieciešams to aktivizēt, piešķirot lietotājam
+tiesības redzēt šo atskaites formu. Tiesības piešķir administrators.
+
+
+
+Kad atskaites forma ir aktivizēta, tad Virsgrāmata>Atskaites>VID
+atskaites ir pieejama atskaišu forma "Peļņas vai zaudējuma aprēķins
+PZA1".
+
+
+
+
+
+|images_ozols/26572.jpg|
+
+
+
+
+
+
+
+
+
+ 

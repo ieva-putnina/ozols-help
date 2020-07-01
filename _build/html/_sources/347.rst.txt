@@ -1,0 +1,266 @@
+.. 347 Bankas maksājuma uzdevums***************************** 
+
+
+Bankas maksājuma uzdevums noformē naudas pārskaitījumu no uzņēmuma
+:doc:`Banku konta<141>` - pārskaitījums uzņēmuma piegādātājiem, algu
+izmaksas, nodokļu maksājumi, utt.. Maksājuma uzdevumus var drukāt,
+izmantojot iebūvēto izdrukas formu, vai eksportēt uz :doc:`Bankas
+elektronisko norēķinu sistēmām<160>` , lai tālāk nosūtītu apstrādei uz
+banku. Dokuments tiek saglabāts žurnālā :doc:`Bankas izdevumi<224>` .
+
+
+Jauna Bankas maksājuma uzdevuma pievienošana
+````````````````````````````````````````````
+
+Izvēloties dokumenta veidu Bankas maksājuma uzdevums, tiks atvērts
+jauns logs:
+
+
+
+|images_ozols/24991.png|
+
+
+Bankas maksājuma uzdevuma Virsraksta aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai aizpildītu Bankas maksājuma uzdevuma Virsrakstu, nepieciešams:
+
+
+
+1. Norādīt Uzņēmuma bankas kontu, no kura šis maksājums tiks
+izpildīts:
+
+
+
+|images_ozols/24724.png|
+
+
+
+2. Izvēlēties Datumu, kurā šis Bankas maksājuma uzdevums tiek veidots:
+
+
+
+|images_ozols/24725.png|
+
+
+
+3. Norādīt nepieciešamo Bankas maksājuma valūtu un ievadīt kopējo
+Dokumenta summu:
+
+
+
+|images_ozols/24726.png|
+
+
+
+4. No saraksta izvēlēties nepieciešamo partneri (Piegādātāju), kuram
+šis naudas pārskaitījums tiks noformēts:
+
+
+
+|images_ozols/24727.png|
+
+
+
+Izvēloties nepieciešamo Piegādātāju, lauki Nor.konts , Reģ.nr. , Banka
+un Kods tiks aizpildīti automātiski no :doc:`Partnera kartiņas<312>` .
+
+
+
+
+Bankas maksājuma uzdevumaSatura aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu Bankas maksājuma uzdevuma Saturu, dokumenta satura daļā
+nepieciešams nospiest |images_ozols/24708.png| un tiks atvērts
+operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus
+(uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:
+
+
+
+|images_ozols/24728.png|
+
+
+
+|images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiem
+satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
+summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
+nospiežot pogu |images_ozols/24708.png| .
+
+
+
+
+Maksājuma dokumenta Mērķa un Satura aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Maksājuma dokumentu lauki Mērķis un Saturs tiek drukāti maksājuma
+uzdevuma rindā Maksājuma mērķis.
+
+Lauku Bankas maksājuma uzdevuma Mērķis, iespējams aizpildīt manuāli
+vai izvēloties no :doc:`Bankas paskaidrojumu saraksta<147>` :
+
+
+
+|images_ozols/24729.png|
+
+
+
+Aktivizējot izvēli Saturs, laukā tiek salikti dokumenta satura finanšu
+(EK) kodi un summas, līdz ar to iespējams automatizēti iegūt
+informāciju par summas sadalījumu pa EK kodiem vai maksājuma PVN
+summu:
+
+
+
+|images_ozols/24730.png|
+
+
+
+Sagatavojot Bankas maksājuma uzdevumu, dokumentam, kurš sagatavots
+izvēloties uzņēmuma :doc:`Banku kontu<141>` , kuram piesaistīta kāda
+no :doc:`Bankas elektronisko norēķinu sistēmām<160>` , ekrāna formā
+automātiski ir aktivizēta izvēle Eksportēt uz bankas elektronisko
+norēķinu sistēmu:
+
+
+
+|images_ozols/24733.png|
+
+
+
+Visi dokumenti, kuriem ir šāda izvēle, var tik eksportēti uz
+elektronisko banku norēķinu sistēmu, lai būtu iespējams
+veikt:doc:`Datu apmaiņu ar banku<451>` .
+
+
+
+
+Maksājumu uzdevuma starpbankas datu aizpildīšana
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Bankas izdevumu dokumentiem iespējams aizpildīt datus par starpbanku,
+Maksājuma uzdevuma logā aktivizējot izvēli Starpbanka:
+
+|images_ozols/24732.png|
+
+Kad visi nepieciešamie lauki ir aizpildīti, Bankas maksājuma uzdevums
+ir sagatavots un to ir iespējams:
+
+1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
+saglabāts un būs pieejams apskatei/labošanai/grāmatošanai :doc:`Bankas
+izdevumu žurnālā<224>` .
+
+2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| -
+Bankas maksājuma uzdevums tiks Apstiprināts un to būs iespējams
+Grāmatot.
+
+
+Bankas maksājuma uzdevuma grāmatošana
+`````````````````````````````````````
+
+Bankas maksājumu uzdevumu iespējams grāmatot no atvērta Bankas
+maksājuma uzdevuma dokumenta vai izvēloties (iezīmējot)dokumentu
+:doc:`Bankas izdevumu žurnālā<224>` .
+
+Lai iegrāmatotu Bankas maksājuma uzdevumu, dokumentu nepieciešams
+Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| .
+
+Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu |images_ozols/24741.png| .
+
+
+
+Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
+
+
+Pievienotā Bankasmaksājuma uzdevumalabošana
+```````````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot Bankas
+maksājuma uzdevumu, kurš pieejams apskatei/labošanai:doc:`Bankas
+izdevumu žurnālā<224>` . Lai veiktu labojumusBankas maksājuma
+uzdevumā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
+|images_ozols/24709.png| (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus:
+
+
+
+|images_ozols/24736.png|
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+
+
+
+
+.. |images_ozols/24991.png| image:: images_ozols/24991.png
+:scale: 100%
+
+.. |images_ozols/24724.png| image:: images_ozols/24724.png
+:scale: 100%
+
+.. |images_ozols/24725.png| image:: images_ozols/24725.png
+:scale: 100%
+
+.. |images_ozols/24726.png| image:: images_ozols/24726.png
+:scale: 100%
+
+.. |images_ozols/24727.png| image:: images_ozols/24727.png
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/24728.png| image:: images_ozols/24728.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/24729.png| image:: images_ozols/24729.png
+:scale: 100%
+
+.. |images_ozols/24730.png| image:: images_ozols/24730.png
+:scale: 100%
+
+.. |images_ozols/24733.png| image:: images_ozols/24733.png
+:scale: 100%
+
+.. |images_ozols/24732.png| image:: images_ozols/24732.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+:scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+:scale: 100%
+
+.. |images_ozols/24741.png| image:: images_ozols/24741.png
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/24736.png| image:: images_ozols/24736.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

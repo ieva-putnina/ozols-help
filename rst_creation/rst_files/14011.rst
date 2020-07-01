@@ -6,6 +6,8 @@ Piemēram, izvēlnes komanda
 
 
 
+.. image:: images_ozols/25305.png
+:scale: 100%
 
 
 

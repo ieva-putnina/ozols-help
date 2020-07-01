@@ -1,0 +1,20 @@
+.. 179 Virsgrāmatas atskaišu konfigurācijas**************************************** 
+Sarakstā tiek saglabātās Virsgrāmatas atskaišu konfigurācijas, kas
+tiks izmantotas VID dienesta, kā arī uzņēmuma pārskatu atskaišu
+sagatavošanai:
+
+:doc:`PVN mēneša deklarācija<927>`
+
+:doc:`PVN1: I. Pārskats par priekšnodokļa summām kas saņemtas
+iekšzemē<533>`
+
+:doc:`PVN1: II. Pārskats par priekšnodokļa summām kas saņemtas
+ES<535>`
+
+:doc:`PVN1: III. Nodoklis par piegādātajām precēm un sniegtajiem
+pakalp.<983>`
+
+:doc:`Bilance<562>`
+
+
+ 

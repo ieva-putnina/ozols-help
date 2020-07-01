@@ -10,6 +10,8 @@ aktīvajā algu periodā.
 
 
 
+.. image:: images_ozols/26521.png
+:scale: 100%
 
 
 
@@ -30,6 +32,8 @@ Piezīmes - iespēja aizpildīt piezīmes par periodu.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Vairāku uzņēmumu uzskaitē, algu periodi visiem uzņēmumiem ir kopīgi.
 
 
@@ -37,6 +41,8 @@ Vairāku uzņēmumu uzskaitē, algu periodi visiem uzņēmumiem ir kopīgi.
 Perioda konfigurācijas datu izmantošana
 +++++++++++++++++++++++++++++++++++++++
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Lai pareizi tiktu piemēroti konfigurācijas dati algu aprēķinā,
 jāpievērš uzmanība sekojošajam:
 

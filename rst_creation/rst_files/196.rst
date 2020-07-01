@@ -5,6 +5,8 @@ Avansu persona:
 
 
 
+.. image:: images_ozols/25249.png
+:scale: 100%
 
 
 
@@ -15,8 +17,13 @@ norādītajiem datu atlases kritērijiem filtra ekrāna formā. Filtru var
 uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot
 nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus.
 
-Datu atlases kritērijus var saglabāt ( ). Izvēloties izveidoto filtra
-sagatavi ( ), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+Datu atlases kritērijus var saglabāt (.. image::
+images_ozols/24938.png
+:scale: 100%
+). Izvēloties izveidoto filtra sagatavi (.. image::
+images_ozols/24943.png
+:scale: 100%
+), filtrs tiek automatizēti aizpildīts no filtra sagataves.
 
 
 
@@ -24,11 +31,14 @@ Jaunas Avansu personaspievienošana:
 ```````````````````````````````````
 
 Lai pievienotu jaunu Avansu personu jau esošajā sarakstā, rīku
-joslājānospiež poga un tiks atvērta jauna :doc:`Partnera<312>`
-kartiņa:
+joslājānospiež poga.. image:: images_ozols/24708.png
+:scale: 100%
+un tiks atvērta jauna :doc:`Partnera<312>` kartiņa:
 
 
 
+.. image:: images_ozols/25251.png
+:scale: 100%
 
 
 Partnera kartiņā, sadaļā Dati,nepieciešams aizpildīt sekojošus laukus:
@@ -56,6 +66,8 @@ Lai pievienotais partneris tiktu uzrādīts Avansu personu sarakstā un
 šim partnerim būtu iespējams sagatavot Avansu norēķinu, Partnera
 kartiņā nepieciešams atzīmēt pazīmi - Avansu persona:
 
+.. image:: images_ozols/25250.png
+:scale: 100%
 
 
 
@@ -68,12 +80,16 @@ konta:
 
 
 
+.. image:: images_ozols/25252.png
+:scale: 100%
 
 
 
 
 Pēc visu nepieciešamo lauku aizpildīšanas,Avansu personas kartiņatiks
-saglabāts, izpildot komandu .
+saglabāts, izpildot komandu .. image:: images_ozols/24615.jpg
+:scale: 100%
+.
 
 
 
@@ -81,9 +97,16 @@ PievienotāsAvansu personasapraksta labošana:
 ````````````````````````````````````````````
 
 Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
-atvērt, izmantojot rīku joslas pogu (ALT+A).
+atvērt, izmantojot rīku joslas pogu.. image:: images_ozols/24709.png
+:scale: 100%
+(ALT+A).
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
 
 

@@ -1,0 +1,33 @@
+.. 155 ==============================Apdrošināšanas sabiedrības============================== 
+Lai pievienotu jaunu Apdrošināšanas sabiedrības nosaukumu, Rīku joslā
+jānospiež poga |images_ozols/25605.png| , tiks atvērts logs:
+
+
+
+|images_ozols/26059.png|
+
+
+
+Nosaukums: Apdrošināšanas sabiedrības nosaukums.
+
+
+
+Apdrošināšanas sabiedrību saraksts tiek izmantots, aizpildot
+Pamatlīdzekļu kartiņā sadaļu "Pārējiedati" :doc:` Pamatlīdzekļa
+ienākšanas dokumenta <433>` un :doc:` Pamatlīdzekļa atlikumu ievades
+dokumenta <436>` saturā:
+
+
+
+|images_ozols/26058.png|
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+        :scale: 100%
+
+.. |images_ozols/26059.png| image:: images_ozols/26059.png
+        :scale: 100%
+
+.. |images_ozols/26058.png| image:: images_ozols/26058.png
+        :scale: 100%
+
+ 

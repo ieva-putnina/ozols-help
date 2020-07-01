@@ -1,0 +1,670 @@
+.. 14014 Darbs ar dokumentiem************************ 
+
+Apstiprinātie dokumenti
++++++++++++++++++++++++
+
+Dokumentus grāmatvedības sistēmas datorprogrammās var apstiprināt.
+Dokumentu apstiprināšana nozīmē, ka dokuments ir pabeigts. Apstiprinot
+dokumentu, tas tiek aizsargāts pret datu izmainīšanu.
+
+
+
+Dokumenta apstiprināšanas datums, laiks un operators tiek ierakstīti
+datu bāzē.
+
+
+
+Apstiprinot dokumentu, tas tiek saglabāts un bloķēts datu labošanai.
+Apstiprināta dokumenta ekrāna forma ir pelēka, tajā nevar labot datus,
+tikai atvērt apskatei satura ierakstus. Apstiprinātam dokumentam
+dokumentu žurnālā tiek pievienota rakstzīme R .
+
+
+
+Grāmatvedības sistēmas datorprogrammās tikai apstiprinātiem
+dokumentiem var veikt grāmatošanu, un datorprogrammā Preces preču
+atlikumi pievienojas, tikai ņemot vērā apstiprinātos iepirkumu un
+pārdošanas dokumentus.
+
+
+
+Apstiprinātam dokumentam var atcelt apstiprinājumu. Apstiprināšanas
+atcelšanas datums, laiks un operators tiek ierakstīti īpašā sistēmas
+žurnālā.
+
+
+
+Anulētie dokumenti
+++++++++++++++++++
+
+Dokumentus grāmatvedības sistēmas datorprogrammās var anulēt.
+Dokumentu anulēšana ir līdzīga dokumenta dzēšanai, tikai anulētā
+informācija tiek saglabāta grāmatvedības datu bāzē.
+
+
+Dokumenta anulēšanas datums, laiks un operators tiek ierakstīti datu
+bāzē. Dokumenta anulēšanas iespējas galvenā priekšrocība ir iespēja
+anulēt grāmatojumus, neatverot grāmatojumu žurnālu. Anulējot
+dokumentu, laukā Piezīmes var pievienot anulēšanas iemeslu, kas tiks
+saglabāts anulētajā dokumentā. Anulētos dokumentus var atvērt apskates
+režīmā, to ekrāna formas ir pelēkas.
+
+
+Anulētie dokumenti tiek saglabāti attiecīgajos dokumentu žurnālos.
+Anulētam dokumentam dokumentu žurnālā tiek pievienota rakstzīme X .
+
+
+Anulētam dokumentam var atcelt anulēšanu, anulēšanas atcelšanas
+datums, laiks un operators tiek ierakstīti īpašā sistēmas žurnālā.
+
+
+
+
+Anulēto dokumentu parādīšana dokumentu žurnālos
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Standartā anulētie dokumenti dokumentu žurnālos parādīti netiek. Lai
+dokumentu žurnālos tiktu parādīti arī anulētie dokumenti, jāizsauc
+dokumentu žurnāla filtrs ( |images_ozols/24535.gif| ). Filtrā
+jāaktivizē izvēle:
+
+
+
+
+|images_ozols/24548.gif|
+
+
+
+Dokumentu drukāšana un datu eksporta iespējas
++++++++++++++++++++++++++++++++++++++++++++++
+
+Grāmatvedības sistēmas "Ozols" datorprogrammās var izdrukāt
+dokumentus, dokumentu žurnālus un sagatavotās atskaites. Dokumentu
+žurnālus un grāmatvedības dokumentus var izdrukāt no atvērtām ekrāna
+formām. Izdrukas iespējas ir iebūvētas datorprogrammā un par iespēju
+izmantot drukāšanu liecina aktīva rīku joslas komanda Drukāt.
+
+
+
+
+Izveidotos dokumentus var izdrukāt, izmantojot rīku joslu vai no
+galvenās izvēlnes
+
+
+
+>Dati > Drukāt
+
+
+
+Izdrukas ekrāna formā var izvēlēties iebūvēto izdrukas formu, kopējo
+vai individuālo formu, aktivizējot attiecīgos pārslēdžus Iebūvētā,
+Kopīgā vai Individuālā. Atskaiti var eksportēt uz teksta failu, MS
+Excel 5.0 failu, MS Visual Foxpro 5.0 failu, Dbase 3 failu.
+
+
+
+
+Logā Kopiju skaits var norādīt izdrukājamo kopiju skaitu.
+
+
+
+
+Izdrukas dialoga ekrāna formu var atvērt, aktivizējot izvēles rūtiņu
+Izsaukt izdrukas dialogu un spiežot komandpogu Drukāt. Izdrukas
+dialoga ekrāna formā var norādīt tikai vienu vai atsevišķas drukājamās
+lapas.
+
+
+
+
+Dokumentu izdrukā var iestādīt dažādus fontu veidus. Ja atskaišu
+izdrukām ir izvēlēts fonts, tā nosaukums parādās izdrukas ekrāna formā
+blakus komandpogai Fonts.
+
+
+
+
+Objekts
++++++++
+
+
+
+Paskaidrojums
++++++++++++++
+Iebūvētā Iebūvētās izdrukas izmantošana Kopējā Kopējās izdrukas
+izmantošana Individuālā Individuālās izdrukas izmantošana Atvērt
+Iebūvētās izdrukas formas atvēršana Labot Kopējās izdrukas formas
+labošana Labot formu Individuālās izdrukas formas labošana Eksportēt
+Datu eksportēšana un norādīto faila veidu Atvērt Norādītā faila veida
+atvēršana Fonts Atskaišu izdrukas fonta iestādīšana HTML izdruka HTML
+dokumentu izdrukas iespējas Kopiju skaits Drukājamo kopiju skaita
+norādīšana Izdrukas parametri Izdrukas dialoga izsaukšana Palīgs
+Palīdzības sistēmas izsaukšana Teksts Dokumenta atvēršas teksta failā
+Apskatīt Dokumenta priekšapskate Drukāt Dokumenta drukāšana Aizvērt
+Ekrāna formas aizvēršana
+
+
+|images_ozols/25287.png|
+
+
+
+Ekrāna formu izmēri
++++++++++++++++++++
+
+Ekrāna formu izmēru mainīšanas iespēja ļauj individuāli noteikt
+lietošanai piemērotāko ekrāna formas lielumu.
+
+
+
+
+Ekrāna formu izmērus var mainīt ar peles palīdzību, stiepjot formas
+stūrus vai malas vajadzīgajā virzienā, kamēr ekrāna forma iegūst
+optimālo lielumu. Novietojiet peles kursoru uz formas sānu malas vai
+stūra, pagaidiet, kamēr tas parādās kā bultiņa, spiediet peles
+taustiņu un velkot samaziniet vai palieliniet to. Šādi mainīt ekrāna
+formu izmēru var no visām četrām loga malām un stūriem.
+
+
+
+
+Mainīt ekrāna formu izmērus ir ērti, ja vienlaicīgi nepieciešams
+pārskatīt informāciju, kas atrodas divās dažādās sistēmas formās.
+
+
+
+
+Gadījumā, ja ekrāna forma nav redzama pilnībā, un ir noslēptas pat
+augšējās komandpogas Noslēpt, Palielināt / Pamazināt un Aizvērt,
+divreiz jāuzklikšķina uz formas augšējās zilās joslas. Ekrāna forma
+ieņems optimālāko izmēru, piemērotu jūsu monitora lielumam.
+
+
+
+Vairākas ekrāna formas vienlaicīgi uz ekrāna var ērti izkārtot,
+izmantojot galveno izvēlni
+
+
+
+>Logs > Sakārtot visus
+
+
+
+
+
+Ierakstu sakārtošana
+++++++++++++++++++++
+
+Sarakstos un dokumentu žurnālos var veikt ierakstu kārtošanu
+nepieciešamajā secībā. Ierakstus var sakārtot pēc jebkuras uzrādītās
+saraksta kolonnas.
+
+
+
+
+Uzklikšķinot peli uz ekrāna formas kolonnas nosaukuma, visas ievadītās
+burtu vērtības sakārtosies alfabētiskā vai arī summu lauki pēc sava
+lieluma augšupejošā vai lejupejošā secībā. Uzklikšķinot otru reizi,
+vērtības sakārtosies apgrieztā secībā – piemēram, summu lauki
+sakārtosies, sākot ar lielākām vērtībām vai otrādi – sākot ar
+mazākajām.
+
+
+
+
+Lai dokumenti tiktu sakārtoti to ievades secībā, jāuzklikšķina uz mazā
+kvadrātiņa, kolonnu nosaukumu rindas beigās.
+
+
+
+
+Sarakstos un dokumentu žurnālos var lietot komandas:
+
+
+
+
+HOME – kursors nostāsies uz pirmā ieraksta
+
+
+
+
+END - kursors nostāsies uz pēdējā ieraksta
+
+
+
+
+Page up – pārvietoties ar kursoru virzienā uz augšu
+
+
+
+
+Page down - pārvietoties ar kursoru virzienā uz leju
+
+
+
+|images_ozols/25288.png|
+
+
+
+Darba režīmu skati
+++++++++++++++++++
+
+Darba režīmus ir iespējams parādīt vairākos skatos. Starp skatiem var
+pieslēgties ar komandu no izvēlnes
+
+
+
+>Dati > Skats
+
+
+
+Standartā darba režīmi tiek parādīti kā ekrāna formas Windows vidē,
+bet tos pašus datus var parādīt uz ekrāna un izmantot HTML formātā.
+Vairākas reizes nospiežot komandu Skats, darba režīma izskats mainās.
+Atsevišķos sarakstos, kur dati tiek izkārtoti hierarhiski, piemēram,
+kontu plānā, ir pieejams vēl viens – kokveidīgais skats.
+
+
+
+|images_ozols/24556.gif|
+
+
+
+|images_ozols/25289.png|
+
+
+
+Ekrāna formās, katrs lietotājs var iestādīt atšķirīgas datu kolonnas
+parādīšanai uz ekrāna, tāpēc darba režīmiem un atskaitēm ir pieejama
+arī HTML skats, kur tiek parādītas tās informācijas kolonnas, kuras
+tiek parādītas uz ekrāna. Lietojot komandu Drukāt, izdrukas formā tiks
+parādītas standarta iebūvētās datu kolonnas. Izmantojot HTML izdrukas
+formātu, iespējams datus nokopēt, iezīmējot datus un izmantojot CTRL+C
+un CTRL+V komandas. Līdz ar to informāciju var pārkopēt Word, Excel
+formātā vai nosūtīt pa e-pastu. Lai drukātu no HTML izdrukas formas,
+nepieciešama Internet Explorer 6. versija.
+
+
+
+|images_ozols/24558.gif|
+
+
+
+Ekrāns un izdruka
++++++++++++++++++
+
+Ekrāna un izdrukas konfigurācijas informācija tiek izmantota darbā ar
+datorprogrammas datiem. Ekrāna konfigurēšanas formu var atvērt no
+izvēlnes:
+
+
+
+> Konfigurācija > Iestādījumi > Individuālie > Ekrāns
+
+
+
+Ekrāna un izdrukas iestādījumi nosaka, kāds būs datorprogrammā
+izmantojamo ekrāna formu fons, vai tiks izsaukti drošības jautājumi un
+kādi būs dokumentu izdrukāšanas nosacījumi.
+
+
+
+
+Ekrāna konfigurācijā var iestādīt, ka drukājot vienmēr tiek izsaukta
+izdrukas dialoga ekrāna forma. Aktivizējot izvēles rūtiņu Drukāt
+atdalošās joslas, atskaitēs drukāsies pelēkas, datu rindas atdalošas
+joslas.
+
+
+
+Laukā Izlīdzinošais simb. skaitļu attēlošanai izvēlētā iespēja
+Pasvītrojums nodrošina skaitļu kolonnas izlīdzinājumu formās. Šai
+izvēlei ir vizuāls raksturs – visi skaitļu ieraksti tiek izlīdzināti
+pēc to labās malas.
+
+
+
+Aktīva izvēles rūtiņa Drošības jautājumi nodrošina drošības jautājumu
+uzdošanu darba laikā.
+
+
+
+Drošības jautājumi
+++++++++++++++++++
+
+Uzsākot darbu ar datorprogrammu, drošības jautājumi vienmēr ir
+aktivizēti. Tas ir redzams atverot galvenās izvēlnes komandu
+
+
+
+>Konfigurācija > Iestādījumi > Individuālie > Ekrāns
+
+
+
+Kur ir iezīmēta, aktīva izvēles rūtiņa drošības jautājumi. Katru
+reizi, ieejot programmā no jauna, šie jautājumi tiks aktivizēti.
+
+
+
+|images_ozols/24545.gif| Drošības jautājumi pasargā datorprogrammā
+ievadītos datus no zaudējumiem, kas var rasties nejaušas izmainīšanas
+vai dzēšanas rezultātā.
+
+
+
+Tomēr, ja jāveic liels apjoms vienveidīgu darbību, drošības jautājumi
+var būtiski kavēt darba ātrumu. Drošības jautājumus var noņemt,
+noņemot izvēles rūtiņas Drošības jautājumi aktivizāciju.
+
+
+
+Drošības jautājums ir ekrāna forma, kurā tiek uzdots jautājums par
+komandas izpildīšanu. Ja vēlaties apstiprināt noteiktas komandas
+izpildi, ekrāna formā Jautājums, spiediet komandpogu Jā. Ja ir
+pieļauta kļūda, un jūs nemaz nevēlaties, lai šāda komanda tiktu
+izpildīta, vienmēr pastāv iespēja spiest komandpogu Nē un atsaukt
+komandas aktivizēšanu.
+
+
+
+|images_ozols/25290.png|
+
+
+
+Datu meklēšana
+++++++++++++++
+
+Datu meklēšanu var veikt dokumentu žurnālos vai sarakstos. Datu
+meklēšanu jāveic no aktīvas ekrāna formas, izmantojot rīku joslu vai
+galveno izvēlni
+
+
+
+>Dati > Meklēt
+
+
+
+Meklējamais parametrs var būt numurs, datums, dokumenta veids, summa
+vai paskaidrojums, atkarībā no atvērtās ekrāna formas informācijas
+satura.
+
+
+
+Meklēšanas ekrāna formā jāievada meklēšanas kritērijs, jānorāda
+meklēšanas parametri, jāspiež komandpoga Meklēt vai taustiņš Enter, un
+kursors ekrāna formā nostāsies uz meklētā ieraksta.
+
+
+
+|images_ozols/25291.png|
+
+
+
+Filtrs
+++++++
+
+Filtra uzstādīšana ļauj dokumentu žurnālā parādīt tikai nepieciešamos
+dokumentus. Filtru var uzlikt izmantojot rīku joslu vai galveno
+izvēlni
+
+
+
+>Dati > Filtrs
+
+
+
+
+
+|images_ozols/25292.png|
+
+
+
+Filtra ekrāna formā var norādīt vairākus dokumentu atlases parametrus
+- datumu, summu, dokumenta numuru u.c. Filtra uzstādīšanas parametru
+izvēle datorprogrammās var būt atšķirīga, atkarībā no datu rakstura.
+Datu filtrēšanu var veikt no aktīvas ekrāna formas.
+
+
+
+
+Uzstādīt filtru var ar komandpogu Uzstādīt. Lai noņemtu uzstādīto
+filtru, filtra ekrāna formu izsauc vēlreiz - filtra izvēles ir jānoņem
+un jālieto komanda Uzstādīt.
+
+
+
+
+Ja dati ir filtrēti, ekrāna formas apakšā parādās atfiltrēto dokumentu
+ierakstu daudzums, bet iekavās kopējais ierakstu skaits. Lai dokumentu
+žurnālā tiktu parādīti visi ieraksti, filtrs jānoņem.
+
+
+
+Saglabājamie filtra iestādījumi
++++++++++++++++++++++++++++++++
+
+Filtra izvēles var saglabāt programmā, tādejādi katru reizi nav
+jāizvēlas filtra kritēriji, bet var izmantot jau izveidotās sagataves.
+Lai izmantotu saglabājamo filtru:
+
+
+
+
+#. Jāatver filtrs, jāizvēlas filtra kritēriji un tie jāsaglabā
+
+
+|images_ozols/25293.png|
+
+
+
+2. Jānorāda filtra sagataves nosaukums. Lai filtra sagatave būtu
+pieejama visiem lietotājiem, jāaktivizē komanda Kopīga. Jālieto
+komanda Turpināt.
+
+
+
+|images_ozols/25294.png|
+
+
+
+
+
+3. Saglabātais filtrs ir pieejams laukā Filtra sagatave. Izvēloties
+sagatavi, no tās automātiski tiek aizpildītas filtra izvēles.
+
+
+
+|images_ozols/25295.png|
+
+
+
+Izmantot filtru var arī no dokumentu žurnāliem, kur rīku joslā
+komandai Filtrs būs pieejamas saglabātās filtra izvēles. Lai uzliktu
+filtru, jāuzspiež uz saglabātā filtra un dokumenti tiks atlasīti bez
+filtra ekrāna formas atvēršanas.
+
+
+
+|images_ozols/25296.png|
+
+
+
+Nākamā dokumenta pievienošana
++++++++++++++++++++++++++++++
+
+Dokumenta pievienošanas ekrāna formā var aktivizēt iespēju turpināt
+nākamā dokumenta pievienošanu, neaizverot ekrāna formu.
+
+
+
+
+Lai turpinātu dokumentu pievienošanu, neaizverot ekrāna formu,
+jāaktivizē komandpoga Sagl&Piev.
+
+
+
+
+Komandpogu Sagl&Piev. pievienošanu var aktivizēt, pielāgojot rīku
+joslu. Komanda Sagl.&Piev. (Karstais taustiņš F12 ) nodrošina jauna
+dokumenta pievienošanas ekrāna formas automātisku parādīšanu pēc
+iepriekšējā dokumenta pievienošanas un saglabāšanas.
+
+
+
+|images_ozols/24569.gif|
+
+
+
+Datu kolonnu iestatījumi
+++++++++++++++++++++++++
+
+Sistēmā ir iespējams izdarīt izmaiņas kolonnu izkārtojumā uz ekrāna,
+kolonnu platumā, kā arī parādīt dažādas citas kolonnas uz ekrāna.
+Kolonnu iestādīšanu var veikt jebkurā atskaitē, dokumentu žurnālā, vai
+sarakstā. Kolonnu konfigurācijas ekrāna formu var izsaukt ar komandas
+Ctrl+K , rīku joslas komandas palīdzību vai lietojot izvēlni
+
+
+
+>Dati > Kolonnas
+
+
+
+|images_ozols/25297.png|
+
+
+
+Sistēmā ir iestrādātas standarta kolonnas, un tās standarta variantā
+tiek parādītas uz ekrāna, lai parādītu citas kolonnas, tās no ekrāna
+formas kreisās puses var pārnest uz labo pusi, tādejādi parādot tās uz
+ekrāna (maksimālais iespējamais kolonnu skaits, kuras iespējams
+parādīt uz eksāna – 16 kolonnas). Ar komandām Augstāk, Zemāk tiek
+noteikta kolonnu parādīšanas secība, bet lietojot komandu Atvērt, var
+palielināt vai samazināt kolonnas platumu, kas tiek izmantots datu
+parādīšanai uz ekrāna. Kolonnas, kuru nosaukumi ir izcelti treknrakstā
+ir standarta kolonnas. Lai iestādītu visas standarta kolonnas, jālieto
+komanda Standarta kolonnas.
+
+
+
+Kolonnu iestādījumi tiek saglabāti katram lietotājam atsevišķi. Lai
+izdrukātu datus ar iestādītajām kolonām jālieto HTML izdruka. Iebūvētā
+izdrukas formā, kuru izmanto lietojot komandu Drukāt, tiks drukātas
+Standarta datu kolonnas.
+
+
+
+Dokumentu numerācija
+++++++++++++++++++++
+
+Dokumenti grāmatvedības sistēmā tiek numurēti pēc to veidiem, sākot no
+viens un skaitot vienu vienību uz priekšu.
+
+
+
+Sistēmas kopīgajos iestādījumos, pirms dokumentu izveidošanas, var
+noteikt dokumentu numerāciju:
+
+
+
+>Konfigurācija > Iestādījumi > Kopīgie > Banka
+
+
+
+>Konfigurācija > Iestādījumi > Kopīgie > Kase
+
+
+
+>Konfigurācija > Iestādījumi > Kopīgie > Krājumi
+
+
+
+Kases un Bankas dokumentiem var izvēlēties kopīgu vai atšķirīgu
+numerāciju pa bankas un kases kontiem. Krājumiem var noteikt kopīgu
+vai atšķirīgu numerāciju visiem krājumu dokumentu veidiem.
+
+
+
+Dzēsto dokumentu numuri sistēmā tiek uzskatīti par izmantotiem. Ja
+netiek mainīta dokumentu numerācijas veidošana, tad dzēstā dokumenta
+numurs otrreiz netiek izmatots. Lai izmainītu dokumentu numerāciju,
+dokumenta pievienošanas ekrāna formā numurus var labot ar roku. Lai
+nākamo dokumentu numerācija skaitītos automatizēti uz priekšu,
+dokumentu laukā Numurs jāuzklikšķina ar peles labo pogu
+
+
+
+|images_ozols/25298.png|
+
+
+
+Ar komandas Numerators palīdzību jāatver ekrāna forma, kur var
+norādīt, no kura numura jānumurē nākamie dokumenti. Numerācija tiks
+turpināta ar nākošo skaitli no norādītā laukā Turpināt numerāciju no.
+
+
+
+|images_ozols/25299.png|
+
+
+
+Numerācija tiks atsākta no nākamā skaitļa, kas šajā ekrāna formā ticis
+norādīts, ja numuri nav izmantoti datu bāzē saglabātajos dokumentos.
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+:scale: 100%
+
+.. |images_ozols/24548.gif| image:: images_ozols/24548.gif
+:scale: 100%
+
+.. |images_ozols/25287.png| image:: images_ozols/25287.png
+:scale: 100%
+
+.. |images_ozols/25288.png| image:: images_ozols/25288.png
+:scale: 100%
+
+.. |images_ozols/24556.gif| image:: images_ozols/24556.gif
+:scale: 100%
+
+.. |images_ozols/25289.png| image:: images_ozols/25289.png
+:scale: 100%
+
+.. |images_ozols/24558.gif| image:: images_ozols/24558.gif
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/25290.png| image:: images_ozols/25290.png
+:scale: 100%
+
+.. |images_ozols/25291.png| image:: images_ozols/25291.png
+:scale: 100%
+
+.. |images_ozols/25292.png| image:: images_ozols/25292.png
+:scale: 100%
+
+.. |images_ozols/25293.png| image:: images_ozols/25293.png
+:scale: 100%
+
+.. |images_ozols/25294.png| image:: images_ozols/25294.png
+:scale: 100%
+
+.. |images_ozols/25295.png| image:: images_ozols/25295.png
+:scale: 100%
+
+.. |images_ozols/25296.png| image:: images_ozols/25296.png
+:scale: 100%
+
+.. |images_ozols/24569.gif| image:: images_ozols/24569.gif
+:scale: 100%
+
+.. |images_ozols/25297.png| image:: images_ozols/25297.png
+:scale: 100%
+
+.. |images_ozols/25298.png| image:: images_ozols/25298.png
+:scale: 100%
+
+.. |images_ozols/25299.png| image:: images_ozols/25299.png
+:scale: 100%
+
+ 

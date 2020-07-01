@@ -1,0 +1,229 @@
+.. 135 Grāmatojumu šabloni*********************** 
+
+
+Grāmatojumu šablonu sarakstā tiek saglabātas izveidotās kontējumu
+shēmas, kas tiek izmantotas dokumentu grāmatojuma automatizētā
+izveidošanā. Visi izveidotie grāmatojumu šabloni tiek saglabāti
+grāmatojumu šablonu sarakstā.
+
+Grāmatojumu šablons sastāv no virsraksta daļas un satura. Šablonam var
+pievienot neierobežotu skaitu satura ierakstu. Grāmatojuma šabloni
+jāveido atsevišķi katram dokumenta veidam. Grāmatojuma šablonā var
+noteikt, ka summas tiks ņemts no pirmdokumenta virsraksta vai satura.
+Tā pat šablonā var sadalīt summas procentuāli pa kontiem, pieņemot, ka
+pirmdokumenta kopsumma ir 100%.
+
+
+Jauna grāmatojuma šablona pievienošana
+``````````````````````````````````````
+
+Jaunu grāmatojuma šablonuiespējams pievienot divos veidos:
+
+
+1.No Grāmatojuma ekrāna formas
+++++++++++++++++++++++++++++++
+
+Katra pirmdokumenta grāmatošanas laikā no grāmatojuma ekrāna formas ar
+|images_ozols/25106.png| komandpogas palīdzību var atvērt grāmatojuma
+šablonu sarakstu:
+
+
+
+|images_ozols/25107.png|
+
+
+
+Tiks atvērts šablonu saraksts tikai grāmatojamā dokumenta tipam. No
+grāmatojumu šablonu saraksta var izveidot jaunu šablonu (
+|images_ozols/24933.png| Pievienot), atvērt un labot jau izveidotu
+šablonu ( |images_ozols/24932.png| Atvērt), izveidot jaunu šablonu uz
+esošā šablona bāzes ( |images_ozols/24940.png| Kopēt), kā arī dzēst
+šablonu ( |images_ozols/24941.png| Dzēst).
+
+Lai veidotu jaunu šablonu, jāizmanto komanda Pievienot. Komandas
+darbam ar grāmatojumu šabloniem var izsaukt no rīku joslas vai ar
+peles labās pogas palīdzību.
+
+
+2.Grāmatojumu šablonu sarakstā pievienojot jaunu ierakstu
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai pievienotu jaunu Grāmatojumu šablonu, rīku joslājānospiež poga
+|images_ozols/24708.png| un tiks atvērts jauns logs:
+
+
+
+|images_ozols/25108.png|
+
+
+
+1. Nepieciešams norādīt atbilstošo darba režīmu, kāda dokumenta
+grāmatošanai šis šablons tiek veidots. Katram pirmdokumenta veidam
+jāveido atsevišķi grāmatojuma šabloni. Darba režīms var noteikt īpašu,
+konkrētam grāmatojuma tipam nepieciešamu datu izvēles iespēju.
+Grāmatojos pirmdokumentu, izvēlei tiek parādīti tikai atbilstošā tipa
+grāmatojumu šaboni:
+
+
+
+|images_ozols/25109.png|
+
+
+
+|images_ozols/24545.gif| Katrs grāmatojuma šablons tiek sagatavots
+konkrētam darba režīmam, tāpēc ir svarīgi norādīt, kāda dokumenta
+grāmatošanai tas tiek veidots. Atkarībā no darba režīma, grāmatojuma
+šablonā tiek parādītas nedaudz atšķirīgas izvēles lauku aizpildīšanai,
+piemērojoties grāmatojamā dokumenta specifikai.
+
+
+
+
+
+2. Jānorāda grāmatojuma šablona nosaukums (Lietotāja izvēlēts, brīvā
+tekstā ierakstīts nosaukums). Grāmatojuma šablona nosaukums tiek
+izmantots, lai grāmatojot pirmdokumentu, to varētu labāk izvēlēties no
+šablonu saraksta. Nosaukumā jāietver informācija, kas ļauj šablonu
+nekļūdīgi identificēt starp citiem grāmatojumu šabloniem:
+
+
+
+|images_ozols/25110.png|
+
+
+
+3. Nepieciešams pievienot grāmatojuma šablona satura rindu nosacījumus
+
+|images_ozols/24545.gif| Šablonā var pievienot neierobežotu skaitu
+ierakstu - kontējumu. Grāmatojuma šablona satura rindas ierakstā
+jānorāda šablona ieraksta veids, konts, var noteikt izmantojamo
+finanšu kategoriju (ekonomisko kodu), struktūrvienību, projektu,
+nozari, partneri.
+
+Lai aizpildītu Grāmatojuma šablona Saturu, dokumenta satura daļā
+nepieciešams nospiest |images_ozols/24708.png| un tiks atvērts
+operācijas satura logs, kurā nepieciešamsnorādīt satura ierakstu
+nosacījumus:
+
+
+
+|images_ozols/25112.png|
+
+
+
+|images_ozols/24545.gif| Grāmatojuma šablonā iespējas izvēlēties
+Kategoriju (Ek.kods), Struktūrvienību, Projektu, Nozari (VFK),
+Budžetuun Partneri ierobežo izmantojamo :doc:`Dimensiju
+konfigurācija<701>` un konta apraksts :doc:`Kontu plānā<114>` , kur
+var būt noteikts nelietot uzskaiti pa partneriem vai nelietot kādu no
+dimensijām. Ja kāda no dimensijām netiek lietota, dimensijas lauks
+grāmatojuma šablonā neparādās.
+
+
+
+Grāmatojuma šablona satura nosacījumu ievades instrukcijas:
+:doc:`Grāmatojumu šablonu veidošana un pielietošana<14056>`
+
+
+
+Šablona rindas tiek numurētas automatizēti, un rindas numurs ir
+informatīvs. Viens kontējuma pāris tiek parādīts kā divi ieraksti,
+piemēram 1D (pirmā rinda, debets) un 1K (pirmā rinda, kredīts).
+
+
+
+Kad visi nepieciešamie lauki ir grāmatojuma šablona saturā aizpildīti,
+lai saglābātu Grāmatojuma šablona satura ierakstu, nepieciešams
+nospiest pogu |images_ozols/24615.jpg| . Nospiežot pogu
+|images_ozols/24617.jpg| , satura ieraksts saglabāts netiks.
+
+
+
+
+Grāmatojuma šablonasatura ierakstu labošana
++++++++++++++++++++++++++++++++++++++++++++
+
+Lai veiktu labojumus,satura ierakstunepieciešams atvērt, izmantojot
+rīku joslas pogu |images_ozols/24709.png| (ALT+A), unatvērtajāierakstā
+iespējams veiktnepieciešamos labojumus:
+
+
+
+|images_ozols/25115.png|
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+
+
+Saglabājot grāmatojumu šablonu, tas būs pieejams Grāmatojumu šablonu
+sarakstā unšo šablonu būs iespējams izvēlēties konkrētam darba
+režīmam, balstoties uz grāmatojuma šablona virsrakstānorādīto darba
+režīmu.
+
+.. |images_ozols/25106.png| image:: images_ozols/25106.png
+:scale: 100%
+
+.. |images_ozols/25107.png| image:: images_ozols/25107.png
+:scale: 100%
+
+.. |images_ozols/24933.png| image:: images_ozols/24933.png
+:scale: 100%
+
+.. |images_ozols/24932.png| image:: images_ozols/24932.png
+:scale: 100%
+
+.. |images_ozols/24940.png| image:: images_ozols/24940.png
+:scale: 100%
+
+.. |images_ozols/24941.png| image:: images_ozols/24941.png
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/25108.png| image:: images_ozols/25108.png
+:scale: 100%
+
+.. |images_ozols/25109.png| image:: images_ozols/25109.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/25110.png| image:: images_ozols/25110.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/25112.png| image:: images_ozols/25112.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/25115.png| image:: images_ozols/25115.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

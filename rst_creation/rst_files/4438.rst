@@ -6,6 +6,8 @@ vairākas kontaktpersonas, piesaistot tās dažādām nokonfigurētajām
 
 
 
+.. image:: images_ozols/25842.png
+:scale: 100%
 
 
 
@@ -21,12 +23,22 @@ Amats : kontaktpersonas amats;
 Tālruņi : kontaktpersonas tālruņi un papildus kontakti (e-pasts,
 skype, mājas lapa);
 
+.. image:: images_ozols/25843.png
+:scale: 100%
 : ja vienam partnerim tiek pievienotas vairākas kontaktpersonas,tadšī
 būs galvenā kontaktpersona.
 
-Lai saglabātu pievienotās kontaktpersonas datus, jānospiež poga , un,
-lai labotu, jānospiež poga , bet lai pievienotu jaunu kontaktpersonu,
-jānospiež poga . Lai dzēstu, jānospiež poga .
+Lai saglabātu pievienotās kontaktpersonas datus, jānospiež poga ..
+image:: images_ozols/25829.png
+:scale: 100%
+, un, lai labotu, jānospiež poga .. image:: images_ozols/25832.png
+:scale: 100%
+, bet lai pievienotu jaunu kontaktpersonu, jānospiež poga .. image::
+images_ozols/25831.png
+:scale: 100%
+. Lai dzēstu, jānospiež poga .. image:: images_ozols/25830.png
+:scale: 100%
+.
 
 Visas pievienotās kontaktpersonas tiek saglabātas :doc:`kontaktpersonu
 žurnālā<4428>` .

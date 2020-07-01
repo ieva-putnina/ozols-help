@@ -18,6 +18,8 @@ logs:
 
 
 
+.. image:: images_ozols/24995.png
+:scale: 100%
 
 
 
@@ -35,6 +37,8 @@ darījuma partneriem:
 
 
 
+.. image:: images_ozols/24826.png
+:scale: 100%
 
 
 
@@ -43,6 +47,8 @@ darījuma partneriem:
 
 
 
+.. image:: images_ozols/24811.png
+:scale: 100%
 
 
 
@@ -51,6 +57,8 @@ darījuma partneriem:
 
 
 
+.. image:: images_ozols/24812.png
+:scale: 100%
 
 
 
@@ -60,6 +68,8 @@ fizisku personu, no kura nauda kasē tiek saņemta:
 
 
 
+.. image:: images_ozols/24859.png
+:scale: 100%
 
 
 
@@ -69,6 +79,8 @@ kuras nauda kasē tiek saņemta:
 
 
 
+.. image:: images_ozols/24828.png
+:scale: 100%
 
 
 
@@ -78,10 +90,14 @@ pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:
 
 
 
+.. image:: images_ozols/24862.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Noformējot skaidras naudas operāciju Juridiskai personai, laukā
 Piegādātājs jāvada Juridiskās personas nosaukums un laukā Persona -
 Fiziskās personas nosaukums, kura šo Juridisko personu pārstāv.
@@ -93,19 +109,28 @@ Kases ieņēmumu orderaSatura aizpildīšana
 ++++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams
-nospiest pogu un tiks atvērts operācijas satura logs, kurā
-nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās
-dimensijas) un norādīt satura ieraksta summu:
+nospiest pogu.. image:: images_ozols/24708.png
+:scale: 100%
+un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
+satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
+ieraksta summu:
+
+
+
+.. image:: images_ozols/24818.png
+:scale: 100%
 
 
 
 
-
-
-
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
 kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
-satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu .
+satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu ..
+image:: images_ozols/24708.png
+:scale: 100%
+.
 
 
 Kasesieņēmumu ordera Pamatojuma aizpildīšana
@@ -120,6 +145,8 @@ vai izvēloties no :doc:`Kases paskaidrojumu saraksta<136>` :
 
 
 
+.. image:: images_ozols/24835.png
+:scale: 100%
 
 
 
@@ -138,22 +165,33 @@ pievienojot nepieciešamo Stingrās uzskaites dokumentu:
 
 
 
+.. image:: images_ozols/24868.png
+:scale: 100%
 
 
 
 
 Kad izvēlēts nepieciešamais uzskaites dokuments un ierakstīta
-dokumenta summa, ierakstu iespējams pievienot, nospiežot vai arī, ja
-nevēlaties dokumentu pievienot - .
+dokumenta summa, ierakstu iespējams pievienot, nospiežot .. image::
+images_ozols/24874.png
+:scale: 100%
+vai arī, ja nevēlaties dokumentu pievienot - .. image::
+images_ozols/24875.png
+:scale: 100%
+.
 
 
 
 Lai izvēlētos uzskaites dokumentus piesaistītu Kases ieņēmumu orderim,
-logā "Darījumu apliecinošās kvītis" nepieciešams nospiest un dokuments
-tikspievienots Kases ieņēmumu orderim:
+logā "Darījumu apliecinošās kvītis" nepieciešams nospiest .. image::
+images_ozols/24876.png
+:scale: 100%
+un dokuments tikspievienots Kases ieņēmumu orderim:
 
 
 
+.. image:: images_ozols/24877.png
+:scale: 100%
 
 
 
@@ -161,11 +199,16 @@ tikspievienots Kases ieņēmumu orderim:
 Kad visi nepieciešamie lauki ir aizpildīti, Kases ieņēmumu orderis ir
 sagatavots un to ir iespējams:
 
-1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
+1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
+:scale: 100%
+-dokuments tiks saglabāts un būs pieejams
 apskatei/labošanai/grāmatošanai:doc:`Kases ieņēmumu žurnālā<227>` .
 
-2. Apstiprināt, nospiežot rīku joslā pogu - Kases ieņēmumu orderis
-tiks Apstiprināts un to būs iespējams Grāmatot.
+2. Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+:scale: 100%
+- Kases ieņēmumu orderis tiks Apstiprināts un to būs iespējams
+Grāmatot.
 
 
 Kases ieņēmumu orderagrāmatošana
@@ -175,10 +218,15 @@ Kases ieņēmumu orderiiespējams grāmatot no atvērta dokumenta vai
 izvēloties (iezīmējot)dokumentu :doc:`Kases ieņēmumu žurnālā<227>` .
 
 Lai iegrāmatotu Kases ieņēmumu orderi, dokumentu nepieciešams
-Apstiprināt, nospiežot rīku joslā pogu .
+Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+:scale: 100%
+.
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu .
+pogu .. image:: images_ozols/24741.png
+:scale: 100%
+.
 
 
 
@@ -193,16 +241,24 @@ ieņēmumu orderis, kurš pieejams apskatei/labošanai:doc:`Kases ieņēmumu
 žurnālā<227>` .
 
 Lai veiktu labojumus,dokumentunepieciešams atvērt, izmantojot rīku
-joslas pogu (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos
-labojumus:
+joslas pogu.. image:: images_ozols/24709.png
+:scale: 100%
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+
+
+
+.. image:: images_ozols/24878.png
+:scale: 100%
 
 
 
 
 
-
-
-
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
  

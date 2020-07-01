@@ -7,6 +7,8 @@ izvēlētiem atlasīšanas kritērijiem:
 
 
 
+.. image:: images_ozols/25848.png
+:scale: 100%
 
 
 
@@ -16,12 +18,16 @@ kontus;
 
 Konts : iespējams atlasīt pēc viena noteikta konta numura.
 
-Ja atlasīšanas kritēriji izvēlēti, jānospiež poga . Ja filtrā netiek
-izvēlēti atlasīšanas kritēriji, tad tiek atvērts visu partneru bankas
-kontu saraksts.
+Ja atlasīšanas kritēriji izvēlēti, jānospiež poga .. image::
+images_ozols/25810.png
+:scale: 100%
+. Ja filtrā netiek izvēlēti atlasīšanas kritēriji, tad tiek atvērts
+visu partneru bankas kontu saraksts.
 
 Lai pievienotu jaunu bankas kontu jau pievienotam partnerim, jānospiež
-poga un jāpievieno dati kā norādīts :doc:`Jauna bankas konta
-pievienošanas sadaļā<4440>` .
+poga .. image:: images_ozols/25831.png
+:scale: 100%
+un jāpievieno dati kā norādīts :doc:`Jauna bankas konta pievienošanas
+sadaļā<4440>` .
 
  

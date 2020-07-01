@@ -11,11 +11,15 @@ dokumentu Virsrakstā esošā Paskaidrojuma lauka aizpildīšanai.
 Jaunateksta sagataves-paskaidrojuma tekstapievienošana
 ``````````````````````````````````````````````````````
 
-Lai pievienotu jaunupaskaidrojuma tekstu, jāizmanto komanda no rīku
-joslas (Alt+P) un tiks atvērts jauns logs:
+Lai pievienotu jaunupaskaidrojuma tekstu, jāizmanto komanda .. image::
+images_ozols/24879.png
+:scale: 100%
+no rīku joslas (Alt+P) un tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/26497.png
+:scale: 100%
 
 
 
@@ -25,8 +29,13 @@ Laukā "Nosaukums" jāraksta jaunizveidotā paskaidrojuma teksts.
 
 
 
-Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu no rīku
-joslas vai (Ctrl+S) vai atcelts , ja tiks izmantota komanda .
+Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu.. image::
+images_ozols/24867.png
+:scale: 100%
+no rīku joslas vai (Ctrl+S) vai atcelts , ja tiks izmantota komanda ..
+image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
 
 
@@ -34,16 +43,22 @@ Paskaidrojuma teksta labošana
 `````````````````````````````
 
 Lai veiktu labojumus paskaidrojuma tekstā, ierakstu nepieciešams
-atvērt, izmantojot komandu no rīku joslas (Alt+A). Atvērtajā logā
-iespējams mainīt nosaukumu. Pēc labojumu veikšanas, veiktās izmaiņas
-iespējams saglabāt ar komandu no rīku joslas.
+atvērt, izmantojot komandu.. image:: images_ozols/24869.png
+:scale: 100%
+no rīku joslas (Alt+A). Atvērtajā logā iespējams mainīt nosaukumu. Pēc
+labojumu veikšanas, veiktās izmaiņas iespējams saglabāt ar komandu..
+image:: images_ozols/24867.png
+:scale: 100%
+no rīku joslas.
 
 
 
 Paskaidrojuma tekstadzēšana
 ```````````````````````````
 
-Lai dzēstu paskaidrojuma tekstu, jāizmanto komanda no rīku joslas.
-Ieraksts ir jādzēš neatvērtā veidā.
+Lai dzēstu paskaidrojuma tekstu, jāizmanto komanda.. image::
+images_ozols/25602.png
+:scale: 100%
+no rīku joslas. Ieraksts ir jādzēš neatvērtā veidā.
 
  

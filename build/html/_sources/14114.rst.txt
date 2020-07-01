@@ -7,6 +7,8 @@ pievienošanai:
 
 
 
+.. image:: images_ozols/26272.png
+:scale: 100%
 
 
 
@@ -83,6 +85,8 @@ lai norādītu, kādas datu kolonnas ekrāna formā jāparāda:
 
 
 
+.. image:: images_ozols/26273.png
+:scale: 100%
 
 
 

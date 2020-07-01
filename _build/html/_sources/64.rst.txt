@@ -1,0 +1,11 @@
+.. 64 ============Saraksti============ 
+
+
+Banku elektronisko norēķinu sistēmu sarakstā jāpievieno izmantotās
+norēķinu sistēmas.
+
+Norēķinu sistēmas aprakstā jānorāda ceļš uz katalogiem, kuri tiek
+izmantoti datu apmaiņai starp grāmatvedības sistēmu un bankas norēķinu
+sistēmu.
+
+ .. toctree::   :maxdepth: 5    160.rst

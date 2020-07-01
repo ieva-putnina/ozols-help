@@ -4,6 +4,8 @@ Personāliju darba pārskata atskaitē redzamas pasākumu :doc:`dalībnieku
 :doc:`struktūrvienībām<7313>` un pa attiecīgiem
 :doc:`pasākumiem<7312>` :
 
+.. image:: images_ozols/26198.jpg
+:scale: 100%
 
 
 

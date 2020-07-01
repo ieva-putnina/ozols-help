@@ -4,6 +4,8 @@ izpildītas, kurustatuss ir mainīts uzslēgts:
 
 
 
+.. image:: images_ozols/25834.png
+:scale: 100%
 
 
  

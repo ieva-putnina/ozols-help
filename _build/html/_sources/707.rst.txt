@@ -1,0 +1,14 @@
+.. 707 Virsgrāmata*************** 
+
+
+Noklusēto kontu izmantošanu dokumentu grāmatojumu šablonos, nosaka
+Virsgrāmatas konfigurācijas iestādījumi:
+
+
+
+|images_ozols/26147.png|
+
+.. |images_ozols/26147.png| image:: images_ozols/26147.png
+:scale: 100%
+
+ 

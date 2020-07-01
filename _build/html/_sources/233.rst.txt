@@ -1,0 +1,81 @@
+.. 233 Pamatlīdzekļu dokumenti*************************** 
+Pamatlīdzekļudokumentu žurnālā tiek parādīta informācija par uzņēmuma
+dokumentiem, kuri saistīti ar Pamatlīdzekļiem:
+
+
++ :doc:`Pamatlīdzekļu atlikumu ievades dokumenti<436>` ;
++ :doc:`Pamatlīdzekļu derīgās lietošanas termiņa maiņas
+  dokumenti<812>` ;
++ :doc:`Pamatlīdzekļu ienākšanas dokumenti<433>` ;
++ :doc:`Pamatlīdzekļu inventarizācijas dokumenti<462>` ;
++ :doc:`Pamatlīdzekļu likvidācijas vērtības korekcijas dokumenti<442>`
+  ;
++ :doc:`Pamatlīdzekļu nolietojuma dokumenti<440>` ;
++ :doc:`Pamatlīdzekļu norakstīšanas dokumenti<441>` ;
++ :doc:`Pamatlīdzekļu pieņemšanas ekspluatācijā dokumenti<828>` ;
++ :doc:`Pamatlīdzekļu sadales dokumenti<432>` ;
++ :doc:`Pamatlīdzekļu norakstīšanas dokumenti (daļēji)<820>` ;
++ :doc:`Pamatlīdzekļu papildināšanas dokumenti<817>` ;
++ :doc:`Pamatlīdzekļu pārvērtēšanas dokumenti<438>` ;
++ :doc:`Pamatlīdzekļu pārsūtīšanas dokumenti<437>` .
+
+
+Lai atlasītu precīzāku dokumenta veidu, Rīku joslā jānospiež poga
+|images_ozols/24535.gif| (Ctrl+F), tiek atvērts logs:
+
+
+
+|images_ozols/25433.png|
+
+
+
+Atlasīšana ir iespējama atlasot pēc:
+
+
++ piegādātāja;
++ datuma;
++ numura;
++ dokumenta veida;
++ atzīmējot izvēles rūtiņu |images_ozols/25435.png| un skatlodziņā
+  tiek rādīta pēdējā izvēle. Lai sarakstu atvērtu, jānoklikšķina uz
+  bultiņas saraksta labajā pusē |images_ozols/25434.png| un jāizvēlas
+  attiecīgie dokumenti;
++ atzīmējot izvēles rūtiņu |images_ozols/25436.png| , tiks atlasīti
+  arī anulētie dokumenti.
+
+
+Kad visi vēlamie dokumenta atlasīšanas kritēriji ir atzīmēti,
+jānospiež poga |images_ozols/25379.png| .
+
+Kad dokuments ir atlasīts, to ir iespējams detalizētāk apskatīt, Rīku
+joslā nospiežot pogu |images_ozols/25420.png| (Alt+A).
+
+
+
+
+Instrukcija par vairāku Pamatlīdzekļu automatizētu apstrādi pieejama
+:doc:`šeit`
+
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+:scale: 100%
+
+.. |images_ozols/25433.png| image:: images_ozols/25433.png
+:scale: 100%
+
+.. |images_ozols/25435.png| image:: images_ozols/25435.png
+:scale: 100%
+
+.. |images_ozols/25434.png| image:: images_ozols/25434.png
+:scale: 100%
+
+.. |images_ozols/25436.png| image:: images_ozols/25436.png
+:scale: 100%
+
+.. |images_ozols/25379.png| image:: images_ozols/25379.png
+:scale: 100%
+
+.. |images_ozols/25420.png| image:: images_ozols/25420.png
+:scale: 100%
+
+ 

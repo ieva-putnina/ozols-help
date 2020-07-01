@@ -14,11 +14,15 @@ valūtās.
 JaunaBankas kontapievienošana:
 ``````````````````````````````
 
-Lai pievienotu jaunu Bankas kontu, rīku joslājānospiež poga un tiks
-atvērts jauns logs:
+Lai pievienotu jaunu Bankas kontu, rīku joslājānospiež poga.. image::
+images_ozols/24708.png
+:scale: 100%
+un tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/24673.jpg
+:scale: 100%
 
 
 
@@ -32,16 +36,22 @@ konts ir attiecināms.
 Laukā Bankas konts, nepieciešams ierakstīt bankas konta numuru IBAN
 formātā un norādīt attiecīgās bankas kodu (Piemēram, HABALV22):
 
+.. image:: images_ozols/24701.png
+:scale: 100%
 
 
 
 
 Laukā Valūta, nepieciešams norādīt bankas kontam atbilstošo valūtu:
 
+.. image:: images_ozols/24702.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Ja uzņēmums izmantomultivalūtu kontu, tad Banku kontu sarakstā
 jāpievieno katrai valūtai atbilstošs ieraksts (bankas konts).
 
@@ -55,6 +65,8 @@ piesaistīt grāmatvedisko kontu no :doc:`Kontu plāna<114>` :
 
 
 
+.. image:: images_ozols/24703.png
+:scale: 100%
 
 
 
@@ -72,12 +84,16 @@ norēķinu sistēmu<160>` , izvēloties sistēmu no sarakstā piedāvātajām:
 
 
 
+.. image:: images_ozols/24704.png
+:scale: 100%
 
 
 
 
 Kad visi nepieciešamie lauki ir aizpildīti, lai saglabātu jaunu Bankas
-kontu, nepieciešams nospiest pogu .
+kontu, nepieciešams nospiest pogu .. image:: images_ozols/24615.jpg
+:scale: 100%
+.
 
 
 
@@ -85,16 +101,25 @@ Pievienotā Bankas konta labošana:
 `````````````````````````````````
 
 Lai veiktu labojumus pievienotajāBankas kontaaprakstā, ierakstu
-nepieciešams atvērt, izmantojot rīku joslas pogu (ALT+A),
-unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+nepieciešams atvērt, izmantojot rīku joslas pogu.. image::
+images_ozols/24709.png
+:scale: 100%
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+
+
+
+.. image:: images_ozols/24707.png
+:scale: 100%
 
 
 
 
-
-
-
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
 
 

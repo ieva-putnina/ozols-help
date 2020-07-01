@@ -1,0 +1,22 @@
+.. 4217 Regresu lietu atskaite************************** 
+
+
+Atskaite parāda informāciju par visām regresa lietām noteiktā laika
+periodā. Atskaiti iespējams sagatavot pēc dažādiem atlases
+kritērijiem. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu
+atlases kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai
+ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās
+izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek
+izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura
+aizpildīšanā.
+
+
+
+Sagatavojot atskaiti, kolonnās pieejama informācija par CSNg numuru,
+datumu, regresa lietas numuru, atlīdzības lietas numuru, atbildīgo
+juristu, lietas pieņemšanas datumu, regresa maksātāju, regresa summu,
+slēgšanas datumu, izmaksātajām summām, u.c. papildus informāciju.
+
+
+
+ 

@@ -9,21 +9,31 @@ un radošās brigādes:
 
 
 
+.. image:: images_ozols/26182.jpg
+:scale: 100%
 
 
 
 
-Lai izdrukātu pirmizrāžu plānu, jāizvēlas saraksta funkcija Izdrukāt (
+Lai izdrukātu pirmizrāžu plānu, jāizvēlas saraksta funkcija Izdrukāt
+(.. image:: images_ozols/26180.jpg
+:scale: 100%
 ), un, ja nepieciešams mainīt izdrukas formu, tad saraksta funkciju
-izvēles sarakstā jānospiež poga (mainīt izdrukas formu), un, pēc
-izdrukas formas izvēles un saglabāšanas, jāizvēlas funkcija Izdrukāt:
+izvēles sarakstā jānospiež poga .. image:: images_ozols/26177.jpg
+:scale: 100%
+(mainīt izdrukas formu), un, pēc izdrukas formas izvēles un
+saglabāšanas, jāizvēlas funkcija Izdrukāt:
+
+
+
+.. image:: images_ozols/26184.jpg
+:scale: 100%
 
 
 
 
-
-
-
+.. image:: images_ozols/26183.jpg
+:scale: 100%
 
 
  

@@ -1,0 +1,43 @@
+.. 183 Pamatlīdzekļu īpašuma veidi******************************* 
+Pamatlīdzekļu īpašuma veidu sarakstā jānodefinē uzņēmumā izmantotie
+pamatlīdzekļu īpašumu veidi (piem. Savi , Nomātie , Iznomātie , utt.).
+Šis saraksts (klasifikators) strādājot ar pamatlīdzekļu moduli nav
+obligāti jāizmanto. Ņemot uzskaitē jaunus pamatlīdzekļus vai
+pievienojot pamatlīdzekļu sākuma atlikumus katru pamatlīdzekli
+iespējams nodefinēt pie kāda no uzņēmumā izmantotā pamatlīdzekļu
+īpašuma veida. Pamatlīdzekļu atskaišu sagatavošanā
+pamatlīdzekļuīpašuma veidu ir iespējams izmantot kā datu
+(pamatīdzekļu)atlases nosacījumu, piem. atlasot tikai Dāvinātos
+pamatlīdzekļus.
+
+Jauns pamatlīdzekļu īpašuma veidstiek pievienots pamatlīdzekļu īpašumu
+veidu sarakstā ar funkciju |images_ozols/24532.jpg| . Pēc
+nepieciešamās informācijas aizpildīšanas jāspiež poga Saglabāt lai
+saglabātu jaunizveidoto ierakstu.
+
+
+
+|images_ozols/24531.jpg|
+
+
+
+Pamatlīdzekļa īpašuma veidu labo ar funkciju |images_ozols/24533.jpg|
+.
+
+Pamatlīdzekļu īpašuma veidu dzēš ar funkciju |images_ozols/24534.jpg|
+. Pamatlīdzekļu īpašuma veidu sistēma neļauj dzēst, ja tas ir
+pievienots kādam sistēmā ievadītam pamatlīdzeklim.
+
+.. |images_ozols/24532.jpg| image:: images_ozols/24532.jpg
+:scale: 100%
+
+.. |images_ozols/24531.jpg| image:: images_ozols/24531.jpg
+:scale: 100%
+
+.. |images_ozols/24533.jpg| image:: images_ozols/24533.jpg
+:scale: 100%
+
+.. |images_ozols/24534.jpg| image:: images_ozols/24534.jpg
+:scale: 100%
+
+ 

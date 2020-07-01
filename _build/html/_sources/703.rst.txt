@@ -1,0 +1,22 @@
+.. 703 Uzņēmuma informācija************************ 
+Uzņēmuma informācija ir uzņēmuma rekvizīti, kas tiek izmantoti
+atskaišu un dokumentu sagatavošanā un izdrukās. Uzņēmuma informācija
+satur datus par atbildīgajām personām.
+
+Lai uzņēmuma rekvizīti korekti uzrādītos uzņēmuma Norēķinu, Finanšu
+dokumentos un atskaitēs, nepieciešams aizpildīt sekojošu informāciju:
+
+1. Laukā "uzņēmums" no izvēlnes jāizvēlas Partneris no :doc:`Partneru
+saraksta.<112>`
+2. Tālāk nepieciešams aizpildīt visus pārējos datus:
+
+|images_ozols/26430.png|
+
+3. Pēc lauku aizpildīšanas, lai dati tiktu saglabāti un tālāk būtu
+izmantojami dokumentu aizpildīšanai, nepieciešams nospiest pogu
+"Saglabāt" vai lai atceltu izmaiņas "Atcelt".
+
+.. |images_ozols/26430.png| image:: images_ozols/26430.png
+:scale: 100%
+
+ 

@@ -1,0 +1,328 @@
+.. 6510 Polise********** 
+
+
+Darba režīms Polise paredzēts pilnas informācijas iegūšanai par Polisi
+- Polises pamatinformāciju, Brokeri, Asistentu, Piesaistītāju un
+komisijas %, kā arī maksājuma plāniem, pirmdokumentiem un
+grāmatojumiem saistībā ar šo polisi.
+
+
+
+Izvēloties darba režīmu Polise, tiks atvērts šāds logs:
+
+
+
+|images_ozols/25467.png|
+
+
+
+1. Polises apraksta Info lapa
++++++++++++++++++++++++++++++
+
+Info sadaļā pieejama visa informācija, kas attiecās uz katru polišu
+līgumu. Šajā sadaļā datus nevar izlabot, tie paredzēti tikai
+informācijas iegūšanai apskates režīmā.
+Info sadaļa tiek veidota no Polises "Labot" lapas. Tiklīdz lapā Labot
+tiek veiktas kādas izmaiņas, labotā informācija tiek attēlota Info
+lapā:
+
+
+
+|images_ozols/25501.png|
+
+
+
+2. "Labot" lapa
++++++++++++++++
+
+"Labot" lapā ir jāaizpilda informācija par attiecīgo polises līgumu.
+
+
+
+Nepieciešams norādīt šādus datus:
+
+- Polises parakstīšanas datums;
+
+- Polises stāšanās spēkā no datums;
+
+- Polises darbības beigu datums;
+
+- Ja kādu iemeslu dēļ polise vēlāk tiks pārtraukta, tad nepieciešams
+norādīt polises pārtraukšanas datumu:
+
+
+
+|images_ozols/25917.png|
+
+
+
+Pie klienta informācijas nepieciešams norādīt:
+
+- Apdrošināšanas ņēmēju;
+
+- Turētāju;
+
+- Apdrošināto personu:
+
+
+
+|images_ozols/25918.png|
+
+
+
+Ja Apdrošināšanas ņēmējs/ Turētājs/ Apdrošinātais nav sistēmā
+pievienots, Apdrošināšanas ņēmēja tukšajā lodziņā jānospiež
+dubultklikšķis ar peles labo taustiņu, un tiek atvērts :doc:`Jauna
+Partnera<312>` pievienošanas logs, kurā jāpievieno Partnera dati.
+
+
+
+Polises aprakstā nepieciešams norādīt polises līguma valūtu:
+
+
+
+|images_ozols/25920.png|
+
+
+
+Valūtas kurss tiek automātiski atjaunots katru dienu no Latvijas
+Bankas kursu saraksta.
+
+|images_ozols/24545.gif| Lauki Apdrošināšanas summa un Faktiskā
+vērtība ir informatīvi lauki, kuros var norādīt Apdrošināšanas summu
+un Faktisko vērtību. Ja polisē šīs summas ir rakstītas, tad var
+rakstīt, ja nav var laukus atstāt tukšus.
+
+
+
+Laukā apdrošināšanas prēmija nepieciešams norādīt summu, kura būs
+jāmaksā klientam.
+
+Atlaide tiek rēķināta no uzņēmuma komisijas. Laukā Apdrošināšanas
+prēmija ar atlaidi tik norādīta summu jau ar atlaidi, kura būs
+aprēķināta automātiski:
+
+
+
+|images_ozols/25920.png|
+
+
+
+Informācija, par komisiju summu sadalījumu:
+
+Apdrošināšanas prēmija automātiski tiek sadalīta pēc nodefinētajiem
+līgumu procentiem. :doc:`Līgumu sadaļā<394>` tiek pievienoti
+sadarbības līgumi ar Akciju Apdrošināšanas Sabiedrībām - katrai
+Apdrošināšanas sabiedrībai atsevišķs līgums ar, nosacījumu sadaļā,
+nodefinētiem % attiecīgajam apdrošināšanas veidam, tāpat tiek
+pievienoti līgumu ar % sadalījumiem Brokeriem.
+
+
+
+|images_ozols/25922.png|
+
+
+
+1. Kolonnā būs informācija par tiem, kuriem pienāksies komisija
+
+2. Kolonna informē jūs par kādiem komisijas procentiem polises līgums
+ir parakstīts
+
+3. Kolonna informē kāda naudas summa pienāksies katram
+
+
+
+Komisijas % kolonnas labajā pusē, uzejot uz bultiņas, sistēma parāda
+Līgumā nodefinētos %-tus:
+
+
+
+|images_ozols/26372.png|
+
+
+
+Savukārt, ja nav līgumā nodefinēti procenti vai ir nepieciešams mainīt
+% sadalījumu, tad jānospiež podziņa M (manuāli) un manuāli
+jāieraksta/jālabo procentu sadalījums:
+
+|images_ozols/26373.png|
+
+
+
+|images_ozols/24545.gif| Lai manuāli (M) mainītie/pievienotie % tiktu
+saglabāti komisijas aprēķina brīdī (palaižot :doc:`komisijas aprēķina
+Rīku<6517>` ), M podziņai jābūt aktīvai/iespiestai:
+|images_ozols/26373.png|
+
+
+
+
+
+|images_ozols/25923.png|
+
+
+
+Izvēles rūtiņas funkcionalitāte: Ja ķeksis būs ieķeksēts izvēles
+rūtiņā, tad neatkarīgi no tā vai klients samaksājis, vai nav, nauda
+jebkurā gadijumā būs jāpārskaita apdrošināšanas sabiedībai (bieži
+attiecas uz OCTA polisēm). Ja ķeksis nebūs ieķeksēts izvēles rūtiņā,
+tad naudu apdošināšanas sabiedrībāi pārskaitīs tikai tad, kadtiks
+saņemta nauda no klienta (rēķins saistīts ar Finanšu dokumentu).
+Tiklīdz būs nodzēsts klienta parāds, tā aprēķināsies komisija. Ja
+parāds nodzēsts nebūs, tad arī komisija netiks aprēķināta.
+
+Nospiežot pogu |images_ozols/26004.png| , iespējams pievienot papildus
+informāciju, pēc kuras būs iespējams sagatavot arī :doc:`polišu
+atskaiti<6513>` :
+
+
+
+|images_ozols/26030.png|
+
+
+
+3. Komentāri
+++++++++++++
+
+Šajā Polises apraksta lapā iespējams rakstīt visus komentārus, kas
+attiecināmi uz konkrēto polises līgumu. Sadaļai ir informatīvs
+raksturs.
+
+
+
+4. Faili
+++++++++
+
+Polises apraksta failu lapā iespējams pievienot nepieciešamos failus,
+norādot "ceļu" uz konkrēto polišu līguma dokumentu. Piemēram, mašīnu
+fotogrāfijas, Worda dokumentus, Exel dokumentus, utt.
+
+
+
+|images_ozols/25486.png|
+
+
+
+5. Pielikumi
+++++++++++++
+
+Polises apraksta Pielikumu lapā iespējams pievienot izmaiņas attiecībā
+uz katru polisi. Piemēram, reģistrācijas numura maiņa, tehniskās pases
+maiņa, utt.:
+
+
+
+|images_ozols/25924.png|
+
+
+
+Datums : Datums, kurā pielikums veidots;
+
+Veids : Jānorāda atbilstošais Pielikuma veids;
+
+Partneris : Partneris no klasifikatora, uz kuru šis pielikums
+attiecas;
+
+Polise : Informācija par esošo Polisi;
+
+Pielikums : Iespējams norādīt saiti uz nākamo polisi (jauno polisi);
+
+|images_ozols/24545.gif| Visi iepriekšējie pielikumi pāries uz jauno
+polises līgumu.
+
+Sagatve: Iespējams izvēlēties sagatavotos polišu pielikumu dokumentus.
+Nospiežot uz MsWord sagatavi dokumentu iespējams izdrukāt;
+
+Piezīmes : Lauks ir informatīvs, kur lietotājs brīvā tekstā var
+ievadīt nepieciešamās piezīmes.
+
+
+
+6. Maksājumu plāns
+++++++++++++++++++
+
+|images_ozols/26012.png|
+
+
+
+1. Pirms rēķinu ģenerēšanas jānorāda atbilstošais :doc:`rēķina
+veids<157>` :
+
+
+
+|images_ozols/25960.png|
+
+
+
+Apdrošināšanas sabiedrības rēķins : rēķins, kurš tiek ģenerēts
+informatīvi (netiek izsniegts klientam), lai veiktu uzņēmuma komisijas
+aprēķina uzskaiti un kontrolētu polises norēķinus ar AAS. Rēķins, kuru
+klientam izsniedz apdrošināsanas sabiedrība, un kurš arī tiek
+apmaksāts apdrošināsanas sabiedrībai. Rēķinu ģenerēšana nepieciešama
+:doc:`uzņēmuma<6524>` un :doc:`brokeru komisijas<6516>` aprēķināšanai
+un uzskaitei.
+
+Polišu faktūrrēķins : rēķins, kuru klientam izsniedz brokeru uzņēmums
+un kurš tiek apmaksāts brokeru uzņēmumam. Klients rēķinu apmaksā,
+pārskaitot rēķina summu
+.. |images_ozols/25467.png| image:: images_ozols/25467.png
+:scale: 100%
+
+.. |images_ozols/25501.png| image:: images_ozols/25501.png
+:scale: 100%
+
+.. |images_ozols/25917.png| image:: images_ozols/25917.png
+:scale: 100%
+
+.. |images_ozols/25918.png| image:: images_ozols/25918.png
+:scale: 100%
+
+.. |images_ozols/25920.png| image:: images_ozols/25920.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/25920.png| image:: images_ozols/25920.png
+:scale: 100%
+
+.. |images_ozols/25922.png| image:: images_ozols/25922.png
+:scale: 100%
+
+.. |images_ozols/26372.png| image:: images_ozols/26372.png
+:scale: 100%
+
+.. |images_ozols/26373.png| image:: images_ozols/26373.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/26373.png| image:: images_ozols/26373.png
+:scale: 100%
+
+.. |images_ozols/25923.png| image:: images_ozols/25923.png
+:scale: 100%
+
+.. |images_ozols/26004.png| image:: images_ozols/26004.png
+:scale: 100%
+
+.. |images_ozols/26030.png| image:: images_ozols/26030.png
+:scale: 100%
+
+.. |images_ozols/25486.png| image:: images_ozols/25486.png
+:scale: 100%
+
+.. |images_ozols/25924.png| image:: images_ozols/25924.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/26012.png| image:: images_ozols/26012.png
+:scale: 100%
+
+.. |images_ozols/25960.png| image:: images_ozols/25960.png
+:scale: 100%
+
+ 

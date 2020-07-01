@@ -4,11 +4,15 @@
 Sarakstā tiek saglabāti Iesniegumu veidi, kas tiek izmantoti
 :doc:`Iesnieguma dokumenta<791>` aizpildīšanai.
 
-Lai pievienotu jaunu iesnieguma veidu, rīku joslā jānospiež poga
+Lai pievienotu jaunu iesnieguma veidu, rīku joslā jānospiež poga ..
+image:: images_ozols/25605.png
+:scale: 100%
 (Alt+P) un jāaizpilda nepieciešamā informācija:
 
 
 
+.. image:: images_ozols/26076.png
+:scale: 100%
 
 
 
@@ -20,6 +24,8 @@ Rīkojuma par ikgadējo atvaļinājumu sagatavošanai):
 
 
 
+.. image:: images_ozols/26081.png
+:scale: 100%
 
 
 
@@ -31,9 +37,13 @@ Iesnieguma dokumentā.
 
 
 
+.. image:: images_ozols/26077.png
+:scale: 100%
 - izvēles rūtiņa jāatzīmē, japievienotajam Iesnieguma veidam tiks
 definēts notikuma beigu datums;
 
+.. image:: images_ozols/26079.png
+:scale: 100%
 - izvēles rūtiņa jāatzīmē, ja pievienotajam Iesnieguma veidam tiks
 definēts laika periods - no...līdz;
 
@@ -45,6 +55,8 @@ definēt Iesnieguma rezultātā izveidotā Notikuma krāsas attēlojumu
 
 
 
+.. image:: images_ozols/26080.png
+:scale: 100%
 
 
 
@@ -60,6 +72,9 @@ krāsā.
 
 
 
-Ieraksts tiks saglabāts, izpildot komandu .
+Ieraksts tiks saglabāts, izpildot komandu .. image::
+images_ozols/24710.png
+:scale: 100%
+.
 
  

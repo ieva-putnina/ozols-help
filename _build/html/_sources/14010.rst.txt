@@ -1,0 +1,27 @@
+.. 14010 ================================Sistēmas lietošanas principi================================ 
+
+
+Sistēmas lietošanas pamatprincipi darbam ar sarakstiem, dokumentiem,
+atskaitēm un to drukāšanas iespējām sistēmā Ozols:
+
+
+
+:doc:`Darba režīmu izkārtojums un pieejamās komandas<14013>`
+
+:doc:`Darba režīmu pārskats<14051>`
+
+:doc:`Darbs ar atskaitēm<14016>`
+
+:doc:`Darbs ar dokumentiem<14014>`
+
+:doc:`Darbs ar programmu<14012>`
+
+:doc:`Dažāda veida lauku aizpildīšana<14015>`
+
+:doc:`Dokumentu drukāšana<14034>`
+
+:doc:`Pieņemtie apzīmējumi<14011>`
+
+
+
+ .. toctree::   :maxdepth: 5    14013.rst   14051.rst   14016.rst   14014.rst   14012.rst   14125.rst   14015.rst   14100.rst   14034.rst   14011.rst   14101.rst

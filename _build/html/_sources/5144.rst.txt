@@ -1,0 +1,21 @@
+.. 5144 Tabeles*********** 
+Darba laika uzskaites tabele parāda darba laika uzskaiti katram
+strādājošajam. Dati tiek sagatavoti par vienu periodu (mēnesi),
+atsevišķi pa struktūrvienībām, norādot atbilstoši katram strādājošajam
+nostrādāto dienu un nakts stundu skaitu dienā.
+
+Darba laika uzskaites Tabelē tiek uzrādīta visa aizpildītā informācija
+par katru darbinieku - gan ievadītās nostrādātās stundas darba dienā
+(naktī), gan arī uz darbinieku attiecināmie ievadītie
+:doc:`Rīkojumi<5111>` , kas ietekmē darbinieku kalendāru, kā piemēram,
+Ikgadējā atvaļinājuma rīkojums, Slimības apmaksas rīkojums, u.c.
+
+Darba laika uzskaites tabeli iespējams aizpildīt, gan ielādējot datus
+no noklusētajām vērtībām pēc :doc:`Kalendāra<218>` , gan arī
+izmantojot iepriekš definētos :doc:`Darba laika uzskaites
+grafikus<984>` , kā arī ir iespēja aizpildīt datus, ievadot
+nostrādātās stundas katram darbiniekam manuāli.
+
+:doc:`Darba laika uzskaites Tabeles aizpildīšana<5146>`
+
+ .. toctree::   :maxdepth: 4    5269.rst   5214.rst   5201.rst   5146.rst   5199.rst

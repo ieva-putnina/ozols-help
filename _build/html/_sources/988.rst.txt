@@ -1,0 +1,24 @@
+.. 988 Intrastat************* 
+
+
+INTRASTAT pārskatu iesniedz tie PVN maksātāji, kuru apgrozījums
+pārsniedz noteikto statistisko robežlielumu. Intrastat atskaite tiek
+sagatavota pamatojoties uz ievadītajiem Norēķinu dokumentiem
+(iepirkumu dokuments), kuros tiek noformēts preces ievedums Latvijā no
+kādas ES dalībvalsts, deklarējot preču ievedumu INTRASTAT pārskata
+veidlapā atbilstoši šo preču astoņu zīmju kodam, norādot preču vērtību
+latos, partnervalsti, svaru, darījuma veida kodu, svaru un daudzumu
+papildmērvienībās.
+
+
+
+
+:doc:` |images_ozols/24545.gif| <990>` Atskaites sagatavošana:
+:doc:`Ievedums–Intrastat–1A<990>`
+
+
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+ .. toctree::   :maxdepth: 4    989.rst   990.rst   1019.rst

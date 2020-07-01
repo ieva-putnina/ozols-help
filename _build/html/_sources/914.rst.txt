@@ -1,0 +1,5 @@
+.. 914 Avansa izdevumu žurnāls*************************** Avansu izdevumu žurnālā tiek saglabāti visi avansu norēķinu personu
+:doc:`avansu izdevumu<747>` dokumenti. Dokumentus iespējams atfiltrēt
+pa periodiem, personām, piegādātājiem, u.c., saistītās informācijas.
+
+ 

@@ -1,0 +1,27 @@
+.. 216 Kalendārs************* 
+
+
+Šajā sarakstā tiekattēlots kalendārs, atbilstoši filtrā norādītajiem
+kritērijiem. Izvēloties šo darba režīmu, sākotnēji tiek piedāvāts
+saraksta filtrs, kurā iespējams norādīt nepieciešamos datu atlases
+kritērijus: laika periodu un ievadīto uzņēmuma kalendāru, atbilstoši
+kuram dati tiks atlasīti:
+
+
+
+|images_ozols/26408.png|
+
+
+
+Nospiežot pogu |images_ozols/25944.png| , tiks atlasīts izvēlētais
+saraksts.
+
+
+
+.. |images_ozols/26408.png| image:: images_ozols/26408.png
+:scale: 100%
+
+.. |images_ozols/25944.png| image:: images_ozols/25944.png
+:scale: 100%
+
+ 

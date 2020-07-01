@@ -20,11 +20,15 @@ dokumentiem, kuri saistīti ar Pamatlīdzekļiem:
 + :doc:`Pamatlīdzekļu pārsūtīšanas dokumenti<437>` .
 
 
-Lai atlasītu precīzāku dokumenta veidu, Rīku joslā jānospiež poga
+Lai atlasītu precīzāku dokumenta veidu, Rīku joslā jānospiež poga ..
+image:: images_ozols/24535.gif
+:scale: 100%
 (Ctrl+F), tiek atvērts logs:
 
 
 
+.. image:: images_ozols/25433.png
+:scale: 100%
 
 
 
@@ -36,17 +40,23 @@ Atlasīšana ir iespējama atlasot pēc:
 + datuma;
 + numura;
 + dokumenta veida;
-+ atzīmējot izvēles rūtiņu un skatlodziņā tiek rādīta pēdējā izvēle.
-  Lai sarakstu atvērtu, jānoklikšķina uz bultiņas saraksta labajā pusē
-  un jāizvēlas attiecīgie dokumenti;
-+ atzīmējot izvēles rūtiņu , tiks atlasīti arī anulētie dokumenti.
++ atzīmējot izvēles rūtiņu .. image:: images_ozols/25435.png :scale:
+  100% un skatlodziņā tiek rādīta pēdējā izvēle. Lai sarakstu atvērtu,
+  jānoklikšķina uz bultiņas saraksta labajā pusē .. image::
+  images_ozols/25434.png :scale: 100% un jāizvēlas attiecīgie dokumenti;
++ atzīmējot izvēles rūtiņu .. image:: images_ozols/25436.png :scale:
+  100% , tiks atlasīti arī anulētie dokumenti.
 
 
 Kad visi vēlamie dokumenta atlasīšanas kritēriji ir atzīmēti,
-jānospiež poga .
+jānospiež poga.. image:: images_ozols/25379.png
+:scale: 100%
+.
 
 Kad dokuments ir atlasīts, to ir iespējams detalizētāk apskatīt, Rīku
-joslā nospiežot pogu (Alt+A).
+joslā nospiežot pogu .. image:: images_ozols/25420.png
+:scale: 100%
+(Alt+A).
 
 
 

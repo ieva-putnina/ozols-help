@@ -1,0 +1,55 @@
+.. 118 Bankas kodu tipi******************** 
+
+
+Sarakstā tiek saglabāti banku kodu tipi, kas tiek izmantoti banku
+saraksta aizpildīšanai.
+
+
+
+
+Jauna Bankas koda tipa pievienošana:
+++++++++++++++++++++++++++++++++++++
+
+Lai pievienotu jaunu bankas kodu tipu rīku joslā jānospiež poga
+|images_ozols/24708.png| un tiks atvērts jauns logs:
+
+
+
+|images_ozols/24654.jpg|
+
+
+
+Laukā Nosaukums, nepieciešams ierakstīt Bankas koda tipa nosaukumu.
+Ieraksts tiks saglabāts, izpildot komandu |images_ozols/24710.png| .
+
+
+
+Pievienotā Bankas koda tipa labošana:
++++++++++++++++++++++++++++++++++++++
+
+Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
+atvērt, izmantojot rīku joslas pogu |images_ozols/24709.png| (ALT+A),
+unatvērtajā logā nomainīt Nosaukumu.
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/24654.jpg| image:: images_ozols/24654.jpg
+:scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

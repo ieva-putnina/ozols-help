@@ -1,0 +1,3 @@
+.. 14140 5.Darba uzsākšana ar maksājumu uzskaites moduli*************************************************** Lai atvērtu instrukciju darba uzsākšanai ar OZOLS maksājumu uzskaites
+moduli spiediet :doc:`šeit`
+ 

@@ -1,0 +1,60 @@
+.. 14043 Sarakstu aizpildīšana no atvērta dokumenta********************************************** 
+Sarakstu var aizpildīt no paša dokumenta, ja dokumentā pretim ievades
+laukam ir lupas poga |images_ozols/24743.png| .
+
+
+
+|images_ozols/24744.png|
+
+
+
+Nospiežot lupas pogu tiek atvērts konkrēta sarakstu veida žurnāls.
+
+
+
+|images_ozols/24745.png|
+
+
+
+Lai pievienotu jaunu saraksta ierakstu, jāizmanto komanda
+|images_ozols/24708.png| .
+
+Lai dzēstu esošu saraksta ierakstu, jāizmanto komanda
+|images_ozols/24719.gif| .
+
+Lai labotu esošu saraksta ierakstu - tas jāatzīmē ar kursoru, jāatver
+ar komandu |images_ozols/24709.png| , jālabo un jāsaglabā ar komandu
+|images_ozols/24710.png| .
+
+
+
+Lai izvēlētos un ievietotu dokumentā jaunizveidoto saraksta ierakstu
+vai kādu jau no esošajiem, jāizmanto komanda |images_ozols/24746.png|
+. Pēc šīs darbības veikšanas, saraksta žurnāls tiek aizvērts un
+dokumentā tiek ielādēta izvēlētā vērtība.
+
+.. |images_ozols/24743.png| image:: images_ozols/24743.png
+:scale: 100%
+
+.. |images_ozols/24744.png| image:: images_ozols/24744.png
+:scale: 100%
+
+.. |images_ozols/24745.png| image:: images_ozols/24745.png
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/24719.gif| image:: images_ozols/24719.gif
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+:scale: 100%
+
+.. |images_ozols/24746.png| image:: images_ozols/24746.png
+:scale: 100%
+
+ 

@@ -3,6 +3,8 @@ Pasūtījuma žurnālā ir apkopoti visi pasūtījumi:
 
 
 
+.. image:: images_ozols/25578.png
+:scale: 100%
 
 
 
@@ -26,6 +28,8 @@ Daudzums (litri): degvielas daudzums litros;
 
 Summa, Ls: pasūtījuma summa latos.
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Lai izveidotu jaunu degvielas pasūtījumu, degvielas pasūtījumu sadaļā
 Jauns jāizvēlas :doc:`Degvielas pasūtījums<6904>` .
 
@@ -36,6 +40,8 @@ dažādiem izvēlētiem kritērijiem:
 
 
 
+.. image:: images_ozols/25570.png
+:scale: 100%
 
 
 
@@ -44,14 +50,26 @@ Num.no_ līdz_ : pasūtījuma numurs;
 
 Degvielas bāze: pasūtījumā nodefinētā degvielas bāze no saraksta;
 
-Pasūtītājs: pasūtītājs, kurš veicis pasūtījumu (ar saraksta podziņu
-izvēlas, ja vajag dzēst pasūtītāju, tad ar dzēšanas podziņu , lai
-apskatītu izvēlētā pasūtītāja informāciju, tad podziņa );
+Pasūtītājs: pasūtītājs, kurš veicis pasūtījumu (ar saraksta podziņu ..
+image:: images_ozols/25564.png
+:scale: 100%
+izvēlas, ja vajag dzēst pasūtītāju, tad ar dzēšanas podziņu .. image::
+images_ozols/25571.png
+:scale: 100%
+, lai apskatītu izvēlētā pasūtītāja informāciju, tad podziņa ..
+image:: images_ozols/25565.png
+:scale: 100%
+);
 
-Datums no_ līdz_ : pasūtījuma datums (atvērt kalendāru ar podziņu );
+Datums no_ līdz_ : pasūtījuma datums (atvērt kalendāru ar podziņu ..
+image:: images_ozols/25560.png
+:scale: 100%
+);
 
 Pas.uz no_ līdz_ : datums uz kuru tika veikts pasūtījums (atvērt
-kalendāru ar podziņu );
+kalendāru ar podziņu .. image:: images_ozols/25560.png
+:scale: 100%
+);
 
 Pas. statuss: pasūtījuma statuss, ar bultiņu atverot statusa sarakstu
 (tiek sagatavots, mainīts atbildīgais, izpildīts, iesniegts

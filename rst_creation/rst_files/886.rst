@@ -11,11 +11,15 @@ izmantot kā datu atlases kritēriju.
 Jaunas Kampaņas veidapievienošana:
 ++++++++++++++++++++++++++++++++++
 
-Lai pievienotu jaunuKampaņas veidu,rīku joslā jānospiež poga un tiks
-atvērts jauns logs:
+Lai pievienotu jaunuKampaņas veidu,rīku joslā jānospiež poga.. image::
+images_ozols/24708.png
+:scale: 100%
+un tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/25934.png
+:scale: 100%
 
 
 
@@ -33,7 +37,10 @@ Mērķa auditorija: Uzņēmuma veidotās kampaņas mērķauditorija
 
 
 
-Ieraksts tiks saglabāts, izpildot komandu .
+Ieraksts tiks saglabāts, izpildot komandu .. image::
+images_ozols/24710.png
+:scale: 100%
+.
 
 
 
@@ -41,9 +48,15 @@ Pievienotā Kampaņas veidalabošana:
 ++++++++++++++++++++++++++++++++++
 
 Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
-atvērt, izmantojot rīku joslas pogu (ALT+A), unatvērtajā logā veikt
-nepieciešamos labojumus.
+atvērt, izmantojot rīku joslas pogu.. image:: images_ozols/24709.png
+:scale: 100%
+(ALT+A), unatvērtajā logā veikt nepieciešamos labojumus.
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
  

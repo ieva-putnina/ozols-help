@@ -23,6 +23,8 @@ Izvēloties dokumenta veidu Grāmatojums, tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/25096.png
+:scale: 100%
 
 
 
@@ -41,6 +43,8 @@ ielikts tekošās dienas datums):
 
 
 
+.. image:: images_ozols/25097.png
+:scale: 100%
 
 
 
@@ -52,6 +56,8 @@ pēc LB kursa)
 
 
 
+.. image:: images_ozols/25098.png
+:scale: 100%
 
 
 
@@ -61,6 +67,8 @@ paskaidrojuma tekstu nonodefinētajiem:doc:`Grāmatojumu
 paskaidrojuiem<628>` vai ierakstot Paskaidrojuma tekstu manuāli:
 
 
+.. image:: images_ozols/25099.png
+:scale: 100%
 
 
 
@@ -72,23 +80,36 @@ Manuālā grāmatojuma Satura aizpildīšana
 +++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu Grāmatojuma Saturu, dokumenta satura daļā nepieciešams
-nospiest un tiks atvērts operācijas satura logs, kurā nepieciešams
-aizpildīt satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt
-satura ieraksta summu:
+nospiest .. image:: images_ozols/24708.png
+:scale: 100%
+un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
+satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
+ieraksta summu:
+
+
+
+.. image:: images_ozols/25100.png
+:scale: 100%
 
 
 
 
-
-
-
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Ja grāmatojuma satura ieraksta rindiņu Debeta un Kredīta pusē
 nepieciešams norādīt atšķirīgas dimensijas (Piemēram, DB puses EK
 atšķirīgs no CR puses EK), satura logā iespējams atzīmēt izvēles
-rūtiņu: , tādejādi labojot vienas puses ierakstus, labojums
-automātiski nepārnesīsies uz otru satura ieraksta pusi.
+rūtiņu: .. image:: images_ozols/25103.png
+:scale: 100%
+, tādejādi labojot vienas puses ierakstus, labojums automātiski
+nepārnesīsies uz otru satura ieraksta pusi.
 
-Pēcsatura ierakstu aizpildīšanas,ierakstu iespējams vai .
+Pēcsatura ierakstu aizpildīšanas,ierakstu iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
 
 
@@ -98,11 +119,14 @@ Manuālā grāmatojuma Satura ierakstu labošana
 ++++++++++++++++++++++++++++++++++++++++++++
 
 Lai veiktu labojumus,satura ierakstunepieciešams atvērt, izmantojot
-rīku joslas pogu (ALT+A), unatvērtajāierakstā iespējams
-veiktnepieciešamos labojumus:
+rīku joslas pogu.. image:: images_ozols/24709.png
+:scale: 100%
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 
 
 
+.. image:: images_ozols/25105.png
+:scale: 100%
 
 
 
@@ -122,13 +146,17 @@ dokumentātiek parādīts operācijas kontējums.
 Jagrāmatojums ir aizpildīts, ir divas iespējas, kā saglabāt
 grāmatojumu:
 
-1) nospiežot pogu - grāmatojums tiks saglabāts :doc:`Grāmatojumu
-žurnālā<131>` , bet tas nebūs Apstiprināts, un līdz ar to būs iespēja
-veikt korekcijas, ja tas būs nepieciešams;
+1) nospiežot pogu .. image:: images_ozols/24615.jpg
+:scale: 100%
+- grāmatojums tiks saglabāts :doc:`Grāmatojumu žurnālā<131>` , bet tas
+nebūs Apstiprināts, un līdz ar to būs iespēja veikt korekcijas, ja tas
+būs nepieciešams;
 
-2) rīku joslā nospiežot pogu (Ctrl+R)- izpildot šo darbību,
-grāmatojums vienlaicīgi tiks saglabāts un apstiprināts, kasnozīmē,
-kagrāmatojuma sagatavošana ir pabeigta. Apstiprinātais grāmatojums būs
-pieejams :doc:`Grāmatojumu žurnālā<131>` .
+2) rīku joslā nospiežot pogu.. image:: images_ozols/24740.png
+:scale: 100%
+(Ctrl+R)- izpildot šo darbību, grāmatojums vienlaicīgi tiks saglabāts
+un apstiprināts, kasnozīmē, kagrāmatojuma sagatavošana ir pabeigta.
+Apstiprinātais grāmatojums būs pieejams :doc:`Grāmatojumu
+žurnālā<131>` .
 
  

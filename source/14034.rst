@@ -53,6 +53,8 @@ Ekrāna formas aizvēršana
 
 
 
+.. image:: images_ozols/25301.png
+:scale: 100%
 
 
 

@@ -1,0 +1,2 @@
+.. 734 =========================Datu bāzes pārvaldība========================= 
+ .. toctree::   :maxdepth: 5    974.rst   154.rst   632.rst   684.rst   676.rst   941.rst   826.rst   827.rst   880.rst   581.rst   668.rst   1007.rst   754.rst   683.rst   666.rst   1053.rst   667.rst   721.rst   737.rst   735.rst   171.rst   1011.rst   864.rst   205.rst

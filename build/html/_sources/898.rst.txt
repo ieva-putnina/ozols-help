@@ -5,11 +5,15 @@ Sarakstā tiek saglabāti Citas informācijas veidi, kas tiek izmantot
 Personāla datu -:doc:`Citas informācijas<765>` aizpildīšanai.
 
 Lai pievienotu jaunu Citas informācijas veidu, rīku joslā jānospiež
-poga (Alt+P) un jāieraksta Informācijas veida nosaukums (Piemēram,
+poga .. image:: images_ozols/25605.png
+:scale: 100%
+(Alt+P) un jāieraksta Informācijas veida nosaukums (Piemēram,
 Kavējums, Pārkāpums, utt.):
 
 
 
+.. image:: images_ozols/26083.png
+:scale: 100%
 
 
 
@@ -21,6 +25,9 @@ attiecīgo ierakstu.
 
 
 
-Ieraksts tiks saglabāts, izpildot komandu .
+Ieraksts tiks saglabāts, izpildot komandu .. image::
+images_ozols/24710.png
+:scale: 100%
+.
 
  

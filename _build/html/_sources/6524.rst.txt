@@ -1,0 +1,233 @@
+.. 6524 Uzņēmumu komisija********************* 
+Uzņēmuma komisijas atskaite parāda informāciju par uzņēmuma komisijām,
+atbilstoši datu atlases filtrā norādītajiem kritērijiem.
+
+|images_ozols/24545.gif| Pirms Uzņēmumu komisijas atskaišu
+sagatavošanas, jāpalaiž :doc:`Komisijas aprēķina<6517>` rīks.
+
+
+
+Atskaiti iespējams sagatavot detalizēti par katru no partneriem,
+atlasīt datus pēc apdrošināšanas veida, numura vai summas. Atskaitē
+iespējams atlasīt datus:
+- par norādīto laika periodu;
+- par konkrētu partneri;
+- pēc to summas, valūtas.
+
+
+Filtrs jāaizpilda, lai sagatavotu atskaiti.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves.
+
+Atlases kritēriju filtrs izskatās šādi:
+
+
+
+|images_ozols/25910.png|
+
+
+
+Uzņēmums: uzņēmums, par kuru tiks sagatavota atskaite;
+
+Apdroš.v.: polišu atskaites sagatavošanai par vienu apdrošināšanas
+veidu;
+
+Apdroš.sab.: atskaite par vienu apdrošināšanas sabiedrību;
+
+Brokeris: atskaite par izvēlētu brokeri;
+
+Asistents: atskaite par izvēlētu asistentu;
+
+Piesaistītājs: atskaite par izvēlētu piesaistītāju;
+
+Apdr.ņēmējs: atskaite par apdrošināšanas ņēmēju;
+
+Izdošanas dat.: polišu izdošanas datums vai periods;
+
+Sākuma dat.: polišu darbības sākuma datums vai periods;
+
+Beigu dat.: polišu darbības beigu datums;
+
+Kom.aprēķ.dat.: ja komisiju aprēķins veikts, tad iespējams norādīt
+datumu vai periodu par kuru veikts aprēķins, lai sagatavotu atskaiti
+par aprēķinātās komisijas apjomu;
+
+Rēķina termiņš: polišu rēķinu termiņš;
+
+Apdroš.prēmija: polišu atskaite par noteiktu apdrošināšanas prēmijas
+apjomu;
+
+Valūta: apdrošināšanas prēmijas valūta;
+
+Auto rēģ.nr.: automašīnas reģistrācijas numurs;
+
+Automašīna: automašīnas marka;
+
+Statuss: atskaite pēc viena konkrēta polises statusa (Izrakstītas,
+Noliktavā, Pārtrauktas, Pie brokera, Sabojātas);
+
+Atjaun.līg.veids: atjaunots līguma veids (Jā, Nē);
+
+Atjaunota polise: atskaite par atjaunotām vai neatjaunotām polisēm;
+
+Komisijas veids: atskaite par plānotajām (komisija vēl nav
+aprēķināta)vai aprēķinātajām komisijām;
+
+Rēķina veids: jāizvēlas par kāda izrakstīta rēķina veida komisijām
+tiks gatavota atskaite - polišu faktūrrēķins vai apdrošināšanas
+sabiedrības rēķins;
+
+Grupēt pēc: Apdroš.v.: iespēja grupēt pēc apdrošināšanas veida;
+Apdroš.sab.: apdrošināšans sabiedrības Apdr.ņēmējs: apdrošināšanas
+ņēmēja.
+
+Lai sagatavotu atskaiti pēc izvēlētajiem atlases kritērijiem,
+jānospiež poga |images_ozols/25619.png| .
+
+
+
+|images_ozols/24545.gif| No atskaitē sagatavotajiem datiem, iespējams
+uzģenerēt gan iepirkumu gan pārdošanas dokumentus (komisijas rēķinus)
+.
+
+
+
+Lai sagatavotu komisijas rēķinu (pārdošanas dokumentu)Apdrošināšanas
+sabiedrībai par komisijā, kuras Uzņēmums no konkrētajām polisēm
+nopelnījis, Filtrā nepieciešams atzīmēt datus:
+
+
++ konkrēto Apdrošināšanas sabiedrību
++ Komisijas aprēķināšanas datumu
++ Komisijas veidu (Aprēķinātas - no apmaksātajām polisēm
++ Rēķina veids (Apdrošināšanas sabiedrības rēķins)
+
+
+|images_ozols/25902.png|
+
+
+
+Atskaiti tiks izveidota, nospiežot pogu |images_ozols/25619.png| .
+
+
+
+Lai no atlasītajiem datiem būtu iespējams sagatavot iepirkumu vai
+pārdošanas dokumentu, nepieciešams izmantot Multi iezīmēšanas
+funkciju:
+
+1. :doc:`Rīku<14051>` jānospiež poga |images_ozols/25903.png|
+(CTRL+Y);
+
+
+
+Atzīmēt nepieciešamos ierakstus iespējams, nospiežot uz klaviatūras
+taustiņu CTRL, to turot, un ar peles kreiso taustiņu atzīmējot
+nepieciešamos ierakstus. Lai atzīmētu vairākus apgabalus, nepieciešams
+izmantot klavitatūras taustiņu Shift.
+
+
+
+|images_ozols/25904.png|
+
+
+
+Pēc iezīmēšanas, :doc:`Rīku<14051>` joslā jānospiež poga
+|images_ozols/25814.png| , un jāizvēlas Izveidot pārdošans dokumentu:
+
+
+
+|images_ozols/25905.png|
+
+
+
+Rēķina izveides logā, nepieciešams atzīmēt Rēķina veidu->Komisijas
+rēķins, norādīt atbilstošo rēķina izrakstīšanas datumu, kā arī norādīt
+Apmaksas datumu un Rēķina izrakstīšanas valūtu:
+
+
+
+|images_ozols/25906.png|
+
+
+
+Laukā kolonnas, jāizvēlas izvēle "Komisija":
+
+
+
+|images_ozols/25907.png|
+
+
+
+Ja parametri norādīti pareizi, tad spiežot pogu
+|images_ozols/25908.png| tiks uzģenerēts rēķins.
+
+
+
+Pirms rēķina uzģenerēšanas, tiks uzdots kontroljautājums:
+
+
+
+|images_ozols/25909.png|
+
+
+
+Izvēloties apstiprinošu atbildi "Jā", Rēķins tiks izveidots, atbildot
+"Nē", rēķina ģenēršana tiks pārtraukta!
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+:scale: 100%
+
+.. |images_ozols/25910.png| image:: images_ozols/25910.png
+:scale: 100%
+
+.. |images_ozols/25619.png| image:: images_ozols/25619.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/25902.png| image:: images_ozols/25902.png
+:scale: 100%
+
+.. |images_ozols/25619.png| image:: images_ozols/25619.png
+:scale: 100%
+
+.. |images_ozols/25903.png| image:: images_ozols/25903.png
+:scale: 100%
+
+.. |images_ozols/25904.png| image:: images_ozols/25904.png
+:scale: 100%
+
+.. |images_ozols/25814.png| image:: images_ozols/25814.png
+:scale: 100%
+
+.. |images_ozols/25905.png| image:: images_ozols/25905.png
+:scale: 100%
+
+.. |images_ozols/25906.png| image:: images_ozols/25906.png
+:scale: 100%
+
+.. |images_ozols/25907.png| image:: images_ozols/25907.png
+:scale: 100%
+
+.. |images_ozols/25908.png| image:: images_ozols/25908.png
+:scale: 100%
+
+.. |images_ozols/25909.png| image:: images_ozols/25909.png
+:scale: 100%
+
+ 

@@ -1,0 +1,187 @@
+.. 838 Darbu pasūtījums******************** 
+Pēc režīma atvēršanas tiek atvērts darbu pasūtījuma ievades ekrāna
+logs, kur iespējams mainīt darbu pasūtījuma dokumenta veidu:
+
+
+
+|images_ozols/25853.png|
+
+
+
+tad, kad darbu pasūtījuma dokumenta veids izvēlēts, tad jāievada
+informācija:
+
+
+
+|images_ozols/25852.png|
+
+
+
+Projekta vadītājs : projektu vadītājs tiek aizpildīts automātiski, no
+sistēmas lietotāja reģistrācijas informācijas;
+
+Numurs : dokumenta numurs;
+
+Projekts : projekta izvēlnē ir iespējams izvēlēties attiecīgā projektu
+vadītāja projektus;
+
+Datums ... uz kuru ...: datums, kurā izveidots darbu pasūtījums, un uz
+kuru datumu;
+
+Klients : partnesi, klients, kuram tiek sagatavots pasūtījums;
+
+Kontaktpersona : ja partnerim ir piesaistīta kontaktpersona, tad
+iespējams izvēlēties kontaktpersonu;
+
+Adresāts : pasūtījuma izpildītājs, pēc noklusējuma kā adresāts tiek
+norādīts, pats darbu pasūtījumu sagatavotājs. Tas ir saistīt ar to, ka
+darbu pasūtījumu ir iespējams, koriģēt līdz brīdim, kamēr tas nav
+nosūtīts adresātam. Darbu pasūtījums tiek izsūtīts adresātam pēc
+pasūtījuma saglabāšanas, tāpēc tiek rekomendēts adresātu norādīt
+tikai, kad pasūtījums ir aizpildīts pilnībā. Citam adresātam adresētus
+pasūtījums labot nav iespējams.
+
+Nosaukums :
+
+Raksturojums :
+
+Darba veids :
+
+Izpildes laiks no ... līdz ...: projekta izpildes termiņš;
+
+Cena : projekta izmaksas.
+
+Lai saglabātu darbu pasūtījumu, jānospiež poga Saglabāt. Saglabātais
+darbu pasūtījums tiek saglabāts :doc:`darbu pasūtījumu žurnālā<839>` .
+
+
+
+No :doc:`projektu dokumentu žurnāla<289>` ar funkcijas palīdzību,
+automātiskai un ērtākai darba pasūtījuma sagatavošanai, ja ir
+nepieciešams sagatavot pasūtījumu noteikta projekta ietvaros, ir
+iespējams izmantot projektu žurnālā esošu funkciju – Darbu pasūtījums.
+Pirms funkcijas izsaukšanas, nepieciešams iezīmēt izvēlēto projektu:
+
+
+
+|images_ozols/25854.png|
+
+
+
+Funkcija –-> Darbu pasūtījums
+
+Ar funkcijas palīdzību pamat informācija darbu pasūtījumā tiek
+aizpildīta no projektu. Atliek aizpildīt tikai pasūtījumam raksturīgo
+informāciju:
+
+
+
+|images_ozols/25855.png|
+
+
+
+Informācijas apmaiņa, e-pasts adresātam.
+
+Pēc Darbu pasūtījuma saglabāšanas adresātam tiek nosūtīts informatīvs
+e-pasts ar pamat informāciju par darbu pasūtījumu. Lai iepazītos ar
+pasūtījuma detaļām, ir jāizmanto interneta norāde uz attiecīgo darbu
+pasūtījumu:
+
+
+
+|images_ozols/25856.png|
+
+
+
+Darba uzdevumus - darbu pasūtījums iOzols vidē:
+
+Atverot Darbu pasūtījuma aprakstu no hipersaites informatīvajā
+e-pastā, atveras Darba uzdevums iOzols vidē, kas satur sekojošu
+informāciju:
+
+
+
+|images_ozols/25857.png|
+
+
+
+Partneris un Kontaktpersona : partneris, klients, kuram darba uzdevums
+paredzēts;
+
+Darba uzdevuma sagatavošanas numurs un datums;
+Adresāts : attiecīgā persona, kurai darba uzdevums jāpilda;
+
+Statuss : norāda uz uzdevuma statusu – vai tas ir izpildīts, atcelts,
+apskatīts u.c.;
+
+Izpildes termiņš : darba uzdevuma izpildes termiņš;
+
+Ieraksta tiesības : nosaka to, kādas ir tiesības attiecīgajam darba
+uzdevumam. Publiskošanas gadījumā, tam tiek piešķirtas tiesības
+Publicēt internetā , kas arī dod iespēju šo uzdevumu atvērt publiskajā
+vidē, kādā to redz klients;
+
+Projekts : kura ietvaros tiek pildīts uzdevums;
+
+Pakalpojums : pakalpojuma nosaukums;
+
+Darba uzdevuma apraksts.
+
+Aizpildot šo pašu informāciju tukšā formā iespējams sagatavot jaunu
+darba uzdevumu iOzols vidē.
+Atkarībā no darba uzdevuma tiesībām, ir iespēja informēt klientu par
+darba uzdevuma publiskošanu ar e-pasta vēstules palīdzību:
+
+
+
+|images_ozols/25858.png|
+
+
+
+Zem darba uzdevuma ir informācija par tā komentāriem un vēsturi, kas
+attēlo, piemēram, adresāta maiņu, iztērēto laiku un komentāru. Kā arī
+šeit tiek attēloti tie komentāri, kas pievienoti darba uzdevuma
+publiskajā – klienta daļā.
+Komentāru pievienošana iespējama ar funkcijām, kas atrodas rīkjoslā
+zem darba uzdevuma:
+
+
+
+|images_ozols/25859.png|
+
+
+
+Darba uzdevuma komentāri:
+
+
+
+|images_ozols/25860.png|
+
+.. |images_ozols/25853.png| image:: images_ozols/25853.png
+:scale: 100%
+
+.. |images_ozols/25852.png| image:: images_ozols/25852.png
+:scale: 100%
+
+.. |images_ozols/25854.png| image:: images_ozols/25854.png
+:scale: 100%
+
+.. |images_ozols/25855.png| image:: images_ozols/25855.png
+:scale: 100%
+
+.. |images_ozols/25856.png| image:: images_ozols/25856.png
+:scale: 100%
+
+.. |images_ozols/25857.png| image:: images_ozols/25857.png
+:scale: 100%
+
+.. |images_ozols/25858.png| image:: images_ozols/25858.png
+:scale: 100%
+
+.. |images_ozols/25859.png| image:: images_ozols/25859.png
+:scale: 100%
+
+.. |images_ozols/25860.png| image:: images_ozols/25860.png
+:scale: 100%
+
+ 

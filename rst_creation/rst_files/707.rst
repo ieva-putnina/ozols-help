@@ -6,6 +6,8 @@ Virsgrāmatas konfigurācijas iestādījumi:
 
 
 
+.. image:: images_ozols/26147.png
+:scale: 100%
 
 
  

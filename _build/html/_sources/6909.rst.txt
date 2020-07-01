@@ -1,0 +1,39 @@
+.. 6909 Tvertne*********** 
+Lai pievienotu jaunu Tvertni:
+
+
+
+|images_ozols/25568.png|
+
+
+
+Kods: Tvertnes kods (nosaukuma saīsinājums vai apzīmējums);
+
+Nosaukums: Tvertnes nosaukums;
+
+Adrese: no adrešu saraksta, ar bultiņas pogu, jāizvēlas adresi, kurai
+tiks pievienota šī jaunā tvertne;
+
+Degv. marka: degvielas marka, kura ir attiecināma uz šo tvertni,
+jāizvēlas ar bultiņas pogu.
+
+Kad visi dati ievadīti, jānospiež poga |images_ozols/25561.png| un,
+lai pievienotu jaunu tvertni, jānospiež poga |images_ozols/25563.png|
+. Ja jaunas tvertnes vairs netiks pievienotas, jānospiež poga
+|images_ozols/25562.png| pēc pēdējās tvertnes pievienošanas.
+
+Visas pievienotās tvertnes ir redzamas :doc:`tvertņu sarakstā<6911>` .
+
+.. |images_ozols/25568.png| image:: images_ozols/25568.png
+:scale: 100%
+
+.. |images_ozols/25561.png| image:: images_ozols/25561.png
+:scale: 100%
+
+.. |images_ozols/25563.png| image:: images_ozols/25563.png
+:scale: 100%
+
+.. |images_ozols/25562.png| image:: images_ozols/25562.png
+:scale: 100%
+
+ 

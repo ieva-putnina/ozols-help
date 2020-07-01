@@ -1,0 +1,2 @@
+.. 7605 =============Atskaites============= 
+ .. toctree::   :maxdepth: 5    7699.rst   7633.rst   7686.rst   7636.rst   7691.rst   7653.rst   7662.rst   7620.rst   8602.rst   7632.rst   7654.rst   7656.rst   7659.rst   7630.rst   7621.rst   7672.rst   7667.rst   7655.rst   7650.rst   7652.rst   8611.rst   7660.rst   7617.rst   7694.rst   7675.rst   7609.rst   7668.rst   7670.rst   8604.rst   7614.rst   7635.rst   7665.rst   7666.rst

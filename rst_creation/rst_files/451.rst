@@ -10,25 +10,36 @@ banku elektronisko norēķinu sistēmā un nosūtītu uz banku izpildei.
 Bankas sistēma
 Lai veiktu datu apmaiņu ar banku, nepieciešams no :doc:`Bankas sistēmu
 saraksta<160>` izvēlēties bankas sistēmu, kādu nepieciešams izmantot:
+.. image:: images_ozols/24600.jpg
+:scale: 100%
+
 
 
 
 Importēt Latvijas bankas valūtu kursus
 
+.. image:: images_ozols/24603.jpg
+:scale: 100%
 
 Komanda valūtas kursu importam. Lai veiktu importu, jāatzīmē izvēles
 rūtiņa, jānorāda valūtas kursu importa laika periodsun jālieto komanda
+.. image:: images_ozols/24542.jpg
+:scale: 100%
 .
 
 
 
 Valūtu kursi
-Komanda saraksta Valūtu kursi atvēršanai.
+Komanda .. image:: images_ozols/24604.jpg
+:scale: 100%
+saraksta Valūtu kursi atvēršanai.
 
 
 
 Eksportēt maksājuma uzdevumus
 
+.. image:: images_ozols/24607.jpg
+:scale: 100%
 
 Komanda maksājuma uzdevumu eksportēšanai. Ektrāna formā tiek parādīts
 eksportam sagatavoto dokumentu skaits un kopsumma. Par eksportējamiem
@@ -36,21 +47,29 @@ dokumentiem tiek uzskatīti sagatavotie :doc:`Bankas maksājuma
 uzdevumi<347>` , kuriem ir aktivizēta izvēles rūtiņa"Eksportēt uz
 bankas elektronisko norēķinu sistēmu". Lai veiktu eksportu, jābūt
 noteiktai elektroniskās sistēmas lietošanai, jāaktivizē komanda un
-jālieto komanda .
+jālieto komanda .. image:: images_ozols/24542.jpg
+:scale: 100%
+.
 
 
 
 Importēt bankas konta izrakstus
 
+.. image:: images_ozols/24609.jpg
+:scale: 100%
 
 Komanda ieejošo maksājumu importam. Lai veiktu dokumentu importu,
 jābūt noteiktai elektroniskās sistēmas lietošanai, jāaktivizē komanda
-un jālieto komanda .
+un jālieto komanda .. image:: images_ozols/24542.jpg
+:scale: 100%
+.
 
 
 
 Eksporta žurnāls
-Komanda dokumentu žurnāla :doc:`Bankas izdevumi<224>` atvēršanai. Šajā
+Komanda.. image:: images_ozols/24611.jpg
+:scale: 100%
+dokumentu žurnāla :doc:`Bankas izdevumi<224>` atvēršanai. Šajā
 sarakstā tiek parādīti tikai eksportējamie maksājuma uzdevumi.
 
 
@@ -58,7 +77,9 @@ sarakstā tiek parādīti tikai eksportējamie maksājuma uzdevumi.
 
 
 Aizvērt
-Komanda paredzēta ekrāna formas aizvēršanai.
+Komanda .. image:: images_ozols/24612.jpg
+:scale: 100%
+paredzēta ekrāna formas aizvēršanai.
 
 
  

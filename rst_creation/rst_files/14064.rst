@@ -7,6 +7,8 @@ programmas startēšanas tiek aktivizēta ekrāna forma:
 
 
 
+.. image:: images_ozols/25749.png
+:scale: 100%
 
 
 
@@ -16,6 +18,8 @@ programmas versija no datu bāzes.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Ja gadījumā kādu tehnisku iemeslu dēļ Klienta programmas versiju
 neizdodas atjaunot, tādā gadījumā ir jāpārliecinās vai katalogā kurā
 atrodas OZOLS.exe lietotājam ir tiesības rakstīt datus, ja ir tad

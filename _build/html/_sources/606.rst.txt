@@ -1,0 +1,59 @@
+.. 606 Partnera adreses izdruka**************************** 
+
+
+Atskaiti Partnera adreses izdruka izmanto, lai būtu iespējams izdrukāt
+Partnera adresi noteiktā, lietotājam vēlamā formātā (piemēram, uz
+aploksnēm vai veidlapām).
+
+
+
+Izvēlotes šo atskaiti, tiks atvērts jauns logs:
+
+
+
+|images_ozols/26072.png|
+
+
+
+Partneris: Iespēja no :doc:`Partneru saraksta<112>` izvēlēties
+nepieciešamo :doc:`Partneri<312>` , par kuru dati - :doc:`Adrese<192>`
+,tiks drukāti;
+
+Kontakpersona: Iespēja norādīt kādu no :doc:`Partnerim<312>`
+piesaistītajām :doc:`Kontaktpersonām<189>` .
+
+Adrese: Lauks tiks aizpildīts automātiski, ielādējot izvēlētā
+:doc:`Partnera aprakstā<312>` norādīto :doc:`Adresei<192>` .
+Situācijās, ja Partnerim,:doc:`Partnera aprakstā<312>` norādītas
+vairākas :doc:`Adreses<192>` - šajā izvēlnes laukā iespējams
+izvēlēties attiecīgajā situācijānepieciešamo.
+
+
+
+Ja visi vēlamie atlases kritēriji izvēlēti, jānospiež poga
+|images_ozols/25620.png| , lai tiktu atvērts izdrukas logs, kur
+iespējams izvēlēties nepieciešamo izdrukas formu:
+
+
+
+|images_ozols/26073.png|
+
+
+
+Izvēloties nepieciešamo Iebūvēto izdrukas formu un nospiežot pogu
+|images_ozols/25620.png| , tiks izdrukāta izvēlētā Partnera adrese
+norādītajā formātā.
+
+.. |images_ozols/26072.png| image:: images_ozols/26072.png
+:scale: 100%
+
+.. |images_ozols/25620.png| image:: images_ozols/25620.png
+:scale: 100%
+
+.. |images_ozols/26073.png| image:: images_ozols/26073.png
+:scale: 100%
+
+.. |images_ozols/25620.png| image:: images_ozols/25620.png
+:scale: 100%
+
+ 

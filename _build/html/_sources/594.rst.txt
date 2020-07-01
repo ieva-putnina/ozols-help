@@ -1,0 +1,106 @@
+.. 594 Pārskats par pavadzīmju numuru izlietojumu********************************************** 
+
+
+Stingrās uzskaites pavadzīmju numuru izlietojuma atskaite tiek
+sagatavota atbilstoši likumdošanā noteiktajai veidlapas formai.
+Atskaites sagatavošanu nodrošina iegādāto pavadzīmju numurudatu ievade
+sistēmā >Dokumenti > Norēķini > Stingrās uzskaites dokumenti un to
+izlietojuma uzskaite pēc sērijām un numuriem katrā izveidotajā
+pārdošanas dokumentā – pavadzīmē.
+
+
+
+Pārskata parpavadzīmju numuru izlietojumusagatavošana
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+1. Izvēloties Virsgrāmatas atskaiti - Pārskats par pavadzīmju numuru
+izlietojumu, tiks atvērt filtra logs, kur jānorāda nepieciešamie
+parametri, pēc kādiem atskaite tiks sagatavota:
+
+
+
+|images_ozols/25065.png|
+
+
+
+2. Sagatavojot pārskatu par pavadzīmju numuru izlietojumu, nav
+nepieciešams norādīt profilu, šis lauks ir jāatstāj tukšs!
+
+
+
+3. Nepieciešams norādīt periodu, par kuru atskaite tiks sagatavota,
+izvēloties kādu no definētajiem datuma nosacījumiem vai arī "cits" un
+ievadot datumus manuāli:
+
+
+
+|images_ozols/25046.png|
+
+4. Ja vienā Ozols datu bāzē tiek veikta grāmatvedības uzskaite
+vairākiem uzņēmumiem,filtrā iespējams izvēlēties, pēc kura uzņēmuma
+datiem atskaite tiks sagatavota:
+
+
+
+|images_ozols/25047.png|
+
+
+
+6. Atskaiti iespējamssagatavot, nospiežot pogu
+|images_ozols/25049.png| . Pēc pogas Sagatavot nospiešanas, parādīsies
+paziņojums:
+
+
+
+|images_ozols/25066.png|
+
+
+
+Ja atskaiti nav nepieciešams sagatavot, tad jānospiež poga Nē .
+Nepieciešams nospiest Jā , ja vēlaties sagatavot atskaiti (tā netiks
+sagatavota tukša!):
+
+
+
+|images_ozols/25068.png|
+
+
+
+7. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
+sarakstā<531>` , kur tā būs pieejama labošanai/drukāšanai, nospiežot
+pogu: |images_ozols/25054.png| .
+
+
+
+8. Nospiežot pogu |images_ozols/24617.jpg| atskaite sagatavota netiks
+un darbība tiks atcelta. Ja atskaite tiek izveidota un nav jāsaglabā,
+jālieto komanda Atcelt . Ja atskaite ir saglabāta sarakstā, komandu
+Atcelt var izmantot, lai nesaglabātu atskaitē veiktās izmaiņas.
+
+.. |images_ozols/25065.png| image:: images_ozols/25065.png
+:scale: 100%
+
+.. |images_ozols/25046.png| image:: images_ozols/25046.png
+:scale: 100%
+
+.. |images_ozols/25047.png| image:: images_ozols/25047.png
+:scale: 100%
+
+.. |images_ozols/25049.png| image:: images_ozols/25049.png
+:scale: 100%
+
+.. |images_ozols/25066.png| image:: images_ozols/25066.png
+:scale: 100%
+
+.. |images_ozols/25068.png| image:: images_ozols/25068.png
+:scale: 100%
+
+.. |images_ozols/25054.png| image:: images_ozols/25054.png
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

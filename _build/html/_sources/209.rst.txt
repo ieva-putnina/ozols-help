@@ -1,0 +1,69 @@
+.. 209 Rīkojumu žurnāls******************** 
+
+
+Rīkojumu žurnālā tiek saglabāti visi pievienotie :doc:`Rīkojumu
+dokumenti<409>` . Rīkojuma dokuments nosaka izmaiņas algu aprēķinā
+norādītajai slodzei un tiek izmantoti :doc:`algu aprēķinos<498>` .
+Izveidotie rīkojumi tiek parādīti personīgajā kontā un tiek izmantoti,
+lai sastādītu atskaiti par darbinieku kustību.
+
+|images_ozols/24545.gif| Lai rīkojumu dokumenti piedalītos algu
+aprēķinos, tie obligāti jāapstiprina (rīku joslā poga
+|images_ozols/25702.png| ).
+
+
+
+Ar filtru |images_ozols/24942.png| ir iespējams atlasīt rīkojumus pēc
+viena rīkojuma veida, slodzes, datuma, slodzes statusa.Dati uz ekrāna
+tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
+ekrāna formā. Rīku joslā nopiežot pogu |images_ozols/24535.gif|
+(Ctrl+F), tiek atvērts filtra logs:
+
+
+
+|images_ozols/26108.png|
+
+
+
+Datums: atlasīt datus pēc rīkojumadatuma no...līdz;
+
+Pārbaudes laiks: atlasīt datus, balstoties uz :doc:`Rīkojumā<409>`
+norādīto pārbaudes laika datumu;
+
+Spēkā no: atlasīt datus pēcrīkojuma stāšanās spēkādatuma no...līdz;
+
+Veids: atlasīt datus pēc norādītā:doc:`Rīkojumu veida<277>` ;
+
+Struktūrv. : atlasīt konkrētas struktūrvienības rīkojuma dokumentus;
+
+Slodze: atlasīt datus - informāciju par Apbalvojumiem,par Aktīvajām
+vai Neaktīvajām slodzēm;
+
+Slodzes statuss : atlasīt datus - Rīkojumus pēc slodzes statusa
+(Aktīva/Neaktīva).
+
+
+
+LaiRīkojumu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga
+|images_ozols/25944.png| .
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/25702.png| image:: images_ozols/25702.png
+:scale: 100%
+
+.. |images_ozols/24942.png| image:: images_ozols/24942.png
+:scale: 100%
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+:scale: 100%
+
+.. |images_ozols/26108.png| image:: images_ozols/26108.png
+:scale: 100%
+
+.. |images_ozols/25944.png| image:: images_ozols/25944.png
+:scale: 100%
+
+ 

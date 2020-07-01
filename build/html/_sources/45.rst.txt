@@ -1,4 +1,4 @@
-.. 45 Pamatlīdzekļi================= .. role:: raw-html(raw)     :format: html
+.. 45 Pamatlīdzekļi================= 
 
 
 Pamatlīdzekļu uzskaites modulis paredzēts uzņēmuma pamatlīdzekļu un

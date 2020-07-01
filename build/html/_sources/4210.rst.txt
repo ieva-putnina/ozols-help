@@ -16,6 +16,8 @@ Apmaksas plāns, Koresp.(Jauns):
 
 
 
+.. image:: images_ozols/26287.png
+:scale: 100%
 
 
 
@@ -40,6 +42,8 @@ likmidienā, pēc kura tiks aprēķināts kavējuma naudas apmērs:
 
 
 
+.. image:: images_ozols/26288.png
+:scale: 100%
 
 
 
@@ -77,6 +81,8 @@ lauki, kuros iespējams norādīt:
 
 
 
+.. image:: images_ozols/26289.png
+:scale: 100%
 
 
 
@@ -88,7 +94,9 @@ kurš būs pieejams :doc:`Iepirkumu dokumentu žurnālā<210>` .
 
 
 Lai labotos/pievienotos datus regresa lietas kartiņas lapā saglabātu,
-nepieciešams nospiest pogu: .
+nepieciešams nospiest pogu: .. image:: images_ozols/25621.png
+:scale: 100%
+.
 
 
 
@@ -108,6 +116,8 @@ kādu no grāmatojumiem pēc iepriekš izveidotiem šabloniem:
 
 
 
+.. image:: images_ozols/26291.png
+:scale: 100%
 
 
 
@@ -132,6 +142,8 @@ kuru regresa lietas summa tiks atgūta:
 
 
 
+.. image:: images_ozols/26293.png
+:scale: 100%
 
 
 
@@ -143,6 +155,8 @@ termiņu, skaitu un definēto procentu:
 
 
 
+.. image:: images_ozols/26295.png
+:scale: 100%
 
 
 
@@ -157,6 +171,8 @@ izvēlētais Process, stadija, korespondences datums, adresāts:
 
 
 
+.. image:: images_ozols/26296.png
+:scale: 100%
 
 
 
@@ -166,36 +182,50 @@ atgādinājums, pienākot termiņam, kas norādīt procesa aprakstā:
 
 
 
+.. image:: images_ozols/26297.png
+:scale: 100%
 
 
 
 
-Nospiežot pogu piedāvājuma loga, tiks uzģenerēts apmaksas plāns, kura
-virsrakstā (vai arī pie katra satura ieraksta) ir iespējams norādīt
-uzņēmuma bankas kontu, uz kuru maksājums jāveic, kā arī manuāli mainīt
-maksājumu summu, tādejādi programmā automātiski tiks pārrēķināti
-atlikušie maksājumi:
+Nospiežot pogu .. image:: images_ozols/25621.png
+:scale: 100%
+piedāvājuma loga, tiks uzģenerēts apmaksas plāns, kura virsrakstā (vai
+arī pie katra satura ieraksta) ir iespējams norādīt uzņēmuma bankas
+kontu, uz kuru maksājums jāveic, kā arī manuāli mainīt maksājumu
+summu, tādejādi programmā automātiski tiks pārrēķināti atlikušie
+maksājumi:
+
+
+
+.. image:: images_ozols/26298.png
+:scale: 100%
 
 
 
 
-
-
-
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Lai saglabātu apmaksas plānu, visiem laukiem jābūt aizpildītiem!
 
 
 
-Sagatavoto apmaksas grafiku iespējams izdrukāt, izvēloties pogu: un
-izvēloties atbilstošo kopējo izdrukas formu: "Vienošanās izdruka" (bez
-pielikuma), "Vienošanās pielikums" vai "Vienošanās_atb_uz_vēstuli".
+Sagatavoto apmaksas grafiku iespējams izdrukāt, izvēloties pogu: ..
+image:: images_ozols/25620.png
+:scale: 100%
+un izvēloties atbilstošo kopējo izdrukas formu: "Vienošanās izdruka"
+(bez pielikuma), "Vienošanās pielikums" vai
+"Vienošanās_atb_uz_vēstuli".
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Ja nepieciešams veikt kādas korekcijas izdrukas formā, tad šādus
 labojumus iespējams veikt no izdrukas loga - eksportējot izvēlēto
-izdrukas formu MsWord formātā: , veicot korekcijas un izdrukājot Word
-dokumentu.
+izdrukas formu MsWord formātā: .. image:: images_ozols/26300.png
+:scale: 100%
+, veicot korekcijas un izdrukājot Word dokumentu.
 
 
 
@@ -208,6 +238,8 @@ režīma logā nospiežot pogu "Pievienot" - tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/26303.png
+:scale: 100%
 
 
 
@@ -234,7 +266,11 @@ Adresāts: Nepieciešams norādīt korespondences adresātu, kam šī
 informācija adresēta.
 
 Izdrukāt korespondenci iespējams no atvērta Ien.Izg.korespondences
-loga, nospiežot rīku joslā pogu: un izvēloties atbilstošo kopīgo
-izdrukas formu. Korespondence tiks saglabāta, nospiežot pogu: .
+loga, nospiežot rīku joslā pogu: .. image:: images_ozols/25813.png
+:scale: 100%
+un izvēloties atbilstošo kopīgo izdrukas formu. Korespondence tiks
+saglabāta, nospiežot pogu: .. image:: images_ozols/25621.png
+:scale: 100%
+.
 
  

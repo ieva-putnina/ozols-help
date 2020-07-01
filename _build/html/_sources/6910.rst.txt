@@ -1,0 +1,4 @@
+.. 6910 ============Saraksti============ 
+Sarakstu sadaļā redzami visu pievienoto Licenču un Tvertņu saraksti.
+
+ .. toctree::   :maxdepth: 5    6919.rst   6912.rst   6911.rst

@@ -1,0 +1,128 @@
+.. 14107 Polišu pārtraukšana*********************** 
+Polise tiek pārtraukta, norādot Polises pārtraukšanas datumu un
+Nostrādāto prēmiju:
+
+
+
+|images_ozols/26255.png|
+
+
+
+Nostrādātā prēmija ir polises darbības laika prēmijas daļa no kopējās
+polises prēmijas.
+
+
+
+Maksājuma plāna sadaļā parādās Starpības summa:
+
+
+
+|images_ozols/26256.png|
+
+
+
+|images_ozols/24545.gif| Ja pārtrauktās polises Nenostrādātā prēmija
+(Starpība) netiek pārnesta uz jaunu polisi, tad nepieciešams ģenerēt
+maksājumu par starpības summu (-30.59):
+
+
+
+|images_ozols/26257.png|
+
+
+
+Pēc maksājuma uzģenerēšanas kopējā summa ir Nostrādātā prēmija.
+
+
+
+|images_ozols/26258.png|
+
+
+
+Polises Grāmatojumu sadaļā pēc Nenostrādātās prēmijas maksājuma
+uzģenerēšanas tiek izveidots POA (polises anulēšanas/pārtraukšanas
+grāmatojums):
+
+
+
+|images_ozols/26259.png|
+
+
+
+Maksājuma plāna sadaļā, uzģenerētais Nenostrādātās prēmijas maksājums
+ar mīnus zīmi tiek dzēsts ar Pārdošanas norēķinu dzēšanas aktu. Lai
+dzēstu maksājumu, kurš netiks apmaksātas, polises maksājuma plāna
+sadaļā jāatver konkrētais maksājums un ar dokumenta funkciju jāizvēlas
+sagatavot Norēķinu dzēšanas aktu, kuru jāsaglabā.
+
+
+
+|images_ozols/24545.gif| Gadījumos, kad pēc polises pārtraukšanas tiek
+dzēsti atlikušie uzģenerētie maksājumi un ir zināms, ka netiks veikts
+komisijas aprēķins par atlikušajiem neapmaksātajiem maksājumiem,
+izveidojot :doc:`Pārdošanas norēķinu dzēšanas aktu<358>` , jāatzīmē,
+ka summa netiks iekļauta komisijas aprēķinā:
+
+
+
+|images_ozols/26409.jpg|
+
+
+
+Pēc Norēķinu dzēšanas akta sagatavošanas, jāveic Komisijas aprēķins
+(polišu rīks->:doc:`polišu komisijas aprēķins<6517>` ), kā rezultātā
+polises Maksājuma plāna sadaļā un :doc:`Uzņēmuma komisijas<6524>`
+atskaitē būs redzama nenostrādātās prēmijas uzņēmuma komisija ar mīnus
+zīmi.
+
+
+
+|images_ozols/24545.gif| Ja pārtrauktās polises Nenostrādātā prēmija
+tiek pārcelta uz citu konkrētam partnerim piesaistīto polisi, tad
+pārtrauktajai polisei **nav nepieciešams** **ģenerēt rēķinu** par
+nenostrādāto prēmiju, bet jāatver jaunās polises neapmaksātais
+maksājums/:doc:`rēķins<304>` un manuāli maksājuma saturā jāpievieno
+pārtrauktās polises nenostrādātā prēmija (-30,59). Par nenostrādātās
+prēmijas summu tiek samazināta jaunās polises maksājuma summa:
+
+
+
+|images_ozols/26261.png|
+
+
+
+Ja nenostrādāto prēmiju nepieciešams atgriezt klientam, tiek veidots
+maksājums ar mīnus zīmi (-30.59) un saistīts ar :doc:`bankas
+izdevumu<347>` dokumentu.
+
+.. |images_ozols/26255.png| image:: images_ozols/26255.png
+:scale: 100%
+
+.. |images_ozols/26256.png| image:: images_ozols/26256.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/26257.png| image:: images_ozols/26257.png
+:scale: 100%
+
+.. |images_ozols/26258.png| image:: images_ozols/26258.png
+:scale: 100%
+
+.. |images_ozols/26259.png| image:: images_ozols/26259.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/26409.jpg| image:: images_ozols/26409.jpg
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/26261.png| image:: images_ozols/26261.png
+:scale: 100%
+
+ 

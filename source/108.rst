@@ -8,9 +8,13 @@ Grupu, nosaukumu, kodu, mērvienību un grāmatvedisko kontu.
 Pakalpojumi var tikt uzskaitīti pa Noliktavām un grupēti,
 izmantojot:doc:`Grupu<148>` sarakstu.
 
-Lai pievienotu jaunu Pakalpojumu, rīku joslā jānospiež poga un tiks
-atvērts jauns logs, kur jāaizpilda nepieciešamie lauki:
+Lai pievienotu jaunu Pakalpojumu, rīku joslā jānospiež poga .. image::
+images_ozols/24708.png
+:scale: 100%
+un tiks atvērts jauns logs, kur jāaizpilda nepieciešamie lauki:
 
+.. image:: images_ozols/26434.png
+:scale: 100%
 
 **
 Tips: **pazīme, kas norāda, ka tas ir Pakalpojums;
@@ -29,7 +33,12 @@ izmantots pārdošanas dokumenta grāmatošanā;
 **Izd.konts: **pakalpojuma grāmatvediskais izdevumu konts, kas tiks
 izmantots iepirkumu dokumenta grāmatošanā.
 
-Pēc datu aizpildīšanas, Pakalpojuma aprakstu iespējams vai .
+Pēc datu aizpildīšanas, Pakalpojuma aprakstu iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai.. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
 
  

@@ -1,4 +1,4 @@
-.. 6500 Polises=========== .. role:: raw-html(raw)     :format: html
+.. 6500 Polises=========== 
 
 
 Polišu modulisparedzēts apdrošināšanas brokeru sabiedrībām, kas veic

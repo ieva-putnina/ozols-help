@@ -1,0 +1,37 @@
+.. 23 ============Saraksti============ 
+:doc:`Apmaksas veidi<122>`
+
+:doc:`Atlaižu grupas<185>`
+
+:doc:`Bankas kontu grupas<857>`
+
+:doc:`Cenas<749>`
+
+:doc:`Cenu veidi<105>`
+
+:doc:`Cenu veidu kursi<897>`
+
+:doc:`Debitoru korespondences komentāri<991>`
+
+:doc:`Grupas<148>`
+
+:doc:`Iepirkumu dokumentu veidi<158>`
+
+:doc:`Pakalpojumi<108>`
+
+:doc:`Pārdošanas dokumentu veidi<157>`
+
+:doc:`Standartizētie nosaukumi<768>`
+
+:doc:`Teksta sagataves<140>`
+
+:doc:`Uzrēķini<686>`
+
+
+
+
+
+
+
+
+ .. toctree::   :maxdepth: 5    860.rst   861.rst   122.rst   322.rst   333.rst   132.rst   384.rst   185.rst   859.rst   858.rst   857.rst   750.rst   749.rst   361.rst   896.rst   105.rst   897.rst   991.rst   992.rst   372.rst   362.rst   148.rst   158.rst   767.rst   306.rst   108.rst   157.rst   863.rst   862.rst   769.rst   768.rst   370.rst   140.rst   686.rst

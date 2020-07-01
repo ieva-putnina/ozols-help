@@ -1,0 +1,86 @@
+.. 342 Savstarpējo norēķinu salīdzināšanas akts******************************************** 
+
+
+
+Savstarpējo norēķinu salīdzināšanas akti tiek veidoti, lai salīdzinātu
+savstarpējos atlikumus. Savstarpējo norēķinu salīdzināšanas akta
+saturs tiek aizpildīts no pirmdokumentiem (dokuments, datums, parāda
+summa) vai no grāmatojuma (virsgrāmatas).
+
+Savstarpējo norēķinu salīdzināšanas akti ir pieejami no
+izvēlnes>Norēķini>Dokumenti>Savstarpējo norēķinusalīdzināšanas akti.
+
+
+
+Jauna savstarpējo norēķinu salīdzināšanas akta pievienošana
+```````````````````````````````````````````````````````````
+
+Norēķini>Dokumenti>Savstarpējo norēķinu salīdzināšanas akti, un rīku
+joslā jānospiež poga |images_ozols/25605.png| , vai jāizvēlas
+Norēķini>Jauns>Savstarpējo norēķinu salīdzināšanas akts, tiek atvērts
+logs:
+
+
+
+|images_ozols/26483.png|
+
+
+
+
+Salīdzināšanas akta saturs tiek aizpildīts balstoties uz akta
+virsraksta iestādīto parametru vērtībām:
+
+
+
+|images_ozols/26205.jpg|
+
+Salīdzināšanas datums, Valūta – ja valūta nav izvēlēta, tad tiek
+parādīti visu valūtu dokumenti, Partneris, Konts,
+
+Dokumenta veids – ja ir izvēlēts IEP/Pārd.dok. – iepirkuma un
+pārdošanas dokumenti, IEP dok. - iepirkuma dokumenti, Pārdošanas dok.
+– pārdošanas dokumenti, [Grāmatojumi] – grāmatojuma (virsgrāmatas)
+konta summa.
+
+
+
+Savstarpējo norēķinu salīdzināšanas aktu saturu aizpilda nospiežot
+pogu |images_ozols/26206.jpg|
+
+
+
+Saturs tiek aizpildīts ar atskaites :doc:`„Norēķinu atlikumu
+salīdzināšana”<757>` rezultāta datiem.
+
+Savstarpējo norēķinu salīdzināšanas aktu var izveidot ar atskaites
+:doc:`„Norēķinu atlikumu salīdzināšana”<757>` funkcijas palīdzību. Šī
+atskaite ir 3 dažādu atskaišu kopsavilkums Norēķini -
+:doc:`„Neapmaksātie pārdošanas dokumenti”<540>` , Norēķini -
+:doc:`„Neapmaksātie iepirkuma dokumenti”<541>` un Virsgrāmata –
+:doc:`„Konta atlikumi”<665>` . Atskaites kolonnā „Dok.DB” tiek
+parādīta atskaites „Neapmaksātie pārdošanas dokumenti” parāda summa,
+kolonnā „Dok.CR.” atskaites „Neapmaksātie iepirkuma dokumenti” parāda
+summa. Savstarpējo norēķinu salīdzināšanas aktu var izveidot, ja
+atskaite ir izveidota par vienu partneri un vienu kontu un atskaites
+kolonnu „Starp.DB” un „Starp.CR” vērtības ir 0,00. Kolonnās ir
+dokumentu un konta debeta vai kredīta starpība.
+
+Lai dokumentu drukātu, rīku joslā jānospiež poga
+|images_ozols/25813.png| un jāizvēlas attiecīgā izdrukas forma.
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+:scale: 100%
+
+.. |images_ozols/26483.png| image:: images_ozols/26483.png
+:scale: 100%
+
+.. |images_ozols/26205.jpg| image:: images_ozols/26205.jpg
+:scale: 100%
+
+.. |images_ozols/26206.jpg| image:: images_ozols/26206.jpg
+:scale: 100%
+
+.. |images_ozols/25813.png| image:: images_ozols/25813.png
+:scale: 100%
+
+ 

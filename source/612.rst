@@ -16,6 +16,8 @@ Atskaiti var sagatavot pa atsevišķiem aprēķina periodiem,
 struktūrvienībām, var atlasīt datus pēc amatiem, grupēt pēc amatiem
 vai struktūrvienības.
 
+.. image:: images_ozols/26553.png
+:scale: 100%
 
 
 Atskaite parādā arī kopējo noteikto budžetu amatam un faktisko summas

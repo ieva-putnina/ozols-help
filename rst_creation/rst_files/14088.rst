@@ -31,6 +31,8 @@ funkcijas<14097>` .
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Izveidojot nepieciešamās :doc:`Lietotāju grupas<162>` ,
 :doc:`Lietotāju tiesības darba režīmiem<169>` , tiesību apjomam un
 :doc:`Lietotāju tiesības uzņēmumiem<190>` nepieciešam noteikt grupām,

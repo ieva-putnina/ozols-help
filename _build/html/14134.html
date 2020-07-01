@@ -1,0 +1,623 @@
+
+
+
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>2.Darba uzsākšana grāmatvežiem</title>
+    
+      <link rel="stylesheet" href="_static/pygments.css">
+      <link rel="stylesheet" href="_static/theme.css">
+      <link rel="stylesheet" href="_static/sphinx_press_theme.css">
+          <link rel="stylesheet" href="_static/page_nav.css" type="text/css" />
+          <link rel="stylesheet" href="_static/jquery.fancybox.min.css" type="text/css" />
+          <link rel="stylesheet" href="_static/sphinx_press_theme.css" type="text/css" />
+      
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+      <!-- sphinx script_files -->
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+        <script src="_static/jquery.fancybox.min.js"></script>
+
+      
+      <script src="_static/theme-vendors.js"></script>
+      <script src="_static/theme.js" defer></script>
+    
+  <link rel="index" title="Index" href="genindex.html" />
+  <link rel="search" title="Search" href="search.html" />
+  <link rel="next" title="3.Darba uzsākšana ar iOzols personāla sistēmu" href="14138.html" />
+  <link rel="prev" title="1.Darba uzsākšana sistēmas OZOLS lietotājiem" href="14133.html" /> 
+  </head>
+
+  <body>
+    <div id="app" class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+  <router-link to="index.html" class="home-link">
+    
+      <span class="site-name">Sistēmas LĀCIS dokumentācija</span>
+    
+  </router-link>
+
+  <div class="links">
+    <navlinks class="can-hide">
+
+
+
+    </navlinks>
+  </div>
+</navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="index.html#ozols-palidzibas-sistema">ozols palīdzības sistēma</a></span>
+      </p>
+      <ul class="">
+        
+          <li class="toctree-l1 "><a href="7603.html" class="reference internal ">Paziņojumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="600.html" class="reference internal ">Sākums</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="14000.html" class="reference internal ">Sistēmas lietošanas instrukcija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="18.html" class="reference internal ">Mani darbi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="39.html" class="reference internal ">Alga</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4000.html" class="reference internal ">Apdrošināšanas polises</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4800.html" class="reference internal ">Autoinfo</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="40.html" class="reference internal ">Avansi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="48.html" class="reference internal ">Budžeta izpilde</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6600.html" class="reference internal ">Budžeta plānošana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7700.html" class="reference internal ">Caurlaides</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="26.html" class="reference internal ">CRM (Partneri)</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="50.html" class="reference internal ">Datu apmaiņa ar banku</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7400.html" class="reference internal ">Degvielas tirdzniecība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7000.html" class="reference internal ">Dividendes</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7900.html" class="reference internal ">Ēdināšana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="41.html" class="reference internal ">Finanses</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4900.html" class="reference internal ">iVeikals</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="42.html" class="reference internal ">Krājumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7600.html" class="reference internal ">Kravu pārvadājumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4100.html" class="reference internal ">LaMSF</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6800.html" class="reference internal ">Līgumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4500.html" class="reference internal ">Maksājumu uzskaite</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7100.html" class="reference internal ">Mazumtirdzniecība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="43.html" class="reference internal ">Noliktava</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6770.html" class="reference internal ">Noma</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6700.html" class="reference internal ">Noma transportam</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="44.html" class="reference internal ">Norēķini</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="45.html" class="reference internal ">Pamatlīdzekļi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="34.html" class="reference internal ">Pasts</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7200.html" class="reference internal ">Personāla pašapkalpošanās</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="47.html" class="reference internal ">Personāla vadība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6500.html" class="reference internal ">Polises</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="46.html" class="reference internal ">Projektu kalkulācija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4200.html" class="reference internal ">Regresi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4300.html" class="reference internal ">TKU</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="49.html" class="reference internal ">Virsgrāmata</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4700.html" class="reference internal ">wap OZOLS</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="38.html" class="reference internal ">Citi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5226.html" class="reference internal ">Darbinieku portāls</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6901.html" class="reference internal ">Degvielas pasūtījumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5026.html" class="reference internal ">Iestādījumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4444.html" class="reference internal ">Klientu portāls</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="12.html" class="reference internal ">Konfigurācija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="1.html" class="reference internal ">Kopējie saraksti</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7301.html" class="reference internal ">Mākslinieciskā darba plānošana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5295.html" class="reference internal ">Meklēšanas rezultāti</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6734.html" class="reference internal ">Noma</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="31.html" class="reference internal ">Pievienot</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4461.html" class="reference internal ">Pievienot notikumu</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="10.html" class="reference internal ">Rīki</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7500.html" class="reference internal ">SPRK</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4445.html" class="reference internal ">Uzņēmuma portāls</a>
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="index.html">Docs</a> &raquo;</li>
+    
+      <li><a href="14000.html">Sistēmas lietošanas instrukcija</a> &raquo;</li>
+    
+      <li><a href="14068.html">Darba uzsākšana</a> &raquo;</li>
+    
+    <li>2.Darba uzsākšana grāmatvežiem</li>
+  </ul>
+  
+
+  </script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="14133.html"
+       title="previous chapter">← 1.Darba uzsākšana sistēmas OZOLS lietotājiem</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="14138.html"
+       title="next chapter">3.Darba uzsākšana ar iOzols personāla sistēmu →</a>
+  </li>
+</ul>
+
+  
+</div>
+<hr>
+          <div class="content" role="main">
+            
+  <div class="section" id="darba-uzsaksana-gramatveziem">
+<h1>2.Darba uzsākšana grāmatvežiem<a class="headerlink" href="#darba-uzsaksana-gramatveziem" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="uznemuma-pamatinformacija">
+<h2>Uzņēmuma pamatinformācija:<a class="headerlink" href="#uznemuma-pamatinformacija" title="Permalink to this headline">¶</a></h2>
+<p>Uzsākot darbu sistēmā OZOLS, sākotnēji nepieciešams aizpildīt Uzņēmuma
+informāciju:</p>
+<p>1. Nepieciešams ievadīt savu uzņēmumu Partneru sarakstā:
+CRM(Partneri)-&gt;Saraksti-&gt;Partneri-&gt;Pievienot-&gt;:doc:<cite>Partneris&lt;312&gt;</cite>
+2. Tālāk nepieciešams aizpildīt uzņēmuma informāciju:
+Konfigurācija-&gt;Iestādījumi-&gt;Kopīgie-&gt;:doc:<cite>Uzņēmuma informācija&lt;703&gt;</cite>
+3. Pēc uzņēmuma pamatinformācijas aizpildīšanas, jāpapildināt sistēmā
+pievienotā uzņēmuma informāciju, norādot uzņēmuma kodu (saīsinātu
+nosaukumu) un pilnu nosaukumu:
+Konfigurācija-&gt;Lietotāji-&gt;:doc:<cite>Uzņēmumi&lt;188&gt;</cite></p>
+</div>
+<div class="section" id="kopejie-saraksti">
+<h2>Kopējie saraksti:<a class="headerlink" href="#kopejie-saraksti" title="Permalink to this headline">¶</a></h2>
+<p>Uzsākot darbu, nepieciešams izveidot pamatklasifikatorus, kas tiks
+izmantoti uzņēmuma finanšu un vadības grāmatvedības uzskaitei:</p>
+<p>1. Nepieciešams izveidot uzņēmuma organizatorisko shēmu: Kopējie
+saraksti-&gt;:doc:<cite>Struktūrvienības&lt;117&gt;</cite>
+2. Jāpielāgo Ozolā esošais standartizētais konta plāns, atbilstoši
+uzņēmuma vajadzībām: Kopējie saraksti-&gt;:doc:<cite>Kontu plāns&lt;114&gt;</cite>
+3. Pēc vajadzības, jāpapildina esošais PVN nodokļu saraksts: Kopējie
+saraksti-&gt;:doc:<cite>Nodokļu saraksts&lt;102&gt;</cite> - šajā sarakstā tiek ievadītas
+tikai PVN likmes (IIN un Soc.nod.likmes tiek vadītas Algu
+konfigurācijas iestādījumos)</p>
+</div>
+<div class="section" id="crm-partneri">
+<h2>CRM (Partneri):<a class="headerlink" href="#crm-partneri" title="Permalink to this headline">¶</a></h2>
+<p>Uzsākot darbu sistēmā OZOLS, lai būtu iespējams ievadīt saņemtos
+Iepirkumu dokumentus un sagatavot Pārdošanas dokumentus, nepieciešams
+ievadīt biežāk izmantojamo partneru sarakstu, ar iespēju pēc tam šo
+sarakstu papildināt: CRM(Partneri)-&gt;Saraksti-&gt;:doc:<cite>Partneri&lt;112&gt;</cite>
+-&gt;Pievienot-&gt;Aizpildīt nepieciešamos datus.</p>
+</div>
+<div class="section" id="finanses">
+<h2>Finanses:<a class="headerlink" href="#finanses" title="Permalink to this headline">¶</a></h2>
+<p>Uzsākot darbu ar Finanšu moduli, sākotnēji jāaizpilda informācija par
+uzņēmuma rīcībā esošajiem bankas kontiem un kasēm, lai korekti varētu
+veikt bankas ieejošo un izejošo maksājumu uzskaiti:</p>
+<p>1. Nepieciešams pievienot uzņēmuma bankas kontus, piesaistot bankas
+kontam atbilstošo naudas līdzekļu grāmatvedisko kontu no kontu plāna:
+Finanses-&gt;Saraksti-&gt;:doc:<cite>Banku konti&lt;141&gt;</cite>
+2. Jāpievieno uzņēmumā esošās skaidras naudas kases (ja tādas ir),
+piesaistot kasei atbilstošo naudas līdzekļu grāmatveidsko kontu no
+kontu plāna: Finanses-&gt;Saraksti-&gt;:doc:<cite>Kases&lt;123&gt;</cite>
+3. Pēc vajadzības, papildināt esošo banku sarakstu:
+Finanses-&gt;Saraksti-&gt;:doc:<cite>Banku saraksts&lt;101&gt;</cite></p>
+<p>Ja tiks veidota datu apmaiņa ar banku (bankas ieņēmumu imports un
+maksājumu uzdevumu eksports), nepieciešams aizpildīt bankas
+elektronisko norēķinu sistēmu sarakstu: Datu apmaiņa ar
+banku-&gt;Saraksti-&gt;:doc:<cite>Bankas elektronisko norēķinu sistēmas&lt;160&gt;</cite></p>
+</div>
+<div class="section" id="norekini">
+<h2>Norēķini:<a class="headerlink" href="#norekini" title="Permalink to this headline">¶</a></h2>
+<p>Uzsākot darbu ar Norēķiniem, nepieciešams aizpildīt pamatdatus, kas
+tiks izmantoti jaunu Iepirkumu un Pārdošanas dokumentu ievadei un
+grāmatošanai:</p>
+<p>1. Pēc vajadzības papildināt apmaksas veidu sarakstu, kas tiks
+izmantots Iepirkumu un Pārdošanas dokumentu ievadei:
+Norēķini-&gt;Saraksti-&gt;:doc:<cite>Apmaksas veidi&lt;122&gt;</cite>
+2. Izveidot Norēķinu Grupu klasifikatoru - izveidot pamatgrupas
+krājumu/preču/pakalpojumu uzskaitei, norādot katras grupas aprakstā
+nepieciešams uzskaites/ieņēmumu/izdevumu grāmatvediskos kontus,
+norēķinu dokumentu ērtākai grāmatošanai:
+Norēķini-&gt;Saraksti-&gt;:doc:<cite>Grupas&lt;148&gt;</cite>
+3. Sagatavot biežāk izmantojamo Pakalpojumu sarakstu, lai Iepirkumu un
+Pārdošanas dokumentu saturu aizpildīšana kļūtu pēc iespējas
+automatizētāka, pakalpojumu aprakstā norādot atbilstošu ieņēmumu kontu
+ērtākam pakalpojumu rēķinu grāmatošanas procesam:
+Norēķini-&gt;Saraksti-&gt;:doc:<cite>Pakalpojumi&lt;108&gt;</cite></p>
+</div>
+<div class="section" id="virsgramata">
+<h2>Virsgrāmata<a class="headerlink" href="#virsgramata" title="Permalink to this headline">¶</a></h2>
+<p>Lai nodrošinātu grāmatošanas procesu Ozolā, nepieciešams aizpildīt
+pamatdatus, kas tiks izmantoti pirmdokumentu grāmatojumos:</p>
+<p>1. Pēc konta plāna pielāgošanas atbilstoši uzņēmuma vajadzībām,
+jānorāda atbilstošie grāmatvedības konti standarta grāmatojumiem:
+Konfigurācija-&gt;Iestādījumi-&gt;Kopīgie-&gt;:doc:<cite>Virsgrāmata&lt;707&gt;</cite>
+2. Jāpievieno kontu atlikumi uz to brīdi, kad tiek uzsākts darbs
+programmā: Virsgrāmata-&gt;Dokumenti-&gt;:doc:<cite>Kontu atlikumi&lt;146&gt;</cite>
+3. Jāizveido uzņēmuma kontu plānam atbilstošas Virsgrāmatas atskaišu
+konfigurācijas, lai sekmīgi varētu veidot gan VID iesniedzamās
+atskaites (PVN deklarācija un pielikumi), gan uzņēmuma gada pārskatus
+(Bilances, PZ aprēķins):
+Konfigurācija-&gt;Iestādījumi-&gt;Kopīgie-&gt;:doc:<cite>Virsgrāmatas atskaišu
+konfigurācijas&lt;179&gt;</cite>
+4. Jāpārbauda grāmatojumu šablonu sarakstā esošie šabloni, kurus
+nepieciešamības gadījumā iespējams papildināt:
+Virsgrāmata-&gt;Saraksti-&gt;:doc:<cite>Grāmatojumu šabloni&lt;135&gt;</cite></p>
+</div>
+<div class="section" id="pamatlidzekli">
+<h2>Pamatlīdzekļi:<a class="headerlink" href="#pamatlidzekli" title="Permalink to this headline">¶</a></h2>
+<p>Uzsākot darbu ar Pamatlīdzekļiem, nepieciešams aizpildīt pamatdatus,
+kas tiks izmantoti jaunu Pamatlīdzekļu un nemateriālo aktīvu ievadei
+un grāmatošanai:</p>
+<p>1. Nepieciešams koriģēt esošo standartizēto Pamatlīdzekļu kategoriju
+klasifikatoru, kategoriju aprakstā norādot atbilstošos katras
+kategorijas pamatlīdzekļu uzskaites, nolietojuma aprēķina un izdevumu
+grāmatvediskos kontus: Pamatlīdzekļi-&gt;Saraksti-&gt;:doc:<cite>Pamatlīdzekļu
+kategorijas&lt;129&gt;</cite>
+2. Ja pamatlīdzekļu uzskaitei tiks izmantoti objekti (klasifikators,
+ar kura starpniecību var Pamatlīdzekļu uzskaitē fiksēt detalizētāku
+pamatlīdzekļa fiziskās atrašānās vietu):
+Pamatlīdzekļi-&gt;Saraksti-&gt;:doc:<cite>Pamatlīdzekļu objekti&lt;202&gt;</cite></p>
+</div>
+<div class="section" id="avansi">
+<h2>Avansi<a class="headerlink" href="#avansi" title="Permalink to this headline">¶</a></h2>
+<p>1. Lai nodrošinātu avansu norēķinu uzskaiti, nepieciešams izveidot
+<a class="reference internal" href="196.html"><span class="doc">Avansu personu saraksts</span></a> , partnera aprakstā atzīmējot
+atbilstošo grupu - Avansa persona.
+2. Ja kopīgajos <a class="reference internal" href="707.html"><span class="doc">Virsgrāmatas</span></a> iestādījumos norādītais
+avansu personas grāmatvediskais konts ne visām uzņēmumā esošajām
+avansu personām ir vienāds (atsevišķi tiek uzskaitīti dati par
+saimniecisko avansu un pārējiem avansu izdevumiem), tad atbilstošo
+avansu personas kontu iespējams norādīt <a class="reference internal" href="312.html"><span class="doc">Partnera</span></a> aprakstā,
+sadaļā “citi”.</p>
+</div>
+<div class="section" id="personals">
+<h2>Personāls<a class="headerlink" href="#personals" title="Permalink to this headline">¶</a></h2>
+<p>Uzsākot darbu, nepieciešams izveidot pamatklasifikatorus, kas tiks
+izmantoti uzņēmuma personāla uzskaitei un algu aprēķiniem:</p>
+<p>1. Jāizveido pamatklasifikatori, lai varētu pilnvērtīgi aizpildīt
+strādājošā kartiņu: Personāls-&gt;Saraksti-&gt;:doc:<cite>Amati&lt;186&gt;</cite>
+/<a class="reference internal" href="959.html"><span class="doc">Amatu grupas</span></a> /<a class="reference internal" href="284.html"><span class="doc">Atvaļinājumu kalendāri</span></a>
+/<a class="reference internal" href="218.html"><span class="doc">Kalendāri</span></a> /<a class="reference internal" href="127.html"><span class="doc">Personāla kategorijas</span></a>
+/<a class="reference internal" href="288.html"><span class="doc">Slodžu veidi</span></a>
+2. Nepieciešams aizpildīt informāciju par svētku un pārceltajām dienām
+kalendārajā periodā: Personāls-&gt;Saraksti-&gt;:doc:<cite>Notikumu
+saraksts&lt;217&gt;</cite>
+3. Jāpievieno strādājošie ( ar atzīmētu grupu “strādājošais”), uz kā
+pamata tiks veidotas slodzes: Personāla
+vadība-&gt;Saraksti-&gt;:doc:<cite>Strādājošie&lt;111&gt;</cite></p>
+</div>
+<div class="section" id="algas">
+<h2>Algas<a class="headerlink" href="#algas" title="Permalink to this headline">¶</a></h2>
+<p>Uzsākot darbu ar Algām, nepieciešams par nodokļu likmju atbilstību,
+atbilstoši MK noteikumiem:</p>
+<p>1. Jāpārliecinās, lai būtu norādītas spēkā esošas IIN likmes:
+Alga-&gt;Konfigurācija-&gt;:doc:<cite>Ienākuma nodokļu metodes&lt;222&gt;</cite>
+2. Nepieciešams pārliecināties, lai būtu atbilstošas sociālā nodokļa
+likmes: Alga-&gt;Konfigurācija-&gt;:doc:<cite>Sociālo nodokļu metodes&lt;223&gt;</cite>
+3. Jāpievieno Algu periodi, lai varētu veikt algu aprēķinus:
+Alga-&gt;Konfigurācija-&gt;:doc:<cite>Algu periodi&lt;211&gt;</cite>
+4. Jāievada uzņēmuma grāmatvedības politikai atbilstoši kopīgie algu
+iestādījumi, norādot algu izmaksas datumu, grupēšanas kritērijus, u.c.
+iestādījumus: Alga-&gt;Konfigurācija-&gt;:doc:<cite>Kopīgie&lt;732&gt;</cite>
+5. Pēc nepieciešamības, jākoriģē esošais kolonnu virsrakstu saraksts,
+kas tiks izmantots atskaišu ģenerēšanai:
+Alga-&gt;Konfigurācija-&gt;:doc:<cite>Kolonnu virsraksti&lt;214&gt;</cite></p>
+</div>
+</div>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"></script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="14133.html"
+       title="previous chapter">← 1.Darba uzsākšana sistēmas OZOLS lietotājiem</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="14138.html"
+       title="next chapter">3.Darba uzsākšana ar iOzols personāla sistēmu →</a>
+  </li>
+</ul>
+<div class="footer" role="contentinfo">
+      &#169; Copyright 2020 Ozols Grupa.
+    <br>
+  Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.1.0 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a>.
+</div>
+                <script type="text/javascript">
+                  $(function(){
+                    $('.image-reference').fancybox();
+                  })
+                </script>
+            </div>
+          </div>
+      </page>
+    </div>
+    
+    
+  </body>
+</html>

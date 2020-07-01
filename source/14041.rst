@@ -32,6 +32,8 @@ Piemērs - pamatlīdzekļu kategoriju saraksts
 
 
 
+.. image:: images_ozols/25152.png
+:scale: 100%
 
 
 

@@ -1,0 +1,60 @@
+.. 103 ===================Valstu saraksts=================== 
+Valstu saraksts tiek importēts programmā, ieviešanas procesā, bet to
+ir iespējams arī labot vai papildināt.
+
+Valstu sarakstā ir norādīs Valsts kods (LV), saraksta numurs un Valsts
+nosaukums (LATVIA).
+
+
+
+|images_ozols/25369.png|
+
+
+
+Valstu sarakstu izmanto pievienojot:doc:`Partneri<312>` un aizpildot
+:doc:`Pamatlīdzekļu ienākšanas dokumentu<433>` virsrakstu. Lai
+apskatītu detalizētāku izvēlētās Valsts aprakstu, jānospiež Rīku joslā
+poga |images_ozols/25420.png| (ALT+A), tiek atvērts logs:
+
+
+
+|images_ozols/25371.png|
+
+
+
+Kods - Valsts kods;
+
+Numurs - numurs pēc kārtas sarakstā;
+
+Nosaukums - Valsts nosaukums;
+
+Tautība - Valsts tautība;
+
+Valūta - Valsts valūta;
+
+Piezīmes - iespējams ierakstīt dažādas piezīmes;
+
+|images_ozols/25372.png| - Latvija kā pamatvalsts (noklusētā valsts).
+
+Aprakstu ir iespējams labot vai papildināt, beigās nospiežot pogu
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+.. |images_ozols/25369.png| image:: images_ozols/25369.png
+        :scale: 100%
+
+.. |images_ozols/25420.png| image:: images_ozols/25420.png
+        :scale: 100%
+
+.. |images_ozols/25371.png| image:: images_ozols/25371.png
+        :scale: 100%
+
+.. |images_ozols/25372.png| image:: images_ozols/25372.png
+        :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+        :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+        :scale: 100%
+
+ 

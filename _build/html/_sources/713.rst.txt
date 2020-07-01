@@ -1,0 +1,26 @@
+.. 713 Iestādījumi*************** 
+Iestādījumu darba režīms nosaka, konfigurācijas datu saglabāšanas
+veidu. Katram lietotājam atsevišķi tiek saglabāti ne tikai
+konfigurācijas individuālie iestādījumi, bet arī darba vide - ekrāna
+formu izmēri, datu sakārtojums utmldz. Iestādījumu datus var saglabāt
+datu bāzē, sistēmas reģistrā vai .ini failā.
+
+
+
+
+**Glabāt iestādījumus reģistrā**
+Iestādījumi tiek saglabāti reģistrā. Lietotāja iestādījumi tiek
+saglabāti datora reģistrā. Iestādījumu saglabāšana reģistrā nodrošina
+to, ka strādājot ar vienu datoru dažādiem lietotājiem, katram
+iespējams nodrošināt savu iestādījumu izmantošanu.
+
+**Glabāt iestādījumus datu bāzē**
+Iestādījumi tiek glabāti datu bāzē.Ja lietotājs lieto programmu no
+dažādiem datoriem, iestādījumu saglabāšana datu bāzē, nodrošina to
+izmantošanu neatkarīgi no pieslēgšanās darba vietas.
+
+**Glabāt iestādījumus ini failā**
+Iestādījumi tiek glabāti ini failā. Lietotāja iestādījumus var
+saglabāt arī ārējā failā, kur tos var izmantot vairāki lietotāji.
+
+ 

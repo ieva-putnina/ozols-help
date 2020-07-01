@@ -11,6 +11,8 @@ Izvēlotes šo atskaiti, tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/26072.png
+:scale: 100%
 
 
 
@@ -30,17 +32,23 @@ izvēlēties attiecīgajā situācijānepieciešamo.
 
 
 
-Ja visi vēlamie atlases kritēriji izvēlēti, jānospiež poga , lai tiktu
-atvērts izdrukas logs, kur iespējams izvēlēties nepieciešamo izdrukas
-formu:
+Ja visi vēlamie atlases kritēriji izvēlēti, jānospiež poga .. image::
+images_ozols/25620.png
+:scale: 100%
+, lai tiktu atvērts izdrukas logs, kur iespējams izvēlēties
+nepieciešamo izdrukas formu:
+
+
+
+.. image:: images_ozols/26073.png
+:scale: 100%
 
 
 
 
-
-
-
-Izvēloties nepieciešamo Iebūvēto izdrukas formu un nospiežot pogu ,
-tiks izdrukāta izvēlētā Partnera adrese norādītajā formātā.
+Izvēloties nepieciešamo Iebūvēto izdrukas formu un nospiežot pogu ..
+image:: images_ozols/25620.png
+:scale: 100%
+, tiks izdrukāta izvēlētā Partnera adrese norādītajā formātā.
 
  

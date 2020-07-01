@@ -14,11 +14,15 @@ augstākajiem kontu līmeņiem.
 Jauna konta pievienošana
 ````````````````````````
 
-Lai kontu plānā pievienotu jaunu kontu , jāizmanto komanda no rīku
-joslas (Alt+P) un tiks atvērts jauns logs:
+Lai kontu plānā pievienotu jaunu kontu , jāizmanto komanda .. image::
+images_ozols/24708.png
+   :scale: 100%
+no rīku joslas (Alt+P) un tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/26136.png
+   :scale: 100%
 
 
 
@@ -29,6 +33,8 @@ tad kā augstāko kontu norāda [Nav]:
 
 
 
+.. image:: images_ozols/26133.png
+   :scale: 100%
 
 
 
@@ -42,6 +48,8 @@ arī ieraksts ir slēgts:
 
 
 
+.. image:: images_ozols/26134.png
+   :scale: 100%
 
 
 
@@ -54,6 +62,8 @@ varēs izmantot grāmatojot dokumentus.
 
 
 
+.. image:: images_ozols/24545.gif
+   :scale: 100%
 Abu augstāk minēto statusu maiņa esošajiem kontiem, neietekmē
 vēsturiski grāmatotos dokumentus un atskaites.
 
@@ -68,6 +78,8 @@ vai abos):
 
 
 
+.. image:: images_ozols/26135.png
+   :scale: 100%
 
 
 
@@ -76,6 +88,8 @@ Dimensiju lietošana grāmatojumos:
 
 
 
+.. image:: images_ozols/26137.png
+   :scale: 100%
 
 
 
@@ -90,18 +104,29 @@ Nelietot: grāmatojumos netiks lietotā attiecīgā dimensija.
 
 
 
+.. image:: images_ozols/26138.png
+   :scale: 100%
 - tiek lietots, lai attiecīgajam kontam tiktu rēķinātas :doc:`valūtu
 kursu svārstības<675>` :
 
 
 
+.. image:: images_ozols/26139.png
+   :scale: 100%
 - tiek lietots, ja nepieciešams :doc:`valūtu kursu svārstību<675>`
 sadalījums pa dimensijām
 
-Lai konts tiktu pievienots un saglabāts kontu plānā, jānospiež poga .
+Lai konts tiktu pievienots un saglabāts kontu plānā, jānospiež poga ..
+image:: images_ozols/25621.png
+   :scale: 100%
+.
 
 Lai veiktu izmaiņas pievienotajos kontos, ieraksts ir jāatver, rīku
-joslā nospiežot pogu un jāveic izmaiņas. Lai saglabātu veiktās
-izmaiņas ir jānospiež poga .
+joslā nospiežot pogu .. image:: images_ozols/24869.png
+   :scale: 100%
+un jāveic izmaiņas. Lai saglabātu veiktās izmaiņas ir jānospiež poga
+.. image:: images_ozols/24867.png
+   :scale: 100%
+.
 
  

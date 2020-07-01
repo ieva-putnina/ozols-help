@@ -1,0 +1,26 @@
+.. 4470 Kampaņas************ 
+Kapmaņu sarakstā tiek saglabātas visas :doc:`pievienotās
+kampaņas<4469>` .
+
+
+
+|images_ozols/25833.png|
+
+
+
+Lai apsaktītu visus kampaņai pievienotos datus, jāuzklikšķina un
+kampaņas nosaukuma. Tiek atvērts kampaņas apraksts, kuru, ja
+nepieciešams, ir iespējams labot, nospiežot pogu
+|images_ozols/25832.png| , tad pēc labošanas nospiežot pogu
+|images_ozols/25829.png| .
+
+.. |images_ozols/25833.png| image:: images_ozols/25833.png
+:scale: 100%
+
+.. |images_ozols/25832.png| image:: images_ozols/25832.png
+:scale: 100%
+
+.. |images_ozols/25829.png| image:: images_ozols/25829.png
+:scale: 100%
+
+ 

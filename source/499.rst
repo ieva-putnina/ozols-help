@@ -8,6 +8,8 @@ periodu sarakstā<211>` .
 
 
 
+.. image:: images_ozols/26270.png
+:scale: 100%
 
 
 
@@ -18,6 +20,8 @@ periodu , lai izvēlēto periodu atvērtu kā aktīvu.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 :doc:`Algu periodi<211>`
 
  

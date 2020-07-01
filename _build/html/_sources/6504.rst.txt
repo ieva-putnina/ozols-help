@@ -1,0 +1,20 @@
+.. 6504 ========Rīki======== 
+
+
+Polišu Rīki nodrošina:
+
+
+
+:doc:`Polišu darba virsmas attēlošanu<6523>`
+
+:doc:`Polišu importu<6525>`
+
+:doc:`Polišu izsniegšanu brokerim<6512>`
+
+:doc:`Polišu komisijas aprēķinu<6517>`
+
+:doc:`Polišu pievienošanu noliktavā<6511>`
+
+
+
+ .. toctree::   :maxdepth: 5    6511.rst   6578.rst   6523.rst   6525.rst   6512.rst   6517.rst

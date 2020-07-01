@@ -1,0 +1,76 @@
+.. 14115 Avansu (starpmaksājumu) izmaksu sarakstu izveidošana******************************************************** 
+
+
+Lai izveidotu avansu un citu starpmaksājumu izmaksu sarakstus,
+nepieciešams veidot atsevišķu izmaksu sarakstu, kurā tiek norādīts
+atbilstošais izmaksu saraksta veids un laukā Maksājums - algu aprēķina
+rezultāta kods (Avanss), uz kura izmaksas aprēķinā jāparāda.
+
+
+
+|images_ozols/26279.png|
+
+
+
+Pēc šāda izmaksu saraksta izveidošanas, ir iespējams aizpildīt avansu
+izmaksu sarakstu, no iepriekš nodefinētajiem Pārskaitījumiem
+:doc:`Pārskaitījumu žurnālā<294>` . Lai aizpildītu izmaksu sarakstu,
+nepieciešams izmantot rīku joslas pogu |images_ozols/25814.png| un
+izvēlēties funkciju:
+
+
+
+|images_ozols/26281.png|
+
+
+
+Izpildot funkciju "Aizpildīt sarakstu no avansu pārskaitījumiem" un
+avansu izmaksu saraksta aizpildīšanas logā, nospiežot pogu "Aizpildīt
+izmaksu sarakstu", tiks ielādēti iepriekš :doc:`Pārskaitījumos<294>`
+nodefinētie avansu pārskaitījumi:
+
+
+
+|images_ozols/26282.png|
+
+
+
+Aizverot logu "avansu izmaksu saraksta aizpildīšana" un atverot
+izveidoto izmaksu sarakstu, datus ir iespējams koriģēt, dzēšot
+nevajadzīgos vai arī atverot esošos ierakstus un labojot avansu
+maksājumu summas:
+
+
+
+|images_ozols/26283.png|
+
+
+
+Pēc nepieciešamo korekciju veikšanas, sarakstu nepieciešams saglabāt,
+nospiežot pogu: |images_ozols/25621.png| .
+
+
+
+
+
+
+
+.. |images_ozols/26279.png| image:: images_ozols/26279.png
+:scale: 100%
+
+.. |images_ozols/25814.png| image:: images_ozols/25814.png
+:scale: 100%
+
+.. |images_ozols/26281.png| image:: images_ozols/26281.png
+:scale: 100%
+
+.. |images_ozols/26282.png| image:: images_ozols/26282.png
+:scale: 100%
+
+.. |images_ozols/26283.png| image:: images_ozols/26283.png
+:scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+:scale: 100%
+
+ 

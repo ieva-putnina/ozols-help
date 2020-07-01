@@ -1,0 +1,12 @@
+.. 11 ============Saraksti============ 
+
+
+Finanšu sarakstos nepieciešams pievienot uzņēmumā esošos bankas kontus
+un kases, kā arī iespējams nodefinēt bankasun kases paskaidrojumus,
+kases pielikumu sarakstu, bankas kodu tipus un papildināt esošo banku
+sarakstu.
+
+
+
+
+ .. toctree::   :maxdepth: 5    118.rst   147.rst   141.rst   101.rst   123.rst   136.rst   137.rst

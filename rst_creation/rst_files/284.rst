@@ -8,14 +8,25 @@ strādājošajiem atvaļinājuma garums ir atšķirīgs, tad jāizveido vairāki
 atvaļinājuma kalendāri un atbilstošais jānorāda strādājošā slodzes
 aprakstā.
 
-Lai izveidotu Atvaļinājuma kalendāru, jānospiež Rīku joslā poga , un
-attiecīgi jāieraksta nosaukums un Atv. darba dienu skaits, un
+Lai izveidotu Atvaļinājuma kalendāru, jānospiež Rīku joslā poga ..
+image:: images_ozols/25605.png
+:scale: 100%
+, un attiecīgi jāieraksta nosaukums un Atv. darba dienu skaits, un ..
+image:: images_ozols/24615.jpg
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/25606.png
+:scale: 100%
 
-Lai labotu, jānospiež Rīku joslā poga (Alt+A), un, pēc labojumu
-veikšanas, jānospiež poga .
+
+Lai labotu, jānospiež Rīku joslā poga.. image:: images_ozols/25603.png
+:scale: 100%
+(Alt+A), un, pēc labojumu veikšanas, jānospiež poga .. image::
+images_ozols/24615.jpg
+:scale: 100%
+.
 
  

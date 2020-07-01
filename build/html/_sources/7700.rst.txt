@@ -1,2 +1,2 @@
-.. 7700 Caurlaides============== .. role:: raw-html(raw)     :format: html
+.. 7700 Caurlaides============== 
  .. toctree::   :maxdepth: 6    7703.rst   7702.rst   7704.rst   7705.rst   7701.rst

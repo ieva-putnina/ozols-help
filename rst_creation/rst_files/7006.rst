@@ -9,6 +9,8 @@ kodu (saīsināts nosaukums) un Nosaukumu:
 
 
 
+.. image:: images_ozols/25457.png
+:scale: 100%
 
 
 
@@ -18,11 +20,15 @@ faktisko vērtību:
 
 
 
+.. image:: images_ozols/25458.png
+:scale: 100%
 
 
 
 
 Ieraksts tiks saglabāts :doc:`Akciju veidu<7005>` sarakstā, izpildot
-komandu .
+komandu .. image:: images_ozols/24710.png
+:scale: 100%
+.
 
  

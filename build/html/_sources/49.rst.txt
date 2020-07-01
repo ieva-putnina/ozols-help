@@ -1,4 +1,4 @@
-.. 49 Virsgrāmata=============== .. role:: raw-html(raw)     :format: html
+.. 49 Virsgrāmata=============== 
 
 
 Virsgrāmata ir galvenā grāmatvedības sistēmas OZOLS finanšu uzskaites

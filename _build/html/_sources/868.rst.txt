@@ -1,0 +1,54 @@
+.. 868 Bankas ieņēmumi******************* 
+Bankas ieņēmumu atskaite parāda bankas ieņēmumu dokumentu sarakstu,
+atbilstoši datu atlases filtrā noteiktajiem kritērijiem:
+
+
+
+
+|images_ozols/26541.png|
+
+
+
+
+Atskaiti var sagatavot atsevišķi par katru no partneriem, atlasīt
+dokumentus pēc to veida, numura vai summas. Atskaiti var sagatavot:
+
+- norādītajā laika periodā;
+- par vienu partneri;
+- atlasot dokumentus pēc to numura, summas, valūtas.
+Atskaite tiek sagatavota no pirmdokumentu dokumentu datiem.
+
+
+
+
+Atskaitē tiek iekļauti dati par dokumenta:
+
+- numuru;
+
+- datumu;
+
+- darījuma summu;
+
+- darījuma valūtu;
+
+- paskaidrojumu;
+
+- ārējo maksājuma kodu.
+
+
+
+
+Filtrā norādītos datu atlases kritērijus var saglabāt (
+|images_ozols/24938.png| ). Izvēloties izveidoto filtra sagatavi (
+|images_ozols/24943.png| ), filtrs tiek automatizēti aizpildīts no
+filtra sagataves.
+.. |images_ozols/26541.png| image:: images_ozols/26541.png
+:scale: 100%
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+:scale: 100%
+
+ 

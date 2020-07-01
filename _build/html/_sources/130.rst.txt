@@ -1,0 +1,45 @@
+.. 130 Pamatlīdzekļu pazīmes************************* 
+
+
+Pamatlīdzekļu pazīmju sarakstā jānodefinē uzņēmumā izmantotās
+pamatlīdzekļu pazīmes (piem. Savi , Nomātie , Iznomātie , utt.). Šis
+saraksts (klasifikators) strādājot ar pamatlīdzekļu moduli obligāti
+nav jāizmanto. Ņemot uzskaitē jaunus pamatlīdzekļus vai pievienojot
+pamatlīdzekļu sākuma atlikumus katru pamatlīdzekli iespējams nodefinēt
+pie kādas no uzņēmumā izmantotās pamatlīdzekļu pazīmes. Pamatlīdzekļu
+atskaišu sagatavošanā pamatīdzekļu pazīmes ir iespējams izmantot kā
+datu (pamatlīdzekļu) atlases nosacījumu, piem. atlasot tikai Dāvinātos
+pamatlīdzekļus.
+
+
+
+Jauna pamatlīdzekļu pazīme tiek pievienota pamtlīdzekļu pazīmju
+sarakstā ar funkciju |images_ozols/24532.jpg| . Pēc nepieciešamās
+informācijas aizpildīšanas jāspiež poga Saglabāt lai saglabātu
+jaunizveidoto ierakstu.
+
+
+
+|images_ozols/24577.jpg|
+
+
+
+Pamatlīdzekļa pazīmi labo ar funkciju |images_ozols/24533.jpg| .
+
+Pamatlīdzekļa pazīmi dzēš ar funkciju |images_ozols/24534.jpg| .
+Pamatlīdzekļa pazīmi sistēma neļauj dzēst, ja tā ir pievienota kādam
+sistēmā ievadītam pamatlīdzeklim.
+
+.. |images_ozols/24532.jpg| image:: images_ozols/24532.jpg
+:scale: 100%
+
+.. |images_ozols/24577.jpg| image:: images_ozols/24577.jpg
+:scale: 100%
+
+.. |images_ozols/24533.jpg| image:: images_ozols/24533.jpg
+:scale: 100%
+
+.. |images_ozols/24534.jpg| image:: images_ozols/24534.jpg
+:scale: 100%
+
+ 

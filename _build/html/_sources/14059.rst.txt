@@ -1,0 +1,36 @@
+.. 14059 Finansu koda izvēle grāmatojuma šablonā******************************************* 
+
+
+Grāmatojuma šablonā laukāFin.kat.(EK.kods) iespējams norādīt konkrētu
+izvēlētufinanšu kategorijunoFinanšu kategoriju klasifikatoravai
+noklusēto vērtību:
+
+
+
+|images_ozols/25127.png|
+
+
+
+Lauka Finanšu kategorija (EK kods) vērtības var būt Satura, (Nav),
+Kods:
+
+
+
+Satura – Finanšu kategorija (EK kods) tiks automātiski ielikta no
+pirmdokumenta satura. Šablona ieraksta veidam jābūt “Saturs” un
+pirmdokumenta saturam jābūt aizpildītam.
+
+
+( Nav ) – Ja lauku atstāj tukšu, finanšu kategorija (EK kods)
+grāmatojumā netiks ielikta.
+
+
+Kods – Izvēloties konkrētu finanšu kategoriju (EK kodu) no kategoriju
+(kodu) saraksta - grāmatojumā tiks ielikts fiksēta, nemainīga
+kategorija.
+
+
+.. |images_ozols/25127.png| image:: images_ozols/25127.png
+:scale: 100%
+
+ 

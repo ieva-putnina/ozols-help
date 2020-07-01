@@ -1,0 +1,24 @@
+.. 128 Profesiju klasifikators*************************** 
+Profesiju klasifikators (saraksts) tiek importēts programmas Ozols
+uzstādīšanas laikā.
+
+
+
+|images_ozols/25613.png|
+
+
+
+Profesiju klasifikatora ieraksti tiek pievienoti amatiem. Šāds
+risinājums dod iespēju lietotājam iegūt datus statistikas atskaitēm.
+
+
+
+|images_ozols/25614.png|
+
+.. |images_ozols/25613.png| image:: images_ozols/25613.png
+:scale: 100%
+
+.. |images_ozols/25614.png| image:: images_ozols/25614.png
+:scale: 100%
+
+ 

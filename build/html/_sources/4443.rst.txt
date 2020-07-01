@@ -4,6 +4,8 @@ Visi pievienotie darba uzdevumi tiek saglabāti :doc:`darba uzdevumu
 
 Pievienojot jaunu darba uzdevumu, tiek atvērt logs:
 
+.. image:: images_ozols/25880.png
+:scale: 100%
 
 
 
@@ -37,13 +39,18 @@ Kampaņa : iespējams piesaistīt kampaņu;
 
 Apraksts : darba uzdevuma apraksts, kuru iespējams noformēr kā Word.
 
-Ja visa informācija ievadīta, jānospiež poga .
+Ja visa informācija ievadīta, jānospiež poga .. image::
+images_ozols/25829.png
+:scale: 100%
+.
 
 Darba uzdevums tiek saglabāts un, ja adresātam ir norādīta e-pasta
 adrese, tad adresāts saņem šo darba uzdevumu:
 
 
 
+.. image:: images_ozols/25881.png
+:scale: 100%
 
 
 
@@ -53,6 +60,8 @@ saglabāta zem darba uzdevuma sadaļā Darbības:
 
 
 
+.. image:: images_ozols/25882.png
+:scale: 100%
 
 
 

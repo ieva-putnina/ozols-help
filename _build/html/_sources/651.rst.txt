@@ -1,0 +1,149 @@
+.. 651 Maksājumu kartes******************** 
+
+
+Sarakstā tiek saglabātas katra :doc:`Partnera<312>` aprakstam
+piesaistītās maksājumu, degvielas, u.c.kartes.
+
+Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
+tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
+ekrāna formā. Rīku joslā nopiežot pogu |images_ozols/24535.gif|
+(Ctrl+F), tiek atvērts filtra logs:
+
+
+
+|images_ozols/26102.png|
+
+
+
+Derīg.term.beigas : Iespēja atlasīt datus par kartēm, pēc ievadītā
+derīguma termiņa (attiecībā pret tekošās dienas datumu);
+
+Īpašnieks : Iespēja atlasīt datus pēc partnera maksājuma kartes
+Īpašnieka;
+
+
+
+Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga
+|images_ozols/25944.png| .
+
+
+
+Partnera maksājumu kartes pievienošana
+++++++++++++++++++++++++++++++++++++++
+
+Partneru maksājumu kartes tiek pievienotas:
+
+1.:doc:`Partnera<312>` aprakstā caur pogu |images_ozols/25716.png| ;
+
+2. Atrodoties:doc:`Partneru maksājumu karšu sarakstā<651>` , rīku
+joslānospiežot pogu |images_ozols/25605.png| :
+
+
+
+|images_ozols/26104.png|
+
+
+
+Īpašnieks: Nepieciešams no Partneru sarakstaizvēlēties maksājuma
+kartes īpašnieku (kartes izsniedzēju);
+
+Partneris: No Partneru saraksta jānorāda maksājuma kartes turētājs
+(kuram karte ir izsniegta);
+
+Kods: Kartes kods
+
+Nosaukums: Maksājuma kartes nosaukums (veidojas automātiski no
+izvēlētā Partnera nosaukuma - Īpašnieka nosaukums + kartes kods) -
+nepieciešamības gadījumā, izdzēšot tekstu, lauku iespējams aizpildīt
+arī manuāli;
+
+Izsn.datums: Partnera maksājuma kartes izsniegšanas datums;
+
+Derīg.term.: Partnera maksājuma kartes lietošanas derīguma termiņš;
+
+Mēneša limits: Uzņēmumā noteiktais summas limits (informatīvs lauks,
+kas sniedz tikai informatīvu informāciju par noteiktajiem
+ierobežojumiem) pakalpojumu izmantošanai no norādītā kartes īpašnieka;
+
+Pakalpojums: Iespēja norādīt :doc:`Pakalpojumu<108>` , kas saistīts ar
+šo Partnera maksājuma karti un Kartes īpašnieku.
+
+
+
+|images_ozols/24545.gif| Lai maksājumu kartes varētu izmantot ne tikai
+informatīvi - informācijas iegūšanai par uzņēmuma darbiniekiem
+piederošajām kartēm, bet arī kā datu uzskaites dimensiju, lai iegūtu
+detalizētas atskaites par veiktajiem darījumiem saistībā ar kartēm,
+sadaļā Konfigurācija->Iestādījumi->Kopīgie->:doc:`Dimensijas<701>`
+->Citi, nepieciešams norādīt, ka tiks izmantota dimensija "Kartes":
+
+
+
+|images_ozols/26105.png|
+
+
+
+|images_ozols/24545.gif| Pie nosacījuma, ja :doc:`Dimensiju<701>`
+iestādījumos būs atzīmēta izvēles rūtiņa "Kartes", :doc:`Iepirkuma
+dokumentā<310>` Virsrakstā norādot :doc:`Partneri<312>` i, kurš ir
+norādīts kā Īpašnieks kādai no pievienotajām maksājuma kartērm,
+pievienojot :doc:`Iepirkuma dokumenta<310>` satura ierakstu, tiks
+attēlots papildus lauks "kartes", kur no izvēlnes tiks piedāvāta
+iespēja norādīt kādu no pievienotajām Partnera maksājumu kartēm:
+
+
+
+|images_ozols/26106.png|
+
+
+
+Šādā veidā iespējams nodrošinā detalizētu uzskaiti par katru
+kartiindividuāli, no atskaites:doc:`Dimensiju apgrozījums<648>` ,
+iegūstot informāciju par :doc:`Iepirkumu dokumentiem<210>` Kartes
+dimensijas griezumā.
+
+
+
+Nospiežotpogu |images_ozols/25621.png| , ieraksts tiks pievienots datu
+bāzei.
+
+
+
+Visas partnerim pievienotās kartes tiek saglabātas :doc:`Partneru
+maksājumu karšu sarakstā<651>` .
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+:scale: 100%
+
+.. |images_ozols/26102.png| image:: images_ozols/26102.png
+:scale: 100%
+
+.. |images_ozols/25944.png| image:: images_ozols/25944.png
+:scale: 100%
+
+.. |images_ozols/25716.png| image:: images_ozols/25716.png
+:scale: 100%
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+:scale: 100%
+
+.. |images_ozols/26104.png| image:: images_ozols/26104.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/26105.png| image:: images_ozols/26105.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/26106.png| image:: images_ozols/26106.png
+:scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+:scale: 100%
+
+ 

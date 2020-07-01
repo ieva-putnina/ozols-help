@@ -1,0 +1,92 @@
+.. 6516 Pārdevēju komisija********************** 
+Pārdevēju komisijas atskaite ir domāta lai varētu atalsīt datus par
+Brokera, Asistenta un Piesaistītāja komisijām.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu
+atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež poga
+|images_ozols/24535.gif| (Ctrl+F), tiek atvērts filtra logs:
+
+
+
+|images_ozols/25913.png|
+
+
+
+Uzņēmums: uzņēmums, par kuru tiks sagatavota atskaite;
+
+Apdroš.v.: polišu atskaites sagatavošanai par vienu apdrošināšanas
+veidu;
+
+Apdroš.sab.: atskaite par vienu apdrošināšanas sabiedrību;
+
+Brokeris: atskaite par izvēlētu brokeri;
+
+Asistents: atskaite par izvēlētu asistentu;
+
+Piesaistītājs: atskaite par izvēlētu piesaistītāju;
+
+Apdr.ņēmējs: atskaite par apdrošināšanas ņēmēju;
+
+Izdošanas dat.: polišu izdošanas datums vai periods;
+
+Sākuma dat.: polišu darbības sākuma datums vai periods;
+
+Beigu dat.: polišu darbības beigu datums;
+
+Apmaksas dat.: polišu rēķinu apmaksas datums vai periods;
+
+Rēķina termiņš: polišu rēķina termiņš;
+
+Apdroš.prēmija: polišu atskaite par noteiktu apdrošināšanas prēmijas
+apjomu;
+
+Valūta: apdrošināšanas prēmijas valūta;
+
+Auto rēģ.nr.: automašīnas reģistrācijas numurs;
+
+Automašīna: automašīnas marka;
+
+Statuss: atskaite pēc viena konkrēta polises statusa (Izrakstītas,
+Noliktavā, Pārtrauktas, Pie brokera, Sabojātas);
+
+Atjaun.līg.veids: atjaunots līguma veids (Jā, Nē);
+
+Atjaunota polise: atskaite par atjaunotām vai neatjaunotām polisēm;
+
+Grupēt pēc: A pdroš.v.: apdrošināšanas veida; Apoš.sab.:
+apdrošināšanas sabiedrības; Apdr.ņēmējs: apdrošināšanas ņēmēja;
+Brokeris: brokera; Asist.: asistenta; Piesaist.: piesaistītāja.
+
+
+
+Sagatavotos atskaites datus ir iespējams arī izdrukāt. Lai drukātu
+datus, rīko joslā jānospiež poga |images_ozols/24944.png| (Ctrl+P), un
+tad poga |images_ozols/25620.png| .
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+:scale: 100%
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+:scale: 100%
+
+.. |images_ozols/25913.png| image:: images_ozols/25913.png
+:scale: 100%
+
+.. |images_ozols/24944.png| image:: images_ozols/24944.png
+:scale: 100%
+
+.. |images_ozols/25620.png| image:: images_ozols/25620.png
+:scale: 100%
+
+ 

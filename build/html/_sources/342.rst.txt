@@ -16,11 +16,15 @@ Jauna savstarpējo norēķinu salīdzināšanas akta pievienošana
 ```````````````````````````````````````````````````````````
 
 Norēķini>Dokumenti>Savstarpējo norēķinu salīdzināšanas akti, un rīku
-joslā jānospiež poga , vai jāizvēlas Norēķini>Jauns>Savstarpējo
-norēķinu salīdzināšanas akts, tiek atvērts logs:
+joslā jānospiež poga .. image:: images_ozols/25605.png
+:scale: 100%
+, vai jāizvēlas Norēķini>Jauns>Savstarpējo norēķinu salīdzināšanas
+akts, tiek atvērts logs:
 
 
 
+.. image:: images_ozols/26483.png
+:scale: 100%
 
 
 
@@ -31,6 +35,8 @@ virsraksta iestādīto parametru vērtībām:
 
 
 
+.. image:: images_ozols/26205.jpg
+:scale: 100%
 
 
 Salīdzināšanas datums, Valūta – ja valūta nav izvēlēta, tad tiek
@@ -44,7 +50,9 @@ konta summa.
 
 
 Savstarpējo norēķinu salīdzināšanas aktu saturu aizpilda nospiežot
-pogu
+pogu .. image:: images_ozols/26206.jpg
+:scale: 100%
+
 
 
 
@@ -64,7 +72,9 @@ atskaite ir izveidota par vienu partneri un vienu kontu un atskaites
 kolonnu „Starp.DB” un „Starp.CR” vērtības ir 0,00. Kolonnās ir
 dokumentu un konta debeta vai kredīta starpība.
 
-Lai dokumentu drukātu, rīku joslā jānospiež poga un jāizvēlas
-attiecīgā izdrukas forma.
+Lai dokumentu drukātu, rīku joslā jānospiež poga .. image::
+images_ozols/25813.png
+:scale: 100%
+un jāizvēlas attiecīgā izdrukas forma.
 
  

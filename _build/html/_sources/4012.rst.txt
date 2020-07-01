@@ -1,0 +1,91 @@
+.. 4012 Polise********** 
+**Polises meklēšana
+**Apdrošināšanas polises kartītes ekrāna formā ir jābūt iespējai ātri
+un ērti atrast nepieciešamo polisi. Ja tiek atrasta viena konkrēta
+polise, tad tā automātiski tiek parādīts tās apraksts, savādāk tiek
+atvērts saraksts no kura izvēlas nepieciešamo polisi.
+
+Lauki, pēc kuriem polisi meklēt:
+
+
++ Polises numurs - Viennozīmīgi identificē polisi Polises veids
+  Polises īpašnieks
+
+
+
+
+**Kartītes lapaspuses**
+
+
++ **Polises apraksts** Sērija Numurs Polises tips Statuss Noliktavas
+  datums Noliktavas operat. Struktūrvienība Aģents Izdots aģentam
+  Izsniedza Īpašnieks Īpašnieka adrese Īpašnieka banka Izsniegts
+  īpašniekam Valūta Apdr.obj.vērt.(īpašn.) Apdr.obj.vērt.(apdr) Prēmija
+  Atlaide Maks.veids Pārapdrošinātājs Atsk.iesn.dat. Samaksāts Komisija
+  Anulēšanas datums Anulēšanas summa
+
+
+
+
+
++ **Polises bilance** Debeta summa Kredīta summa Valūta Konts
+  Struktūrvienība Īpašnieks
+
+
+
+
+
++ **Grāmatojumi** Numurs Datums Veids Paskaidrojums Summa Valūta
+  Debeta konts Struktūrvienība Partneris
+
+
+**Pirmdokumenti**
+Bankas/kases ieņēmumi
+Bankas/kases izdevumi
+Polises anulēšana
+Polises pārapdrošināšana
+
+
+
+
+**Grāmatojumu tipi
+**Apmaksa
+Komisija
+Brokeru %
+Anul./pārtrauktās komisija pārapdrošinātajām
+Anul./pārtrauktās prēmija pārapdrošinātajām
+Anulētās un pārtrauktās komisija
+Anulētās un pārtrauktās prēmijas
+Izmaksa saskaņā ar polises partraukšanu
+Izmaksa
+Apmaksātās prēmija pārapdrošināšana
+Komisija cedentam
+Komisija no pārapdrošinātajām
+Prēmija
+Prēmija pārapdrošinātajām
+Prēmijas apmaksa
+
+**Polises formas funkcijas:**
+
+
++ No apdrosināšanas polises formas iespējams:
+
+    + Polises meklēšana
+    + Pievienot/labot finanšu dokumentu, un polišu dokumentus atvērt
+      skatīšanās režīmā
+    + Iegrāmatot finanšu dokumentus
+    + Izveidot neatkarīgus grāmatojumus napiesaistot to nevienam
+      dokumentam
+    + No apdrosināšanas polises formas iespējams
+
++ Elektroniski ieimportēto maksājumu uzdevumu atšifrēšana
+
+    + Ieimportētajiem maksājumu uzdevumiem ir jāveido to atšifrēšanas
+      algortims, kas automātiski noteiks par kuru polisi ir veikts maksājums
+    + Neatšifrēto ieejošo maksājumu žurnāls, kuram operators iet cauri
+      katru ver vaļā un piesaista atbilsto polisi, kur ir jāizveido darba
+      režīms, kas operatoram viegli ļauj identificēt īsto polisi
+
+
+
+ 

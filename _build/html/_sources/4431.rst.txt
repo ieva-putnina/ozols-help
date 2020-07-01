@@ -1,0 +1,36 @@
+.. 4431 Banku konti*************** 
+Bankas kontu žurnālā tiek saglabāti visi partneriem :doc:`pievienotie
+banku konti<4440>` .
+
+Ar filtru iespējams atlasīt partneru bankas kontus pēc dažādiem
+izvēlētiem atlasīšanas kritērijiem:
+
+
+
+|images_ozols/25848.png|
+
+
+
+Bankas : iespējams izvēlēties vienas noteiktas bankas partneru bankas
+kontus;
+
+Konts : iespējams atlasīt pēc viena noteikta konta numura.
+
+Ja atlasīšanas kritēriji izvēlēti, jānospiež poga
+|images_ozols/25810.png| . Ja filtrā netiek izvēlēti atlasīšanas
+kritēriji, tad tiek atvērts visu partneru bankas kontu saraksts.
+
+Lai pievienotu jaunu bankas kontu jau pievienotam partnerim, jānospiež
+poga |images_ozols/25831.png| un jāpievieno dati kā norādīts
+:doc:`Jauna bankas konta pievienošanas sadaļā<4440>` .
+
+.. |images_ozols/25848.png| image:: images_ozols/25848.png
+:scale: 100%
+
+.. |images_ozols/25810.png| image:: images_ozols/25810.png
+:scale: 100%
+
+.. |images_ozols/25831.png| image:: images_ozols/25831.png
+:scale: 100%
+
+ 

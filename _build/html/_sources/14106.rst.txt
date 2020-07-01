@@ -1,0 +1,103 @@
+.. 14106 Valūtas konvertācijas dokumentu veidošana********************************************* 
+
+
+1. Lai izveidotu valūtas konvertāciju, nepieciešams sagatavot bankas
+izdevumu dokumentu, kur dokumenta Virsrakstā nepieciešams izvēlēties
+atbilstošo konvertējamo valūtu un norādīt komercbankas kursu, pēc kāda
+darījums ir noticis:
+
+
+
+|images_ozols/26146.png|
+
+
+
+
+
+|images_ozols/24545.gif| Balstoties uz izveidoto pirmdokumentu, tiek
+veidots Grāmatojums, kurā tiekiegrāmatota konvertācijas darījumā
+rezultātā izveidojusies peļņa vai zaudējumi.
+
+
+
+|images_ozols/24545.gif| Pirms dokumenta grāmatošanas, nepieciešams
+pārliecināties, vai ir aizpildīti visi nepieciešamie grāmatvedisko
+kontu iestādījumi sadaļā:
+Konfigurācija->Iestādījumi->Kopīgie->:doc:`Virsgrāmata<707>` (Obligāts
+nosacījums korekta konvertācijas dokumenta izveidošanaii ir aizpildīti
+grāmatvediskiekonti: Starpkonta ekvivalents, Peļņa no konvertācijas un
+Zaudējumi no konvertācijas)
+
+2. Balstoties uz sagatavoto pirmdokumentu, nepieciešams veidot
+Grāmatojumu, rīku joslā nospiežot pogu |images_ozols/26148.png| un
+grāmatojuma logā jāizvēlas poga |images_ozols/25814.png| , lai
+izvēloties Ieņēmumu vai Izdevumu konvertāciju:
+
+
+
+|images_ozols/26149.png|
+
+
+
+3. Izvēloties atbilstošo konvertācijas veidu, tiks atvērts
+Konvertēšanas logs, kur jānorāda konvertējamā valūta un konvertējamās
+valūtas summa:
+
+
+
+|images_ozols/26150.png|
+
+
+
+4. Konvertācija tiks veikta un atbilstošas grāmatojuma ieraksta
+rindiņas izveidotas, nospiežot pogu |images_ozols/26151.png| :
+
+
+
+|images_ozols/26152.png|
+
+
+
+Rezultātā grāmatojumā ir izveidojušās 3 ieraksta rindiņas:
+
+1)Summa valūtā no pirmdokumenta (Db. Konvertācijas starpkonts - Cr.
+Bankas konts)
+
+2)Summa pamatvalūtā no pirmdokumenta (pēc pirmdokumenta Virsrakstā
+norādībā komercbankas kursa) (Db. Norēķini ar piegādātājiem - Cr.
+Konvertācijas starpkonts)
+
+3)Starpība starp komerbankas un Latvijas Bankas valūtas kursa - summa
+pamatvalūtā, kas izveidojusies konvertācijas rezultātā un izmantojot
+Starpkontu, iegrāmatota uz grāmatvedisko kontu "Peļņa no
+konvertācijas" (Db. Konvertācijas starpkonts - Cr. Peļņa no
+konvertācijas)
+
+.. |images_ozols/26146.png| image:: images_ozols/26146.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/26148.png| image:: images_ozols/26148.png
+:scale: 100%
+
+.. |images_ozols/25814.png| image:: images_ozols/25814.png
+:scale: 100%
+
+.. |images_ozols/26149.png| image:: images_ozols/26149.png
+:scale: 100%
+
+.. |images_ozols/26150.png| image:: images_ozols/26150.png
+:scale: 100%
+
+.. |images_ozols/26151.png| image:: images_ozols/26151.png
+:scale: 100%
+
+.. |images_ozols/26152.png| image:: images_ozols/26152.png
+:scale: 100%
+
+ 

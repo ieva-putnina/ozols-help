@@ -5,6 +5,8 @@ Lai pievienotu jaunu Licenci, jāiet uz Degvielas pasūtījumu sadaļu
 :doc:`Jauns<6908>` , un jāizvēlas :doc:`Licenci<6908>` . Licenču
 sarakstā redzams:
 
+.. image:: images_ozols/25574.png
+:scale: 100%
 
 
 

@@ -1,13 +1,19 @@
 .. 111 Strādājošie*************** 
-Lai pievienotu jaunu strādājošo sarakstam, rīku joslā jānsopiež poga .
-Arī :doc:`Partneru<312>` sadaļā caur pogu ir iespējams pievienot
-strādājošo.
+Lai pievienotu jaunu strādājošo sarakstam, rīku joslā jānsopiež poga
+.. image:: images_ozols/25605.png
+:scale: 100%
+. Arī :doc:`Partneru<312>` sadaļā caur pogu .. image::
+images_ozols/25605.png
+:scale: 100%
+ir iespējams pievienot strādājošo.
 
 Strādājošo aprakstā jāpievieno darbinieka personīgā informācija –
 vārds, uzvārds, personas kods, bankas konta numurs, adrese:
 
 
 
+.. image:: images_ozols/25705.png
+:scale: 100%
 
 
 
@@ -18,10 +24,14 @@ atbilstošie parametri Strādājošais, Atbildīgā persona u.tml..:
 
 
 
+.. image:: images_ozols/25645.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Darbinieks partneru sarakstā ir jāpievieno tikai vienu reizi.
 
 
@@ -31,7 +41,9 @@ No strādājošā apraksta caur pogu var izsaukt vai pievienot jaunu
 
 Strādājošā apraksta sadaļā Personāls var pievienot personāla uzskaitei
 nepieciešamo informāciju. Lai izveidotu un drukātu personas kartīti,
-jāaizpilda un strādājošā apraksta sadaļa Personāls.
+jāaizpilda.. image:: images_ozols/25706.png
+:scale: 100%
+un strādājošā apraksta sadaļa Personāls.
 
 
 
@@ -47,6 +59,8 @@ informāciju.
 
 
 
+.. image:: images_ozols/25709.png
+:scale: 100%
 
 
 
@@ -55,25 +69,32 @@ datu izvēles laukos. Pievienojot nākamā strādājošā datus, ierakstītā
 valoda un prasme tiks parādīti izvēles sarakstā.
 Lai labotu ierakstu, divreiz jāuzklikšķina uz rindas, kuru jālabo.
 
-Caur pogu tiek pievienoti strādājošā banku konti. Ja ar programmu tiek
-vesta uzskaite vairākiem uzņēmumiem, tad strādājošā banku kontiem tiek
+Caur pogu .. image:: images_ozols/25707.png
+:scale: 100%
+tiek pievienoti strādājošā banku konti. Ja ar programmu tiek vesta
+uzskaite vairākiem uzņēmumiem, tad strādājošā banku kontiem tiek
 norādīti uzņēmumi uz kuru konkrētais strādājošā bankas konts attiecas.
 Šie uz uzņēmumu norādītie bankas konti citu uzņēmumu programmas
 lietotājiem nebūs pieejami.
 
 
 
-Caur pogu tiek pievienotas strādājošā :doc:`adreses<192>` . Ja ar
-programmu tiek vesta uzskaite vairākiem uzņēmumiem, tad strādājošā
-adresēm tiek norādīti uzņēmumi uz kuru konkrētā strādājošā adrese
-attiecas. Šīs uz uzņēmumu norādītās adreses citu uzņēmumu programmas
-lietotājiem nebūs pieejamas.
+Caur pogu .. image:: images_ozols/25708.png
+:scale: 100%
+tiek pievienotas strādājošā :doc:`adreses<192>` . Ja ar programmu tiek
+vesta uzskaite vairākiem uzņēmumiem, tad strādājošā adresēm tiek
+norādīti uzņēmumi uz kuru konkrētā strādājošā adrese attiecas. Šīs uz
+uzņēmumu norādītās adreses citu uzņēmumu programmas lietotājiem nebūs
+pieejamas.
 
-Caur pogu ir iespējams apskatītvai pievienot strādājošā norēķinu
-kartes.
+Caur pogu .. image:: images_ozols/25716.png
+:scale: 100%
+ir iespējams apskatītvai pievienot strādājošā norēķinu kartes.
 
 
 
-Caur pogu ir iespējams atvērt strādājošā :doc:`slodzi<207>` .
+Caur pogu .. image:: images_ozols/25718.png
+:scale: 100%
+ir iespējams atvērt strādājošā :doc:`slodzi<207>` .
 
  

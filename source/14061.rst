@@ -8,10 +8,14 @@ apraksta:
 
 
 
+.. image:: images_ozols/25129.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Rekomendējam lauku Partneris aizpildīt arī tiem kontu plāna kontiem,
 kuros netiek veikta analītiskā uzskaite pa partneriem. Tas nodrošinās
 kopsavilkuma datu parādīšanu pa partneriem atskaitēs, kur tiek

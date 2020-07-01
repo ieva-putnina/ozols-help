@@ -16,11 +16,15 @@ Jauna konta atlikuma pievienošana
 `````````````````````````````````
 
 Lai kontu atlikumu sarakstā pievienotu jaunu grāmatvedības konta
-atlikumu uzskaites perioda sākumā, rīku joslājānospiež poga un tiks
-atvērts jauns logs:
+atlikumu uzskaites perioda sākumā, rīku joslājānospiež poga.. image::
+images_ozols/24708.png
+:scale: 100%
+un tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/25084.png
+:scale: 100%
 
 
 
@@ -30,6 +34,8 @@ kuram konta atlikums uz perioda sākumu tiks ievadīts:
 
 
 
+.. image:: images_ozols/25086.png
+:scale: 100%
 
 
 
@@ -43,6 +49,8 @@ dimensijas, kādā griezumā konta sākuma atlikums jāsadala):
 
 
 
+.. image:: images_ozols/25087.png
+:scale: 100%
 
 
 
@@ -53,6 +61,8 @@ izvēloties to no :doc:`Partneru saraksta<112>` :
 
 
 
+.. image:: images_ozols/25088.png
+:scale: 100%
 
 
 
@@ -61,6 +71,8 @@ izvēloties to no :doc:`Partneru saraksta<112>` :
 
 
 
+.. image:: images_ozols/25089.png
+:scale: 100%
 
 
 
@@ -73,12 +85,17 @@ noteiktā valūtas kursa):
 
 
 
+.. image:: images_ozols/25090.png
+:scale: 100%
 
 
 
 
 Kad visi nepieciešamie lauki ir aizpildīti, lai saglabātu jaunu konta
-sākuma atlikuma ierakstu, nepieciešams nospiest pogu .
+sākuma atlikuma ierakstu, nepieciešams nospiest pogu .. image::
+images_ozols/24615.jpg
+:scale: 100%
+.
 
 
 
@@ -86,16 +103,26 @@ Pievienotā konta sākuma atlikumalabošana:
 `````````````````````````````````````````
 
 Lai veiktu labojumus pievienotajākonta atlikuma aprakstā, ierakstu
-nepieciešams atvērt, izmantojot rīku joslas pogu (ALT+A),
-unatvērtajāierakstā iespējams veiktnepieciešamos labojumus (mainot
-datu uzskaites dimensijas, analītiku vai sākuma atlikuma summu):
+nepieciešams atvērt, izmantojot rīku joslas pogu.. image::
+images_ozols/24709.png
+:scale: 100%
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus
+(mainot datu uzskaites dimensijas, analītiku vai sākuma atlikuma
+summu):
+
+
+
+.. image:: images_ozols/25091.png
+:scale: 100%
 
 
 
 
-
-
-
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
  

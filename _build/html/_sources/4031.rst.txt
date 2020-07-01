@@ -1,0 +1,2 @@
+.. 4031 Rēķini ar polisēm kurām ir nulles atlikums********************************************** 
+ 

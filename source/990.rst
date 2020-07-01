@@ -32,6 +32,8 @@ kādiem atskaite tiks sagatavota:
 
 
 
+.. image:: images_ozols/26513.png
+:scale: 100%
 
 
 
@@ -43,10 +45,14 @@ periodu:
 
 
 
+.. image:: images_ozols/26514.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Par pamatu atskaites informācijas aizpildīšanai tiek izmantoti
 nomenklatūras aprakstā definētie kodi:
 
@@ -64,12 +70,16 @@ aprakstā, sadaļā "Nomenklatūra"):
 
 
 
+.. image:: images_ozols/26518.png
+:scale: 100%
 
 
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Kā arī pamatinformācija par saņemto preču daudzumu un summām no
 :doc:`Iepirkuma dokumenta<310>` :
 
@@ -93,25 +103,36 @@ aprakstā norādītās Valsts kods);
 
 Sagatavoto atskaiti iespējams saglabāt :doc:`Intrastat atskaišu
 sarakstā...<989>` :doc:`<531>` , kur tā būs pieejama
-labošanai/drukāšanai, nospiežot pogu: .
+labošanai/drukāšanai, nospiežot pogu: .. image::
+images_ozols/25054.png
+:scale: 100%
+.
 
 
 
-Nospiežot pogu atskaite sagatavota netiks un darbība tiks atcelta. Ja
-atskaite tiek izveidota un nav jāsaglabā, jālieto komanda Atcelt . Ja
-atskaite ir saglabāta sarakstā, komandu Atcelt var izmantot, lai
-nesaglabātu atskaitē veiktās izmaiņas.
+Nospiežot pogu .. image:: images_ozols/24617.jpg
+:scale: 100%
+atskaite sagatavota netiks un darbība tiks atcelta. Ja atskaite tiek
+izveidota un nav jāsaglabā, jālieto komanda Atcelt . Ja atskaite ir
+saglabāta sarakstā, komandu Atcelt var izmantot, lai nesaglabātu
+atskaitē veiktās izmaiņas.
 
 
 
 
-Sagatavotu atskaiti ir iespējams, rīku joslā nospiežot pogu un
-izvēloties atbilstošo izdrukas formu (pieejamas 2 izdrukas formas -
+.. image:: images_ozols/24545.gif
+:scale: 100%
+Sagatavotu atskaiti ir iespējams, rīku joslā nospiežot pogu .. image::
+images_ozols/25813.png
+:scale: 100%
+un izvēloties atbilstošo izdrukas formu (pieejamas 2 izdrukas formas -
 atskaites Virsraksta un Satura informācijas drukāšanai):
 
 
 
 
+.. image:: images_ozols/26517.png
+:scale: 100%
 
 
 

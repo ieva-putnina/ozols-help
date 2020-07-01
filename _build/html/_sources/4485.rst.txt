@@ -1,0 +1,11 @@
+.. 4485 Atskaites************* 
+
+
+iOzols Noliktavas modulī pieejamās Atskaites:
+
+
+:doc:`Nomenklatūras apgrozījums<4457>`
+
+:doc:`Nomenklatūras atlikumi<4456>`
+
+ .. toctree::   :maxdepth: 4    4457.rst   4456.rst   4516.rst

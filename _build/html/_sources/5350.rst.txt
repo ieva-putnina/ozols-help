@@ -1,0 +1,2 @@
+.. 5350 Vispārējie rīkojumi*********************** 
+ .. toctree::   :maxdepth: 4    5354.rst   5353.rst   5355.rst   5352.rst   5351.rst   5360.rst   5411.rst

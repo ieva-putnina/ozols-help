@@ -13,6 +13,8 @@ Info, Labot, Pirmdokumenti, Grāmatojumi, Bilance:
 
 
 
+.. image:: images_ozols/26306.png
+:scale: 100%
 
 
 
@@ -26,7 +28,10 @@ informācija par ievadītoatlīdzību lietu.
 saņēmējs; Vainīgais vadītājs; Vainīgā TRL īpašnieks; Vainīgā TRL
 nomnieks; Cietušais vadītājs; Cietušā TRL īpašnieks; Cietušā TRL
 nomnieks. Šo informāciju ir iespējams labot, veicot nepieciešamās
-korekcijas un pēc tam, lai saglabātu informāciju, nospiežot pogu: .
+korekcijas un pēc tam, lai saglabātu informāciju, nospiežot pogu: ..
+image:: images_ozols/25621.png
+:scale: 100%
+.
 
 
 

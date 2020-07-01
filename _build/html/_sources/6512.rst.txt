@@ -1,0 +1,98 @@
+.. 6512 Polišu izsniegšana brokerim******************************* 
+
+
+Polišu izsniegšanas rīks tiek izmantots, Lai :doc:`Brokerim<165>`
+vienlaicīgi būtu iespējams izsniegtu vairākas Polises:
+
+
+
+|images_ozols/25441.png|
+
+
+
+1. Lai izsniegtu Polises, nepieciešams norādīt Brokeri:
+
+
+
+|images_ozols/25442.png|
+
+
+
+2. Atbilstošo apdrošināšanas veidu un AS, kuras polises nepieciešams
+izsniegt:
+
+
+
+|images_ozols/25443.png|
+
+
+
+3. Datums, kurā PolisesBrokerim tiek izsniegtas no Noliktavas:
+
+
+
+|images_ozols/25444.png|
+
+
+
+4. Polises Sērijas numurs:
+
+
+
+|images_ozols/25445.png|
+
+
+
+5. Jānorāda tie Polises numuri, no kuras, līdz kurai tiks izsniegti
+Brokerim:
+
+
+
+|images_ozols/25446.png|
+
+
+
+6. Ja nepieciešams izsniegt ne tikai Noliktavā esošās Polises, bet arī
+jau kāda citaBrokera īpašumā esošās Polises, jāatzīmē izvēles rūtiņa:
+
+
+
+|images_ozols/25447.png|
+
+
+
+7. Nospiežot pogu |images_ozols/25448.png| , tiks izsniegtas
+informatīvajā laukā attēlotais Polišu skaits:
+
+
+
+|images_ozols/25449.png|
+
+.. |images_ozols/25441.png| image:: images_ozols/25441.png
+:scale: 100%
+
+.. |images_ozols/25442.png| image:: images_ozols/25442.png
+:scale: 100%
+
+.. |images_ozols/25443.png| image:: images_ozols/25443.png
+:scale: 100%
+
+.. |images_ozols/25444.png| image:: images_ozols/25444.png
+:scale: 100%
+
+.. |images_ozols/25445.png| image:: images_ozols/25445.png
+:scale: 100%
+
+.. |images_ozols/25446.png| image:: images_ozols/25446.png
+:scale: 100%
+
+.. |images_ozols/25447.png| image:: images_ozols/25447.png
+:scale: 100%
+
+.. |images_ozols/25448.png| image:: images_ozols/25448.png
+:scale: 100%
+
+.. |images_ozols/25449.png| image:: images_ozols/25449.png
+:scale: 100%
+
+ 

@@ -1,0 +1,11 @@
+.. 61 ============Saraksti============ 
+:doc:`<189>`
+
+CRM (Partneri) sarakstos nepieciešams pievienot uzņēmuma
+:doc:`Partnerus<112>` (Fiziskas, Juridiskas personas), kā arī
+iespējams pievienot Partneru :doc:`Kontaktus<189>` ,
+:doc:`Adreses<192>` , izveidot :doc:`Partneru grupas<113>` ,
+:doc:`Sektoru<810>` klasifikatoru un izveidot :doc:`Potenciālo
+partneru<842>` sarakstu.
+
+ .. toctree::   :maxdepth: 5    192.rst   191.rst   906.rst   904.rst   905.rst   887.rst   886.rst   189.rst   900.rst   740.rst   112.rst   113.rst   150.rst   1045.rst   1044.rst   149.rst   842.rst   944.rst   810.rst   878.rst   1000.rst   193.rst

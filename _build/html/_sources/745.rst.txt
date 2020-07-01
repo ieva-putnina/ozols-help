@@ -1,0 +1,5 @@
+.. 745 Korespondence***************** 
+Visas pievienotās korespondences tiek saglabātas :doc:`korespondences
+žurnālā<744>` .
+
+ 

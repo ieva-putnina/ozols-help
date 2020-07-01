@@ -6,6 +6,8 @@ ieņēmumi un izdevumi:
 
 
 
+.. image:: images_ozols/26302.png
+:scale: 100%
 
 
 
@@ -24,6 +26,8 @@ Finansēšana, bankas konts, struktūrvienība un salīdzināšanas periods.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Budžeta pieprasījuma aizpildīšanā jāaizpilda visi lauki, un uz vienu
 kontu var būt vairāki budžeti.
 
@@ -35,6 +39,8 @@ uz augstākiem līmeņiem:
 
 
 
+.. image:: images_ozols/26305.png
+:scale: 100%
 
 
 
@@ -44,6 +50,8 @@ skaitlis, ir Izdevumi.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Budžeta pieprasījuma ieņēmumu un izdevumu summai ir jāsakrīt, lai
 starpība būtu 0.00
 
@@ -59,17 +67,22 @@ izdrukāt visu kopējo sagatvoto konkrētā budžeta pieprasījumu sarakstu
 
 
 Atverot konkrēto EK kodu caur x, jānorāda ieņēmumu budžeta summu un
-jānospiež poga . Tāpat jānorāda budžeta summu arī uz izdevumu EKK,un
-jāsaglabā.
+jānospiež poga .. image:: images_ozols/25799.png
+:scale: 100%
+. Tāpat jānorāda budžeta summu arī uz izdevumu EKK,un jāsaglabā.
 
 Rezultātā budžeta ieņēmumu un izdevumu summām ir jāsakrīt:
 
 
 
+.. image:: images_ozols/26308.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/26310.png
+:scale: 100%
 
 
 

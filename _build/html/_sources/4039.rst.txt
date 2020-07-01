@@ -1,0 +1,12 @@
+.. 4039 Kampaņu rezultāti********************* 
+Kampaņu rezultātu sarakstā tiek saglabāti dati par kampaņām, kuras ir
+izpildītas, kurustatuss ir mainīts uzslēgts:
+
+
+
+|images_ozols/25834.png|
+
+.. |images_ozols/25834.png| image:: images_ozols/25834.png
+:scale: 100%
+
+ 

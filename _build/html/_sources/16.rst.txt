@@ -1,0 +1,2 @@
+.. 16 Individuālie**************** 
+ .. toctree::   :maxdepth: 4    702.rst   713.rst   705.rst   724.rst   709.rst   712.rst   714.rst   710.rst

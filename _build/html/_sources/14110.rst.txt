@@ -1,0 +1,93 @@
+.. 14110 Datu bāzes atjaunošana no BackUp faila, izmantojot SQL Enterprise Manager***************************************************************************** 
+
+
+Lai atjaunotu Ozols datu bāzi, nepieciešama SQL Server Enterprise
+Manager programmatūra.
+
+
+
+1. Nepieciešamspievienot jaunu SQL Server Group:
+
+
+
+SQL Server Group -> Peles labais taustiņš ->New SQL Server
+Registration:
+
+
+
+|images_ozols/26242.png|
+
+
+
+2. Nepieciešams pievienot datu bāzi, atjaunojot (Restore)to no esošā
+backup faila:
+
+
+
+Serveris-> Databases-> Peles labais taustiņš -> All Tasks -> Restore
+Database:
+
+
+
+|images_ozols/26246.png|
+
+
+
+Izvēloties šo darbību, nepieciešams norādīt datu bāzes vārdu: OZOLS,
+ceļu uzbackup failu, no kura dati tiks atjaunoti:
+
+
+
+|images_ozols/26247.png|
+
+
+
+Pēc tam, apstirpinot darbības ar OK, datu bāze tiks pievienota,
+atjaunojot datus no backup faila.
+
+
+
+3. Nepieciešams pievienot Ozols lietotājus:
+
+
+
+Vispirms jāizdzēš esošie lietotājvārdi no datu bāzes -> Datu bāze->
+Users->Iezīmēt nepieciešamo loginu->Dzēst ierakstu:
+
+
+
+|images_ozols/26249.png|
+
+
+
+Pēc tam jāpievieno jaunie lietotāji->Security->Logins->Peles labais
+taustiņš: "New Login"
+
+
+
+|images_ozols/26248.png|
+
+
+
+Jāievada lietotāja vārds, jānorāda SQL vai Windows autentifikācija un
+jāatzīmē atbilstošās :doc:`Datu bāzes lietotāju tiesības darba
+režīmiem<14086>` .
+
+
+
+.. |images_ozols/26242.png| image:: images_ozols/26242.png
+:scale: 100%
+
+.. |images_ozols/26246.png| image:: images_ozols/26246.png
+:scale: 100%
+
+.. |images_ozols/26247.png| image:: images_ozols/26247.png
+:scale: 100%
+
+.. |images_ozols/26249.png| image:: images_ozols/26249.png
+:scale: 100%
+
+.. |images_ozols/26248.png| image:: images_ozols/26248.png
+:scale: 100%
+
+ 

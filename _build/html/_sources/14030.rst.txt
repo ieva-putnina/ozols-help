@@ -1,0 +1,89 @@
+.. 14030 CSNRZRS un OZOLS integrēšanas procesa apraksts************************************************** 
+
+#. :doc:`Atlīdzību daļā<14027>` CSNRZRS tiek reģistrēts CSNg.
+#. :doc:`Atlīdzību daļā<14027>` ievada Zaudējumu pieteikumu (-us), kas
+attiecas uz attiecīgo CSNg. Zaudējuma pieteikums tiek ievadīts visām
+lietām: Atlīdzību lietām, Pārsūtītajām lietām un Zaļo karšu lietām
+(negadījumu izraisījis ārzemnieks, kuram kā apdrošināšanas polise
+kalpo Zaļā karte). Katram Zaudējumu pieteikumam tiek ģenerēts
+Atlīdzību lietas numurs, atkarībā no zaudējuma veida (TRL, mantai,
+veselībai utt.)
+#. :doc:`Atlīdzību daļā<14027>` tiek pieņemts un ievadīts CSNRZRS
+lēmums par atlīdzības izmaksu Atlīdzības lietā.
+#. Brīdī, kad ievadītais lēmums tiek saglabāts, notiek datu pārnese uz
+OZOLS.
+#. Sistēmā OZOLS
+#. tiek pievienota jauna dinamika „Atlīdzību lietas numurs”, kur
+   virslīmenis ir CSNg identifikators un dimensija Atlīdzību lietas
+   numurs. Ja virslīmenis CSNg sistēmā jau eksistē, tam vienkārši
+   jāpievieno jauns Atlīdzību lietas numurs.
+
+    + tiek pievienots jauns partneris (atlīdzības saņēmējs). Jāpārbauda
+    pēc personas koda (Uzņēmuma reģistrācijas numura). Ja tāds Partneris
+    jau eksistē, tas nav jāpievieno.
+    + tiek izveidots Lietu žurnāls ar sekojošiem kontējumiem
+
+        + D 7110 – izdevumi atlīdzību lietās,
+        + C 5321– nekonkretizēts kreditors;
+
+
+#. :doc:`Finanšu daļā<14028>` no Atlīdzību daļas tiek saņemta
+   dokumentu pakete par pieņemto lēmumu (-iem).
+
+    + Partnera kartiņa, ja nepieciešams, tiek papildināta ar norēķinu
+    rekvizītiem.
+    + Lietu žurnālā tiek veikta kreditora pārnešana uz konkrēto kreditoru.
+      Kontējums:
+
+        + D 5321 – nekonkretizēts kreditors,
+        + C 5322 –konkretizēts kreditors, kuram piesaista atlīdzības saņēmēju,
+        + Atlīdzības lietu. Kontējumi:
+        + D 5322
+        + C 262*(banka vai čeks)
+
+    + kad no bankas ir saņemts apstiprinājums, ka nauda ir pārskaitīta(
+    vai izņemta skaidrā naudā), maksājums tiek grāmatots.
+    + grāmatošanas brīdī informācija par maksājumu tiek pārnesta uz
+    CSNRZRS un atpakaļ saņemta pazīme, ka pārnese veiksmīgi notikusi.
+    + Lietu žurnālā izveidojas prasība pret debitoru. Kontējumi:
+
+        + D 2321 – nenoskaidrota debitora konts,
+        + C 6100 – ieņēmumi no Regresa lietām.
+
+
+#. Pēc tam, kad veikta izmaksa, Atlīdzību lietas dokumentu pakete tiek
+   iesniegta :doc:`Juridiskajai daļai<14029>` . Juridiskā nodaļa pieņem
+   lēmumu vai tiks uzsākta Regresa lieta:
+
+    + ja Regresa lieta netiek uzsākta, izmaksa atlīdzību lietā tiek
+      norakstīta izdevumos. Kontējumi:
+
+        + D 7120 – norakstītās Regresa lietas
+        + C 2321– nenoskaidrotā debitora konts;
+
+    + ja Regresa lieta tiek uzsākta, :doc:`Juridiskajai daļa<14029>`
+    atlīdzības maksātāju un informē par to :doc:`Finanšu daļu<14028>` .
+    + Ja atlīdzības maksātājs (ja nepieciešams, TRL vadītājs, TRL
+    īpašnieks, TRL nomnieks) nav ievadīts sistēmā, Juridiskā daļa ievada
+    Partnera kartiņu.
+    + :doc:`Finanšu daļa<14028>` veic debitora noteikšanas kontējumu:
+
+        + D 2321 – nenoskaidrotā debitora konts,
+        + C 2322 – konkrētā debitora konts, kuram tiek pievienots Partneris.
+
+    + Ja bankā ieskaitīta nauda par ierosināto Regresa lietu, Finanšu daļa
+      identificē maksājumu pēc Atlīdzību lietas numura vai maksātāja, vai
+      vainīgā. Ja ienākošo maksājumu identificēt nav iespējams, informācija
+      tiek nodota :doc:`Juridiskajai daļai<14029>` identifikācijai. Kad
+      maksājums identificēts, Lietu žurnālā tiek veikts kontējums:
+
+        + D 262* – bankas konts, kurā ienākusi nauda,
+        + C 2322 – konkrētā debitora konts ar pievienotu Partneri un Atlīdzību
+          lietas numuru dimensijā
+
+    + Brīdī, kad ienākošais maksājums tiek grāmatots, notiek datu pārnese
+      uz sistēmu CSNRZRS
+
+
+
+ 

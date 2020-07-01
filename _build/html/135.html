@@ -1,0 +1,674 @@
+
+
+
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>Grāmatojumu šabloni</title>
+    
+      <link rel="stylesheet" href="_static/pygments.css">
+      <link rel="stylesheet" href="_static/theme.css">
+      <link rel="stylesheet" href="_static/sphinx_press_theme.css">
+          <link rel="stylesheet" href="_static/page_nav.css" type="text/css" />
+          <link rel="stylesheet" href="_static/jquery.fancybox.min.css" type="text/css" />
+          <link rel="stylesheet" href="_static/sphinx_press_theme.css" type="text/css" />
+      
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+      <!-- sphinx script_files -->
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+        <script src="_static/jquery.fancybox.min.js"></script>
+
+      
+      <script src="_static/theme-vendors.js"></script>
+      <script src="_static/theme.js" defer></script>
+    
+  <link rel="index" title="Index" href="genindex.html" />
+  <link rel="search" title="Search" href="search.html" />
+  <link rel="next" title="Grāmatojumu tipi" href="199.html" />
+  <link rel="prev" title="Saraksti" href="14.html" /> 
+  </head>
+
+  <body>
+    <div id="app" class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+  <router-link to="index.html" class="home-link">
+    
+      <span class="site-name">Sistēmas LĀCIS dokumentācija</span>
+    
+  </router-link>
+
+  <div class="links">
+    <navlinks class="can-hide">
+
+
+
+    </navlinks>
+  </div>
+</navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="index.html#ozols-palidzibas-sistema">ozols palīdzības sistēma</a></span>
+      </p>
+      <ul class="">
+        
+          <li class="toctree-l1 "><a href="7603.html" class="reference internal ">Paziņojumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="600.html" class="reference internal ">Sākums</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="14000.html" class="reference internal ">Sistēmas lietošanas instrukcija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="18.html" class="reference internal ">Mani darbi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="39.html" class="reference internal ">Alga</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4000.html" class="reference internal ">Apdrošināšanas polises</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4800.html" class="reference internal ">Autoinfo</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="40.html" class="reference internal ">Avansi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="48.html" class="reference internal ">Budžeta izpilde</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6600.html" class="reference internal ">Budžeta plānošana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7700.html" class="reference internal ">Caurlaides</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="26.html" class="reference internal ">CRM (Partneri)</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="50.html" class="reference internal ">Datu apmaiņa ar banku</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7400.html" class="reference internal ">Degvielas tirdzniecība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7000.html" class="reference internal ">Dividendes</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7900.html" class="reference internal ">Ēdināšana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="41.html" class="reference internal ">Finanses</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4900.html" class="reference internal ">iVeikals</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="42.html" class="reference internal ">Krājumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7600.html" class="reference internal ">Kravu pārvadājumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4100.html" class="reference internal ">LaMSF</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6800.html" class="reference internal ">Līgumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4500.html" class="reference internal ">Maksājumu uzskaite</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7100.html" class="reference internal ">Mazumtirdzniecība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="43.html" class="reference internal ">Noliktava</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6770.html" class="reference internal ">Noma</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6700.html" class="reference internal ">Noma transportam</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="44.html" class="reference internal ">Norēķini</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="45.html" class="reference internal ">Pamatlīdzekļi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="34.html" class="reference internal ">Pasts</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7200.html" class="reference internal ">Personāla pašapkalpošanās</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="47.html" class="reference internal ">Personāla vadība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6500.html" class="reference internal ">Polises</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="46.html" class="reference internal ">Projektu kalkulācija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4200.html" class="reference internal ">Regresi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4300.html" class="reference internal ">TKU</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="49.html" class="reference internal ">Virsgrāmata</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4700.html" class="reference internal ">wap OZOLS</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="38.html" class="reference internal ">Citi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5226.html" class="reference internal ">Darbinieku portāls</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6901.html" class="reference internal ">Degvielas pasūtījumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5026.html" class="reference internal ">Iestādījumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4444.html" class="reference internal ">Klientu portāls</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="12.html" class="reference internal ">Konfigurācija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="1.html" class="reference internal ">Kopējie saraksti</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7301.html" class="reference internal ">Mākslinieciskā darba plānošana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5295.html" class="reference internal ">Meklēšanas rezultāti</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6734.html" class="reference internal ">Noma</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="31.html" class="reference internal ">Pievienot</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4461.html" class="reference internal ">Pievienot notikumu</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="10.html" class="reference internal ">Rīki</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7500.html" class="reference internal ">SPRK</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4445.html" class="reference internal ">Uzņēmuma portāls</a>
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="index.html">Docs</a> &raquo;</li>
+    
+      <li><a href="49.html">Virsgrāmata</a> &raquo;</li>
+    
+      <li><a href="14.html">Saraksti</a> &raquo;</li>
+    
+    <li>Grāmatojumu šabloni</li>
+  </ul>
+  
+
+  </script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="14.html"
+       title="previous chapter">← Saraksti</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="199.html"
+       title="next chapter">Grāmatojumu tipi →</a>
+  </li>
+</ul>
+
+  
+</div>
+<hr>
+          <div class="content" role="main">
+            
+  <div class="section" id="gramatojumu-sabloni">
+<h1>Grāmatojumu šabloni<a class="headerlink" href="#gramatojumu-sabloni" title="Permalink to this headline">¶</a></h1>
+<p>Grāmatojumu šablonu sarakstā tiek saglabātas izveidotās kontējumu
+shēmas, kas tiek izmantotas dokumentu grāmatojuma automatizētā
+izveidošanā. Visi izveidotie grāmatojumu šabloni tiek saglabāti
+grāmatojumu šablonu sarakstā.</p>
+<p>Grāmatojumu šablons sastāv no virsraksta daļas un satura. Šablonam var
+pievienot neierobežotu skaitu satura ierakstu. Grāmatojuma šabloni
+jāveido atsevišķi katram dokumenta veidam. Grāmatojuma šablonā var
+noteikt, ka summas tiks ņemts no pirmdokumenta virsraksta vai satura.
+Tā pat šablonā var sadalīt summas procentuāli pa kontiem, pieņemot, ka
+pirmdokumenta kopsumma ir 100%.</p>
+<div class="section" id="jauna-gramatojuma-sablona-pievienosana">
+<h2>Jauna grāmatojuma šablona pievienošana<a class="headerlink" href="#jauna-gramatojuma-sablona-pievienosana" title="Permalink to this headline">¶</a></h2>
+<p>Jaunu grāmatojuma šablonuiespējams pievienot divos veidos:</p>
+<div class="section" id="no-gramatojuma-ekrana-formas">
+<h3>1.No Grāmatojuma ekrāna formas<a class="headerlink" href="#no-gramatojuma-ekrana-formas" title="Permalink to this headline">¶</a></h3>
+<p>Katra pirmdokumenta grāmatošanas laikā no grāmatojuma ekrāna formas ar
+<img alt="images_ozols/25106.png" src="_images/25106.png" /> komandpogas palīdzību var atvērt grāmatojuma
+šablonu sarakstu:</p>
+<p><img alt="images_ozols/25107.png" src="_images/25107.png" /></p>
+<p>Tiks atvērts šablonu saraksts tikai grāmatojamā dokumenta tipam. No
+grāmatojumu šablonu saraksta var izveidot jaunu šablonu (
+<img alt="images_ozols/24933.png" src="_images/24933.png" /> Pievienot), atvērt un labot jau izveidotu
+šablonu ( <img alt="images_ozols/24932.png" src="_images/24932.png" /> Atvērt), izveidot jaunu šablonu uz
+esošā šablona bāzes ( <img alt="images_ozols/24940.png" src="_images/24940.png" /> Kopēt), kā arī dzēst
+šablonu ( <img alt="images_ozols/24941.png" src="_images/24941.png" /> Dzēst).</p>
+<p>Lai veidotu jaunu šablonu, jāizmanto komanda Pievienot. Komandas
+darbam ar grāmatojumu šabloniem var izsaukt no rīku joslas vai ar
+peles labās pogas palīdzību.</p>
+</div>
+<div class="section" id="gramatojumu-sablonu-saraksta-pievienojot-jaunu-ierakstu">
+<h3>2.Grāmatojumu šablonu sarakstā pievienojot jaunu ierakstu<a class="headerlink" href="#gramatojumu-sablonu-saraksta-pievienojot-jaunu-ierakstu" title="Permalink to this headline">¶</a></h3>
+<p>Lai pievienotu jaunu Grāmatojumu šablonu, rīku joslājānospiež poga
+<img alt="images_ozols/24708.png" src="_images/24708.png" /> un tiks atvērts jauns logs:</p>
+<p><img alt="images_ozols/25108.png" src="_images/25108.png" /></p>
+<p>1. Nepieciešams norādīt atbilstošo darba režīmu, kāda dokumenta
+grāmatošanai šis šablons tiek veidots. Katram pirmdokumenta veidam
+jāveido atsevišķi grāmatojuma šabloni. Darba režīms var noteikt īpašu,
+konkrētam grāmatojuma tipam nepieciešamu datu izvēles iespēju.
+Grāmatojos pirmdokumentu, izvēlei tiek parādīti tikai atbilstošā tipa
+grāmatojumu šaboni:</p>
+<p><img alt="images_ozols/25109.png" src="_images/25109.png" /></p>
+<p><img alt="images_ozols/24545.gif" src="_images/24545.gif" /> Katrs grāmatojuma šablons tiek sagatavots
+konkrētam darba režīmam, tāpēc ir svarīgi norādīt, kāda dokumenta
+grāmatošanai tas tiek veidots. Atkarībā no darba režīma, grāmatojuma
+šablonā tiek parādītas nedaudz atšķirīgas izvēles lauku aizpildīšanai,
+piemērojoties grāmatojamā dokumenta specifikai.</p>
+<p>2. Jānorāda grāmatojuma šablona nosaukums (Lietotāja izvēlēts, brīvā
+tekstā ierakstīts nosaukums). Grāmatojuma šablona nosaukums tiek
+izmantots, lai grāmatojot pirmdokumentu, to varētu labāk izvēlēties no
+šablonu saraksta. Nosaukumā jāietver informācija, kas ļauj šablonu
+nekļūdīgi identificēt starp citiem grāmatojumu šabloniem:</p>
+<p><img alt="images_ozols/25110.png" src="_images/25110.png" /></p>
+<ol class="arabic simple" start="3">
+<li><p>Nepieciešams pievienot grāmatojuma šablona satura rindu nosacījumus</p></li>
+</ol>
+<p><img alt="images_ozols/24545.gif" src="_images/24545.gif" /> Šablonā var pievienot neierobežotu skaitu
+ierakstu - kontējumu. Grāmatojuma šablona satura rindas ierakstā
+jānorāda šablona ieraksta veids, konts, var noteikt izmantojamo
+finanšu kategoriju (ekonomisko kodu), struktūrvienību, projektu,
+nozari, partneri.</p>
+<p>Lai aizpildītu Grāmatojuma šablona Saturu, dokumenta satura daļā
+nepieciešams nospiest <img alt="images_ozols/24708.png" src="_images/24708.png" /> un tiks atvērts
+operācijas satura logs, kurā nepieciešamsnorādīt satura ierakstu
+nosacījumus:</p>
+<p><img alt="images_ozols/25112.png" src="_images/25112.png" /></p>
+<p><img alt="images_ozols/24545.gif" src="_images/24545.gif" /> Grāmatojuma šablonā iespējas izvēlēties
+Kategoriju (Ek.kods), Struktūrvienību, Projektu, Nozari (VFK),
+Budžetuun Partneri ierobežo izmantojamo <a class="reference internal" href="701.html"><span class="doc">Dimensiju
+konfigurācija</span></a> un konta apraksts <a class="reference internal" href="114.html"><span class="doc">Kontu plānā</span></a> , kur
+var būt noteikts nelietot uzskaiti pa partneriem vai nelietot kādu no
+dimensijām. Ja kāda no dimensijām netiek lietota, dimensijas lauks
+grāmatojuma šablonā neparādās.</p>
+<p>Grāmatojuma šablona satura nosacījumu ievades instrukcijas:
+<a class="reference internal" href="14056.html"><span class="doc">Grāmatojumu šablonu veidošana un pielietošana</span></a></p>
+<p>Šablona rindas tiek numurētas automatizēti, un rindas numurs ir
+informatīvs. Viens kontējuma pāris tiek parādīts kā divi ieraksti,
+piemēram 1D (pirmā rinda, debets) un 1K (pirmā rinda, kredīts).</p>
+<p>Kad visi nepieciešamie lauki ir grāmatojuma šablona saturā aizpildīti,
+lai saglābātu Grāmatojuma šablona satura ierakstu, nepieciešams
+nospiest pogu <img alt="images_ozols/24615.jpg" src="_images/24615.jpg" /> . Nospiežot pogu
+<img alt="images_ozols/24617.jpg" src="_images/24617.jpg" /> , satura ieraksts saglabāts netiks.</p>
+</div>
+<div class="section" id="gramatojuma-sablonasatura-ierakstu-labosana">
+<h3>Grāmatojuma šablonasatura ierakstu labošana<a class="headerlink" href="#gramatojuma-sablonasatura-ierakstu-labosana" title="Permalink to this headline">¶</a></h3>
+<p>Lai veiktu labojumus,satura ierakstunepieciešams atvērt, izmantojot
+rīku joslas pogu <img alt="images_ozols/24709.png" src="_images/24709.png" /> (ALT+A), unatvērtajāierakstā
+iespējams veiktnepieciešamos labojumus:</p>
+<p><img alt="images_ozols/25115.png" src="_images/25115.png" /></p>
+<p>Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+<img alt="images_ozols/24615.jpg" src="_images/24615.jpg" /> vai <img alt="images_ozols/24617.jpg" src="_images/24617.jpg" /> .</p>
+<p>Saglabājot grāmatojumu šablonu, tas būs pieejams Grāmatojumu šablonu
+sarakstā unšo šablonu būs iespējams izvēlēties konkrētam darba
+režīmam, balstoties uz grāmatojuma šablona virsrakstānorādīto darba
+režīmu.</p>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+</div>
+</div>
+</div>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"></script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="14.html"
+       title="previous chapter">← Saraksti</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="199.html"
+       title="next chapter">Grāmatojumu tipi →</a>
+  </li>
+</ul>
+<div class="footer" role="contentinfo">
+      &#169; Copyright 2020 Ozols Grupa.
+    <br>
+  Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.1.0 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a>.
+</div>
+                <script type="text/javascript">
+                  $(function(){
+                    $('.image-reference').fancybox();
+                  })
+                </script>
+            </div>
+          </div>
+      </page>
+    </div>
+    
+    
+  </body>
+</html>

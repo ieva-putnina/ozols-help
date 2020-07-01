@@ -8,6 +8,8 @@ grupas, atzīmējot izvēles rūtiņu "Grupēt pēc nomenklatūras grupas":
 
 
 
+.. image:: images_ozols/25826.png
+:scale: 100%
 
 
 

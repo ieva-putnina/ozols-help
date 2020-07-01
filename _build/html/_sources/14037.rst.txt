@@ -1,0 +1,23 @@
+.. 14037 ================================Sarakstu veidošanas principi================================ 
+
+
+Dokumentu veidošanā tiek izmantoti saraksti. Saraksti iz pieejami no
+izvēles Saraksti. Saraksti ir sadalīti pēc to izmantošanas pa
+programmām un ir arī kopējie saraksti, kuri tiek izmantoti vairāku
+programmu darba režīmos.
+
+
+
+:doc:`Hierarhisko sarakstu veidošana<14041>`
+
+:doc:`Jauna sarakstu ieraksta pievienošana<14038>`
+
+:doc:`Saraksta dzēšana ar aizvietošanu<14042>`
+
+:doc:`Saraksta ierakstu dzēšana<14040>`
+
+:doc:`Saraksta ierakstu labošana<14039>`
+
+:doc:`Sarakstu aizpildīšana no atvērta dokumenta<14043>`
+
+ .. toctree::   :maxdepth: 5    14041.rst   14038.rst   14042.rst   14040.rst   14039.rst   14043.rst

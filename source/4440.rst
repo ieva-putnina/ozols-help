@@ -3,13 +3,17 @@ Bankas konts tiek pievienots jau esošam partnerim:
 
 
 
+.. image:: images_ozols/25840.png
+:scale: 100%
 
 
 
 
 Partneris : no partneru saraksta tiek izvēlēts partneris, kuram tiks
-pievienots šis bankas konts (caur pogu iespējams atvērt partneru
-sarakstu);
+pievienots šis bankas konts (caur pogu.. image::
+images_ozols/25837.png
+:scale: 100%
+iespējams atvērt partneru sarakstu);
 
 Banka : no banku saraksta jāizvēlas banka;
 
@@ -20,11 +24,22 @@ Konts: konta numurs;
 Kartes Nr .: iespējams norādīt arī kartes numuru un tās derīguma
 termiņu;
 
+.. image:: images_ozols/25841.png
+:scale: 100%
 : tiks lietots kā noklusētais konts.
 
-Lai saglabātu bankas konta datus, jānospiež poga , un, lai labotu,
-jānospiež poga , bet, lai pievienotu jaunu kontu, jānospiež poga . Lai
-saglabātu un aizvērtu, jānospiež poga . Visi pievienotie konti tiek
-saglabāti :doc:`Bankas kontu žurnālā<4431>` .
+Lai saglabātu bankas konta datus, jānospiež poga .. image::
+images_ozols/25829.png
+:scale: 100%
+, un, lai labotu, jānospiež poga .. image:: images_ozols/25832.png
+:scale: 100%
+, bet, lai pievienotu jaunu kontu, jānospiež poga .. image::
+images_ozols/25831.png
+:scale: 100%
+. Lai saglabātu un aizvērtu, jānospiež poga .. image::
+images_ozols/25828.png
+:scale: 100%
+. Visi pievienotie konti tiek saglabāti :doc:`Bankas kontu
+žurnālā<4431>` .
 
  

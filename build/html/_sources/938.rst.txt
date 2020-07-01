@@ -10,9 +10,13 @@ detalizētāk būtu pieejama informācija par abiem savstarpēji
 sasaistītajiem dokumentiem - ieejošo maksājumu un pārdošanas
 dokumentu:
 
+.. image:: images_ozols/26492.png
+:scale: 100%
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Šajā darba režīmā jaunus ierakstus pievienot nevar. Šeit vizuāli tiek
 attēlota informācija no :doc:`Pārdošanas dokumentu<304>` un
 :doc:`Bankas ieejošo maksājumu dokumentu<349>` savstarpējās

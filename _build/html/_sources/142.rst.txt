@@ -1,0 +1,105 @@
+.. 142 Noliktavas************** 
+
+
+Sarakstā tiek saglabātas uzņēmuma Noliktavas, un tajā var pievienot
+neierobežotu skaitu noliktavu - nomenklatūras uzskaitei vairākās
+Noliktavās, jāizveido nepieciešamais Noliktavu skaits. Pievienotās
+Noliktavas tiek izmantotas Norēķinu ieejošo un izejošo dokumentu
+sagatavošanā. Noliktavas aprakstā var norādīt nomenklatūras grupas,
+kuras tiks piesaistītas konkrētajai Noliktavai.
+
+
+
+JaunasNoliktavas pievienošana:
+``````````````````````````````
+
+Lai pievienotu jaunu Noliktavu, rīku joslājānospiež poga
+|images_ozols/24708.png| un tiks atvērts jauns logs:
+
+
+
+|images_ozols/25032.png|
+
+
+
+Pievienojot jaunu Noliktavu, jānorāda - Noliktavas Kods (saīsināts
+Noliktavas nosaukums), Noliktavas Nosaukums , iespēja norādīt
+Noliktavas fizisko atrašanās adresi – preču saņemšanas un izsniegšanas
+vietu.
+
+Noliktavai ir iespējams piesaistīt konkrētu
+:doc:`Struktūrvienību<117>` no kopējā struktūrvienību saraksta:
+
+
+
+|images_ozols/25033.png|
+
+
+
+|images_ozols/24545.gif| Konfigurācijas iestādījumos >Konfigurācija >
+Iestādījumi > Kopīgie > :doc:`Noliktava<716>` – iespējams atzīmēt
+izvēles rūtiņu "Iepirkumu un pārdošanas dokumentos noklusēto
+struktūrvienību ņemt no noliktavas", lai iepirkumu un pārdošanas
+dokumentos noklusētā struktūrvienība tiktu ņemta no noliktavas.
+
+
+
+|images_ozols/25034.png|
+
+
+
+Atzīmējot šo izvēles rūtiņu, tiek nodrošināts, lai sagatavojot jaunu
+Norēķinu ieejošo vai izejošo dokumentu,atzīmētā galvenāNoliktava tiktu
+uzrādīta pēc noklusējuma.
+
+
+
+
+
+Katrai izveidotajai Noliktavai ir iespēja piesaistīt konkrētas
+nomenklatūras :doc:`Grupas<148>` , noliktavas aprakstā – nomenklatūras
+grupas, atzīmējot nepieciešamās grupas:
+
+
+
+|images_ozols/25035.png|
+
+
+
+PievienotāsNoliktavas apraksta labošana:
+````````````````````````````````````````
+
+Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
+atvērt, izmantojot rīku joslas pogu |images_ozols/24709.png| (ALT+A).
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/25032.png| image:: images_ozols/25032.png
+:scale: 100%
+
+.. |images_ozols/25033.png| image:: images_ozols/25033.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/25034.png| image:: images_ozols/25034.png
+:scale: 100%
+
+.. |images_ozols/25035.png| image:: images_ozols/25035.png
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

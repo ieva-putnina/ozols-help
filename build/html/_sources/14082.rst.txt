@@ -3,15 +3,19 @@
 
 Aprēķinātākomisijas nauda par Polisēm tiek grāmatota balstoties uz
 sagatavotās :doc:`Polišu komisijas<6516>` atskaites datiem. No šīs
-atskaites, izmantojot rīku joslā pieejamo pogu , ir iespējams ģenerēt
-Iepirkuma vai Pārdošanas dokumentu, kas kalpo kā pirmdokuments
-aprēķinātās polišu komisijas summas grāmatošanai.
+atskaites, izmantojot rīku joslā pieejamo pogu .. image::
+images_ozols/25374.png
+:scale: 100%
+, ir iespējams ģenerēt Iepirkuma vai Pārdošanas dokumentu, kas kalpo
+kā pirmdokuments aprēķinātās polišu komisijas summas grāmatošanai.
 
 Rēķins tiek grāmatots atbilstoši izveidotajamAprēķinātās un ieturētās
 komisijas:doc:`Grāmatojuma šablonam<14083>` :
 
 
 
+.. image:: images_ozols/25375.png
+:scale: 100%
 
 
 

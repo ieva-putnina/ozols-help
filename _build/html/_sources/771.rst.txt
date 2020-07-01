@@ -1,0 +1,88 @@
+.. 771 Atlikumi************ 
+Nomenklatūras atlikumu atskaiti ir iespējams sagatavot uz noteiktu
+datumu pēc izvēlētajiem kritērijiem.
+
+Filtrs jāaizpilda, lai sagatavotu atskaiti.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu
+atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež poga
+|images_ozols/24535.gif| (Ctrl+F), tiek atvērts filtra logs:
+
+
+
+|images_ozols/25631.png|
+
+
+
+Uzņēmums: ja ir vairāki uzņēmumi, jāizvēlas uzņēmums, par kuru tiks
+gatavota atlikumu atskaite;
+
+Iepirkums: iespējams izvēlēties vienu iepirkumu, lai redzētu tā
+atlikumus;
+
+Datums: datums, uz kuru tiks sagatavota atskaite;
+
+Noliktava: par kuras noliktavas atlikumiem tiks gatavota atskaite;
+
+Ek.kods: dimensiju dalījums;
+
+VFK: dimensiju dalījums;
+
+Ražotājs: iespēja izveidot atskaiti par viena ražotāja preču vai
+krājumu atlikumiem;
+
+Grupa: krājuma vai preces grupa;
+
+Prece: atskaite par vienas preces atlikumiem;
+
+Cena: cenas veids;
+
+Grupēt pēc: iespēja grupēt pēc dažādiem kritērijiem;
+
+Summēt uz augstāko līmeni: sagrupēto iespējams summēt uz augstāko
+līmeni;
+
+Rādīt tikai pakalpojumus: atskaiti sagatavot, atlasot tikai
+pakalpojumus;
+
+Iekļaut neapstiprinātos dokumentus: atskaitē iekļaut datus arī no
+neapstiprinātajiem dokumentiem.
+
+Sagatavotajā atskaitē ir iespējams atvērt Nomenklatūras kustības
+pārskatu, izvēloties nomenklatūru un nospiežot rīku joslā pogu
+|images_ozols/25603.png| .
+
+Sagatavotos atskaites datus ir iespējams arī izdrukāt. Lai drukātu
+datus, rīko joslā jānospiež poga |images_ozols/24944.png| (Ctrl+P), un
+tad poga |images_ozols/25620.png| .
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+:scale: 100%
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+:scale: 100%
+
+.. |images_ozols/25631.png| image:: images_ozols/25631.png
+:scale: 100%
+
+.. |images_ozols/25603.png| image:: images_ozols/25603.png
+:scale: 100%
+
+.. |images_ozols/24944.png| image:: images_ozols/24944.png
+:scale: 100%
+
+.. |images_ozols/25620.png| image:: images_ozols/25620.png
+:scale: 100%
+
+ 

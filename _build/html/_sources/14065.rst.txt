@@ -1,0 +1,18 @@
+.. 14065 ===============================Administratora instrukcijas=============================== 
+
+
+OZOLS sistēmā iebūvētos administrēšanas rīkus var izmantot visu
+galveno administrēšanas funkciju veikšanai:
+
+
++ :doc:`Lietotāju pievienošana un pārvaldība<194>`
++ :doc:`Lietotāju grupu pārvaldība<162>`
++ :doc:`Lietotāju tiesību noteikšanadarba režīmiem<169>`
++ :doc:`Datu rezerves kopiju veikšana<737>`
++ :doc:`Jaunu versiju uzstādīšana<721>`
++ :doc:`Datu bāzes procesu pārvaldībai<735>`
++ :doc:`Paroles maiņa<722>`
++ :doc:`Paroles konfigurācija<163>`
+
+
+ .. toctree::   :maxdepth: 5    14110.rst   14096.rst   14086.rst   14095.rst   14066.rst   14064.rst   14098.rst

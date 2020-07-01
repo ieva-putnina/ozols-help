@@ -3,6 +3,8 @@ Repertuāra atskaitē ir redzami visi konkrētā periodā pievienotie
 :doc:`pasākumi<7303>` . Atskaiti iespējams sagatavot pēc pasākuma
 veida, :doc:`telpas` un perioda:
 
+.. image:: images_ozols/26181.jpg
+:scale: 100%
 
 
 
@@ -12,6 +14,8 @@ Izdrukāt:
 
 
 
+.. image:: images_ozols/26173.jpg
+:scale: 100%
 
 
 

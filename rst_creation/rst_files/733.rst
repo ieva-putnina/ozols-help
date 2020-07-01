@@ -7,6 +7,8 @@ piešķirto lietotājvārdu un paroli):
 
 
 
+.. image:: images_ozols/26354.png
+:scale: 100%
 
 
 

@@ -1,0 +1,124 @@
+.. 649 Līgumu veidi**************** 
+
+
+Sarakstā tiek saglabāti līgumu veidi, kas tiek izmantoti Līgumu
+:doc:`Līguma grupu<653>` nosacījumu aizpildīšanai.
+
+
+
+Jauna Līgumu veida pievienošana:
+++++++++++++++++++++++++++++++++
+
+Lai pievienotu jaunu Līgumu veidu, rīku joslā jānospiež poga
+|images_ozols/24708.png| un tiks atvērts jauns logs:
+
+
+
+|images_ozols/25480.png|
+
+
+
+1. Atvērtajā logā iespējams ierakstīt Līguma veida Nosaukumu.
+
+
+
+2. Nepieciešams norādīt līguma veida algoritmu:
+
+
+
+|images_ozols/25481.png|
+
+
+
+|images_ozols/24545.gif| Izvēloties aprēķina algoritmu - Summas,
+:doc:`Līguma grupas<653>` aprakstā būs iespējams norādīt fiksēto
+maksājuma summu. Izvēloties aprēķina algoritmu - Līzings - Fiksēts
+maksājums, :doc:`Līguma grupas<653>` aprakstā būs iespējams norādīt
+Fiksēto maksājuma summu, kā arī Līzinga procentu likmi.
+
+
+
+3. Jānorāda Līguma veida uzskaites tips:
+
+
+
+|images_ozols/25482.png|
+
+
+
+|images_ozols/24545.gif| Izvēloties Stundu/summu uzskaites tipu -
+Mēnesī - līguma summa tiks uzskaitīta viena mēnešan ietvaros. Uz visu
+līgumu - līgumā noteiktā summa tiks uzskaitīta visa līgumā apjomā.
+
+
+
+4. Līguma veidam iespējams piesaistīt Pakalpojuma veidu, no Norēķinu
+Sarakstos pievienotajiem :doc:`Pakalpojumiem<108>` :
+
+
+
+|images_ozols/25483.png|
+
+
+
+5. Nepieciešams norādīt izrakstāmā :doc:`Pārdošanas dokumenta
+veidu<157>` , kāds tiks sagatavots automatizēti no :doc:`Apmaksas
+plānu žurnāla<645>` ģenerējot Pārdošanas dokumentu:
+
+
+
+|images_ozols/25484.png|
+
+
+
+Ieraksts tiks saglabāts, nospiežot pogu |images_ozols/24710.png| .
+
+
+
+Pievienotā Līguma veida labošana:
++++++++++++++++++++++++++++++++++
+
+Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
+atvērt, izmantojot rīku joslas pogu |images_ozols/24709.png| (ALT+A),
+un atvērtajā logā veikt labojumus.
+
+Pēc labojumu veikšanas, veiktās izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/25480.png| image:: images_ozols/25480.png
+:scale: 100%
+
+.. |images_ozols/25481.png| image:: images_ozols/25481.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/25482.png| image:: images_ozols/25482.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/25483.png| image:: images_ozols/25483.png
+:scale: 100%
+
+.. |images_ozols/25484.png| image:: images_ozols/25484.png
+:scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

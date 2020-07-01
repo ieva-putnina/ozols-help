@@ -1,0 +1,101 @@
+.. 14113 Nodokļu dokumenta datu piemērošana algu aprēķinā**************************************************** 
+
+
+Pievienojot slodzes :doc:`Algu aprēķinu žurnālā<212>` , katram
+strādājošajam (:doc:`Slodzei<207>` ) tiek izveidots algu aprēķins
+:doc:`Algu aprēķinu žurnālā<212>` , kur atverot aprēķinu ir redzams,
+kādas nodokļu likmes un atvieglojumi tiek piemēroti strādājošajam:
+
+
+
+|images_ozols/26264.png|
+
+
+
+Ekrāna formā tiek parādīts, ka atvērtajam algu aprēķinam, piemēram, ir
+noteikts 9.00% sociālais nodoklis darbiniekam, 24.09% darba devēja
+sociālā nodokļa likme, 90.00Ls tiks piemērots kā neapliekamais
+minimums un pārējo atvieglojumu kopsumma ir 0.00Ls.
+Ja blakus periodam neparādās šādi dati, nodokļi un atvieglojumu netiks
+piemēroti. Lai norādītu piemērojamos nodokļus un atvieglojumus:
+
+
+1.Jāatver perioda dati
+
+|images_ozols/26265.png| Perioda dati (F4)
+
+
+2.Jānorāda strādājošā nodokļa dokuments. Nodokļa dokumentā jābūt
+noteiktām sociālā un ienākuma nodokļa aprēķina metodēm:
+
+
+
+|images_ozols/26266.png|
+
+
+
+Ja strādājošajam mainās :doc:`Ienākuma nodokļu metode<222>` ,
+strādājošo ienākumu nodokļu metožu izmaiņas tiek ņemtas vērā līdzko
+izmaiņas stājās spēkā (arī aprēķina perioda vidū):
+
+
+1)Ja strādājošajam mainās ienākuma nodokļu metode, tad sistēmā ir
+jāievada jauns :doc:`Nodokļu dokuments<208>` , kurā būtu norādīta
+jaunā metode ar atbilstošu spēkā stāšanās datumu.
+2)Ja vienā periodā ir spēkā divi vai vairāki nodokļa dokumenti, tad
+ienākuma nodokļu atvieglojumi tiek rēķināti proporcionāli perioda
+kalendāro dienu skaitam, kurā ir spēkā attiecīgais nodokļu dokuments.
+3)Iepriekšējie nodokļu dokumenti ir spēkā līdz nākoša nodokļu
+dokumenta spēkā stāšanās datumam – sistēma automātiski nosaka nodokļu
+dokumentu pēc tā, kurš ir spēkā attiecīgajā periodā:
+
+
+
+|images_ozols/26267.png|
+
+
+
+Ienākuma nodokļa laukā tiek parādīta informācija, kā veidojās ienākuma
+nodokļa atvieglojumi.
+
+
+Kas nozīmē:
+•14 dienas neapliekamais minimums = 90.00 un Atvieglojumi = 0.00
+•16 dienas neapliekamais minimums = 80.00 un Atvieglojumi = 56.00.
+Summāri par periodu tas dod Neapliekamo minimumu = 84.67 un
+Atvieglojumus = 29.87
+
+
+Visiem strādājošajiem nodokļa dokumentu datus var atjaunot noAlgu rīku
+darba režīma - :doc:`Algu aprēķins<498>` , aktivizējot komandu
+Atvērtajā periodā salikt jaunāko info no slodzes aprakstiem:
+
+
+
+|images_ozols/26268.png|
+
+
+No Perioda dati |images_ozols/26265.png| (F4) loga, nospiežot
+komandpogu „Nodokļu dok.” iespējams pievienot jaunu vai labot esošo
+nodokļu dokumentu.
+
+
+.. |images_ozols/26264.png| image:: images_ozols/26264.png
+:scale: 100%
+
+.. |images_ozols/26265.png| image:: images_ozols/26265.png
+:scale: 100%
+
+.. |images_ozols/26266.png| image:: images_ozols/26266.png
+:scale: 100%
+
+.. |images_ozols/26267.png| image:: images_ozols/26267.png
+:scale: 100%
+
+.. |images_ozols/26268.png| image:: images_ozols/26268.png
+:scale: 100%
+
+.. |images_ozols/26265.png| image:: images_ozols/26265.png
+:scale: 100%
+
+ 

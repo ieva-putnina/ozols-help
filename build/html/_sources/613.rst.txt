@@ -11,12 +11,18 @@ Atskaiti var sagatavot pa atsevišķiem aprēķina periodiem,
 struktūrvienībām, var atlasīt datus pēc amatiem, grupēt pēc amatiem
 vai struktūrvienības.
 
+.. image:: images_ozols/26554.png
+:scale: 100%
 
 
 Kopsavilkuma atskaitē faktiskā izpilde un noteiktais plāns netiek
 atšifrēts. Atskaitē parādās kopējais noteiktais budžets amatam,
 faktiski iztērētā summa un aprēķināts atlikums.
 Sagatavoto atskaiti iespējams izdrukāt. Lai atskaiti izdrukātu, rīko
-joslā jānospiež poga (Ctrl+P), un poga
+joslā jānospiež poga .. image:: images_ozols/24944.png
+:scale: 100%
+(Ctrl+P), un poga .. image:: images_ozols/25620.png
+:scale: 100%
+
 
  

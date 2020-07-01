@@ -7,14 +7,21 @@ Valūtu saraksts tiek izmantots :doc:`jauna Avansu dokumenta<747>` ,
 veidu<105>` , :doc:`Partneru<312>` , :doc:`Pamatlīdzekļu ienākšanas
 dokumentu<433>` un :doc:`Virsgrāmatas<146>` dokumentu izveidē.
 
-Lai apskatītu detalizētu Valūtas aprakstu, Rīku joslā jānospiež poga .
+Lai apskatītu detalizētu Valūtas aprakstu, Rīku joslā jānospiež poga
+.. image:: images_ozols/25420.png
+   :scale: 100%
+.
 
-Lai pievienotu jaunu Valūtu sarakstam, Rīku joslā jānospiež poga ,
-tiek atvētrs logs, kur katrā tekstlodziņā jāieraksta informācija par
+Lai pievienotu jaunu Valūtu sarakstam, Rīku joslā jānospiež poga ..
+image:: images_ozols/25417.png
+   :scale: 100%
+, tiek atvētrs logs, kur katrā tekstlodziņā jāieraksta informācija par
 valūtu (piem. skatīt attēlu):
 
 
 
+.. image:: images_ozols/25383.png
+   :scale: 100%
 
 
 
@@ -26,10 +33,15 @@ Nosaukums: Valūtas pilns nosaukums;
 Vienības, Daļas: Iespējams norādīt Vienību un un Daļu precīzu
 locījumu;
 
-Atzīmējot izvēles rūtiņu : dokumentu izveidē šī Valūta nebūs pieejama;
+Atzīmējot izvēles rūtiņu .. image:: images_ozols/25428.png
+   :scale: 100%
+: dokumentu izveidē šī Valūta nebūs pieejama;
 
 Pamatvalūta - Valsts pamatvalūta.
 
-Pēc tekstlodziņu aizpildīšanas, jānospiež poga .
+Pēc tekstlodziņu aizpildīšanas, jānospiež poga.. image::
+images_ozols/24615.jpg
+   :scale: 100%
+.
 
  

@@ -5,6 +5,8 @@
 
 
 
+.. image:: images_ozols/26352.png
+:scale: 100%
 
 
 

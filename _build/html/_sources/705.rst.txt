@@ -1,0 +1,9 @@
+.. 705 Katalogi************ Kataloga konfigurācijā var norādīt uzziņas un palīdzības sistēmas
+faila atrašanās vietu.
+
+
+
+**Palīgs
+**Jānorāda uzziņas un palīdzības sistēmas faila atrašanās vieta.
+
+ 

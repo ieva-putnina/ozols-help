@@ -3,10 +3,15 @@ Mēģinājumu kopsavilkuma atskaitē ir redzami visi pievienotie un
 apstiprinātie mēģinājumi (:doc:`darbības<7307>` ). Mēģinājumu
 kosavilkuma atskaiti iespējams sagatavot pēc konkrētiem kritērijiem
 (filtra parametriem). Lai sagatavotu atskaiti, ja nepieciešmas,
-jānorāda kāds no atlasīšanas kritērijiem un jānospiež poga :
+jānorāda kāds no atlasīšanas kritērijiem un jānospiež poga .. image::
+images_ozols/26172.jpg
+:scale: 100%
+:
 
 
 
+.. image:: images_ozols/26170.jpg
+:scale: 100%
 
 
 Iespējams atlasīt mēģinājumus pēc viena konkrēta :doc:`Pasākuma<7312>`
@@ -18,6 +23,8 @@ mēģinājumu skaits:
 
 
 
+.. image:: images_ozols/26171.jpg
+:scale: 100%
 
 
 
@@ -25,6 +32,8 @@ mēģinājumu skaits:
 Aktivizējot katru kolonnas virsrakstu, parādās saīsinātā darbības
 nosaukuma atšifrējums (pilns nosaukums).
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Mēģinājuma kopsavilkumā ir redzami tikai apstiprinātie mēģinājumi
 (:doc:`darbības<7307>` ).
 
@@ -33,6 +42,8 @@ Mēģinājuma kopsavilkumā ir redzami tikai apstiprinātie mēģinājumi
 Kopsavilkumu iespējams izdrukāt, nospiežot uz saraksta funkciju izvēli
 un izvēloties Izdrukāt:
 
+.. image:: images_ozols/26173.jpg
+:scale: 100%
 
 
  

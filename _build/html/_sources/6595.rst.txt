@@ -1,0 +1,2 @@
+.. 6595 =================Konfigurācija================= 
+ .. toctree::   :maxdepth: 5    6596.rst

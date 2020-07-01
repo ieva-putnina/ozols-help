@@ -1,0 +1,22 @@
+.. 4428 Kontaktpersonas******************* 
+Kontaktpersonu sarakstā tiek saglabāti visi
+:doc:`kontaktpersonu<4438>` pievienotie dati.
+
+
+
+|images_ozols/25877.png|
+
+
+
+
+
+Kontaktpersonu sarakstā, nospiežot pogu |images_ozols/25831.png| ,
+iespējams :doc:`pievienot jaunu kontaktpersonu<4438>` .
+
+.. |images_ozols/25877.png| image:: images_ozols/25877.png
+:scale: 100%
+
+.. |images_ozols/25831.png| image:: images_ozols/25831.png
+:scale: 100%
+
+ 

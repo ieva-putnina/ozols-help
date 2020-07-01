@@ -9,6 +9,8 @@ Tiks atvērts izmaksu saraksta virsraksts:
 
 
 
+.. image:: images_ozols/26251.png
+:scale: 100%
 
 
 
@@ -60,7 +62,9 @@ manuāli.
 
 
 Pēc izmaksu saraksta aizpildīšanas, sarakstu nepieciešams saglabāt,
-nospiežot pogu: .
+nospiežot pogu: .. image:: images_ozols/25621.png
+:scale: 100%
+.
 
 
  

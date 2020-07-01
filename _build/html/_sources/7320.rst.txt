@@ -1,0 +1,28 @@
+.. 7320 Repertuārs************** 
+Repertuāra atskaitē ir redzami visi konkrētā periodā pievienotie
+:doc:`pasākumi<7303>` . Atskaiti iespējams sagatavot pēc pasākuma
+veida, :doc:`telpas` un perioda:
+
+|images_ozols/26181.jpg|
+
+
+
+Sagatavoto atskaiti iespējams izdrukāt, izvēloties Saraksta funkciju
+Izdrukāt:
+
+
+
+|images_ozols/26173.jpg|
+
+
+
+No repertuāra atskaites, aktivzējot repertuāra nosaukumu, iespējams
+atvērt :doc:`notikuma aprakstu<7308>` .
+
+.. |images_ozols/26181.jpg| image:: images_ozols/26181.jpg
+:scale: 100%
+
+.. |images_ozols/26173.jpg| image:: images_ozols/26173.jpg
+:scale: 100%
+
+ 

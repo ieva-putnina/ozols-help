@@ -9,15 +9,22 @@ visbiežāk pamato naudas kustību, piemēram čeks, kvīts un tmldz.
 JaunaKases pielikumasarakstapievienošana:
 +++++++++++++++++++++++++++++++++++++++++
 
-Lai pievienotu jaunuKases pielikumusarakstu,rīku joslā jānospiež poga
+Lai pievienotu jaunuKases pielikumusarakstu,rīku joslā jānospiež
+poga.. image:: images_ozols/24708.png
+:scale: 100%
 un tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/24660.jpg
+:scale: 100%
 
 
 Laukā Nosaukums, nepieciešams ierakstīt Kases pielikuma nosaukumu.
-Ieraksts tiks saglabāts, izpildot komandu .
+Ieraksts tiks saglabāts, izpildot komandu .. image::
+images_ozols/24615.jpg
+:scale: 100%
+.
 
 
 
@@ -25,10 +32,16 @@ Pievienotā Kases pielikumu sarakstalabošana:
 ++++++++++++++++++++++++++++++++++++++++++++
 
 Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
-atvērt, izmantojot rīku joslas pogu (ALT+A), unatvērtajā logā nomainīt
-Nosaukumu.
+atvērt, izmantojot rīku joslas pogu.. image:: images_ozols/24709.png
+:scale: 100%
+(ALT+A), unatvērtajā logā nomainīt Nosaukumu.
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
 
 

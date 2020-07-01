@@ -12,11 +12,15 @@ rīcībā esošos :doc:`Banku kontus<141>` , kasnodrošina iespēju attēlot
 JaunasBankas konta grupaspievienošana
 `````````````````````````````````````
 
-Lai pievienotu jaunuBankas kontu grupu,rīku joslā jānospiež poga un
-tiks atvērts jauns logs:
+Lai pievienotu jaunuBankas kontu grupu,rīku joslā jānospiež poga..
+image:: images_ozols/24708.png
+:scale: 100%
+un tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/25937.png
+:scale: 100%
 
 
 
@@ -25,17 +29,24 @@ Nosaukums: Jāpiešķir bankas konta grupas nosaukums
 
 
 
-Izmantojot pogu , bankas konta grupai nepieciešams piesaistīt
-atbilstošos uzņēmuma:doc:` <141>` :doc:`Banku kontus<141>` , norādot
-bankas konta attēlošanas secību :doc:`Pārdošanas dokumenta<304>`
-izdrukā (Rinda: 1, 2, 3,utt.)
+Izmantojot pogu .. image:: images_ozols/24708.png
+:scale: 100%
+, bankas konta grupai nepieciešams piesaistīt atbilstošos
+uzņēmuma:doc:` <141>` :doc:`Banku kontus<141>` , norādot bankas konta
+attēlošanas secību :doc:`Pārdošanas dokumenta<304>` izdrukā (Rinda: 1,
+2, 3,utt.)
 
 
 
-Ieraksts tiks saglabāts, izpildot komandu .
+Ieraksts tiks saglabāts, izpildot komandu .. image::
+images_ozols/24710.png
+:scale: 100%
+.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Lai Pārdošanas dokumenta izdrukā - uzņēmuma rekvizītu daļā,tiktu ņemti
 dati no izveidotās bankas kontu grupas, pievienoto grupu nepieciešams
 norādītKonfigurācija->Lietotāji->:doc:`Uzņēmumi<188>` ->Atvērt
@@ -44,13 +55,17 @@ grupu:
 
 
 
+.. image:: images_ozols/25939.png
+:scale: 100%
 
 
 
 
-Nospiežot pogu , dati tiks saglabāti un Pārdošanas dokumenta izdrukā,
-Pie pārdevēja rekvizītiem tiks uzrādīti tie uzņēmuma bankas konti, kas
-pievienoti norādītajai grupai.
+Nospiežot pogu.. image:: images_ozols/24710.png
+:scale: 100%
+, dati tiks saglabāti un Pārdošanas dokumenta izdrukā, Pie pārdevēja
+rekvizītiem tiks uzrādīti tie uzņēmuma bankas konti, kas pievienoti
+norādītajai grupai.
 
 
 

@@ -10,9 +10,13 @@ mērvienību.
 Uzrēķini var tikt uzskaitīti pa Noliktavām un grupēti,
 izmantojot:doc:`Grupu<148>` sarakstu.
 
-Lai pievienotu jaunu Uzrēķina aprakstu, rīku joslā jānospiež poga un
-tiks atvērts jauns logs, kur jāaizpilda nepieciešamie lauki:
+Lai pievienotu jaunu Uzrēķina aprakstu, rīku joslā jānospiež poga ..
+image:: images_ozols/24708.png
+:scale: 100%
+un tiks atvērts jauns logs, kur jāaizpilda nepieciešamie lauki:
 
+.. image:: images_ozols/26502.png
+:scale: 100%
 
 **
 Tips: **pazīme, kas norāda, ka tas ir uzrēķins; ****
@@ -31,6 +35,11 @@ noklusēto iestādījumu [grupas] - šajā gadījumā fin.kat.tiks
 piesaistīta tāda, kāda definēta uzrēķinam piesaistītajai
 :doc:`Grupai<148>` .
 
-Pēc datu aizpildīšanas, uzrēķina aprakstu iespējams vai .
+Pēc datu aizpildīšanas, uzrēķina aprakstu iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai.. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
  

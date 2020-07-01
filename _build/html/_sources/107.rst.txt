@@ -1,0 +1,112 @@
+.. 107 Nomenklatūras atlikumi perioda sākumā***************************************** 
+
+
+
+Šajā sadaļā tiek parādīti visi ievadītie nomenklatūras atlikumi uz
+perioda sākumu.
+
+Lai atlasītu nomenklatūras atlikumus uz perioda sākumu, sadalījumā par
+:doc:`Noliktavām<142>` , jāizmanto datu atlases filtrs. Dati uz ekrāna
+tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
+ekrāna formā. Ja filtrā izvēlēta konkrēta Noliktava, tad tiks atlasīti
+nomenklatūras atlikumi perioda sākumā tikai šajā Noliktavā. Filtru var
+uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot
+nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus.
+
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves.
+
+
+
+Nomenklatūras atlikumi jāpievieno tikai vienu reizi, uzsākot darbu ar
+programmu.
+
+
+Nomenklatūras atlikumu pievienošana
+```````````````````````````````````
+
+Nomenklatūras atlikuma pievienošana, izmantojot rīku joslas pogu
+"Pievienot" un aizpildot apraksta ekrāna formu, nodrošina vienas
+nomenklatūrasatlikumapievienošanu datu bāzē. AtrodotiesNomenklatūras
+atlikumi perioda sākumā - žurnālā, rīku joslā nospiežot pogu
+|images_ozols/24708.png| , tiks atvērta ekrāna forma:
+
+
+
+|images_ozols/25339.png|
+
+
+
+Izvēloties atbilstošo:doc:`Noliktavu<142>` no saraksta, iespējams
+ievadīt nomenklatūras atlikumus perioda sākumā - norādot atbilstošo
+perioda sākuma atlikuma daudzumu, kopējo atlikuma summu un atbildīgo
+personu.
+
+
+
+Ja Noliktavas uzskaitē tiek izmantotas dimensijas – struktūrvienība,
+finanšu kategorija u.c., arī Nomenklatūras atlikumu pievienošanai
+perioda sākumā, nepieciešams norādīt izmantojamās dimensijas.
+
+Atzīmējot izvēles rūtiņu "Dimensijas", nomenklatūras sākuma atlikumiem
+iespējams norādīt atbilstošās sākuma atlikumu dimensijas -
+struktūrvienību, kurā šis krājums/prece ir atlikumā; Ek.kods, u.c.
+
+
+
+|images_ozols/25329.png|
+
+
+
+Pēc datu aizpildīšanas, nomenklatūrasatlikumu perioda sākumā iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+
+Datu labošana pievienotajos nomenklatūras atlikumos
+```````````````````````````````````````````````````
+
+Labojumus saglabātajos ierakstosiespējams veikt atverotnomenklatūras
+atlikuma ierakstu, kurš pieejams apskatei/labošanai Dokumentu
+sarakstā::doc:`Nomenklatūras atlikumi perioda sākumā<107>` . Lai
+labotu pievienotos atlikumus, jāizmanto komandpoga
+|images_ozols/24709.png| (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus ekrāna formā: Nomenklatūras atlikums
+perioda sākumā.
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+:doc:`<107>`
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/25339.png| image:: images_ozols/25339.png
+:scale: 100%
+
+.. |images_ozols/25329.png| image:: images_ozols/25329.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

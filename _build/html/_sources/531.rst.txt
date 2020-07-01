@@ -1,0 +1,22 @@
+.. 531 Saraksts...*************** 
+
+
+Sarakstā tiek saglabātas izveidotās atskaites:
+
+
+
+:doc:`Bilance<562>`
+
+:doc:`Naudas plūsmas pārskats<561>`
+
+:doc:`Pārskats par pavadzīmju numuru izlietojumu<594>`
+
+:doc:`Peļņas vai zaudējumu aprēķins<556>`
+
+:doc:`PVN mēneša deklarācija<532>`
+
+:doc:`PVN: pārskats par priekšnodokļa summām<533>`
+
+:doc:`PVN: pārskats par priekšnodokļa summām ES<535>`
+
+ 

@@ -15,9 +15,13 @@ Lai dokumentu kopētu:
 
 2) jākopē dokuments, izmantojot šādas iespējas:
 
-- komandu no rīku joslas
+- komandu.. image:: images_ozols/24775.png
+:scale: 100%
+no rīku joslas
 
-- komandu no izvēlnes Dati
+- komandu.. image:: images_ozols/24773.png
+:scale: 100%
+no izvēlnes Dati
 
 - nospiežot peles labo pogu un izvēloties komandu "Kopēt"
 

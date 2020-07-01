@@ -21,6 +21,8 @@ parametri, pēc kādiem atskaite tiks sagatavota:
 
 
 
+.. image:: images_ozols/25065.png
+:scale: 100%
 
 
 
@@ -36,6 +38,8 @@ ievadot datumus manuāli:
 
 
 
+.. image:: images_ozols/25046.png
+:scale: 100%
 
 
 4. Ja vienā Ozols datu bāzē tiek veikta grāmatvedības uzskaite
@@ -44,15 +48,21 @@ datiem atskaite tiks sagatavota:
 
 
 
+.. image:: images_ozols/25047.png
+:scale: 100%
 
 
 
 
-6. Atskaiti iespējamssagatavot, nospiežot pogu . Pēc pogas Sagatavot
-nospiešanas, parādīsies paziņojums:
+6. Atskaiti iespējamssagatavot, nospiežot pogu .. image::
+images_ozols/25049.png
+:scale: 100%
+. Pēc pogas Sagatavot nospiešanas, parādīsies paziņojums:
 
 
 
+.. image:: images_ozols/25066.png
+:scale: 100%
 
 
 
@@ -63,19 +73,25 @@ sagatavota tukša!):
 
 
 
+.. image:: images_ozols/25068.png
+:scale: 100%
 
 
 
 
 7. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
 sarakstā<531>` , kur tā būs pieejama labošanai/drukāšanai, nospiežot
-pogu: .
+pogu: .. image:: images_ozols/25054.png
+:scale: 100%
+.
 
 
 
-8. Nospiežot pogu atskaite sagatavota netiks un darbība tiks atcelta.
-Ja atskaite tiek izveidota un nav jāsaglabā, jālieto komanda Atcelt .
-Ja atskaite ir saglabāta sarakstā, komandu Atcelt var izmantot, lai
-nesaglabātu atskaitē veiktās izmaiņas.
+8. Nospiežot pogu .. image:: images_ozols/24617.jpg
+:scale: 100%
+atskaite sagatavota netiks un darbība tiks atcelta. Ja atskaite tiek
+izveidota un nav jāsaglabā, jālieto komanda Atcelt . Ja atskaite ir
+saglabāta sarakstā, komandu Atcelt var izmantot, lai nesaglabātu
+atskaitē veiktās izmaiņas.
 
  

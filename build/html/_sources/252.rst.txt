@@ -14,11 +14,15 @@ Kultūras un citu pasākumu ieejas biļešupievienošana, izmantojot rīku
 joslas komandpogu "Pievienot" un aizpildot Kultūras un citu pasākumu
 ieejas biļešu ekrāna formu, nodrošina vienasbiļešu
 grāmatiņaspievienošanu datu bāzē. AtrodotiesKultūras un citu pasākumu
-ieejas biļešu žurnālā, rīku joslā nospiežot komandpogu , tiks
-atvērtaKultūras un citu pasākumu ieejas biļetesekrāna forma:
+ieejas biļešu žurnālā, rīku joslā nospiežot komandpogu.. image::
+images_ozols/24708.png
+:scale: 100%
+, tiks atvērtaKultūras un citu pasākumu ieejas biļetesekrāna forma:
 
 
 
+.. image:: images_ozols/25014.png
+:scale: 100%
 
 
 
@@ -49,6 +53,8 @@ Kultūras un citu pasākumu ieejas biļešužurnālā ir izveidotas
 funkcijas:
 
 
+.. image:: images_ozols/24983.png
+:scale: 100%
 
 
 
@@ -66,13 +72,17 @@ biļetes;
 
 Uzņēmuma rīcībā esošāsieejas biļetes jāpievienoKultūras un citu
 pasākumu ieejas biļešu žurnālā.Ieejas biļešu grāmatiņupakas
-pievienošanai, nepieciešams izvēlētiesfunkciju , kasnodrošina
-vairākuIeejas biļešugrāmatiņuvienlaicīgu pievienošanu datu bāzē.
-Norādot grāmatiņu skaitu unsākuma numuru, tiek automātiski uzģenerēts
-norādītais skaits ieejs biļešu grāmatiņu:
+pievienošanai, nepieciešams izvēlētiesfunkciju .. image::
+images_ozols/25007.png
+:scale: 100%
+, kasnodrošina vairākuIeejas biļešugrāmatiņuvienlaicīgu pievienošanu
+datu bāzē. Norādot grāmatiņu skaitu unsākuma numuru, tiek automātiski
+uzģenerēts norādītais skaits ieejs biļešu grāmatiņu:
 
 
 
+.. image:: images_ozols/25015.png
+:scale: 100%
 
 
 
@@ -93,12 +103,15 @@ Pakas numurs no - iespēja norādīt pakas numuru, no kuras tiks
 turpināta pārējo grāmatiņu secīga numerācija pēc kārtas.
 
 
-Pēc visu nepieciešamo lauku aizpildīšanasnospiežot pogu -dokuments
-tiks saglabāts un būs pieejams apskatei/labošanai :doc:`Kultūras un
-citu pasākumu ieejas biļešu žurnālā<252>` .
+Pēc visu nepieciešamo lauku aizpildīšanasnospiežot pogu .. image::
+images_ozols/24615.jpg
+:scale: 100%
+-dokuments tiks saglabāts un būs pieejams apskatei/labošanai
+:doc:`Kultūras un citu pasākumu ieejas biļešu žurnālā<252>` .
 
-Nospiežot pogu , darbība tiks atcelta unieejas biļetes netiks
-pievienotas datu bāzei.
+Nospiežot pogu .. image:: images_ozols/24875.png
+:scale: 100%
+, darbība tiks atcelta unieejas biļetes netiks pievienotas datu bāzei.
 
 
 
@@ -108,15 +121,21 @@ pievienotas datu bāzei.
 ++++++++++++++++++++++++++++
 
 IzvēlotiesKultūras un citu pasākumu ieejas biļešužurnālāpieejamo
-funkciju , iespēja atvērt Ieņēmumu dokumentu - :doc:`Kases ieņēmumu
+funkciju .. image:: images_ozols/25008.png
+:scale: 100%
+, iespēja atvērt Ieņēmumu dokumentu - :doc:`Kases ieņēmumu
 orderi<350>` , kuram izvēlētās ieejas biļetes ir piesaistītas:
 
 
 
+.. image:: images_ozols/25016.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Instrukcija: :doc:`Kultūras un citu ieejas biļešu piesaistīšana kases
 ieņēmumu orderim<14112>`
 
@@ -128,10 +147,17 @@ Pievienoto Kultūras un citu pasākumu ieejas biļešu labošana
 Labojumus saglabātajādokumentā iespējams veikt atverotIeejas biļetes
 aprakstu, kurš pieejams apskatei/labošanai :doc:`Kultūras un citu
 pasākumu ieejas biļešu žurnālā<252>` . Lai labotu pievienoto ierakstu,
-Kultūras un citu pasākumu ieejas biļešu žurnālā jāizmanto komandpoga
+Kultūras un citu pasākumu ieejas biļešu žurnālā jāizmanto komandpoga..
+image:: images_ozols/24709.png
+:scale: 100%
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus.
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
 
 

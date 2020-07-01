@@ -1,0 +1,38 @@
+.. 697 Nomenklatūru analogi************************ 
+
+
+Nomenklatūras kartiņas aprakstu iespējams papildināt, norādot
+nomenklatūras analogus - kartiņai piesaistot līdzīgās preces, ar
+kurām, vajadzības gadījumā, iespējams aizviet šo preci, ja tā uz doto
+brīdi nav atlikumā Noliktavā.
+
+Sarakstā tiek attēlotas nomenklatūras un tām piesaistītie
+nomenklatūras analogu nosaukumi.
+
+Lai esošo sarakstu papildinātu, rīku joslā nospiežot pogu:
+|images_ozols/24708.png| , iespējams pievienot Analogas nomenklatūras
+esošajām kartiņām:
+
+
+
+|images_ozols/25332.png|
+
+
+
+Pēc datu aizpildīšanas,Nomenklatūras kartiņai piesaistītās
+Analogāsnomenlatūras,iespējams |images_ozols/24615.jpg| vai
+|images_ozols/24617.jpg| .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/25332.png| image:: images_ozols/25332.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

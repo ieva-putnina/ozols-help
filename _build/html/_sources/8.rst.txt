@@ -1,0 +1,9 @@
+.. 8 ============Saraksti============ 
+
+
+Algusarakstos nepieciešams pievienot uzņēmumā izmantotos :doc:`Izmaksu
+sarakstu veidus<280>` , kā arī pieejams :doc:`Dzīvesvietu kodu<125>`
+saraksts, kuru pēc vajadzības, lietotājam iespējams papildināt, veicot
+nepieciešamās korekcijas.
+
+ .. toctree::   :maxdepth: 5    125.rst   280.rst

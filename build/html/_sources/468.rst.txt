@@ -20,6 +20,8 @@ atvērts jauns logs:
 
 
 
+.. image:: images_ozols/24987.png
+:scale: 100%
 
 
 
@@ -38,6 +40,8 @@ izpildīts:
 
 
 
+.. image:: images_ozols/24724.png
+:scale: 100%
 
 
 
@@ -46,6 +50,8 @@ izpildīts:
 
 
 
+.. image:: images_ozols/24725.png
+:scale: 100%
 
 
 
@@ -55,6 +61,8 @@ Dokumenta summu:
 
 
 
+.. image:: images_ozols/24726.png
+:scale: 100%
 
 
 
@@ -64,6 +72,8 @@ Dokumenta summu:
 
 
 
+.. image:: images_ozols/24749.png
+:scale: 100%
 
 
 
@@ -80,6 +90,8 @@ subkontu:
 
 
 
+.. image:: images_ozols/24750.png
+:scale: 100%
 
 
 
@@ -87,19 +99,28 @@ Bankas budžeta maksājuma uzdevumaSatura aizpildīšana
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu Bankas budžeta maksājuma uzdevuma Saturu, dokumenta
-satura daļā nepieciešams nospiest un tiks atvērts operācijas satura
-logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā
-izmantotās dimensijas) un norādīt satura ieraksta summu:
+satura daļā nepieciešams nospiest .. image:: images_ozols/24708.png
+:scale: 100%
+un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
+satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
+ieraksta summu:
+
+
+
+.. image:: images_ozols/24751.png
+:scale: 100%
 
 
 
 
-
-
-
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
 kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
-satura ierakstu iespējams, satura daļā nospiežot pogu .
+satura ierakstu iespējams, satura daļā nospiežot pogu .. image::
+images_ozols/24708.png
+:scale: 100%
+.
 
 
 
@@ -116,6 +137,8 @@ manuāli vai izvēloties no :doc:`Bankas paskaidrojumu saraksta<147>` :
 
 
 
+.. image:: images_ozols/24752.png
+:scale: 100%
 
 
 
@@ -127,6 +150,8 @@ summu:
 
 
 
+.. image:: images_ozols/24753.png
+:scale: 100%
 
 
 
@@ -139,6 +164,8 @@ elektronisko norēķinu sistēmu:
 
 
 
+.. image:: images_ozols/24733.png
+:scale: 100%
 
 
 
@@ -158,16 +185,23 @@ Budžeta maksājumu uzdevuma starpbankas datu aizpildīšana
 Bankas izdevumu dokumentiem iespējams aizpildīt datus par starpbanku,
 Maksājuma uzdevuma logā aktivizējot izvēli Starpbanka:
 
+.. image:: images_ozols/24732.png
+:scale: 100%
 
 
 Kad visi nepieciešamie lauki ir aizpildīti, Bankas budžetamaksājuma
 uzdevums ir sagatavots un to ir iespējams:
 
-1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
+1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
+:scale: 100%
+-dokuments tiks saglabāts un būs pieejams
 apskatei/labošanai/grāmatošanai :doc:`Bankas izdevumu žurnālā<224>` .
 
-2. Apstiprināt, nospiežot rīku joslā pogu - Bankas budžeta maksājuma
-uzdevums tiks Apstiprināts un to būs iespējams Grāmatot.
+2. Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+:scale: 100%
+- Bankas budžeta maksājuma uzdevums tiks Apstiprināts un to būs
+iespējams Grāmatot.
 
 
 Bankas budžeta maksājuma uzdevuma grāmatošana
@@ -178,10 +212,15 @@ budžeta maksājuma uzdevuma dokumenta vai izvēloties
 (iezīmējot)dokumentu :doc:`Bankas izdevumu žurnālā<224>` .
 
 Lai iegrāmatotu Bankas budžeta maksājuma uzdevumu, dokumentu
-nepieciešams Apstiprināt, nospiežot rīku joslā pogu .
+nepieciešams Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+:scale: 100%
+.
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu .
+pogu .. image:: images_ozols/24741.png
+:scale: 100%
+.
 
 
 
@@ -194,14 +233,23 @@ Pievienotā Bankasbudžeta maksājuma uzdevumalabošana
 Labojumus saglabātajādokumentā iespējams veikt atverot Bankas budžeta
 maksājuma uzdevumu, kurš pieejams apskatei/labošanai :doc:`Bankas
 izdevumu žurnālā<224>` .Lai veiktu labojumusBankas budžeta maksājuma
-uzdevumā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
+uzdevumā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu..
+image:: images_ozols/24709.png
+:scale: 100%
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 
 
 
+.. image:: images_ozols/24754.png
+:scale: 100%
 
 
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
  

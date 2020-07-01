@@ -25,6 +25,8 @@ un ieliktam ķeksītim - Automātiski sūtīt rēķinus un apmaksas
 atgādinātājus pa e-pastu:
 
 
+:scale: 100%
+
 
 
 
@@ -37,10 +39,14 @@ ir norādīta korespondējošā e-pasta adrese.
 
 
 Lai to izdarītu, :doc:`Pārdošanas dokumentu žurnālā<204>` nepieciešams
-pievienot papildus kolonnu e-pasts, rīku joslā nospiežot pogu :
+pievienot papildus kolonnu e-pasts, rīku joslā nospiežot pogu
+:scale: 100%
+:
 
 
 
+
+:scale: 100%
 
 
 
@@ -51,6 +57,8 @@ nosūtīts:
 
 
 
+:scale: 100%
+
 
 
 
@@ -59,6 +67,8 @@ būs iespējams nosūtīt uz norādīto e-pastu:
 
 
 
+
+:scale: 100%
 
 
 
@@ -101,10 +111,14 @@ veida, Datuma, Termiņa vai citiem):
 
 
 
+:scale: 100%
 
 
 
-Laivajadzīgie dati tiktu atlasīti,jānospiež poga .
+
+Laivajadzīgie dati tiktu atlasīti,jānospiež poga
+:scale: 100%
+.
 
 
 
@@ -118,6 +132,8 @@ iezīmēšanas komandu, lai atzīmētu rēķinus, kurus sūtīt uz e-pastu:
 vai
 
 2. :doc:`Rīku<14051>` joslā uzspiežot uz Multi iezīmēšanas ikonas
+:scale: 100%
+
 
 
 
@@ -129,11 +145,14 @@ izmantot klavitatūras taustiņu Shift.
 
 
 Atzīmējot attiecīgos dokumentus, kuriem ir e-pasta adrese un kurus ir
-nepieciešams izsūtīt, :doc:`rīku<14051>` joslā jānospiež poga un
-jāizvēlas funkcija:atlasīto/iezīmēto dokumentu sūtīšana pa e-pastu.
+nepieciešams izsūtīt, :doc:`rīku<14051>` joslā jānospiež poga
+:scale: 100%
+un jāizvēlas funkcija:atlasīto/iezīmēto dokumentu sūtīšana pa e-pastu.
 
 
 
+
+:scale: 100%
 
 
 
@@ -145,16 +164,22 @@ norādīts e-pasts:
 
 
 
+:scale: 100%
 
 
 
+
+
+:scale: 100%
 Obligāti aizpildāmais logs ir No kā - ja šis logs nebūs aizpildīts,
 tad programmu e-pastu nosūtīt neļaus.
 
 
 
 Ja logs No kā ir aizpildīts, tade-pastu nosūtīšanai
-nepieciešamsnospiest pogu .
+nepieciešamsnospiest pogu
+:scale: 100%
+.
 
 
 
@@ -163,6 +188,8 @@ rēķinus Partneriem, piedāvājot iespēju apskatīt vēstules:
 
 
 
+
+:scale: 100%
 
 
 

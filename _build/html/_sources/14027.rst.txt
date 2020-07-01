@@ -1,0 +1,16 @@
+.. 14027 Atlīdzību daļa****************** 
+
+
+Atlīdzības daļas darbinieki:
+
+
++ ievada CSNRZRS informāciju par CSNg;
++ ievada CSNRZRS Zaudējuma pieteikumu(us), kas attiecas uz ceļu
+  satiksmes negadījumu. Zaudējuma pieteikums ir Atlīdzību lieta;
++ pieņem un ievada sistēmā lēmumu par atlīdzības izmaksu Atlīdzības
+  lietā;
++ iesniedz :doc:`Finanšu daļā<14028>` pieņemto lēmumu par atlīdzības
+  izmaksu Atlīdzības lietā.
+
+
+ 

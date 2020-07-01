@@ -1,0 +1,90 @@
+.. 5041 Budžeta projekts******************** 
+Budžeta pieprasījumu izskatīšanas rīks ir pieejams lietotājiem, kuriem
+lietotāju kontā ir norādītas tiesības veikt budžeta pieprasījumu
+izskatīšanu.
+
+
+
+Pirms jauna budžeta pieprasījuma saņemšanas, lietotājam uz noradīto
+korespondējošo e-pasta adresi tiek nosūtīts paziņojums par jauna
+Budžeta pieprasījuma saņemšanu.
+
+
+
+Budžeta pieprasījum izskatīšanai tiek atvērts konkrētais pieprasījuma
+dokuments no pieprasījumu saraksta:
+
+
+
+|images_ozols/26330.png|
+
+
+
+1. Atverot dekumentu, iespējams veikt korekcijas pieprasītajās summās
+un, pēc komentāru pievienošanas, jānospiež poga Izskatīts:
+
+
+
+|images_ozols/26317.png|
+
+
+
+Pēc Izskatīšanas, pieprasījums ar informatīvu e-pastu, tiek nosūtīts
+budžeta pieprasītājam komentēšanai.
+
+
+
+2. Pēc budžeta pieprasītāja komentēšanas, budžetu izskatītājs saņem
+informatīvu e-pastu un komentētu budžeta pieprasījumu, kurā ar rozā
+fonu ir atzīmēti komentāri:
+
+
+
+|images_ozols/26319.png|
+
+
+
+3. Pēc komentāru saņemšanas pieprasījumu izskatītājs veic precizējumus
+un apstiprina pieprasījumu. Pēc precizējumu veikšanas, pieprasījums
+netiek nosūtīts pieprasītājam, bet tiek apstiprināts ar konkrētām
+summām:
+
+
+
+|images_ozols/26326.png|
+
+
+
+4. Pēc apstiprināšanas, pieprasītājs var redzēt precizētos labojumus
+un statusu maiņu. Pēc apstiprināšanas budžeta pieprasījums stājas
+spēkā, pamatojoties uz konkrētu rīkojuma dokumenta veidu, konkrētā
+datumā:
+
+
+
+|images_ozols/26328.png|
+
+
+
+Lai apstiprinātu stāšanās spēkā norādīto informāciju, jānospiež poga
+Apstiprināt. Lai atceltu darbību-poga Atcelt.
+
+Saglabātie budžeta pieprasījumi ir pieejami :doc:`budžeta pieprasījumu
+žurnālā<5035>` un budžeta plānošanas :doc:`atskaitēs<5042>` .
+
+.. |images_ozols/26330.png| image:: images_ozols/26330.png
+:scale: 100%
+
+.. |images_ozols/26317.png| image:: images_ozols/26317.png
+:scale: 100%
+
+.. |images_ozols/26319.png| image:: images_ozols/26319.png
+:scale: 100%
+
+.. |images_ozols/26326.png| image:: images_ozols/26326.png
+:scale: 100%
+
+.. |images_ozols/26328.png| image:: images_ozols/26328.png
+:scale: 100%
+
+ .. toctree::   :maxdepth: 4    6660.rst   6661.rst   6659.rst   6662.rst

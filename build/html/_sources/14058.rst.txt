@@ -6,6 +6,8 @@ kontu no konta plāna vai noklusēto konta vērtību:
 
 
 
+.. image:: images_ozols/25125.png
+:scale: 100%
 
 
 

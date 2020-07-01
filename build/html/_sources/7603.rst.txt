@@ -1,2 +1,2 @@
-.. 7603 Paziņojumi============== .. role:: raw-html(raw)     :format: html
+.. 7603 Paziņojumi============== 
  

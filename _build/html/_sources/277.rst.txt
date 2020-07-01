@@ -1,0 +1,23 @@
+.. 277 Rīkojumu veidu ieejošo datu konfigurācija********************************************* 
+
+
+Rīkojumu veidu ieejošo kodu konfigurācija nosaka, kādi dati tiks
+pievienoti strādājošā kalendāram, ja tiks izveidots noteikts rīkojuma
+veids.
+
+
+
+Rīkojuma veids Ieejošais kods Pieņemšana darbā KavDD Pieņemšana darbā
+- pensionāri KavDD Pieņemšanas darbā – I vai II grupas invalīdi KavDD
+Slimības apmaksa SD Ikgadējais atvaļinājums AtvD Papildus atvaļinājums
+- izņemšana PapAtvD Papildus atvaļinājums - piešķiršana PapAtvD
+Atsaukšana no atvaļinājuma NDDA Mācību atvaļinājums ar darba algas
+saglabāšanu MAtvD Piešķirts bērna kopšanas atvaļinājums KavDD
+Piešķirts atvaļinājums bez darba algas saglabāšanas KavDD Atlaišana
+(visi veidi) KavDD Grūtniecības un dzemdību atvaļinājums KavDD
+Slimības lapa B KavDD Atvaļinājums bērna tēvam KavDD Mācību
+atvaļinājums bez darba algas saglabāšanas KavDD Piešķirts atvaļinājums
+bez darba algas saglabāšanas (neietekmē atvieglojumus) KavDD Asins
+nodošana - darbinieks neveic darbu attaisnojošu iemelsu dēļ AND
+
+ 

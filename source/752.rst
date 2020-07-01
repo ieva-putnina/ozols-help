@@ -15,17 +15,25 @@ Nomenklatūras grupaspievienošana Noliktavai:
 
 Lai pievienotu Nomenlatūras grupu Noliktavai, tādejādi ierobežojot
 Noliktavas nomenklatūras klāstu pie nomenklatūras izvēles, ja norādīta
-konkrēta noliktava, rīku joslājānospiež poga un tiks atvērts jauns
-logs:
+konkrēta noliktava, rīku joslājānospiež poga.. image::
+images_ozols/24708.png
+:scale: 100%
+un tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/25333.png
+:scale: 100%
 
 
 
 
 Norādot nepieciešamo Noliktavu un izvēloties Grupu, no saraksta,
-ierakstuiespējams , lai Noliktavai tiktu piesaistīta nomenklatūras
-grupavai .
+ierakstuiespējams .. image:: images_ozols/24615.jpg
+:scale: 100%
+, lai Noliktavai tiktu piesaistīta nomenklatūras grupavai .. image::
+images_ozols/24617.jpg
+:scale: 100%
+.
 
  

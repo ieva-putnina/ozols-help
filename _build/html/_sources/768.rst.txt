@@ -1,0 +1,72 @@
+.. 768 Standartizētie nosaukumi**************************** 
+
+Sarakstā tiek saglabāti standartizētie nosaukumi -
+paskaidrojošais/vispārējais nomenklatūras nosaukums, kas tiek
+piesaistīts :doc:`Nomenklatūras<106>` kartiņas sadaļā "Nomenklatūra"
+un ir pieejams kolonnas veidā :doc:`Nomenklatūras<106>` sarakstā.
+
+
+
+Jauna Standartizētā nosaukuma pievienošana
+``````````````````````````````````````````
+
+Lai pievienotu jaunu standartizēto nosaukumu, kuru būs iespējams
+piesaistīt nomenklatūras kartiņas aprakstā, sadaļā "nomenklatūra",
+jāizmanto komanda |images_ozols/24879.png| no rīku joslas (Alt+P) un
+tiks atvērts jauns logs:
+
+
+
+|images_ozols/26503.png|
+
+
+
+
+Laukā "Nosaukums" jāraksta jaunizveidotais standartizētais nosaukums.
+
+
+
+Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu
+|images_ozols/24867.png| no rīku joslas vai (Ctrl+S) vai atcelts , ja
+tiks izmantota komanda |images_ozols/24617.jpg| .
+
+
+
+Standartizētā nosaukuma labošana
+````````````````````````````````
+
+Lai veiktu labojumus, ierakstu nepieciešams atvērt, izmantojot komandu
+|images_ozols/24869.png| no rīku joslas (Alt+A). Atvērtajā logā
+iespējams mainīt nosaukumu. Pēc labojumu veikšanas, veiktās izmaiņas
+iespējams saglabāt ar komandu |images_ozols/24867.png| no rīku joslas.
+
+
+
+Ieraksta dzēšana
+````````````````
+
+Lai dzēstu ierakstu, jāizmanto komanda |images_ozols/25602.png| no
+rīku joslas. Ieraksts ir jādzēš neatvērtā veidā.
+
+.. |images_ozols/24879.png| image:: images_ozols/24879.png
+:scale: 100%
+
+.. |images_ozols/26503.png| image:: images_ozols/26503.png
+:scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+.. |images_ozols/24869.png| image:: images_ozols/24869.png
+:scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+:scale: 100%
+
+.. |images_ozols/25602.png| image:: images_ozols/25602.png
+:scale: 100%
+
+ 

@@ -11,6 +11,8 @@ norādītajiem datu atlases kritērijiem filtra ekrāna formā:
 
 
 
+.. image:: images_ozols/25820.png
+:scale: 100%
 
 
 

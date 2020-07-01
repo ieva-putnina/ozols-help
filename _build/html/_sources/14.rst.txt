@@ -1,0 +1,8 @@
+.. 14 ============Saraksti============ 
+
+
+Virsgrāmatassarakstos nepieciešams pievienot grāmatojumu šablonus, kā
+arī iespējams apskatīt sistēmāiebūvētos grāmatojuma tipus, kas
+paskaidro dokumentu darba režīmus.
+
+ .. toctree::   :maxdepth: 5    135.rst   199.rst

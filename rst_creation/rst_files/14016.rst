@@ -4,13 +4,17 @@ Filtra izmantošana
 ++++++++++++++++++
 
 Kad ir sagatavota atskaite, bet tajā ir jāatlasa citi dati, nekā tika
-noteikts atskaites sagatavošanas filtrā, jālieto komanda Filtrs , lai
-izsauktu filtra formu. Norādot jaunus atskaites sagatavošanas
+noteikts atskaites sagatavošanas filtrā, jālieto komanda Filtrs ..
+image:: images_ozols/24535.gif
+:scale: 100%
+, lai izsauktu filtra formu. Norādot jaunus atskaites sagatavošanas
 parametrus, atskaite tiks pārzīmēta pēc norādītajiem filtra
 kritērijiem.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Ja atskaite jau ir sagatavota, lai toizsauktu no jauna, nav jāaktivizē
 atskaites izsaukšana no izvēlnes Atskaites, bet jālieto komanda
 Filtrs.
@@ -18,6 +22,8 @@ Filtrs.
 
 Neapstiprināto grāmatojumu iekļaušana atskaitēs
 +++++++++++++++++++++++++++++++++++++++++++++++
+.. image:: images_ozols/24546.gif
+:scale: 100%
 
 
 
@@ -36,6 +42,8 @@ jābūt aktivizētai.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Iesakām datus sagatavot vienveidīgi un apstiprināt visus izveidotos
 grāmatojumus.
 
@@ -79,6 +87,8 @@ grāmatvedības atskaites.
 
 
 
+.. image:: images_ozols/25286.png
+:scale: 100%
 
 
  

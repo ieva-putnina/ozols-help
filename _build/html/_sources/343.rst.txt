@@ -1,0 +1,165 @@
+.. 343 Apmaksas atgādinājums************************* 
+
+
+
+Apmaksas atgādinājums tiek veidots, lai paziņotu uzņēmuma debitoriem
+par nenokārtotām saistībā uz konkrētu datumu.
+
+
+
+
+Jaunaapmaksas atgādinājumapievienošana
+``````````````````````````````````````
+
+Lai pievienotu jaunuapmaksas atgādinājumadokumentu, atrodoties zem
+moduļa "Norēķini", sadaļas "Dokumenti", jāizvēlasApmaksas
+atgādinājumužurnāls un komanda |images_ozols/24879.png| vai arī
+jāizvēlas uzreiz dokuments "Apmaksas atgādinājums" un tiks atvērts
+jauns logs:
+
+
+
+|images_ozols/26485.png|
+
+
+
+
+Apmaksas atgādinājuma virsraksta aizpildīšana
+`````````````````````````````````````````````
+
+Lai aizpildītuApmaksas atgādinājumaVirsrakstu, nepieciešams aizpildīt
+sekojošus laukus:
+
+
+
+
+Numurs: numurs šajā laukā tiek ģenerēts automātiski pēc kārtas;
+
+Datums: nepieciešams norādīt datumu, uz kuru apmaksas atgādinājums
+tiek veidots;
+
+Pircējs: no saraksta nepieciešams izvēlēties debitoru, kuram apmaksas
+atgādinājums tiks sagatavots;
+
+|images_ozols/24545.gif| Ja pircējs nav datu bāzē, izmantojot komandu
+|images_ozols/24743.png| atveras partneru saraksta logs un ir
+iespējams pievienot jaunu pircēju partneru sarakstā. Lai pievienotu
+jaunu :doc:`Partneri<312>` , jāizmanto komanda
+|images_ozols/24879.png| no rīku joslas un atveras jauna partnera
+ievades kartiņa.
+
+
+Pasta adrese: dati tiks aizpildīti automātiski pēc pircēja izvēles.
+Lai papildinātu esošo informāciju, iespējams izmantot
+|images_ozols/24743.png| pogu.
+
+
+
+Tekstu informatīvajos laukos - Virsraksts/Teksts - iespējams izveidot
+sagatavēs, lai turpmāk šie lauki aizpildītos automātiski. Lai
+izveidotu sagataves, nepieciešams izmantot Apmaksas atgādinājuma logā
+pieejamo funkciju - Teksta sagataves:
+
+
+
+
+|images_ozols/26486.png|
+
+
+
+Izvēloties funkciju "Teksta sagataves", tiks atvērts logs,
+kurājāievada informācija, kuru būs nepieciešams redzēt apmaksas
+atgādinājumā. Saglabājot šo informāciju, tā tiks automātiski ielādēta,
+sagatavojot jaunu apmaksas atgādinājumu.
+
+
+|images_ozols/26487.png|
+
+
+
+
+Apmaksas atgādinājumasatura aizpildīšana
+````````````````````````````````````````
+
+Lai aizpildītuApmaksas atgādinājuma Saturu, nepieciešams
+izmantotdokumentā esošo komandu funkcija - aizpildīt.
+
+
+
+|images_ozols/26486.png|
+
+
+
+Izvēloties komandu Aizpildīt tiks atvērts filtrs, kurā jāizvēlas
+parametri no atskaites "Neapmaksātie pārdošanas dokumenti" pēc kuriem
+tiks aizpildīts Apmaksas atgādinājums. Pircējs filtrā parādās
+noklusētais tas, kurš ir izvēlēts apmaksas atgādinājuma virsrakstā:
+
+
+
+
+|images_ozols/26488.png|
+
+
+
+
+Lai aizpildītu apmaksas atgādinājuma saturu no augstāk minētā filtra
+un jāizmanto komanda |images_ozols/25619.png| .
+
+
+
+PievienotāApmaksas atgādinājumalabošana
+```````````````````````````````````````
+
+Labojumus saglabātajāApmaksas atgādinājumāiespējams veikt atverot
+Apmaksas atgādinājumu, kurš vienlaicīgi pieejams
+apskatei/labošanaiapmaksas atgādinājumu žurnālā. Lai veiktu labojumus
+apmaksas atgādinājumā, šo dokumentu nepieciešams atvērt, izmantojot
+komandu |images_ozols/24709.png| no rīku joslas un atvērtajā ierakstā
+iespējams veikt nepieciešamos labojumus. Pēc labojumu veikšanas,
+veiktās izmaiņas iespējams |images_ozols/24867.png| vai
+|images_ozols/24617.jpg| .
+
+.. |images_ozols/24879.png| image:: images_ozols/24879.png
+:scale: 100%
+
+.. |images_ozols/26485.png| image:: images_ozols/26485.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24743.png| image:: images_ozols/24743.png
+:scale: 100%
+
+.. |images_ozols/24879.png| image:: images_ozols/24879.png
+:scale: 100%
+
+.. |images_ozols/24743.png| image:: images_ozols/24743.png
+:scale: 100%
+
+.. |images_ozols/26486.png| image:: images_ozols/26486.png
+:scale: 100%
+
+.. |images_ozols/26487.png| image:: images_ozols/26487.png
+:scale: 100%
+
+.. |images_ozols/26486.png| image:: images_ozols/26486.png
+:scale: 100%
+
+.. |images_ozols/26488.png| image:: images_ozols/26488.png
+:scale: 100%
+
+.. |images_ozols/25619.png| image:: images_ozols/25619.png
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

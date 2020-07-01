@@ -1,4 +1,4 @@
-.. 6901 Degvielas pasūtījumi======================== .. role:: raw-html(raw)     :format: html
+.. 6901 Degvielas pasūtījumi======================== 
 Tehniskās prasības Veiksmīgam darbam ar Degvielas pasūtījumu moduli
 nodrošina interneta pārlūkprogrammas Internet Explorer 5.5 vai 6.0
 SP1, Netscape Navigator 7.0 vai Mozilla Firefox 1.5. Lūdzu,
@@ -11,27 +11,31 @@ Pārlūkprogrammai, kura tiek izmantota darbam ar Degvielas
 pasūtījumiem, jāatļauj sīkdatņu (cookies) izmantošana un ērtākai
 lietošanai ieteicams atļaut arī uznirstošo (pop-up) logu izmantošanu.
 
-.. image:: /help/Skin/help/img.aspx?pid=24545
+.. image:: images_ozols/24545.gif
+        :scale: 100%
 Lai uzsāktu darbu ar Degvielas pasūtījumiem:
 
-.. image:: /help/Skin/help/img.aspx?pid=25686
+.. image:: images_ozols/25686.png
+        :scale: 100%
 Atverot Explorer interneta pārlūkprogrammu, Izvēlņu joslā jānospiež
 poga Tools un jāizvēlas Internet Options..(skatīt attēlu):
 
 
 
-.. image:: /help/Skin/help/img.aspx?pid=25553
+.. image:: images_ozols/25553.png
+        :scale: 100%
 
 
 
 
 
 + tiek atvērts Internet Options logs, kur sadaļā Privacy pie Pop-up
-  Blocker jānospiež poga .. image:: /help/Skin/help/img.aspx?pid=25554
+  Blocker jānospiež poga .. image:: images_ozols/25554.png         :scale: 100%
   (skatīt attēlu):
 
 
-.. image:: /help/Skin/help/img.aspx?pid=25555
+.. image:: images_ozols/25555.png
+        :scale: 100%
 
 
 
@@ -39,7 +43,8 @@ poga Tools un jāizvēlas Internet Options..(skatīt attēlu):
   jāieraksta adrese mnth.lv un jānospiež poga Add (skatīt attēlu):
 
 
-.. image:: /help/Skin/help/img.aspx?pid=25556
+.. image:: images_ozols/25556.png
+        :scale: 100%
 
 
 
@@ -47,26 +52,31 @@ poga Tools un jāizvēlas Internet Options..(skatīt attēlu):
   Options logā jānospiež poga OK.
 
 
-.. image:: /help/Skin/help/img.aspx?pid=25687
+.. image:: images_ozols/25687.png
+        :scale: 100%
 Atverot Mozilla interneta pārlūkprogrammu, rīku joslā jānospiež poga
 Tools un jāizvēlas Options... (skatīt attēlu):
 
 
 
-.. image:: /help/Skin/help/img.aspx?pid=25676
+.. image:: images_ozols/25676.png
+        :scale: 100%
 
 
 
 
 Tiek atvērts Options logs, un jāizvēlas sadaļa Content .. image::
-/help/Skin/help/img.aspx?pid=25688
+images_ozols/25688.png
+        :scale: 100%
 , un, pie Block pop-up windows, jānospiež poga .. image::
-/help/Skin/help/img.aspx?pid=25690
+images_ozols/25690.png
+        :scale: 100%
 :
 
 
 
-.. image:: /help/Skin/help/img.aspx?pid=25689
+.. image:: images_ozols/25689.png
+        :scale: 100%
 
 
 
@@ -75,13 +85,15 @@ Tiek atvērts Allowed Sites - Popups logs:
 
 
 
-.. image:: /help/Skin/help/img.aspx?pid=25692
+.. image:: images_ozols/25692.png
+        :scale: 100%
 
 
 
 
 Lodziņā "Address of web site" jāieraksta adrese mnth.lv un jānospiež
-poga .. image:: /help/Skin/help/img.aspx?pid=25693
+poga .. image:: images_ozols/25693.png
+        :scale: 100%
 . Tad jāaizver logi, nospiežot pogu OK.
 
 
@@ -90,7 +102,8 @@ poga .. image:: /help/Skin/help/img.aspx?pid=25693
   lai uzsāktu darbu ar Degvielas pasūtījumiem:
 
 
-.. image:: /help/Skin/help/img.aspx?pid=25557
+.. image:: images_ozols/25557.png
+        :scale: 100%
 
 
 

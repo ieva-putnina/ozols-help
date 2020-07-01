@@ -1,6 +1,8 @@
 .. 14109 Grāmatvedisko kontu piesaistīšana algu rezultējošiem kodiem*************************************************************** 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Pirms algu grāmatojuma pirmdokumenta veidošanas, algu rezultējošiem
 kodiem - ABruto, IIN, Soc_dn, Soc_dd un Riska_nod - jābūt
 piesaistītiem Db un Cr grāmatvediskajiem kontiem!
@@ -21,11 +23,16 @@ atvērt ierakstu;
 debeta un kredīta konts:
 
 
+.. image:: images_ozols/26236.png
+:scale: 100%
 
 
 
 
-3. Ieraksts tiks saglabāts, nospiežot pogu .
+3. Ieraksts tiks saglabāts, nospiežot pogu .. image::
+images_ozols/25621.png
+:scale: 100%
+.
 
 
 
@@ -38,6 +45,8 @@ Iedzīvotāju ienākumu nodoklis (IIN):
 
 
 
+.. image:: images_ozols/26237.png
+:scale: 100%
 
 
 
@@ -46,6 +55,8 @@ Darba devēja aprēķinātais VSAOI:
 
 
 
+.. image:: images_ozols/26238.png
+:scale: 100%
 
 
 
@@ -54,6 +65,8 @@ Sociālais nodoklis darba ņēmēja:
 
 
 
+.. image:: images_ozols/26240.png
+:scale: 100%
 
 
 
@@ -62,6 +75,8 @@ Riska nodeva:
 
 
 
+.. image:: images_ozols/26241.png
+:scale: 100%
 
 
 

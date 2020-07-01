@@ -1,0 +1,170 @@
+.. 358 Norēķina dzēšanas akts************************** 
+Iepirkuma un pārdošanas dokumentu saistību dzēšanai tiek izmantoti
+Norēķinu dzēšanas akti
+Norēķinu dzēšanas akti ir pieejami no izvēlnes >Dokumenti > Norēķini >
+Norēķinu dzēšanas akti
+
+
+Jaunanorēķinu dzēšanas akta pievienošana
+````````````````````````````````````````
+
+Arnorēķinu dzēšanas aktiem tiek dzēstas iepirkuma un pārdošanas
+dokumentu saistību summas, kuras nav iespējamsnosegt ar bankas vai
+kasesieejošiem un izejošiem dokumentiem.
+
+
+
+
+
+Lai pievienotu jaunu norēķinu dzēšanas dokumentu, atrodoties zem
+moduļa "Norēķini", sadaļas "Dokumenti", jāizvēlas Norēķinu
+dzēšanasdokumentu žurnāls un komanda |images_ozols/24879.png| vai arī
+jāizvēlas uzreiz dokuments "Norēķinu dzēšanas akts" un tiks atvērts
+jauns logs:
+
+
+
+|images_ozols/26489.png|
+
+
+
+
+
+Sagatavojot norēķinu dzēšanas aktu, iespējams norādīt atbilstošo
+dzēšanas akta veidu - Iepirkumu vai Pārdošanas norēķinu dzēšanas akts:
+
+
+
+Iepirkumanorēķinu dzēšanas akts- Norēķinu dzēšanas akta veids. Ar
+iepirkuma norēķinu dzēšanas aktu tiek dzēstas iepirkuma dokumenta
+summas.
+
+Pārdošanasnorēķinu dzēšanas akts- Norēķinu dzēšanas akta veids.
+Arpārdošanas norēķinu dzēšanas aktu tiek dzēstas iepirkuma dokumenta
+summas.
+
+
+Norēķinu dzēšanas aktavirsraksta aizpildīšana
+`````````````````````````````````````````````
+
+Lai aizpildītuNorēķinu dzēšanas aktaVirsrakstu, nepieciešams aizpildīt
+sekojošus laukus dokumenta Virsrakstā:
+
+
+
+
+|images_ozols/26490.png|
+
+
+
+
+**Numurs:** lauks tiek aizpildīts automātiski, ģenerējot nākamo brīvo
+numuru pēc kārtas;
+
+**Datums:** nepieciešams norādīt norēķinu dzēšanas akta datumu;
+
+**Partneris**: no saraksta nepieciešams izvēlēties Partneri, kura
+iepirkumu vai pārdošanas dokuments tiks dzēsts;
+
+**Summa:** nepieciešams norādīt norēķinu dzēšanas akta summu un
+valūtu;
+
+**Pamatojums:** brīvā formā iespējams ievadīt pamatojuma informāciju
+par akta sagatavošanas iemesliem;
+
+
+
+
+Norēķinu dzēšanas aktasatura aizpildīšana
+`````````````````````````````````````````
+
+Lai aizpildītuNorēķinu dzēšanasakta Saturu, dokumenta satura daļā
+nepieciešams izmantot komandu |images_ozols/24879.png| un tiks
+atvērtsnorēķinu dzēšanas akta satura logs:
+
+
+
+|images_ozols/26491.png|
+
+
+
+
+Aizpildot satura lauku nepieciešams aizpildīt uzņēmumā izmantotās
+dimensijas. Summas lauks tiks aizpildīts automātiski no norēķinu
+dzēšanas akta virsraksta daļas.
+
+Lai saglabātu satura ierakstu, jāizmanto komanda
+|images_ozols/24867.png| vai komanda |images_ozols/24617.jpg| , lai
+atceltu satura ieraksta rindu. Dokumenta saturs var sastāvēt no
+vairākiem satura ierakstiem, kas kopsummā veido dokumenta Virsrakstā
+norādīto summu. Lai pievienotu nākamo satura ierakstu, jāizmanto
+komanda |images_ozols/24879.png| .
+
+
+
+
+Norēķinu dzēšanas akta grāmatošana
+``````````````````````````````````
+
+Norēķinu dzēšanas aktuiespējams grāmatot no atvērta Norēķinu dzēšanas
+akta vai izvēloties (iezīmējot) dokumentu Norēķinu dzēšanas aktu
+žurnālā. Lai iegrāmatotu Norēķinu dzēšanas aktu, nepieciešams vispirms
+apstiprināt dokumentu, izmantojot komandu |images_ozols/24740.png| no
+rīku joslas. Apstiprinātu dokumentu ir iespējams grāmatot, izmantojot
+komandu |images_ozols/24741.png| . Dokumentu grāmatošanu skatīt
+:doc:`Dokumentu grāmatošanas principi<14044>` .
+
+
+
+Pievienotā norēķinu dzēšanas akta labošana
+``````````````````````````````````````````
+
+Labojumus saglabātajāNorēķinu dzēšanas aktāiespējams veikt atverot
+Norēķinu dzēšanas aktu, kurš vienlaicīgi pieejams
+apskatei/labošanainorēķinu dzēšanas aktužurnālā. Lai veiktu labojumus
+norēķinu dzēšanas aktā, šo dokumentu nepieciešams atvērt, izmantojot
+komandu |images_ozols/24709.png| no rīku joslas un atvērtajā ierakstā
+iespējams veikt nepieciešamos labojumus. Pēc labojumu veikšanas,
+veiktās izmaiņas iespējams |images_ozols/24867.png| vai
+|images_ozols/24617.jpg|
+
+.. |images_ozols/24879.png| image:: images_ozols/24879.png
+:scale: 100%
+
+.. |images_ozols/26489.png| image:: images_ozols/26489.png
+:scale: 100%
+
+.. |images_ozols/26490.png| image:: images_ozols/26490.png
+:scale: 100%
+
+.. |images_ozols/24879.png| image:: images_ozols/24879.png
+:scale: 100%
+
+.. |images_ozols/26491.png| image:: images_ozols/26491.png
+:scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+.. |images_ozols/24879.png| image:: images_ozols/24879.png
+:scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+:scale: 100%
+
+.. |images_ozols/24741.png| image:: images_ozols/24741.png
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

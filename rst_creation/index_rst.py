@@ -3,8 +3,11 @@ from html2rest import html2rest
 from io import BytesIO as StringIO
 from bs4 import BeautifulSoup as bs
 import time
+import os.path
+
 #import bs4
 start_time = time.time()
+img_dir = "images_ozols/"
 #file_names = []
 with open('ozols-help-csv.csv') as csvFile:
     rowsArray = list(csv.reader(csvFile))
@@ -99,21 +102,29 @@ with open('ozols-help-csv.csv') as csvFile:
                 f.write(param_array[5] + chr(13))
                 f.write(header_sep + chr(13))
                 f.write(" " + chr(13))         
-                f.write(".. role:: raw-html(raw)" + chr(13))            
-                f.write("     :format: html")
                 stream = StringIO()
                 soup = None
                 soup = bs(param_array[4], "html.parser")
                 images = soup.findAll('img')
                 print(param_array[2])
+                
                 for image in images:
                     img_start_pos =  param_array[4].find(image["src"]) - 10
                     img_end_pos  =  param_array[4].find(">", img_start_pos)  
                     img_id = image["src"][image["src"].find("=") + 1:]
-                    print("IMAGE ID:  " + str(img_id))                     
-                    param_array[4] = param_array[4].replace(param_array[4][ img_start_pos : img_end_pos+1 ], " .. image:: " + image["src"] + " <br />")   
+                    print("IMAGE ID:  " + str(img_id))        
+                    img_file = img_dir + img_id + ".png"
+                    if os.path.isfile(img_file) == False:
+                        img_file = img_dir + img_id + ".jpg"    
+                        if os.path.isfile(img_file) == False:
+                            img_file = img_dir + img_id + ".gif"    
+                    #param_array[4] = param_array[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br /> :scale: 100%<br />" 
+                    param_array[4] = param_array[4].replace(param_array[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)                                          
                 html2rest(param_array[4], writer = stream)
-                f.write(stream.getvalue().decode("utf8") + chr(13))
+                rst_code = stream.getvalue().decode("utf8")
+                rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +".. image:: ")                 
+                rst_code = rst_code.replace(":scale: 100%" , "        :scale: 100%") 
+                f.write(rst_code + chr(13))
                 f.write(" " + chr(13))
                 
                 isParent = False
@@ -149,16 +160,28 @@ with open('ozols-help-csv.csv') as csvFile:
                             f2.write(" " + chr(13))            
                             stream2 = StringIO()
                             soup = None
-                            soup = bs(param_array[4], "html.parser")
+                            soup = bs(param_array2[4], "html.parser")
                             images = soup.findAll('img')
                             print(param_array2[2])
+                            if param_array2[2] == "14033":
+                                print(images)    
                             for image in images:
                                 img_start_pos =  param_array2[4].find(image["src"]) - 10
-                                img_end_pos  =  param_array2[4].find(">", img_start_pos)                
-                                param_array2[4] = param_array2[4].replace(param_array2[4][ img_start_pos : img_end_pos+1 ], " .. image:: " + image["src"] + " <br />")   
-                
+                                img_end_pos  =  param_array2[4].find(">", img_start_pos) 
+                                img_id = image["src"][image["src"].find("=") + 1:]
+                                print("IMAGE ID:  " + str(img_id))        
+                                img_file = img_dir + img_id + ".png"
+                                if os.path.isfile(img_file) == False:
+                                    img_file = img_dir + img_id + ".jpg"    
+                                    if os.path.isfile(img_file) == False:
+                                        img_file = img_dir + img_id + ".gif" 
+                                #param_array2[4] = param_array2[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br /> :scale: 100% <br />"        
+                                param_array2[4] = param_array2[4].replace(param_array2[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)                                          
                             html2rest(param_array2[4], writer = stream2)
-                            f2.write(stream2.getvalue().decode("utf8") + chr(13))
+                            rst_code = stream2.getvalue().decode("utf8") 
+                            rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +".. image:: ") 
+                            rst_code = rst_code.replace(":scale: 100%" , "   :scale: 100%") 
+                            f2.write(rst_code + chr(13))
                             f2.write(" " + chr(13))
                             
                             isParent = False
@@ -194,15 +217,25 @@ with open('ozols-help-csv.csv') as csvFile:
                                         #if param_array3[6] != "14066" and param_array3[6] != "721": 
                                         stream3 = StringIO()
                                         soup = None
-                                        soup = bs(param_array[4], "html.parser")
+                                        soup = bs(param_array3[4], "html.parser")
                                         images = soup.findAll('img')
                                         print(param_array3[2])
                                         for image in images:
                                             img_start_pos =  param_array3[4].find(image["src"]) - 10
-                                            img_end_pos  =  param_array3[4].find(">", img_start_pos)                
-                                            param_array3[4] = param_array3[4].replace(param_array3[4][ img_start_pos : img_end_pos+1 ], " .. image:: " + image["src"] + " <br />")   
-                
+                                            img_end_pos  =  param_array3[4].find(">", img_start_pos)
+                                            img_id = image["src"][image["src"].find("=") + 1:]
+                                            print("IMAGE ID:  " + str(img_id))        
+                                            img_file = img_dir + img_id + ".png"
+                                            if os.path.isfile(img_file) == False:
+                                                img_file = img_dir + img_id + ".jpg"    
+                                                if os.path.isfile(img_file) == False:
+                                                    img_file = img_dir + img_id + ".gif" 
+                                            #param_array3[4] = param_array3[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br />:scale: 100% <br />"        
+                                            param_array3[4] = param_array3[4].replace(param_array3[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)  
                                         html2rest(param_array3[4], writer = stream3)
+                                        rst_code = stream3.getvalue().decode("utf8") 
+                                        rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +".. image:: ") 
+                                        rst_code = rst_code.replace(":scale: 100%" , "        :scale: 100%") 
                                         f3.write(stream3.getvalue().decode("utf8") + chr(13))
                                         f3.write(" " + chr(13))
                                         
@@ -239,15 +272,25 @@ with open('ozols-help-csv.csv') as csvFile:
                                                     f4.write(" " + chr(13))           
                                                     stream4 = StringIO()
                                                     soup = None
-                                                    soup = bs(param_array[4], "html.parser")
+                                                    soup = bs(param_array4[4], "html.parser")
                                                     images = soup.findAll('img')
                                                     print(param_array4[2])
                                                     for image in images:
                                                         img_start_pos =  param_array4[4].find(image["src"]) - 10
-                                                        img_end_pos  =  param_array4[4].find(">", img_start_pos)                
-                                                        param_array4[4] = param_array4[4].replace(param_array4[4][ img_start_pos : img_end_pos+1 ], " .. image:: " + image["src"] + " <br />")   
-                
+                                                        img_end_pos  =  param_array4[4].find(">", img_start_pos)
+                                                        img_id = image["src"][image["src"].find("=") + 1:]
+                                                        print("IMAGE ID:  " + str(img_id))        
+                                                        img_file = img_dir + img_id + ".png"
+                                                        if os.path.isfile(img_file) == False:
+                                                            img_file = img_dir + img_id + ".jpg"    
+                                                            if os.path.isfile(img_file) == False:
+                                                                img_file = img_dir + img_id + ".gif"  
+                                                        #param_array4[4] = param_array4[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br /> :scale: 100% <br />"        
+                                                        param_array4[4] = param_array4[4].replace(param_array4[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)                                                                 
                                                     html2rest(param_array4[4], writer = stream4)
+                                                    rst_code = stream4.getvalue().decode("utf8") 
+                                                    rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +".. image:: ") 
+                                                    rst_code = rst_code.replace(":scale: 100%" , "        :scale: 100%") 
                                                     f4.write(stream4.getvalue().decode("utf8") + chr(13))
                                                     f4.write(" " + chr(13))                                        
 
@@ -283,15 +326,25 @@ with open('ozols-help-csv.csv') as csvFile:
                                                                 f5.write(" " + chr(13))
                                                                 stream5 = StringIO()
                                                                 soup = None
-                                                                soup = bs(param_array[4], "html.parser")
+                                                                soup = bs(param_array5[4], "html.parser")
                                                                 images = soup.findAll('img')
                                                                 print(param_array5[2])
                                                                 for image in images:
                                                                     img_start_pos =  param_array5[4].find(image["src"]) - 10
-                                                                    img_end_pos  =  param_array5[4].find(">", img_start_pos)                
-                                                                    param_array5[4] = param_array5[4].replace(param_array5[4][ img_start_pos : img_end_pos+1 ], " .. image:: " + image["src"] + " <br />")   
-                
+                                                                    img_end_pos  =  param_array5[4].find(">", img_start_pos)
+                                                                    img_id = image["src"][image["src"].find("=") + 1:]
+                                                                    print("IMAGE ID:  " + str(img_id))        
+                                                                    img_file = img_dir + img_id + ".png"
+                                                                    if os.path.isfile(img_file) == False:
+                                                                        img_file = img_dir + img_id + ".jpg"    
+                                                                        if os.path.isfile(img_file) == False:
+                                                                            img_file = img_dir + img_id + ".gif"
+                                                                    #param_array5[4] = param_array5[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br /> :scale: 100%<br />"        
+                                                                    param_array5[4] = param_array5[4].replace(param_array5[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)   
                                                                 html2rest(param_array5[4], writer = stream5)
+                                                                rst_code = stream5.getvalue().decode("utf8") 
+                                                                rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +".. image:: ") 
+                                                                rst_code = rst_code.replace(":scale: 100%" , "        :scale: 100%") 
                                                                 f5.write(stream5.getvalue().decode("utf8") + chr(13))
                                                                 f5.write(" " + chr(13)) 
                                                                 
@@ -328,15 +381,25 @@ with open('ozols-help-csv.csv') as csvFile:
                                                                             f6.write(" " + chr(13))              
                                                                             stream6 = StringIO()
                                                                             soup = None
-                                                                            soup = bs(param_array[4], "html.parser")
+                                                                            soup = bs(param_array6[4], "html.parser")
                                                                             images = soup.findAll('img')
                                                                             print(param_array6[2])
                                                                             for image in images:
                                                                                 img_start_pos =  param_array6[4].find(image["src"]) - 10
-                                                                                img_end_pos  =  param_array6[4].find(">", img_start_pos)                
-                                                                                param_array6[4] = param_array6[4].replace(param_array6[4][ img_start_pos : img_end_pos+1 ], " .. image:: " + image["src"] + " <br />")   
-                
+                                                                                img_end_pos  =  param_array6[4].find(">", img_start_pos)
+                                                                                img_id = image["src"][image["src"].find("=") + 1:]
+                                                                                print("IMAGE ID:  " + str(img_id))        
+                                                                                img_file = img_dir + img_id + ".png"
+                                                                                if os.path.isfile(img_file) == False:
+                                                                                    img_file = img_dir + img_id + ".jpg"    
+                                                                                    if os.path.isfile(img_file) == False:
+                                                                                        img_file = img_dir + img_id + ".gif"
+                                                                                #param_array6[4] = param_array6[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br /> :scale: 100% <br />"        
+                                                                                param_array6[4] = param_array6[4].replace(param_array6[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)  
                                                                             html2rest(param_array6[4], writer = stream6)
+                                                                            rst_code = stream6.getvalue().decode("utf8") 
+                                                                            rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +".. image:: ") 
+                                                                            rst_code = rst_code.replace(":scale: 100%" , "        :scale: 100%") 
                                                                             f6.write(stream6.getvalue().decode("utf8") + chr(13))
                                                                             f6.write(" " + chr(13))                                                                 
                                                                 

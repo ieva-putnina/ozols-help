@@ -1,0 +1,37 @@
+.. 7006 Akciju veids**************** 
+
+
+Izmantojot šo darba režīmu, iespējams pievienot jaunu akcijas veidu
+:doc:`Akciju veidu<7005>` sarakstam.
+
+Atvērtajā Akciju veida apraksta logā iespējams norādīt Akciju veida
+kodu (saīsināts nosaukums) un Nosaukumu:
+
+
+
+|images_ozols/25457.png|
+
+
+
+Pievienojot jaunu Akciju veidu, nepieciešams norādīt šī akciju veida
+faktisko vērtību:
+
+
+
+|images_ozols/25458.png|
+
+
+
+Ieraksts tiks saglabāts :doc:`Akciju veidu<7005>` sarakstā, izpildot
+komandu |images_ozols/24710.png| .
+
+.. |images_ozols/25457.png| image:: images_ozols/25457.png
+:scale: 100%
+
+.. |images_ozols/25458.png| image:: images_ozols/25458.png
+:scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+:scale: 100%
+
+ 

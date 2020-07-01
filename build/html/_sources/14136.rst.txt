@@ -9,6 +9,8 @@ piesaistīts klientam, gatavojot pārdošanas dokumentu.
 (Partneri)->Saraksti->:doc:`Partneri<112>` - partnera aprakstā
 atzīmējot grupu "strādājošais":
 
+.. image:: images_ozols/26460.png
+:scale: 100%
 
 
 2. Lai informācija par klientu menedžeri automātiski aizpildītos
@@ -17,12 +19,16 @@ nepieciešams piesaistīt konkrētam partnerim.
 CRM(Partneri)->Saraksti->:doc:`Partneri<112>` - atverot konkrētu
 partneri, sadaļā "Pārējie dati":
 
+.. image:: images_ozols/26461.png
+:scale: 100%
 
 
 3. Turpmāk, sagatavojot :doc:`Pārdošanas dokumentu<304>` šim klientam,
 kuram klientu menedžeris ir piesaistīts, automātiski dokumenta
 virsraksta sadaļā tiks ielādēta piesaistītā menedžera informācija:
 
+.. image:: images_ozols/26462.png
+:scale: 100%
 
 
 4. Atbilstoši šādā veidā sagatavotiem :doc:`Pārdošanas
@@ -35,17 +41,23 @@ griezumā:
 atlasīt filtrā norādītajam klientu menedžerim piesaistīto pircēju
 apgrozījumu:
 
+.. image:: images_ozols/26463.png
+:scale: 100%
 
 
 2) Norēķini->Atskaites->:doc:`Pārdošanas dokumenti<539>` -> iespēja
 atlasīt visus vienam klientu menedžerim piesaistītos Pārdošanas
 dokumentus:
 
+.. image:: images_ozols/26464.png
+:scale: 100%
 
 
 3) Noliktava->Atskaites->:doc:`Pārdotā nomenklatūra<547>` -> iespēja
 atlasīt datus par pārdotajām precēm klienta menedžera griezumā:
 
+.. image:: images_ozols/26465.png
+:scale: 100%
 
 
 4) Noliktava->Atskaites->:doc:`Pārdotā nomenklatūra (detalizēti)<553>`
@@ -53,6 +65,8 @@ atlasīt datus par pārdotajām precēm klienta menedžera griezumā:
 griezumā, uzrādot arī detalizētu informāciju par pašu Pārdošanas
 dokumentu:
 
+.. image:: images_ozols/26466.png
+:scale: 100%
 
 
  

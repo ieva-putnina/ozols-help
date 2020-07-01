@@ -8,18 +8,27 @@ Izmaksu sarakstu veidi tiek izmantoti veidojot izmaksu sarkstus
 
 
 
-Jauns izmaksu saraksts tiek pievienots ar pogu .
+Jauns izmaksu saraksts tiek pievienots ar pogu .. image::
+images_ozols/25605.png
+:scale: 100%
+.
 
 
 
-Izmaksu saraksts tiek labots ar pogu .
+Izmaksu saraksts tiek labots ar pogu .. image:: images_ozols/25603.png
+:scale: 100%
+.
 
 
 
-Izmaksu saraksts tiek dzēsts ar pogu .
+Izmaksu saraksts tiek dzēsts ar pogu .. image:: images_ozols/25602.png
+:scale: 100%
+.
 
 
 
+.. image:: images_ozols/25674.png
+:scale: 100%
 
 
 
@@ -40,8 +49,12 @@ saraksts ir paredzēts algu avansu izmaksām.
 
 
 
+.. image:: images_ozols/25621.png
+:scale: 100%
 - jāspiež šī poga lai saglabātu ievadītos datus.
 
+.. image:: images_ozols/25675.png
+:scale: 100%
 - jāspiež šī poga, ja lietotājs nevēlas saglabāt aizpildītos datus.
 
  

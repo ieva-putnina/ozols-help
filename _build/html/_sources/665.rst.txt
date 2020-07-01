@@ -1,0 +1,36 @@
+.. 665 Konta atlikumi****************** 
+
+
+Atskaites - Konta atlikumiparāda kontu debeta un kredīta atlikumus uz
+norādītos laika periodu. Konta atlikumus atskaitē iespējams dalīta pa
+dažādām datu uzskaites dimensijām (EKK, Projekts, Budžets,
+Finansējums, u.c.), kā arī nedalīt pa datu uzskaites dimensijām un
+uzrādīt konta atlikuma kopējo summu.
+
+|images_ozols/24950.png| No Konta atlikumu atskaites, iespējama
+:doc:`Kontu slēgšana<14123>` .
+
+
+
+Filtrs jāaizpilda, lai sagatavotu atskaiti.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves.
+
+.. |images_ozols/24950.png| image:: images_ozols/24950.png
+:scale: 100%
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+:scale: 100%
+
+ 

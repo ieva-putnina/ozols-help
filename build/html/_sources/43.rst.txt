@@ -1,4 +1,4 @@
-.. 43 Noliktava============= .. role:: raw-html(raw)     :format: html
+.. 43 Noliktava============= 
 Komponents „Noliktava” paredzēts preču un krājumuuzskaitei
 untirdzniecībai. Kopā ar Norēķiniem tā veido pilnu preču un saistību
 uzskaiti uzņēmuma noliktavā un grāmatvedībā.

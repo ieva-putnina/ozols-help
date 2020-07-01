@@ -1,0 +1,26 @@
+@media only screen and (max-width: 1096px)  {
+  ul.page-nav li.prev a.prev_a{
+        font-size: 0;
+  }       
+
+  ul.page-nav li.next a.next_a{
+        font-size: 0;
+  }  
+
+  ul.page-nav li.prev a.prev_a:after{
+	content: "←";
+	font-size:16px;
+  }       
+
+ 
+ ul.page-nav li.next a.next_a:after{
+        content: "→";
+	font-size:16px;
+
+}
+
+}
+
+.sidebar{
+	display:block;
+}

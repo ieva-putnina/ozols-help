@@ -1,0 +1,31 @@
+.. 14045 =================================Dokumentu veidošanas principi================================= 
+
+
+Grāmatvedības sistēmā Ozols datu uzskaite notiek veidojot
+pirmdokumentus un tos grāmatojot. Pirmdokuments var būt jebkurš
+dokuments, piemēram, maksājuma uzdevums, kases ieņēmumu vai izdevumu
+orderis, norēķina dokuments utt. Grāmatojums tiek veidots arī kā
+dokuments, kas tiek sasaistīts ar vienu pirmdokumentu.
+
+
+
+Dokumenti tiek sagrupēti dokumentu žurnālos. Dokumentu žurnāli ir
+pieejami no izvēlnes Dokumenti un tie sīkāk tiek sadalīti pēc
+operāciju nozīmes: Kase, Banka, Avansi, Norēķini, Preces, Grāmatojumi,
+Krājumi, Pamatlīdzekļi. Dokumentu žurnālos pievienotos dokumentus var
+labot vai dzēst.
+
+
+
+:doc:`Dokumenta anulēšana<14047>`
+
+:doc:`Dokumenta dzēšana<14048>`
+
+:doc:`Dokumenta kopēšana<14046>`
+
+:doc:`Dokumenta labošana<14049>`
+
+:doc:`Jauna dokumenta pievienošana<14050>`
+
+
+ .. toctree::   :maxdepth: 5    14047.rst   14048.rst   14046.rst   14049.rst   14050.rst

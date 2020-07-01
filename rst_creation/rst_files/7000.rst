@@ -1,4 +1,4 @@
-.. 7000 Dividendes============== .. role:: raw-html(raw)     :format: html
+.. 7000 Dividendes============== 
 
 
 Dividenžu modulis paredzēts :doc:`Akciju<7010>` ievadei - norādot

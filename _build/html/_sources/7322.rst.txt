@@ -1,0 +1,17 @@
+.. 7322 Personāliju darba pārskats****************************** 
+Personāliju darba pārskata atskaitē redzamas pasākumu :doc:`dalībnieku
+<7314>` mēģinājumu un izrāžu skaits attiecīgā periodā, par
+:doc:`struktūrvienībām<7313>` un pa attiecīgiem
+:doc:`pasākumiem<7312>` :
+
+|images_ozols/26198.jpg|
+
+
+
+Aktivizējot konkrētu personas ierakstu, tiek atvērts :doc:`personas
+aprakst<7305>` un personai :doc:`piesaistītie notikumi<7308>` .
+
+.. |images_ozols/26198.jpg| image:: images_ozols/26198.jpg
+:scale: 100%
+
+ 

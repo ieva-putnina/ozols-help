@@ -1,0 +1,3 @@
+.. 7315 Telpas********** Telpu saraksts veidojas no :doc:`pievienotajiem telpu<7306>`
+ierakstiem.
+ 

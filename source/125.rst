@@ -10,19 +10,28 @@ dzīvesvietas kodi sākas ar 01 (Rīgā dzīvojošie).
 
 
 
-Jauns dzīvesvietas kods tiek pievienots ar pogu . Pēc informācijas
-aizpildīšanas jāspiež poga Saglabāt , lai saglabātu ierakstu sistēmā.
+Jauns dzīvesvietas kods tiek pievienots ar pogu .. image::
+images_ozols/24708.png
+:scale: 100%
+. Pēc informācijas aizpildīšanas jāspiež poga Saglabāt , lai saglabātu
+ierakstu sistēmā.
+
+
+
+.. image:: images_ozols/25673.png
+:scale: 100%
 
 
 
 
+Dzīvesvietas kodu labo ar pogu .. image:: images_ozols/24709.png
+:scale: 100%
+.
 
 
 
-Dzīvesvietas kodu labo ar pogu .
-
-
-
-Dzīvesvietas kodu dzēš ar pogu .
+Dzīvesvietas kodu dzēš ar pogu .. image:: images_ozols/25602.png
+:scale: 100%
+.
 
  

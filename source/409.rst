@@ -12,10 +12,15 @@ rīkojums tiek saglabāts :doc:`Rīkojumu žurnālā<209>` , un, lai šis
 rīkojums piedalītos algu aprēķinos, tas :doc:`Rīkojumu žurnālā<209>`
 obligāti jāapstiprina.
 
-Lai pievienotu jaunu rīkojumu, rīku joslā jānospiež poga (Alt+P):
+Lai pievienotu jaunu rīkojumu, rīku joslā jānospiež poga .. image::
+images_ozols/25605.png
+:scale: 100%
+(Alt+P):
 
 
 
+.. image:: images_ozols/25738.png
+:scale: 100%
 
 
 
@@ -25,8 +30,9 @@ Slodze: strādājošais kuram tiek pievienots rīkojums;
 
 Datums: datums, kurā iesniegts rīkojums;
 
-Veids: rīkojuma veids (ar podziņu tiek atvērts rīkojuma veidu
-saraksts);
+Veids: rīkojuma veids (ar podziņu .. image:: images_ozols/24635.gif
+:scale: 100%
+tiek atvērts rīkojuma veidu saraksts);
 
 Stājies spēkā no_ līdz_ : rīkojuma stāšanaš spēkā datums;
 
@@ -36,14 +42,24 @@ Pamatojums: iespējams nodefinēt pamatojumu;
 
 Saturs>>: iespējams pievienot rīkojuma saturu.
 
-Lai rīkojumu saglabātu, jānospiež poga .
+Lai rīkojumu saglabātu, jānospiež poga.. image::
+images_ozols/25621.png
+:scale: 100%
+.
 
-Lai rīkojumu izdrukātu, rīku joslā jānospiež poga (Ctrl+P).
+Lai rīkojumu izdrukātu, rīku joslā jānospiež poga .. image::
+images_ozols/24944.png
+:scale: 100%
+(Ctrl+P).
 
 Rīkojuma veids nosaka vai un kāds kods tiks piemērots strādājošajam
 ziņojumā par darbinieku kustību. Rīkojuma veida konfigurācija nosaka,
 kādi darba laika uzskaites dati tiks pievienoti slodzes kalendāram.
-No rīkojuma var atvērt , kā arī ja Rīkojuma veids ir "Pieņemšana
-darbā", no Rīkojuma dokumenta loga iespējams atvērt arī .
+No rīkojuma var atvērt .. image:: images_ozols/25739.png
+:scale: 100%
+, kā arī ja Rīkojuma veids ir "Pieņemšana darbā", no Rīkojuma
+dokumenta loga iespējams atvērt arī.. image:: images_ozols/25740.png
+:scale: 100%
+.
 
  

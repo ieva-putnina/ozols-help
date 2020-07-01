@@ -1,0 +1,98 @@
+.. 883 Visi partneri***************** 
+
+
+Atskaitē Visi partneri, tiek attēlotidati, par pilnīgi visiem datu
+bāzē pievienotajiem :doc:`Partneriem<112>` (fiziskām un juridiskām
+personām). Atskaitē iespējamsiegūt informāciju par ParPartnera
+kontaktinformāciju, Adresi, Reģistrācijas nr., :doc:`Partneru
+grupu<113>` un :doc:`Sektoru<810>` griezumā.
+
+Filtrs (rīku joslā poga |images_ozols/24535.gif| (Ctrl+F)) jāaizpilda,
+lai sagatavotu atskaiti.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24635.gif| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu
+atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež poga
+|images_ozols/24535.gif| (Ctrl+F), tiek atvērts filtra logs:
+
+
+
+|images_ozols/26070.png|
+
+
+
+Sektors: Iespējams atlasīt konkrēta :doc:`Sektora<810>`
+:doc:`Partnerus<112>` (pie nosacījuma, ka :doc:`Partnera<312>`
+aprakstā, sadaļā Pārējie dati - laukā "Sektors" - norādīts Partnerim
+atbilstošs Sektors)
+
+Partneru grupa: Iespēja atlasīt :doc:`Partnerus<112>` , kuri atbilst
+konkrētai, filtrā izvēlētajai :doc:`Partneru grupai<113>` .
+
+Piedāvājums: Iespēja atlasīt partnerus, kuriem sagatavots
+:doc:`Piedāvājums<879>` , izmantojot Ozols CRM moduļa piedāvātās
+:doc:`Aktivitātes<743>` izveides iespējas.
+
+Piedāv.stadija: Atlasīt partnerus,kuriem sagatavots
+:doc:`Piedāvājums<879>` , izmantojot Ozols CRM moduļa piedāvātās
+:doc:`Aktivitātes<743>` izveides iespējas, pēc konkrētas filtrā
+norādītās piedāvājuma stadijas.
+
+
+
+Ja visi vēlamie atlases kritēriji izvēlēti, jānospiež poga
+|images_ozols/25619.png| , lai tiktu sagatavota atskaite par
+atlasītajiem datiem.
+
+No sagatavotās aktivitāšu atskaites ir iespējams atvērt izvēlēto
+aktivitāti, nospiežot pogu |images_ozols/25603.png| .
+
+
+
+|images_ozols/24545.gif| No Atskaites Visi partneri, izmantojot rīku
+joslā esošo pogu Funkcijas |images_ozols/25814.png| , atrodoties uz
+konkrēta Partnera ieraksta, iespējams atvērt |images_ozols/26071.png|
+- kā rezultātā tiks atvērta atskaite: :doc:`Visas aktivitātes<843>` ,
+kur pieejama informācija par visiem, saistībā ar konkrēto
+:doc:`Partneri<312>` , reģistrētajiem :doc:`Darba uzdevumiem<743>` ,
+:doc:`Notikumiem<743>` , :doc:`Ieg./izg. korespondenci<745>` un
+:doc:`Piedāvājumiem<743>` .
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+:scale: 100%
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24635.gif| image:: images_ozols/24635.gif
+:scale: 100%
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+:scale: 100%
+
+.. |images_ozols/26070.png| image:: images_ozols/26070.png
+:scale: 100%
+
+.. |images_ozols/25619.png| image:: images_ozols/25619.png
+:scale: 100%
+
+.. |images_ozols/25603.png| image:: images_ozols/25603.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/25814.png| image:: images_ozols/25814.png
+:scale: 100%
+
+.. |images_ozols/26071.png| image:: images_ozols/26071.png
+:scale: 100%
+
+ 

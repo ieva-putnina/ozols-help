@@ -11,20 +11,28 @@ pamatlīdzekļuīpašuma veidu ir iespējams izmantot kā datu
 pamatlīdzekļus.
 
 Jauns pamatlīdzekļu īpašuma veidstiek pievienots pamatlīdzekļu īpašumu
-veidu sarakstā ar funkciju . Pēc nepieciešamās informācijas
-aizpildīšanas jāspiež poga Saglabāt lai saglabātu jaunizveidoto
-ierakstu.
+veidu sarakstā ar funkciju .. image:: images_ozols/24532.jpg
+:scale: 100%
+. Pēc nepieciešamās informācijas aizpildīšanas jāspiež poga Saglabāt
+lai saglabātu jaunizveidoto ierakstu.
+
+
+
+.. image:: images_ozols/24531.jpg
+:scale: 100%
 
 
 
 
+Pamatlīdzekļa īpašuma veidu labo ar funkciju .. image::
+images_ozols/24533.jpg
+:scale: 100%
+.
 
-
-
-Pamatlīdzekļa īpašuma veidu labo ar funkciju .
-
-Pamatlīdzekļu īpašuma veidu dzēš ar funkciju . Pamatlīdzekļu īpašuma
-veidu sistēma neļauj dzēst, ja tas ir pievienots kādam sistēmā
-ievadītam pamatlīdzeklim.
+Pamatlīdzekļu īpašuma veidu dzēš ar funkciju .. image::
+images_ozols/24534.jpg
+:scale: 100%
+. Pamatlīdzekļu īpašuma veidu sistēma neļauj dzēst, ja tas ir
+pievienots kādam sistēmā ievadītam pamatlīdzeklim.
 
  

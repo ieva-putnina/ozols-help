@@ -1,0 +1,13 @@
+.. 199 Grāmatojumu tipi******************** 
+
+
+Grāmatojumu tipi ir sistēmā iebūvēts, nemainīgs saraksts, kas
+paskaidro dokumentu darba režīmus. Tie nav manuāli maināmi/labojami un
+lietotājam nav iespējams pievienot jaunus grāmatojumu tipus.
+
+Katram pirmdokumentam sistēmā tiek piešķirts dokuments tips, kuriem
+iespējams veidot grāmatojumu šablonus. Grāmatojot noteiktu dokumenti
+tipu, izvēlei tiek parādīti tikai dokumenta tipam atbilstošie
+:doc:`Grāmatojumu šabloni<135>` .
+
+ 

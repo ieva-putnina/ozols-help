@@ -1,4 +1,4 @@
-.. 47 Personāla vadība==================== .. role:: raw-html(raw)     :format: html
+.. 47 Personāla vadība==================== 
 
 
 Personāla vadības modulis paredzēts organizācijas struktūras un štatu

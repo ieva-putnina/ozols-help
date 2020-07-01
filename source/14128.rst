@@ -10,6 +10,8 @@ Ikgadējo atvaļinājumu(>Dokumenti > Personāla uzskaite > :doc:`Rīkojumu
 
 
 
+.. image:: images_ozols/26356.png
+:scale: 100%
 
 
 
@@ -17,6 +19,8 @@ Apstiprinot rīkojumu par atvaļinājumu, tiek saskaitītas atvaļinājuma
 dienas un pievienotas slodzes kalendāram.
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Lai rīkojumu dokumenti piedalītos algu aprēķinos, tie obligāti
 jāapstiprina.
 
@@ -28,6 +32,8 @@ kalendāra:
 
 
 
+.. image:: images_ozols/26357.png
+:scale: 100%
 
 
 
@@ -38,10 +44,14 @@ algu aprēķina formulām tiks aprēķināta atvaļinājuma naudas summa.
 
 
 
+.. image:: images_ozols/26358.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Gadījumos, ja strādājošais mēneša sākumā iet atvaļinājumā un
 atvaļinājums noslēdzas tekošajā periodā - pēc atvaļinājuma seko vēl
 nostrādājamās darba dienas, tad darba devējam ir jāizmaksā alga līdz
@@ -52,6 +62,8 @@ un kavētās darba dienas līdz mēneša beigām pēc atvaļinājuma:
 
 
 
+.. image:: images_ozols/26359.png
+:scale: 100%
 
 
 
@@ -65,10 +77,14 @@ un kalendārās dienas līdz mēneša beigām pēc atvaļinājuma:
 
 
 
+.. image:: images_ozols/26360.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Ja programmā nav datu dienas vidējās izpeļņas aprēķināšanai,
 lietotājam ir iespēja manuāli pievienot dienas vidējās izpeļņas kodu
 algu aprēķina kartiņā ieejošajos datos, izmantojot algu aprēķinā
@@ -76,12 +92,16 @@ pieejamo pogu Pievienot un izvēloties atbilstošo algas kodu:
 
 
 
+.. image:: images_ozols/26361.png
+:scale: 100%
 
 
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Pēc atvaļinājuma naudas aprēķina, aprēķinot atlikušo izmaksājamo algas
 daļu, lai tiktu pilnībā piemēroti noteiktie atvieglojumi un
 neapliekamais minimums, nepieciešams no algas aprēķina dzēst iepriekš

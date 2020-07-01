@@ -2,6 +2,8 @@
 Pievienojot jaunu korespondenci, tiek atvērts logs, kur jāievada
 attiecīgā informācija:
 
+.. image:: images_ozols/25883.png
+:scale: 100%
 
 
 
@@ -28,10 +30,17 @@ Ieraksta tiesības : iespējams norādīt ieraksta tiesības;
 
 Apraksts : korespondences apraksts.
 
-Ja visa informācija ievadīta, jānospiež poga un ir iespējams izveidot
-jaunu korespondenci, nospiežot pogu . Vai, lai saglabātu un aizvērtu,
-jānospiež poga . Visas pievienotās korespondences tiek saglabāts
-:doc:`korespondenču žurnālā<4460>` .
+Ja visa informācija ievadīta, jānospiež poga .. image::
+images_ozols/25829.png
+:scale: 100%
+un ir iespējams izveidot jaunu korespondenci, nospiežot pogu ..
+image:: images_ozols/25831.png
+:scale: 100%
+. Vai, lai saglabātu un aizvērtu, jānospiež poga .. image::
+images_ozols/25828.png
+:scale: 100%
+. Visas pievienotās korespondences tiek saglabāts :doc:`korespondenču
+žurnālā<4460>` .
 
 
 

@@ -1,0 +1,36 @@
+.. 14094 Novērotās problēmas programmas atjaunošanas laikā***************************************************** 
+
+
+1.:doc:`Darba izpildes loga<735>` JOB izpildes aprakstākolonnā
+Rezultāts rāda , ka JOB solis izpildās, bet paziņojums ir ilgu laika
+sprīdi . Parasti viss programmas atjaunošanas un datu bāzes
+modifikācijas cikls izpildās 10 – 15 minūtes, maksimāli 30 minūtes,
+atkarīgs no servera parametriem, Interneta pieslēguma ātruma.
+
+
+Risinājums: Jāpārbauda, vai uz servera, lokālā datora (ja SQL datu
+bāze ir uz lokāla datora) ir atļauta skriptu izpilde. Skriptu izpildi
+var aizliegt Antivīrusu programmas.
+
+
+2.:doc:`Darba izpildes logā<735>` parādās informācija, ka JOB
+neizpildās, pēdējā izpildes solī kļūda:
+
+
+a)Otrajā solī paziņojums Neizdevās ielādēt failu ozols.arh !
+
+
+Risinājums: Jāpārbauda vai uz servera ir piereģistrēts MSDAIPP.DLL un
+msdaurl.dll
+
+
+b)Trešajā solī paziņojums Nav pareizi norādīts programmas ozols.exe
+katalogs !
+
+
+Risinājums: Jāpārbauda , vai ir pareizi norādīts klienta programmas
+atjaunošanas katalogs. Vai JOB īpašniekam ir tiesības ierakstīt dotajā
+katalogā.
+
+
+ 

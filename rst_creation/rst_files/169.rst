@@ -2,9 +2,11 @@
 
 
 Kad ir izveidotas lietotāju grupas un lietotāji ir pievienoti
-atbilstošajām lietotāju grupām, jānosaka tiesības grupām. Katram
-individuālam lietotājam tiks piešķirtas tādas tiesības, kādas būs
-noteiktas grupām - ja lietotājs vienlaicīgi atradīsies vairākās
+atbilstošajām lietotāju grupām, jānosaka tiesības grupām. .. image::
+images_ozols/24545.gif
+:scale: 100%
+Katram individuālam lietotājam tiks piešķirtas tādas tiesības, kādas
+būs noteiktas grupām - ja lietotājs vienlaicīgi atradīsies vairākās
 grupām, tad šim lietotājām tiesības tiks summētas.
 
 
@@ -19,6 +21,8 @@ darba režīmi:
 
 
 
+.. image:: images_ozols/25776.png
+:scale: 100%
 
 
 
@@ -30,10 +34,15 @@ darba režīmi:
 2.Jāaktivizē tie darba režīmi, kuri šīs grupas lietotājiem būs
 pieejami
 
-3. Lai saglabātu tiesības iezīmētajai grupai, jānospiež poga
+3. Lai saglabātu tiesības iezīmētajai grupai, jānospiež poga ..
+image:: images_ozols/25771.png
+:scale: 100%
+
 
 4. Lai aizvērtu "Lietotāju tiesības darba režīmiem" logu, jānospiež
-poga
+poga .. image:: images_ozols/25772.png
+:scale: 100%
+
 
 
 

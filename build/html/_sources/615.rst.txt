@@ -10,9 +10,16 @@ Atskaiti iespējams sagatavot par:
 sarakstos;
 - vienam konkrētam :doc:`izmaksu sarakstam<238>`
 
+.. image:: images_ozols/26545.png
+:scale: 100%
 
 
-Datu atlases kritērijus var saglabāt ( ). Izvēloties izveidoto filtra
-sagatavi ( ), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+Datu atlases kritērijus var saglabāt (.. image::
+images_ozols/24938.png
+:scale: 100%
+). Izvēloties izveidoto filtra sagatavi (.. image::
+images_ozols/24943.png
+:scale: 100%
+), filtrs tiek automatizēti aizpildīts no filtra sagataves.
 
  

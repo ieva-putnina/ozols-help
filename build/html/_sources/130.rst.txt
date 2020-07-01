@@ -14,19 +14,28 @@ pamatlīdzekļus.
 
 
 Jauna pamatlīdzekļu pazīme tiek pievienota pamtlīdzekļu pazīmju
-sarakstā ar funkciju . Pēc nepieciešamās informācijas aizpildīšanas
-jāspiež poga Saglabāt lai saglabātu jaunizveidoto ierakstu.
+sarakstā ar funkciju .. image:: images_ozols/24532.jpg
+:scale: 100%
+. Pēc nepieciešamās informācijas aizpildīšanas jāspiež poga Saglabāt
+lai saglabātu jaunizveidoto ierakstu.
+
+
+
+.. image:: images_ozols/24577.jpg
+:scale: 100%
 
 
 
 
+Pamatlīdzekļa pazīmi labo ar funkciju .. image::
+images_ozols/24533.jpg
+:scale: 100%
+.
 
-
-
-Pamatlīdzekļa pazīmi labo ar funkciju .
-
-Pamatlīdzekļa pazīmi dzēš ar funkciju . Pamatlīdzekļa pazīmi sistēma
-neļauj dzēst, ja tā ir pievienota kādam sistēmā ievadītam
-pamatlīdzeklim.
+Pamatlīdzekļa pazīmi dzēš ar funkciju .. image::
+images_ozols/24534.jpg
+:scale: 100%
+. Pamatlīdzekļa pazīmi sistēma neļauj dzēst, ja tā ir pievienota kādam
+sistēmā ievadītam pamatlīdzeklim.
 
  

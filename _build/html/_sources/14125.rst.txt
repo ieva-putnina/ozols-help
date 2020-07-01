@@ -1,0 +1,2 @@
+.. 14125 Datora iestādījumu konfigurācijas parametri*********************************************** 
+ .. toctree::   :maxdepth: 4    14126.rst

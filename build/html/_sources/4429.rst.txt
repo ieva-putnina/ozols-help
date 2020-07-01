@@ -3,6 +3,8 @@ Lai pievienotu jaunu partneri:
 
 
 
+.. image:: images_ozols/25844.png
+:scale: 100%
 
 
 
@@ -27,9 +29,17 @@ Partneru grupas : pievienotais partneris tiek piesaistīts
 nodefinētajām :doc:`partneru grupām<113>` , lai būtu iespējams grupēt
 partnerus.
 
-Lai saglabātu pievienotā partnera datus, jānospiež poga , un, lai
-labotu, jānospiež poga , bet, lai pievienotu jaunu partneri, jānospiež
-poga . Lai dzēstu, jānospiež poga .
+Lai saglabātu pievienotā partnera datus, jānospiež poga .. image::
+images_ozols/25829.png
+:scale: 100%
+, un, lai labotu, jānospiež poga .. image:: images_ozols/25832.png
+:scale: 100%
+, bet, lai pievienotu jaunu partneri, jānospiež poga .. image::
+images_ozols/25831.png
+:scale: 100%
+. Lai dzēstu, jānospiež poga .. image:: images_ozols/25830.png
+:scale: 100%
+.
 
 Visi pievienotie partneri un to dati tiek saglabāti :doc:`partneru
 žurnālā<4427>` .

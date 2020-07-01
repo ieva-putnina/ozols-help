@@ -1,2 +1,2 @@
-.. 46 Projektu kalkulācija======================== .. role:: raw-html(raw)     :format: html
+.. 46 Projektu kalkulācija======================== 
  .. toctree::   :maxdepth: 6    60.rst   32.rst   851.rst   4614.rst   33.rst

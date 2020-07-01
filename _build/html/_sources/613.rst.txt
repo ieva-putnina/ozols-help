@@ -1,0 +1,32 @@
+.. 613 Atskaite par algu budžetu un tā faktisko izpildi (kopsavilkums)******************************************************************* Atskaite parāda noteikto budžetu amatam un tā reālo izlietojumu no
+veiktā algu aprēķina. Ja visas štata vietas nav aizpildītas, atskaitē
+amats tiek parādīts kā vakance.
+Atskaite tiek sagatavota līdzīgi kā ":doc:`Atskaite par algu budžetu
+un tā faktisko izpildi<612>` ".
+Datu uzskaite ir jāveic tā, lai vienā amatā uzskaitītu personas ar
+vienādu atalgojumu. Plāns var tikt noteikts vairākiem algu aprēķina
+rezultātiem un līdz ar to arī attiecīgi tiek iegūti dati par noteiktā
+algu budžeta izpildi pa atsevišķiem algu aprēķina posteņiem.
+Atskaiti var sagatavot pa atsevišķiem aprēķina periodiem,
+struktūrvienībām, var atlasīt datus pēc amatiem, grupēt pēc amatiem
+vai struktūrvienības.
+
+|images_ozols/26554.png|
+
+Kopsavilkuma atskaitē faktiskā izpilde un noteiktais plāns netiek
+atšifrēts. Atskaitē parādās kopējais noteiktais budžets amatam,
+faktiski iztērētā summa un aprēķināts atlikums.
+Sagatavoto atskaiti iespējams izdrukāt. Lai atskaiti izdrukātu, rīko
+joslā jānospiež poga |images_ozols/24944.png| (Ctrl+P), un poga
+|images_ozols/25620.png|
+
+.. |images_ozols/26554.png| image:: images_ozols/26554.png
+:scale: 100%
+
+.. |images_ozols/24944.png| image:: images_ozols/24944.png
+:scale: 100%
+
+.. |images_ozols/25620.png| image:: images_ozols/25620.png
+:scale: 100%
+
+ 

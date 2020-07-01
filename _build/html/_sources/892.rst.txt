@@ -1,0 +1,77 @@
+.. 892 PVN2: Pārskats par preču piegādēm un sniegtajiem pakalpojumiem ES********************************************************************* 
+
+
+PVN deklarācijas pielikums tiek sagatavots pēc Ministru kabineta
+noteikumiem. Atskaite tiek saglabāta kā pielikums PVN mēneša
+deklarācijai atskaišu :doc:`Sarakstā<531>` , un atskaites datus
+nepieciešamības gadījumā var pārrēķināt. Atskaite tiek sagatavota par
+darījumu summu pamat valūtā, iekļaujot pārdošanas dokumentu valūtu,
+partneri un partnera reģistrācijas numuru.
+
+
+
+Lai būtu iespējams sagatavot Pārskatu par preču piegādēm un
+sniegtajiem pakalpojumiem ES,iepriekš jābūt izveidotai
+:doc:`Grāmatojumu atskaišu konfigurācijai<179>` .
+
+
+
+Pārskata par preču piegādēm un sniegtajiem pakalpojumiem ES
+(PVN2)sagatavošana
+++++++++++++++++++
+
+
+
+1. Izvēloties PVN deklarācijas pielikumu: PVN2: pārskats par preču
+piegādēm un sniegtajiem pakalpojumiem ES, tiks atvērt filtra logs, kur
+jānorāda nepieciešamie parametri, pēc kādiem atskaite tiks sagatavota.
+
+
+
+2. Nepieciešams norādīt attiecīgo profilu (45.rindas konfigurāciju) -
+:doc:`atskaites konfigurāciju<179>` , pēc kādiem konfigurācijas datiem
+atskaite tiks sagatavota.
+
+
+
+
+3.Pārskats par preču piegādēm un sniegtajiem pakalpojumiem ES tiks
+sagatavots, nospiežot pogu |images_ozols/25049.png| :
+
+4. Ekrāna formā ir pieejams atskaišu konfigurācijas saraksts.
+Nospiežot pogu |images_ozols/25055.png| , komanda izsauc atskaites
+konfigurācijas ekrāna formu, to var papildināt neaizverot atskaiti.
+
+
+5. Ja pēc atskaites sagatavošanas veiktas izmaiņas :doc:`atskaites
+konfigurācijā<179>` , atskaiti pēc izmanītās konfigurācijas datiem var
+pārrēķināt, nospiežot pogu: |images_ozols/25053.png| . Pārrēķinot
+atskaiti, tajā tiek parādīti jaunākie dati.
+
+6. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
+sarakstā<531>` , kur tā būs pieejama labošanai/drukāšanai, nospiežot
+pogu: |images_ozols/25054.png| .
+
+
+
+7. Nospiežot pogu |images_ozols/24617.jpg| atskaite sagatavota netiks
+un darbība tiks atcelta. Ja atskaite tiek izveidota un nav jāsaglabā,
+jālieto komanda Atcelt .
+
+
+.. |images_ozols/25049.png| image:: images_ozols/25049.png
+:scale: 100%
+
+.. |images_ozols/25055.png| image:: images_ozols/25055.png
+:scale: 100%
+
+.. |images_ozols/25053.png| image:: images_ozols/25053.png
+:scale: 100%
+
+.. |images_ozols/25054.png| image:: images_ozols/25054.png
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

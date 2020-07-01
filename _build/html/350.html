@@ -1,0 +1,711 @@
+
+
+
+<!DOCTYPE html>
+<html >
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+      <title>Kases ieņēmumu orderis</title>
+    
+      <link rel="stylesheet" href="_static/pygments.css">
+      <link rel="stylesheet" href="_static/theme.css">
+      <link rel="stylesheet" href="_static/sphinx_press_theme.css">
+          <link rel="stylesheet" href="_static/page_nav.css" type="text/css" />
+          <link rel="stylesheet" href="_static/jquery.fancybox.min.css" type="text/css" />
+          <link rel="stylesheet" href="_static/sphinx_press_theme.css" type="text/css" />
+      
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+      <!-- sphinx script_files -->
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+        <script src="_static/jquery.fancybox.min.js"></script>
+
+      
+      <script src="_static/theme-vendors.js"></script>
+      <script src="_static/theme.js" defer></script>
+    
+  <link rel="index" title="Index" href="genindex.html" />
+  <link rel="search" title="Search" href="search.html" />
+  <link rel="next" title="Kases izdevumu orderis" href="332.html" />
+  <link rel="prev" title="Kases avansa maksājums" href="471.html" /> 
+  </head>
+
+  <body>
+    <div id="app" class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
+  <router-link to="index.html" class="home-link">
+    
+      <span class="site-name">Sistēmas LĀCIS dokumentācija</span>
+    
+  </router-link>
+
+  <div class="links">
+    <navlinks class="can-hide">
+
+
+
+    </navlinks>
+  </div>
+</navbar>
+
+      
+      <div class="sidebar-mask" @click="toggleSidebar(false)">
+      </div>
+        <sidebar @toggle-sidebar="toggleSidebar">
+          
+          <navlinks>
+            
+
+
+
+            
+          </navlinks><div id="searchbox" class="searchbox" role="search">
+  <div class="caption"><span class="caption-text">Quick search</span>
+    <div class="searchformwrapper">
+      <form class="search" action="search.html" method="get">
+        <input type="text" name="q" />
+        <input type="submit" value="Search" />
+        <input type="hidden" name="check_keywords" value="yes" />
+        <input type="hidden" name="area" value="default" />
+      </form>
+    </div>
+  </div>
+</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
+  
+    <div class="sidebar-group">
+      <p class="caption">
+        <span class="caption-text"><a href="index.html#ozols-palidzibas-sistema">ozols palīdzības sistēma</a></span>
+      </p>
+      <ul class="">
+        
+          <li class="toctree-l1 "><a href="7603.html" class="reference internal ">Paziņojumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="600.html" class="reference internal ">Sākums</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="14000.html" class="reference internal ">Sistēmas lietošanas instrukcija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="18.html" class="reference internal ">Mani darbi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="39.html" class="reference internal ">Alga</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4000.html" class="reference internal ">Apdrošināšanas polises</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4800.html" class="reference internal ">Autoinfo</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="40.html" class="reference internal ">Avansi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="48.html" class="reference internal ">Budžeta izpilde</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6600.html" class="reference internal ">Budžeta plānošana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7700.html" class="reference internal ">Caurlaides</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="26.html" class="reference internal ">CRM (Partneri)</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="50.html" class="reference internal ">Datu apmaiņa ar banku</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7400.html" class="reference internal ">Degvielas tirdzniecība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7000.html" class="reference internal ">Dividendes</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7900.html" class="reference internal ">Ēdināšana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="41.html" class="reference internal ">Finanses</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4900.html" class="reference internal ">iVeikals</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="42.html" class="reference internal ">Krājumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7600.html" class="reference internal ">Kravu pārvadājumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4100.html" class="reference internal ">LaMSF</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6800.html" class="reference internal ">Līgumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4500.html" class="reference internal ">Maksājumu uzskaite</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7100.html" class="reference internal ">Mazumtirdzniecība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="43.html" class="reference internal ">Noliktava</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6770.html" class="reference internal ">Noma</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6700.html" class="reference internal ">Noma transportam</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="44.html" class="reference internal ">Norēķini</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="45.html" class="reference internal ">Pamatlīdzekļi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="34.html" class="reference internal ">Pasts</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7200.html" class="reference internal ">Personāla pašapkalpošanās</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="47.html" class="reference internal ">Personāla vadība</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6500.html" class="reference internal ">Polises</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="46.html" class="reference internal ">Projektu kalkulācija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4200.html" class="reference internal ">Regresi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4300.html" class="reference internal ">TKU</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="49.html" class="reference internal ">Virsgrāmata</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4700.html" class="reference internal ">wap OZOLS</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="38.html" class="reference internal ">Citi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5226.html" class="reference internal ">Darbinieku portāls</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6901.html" class="reference internal ">Degvielas pasūtījumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5026.html" class="reference internal ">Iestādījumi</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4444.html" class="reference internal ">Klientu portāls</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="12.html" class="reference internal ">Konfigurācija</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="1.html" class="reference internal ">Kopējie saraksti</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7301.html" class="reference internal ">Mākslinieciskā darba plānošana</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="5295.html" class="reference internal ">Meklēšanas rezultāti</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="6734.html" class="reference internal ">Noma</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="31.html" class="reference internal ">Pievienot</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4461.html" class="reference internal ">Pievienot notikumu</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="10.html" class="reference internal ">Rīki</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="7500.html" class="reference internal ">SPRK</a>
+
+            
+          </li>
+
+        
+          <li class="toctree-l1 "><a href="4445.html" class="reference internal ">Uzņēmuma portāls</a>
+
+            
+          </li>
+
+        
+      </ul>
+    </div>
+  
+</div>
+        </sidebar>
+
+      <page>
+          <div class="body-header" role="navigation" aria-label="navigation">
+  
+  <ul class="breadcrumbs">
+    <li><a href="index.html">Docs</a> &raquo;</li>
+    
+      <li><a href="41.html">Finanses</a> &raquo;</li>
+    
+      <li><a href="846.html">Jauns</a> &raquo;</li>
+    
+    <li>Kases ieņēmumu orderis</li>
+  </ul>
+  
+
+  </script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="471.html"
+       title="previous chapter">← Kases avansa maksājums</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="332.html"
+       title="next chapter">Kases izdevumu orderis →</a>
+  </li>
+</ul>
+
+  
+</div>
+<hr>
+          <div class="content" role="main">
+            
+  <div class="section" id="kases-ienemumu-orderis">
+<h1>Kases ieņēmumu orderis<a class="headerlink" href="#kases-ienemumu-orderis" title="Permalink to this headline">¶</a></h1>
+<p>Kases ieņēmumu orderis jāveido, kad tiek saņemta nauda kasē no
+uzņēmuma darījuma partneriem. Kases ieņēmumu orderi tiek saglabāti
+dokumentu žurnālā <a class="reference internal" href="227.html"><span class="doc">Kases ieņēmumi</span></a> , un dokumentam ir
+iebūvēta standarta izdrukas forma. Darījuma atšifrēšanai pa finanšu
+(EK) kodiem, jāaizpilda dokumenta saturs. Lai dokumenta izdrukā
+parādītos grāmatojumu konti, dokuments pirms izdrukāšanas ir
+jāiegrāmato.</p>
+<div class="section" id="jaunakases-ienemumu-orderapievienosana">
+<h2>JaunaKases ieņēmumu orderapievienošana<a class="headerlink" href="#jaunakases-ienemumu-orderapievienosana" title="Permalink to this headline">¶</a></h2>
+<p>Izvēloties dokumenta veidu Kases ieņēmumu orderis, tiks atvērts jauns
+logs:</p>
+<p><img alt="images_ozols/24995.png" src="_images/24995.png" /></p>
+<div class="section" id="kasesienemumu-orderavirsraksta-aizpildisana">
+<h3>Kasesieņēmumu orderaVirsraksta aizpildīšana<a class="headerlink" href="#kasesienemumu-orderavirsraksta-aizpildisana" title="Permalink to this headline">¶</a></h3>
+<p>Lai aizpildītu Kasesieņēmumu ordera Virsrakstu, nepieciešams:</p>
+<p>1. Norādīt Uzņēmuma kasi, uz kurusaņemta nauda kasē no uzņēmuma
+darījuma partneriem:</p>
+<p><img alt="images_ozols/24826.png" src="_images/24826.png" /></p>
+<ol class="arabic simple" start="2">
+<li><p>Izvēlēties Datumu, kurā šisKasesieņēmumu orderistiek veidots:</p></li>
+</ol>
+<p><img alt="images_ozols/24811.png" src="_images/24811.png" /></p>
+<p>3.Ievadīt kopējo Kasesieņēmumu ordera summu:</p>
+<p><img alt="images_ozols/24812.png" src="_images/24812.png" /></p>
+<p>4. No saraksta izvēlēties nepieciešamo Maksātāju - Juridisku vai
+fizisku personu, no kura nauda kasē tiek saņemta:</p>
+<p><img alt="images_ozols/24859.png" src="_images/24859.png" /></p>
+<p>5. No saraksta izvēlēties nepieciešamo Personu - fizisku personu, no
+kuras nauda kasē tiek saņemta:</p>
+<p><img alt="images_ozols/24828.png" src="_images/24828.png" /></p>
+<p>Aizpildot lauku Persona , lauks Pers.dok. tiks aizpildīts automātiski,
+pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:</p>
+<p><img alt="images_ozols/24862.png" src="_images/24862.png" /></p>
+<p><img alt="images_ozols/24545.gif" src="_images/24545.gif" /> Noformējot skaidras naudas operāciju
+Juridiskai personai, laukā Piegādātājs jāvada Juridiskās personas
+nosaukums un laukā Persona - Fiziskās personas nosaukums, kura šo
+Juridisko personu pārstāv. Noformējot skaidras naudas operāciju
+fiziskai personai, gan laukā Piegādātājs , gan Persona , jānorāda
+Fiziskas personas nosaukums.</p>
+</div>
+<div class="section" id="kases-ienemumu-orderasatura-aizpildisana">
+<h3>Kases ieņēmumu orderaSatura aizpildīšana<a class="headerlink" href="#kases-ienemumu-orderasatura-aizpildisana" title="Permalink to this headline">¶</a></h3>
+<p>Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams
+nospiest pogu <img alt="images_ozols/24708.png" src="_images/24708.png" /> un tiks atvērts operācijas
+satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā
+izmantotās dimensijas) un norādīt satura ieraksta summu:</p>
+<p><img alt="images_ozols/24818.png" src="_images/24818.png" /></p>
+<p><img alt="images_ozols/24545.gif" src="_images/24545.gif" /> Dokumenta saturs var sastāvēt no vairākiem
+satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
+summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
+atkārtoti nospiežot pogu <img alt="images_ozols/24708.png" src="_images/24708.png" /> .</p>
+</div>
+<div class="section" id="kasesienemumu-ordera-pamatojuma-aizpildisana">
+<h3>Kasesieņēmumu ordera Pamatojuma aizpildīšana<a class="headerlink" href="#kasesienemumu-ordera-pamatojuma-aizpildisana" title="Permalink to this headline">¶</a></h3>
+<p>Kasesieņēmuma orderalauks Pamatojums tiek drukāts kasesieņēmumu ordera
+rindā Pamatojums.</p>
+<p>Lauku Kasesieņēmumu ordera Pamatojums , iespējams aizpildīt manuāli
+vai izvēloties no <a class="reference internal" href="136.html"><span class="doc">Kases paskaidrojumu saraksta</span></a> :</p>
+<p><img alt="images_ozols/24835.png" src="_images/24835.png" /></p>
+</div>
+<div class="section" id="dokumentu-piesaiste-kases-ienemumu-orderim">
+<h3>Dokumentu piesaiste Kases ieņēmumu orderim<a class="headerlink" href="#dokumentu-piesaiste-kases-ienemumu-orderim" title="Permalink to this headline">¶</a></h3>
+<p>Kases ieņēmumu orderim iespējams piesaistītStingrās uzskaites
+dokumentusno <a class="reference internal" href="286.html"><span class="doc">Darījumu apliecinošo kvīšu</span></a> , <a class="reference internal" href="252.html"><span class="doc">Kultūras
+un citu pasākumu ieejas biļešu</span></a> vai <a class="reference internal" href="773.html"><span class="doc">Caurlaižu</span></a>
+žurnāla,nospiežot uz lauka Dokumenti labajā pusē esošās lupas pogas un
+pievienojot nepieciešamo Stingrās uzskaites dokumentu:</p>
+<p><img alt="images_ozols/24868.png" src="_images/24868.png" /></p>
+<p>Kad izvēlēts nepieciešamais uzskaites dokuments un ierakstīta
+dokumenta summa, ierakstu iespējams pievienot, nospiežot
+<img alt="images_ozols/24874.png" src="_images/24874.png" /> vai arī, ja nevēlaties dokumentu pievienot -
+<img alt="images_ozols/24875.png" src="_images/24875.png" /> .</p>
+<p>Lai izvēlētos uzskaites dokumentus piesaistītu Kases ieņēmumu orderim,
+logā “Darījumu apliecinošās kvītis” nepieciešams nospiest
+<img alt="images_ozols/24876.png" src="_images/24876.png" /> un dokuments tikspievienots Kases ieņēmumu
+orderim:</p>
+<p><img alt="images_ozols/24877.png" src="_images/24877.png" /></p>
+<p>Kad visi nepieciešamie lauki ir aizpildīti, Kases ieņēmumu orderis ir
+sagatavots un to ir iespējams:</p>
+<p>1. Saglabāt,nospiežot pogu <img alt="images_ozols/24615.jpg" src="_images/24615.jpg" /> -dokuments tiks
+saglabāts un būs pieejams apskatei/labošanai/grāmatošanai:doc:<cite>Kases
+ieņēmumu žurnālā&lt;227&gt;</cite> .</p>
+<p>2. Apstiprināt, nospiežot rīku joslā pogu <img alt="images_ozols/24740.png" src="_images/24740.png" /> -
+Kases ieņēmumu orderis tiks Apstiprināts un to būs iespējams Grāmatot.</p>
+</div>
+</div>
+<div class="section" id="kases-ienemumu-orderagramatosana">
+<h2>Kases ieņēmumu orderagrāmatošana<a class="headerlink" href="#kases-ienemumu-orderagramatosana" title="Permalink to this headline">¶</a></h2>
+<p>Kases ieņēmumu orderiiespējams grāmatot no atvērta dokumenta vai
+izvēloties (iezīmējot)dokumentu <a class="reference internal" href="227.html"><span class="doc">Kases ieņēmumu žurnālā</span></a> .</p>
+<p>Lai iegrāmatotu Kases ieņēmumu orderi, dokumentu nepieciešams
+Apstiprināt, nospiežot rīku joslā pogu <img alt="images_ozols/24740.png" src="_images/24740.png" /> .</p>
+<p>Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu <img alt="images_ozols/24741.png" src="_images/24741.png" /> .</p>
+<p>Instrukcija - <a class="reference internal" href="14044.html"><span class="doc">Dokumentu grāmatošanas principi</span></a></p>
+</div>
+<div class="section" id="pievienotakases-ienemumu-ordera-labosana">
+<h2>PievienotāKases ieņēmumu ordera labošana<a class="headerlink" href="#pievienotakases-ienemumu-ordera-labosana" title="Permalink to this headline">¶</a></h2>
+<p>Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu Kases
+ieņēmumu orderis, kurš pieejams apskatei/labošanai:doc:<cite>Kases ieņēmumu
+žurnālā&lt;227&gt;</cite> .</p>
+<p>Lai veiktu labojumus,dokumentunepieciešams atvērt, izmantojot rīku
+joslas pogu <img alt="images_ozols/24709.png" src="_images/24709.png" /> (ALT+A), unatvērtajāierakstā
+iespējams veiktnepieciešamos labojumus:</p>
+<p><img alt="images_ozols/24878.png" src="_images/24878.png" /></p>
+<p>Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+<img alt="images_ozols/24615.jpg" src="_images/24615.jpg" /> vai <img alt="images_ozols/24617.jpg" src="_images/24617.jpg" /> .</p>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+<dl class="field-list simple">
+<dt class="field-odd">scale</dt>
+<dd class="field-odd"><p>100%</p>
+</dd>
+</dl>
+</div>
+</div>
+
+
+          </div>
+          <div class="page-nav">
+            <div class="inner"></script>
+<ul class="page-nav">
+  <li class="prev">
+    <a class="prev_a" href="471.html"
+       title="previous chapter">← Kases avansa maksājums</a>
+  </li>
+  <li class="next">
+    <a class="next_a" href="332.html"
+       title="next chapter">Kases izdevumu orderis →</a>
+  </li>
+</ul>
+<div class="footer" role="contentinfo">
+      &#169; Copyright 2020 Ozols Grupa.
+    <br>
+  Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.1.0 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a>.
+</div>
+                <script type="text/javascript">
+                  $(function(){
+                    $('.image-reference').fancybox();
+                  })
+                </script>
+            </div>
+          </div>
+      </page>
+    </div>
+    
+    
+  </body>
+</html>

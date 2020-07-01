@@ -1,0 +1,20 @@
+.. 4468 Individuālie**************** 
+
+Struktūrvienības un uzņēmuma izvēle iOzolā
+++++++++++++++++++++++++++++++++++++++++++
+
+Šajā sadaļā lietotājam, kurš ir kā atbildīgā persona vairākās
+struktūrvienībās un kuram ir piešķirtas tiesības uz vairākiem
+uzņēmumiem, ir iespēja nomainīt (no saraksta izvēlēties)
+struktūrvienību, kā arī uzņēmumu, lai varētu veidotu norakstīšanas
+dokumentu, kurā tiks norakstīti krājumi no izvēlētā uzņēmuma un
+norādītās struktūrvienības:
+
+
+
+|images_ozols/25851.png|
+
+.. |images_ozols/25851.png| image:: images_ozols/25851.png
+:scale: 100%
+
+ 

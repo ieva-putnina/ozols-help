@@ -10,6 +10,8 @@ Algas aprēķina.
 
 
 
+.. image:: images_ozols/26399.png
+:scale: 100%
 
 
 

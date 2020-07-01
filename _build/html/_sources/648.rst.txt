@@ -1,0 +1,108 @@
+.. 648 Dimensiju apgrozījums************************* 
+
+
+
+Dimensiju apgrozījuma atskaiti iespējams sagatavot pēc noteiktiem datu
+atlases kritērijiem. Atskaiti var izmantotnorēķinu dokumentos esošās
+informācijasanalīzei dažādās datu uzskaites dimensijās, tai skaitā
+dažādās uzņēmuma struktūrvienībās vai visā uzņēmumā kopā.Atskaite tiek
+sagatavota nonorēķinu dokumentudatiem.
+
+Filtrs jāaizpilda, lai sagatavotu atskaiti.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu
+atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež poga
+|images_ozols/24535.gif| (Ctrl+F), tiek atvērts filtra logs:
+
+
+
+
+|images_ozols/26509.png|
+
+
+
+
+
+Datums: laika periods no...līdz, par kuriem datiem no norēķinu
+dokumentiem, atskaite tiks sagatavota;
+
+Numurs no...līdz: iespēja atlasīt konkrētus norēķinu dokumentu numurus
+no..līdz;
+
+**Dok.veids:** iespēja atlasīt konkrēta dokumenta veida norēķinu
+dokumentus atskaitē;
+
+**Tips:** iespēja atfiltrēt tikai konkrēta tipa ierakstus (piemēram,
+pakalpojums, krājums, prece vai pamatlīdzeklis);
+
+Noliktava: noliktava, no kuras sagatavotie iepirkumu/pārdošanas
+dokumenti tiks uzrādīti atskaitē;
+
+**Partneris:** iespējams sagatavot atskaiti par vienu konkrētu
+partneri;
+
+
+Fin.kat: dimensiju dalījums;
+
+Projekts: dimensiju dalījums;
+
+Līgums: dimensiju dalījums;
+
+Apmaksa: apmaksas termiņa definējums;
+
+Valūta: iespējams sagatavot atskaiti par viena veida valūtas
+dokumentiem;
+
+**Grupēt pēc:** atskaite parāda apgrozījumu izvēlētajos norēķinu
+dokumentos, grupētus pa vienu no uzskaites dimensijām vai vairākām
+dimensijām kopā. Atskaiti var sagatavot:
+- norādītajam laika periodam;
+- vienam vai vairākiem norēķinu dokumentiem;
+- atlasot datus par vienu noteiktu struktūrvienību, projektu, finanšu
+(EK) kodu;
+- atlasot datus par vienu vai vairākiem partneriem.
+- summējot datus pa uzskaites dimensijām.
+
+
+
+Sagatavojot atskaiti, iespējams definēt arī papildus filtra
+nosacījumus (izvēloties partnera veidu) un nospiežot pogu
+|images_ozols/25621.png| , un, ja filtrā visi atskaites kritēriji
+izvēlēti, jānospiež poga |images_ozols/25619.png| . Sagatavotos
+atskaites datus ir iespējams arī izdrukāt. Lai drukātu datus, rīko
+joslā jānospiež poga |images_ozols/24944.png| (Ctrl+P), un jānospiež
+poga |images_ozols/25620.png| .
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+:scale: 100%
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+:scale: 100%
+
+.. |images_ozols/26509.png| image:: images_ozols/26509.png
+:scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+:scale: 100%
+
+.. |images_ozols/25619.png| image:: images_ozols/25619.png
+:scale: 100%
+
+.. |images_ozols/24944.png| image:: images_ozols/24944.png
+:scale: 100%
+
+.. |images_ozols/25620.png| image:: images_ozols/25620.png
+:scale: 100%
+
+ 

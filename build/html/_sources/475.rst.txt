@@ -21,6 +21,8 @@ atvērts jauns logs:
 
 
 
+.. image:: images_ozols/24999.png
+:scale: 100%
 
 
 
@@ -38,6 +40,8 @@ bankas konta:
 
 
 
+.. image:: images_ozols/24826.png
+:scale: 100%
 
 
 
@@ -47,6 +51,8 @@ kontatiek veidots:
 
 
 
+.. image:: images_ozols/24811.png
+:scale: 100%
 
 
 
@@ -55,6 +61,8 @@ kontatiek veidots:
 
 
 
+.. image:: images_ozols/24812.png
+:scale: 100%
 
 
 
@@ -64,6 +72,8 @@ nauda tiks pārskaitītauz uzņēmuma kasi:
 
 
 
+.. image:: images_ozols/24724.png
+:scale: 100%
 
 
 
@@ -74,6 +84,8 @@ bankas konta uzņēmuma kasē:
 
 
 
+.. image:: images_ozols/24828.png
+:scale: 100%
 
 
 
@@ -83,6 +95,8 @@ pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:
 
 
 
+.. image:: images_ozols/24926.png
+:scale: 100%
 
 
 
@@ -90,19 +104,28 @@ Naudas izņemšanas dokumenta no bankas kontaSatura aizpildīšana
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams
-nospiest pogu un tiks atvērts operācijas satura logs, kurā
-nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās
-dimensijas) un norādīt satura ieraksta summu:
+nospiest pogu.. image:: images_ozols/24708.png
+:scale: 100%
+un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
+satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
+ieraksta summu:
+
+
+
+.. image:: images_ozols/24919.png
+:scale: 100%
 
 
 
 
-
-
-
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
 kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
-satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu .
+satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu ..
+image:: images_ozols/24708.png
+:scale: 100%
+.
 
 
 Naudas izņemšanas dokumenta no bankas kontaPamatojuma aizpildīšana
@@ -117,6 +140,8 @@ Lauku Pamatojums , iespējams aizpildīt manuāli vai izvēloties no
 
 
 
+.. image:: images_ozols/24928.png
+:scale: 100%
 
 
 
@@ -134,6 +159,8 @@ Piel.num. nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:
 
 
 
+.. image:: images_ozols/24929.png
+:scale: 100%
 
 
 
@@ -141,12 +168,17 @@ Piel.num. nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:
 Kad visi nepieciešamie lauki ir aizpildīti, Naudas izņemšanas no
 bankas konta dokuments ir sagatavots un to ir iespējams:
 
-1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
+1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
+:scale: 100%
+-dokuments tiks saglabāts un būs pieejams
 apskatei/labošanai/grāmatošanai vienlaicīgi:doc:`Kases ieņēmumu<227>`
 un :doc:`Bankas izdevumu<224>` žurnālos.
 
-2. Apstiprināt, nospiežot rīku joslā pogu -Naudas izņemšanas no bankas
-kontadokumentstiks Apstiprināts un to būs iespējams Grāmatot.
+2. Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+:scale: 100%
+-Naudas izņemšanas no bankas kontadokumentstiks Apstiprināts un to būs
+iespējams Grāmatot.
 
 
 Naudas izņemšanas no bankas konta dokumenta grāmatošana
@@ -157,10 +189,15 @@ atvērta dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Kases
 ieņēmumu<227>` vai :doc:`Bankas izdevumu<224>` žurnālā.
 
 Lai iegrāmatotu Naudas izņemšanu no bankas konta, dokumentu
-nepieciešams Apstiprināt, nospiežot rīku joslā pogu .
+nepieciešams Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+:scale: 100%
+.
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu .
+pogu .. image:: images_ozols/24741.png
+:scale: 100%
+.
 
 
 
@@ -176,14 +213,22 @@ vienlaicīgi:doc:`Kases ieņēmumu<227>` un :doc:`Bankas izdevumu<224>`
 žurnālos.
 
 Lai veiktu labojumus,dokumentunepieciešams atvērt, izmantojot rīku
-joslas pogu (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos
-labojumus:
+joslas pogu.. image:: images_ozols/24709.png
+:scale: 100%
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 
 
 
+.. image:: images_ozols/24930.png
+:scale: 100%
 
 
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
  

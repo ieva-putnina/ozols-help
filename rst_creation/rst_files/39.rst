@@ -1,6 +1,4 @@
-.. 39 Alga======== .. role:: raw-html(raw)     :format: html
-:doc:`<117>`
-
+.. 39 Alga======== 
 Algu modulis paredzēts jebkura veida atalgojumu aprēķinam, algu
 vēsturisko datu uzkrāšanai, kā arī visu ar darba ņēmēju atalgojumu
 saistīto atskaišu un pārskatu sagatavošanai. Tā kā algu aprēķins tiek
@@ -10,7 +8,8 @@ darbībai nepieciešams :doc:`Personāla<47>` uzskaites modulis.
 
 
 
-.. image:: /help/Skin/help/img.aspx?pid=24545
+.. image:: images_ozols/24545.gif
+        :scale: 100%
 Ja tiek iegādātas licences tikai Algu modulim (bez Personāla moduļa
 licences iegādes), tad Algu aprēķinus iespējams veikt izmantojot
 Personāla moduļa darba režīmus, kuriem pilnā Personāla moduļa licenci

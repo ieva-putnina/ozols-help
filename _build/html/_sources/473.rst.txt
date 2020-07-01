@@ -1,0 +1,224 @@
+.. 473 Bankā atgriezts avanss************************** 
+
+
+Bankas ieņēmumu dokumenta veids Atgriezts avanss jāveido, lai veiktu
+norēķinu uzskaiti ar uzņēmuma :doc:`Avansu personām<196>` . Bankas
+ieejošā dokumenta veids jāizmanto, kad uzņēmuma avansu persona atgriež
+saņemto avansu naudu uzņēmuma bankas kontā. Dokuments ir uzskatāms par
+bankas ieņēmumu dokumentu, un tas iekļaujas kopējā dokumentu
+numerācijā, ieejošā dokumenta veids nodrošina automatizētu norēķinu
+uzskaiti ar uzņēmuma :doc:`Avansu personām<196>` . Atgriezto avansu
+dokumenti vienlaicīgi tiek parādīti :doc:`Bankas ieņēmumu<226>` un
+:doc:`Avansu norēķinu<554>` dokumentu žurnālos.
+
+
+
+JaunaBankāatgriezta avansa dokumentapievienošana
+````````````````````````````````````````````````
+
+Izvēloties dokumenta veidu Bankāatgriezts avanss, tiks atvērts jauns
+logs:
+
+
+
+|images_ozols/24985.png|
+
+
+
+Bankāatgriezta avansa Virsraksta aizpildīšana
++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+Lai aizpildītudokumenta Virsrakstu, nepieciešams:
+
+
+
+1. Norādīt Uzņēmuma bankas kontu, uz kuru avansu persona atgriež
+naudu:
+
+
+
+|images_ozols/24724.png|
+
+
+
+2. Norādīt Bankas ieejošā maksājuma numuru:
+
+
+
+|images_ozols/24810.png|
+
+
+
+3. Izvēlēties Datumu, kurā šisdokuments tiek veidots:
+
+
+
+|images_ozols/24811.png|
+
+
+
+4.Ievadīt nepieciešamo Bankas ieejošā maksājumakopējo Dokumenta summu:
+
+
+
+|images_ozols/24812.png|
+
+
+
+5. No saraksta izvēlēties nepieciešamo Pircēju - personu, kura atgriež
+saņemto avansa naudu uzņēmuma bankas kontā:
+
+
+
+|images_ozols/24807.png|
+
+Izvēloties nepieciešamo Pircēju, lauki Nor.konts un P.k. tiks
+aizpildīti automātiski no :doc:`Partnera kartiņas<312>` .
+
+
+
+5. Laukā Teksts iespējams ievadīt Bankas ieejošā dokumenta
+paskaidrojošo informāciju:
+
+
+
+|images_ozols/24808.png|
+
+
+
+
+
+Bankāatgriezta avansaSatura aizpildīšana
+++++++++++++++++++++++++++++++++++++++++
+
+Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams
+nospiest pogu |images_ozols/24708.png| un tiks atvērts operācijas
+satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā
+izmantotās dimensijas) un norādīt satura ieraksta summu:
+
+
+
+|images_ozols/24800.png|
+
+
+
+|images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiem
+satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
+summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
+atkārtoti nospiežot pogu |images_ozols/24708.png| .
+
+
+
+Kad visi nepieciešamie lauki ir aizpildīti, Bankāatgriezts avanssir
+sagatavots un to ir iespējams:
+
+1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
+saglabāts un būs pieejams apskatei/labošanai/grāmatošanai
+vienlaicīgi:doc:`Bankas ieņēmumu<226>` un :doc:`Avansu norēķinu<232>`
+žurnālos.
+
+2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| -
+Bankāatgriezts avansstiks Apstiprināts un to būs iespējams Grāmatot.
+
+
+
+Dokumenta - Bankā atgrieztsavanss grāmatošana
+`````````````````````````````````````````````
+
+Bankā atgrieztuavansu iespējams grāmatot no atvērta dokumenta vai
+izvēloties (iezīmējot)dokumentu :doc:`Bankas ieņēmumu<226>` vai
+:doc:`Avansu norēķinu<232>` žurnālā.
+
+Lai iegrāmatotu Bankāatgrieztu avansu, dokumentu nepieciešams
+Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| .
+
+Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu |images_ozols/24741.png| .
+
+
+
+Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
+
+
+
+PievienotāBankāatgrieztāavansalabošana
+``````````````````````````````````````
+
+Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu
+Bankāatgriezts avanss, kurš vienlaicīgi pieejams
+apskatei/labošanai:doc:`Bankas ieņēmumu<226>` :doc:`<224>` un
+:doc:`Avansu norēķinu<232>` dokumentu žurnālos. Lai veiktu
+labojumus,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
+|images_ozols/24709.png| (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus:
+
+
+
+|images_ozols/24813.png|
+
+
+
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+.. |images_ozols/24985.png| image:: images_ozols/24985.png
+:scale: 100%
+
+.. |images_ozols/24724.png| image:: images_ozols/24724.png
+:scale: 100%
+
+.. |images_ozols/24810.png| image:: images_ozols/24810.png
+:scale: 100%
+
+.. |images_ozols/24811.png| image:: images_ozols/24811.png
+:scale: 100%
+
+.. |images_ozols/24812.png| image:: images_ozols/24812.png
+:scale: 100%
+
+.. |images_ozols/24807.png| image:: images_ozols/24807.png
+:scale: 100%
+
+.. |images_ozols/24808.png| image:: images_ozols/24808.png
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/24800.png| image:: images_ozols/24800.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+:scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+:scale: 100%
+
+.. |images_ozols/24741.png| image:: images_ozols/24741.png
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/24813.png| image:: images_ozols/24813.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

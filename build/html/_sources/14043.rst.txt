@@ -1,9 +1,13 @@
 .. 14043 Sarakstu aizpildīšana no atvērta dokumenta********************************************** 
 Sarakstu var aizpildīt no paša dokumenta, ja dokumentā pretim ievades
-laukam ir lupas poga .
+laukam ir lupas poga .. image:: images_ozols/24743.png
+:scale: 100%
+.
 
 
 
+.. image:: images_ozols/24744.png
+:scale: 100%
 
 
 
@@ -12,22 +16,36 @@ Nospiežot lupas pogu tiek atvērts konkrēta sarakstu veida žurnāls.
 
 
 
+.. image:: images_ozols/24745.png
+:scale: 100%
 
 
 
 
-Lai pievienotu jaunu saraksta ierakstu, jāizmanto komanda .
+Lai pievienotu jaunu saraksta ierakstu, jāizmanto komanda .. image::
+images_ozols/24708.png
+:scale: 100%
+.
 
-Lai dzēstu esošu saraksta ierakstu, jāizmanto komanda .
+Lai dzēstu esošu saraksta ierakstu, jāizmanto komanda .. image::
+images_ozols/24719.gif
+:scale: 100%
+.
 
 Lai labotu esošu saraksta ierakstu - tas jāatzīmē ar kursoru, jāatver
-ar komandu , jālabo un jāsaglabā ar komandu .
+ar komandu .. image:: images_ozols/24709.png
+:scale: 100%
+, jālabo un jāsaglabā ar komandu .. image:: images_ozols/24710.png
+:scale: 100%
+.
 
 
 
 Lai izvēlētos un ievietotu dokumentā jaunizveidoto saraksta ierakstu
-vai kādu jau no esošajiem, jāizmanto komanda . Pēc šīs darbības
-veikšanas, saraksta žurnāls tiek aizvērts un dokumentā tiek ielādēta
-izvēlētā vērtība.
+vai kādu jau no esošajiem, jāizmanto komanda .. image::
+images_ozols/24746.png
+:scale: 100%
+. Pēc šīs darbības veikšanas, saraksta žurnāls tiek aizvērts un
+dokumentā tiek ielādēta izvēlētā vērtība.
 
  

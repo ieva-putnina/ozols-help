@@ -1,0 +1,6 @@
+.. 6520 =========Jauns========= 
+
+
+No darba režīma Jauns, iespējams pievienot Jaunu :doc:`Polisi<6510>`
+
+ .. toctree::   :maxdepth: 5    6519.rst

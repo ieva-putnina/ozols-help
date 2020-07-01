@@ -1,0 +1,89 @@
+.. 728 Algu tarifikācija********************* 
+
+
+Izmantojot algu tarifikāciju, strādājošajam var noteikt algu aprēķina
+ieejošos datus, kas katru mēnesi tiek izmantoti algu aprēķinā.
+Personas algu tarifikācijā var ievadīt ne tikai summāros ikmēnešu
+maksājumus, bet arī ieturējumus un citas algu aprēķinā ieejošās
+vērtības, atkarībā no izveidotās algu konfigurācijas.
+Algu tarifikāciju ir lietderīgi izmantot, ja strādājošajam ir noteikta
+fiksēta darba alga vai arī pilnīgi visi ieejošie dati tiek fiksēti
+algu tarifikācijā. Algu tarifikācijas aizpildīšanas mērķis ir
+izveidotos datus automatizēti pievienot strādājošā algu aprēķinam. Ja
+ieejošie dati katru mēnesi ir nemainīgi, tad ir izdevīgi izveidot algu
+tarifikāciju un katru mēnesi to importēt strādājošā algu aprēķinā,
+tādejādi samazinot datu ievades apjomu.
+
+Lai atlasītu datus Algu tarifikācijā, jāizmanto datu atlases filtrs.
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Rīku joslā nopiežot pogu
+|images_ozols/24535.gif| (Ctrl+F), tiek atvērts filtra logs:
+
+
+
+|images_ozols/26144.png|
+
+
+
+Spēkā no..līdz: iespēja atlasīt algu tarifikācijas datus, kas
+stājušies spēkā laika periodā no...līdz
+
+Slodze: iespēja atlasīt datus par vienu konkrētu slodzi
+
+Struktūrv.: iespēja atlasīt datus par vienu konkrētu struktūrvienību
+
+Kods: iespēja atlasīt visas strādājošos un visus ierakstus, kuriem
+minēts filtra iestādījumos atlasītais algu kods
+
+Slodzes: iespēja atlasīt algu tarifikācijas datu tikai par aktīvām vai
+neaktīvām slodzēm
+
+Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga
+|images_ozols/25944.png| .
+
+
+
+Jaunu tarifikāciju strādājošajam iespējams pievienot, rīku joslā
+nospiežot pogu: |images_ozols/25605.png|
+
+
+
+|images_ozols/26250.png|
+
+
+
+Slodze: nepieciešams norādīts strādājošo, kuram šī algu tarifikācija
+tiks pievienota
+
+Spēkā no: nepieciešams norādīt algas tarifa spēkā stāšanas datumu no
+(pirmreizēji strādājošajam norādot algu tarfikāciju, spēkā no
+nepieciešams ievadī mēneša pirmo datumu, neatkarīgi no strādājošā
+pieņemšanas darbā datuma!)
+
+Spēkā līdz: ja nav zināms konkrēts datums, līdz kuram noteiktais
+tarifs būs spēkā, šo datumuvar neaizpildīt
+
+Kods : nepieciešams ievadīt atbilstošo algas kodu (piemēram, LA_M -
+laika alga mēneša likme vai LA_st - laika alga stundas likme, vai
+jebkuru no sarakstā minētajiem)
+
+Summas: nepieciešams ievadīt strādājošam pienākošo mēnešaalgu (likmes
+tarifiu)
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+:scale: 100%
+
+.. |images_ozols/26144.png| image:: images_ozols/26144.png
+:scale: 100%
+
+.. |images_ozols/25944.png| image:: images_ozols/25944.png
+:scale: 100%
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+:scale: 100%
+
+.. |images_ozols/26250.png| image:: images_ozols/26250.png
+:scale: 100%
+
+ 

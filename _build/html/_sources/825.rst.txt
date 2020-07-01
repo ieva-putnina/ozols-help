@@ -1,0 +1,34 @@
+.. 825 Pārskats par caurlaižu izlietojumu************************************** 
+
+
+Atskaite tiek sagatavota norādītajam laika periodam. Atskaitē tiek
+noteikts caurlaižu atlikums norādītā perioda sākumā,reģistrētās
+caurlaides, caurlaižu cena, reģistrēto caurlaižu skaits un summa bankā
+un kasē, kā arī noteikts caurlaižu atlikums norādītā perioda beigās.
+Lai sagatavotu atskaiti par caurlaižu izlietojumu, programmā jābūt
+ievadītiem datiem par iegādātajāmcaurlaidēm :doc:`Caurlaižu
+žurnāls<773>` un :doc:`Kases ieņēmumu orderos<350>` vai :doc:`Bankas
+ieejošajos maksājumos<349>` jānorāda, kurascaurlaides tiek izlietotas.
+Atskaite tiek sagatavota no pirmdokumentu datiem.
+
+
+
+Filtrs jāaizpilda, lai sagatavotu atskaiti.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves.
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+:scale: 100%
+
+ 

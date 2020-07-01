@@ -10,6 +10,8 @@ algoritms.
 
 
 
+.. image:: images_ozols/26350.png
+:scale: 100%
 
 
 

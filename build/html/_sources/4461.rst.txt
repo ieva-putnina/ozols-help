@@ -1,2 +1,2 @@
-.. 4461 Pievienot notikumu====================== .. role:: raw-html(raw)     :format: html
+.. 4461 Pievienot notikumu====================== 
  

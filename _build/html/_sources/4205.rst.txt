@@ -1,0 +1,59 @@
+.. 4205 Atlīdzību lietu žurnāls*************************** 
+
+
+Atlīdzību lietu žurnālā saraksta veidā tiek parādītas CSNg reģistrētās
+atlīdzību lietas. Sistēmā OZOLS tiek pārbaudīts, vai kādas atlīdzības
+lietas virslīmenī jau ir CSN atpazinums, tiek pievienota jaunu
+dimensija Atlīdzības lietas numurs. Ja CSN atpazinums nav atrasts, ar
+CSN atpazinumu izveido jaunu virslīmeni un tam pievieno jaunu
+dimensiju Atlīdzības lietas numurs.
+
+Izveidotā Atlīdzību lietas kartiņa sastāv no vairākām lapaspusēm -
+Info, Labot, Pirmdokumenti, Grāmatojumi, Bilance:
+
+
+
+|images_ozols/26306.png|
+
+
+
+1. Info -atlīdzību lietas kartiņas lapā redzama visa pieejamā
+informācija par ievadītoatlīdzību lietu.
+
+
+
+2. Labot - šajā lapā parādāspārnestie datiCSNRZRS sistēmas -Atlīdzības
+saņēmējs; Vainīgais vadītājs; Vainīgā TRL īpašnieks; Vainīgā TRL
+nomnieks; Cietušais vadītājs; Cietušā TRL īpašnieks; Cietušā TRL
+nomnieks. Šo informāciju ir iespējams labot, veicot nepieciešamās
+korekcijas un pēc tam, lai saglabātu informāciju, nospiežot pogu:
+|images_ozols/25621.png| .
+
+
+
+3. Pirmdokumenti -atlīdzību lietas kartiņas lapāattēlota visa
+informācija par Pirmdokumentiem, kas saistīti ar atbilstošāsatlīdzību
+lietas numuru. Jebkuru no dokumentiem iespējams
+pievienot/atvērt/drukāt/. Norēķinu dokumentu, izvēloties pogu
+"Funkcijas", iespējams saistīt ar kādu no Finanšu dokumentiem.
+
+
+
+4. Grāmatojumi -atlīdzību lietas kartiņas lapā attēlota visa
+informācija par Grāmatojumiem, kas saistīti aratlīdzību lietas numuru.
+Jebkuru no grāmatojumiem iespējams Atvērt. Tāpat arī no šīs lapas
+iespējams izveidot manuālo grāmatojumu.
+
+
+
+5. Bilance -atlīdzību lietas kartiņas lapā attēlota informācija par
+bilances stāvokli, balstoties uz veiktajiem grāmatojumiem saistībā ar
+izvēlētāsatlīdzības lietas numuru.
+
+.. |images_ozols/26306.png| image:: images_ozols/26306.png
+:scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+:scale: 100%
+
+ 

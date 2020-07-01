@@ -1,4 +1,4 @@
-.. 42 Krājumi=========== .. role:: raw-html(raw)     :format: html
+.. 42 Krājumi=========== 
 Krājumu modulis paredzēts materiālo vērtību uzskaitei pa daudzumiem un
 summām. Krājumu uzskaites datus veido dokumenti, kas parāda krājumu
 kustību uzņēmuma iekšienē, un grāmatojumi.

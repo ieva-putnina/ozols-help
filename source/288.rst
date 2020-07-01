@@ -2,10 +2,15 @@
 Slodžu veidu sarakstā tiek nodefinētas uzņēmumā izmantojamie slodžu
 veidi.
 
-Lai pievienou slodžu veidu sarakstam, rīku joslā jānospiež poga :
+Lai pievienou slodžu veidu sarakstam, rīku joslā jānospiež poga ..
+image:: images_ozols/25605.png
+:scale: 100%
+:
 
 
 
+.. image:: images_ozols/25642.png
+:scale: 100%
 
 
 
@@ -17,6 +22,9 @@ Kods: saīzināts nosaukums;
 
 Nosaukums: pilns nosaukums.
 
-Lai saglabātu ierakstu, jānospiež poga .
+Lai saglabātu ierakstu, jānospiež poga .. image::
+images_ozols/24615.jpg
+:scale: 100%
+.
 
  

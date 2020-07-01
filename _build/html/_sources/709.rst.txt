@@ -1,0 +1,24 @@
+.. 709 Noliktava************* 
+Preču noliktavas konfigurācijā var noteikt preču meklēšanas darba
+režīma aktivizēšanas nosacījumus, maksimāli pieļaujamo ierakstu skaitu
+pārdošanas dokumentā, piedāvājuma sagatavošanas veidu.
+
+
+
+
+**Atvērt preču meklēšanas formu**
+Komanda nosaka, ka pievienojot pārdošanas dokumenta saturu, uzreiz
+tiek atvērta preču meklēšanas forma. Preču konfigurācijas komanda ir
+izveidota, lai ātrāk varētu sagatavot preču pārdošanas dokumetus, ja
+preču pozīcijas jāmeklē noliktavas datos.
+
+**Ierakstu skaits pārdošanas dokumentā**
+Ierakstu skaits pārdošanas dokumentā izveidots, lai kontrolētu, vai
+visi pārdošanas dokumenta ieraksti iekļausies vienā izdrukā. Ja
+ierakstu skaits tiek pārsniegts, pārdošanas dokumenta sagatavošanas
+laikā tiek parādīts paziņojums.
+
+**Izmantot izvērsto preču piedāvājumu aizpildīšanu**
+Sagatavojot piedāvājumus, var pievienot papildus tekstus un attēlu.
+
+ 

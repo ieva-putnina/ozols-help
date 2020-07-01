@@ -1,0 +1,17 @@
+.. 4206 Izmaksu/Regresa lieta************************* 
+
+
+
+No CSNRZRS uz sistēmu OZOLS tiek pārnesti dati par Atlīdzību lietas
+numuru, debitoru un izmaksas summu. LTAB modulis nodrošina pārnesto
+datu apstrādi un informācijas papildināšanas iespējas. Sistēmā OZOLS
+dokumentā tiek pievienota jauna dinamika "Atlīdzības lietas numurs",
+kur virslīmenis ir CSNg identifikators un dimensija Atlīdzības lietas
+numurs. Ja virslīmenis CSNg sistēmā jau eksistē, nepieciešams
+pievienot jaunu Atlīdzību lietas numuru. LTAB modulis dokumenta
+ievades formā nodrošinajauna :doc:` Partnera <112>` (atlīdzības
+saņēmēja) pievienošanu - partnera dati tiek pārbaudīti pēc personas
+koda (Uzņēmuma reģistrācijas numura), ja Parteris jau eksistē, sistēmā
+jauns parteris nav jāpievieno.
+
+ 

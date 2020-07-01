@@ -1,0 +1,52 @@
+.. 156 ===========Periodi=========== 
+Sarakstā tiek saglabāti nodefinētie periodi :doc:`budžeta
+izpildes<48>` uzskaites veikšanai un dokumentu slēgšanai.
+
+
+
+
+Plāna perioda pievienošana
+
+Plāna periodu izmato :doc:`budžeta izpildes<48>` uzskaitei. Lai
+pievienotu jaunu plāna periodu, rīku joslā jānospiež poga
+|images_ozols/24708.png| un tiek atvērts jauns logs:
+
+
+
+
+|images_ozols/25360.png|
+
+Plāna periodu pievieno, norādot perioda veidu – PP (Plāna periods),
+norādot perioda garumu (diena, nedēļa, mēnesis, gads), un perioda
+sākuma un beigu datumu.
+
+
+Dokumentu perioda pievienošana
+``````````````````````````````
+
+Dokumentu periodu izmanto nodefinētā :doc:`perioda dokumentu
+slēgšanai<453>` . Lai pievienotu jaunu dokumentu periodu, rīku joslā
+jānospiež poga |images_ozols/24708.png| un tiek atvērts jauns logs:,
+kur jānorāda perioda veids - Dokumentu periods (tiek slēgts), perioda
+garums - diena, nedēļa, mēnesis, gads, un izvēlētā perioda sākuma un
+beigu datumu:
+
+
+
+|images_ozols/26437.png|
+
+
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+        :scale: 100%
+
+.. |images_ozols/25360.png| image:: images_ozols/25360.png
+        :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+        :scale: 100%
+
+.. |images_ozols/26437.png| image:: images_ozols/26437.png
+        :scale: 100%
+
+ 

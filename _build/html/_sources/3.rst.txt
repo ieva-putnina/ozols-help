@@ -1,0 +1,21 @@
+.. 3 =============Dokumenti============= 
+
+
+Noliktavas uzskaite tiek organizēta, izmantojot komponentes
+:doc:`Norēķini<44>` un :doc:`Noliktava<43>` . Norēķinu daļa
+izmantojama darbam ar :doc:`Iepirkumu dokumentiem<210>` un
+:doc:`Pārdošanas dokumentiem<204>` . Noliktavas dokumentiizmantojami
+preču un krājumu uzskaitei noliktavā. Izmantojot Noliktavas
+dokumentus, iespējams noformēt nomenklatūras iekšējās kustības
+dokumentus, veidot cenošanas un ražošanas dokumentus, kā arī ievadīt
+nomenklatūras atlikumus uz perioda sākumu.
+
+
+
+
+
+
+
+
+
+ .. toctree::   :maxdepth: 5    231.rst   688.rst   866.rst   930.rst   107.rst   711.rst   221.rst   215.rst   220.rst   755.rst   997.rst   7811.rst

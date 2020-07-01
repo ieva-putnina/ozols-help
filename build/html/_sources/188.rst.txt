@@ -4,8 +4,15 @@ pievienoti datu bāzei. Lai uzņēmuma pamatinofrmācija korekti tiktu
 uzrādīta visos darba režīmos, nepieciešams aizpildīt sekojošu
 informāciju:
 
+.. image:: images_ozols/26431.png
+:scale: 100%
 
 
 
-Pēc izmaiņu veikšanas, izmaiņas iespējams vai .
+Pēc izmaiņu veikšanas, izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
  

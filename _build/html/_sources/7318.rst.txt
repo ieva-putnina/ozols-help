@@ -1,0 +1,76 @@
+.. 7318 Notikumu pārskats********************* 
+Notikumu pārskatā redzami visi pievienotie un saglabātie
+:doc:`notikumi<7308>` .
+
+Notikumu pārskata atskaiti iespējams sagatavot pēc dažādiem izvēlētiem
+atlases kritērijiem (filtra parametriem) un nospiežot pogu
+|images_ozols/26172.jpg| :
+
+
+
+|images_ozols/26174.jpg|
+
+Notikumu pārskatā tiek attēlota detalizēta informācija par notikumiem
+- notikumu sākuma un beigu laiks, :doc:`pasākuma nosaukums<7312>` ,
+:doc:`telpa,<7315>` :doc:`darbība<7316>` , :doc:`solisti<7313>` ,
+radošā brigāde, piezīmes un notikumu statuss:
+
+
+
+|images_ozols/26175.jpg|
+
+
+
+Ja nepieciešams atlasīt citu informāciju, jānospiež poga Filtra
+parametri, un filtrā jāizvēlās attiecīgie parametri.
+
+Lai notikumu pārskatu izdrukātu, jāizvēlas Saraksta funkcijas, un,
+apskatoties, kura ir pēdējā saglabātā Izdrukas forma, ja nepieciešams,
+jāizvēlas mainīt izdrukas formu:
+
+
+
+|images_ozols/26176.jpg|
+
+
+
+Izvēloties un nospiežot pogu |images_ozols/26177.jpg| Mainīt izdrukas
+formu, tiek atvērts nodefinēto izdrukas formu izvēles logs, kur no
+saraksta |images_ozols/26179.jpg| jāizvēlas attiecīgā izdrukas formu
+un jāsaglabā:
+
+
+
+|images_ozols/26178.jpg|
+
+
+
+Pēc izdrukas formas izvēles un saglabāšanas, Izdrukas izvēles logs
+jāaizver, un jāizvēlās sarakta funkcija Izdrukāt (
+|images_ozols/26180.jpg| ).
+
+.. |images_ozols/26172.jpg| image:: images_ozols/26172.jpg
+:scale: 100%
+
+.. |images_ozols/26174.jpg| image:: images_ozols/26174.jpg
+:scale: 100%
+
+.. |images_ozols/26175.jpg| image:: images_ozols/26175.jpg
+:scale: 100%
+
+.. |images_ozols/26176.jpg| image:: images_ozols/26176.jpg
+:scale: 100%
+
+.. |images_ozols/26177.jpg| image:: images_ozols/26177.jpg
+:scale: 100%
+
+.. |images_ozols/26179.jpg| image:: images_ozols/26179.jpg
+:scale: 100%
+
+.. |images_ozols/26178.jpg| image:: images_ozols/26178.jpg
+:scale: 100%
+
+.. |images_ozols/26180.jpg| image:: images_ozols/26180.jpg
+:scale: 100%
+
+ 

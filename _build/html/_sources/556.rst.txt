@@ -1,0 +1,146 @@
+.. 556 Peļņas vai zaudējumu aprēķins********************************* 
+
+
+Peļņas vai zaudējumu aprēķins ir saglabājams atskaišu
+:doc:`Sarakstā<531>` . Atskaites sastādīšanu nosaka konfigurācijas
+iestādījumi.
+
+
+
+Lai būtu iespējams sagatavot Peļņas vai zaudējumu aprēķinu,iepriekš
+jābūt izveidotai :doc:`Grāmatojumu atskaišu konfigurācijai<179>` .
+
+
+
+Peļņas vai zaudējumu aprēķinasagatavošana
++++++++++++++++++++++++++++++++++++++++++
+
+
+
+1. Izvēloties Virsgrāmatas atskaiti - Peļņas vai zaudējumu aprēķins,
+tiks atvērt filtra logs, kur jānorāda nepieciešamie parametri, pēc
+kādiem atskaite tiks sagatavota:
+
+
+
+|images_ozols/25062.png|
+
+
+
+2. Nepieciešams norādīt attiecīgo profilu - :doc:`atskaites
+konfigurāciju<179>` , pēc kādiem konfigurācijas datiem atskaite tiks
+sagatavota:
+
+
+
+|images_ozols/25063.png|
+
+
+
+3. Nepieciešams norādīt periodu, par kuru atskaite tiks sagatavota,
+izvēloties kādu no definētajiem datuma nosacījumiem vai arī "cits" un
+ievadot datumus manuāli:
+
+
+
+|images_ozols/25046.png|
+
+4. Ja vienā Ozols datu bāzē tiek veikta grāmatvedības uzskaite
+vairākiem uzņēmumiem,filtrā iespējams izvēlēties, pēc kura uzņēmuma
+datiem atskaite tiks sagatavota:
+
+
+
+|images_ozols/25047.png|
+
+
+
+5.Iespēja norādīt cik zīmes aiz komatabūtu jāuzrāda atskaitē:
+
+
+
+|images_ozols/25048.png|
+
+
+
+6. Atskaite tiks sagatavota, nospiežot pogu |images_ozols/25049.png| :
+
+
+
+|images_ozols/25064.png|
+
+
+
+1. Sadaļā "Dati" tiek parādīta sagatavotā atskaites informācija, pēc
+filtrā norādītajiem parametriem.Tiek parādītas atskaites rindas un
+summas. Datu parādīšanu noteiktās rindās nosaka atskaites
+konfigurācija.
+
+2. Sadaļā "Virsraksts" tiek parādīta atskaites Virsraksta informācija
+- informācija par uzņēmumu (nosaukums, reģistrācijas nr., adrese,
+vadītājs) un atskaites nosaukums, kas nosaukumā ietver periodu, par
+kuru atskaite tiek sagatavota.
+
+3. Sadaļā "Papildus" tiek parādīta vispārēja informācija, kas ņemta no
+norādītajiem filtra parametriem sagatavojot atskaiti: izvēlētā
+atskaites konfigurācija, izvēlētais uzņēmums, pēc kura datiem šī
+atskaite tika sagatavota un norādītais zīmju skaits summām aiz komata.
+Ekrāna formā ir pieejams atskaišu konfigurācijas saraksts.
+
+
+
+7. Nospiežot pogu |images_ozols/25055.png| , komanda izsauc atskaites
+konfigurācijas ekrāna formu, to var papildināt neaizverot atskaiti.
+
+
+
+8. Ja pēc atskaites sagatavošanas veiktas izmaiņas :doc:`atskaites
+konfigurācijā<179>` , atskaiti pēc izmanītās konfigurācijas datiem var
+pārrēķināt, nospiežot pogu: |images_ozols/25053.png| . Pārrēķinot
+atskaiti, tajā tiek parādīti jaunākie dati.
+
+9. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
+sarakstā<531>` , kur tā būs pieejama labošanai/drukāšanai, nospiežot
+pogu: |images_ozols/25054.png| .
+
+
+
+10. Nospiežot pogu |images_ozols/24617.jpg| atskaite sagatavota netiks
+un darbība tiks atcelta. Ja atskaite tiek izveidota un nav jāsaglabā,
+jālieto komanda Atcelt . Ja atskaite ir saglabāta sarakstā, komandu
+Atcelt var izmantot, lai nesaglabātu atskaitē veiktās izmaiņas.
+
+.. |images_ozols/25062.png| image:: images_ozols/25062.png
+:scale: 100%
+
+.. |images_ozols/25063.png| image:: images_ozols/25063.png
+:scale: 100%
+
+.. |images_ozols/25046.png| image:: images_ozols/25046.png
+:scale: 100%
+
+.. |images_ozols/25047.png| image:: images_ozols/25047.png
+:scale: 100%
+
+.. |images_ozols/25048.png| image:: images_ozols/25048.png
+:scale: 100%
+
+.. |images_ozols/25049.png| image:: images_ozols/25049.png
+:scale: 100%
+
+.. |images_ozols/25064.png| image:: images_ozols/25064.png
+:scale: 100%
+
+.. |images_ozols/25055.png| image:: images_ozols/25055.png
+:scale: 100%
+
+.. |images_ozols/25053.png| image:: images_ozols/25053.png
+:scale: 100%
+
+.. |images_ozols/25054.png| image:: images_ozols/25054.png
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

@@ -1,0 +1,191 @@
+.. 14051 Darba režīmu pārskats************************* 
+
+
+Darba režīma nosaukums Palaišana no izvēlnes Taustiņu kombi-
+nācija Rīku joslas poga Paskaidrojums
+Pievienot
+
+Dati /Pievienot
+
+Alt+P
+
+|images_ozols/24933.png|
+
+Ieraksta pievienošana
+Atvērt Dati /Atvērt Alt+A |images_ozols/24932.png| Ieraksta atvēršana
+Saglabāt Dati / Saglabāt Ctrl+S |images_ozols/24938.png| Informācijas
+saglabāšana Sagl.t&Piev. Dati / Sagl.t&Piev. F11
+|images_ozols/24939.png| Informācijas saglabāšana un pievienošana
+Saglabāt un aizvērt Dati / Saglabāt un aizvērt F12
+|images_ozols/24938.png| Informācijas saglabāšana un aizvēršana Kopēt
+ierakstu Dati /Kopēt ierakstu |images_ozols/24940.png| Informācijas
+kopēšana Dzēst Dati /Dzēst Alt+Z |images_ozols/24941.png| Ieraksta
+dzēšana Filtrs Dati /Filtrs Ctrl+F |images_ozols/24942.png| Filtra
+uzlikšana Meklēšana Dati /Meklēt Ctrl+M |images_ozols/24943.png|
+Dokumenta meklēšana Dokumentu izdruka Dati /Drukāt Ctrl+P
+|images_ozols/24944.png| Dokumenta izdrukāšana Dokumentu izdruka Dati
+/ HTML Ctrl+H |images_ozols/24945.png| Dokumenta izdrukāšana HTML
+formātā Skats Dati /Skats Ctrl+H |images_ozols/24946.png| Skata maiņa
+Apstiprināt Dati /Apstiprināt Ctrl+R |images_ozols/24937.png|
+Dokumenta apstiprināšana Grāmatot Dati /Grāmatojums Ctrl+G
+|images_ozols/24947.png| Dokumenta grāmatošana Anulēt Dati /Anulēt
+|images_ozols/24935.png| Dokumenta anulēšana Saistīt Dati / Saistīt
+Ctrl+D |images_ozols/24948.png| Dokumentu saistīšana Koks Dati / Koks
+|images_ozols/24949.png| Sarakstu attēlošana kokveida formā Funkcijas
+Dati / Funkcijas |images_ozols/24950.png| Dažādu darba režīmu
+izsaukšanai Paņemt Dati / Paņemt Alt+M |images_ozols/24951.png|
+Ieraksta pārzīmēšana Kolonnas Dati / Kolonnas Ctrl+K
+|images_ozols/24952.png| Kolonnu konfigurēšana
+EDS
+
+Iezīmēšana
+
+Dati / EDS
+
+Dati / Multi iez.
+
+
+
+Ctrl+Y
+
+|images_ozols/24954.png|
+
+|images_ozols/25897.png|
+
+Elektroniskā deklerēšanas sistēma
+
+Multi iezīmēšana
+LDL Dati / LDL forma Ctrl+L |images_ozols/24955.png| Ieraksta
+informācija Dati / Ier.info Ctrl+I |images_ozols/24956.png| Ieraksta
+informācija Beigt darbu Dati /Izeja Alt+F4 |images_ozols/24957.png|
+Datorprogrammas aizvēršana Atsaukt Teksts /Atsaukt Ctrl+Z Teksta
+atsaukšana Atsaukt atsaukto Teksts /Atsaukt atsaukto Ctrl+R Atsauktā
+teksta atjaunošana Izgriezt Teksts /Izgriezt Ctrl+X Teksta izgriešana
+Kopēt Teksts / Kopēt Ctrl+C Teksta kopēšana Nolikt Teksts /Nolikt
+Ctrl+V Teksta nolikšana Notīrīt Teksts / Notīrīt Teksta notīrīšana
+Iezīmēt visu Teksts / Iezīmēt visu Ctrl+A Visa teksta iezīmēšana
+Pārvietot Teksts / Pārvietot Teksta pārvietošana Meklēt Ctrl+M
+|images_ozols/24967.png| Ierakstu meklēšana Meklēt vēl Ctrl+F Aizstāt
+Ctrl+L Bufera reģistrs Pārlūka uzlikšana Logs / Pārlūks Ctrl+B
+|images_ozols/24958.png| Pārlūka atvēršana Pārlūka aizvēršana Logs /
+Pārlūks Ctrl+B |images_ozols/24959.png| Pārlūka aizvēršana Atpakaļ
+Logs / Atpakaļ |images_ozols/24961.png| Pāreja uz iepriekš apskatīto
+ekrāna formu Uz priekšu Logs / Uz priekšu |images_ozols/24960.png|
+Pāreja uz nākošo ekrāna formu Augstāk Logs / Augstāk
+|images_ozols/24962.png| Pāreja vienu līmeni augstāk pārlūkā Pārzīmēt
+Logs / Pārzīmēt F5 |images_ozols/24963.png| Informācijas pārzīmēšana
+Logs / Sakārtot visus Sakārtot visus logus Logs / Jauns Ctrl+N Atvērt
+jaunu ekrāna formu Nākamais Logs / Nākamais Ctrl+F1 Nākamās ekrāna
+formas aktivizēšana Noslēpt Logs / Hide Aktīvā loga noslēpšana Notīrīt
+Logs / Notīrīt Mani darbi Logs / Mani darbi F12
+|images_ozols/24964.png| Manu darbu saraksts Partnera informācija Logs
+/ Partn. info F3 |images_ozols/24965.png| Informācija par partneri
+Preces informācija Logs / Preces info F4 |images_ozols/24966.png|
+Informācija par preci
+
+.. |images_ozols/24933.png| image:: images_ozols/24933.png
+:scale: 100%
+
+.. |images_ozols/24932.png| image:: images_ozols/24932.png
+:scale: 100%
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24939.png| image:: images_ozols/24939.png
+:scale: 100%
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24940.png| image:: images_ozols/24940.png
+:scale: 100%
+
+.. |images_ozols/24941.png| image:: images_ozols/24941.png
+:scale: 100%
+
+.. |images_ozols/24942.png| image:: images_ozols/24942.png
+:scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+:scale: 100%
+
+.. |images_ozols/24944.png| image:: images_ozols/24944.png
+:scale: 100%
+
+.. |images_ozols/24945.png| image:: images_ozols/24945.png
+:scale: 100%
+
+.. |images_ozols/24946.png| image:: images_ozols/24946.png
+:scale: 100%
+
+.. |images_ozols/24937.png| image:: images_ozols/24937.png
+:scale: 100%
+
+.. |images_ozols/24947.png| image:: images_ozols/24947.png
+:scale: 100%
+
+.. |images_ozols/24935.png| image:: images_ozols/24935.png
+:scale: 100%
+
+.. |images_ozols/24948.png| image:: images_ozols/24948.png
+:scale: 100%
+
+.. |images_ozols/24949.png| image:: images_ozols/24949.png
+:scale: 100%
+
+.. |images_ozols/24950.png| image:: images_ozols/24950.png
+:scale: 100%
+
+.. |images_ozols/24951.png| image:: images_ozols/24951.png
+:scale: 100%
+
+.. |images_ozols/24952.png| image:: images_ozols/24952.png
+:scale: 100%
+
+.. |images_ozols/24954.png| image:: images_ozols/24954.png
+:scale: 100%
+
+.. |images_ozols/25897.png| image:: images_ozols/25897.png
+:scale: 100%
+
+.. |images_ozols/24955.png| image:: images_ozols/24955.png
+:scale: 100%
+
+.. |images_ozols/24956.png| image:: images_ozols/24956.png
+:scale: 100%
+
+.. |images_ozols/24957.png| image:: images_ozols/24957.png
+:scale: 100%
+
+.. |images_ozols/24967.png| image:: images_ozols/24967.png
+:scale: 100%
+
+.. |images_ozols/24958.png| image:: images_ozols/24958.png
+:scale: 100%
+
+.. |images_ozols/24959.png| image:: images_ozols/24959.png
+:scale: 100%
+
+.. |images_ozols/24961.png| image:: images_ozols/24961.png
+:scale: 100%
+
+.. |images_ozols/24960.png| image:: images_ozols/24960.png
+:scale: 100%
+
+.. |images_ozols/24962.png| image:: images_ozols/24962.png
+:scale: 100%
+
+.. |images_ozols/24963.png| image:: images_ozols/24963.png
+:scale: 100%
+
+.. |images_ozols/24964.png| image:: images_ozols/24964.png
+:scale: 100%
+
+.. |images_ozols/24965.png| image:: images_ozols/24965.png
+:scale: 100%
+
+.. |images_ozols/24966.png| image:: images_ozols/24966.png
+:scale: 100%
+
+ 

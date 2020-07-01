@@ -6,6 +6,8 @@ strādājošajam. Datus var sagatavot par vienu periodu, atsevišķi pa
 struktūrvienībām. Atskaites datus veido slodzes kalendāri, kur var
 noteikt strādājošā kavētās darba dienas, slimības dienas u.tml..
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Atskaites pareizu sagatavošanu nodrošina ieejoši darba laika uzskaites
 kodu tipu izmantošana un pareiza darba laika uzskaite strādājošā
 slodzes kalendārā.

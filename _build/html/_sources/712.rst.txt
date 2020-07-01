@@ -1,0 +1,18 @@
+.. 712 Programmas atjaunošana************************** Sistēmā iespējams norādīt programmas atjaunošanas katalogu. Strādājot
+datortīklā, jaunākās programmas versijas var novietot uz servera.
+Katram lietotājam ir iespējas jaunākās programmas versijas uzstādīt
+automatizēti.
+
+
+
+**Kopīgs
+**Izmantojot kopīgu programmas atjaunošanas katalogu, jaunākās
+programmas versijas tiks uzliktas visiem programmatūras lietotājiem.
+
+**Individuāls
+**Izmantojot individuālu programmas atjaunošanas katalogu, jaunākās
+programmas versijas tiks uzstādītas konkrētam lietotājam.
+
+
+
+ 

@@ -1,0 +1,218 @@
+.. 14101 Rēķinu sūtīšana pa e-pastu****************************** 
+
+
+Rēķinu sūtīšana pa e-pastu kalpo ērtākai un ātrākai elektroniska
+formāta rēķinu nosūtīšanai.
+
+
+
+Rēķinu sagatavošana sūtīšanaipa e-pastu.
+++++++++++++++++++++++++++++++++++++++++
+
+Rēķinus sagatavo, veidojotmaksājuma plānu un :doc:`ģenerējot
+rēķinus<6510>` , vaiarī :doc:`izveidojot pārdošanas dokumentu<304>` .
+
+
+
+Priekšnosacījumi sekmīgai rēķinu nosūtīšanai elektroniskā formātā pa
+e-pastu
+
+
+
+1. Pirmsrēķinu :doc:`ģenerēšanas<6510>` vai:doc:`veidošanas<304>`
+,:doc:`partneru kartiņā<312>` jabūt norādītam korespondējošam e-pastam
+un ieliktam ķeksītim - Automātiski sūtīt rēķinus un apmaksas
+atgādinātājus pa e-pastu:
+
+
+
+
+
+
+
+2. Ja rēķins jau ir sagatavots,:doc:`Pārdošanas dokumentu
+žurnālā<204>` nepieciešams pārbaudīt, vai jau esošo rēķinu klientiem
+ir norādīta korespondējošā e-pasta adrese.
+
+
+
+Lai to izdarītu, :doc:`Pārdošanas dokumentu žurnālā<204>` nepieciešams
+pievienot papildus kolonnu e-pasts, rīku joslā nospiežot pogu
+
+
+
+
+
+
+
+Ja kolonnā E-pasts nebūs e-pasta adrese, tad izvēlētais rēķins netiks
+nosūtīts:
+
+
+
+
+
+
+
+Ja kolonnā e-pasts būs e-pasts/i, tad attiecīgajam Partnerim rēķinu
+būs iespējams nosūtīt uz norādīto e-pastu:
+
+
+
+
+
+
+
+LaiPārdošanas dokumentu žurnālāesošā rēķina klientam pievienotu
+korespondējošo e-pasta adresi - jāatver rēķinu un, ar dubultklikšķi uz
+pircēja nosaukuma pirmo lauku, jāatver Partnera kartiņu. Jāatver
+Partnera kartiņas sadaļa Pārējie dati, un jāieraksta korespondējošais
+e-pasts un jāieliek ķeksītis "Sūtīt rēķinus un apmaksas atgādinājumus
+uz e-pastu":
+
+
+
+
+
+
+
+Pēc korespondējošā e-pasta adreses ierakstīšanas, jāsaglabā Partnera
+kartiņa, jāaizver rēķins un, esot Pārdošanas dokumentu žurnālā, uz
+klaviatūras jānospiež taustiņš F5.Pēc F5 taustiņa nospiešanas,
+e-pastakolonnā parādīsies ievadītais klienta korespondējošaise-pasts.
+
+
+
+Ja :doc:`partneru kartiņā<312>` būsaizpildīts laukskorespondējošais
+e-pasts, tad :doc:`ģenerējot<6510>` vai :doc:`izveidojot<304>` rēķinu,
+e-pasta adreses lauks tiks aizpildīts automātiski.
+
+
+
+
+
+Rēķinu sūtīšanapa e-pastu
++++++++++++++++++++++++++
+
+Lai nosūtītu rēķinupa e-pastu, :doc:`pārdošanas dokumentus<204>`
+iespējamsatlasīt pēc nepieciešamajiem filtra kritērijiem (Dokumenta
+veida, Datuma, Termiņa vai citiem):
+
+
+
+
+
+
+
+Laivajadzīgie dati tiktu atlasīti,jānospiež poga
+
+
+
+Pēc vajadzīgo datu atlasīšanas, nepieciešams aktivizēt multi
+iezīmēšanas komandu, lai atzīmētu rēķinus, kurus sūtīt uz e-pastu:
+
+
+
+1. Ar taustiņu kombināciju Ctrl+Y
+
+vai
+
+2. :doc:`Rīku<14051>` joslā uzspiežot uz Multi iezīmēšanas ikonas
+
+
+
+Atzīmēt nepieciešamos ierakstus iespējams, nospiežot uz klaviatūras
+taustiņu CTRL, to turot un ar peles kreiso taustiņu atzīmējot
+nepieciešamos ierakstus. Lai atzīmētu vairākus apgabalus, nepieciešams
+izmantot klavitatūras taustiņu Shift.
+
+
+
+Atzīmējot attiecīgos dokumentus, kuriem ir e-pasta adrese un kurus ir
+nepieciešams izsūtīt, :doc:`rīku<14051>` joslā jānospiež poga
+
+
+
+
+
+
+
+Pēc funkcijas izvēles, programma parādīs paziņojumu par to cik
+dokumenti ir atlasīti apstiprināti un dokumentu skaitu, kuriem nav
+norādīts e-pasts:
+
+
+
+
+
+
+
+No kā - ja šis logs nebūs aizpildīts, tad programmu e-pastu nosūtīt
+neļaus.
+
+
+
+Ja logs No kā ir aizpildīts, tade-pastu nosūtīšanai
+nepieciešamsnospiest pogu
+
+
+
+Pēc pogas sūtīt nospiešanasprogramma sagatavos un nosūtīs atlasītos
+rēķinus Partneriem, piedāvājot iespēju apskatīt vēstules:
+
+
+
+
+
+
+
+Nospiežot poguJĀ, programma piedāvās apskatīt nosūtītos e-pastus
+partneriem. Spiežot pogu NĒ, nosūtīšanas funkcijas darbs tiks
+pabeigts.
+
+Ieraksti ar nosūtītajiem rēķiniem tiek saglabāti Pasta modulī
+:doc:`nosūtīto vēstuļu žurnālā<298>` .
+
+.. |images_ozols/26375.jpg| image:: images_ozols/26375.jpg
+:scale: 100%
+
+.. |images_ozols/26016.png| image:: images_ozols/26016.png
+:scale: 100%
+
+.. |images_ozols/26017.png| image:: images_ozols/26017.png
+:scale: 100%
+
+.. |images_ozols/26018.png| image:: images_ozols/26018.png
+:scale: 100%
+
+.. |images_ozols/26019.png| image:: images_ozols/26019.png
+:scale: 100%
+
+.. |images_ozols/26021.png| image:: images_ozols/26021.png
+:scale: 100%
+
+.. |images_ozols/25944.png| image:: images_ozols/25944.png
+:scale: 100%
+
+.. |images_ozols/25897.png| image:: images_ozols/25897.png
+:scale: 100%
+
+.. |images_ozols/25814.png| image:: images_ozols/25814.png
+:scale: 100%
+
+.. |images_ozols/26022.png| image:: images_ozols/26022.png
+:scale: 100%
+
+.. |images_ozols/26023.png| image:: images_ozols/26023.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/26024.png| image:: images_ozols/26024.png
+:scale: 100%
+
+.. |images_ozols/26025.png| image:: images_ozols/26025.png
+:scale: 100%
+
+ 

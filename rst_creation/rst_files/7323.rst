@@ -10,6 +10,8 @@ atlasītos informāciju:
 
 
 
+.. image:: images_ozols/26155.jpg
+   :scale: 100%
 
 
 
@@ -20,11 +22,14 @@ Informācijas atlasīšanas iespējas
 +++++++++++++++++++++++++++++++++
 
 Informāciju iespējams atlasīt, katra izvēles lodziņa labajā pusē
-nospiežot uz bultiņas ( ), un izvēloties no saraksta attiecīgos
-atlasīšanas kritērijus:
+nospiežot uz bultiņas (.. image:: images_ozols/26157.jpg
+   :scale: 100%
+), un izvēloties no saraksta attiecīgos atlasīšanas kritērijus:
 
 
 
+.. image:: images_ozols/26156.jpg
+   :scale: 100%
 
 
 
@@ -45,14 +50,22 @@ dienas plāns:
 
 
 
+.. image:: images_ozols/26158.jpg
+   :scale: 100%
 
 
 
 
-Nospiežot bultiņas pogu tiek atvērts iepriekšējās dienas plāns, bet
-nospiežot pogu - tiek atvērts nākošās dienas plāns.
+Nospiežot bultiņas pogu .. image:: images_ozols/26160.jpg
+   :scale: 100%
+tiek atvērts iepriekšējās dienas plāns, bet nospiežot pogu .. image::
+images_ozols/26161.jpg
+   :scale: 100%
+- tiek atvērts nākošās dienas plāns.
 
-Nospiežot pogu ir iespējams izdrukāt dienas plānu.
+Nospiežot pogu .. image:: images_ozols/26162.jpg
+   :scale: 100%
+ir iespējams izdrukāt dienas plānu.
 
 Lai no dienas plāna, atvērtu konkrētu :doc:`Pasākumu<7312>` ,
 jāaktivizē pasākuma ieraksts dienas vai kalendāra plānā, un,
@@ -61,6 +74,8 @@ pievienots :doc:`pasākuma<7303>` ieraksta logs:
 
 
 
+.. image:: images_ozols/26163.jpg
+   :scale: 100%
 
 
 
@@ -68,10 +83,14 @@ pievienots :doc:`pasākuma<7303>` ieraksta logs:
 Apraksta sadaļā redzams pasākuma nosaukums, darbība, telpa, pasākuma
 datums un laiks, nodefinētās tehniskās vajadzības.
 
-Atverot Dalībnieku sadaļu - , redzams pasākuma dalībnieku saraksts:
+Atverot Dalībnieku sadaļu -.. image:: images_ozols/26164.jpg
+   :scale: 100%
+, redzams pasākuma dalībnieku saraksts:
 
 
 
+.. image:: images_ozols/26165.jpg
+   :scale: 100%
 
 
 
@@ -81,10 +100,14 @@ Dalībnieku sadaļas ierakstus iespējams kārtot pēc
 uzstāšanās laika vai radošās brigādes. Loga lejas daļā redzama
 ieraksta informācija un ieraksta statuss.
 
-Lai labotu notikumu, jānospiež poga :
+Lai labotu notikumu, jānospiež poga .. image:: images_ozols/25832.png
+   :scale: 100%
+:
 
 
 
+.. image:: images_ozols/26193.jpg
+   :scale: 100%
 
 
 
@@ -94,9 +117,12 @@ nosaukumu iespējams ierakstīt manuāli, ja nav bijis nodefinēts jau
 iepriekš, tā saglabājot pasākuma pamatinformāciju :doc:`pasākuma
 sarakstā<7312>` .
 
-Lai pievienotu jaunu darbību, kura nav sarakstā, jānospiež poga un
-jāsaglabā pievienotā :doc:`darbība<7307>` . Tāpat, ja nepieciešams,no
-notikuma apraksta tiekpievienots jaunas :doc:`telpas <7306>` ieraksts.
+Lai pievienotu jaunu darbību, kura nav sarakstā, jānospiež poga ..
+image:: images_ozols/26169.jpg
+   :scale: 100%
+un jāsaglabā pievienotā :doc:`darbība<7307>` . Tāpat, ja
+nepieciešams,no notikuma apraksta tiekpievienots jaunas :doc:`telpas
+<7306>` ieraksts.
 
 Dalībnieku sadaļā iespājams nodefinēt lomas pievienotajiem
 dalībniekiem, labot uzstāšanās laikus,un, janav nodefinēta radošā
@@ -106,15 +132,21 @@ notikumam:
 
 
 
+.. image:: images_ozols/26194.jpg
+   :scale: 100%
 
 
 
 
-Lai notikumam pievienotu jaunus dalībniekus, jānospiež poga Pievienot,
-tiek atvērts logs:
+Lai notikumam pievienotu jaunus dalībniekus, jānospiež poga .. image::
+images_ozols/26169.jpg
+   :scale: 100%
+Pievienot, tiek atvērts logs:
 
 
 
+.. image:: images_ozols/26195.jpg
+   :scale: 100%
 
 
 
@@ -127,19 +159,28 @@ dalībniekus, un jānospiež bultiņas, lai pārvietotu atzīmētos
 dalībniekus uz dalībnieku izvēles saraksta pusi.
 
 Ja nepieciešams pievienot dalībnieku, kurš nav izvēles sarakstā, tad
-loga labajā pusē jānospiež poga Pievienot, un tiek atvērts logs:
+loga labajā pusē jānospiež poga .. image:: images_ozols/26169.jpg
+   :scale: 100%
+Pievienot, un tiek atvērts logs:
 
 
 
+.. image:: images_ozols/26196.jpg
+   :scale: 100%
 
 
 
 
 Atvērtajā logā jāatzīmē (jāieķeksē) tie dalībnieki, kuri tiks
-pievienoti notikuma dalībnieku sarakstam, un jānospiež poga Pievienot:
+pievienoti notikuma dalībnieku sarakstam, un jānospiež poga
+Pievienot:.. image:: images_ozols/26197.jpg
+   :scale: 100%
+
 
 Lai no dienas plāna aizietu atpakaļ uz nedēļas kalendārā plāna skatu,
-jānospiež kalendāra podziņa .
+jānospiež kalendāra podziņa .. image:: images_ozols/26159.jpg
+   :scale: 100%
+.
 
 
 
@@ -156,6 +197,8 @@ skatlodziņā:
 
 
 
+.. image:: images_ozols/26166.jpg
+   :scale: 100%
 
 
 

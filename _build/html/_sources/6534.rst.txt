@@ -1,0 +1,2 @@
+.. 6534 Klienta kopsavilkums************************ 
+ .. toctree::   :maxdepth: 4    6564.rst   6568.rst   6545.rst   6546.rst   5078.rst   6566.rst   6565.rst   6547.rst   6544.rst   6543.rst   6542.rst   6567.rst

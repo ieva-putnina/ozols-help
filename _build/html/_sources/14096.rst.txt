@@ -1,0 +1,139 @@
+.. 14096 Datu bāzes lietotāju paroles konfigurācija********************************************** 
+
+
+Sistēmā OZOLS ir iespēja noteikt lietotājiem piesakoties sistēmā
+paroles satura minimālās prasības. Paroles konfigurēšanas iespējas ir
+pieejamas izvēlnes zarā Konfigurācija->Lietotāji->:doc:`Paroles
+konfigurācija<163>` :
+
+
+
+|images_ozols/25865.png|
+
+
+
+Paroles min.garums: minimālais simbolu skaits, kas ir jāsatur katra
+lietotāja parolei
+
+Speciālo simbolu sk.: minimālais speciālo simbolu skaits, kāds būtu
+jāsatur katrai lietotāju parolei.
+
+|images_ozols/24545.gif| Speciālo simbolu uzskaitījums: ! " # $ % & (
+) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~
+
+
+Ciparu skaits: minimālais ciparu skaits, kāds būtu jāsatur katrai
+lietotāju parolei
+
+Lielo burtu skaits: minimālais lielo burtu skaits, kāds būtu jāsatur
+katrai lietotāju parolei
+
+Paroles termiņš (dienās): nosaka lietotāj paroles derīguma termiņu.
+
+|images_ozols/24545.gif| Ja šī termiņa laikā lietotājs nav nomainījis
+savu iepriekšējo paroli pret jaunu, tad lietotāja konts sistēmā OZOLS
+tiek slēgts un lietotājs vairs nevar strādāt sistēmā. Ja termiņš nav
+noteikts, tad parole ir beztermiņa.
+
+Brīdinājums pirms termiņa (dienās): ja ir noteikts sistēmas paroļu
+derīguma termiņš, tad ir iespēja iestādīt brīdinājumu, cik dienas
+pirms lietotāja paroles termiņa beigām brīdināt lietotāju.
+
+Lai saglabātu Paroles iestādījumus, nepieciešams nospiest pogu:
+|images_ozols/25621.png| .
+
+
+
+|images_ozols/24545.gif| Sistēmā OZOLS ir iespēja slēgt lietotāju
+kontus un pieprasīt lietotājam jaunas paroles ievadi, nākošajā
+lietotāja pieteikšanās reizē. Lietotāji->:doc:`Lietotāju
+saraksts<194>` ->Atverot Lietotāja aprakstu, sadaļā: Ozols
+iestādījumi:
+
+
+
+|images_ozols/25866.png|
+
+
+
+|images_ozols/24545.gif| Ja lietotājam ir prasība mainīt savu paroli
+vai ir beidzies paroles termiņš, tad lietotājam piesakoties sistēmā
+OZOLS parādās paziņojums par to, ka ir jāmaina parole:
+
+
+
+|images_ozols/25867.png|
+
+
+Nākošajā solī lietotājam ir jāveic esošās paroles maiņa:
+
+
+
+|images_ozols/25869.png|
+
+
+
+Esošā parole: Jāievada esošā (administratora piešķirtā) parole
+
+Jaunā parole: Jāievada jaunā parole, kas atbilstu noteiktajai
+:doc:`Paroles konfigurācijai<163>` .
+
+Atkārtota parole: Atkārtoti jāievada jaunā parole.
+
+
+
+Nospiežot pogu |images_ozols/25621.png| , parole tiek nomainīta un pēc
+jaunās paroles ievades, tiek pārbaudīta paroles atbilstība sistēmas
+OZOLS lietotāju :doc:`Paroles minimālo prasību iestādījumiemi<163>` .
+Ja kāda no prasībām netiek izpildīta, tad sistēma paziņo par
+neatbilstību un neļauj lietotājam nomainīt paroli.
+|images_ozols/24545.gif| Ja lietotājs ignorē paziņojumu un nenomaina
+iepriekšējo paroli pret jaunu, tad nākošajā reizē lietotājs netiks
+ielaists sistēmā OZOLS un tiks parādīts paziņojums:
+
+
+
+|images_ozols/25868.png|
+
+
+
+Savas :doc:`Paroles maiņu<722>` lietotāji var veikt neatkarīgi no
+paroles termiņa iestādījumiem.
+
+.. |images_ozols/25865.png| image:: images_ozols/25865.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/25866.png| image:: images_ozols/25866.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/25867.png| image:: images_ozols/25867.png
+:scale: 100%
+
+.. |images_ozols/25869.png| image:: images_ozols/25869.png
+:scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/25868.png| image:: images_ozols/25868.png
+:scale: 100%
+
+ 

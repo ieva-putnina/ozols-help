@@ -7,6 +7,8 @@ dokumentu-turpmāko maksājumu:doc:`Grāmatojuma šablonam<14083>` :
 
 
 
+.. image:: images_ozols/25373.png
+:scale: 100%
 
 
 

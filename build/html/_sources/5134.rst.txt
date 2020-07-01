@@ -5,6 +5,8 @@ Lai tiktu nomainīta parole, nepieciešams aizpildīt sekojošus laukus:
 
 
 
+.. image:: images_ozols/26390.png
+   :scale: 100%
 
 
 

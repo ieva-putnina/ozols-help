@@ -2,11 +2,15 @@
 
 
 Jāatlasa vēlamie iepirkuma dokumenti un atverot iepirkuma dokumentu,
-kura iepirkuma saturs ir preces, dokumenta logā jānospiež poga un
-jāizvēlas funkcija Cenot:
+kura iepirkuma saturs ir preces, dokumenta logā jānospiež poga ..
+image:: images_ozols/25814.png
+:scale: 100%
+un jāizvēlas funkcija Cenot:
 
 
 
+.. image:: images_ozols/26125.png
+:scale: 100%
 
 
 
@@ -15,6 +19,8 @@ Izvēloties cenošanas funkciju, tiek atvērt cenošanas logs:
 
 
 
+.. image:: images_ozols/26126.png
+:scale: 100%
 
 
 
@@ -30,10 +36,17 @@ Cenas veids: jāizvēlas, kuram no nodefinētajiem :doc:`cenu
 veidiem<105>` tiks izveidotas preču cenas;
 
 Uzcenojums (%): ir iespējams ierakstīt noteiktu uzcenojuma procentu,
-un, nospiežot pogu , visas iepirkuma dokumenta preces tiek uzcenotas.
+un, nospiežot pogu .. image:: images_ozols/26128.png
+:scale: 100%
+, visas iepirkuma dokumenta preces tiek uzcenotas.
 
-Lai cenas tiktu saglabātas, jānospiež poga .
+Lai cenas tiktu saglabātas, jānospiež poga .. image::
+images_ozols/25621.png
+:scale: 100%
+.
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Ir iespējams arī manuāli ierakstīt Cenu vai cenu ar PVN, un programma
 automātiski aprēķinās uzcenojumu (%).
 
@@ -45,6 +58,8 @@ Iepirkuma dokumentā, izvēloties funkciju Cenot ar dokumentu:
 
 
 
+.. image:: images_ozols/26129.png
+:scale: 100%
 
 
 
@@ -53,6 +68,8 @@ Teik atvērt Cenošanas dokuments:
 
 
 
+.. image:: images_ozols/26130.png
+:scale: 100%
 
 
 
@@ -68,13 +85,16 @@ Izsniedza: iespējams norādīt :doc:`atbildīgo personu<312>` ;
 
 Cenas veids: jānorāda :doc:`cenu veids<105>` ;
 
-Tad, nospiežot pogu , tiek atvērt logs, kur jānorāda :doc:`cenošanas
-metode<159>` (ja norāda manuālo metodi, tad cenošana jāveic manuāli
-norādot procentuālu uzcenojumu), un tiek norādīts iepirkuma dokuments,
-no kura tiek veikta cenošana. Jānospiež poga , lai tiktu veikta
-cenošana un aizpildītos cenošanas dokumenta saturs. Cenošanas
-dokuments tiek saglabāts :doc:`Cenošanas dokumentu žurnālā<231>` , kur
-tiek saglabāti arī manuāli pievienotie :doc:`cenošanas dokumenti<374>`
-.
+Tad, nospiežot pogu .. image:: images_ozols/26131.png
+:scale: 100%
+, tiek atvērt logs, kur jānorāda :doc:`cenošanas metode<159>` (ja
+norāda manuālo metodi, tad cenošana jāveic manuāli norādot procentuālu
+uzcenojumu), un tiek norādīts iepirkuma dokuments, no kura tiek veikta
+cenošana. Jānospiež poga .. image:: images_ozols/25619.png
+:scale: 100%
+, lai tiktu veikta cenošana un aizpildītos cenošanas dokumenta saturs.
+Cenošanas dokuments tiek saglabāts :doc:`Cenošanas dokumentu
+žurnālā<231>` , kur tiek saglabāti arī manuāli pievienotie
+:doc:`cenošanas dokumenti<374>` .
 
  

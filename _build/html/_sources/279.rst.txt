@@ -1,0 +1,30 @@
+.. 279 Ieejošo kodu veidi********************** 
+
+
+Šajā sarakstā tiek nodefinēti algu :doc:`ieejošo kodu<282>` veidi.
+
+
+
+|images_ozols/26352.png|
+
+
+
+Kods - jānorāda kods.
+
+Nosaukums - jānorāda nosaukums.
+
+Mērvienība - jānorāda mērvienība (piem. LVL, stundas, darba dienas,
+kalendārās dienas, utt.).
+
+Zīmes aiz komata - jānorāda veidam zīmes aiz komata.
+
+Piezīmes - iespēja norādīt veida piezīmes.
+
+
+
+
+
+.. |images_ozols/26352.png| image:: images_ozols/26352.png
+:scale: 100%
+
+ 

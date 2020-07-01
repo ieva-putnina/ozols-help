@@ -1,0 +1,68 @@
+.. 886 Kampaņas************ 
+:doc:`<843>`
+
+Sarakstā tiek saglabāti Kampaņu veidi, kas tiek izmantoti dažādu Ozolā
+reģistrēto :doc:`Aktivitātāšu<743>` detalizētākam aprakstam un sniedz
+iespēju CRM atskaitē - :doc:`Visas aktivitātes<843>` , kampaņu veidu
+izmantot kā datu atlases kritēriju.
+
+
+
+Jaunas Kampaņas veidapievienošana:
+++++++++++++++++++++++++++++++++++
+
+Lai pievienotu jaunuKampaņas veidu,rīku joslā jānospiež poga
+|images_ozols/24708.png| un tiks atvērts jauns logs:
+
+
+
+|images_ozols/25934.png|
+
+
+
+Kods: Nepieciešams ievadīt Kampaņas kodu (saīsinātu Nosaukuma
+atšifrējumu)
+
+Nosaukums: Kampaņas pilns nosaukums
+
+Spēkā no..līdz: Kampaņas darbības periods - spēkā no...līdz
+
+Mērķis: Kampaņas mērķis
+
+Mērķa auditorija: Uzņēmuma veidotās kampaņas mērķauditorija
+
+
+
+Ieraksts tiks saglabāts, izpildot komandu |images_ozols/24710.png| .
+
+
+
+Pievienotā Kampaņas veidalabošana:
+++++++++++++++++++++++++++++++++++
+
+Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
+atvērt, izmantojot rīku joslas pogu |images_ozols/24709.png| (ALT+A),
+unatvērtajā logā veikt nepieciešamos labojumus.
+
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/25934.png| image:: images_ozols/25934.png
+:scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+:scale: 100%
+
+ 

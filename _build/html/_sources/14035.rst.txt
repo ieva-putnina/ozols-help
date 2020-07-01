@@ -1,0 +1,58 @@
+.. 14035 Drukāšana no šablona************************ 
+Ir iespēja veidot izdrukas formas no jau esošiem, sagatavotiem
+dokumentiem. Iepriekš sagatavotais dokuments ir jāsaglabā HTML
+formātā. Piemēram, Microsoft Word dokuments ar paplašinājumu.DOC ir
+jāsaglabā File/Save as Web Page... ar datnes paplašinājumu HTML.
+
+
+
+Pēc tam sistēmā iespējams veidot arī .hmtl paplašinājuma izdrukas
+formas. Lai izveidotu un pievienotu šādu html izdrukas formu, rīku
+joslā jānospiež poga Drukāt ( |images_ozols/24944.png| ) un tiks
+atvērts Izdrukas logs, kurā kā kopējo izdrukas formu iespējams
+pievienot arī html izdruku:
+
+
+
+|images_ozols/25303.png|
+
+
+
+
+
+Lai varētu labot izdrukas formu un pielāgot to uzņēmuma vajadzībām,
+nepieciešams nospiest pogu "Labot". Lai izdrukas šablonā ierakstītu
+sistēmā pieejamos mainīgos ir jāizvēlas mainīgais no saraksta un turot
+kreiso peles pogu jāpārnes tas uz vēlamo vietu izdrukas šablona
+sagatavē. Atlaižot peles pogu šablonā ierakstīsies sistēmas mainīgā
+nosaukums, piemēram, num . Drukājot šis mainīgais tiks aizvietots ar
+vērtību no drukājamā dokumenta, šajā gadījumā tas ir dokumenta numurs.
+
+|images_ozols/25302.png|
+
+
+Ja vēlas izdrukātdokumenta saturu, tad izdrukas mainīgais no saraksta
+ir jāliek tagos num . Tiks uzģenerēti tik ieraksti, cik to ir izvēlētā
+dokumenta saturā. Ja saturu vēlas izdrukāt tabulā, tad mainīgais ir
+jāliek tagos num
+
+
+
+
+|images_ozols/25304.png|
+
+
+
+.. |images_ozols/24944.png| image:: images_ozols/24944.png
+:scale: 100%
+
+.. |images_ozols/25303.png| image:: images_ozols/25303.png
+:scale: 100%
+
+.. |images_ozols/25302.png| image:: images_ozols/25302.png
+:scale: 100%
+
+.. |images_ozols/25304.png| image:: images_ozols/25304.png
+:scale: 100%
+
+ 

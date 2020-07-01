@@ -1,0 +1,69 @@
+.. 14078 Kontējumu shēmas Polišu grāmatošanai**************************************** 
+
+
+Polišu grāmatojumu kontējumu shēmas tiek veidotas, balstoties uz
+iepriekš sagatavoto :doc:`Kontu plānu<114>` un datu uzskaites
+dimensiju klasifikatora ierakstiem(Piemēram, Apdrošināšanas veids)
+norādītajiem noklusētajiem kontiem.
+
+
+
+Nepieciešamās detalizācijas izveide kontu plānā
++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai būtu iespējams iegūt detalizētu informāciju :doc:`Virsgrāmatas
+atskaitēs<524>` , sadalījumā pa polišu veidiem, konta plānā -
+grāmatvediskajiem kontiem, pēc vienota principa ieteicams veidot
+subkontus, atšifrējot kontus pa apdrošināšanas veidiem.
+
+:doc:`Kontu plānā<114>` augstākā līmeņa konta apakškontus iespējams
+pievienot, izmantojot rīku joslas pogu |images_ozols/24708.png| un
+aizpildot nepieciešamos konta apraksta ierakstus.
+
+
+
+Subkontus ieteicams veidot pēc vienota principa, kontam pirmos
+simbolus norādot atbilstošus augstākajam līmenim un detalizāciju -
+atbilstoši attiecīgajam apdrošināšanas veidam:
+
+
+
+|images_ozols/25361.png|
+
+
+
+Noklusēto kontu norādīšana datu uzskaites dimensijām
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Lai grāmatošanas procesu būtu iespējams veikt automatizēti, dimensijas
+"Apdrošināšanas veidi" klasifikatora ierakstiem,
+nepieciešams norādīt atbilstošos grāmatvediskos kontus:
+
+
+
+|images_ozols/25362.png|
+
+> Kopējie saraksti > Apdrošināšanas veidi > izmantojot rīku joslas
+pogu |images_ozols/24709.png| (ALT+A), atvērtajāierakstā iespējams
+norādīt noklusētos kontus:
+
+
+
+|images_ozols/25363.png|
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/25361.png| image:: images_ozols/25361.png
+:scale: 100%
+
+.. |images_ozols/25362.png| image:: images_ozols/25362.png
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/25363.png| image:: images_ozols/25363.png
+:scale: 100%
+
+ .. toctree::   :maxdepth: 4    14083.rst   14085.rst   14080.rst   14082.rst

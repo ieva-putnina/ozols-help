@@ -22,17 +22,23 @@ aprēķins tiks veikts:
 
 
 
+.. image:: images_ozols/26410.png
+:scale: 100%
 
 
 
 
-2. Izvēloties nepieciešamo aprēķina periodu, nospiežot pogu tiks
-aprēķinātas Polišu komisijas, balstoties uz
+2. Izvēloties nepieciešamo aprēķina periodu, nospiežot pogu .. image::
+images_ozols/25439.png
+:scale: 100%
+tiks aprēķinātas Polišu komisijas, balstoties uz
 Konfigurācija>Iestādījumi>Kopīgie>:doc:`Dažādi<739>` noteikto Brokera
 komisijas aprēķina algoritmu:
 
 
 
+.. image:: images_ozols/25440.png
+:scale: 100%
 
 
 

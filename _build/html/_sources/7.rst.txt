@@ -1,0 +1,7 @@
+.. 7 =============Dokumenti============= 
+
+
+Izmantojot Finanšu dokumentus, iespējams noformēt Kases un Bankas
+naudas darījumus.
+
+ .. toctree::   :maxdepth: 5    226.rst   224.rst   773.rst   286.rst   227.rst   225.rst   252.rst   253.rst

@@ -9,6 +9,8 @@ norādei, ka datu kolonnas tiek izmantotas [Paziņojumā]:
 
 
 
+.. image:: images_ozols/26263.png
+:scale: 100%
 
 
 
@@ -21,7 +23,10 @@ Sagatavojot paziņojumu, obligāti jānorāda atbilstošās atskaites
 sagatavošanā izmantojamās datu kolonnas.
 
 
-Paziņojumu var sagatavot Paziņojumu žurnālā spiežot rīku joslas pogu :
+Paziņojumu var sagatavot Paziņojumu žurnālā spiežot rīku joslas pogu
+.. image:: images_ozols/25605.png
+:scale: 100%
+:
 
 
 1)Pievienojot katru strādājošo atsevišķi – Paziņojuma filtrā norādot
@@ -29,6 +34,8 @@ strādājošo:
 
 
 
+.. image:: images_ozols/26556.png
+:scale: 100%
 
 
 
@@ -40,6 +47,8 @@ tiks sagatavoti paziņojumi uzreiz visiem uzņēmumā strādājošajiem:
 
 
 
+.. image:: images_ozols/26557.png
+:scale: 100%
 
 
 
@@ -52,6 +61,8 @@ atbrīvošanas periods:
 
 
 
+.. image:: images_ozols/26558.png
+:scale: 100%
 
 
 
@@ -63,6 +74,8 @@ algas nodokli norādītajam periodam:
 
 
 
+.. image:: images_ozols/26276.png
+:scale: 100%
 
 
 

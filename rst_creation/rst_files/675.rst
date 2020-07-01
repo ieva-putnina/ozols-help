@@ -9,6 +9,8 @@ plāna<114>` , jābūt atzīmētai izvēles rūtiņai VKS:
 
 
 
+.. image:: images_ozols/25130.png
+:scale: 100%
 
 
 
@@ -16,7 +18,9 @@ plāna<114>` , jābūt atzīmētai izvēles rūtiņai VKS:
 Ja uzņēmuma grāmatvedības uzskaitē tiek izmantotas datu uzskaites
 dimensijas un valūtas kursa svārstību rezultātā radušos peļņu vai
 zaudējumus nepieciešams sadalīt pa dimensijām, konta aprakstā jāatzīmē
-arī izvēles rūtiņa:
+arī izvēles rūtiņa: .. image:: images_ozols/25131.png
+:scale: 100%
+
 
 
 
@@ -25,6 +29,8 @@ atzīmētiem kontiem:
 
 
 
+.. image:: images_ozols/25132.png
+:scale: 100%
 
 
 
@@ -35,6 +41,8 @@ valūtu kursu svārstību aprēķinu:
 
 
 
+.. image:: images_ozols/25133.png
+:scale: 100%
 
 
 
@@ -47,6 +55,8 @@ periodu, par kuru šis aprēķins tiks veikts:
 
 
 
+.. image:: images_ozols/25217.png
+:scale: 100%
 
 
 
@@ -56,15 +66,22 @@ perioda beidzamajā dienā, jāatzīmē izvēles rūtiņa:
 
 
 
+.. image:: images_ozols/25219.png
+:scale: 100%
 
 
 
 
 3. Pēc izvēlētā perioda norādīšanas, iespējams veikt valūtu kursu
-svārstību aprēķinu, nospiežot komandpogu :
+svārstību aprēķinu, nospiežot komandpogu .. image::
+images_ozols/25220.png
+:scale: 100%
+:
 
 
 
+.. image:: images_ozols/25224.png
+:scale: 100%
 
 
 
@@ -75,16 +92,23 @@ svārstību aprēķina logā nospiežot komandpogu "JĀ":
 
 
 
+.. image:: images_ozols/25225.png
+:scale: 100%
 
 
 
 
 Tiks atvērts grāmatojumu žurnāla logs, kurā būs pieejami valūtu kursu
 svārstību aprēķina rezultātā izveidotie grāmatojumi, kurus iespējams
-atvērt, izmantojot rīku joslā pieejamo komandpogu :
+atvērt, izmantojot rīku joslā pieejamo komandpogu .. image::
+images_ozols/24709.png
+:scale: 100%
+:
 
 
 
+.. image:: images_ozols/25226.png
+:scale: 100%
 
 
 
@@ -95,6 +119,8 @@ grāmatojuma žurnāla filtrā, norādot attiecīgo grāmatojuma veidu:
 
 
 
+.. image:: images_ozols/25228.png
+:scale: 100%
 
 
 

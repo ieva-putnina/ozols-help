@@ -1,0 +1,35 @@
+.. 898 Citas informācijas veidi**************************** 
+
+
+Sarakstā tiek saglabāti Citas informācijas veidi, kas tiek izmantot
+Personāla datu -:doc:`Citas informācijas<765>` aizpildīšanai.
+
+Lai pievienotu jaunu Citas informācijas veidu, rīku joslā jānospiež
+poga |images_ozols/25605.png| (Alt+P) un jāieraksta Informācijas veida
+nosaukums (Piemēram, Kavējums, Pārkāpums, utt.):
+
+
+
+|images_ozols/26083.png|
+
+
+
+Nosaukums: Veida nosaukums;
+
+Piezīmes: Pēc nepieciešamības, brīvā formā ievadītas piezīmes par
+attiecīgo ierakstu.
+
+
+
+Ieraksts tiks saglabāts, izpildot komandu |images_ozols/24710.png| .
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+:scale: 100%
+
+.. |images_ozols/26083.png| image:: images_ozols/26083.png
+:scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+:scale: 100%
+
+ 

@@ -17,6 +17,8 @@ Reģistrējoties sistēmā tiks parādīta komponentu izvēles ekrāna forma.
 
 
 
+.. image:: images_ozols/24699.png
+   :scale: 100%
 
 
 
@@ -34,6 +36,8 @@ forma, kurā redzams, kuri lietotāji izmanto komponenta licences.
 
 
 
+.. image:: images_ozols/24700.png
+   :scale: 100%
 
 
 
@@ -44,6 +48,8 @@ izvēli sākot darbu. Uzsākot darbu ar programmu, komponentu izvēles
 forma vienmēr tiks aktivizēta.
 
 
+.. image:: images_ozols/24539.jpg
+   :scale: 100%
 
 
 
@@ -55,6 +61,8 @@ veikta datu ievade un apstrāde.
 
 
 
+.. image:: images_ozols/24698.png
+   :scale: 100%
 
 
 
@@ -78,7 +86,9 @@ datus, tad pārslēgties uz cita uzņēmuma datiem var no darba režīma:
 > Palīgs > Uzņēmuma izvēle
 Lai pārslēgtos uz cita uzņēmuma datiem, jāizvēlas uzņēmums laukā
 Uzņēmums un var izmantot iespēju parādīt visu uzņēmumu datus kopā,
-aktivizējot komandu:
+aktivizējot komandu: .. image:: images_ozols/24541.jpg
+   :scale: 100%
+
 
 
 

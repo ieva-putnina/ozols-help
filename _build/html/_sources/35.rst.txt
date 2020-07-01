@@ -1,0 +1,14 @@
+.. 35 =============Dokumenti============= 
+:doc:`<178>`
+
+Sistēmā tiek nodrošināta:doc:`Budžeta plānu<178>` uzturēšana. Izdevumu
+un ieņēmumu plānus var noteikt jebkurai datu uzskaites dimensijai.
+Sistēmā ir iebūvēta :doc:`Budžeta plānu<178>` ievade pa kontiem un
+visām uzskaites dimensijām. Tādā veidā iespējama budžeta plānošana
+jebkurā struktūrvienību līmenī. Tas nozīmē, ka ir iespējams iegūt
+izdevumu tāmes pa kontiem un uzskaites dimensijām noteiktam laika
+periodam un reālā laikā kontrolēt naudas līdzekļu atlikumu katram
+kontam un dimensijai.
+
+
+ .. toctree::   :maxdepth: 5    178.rst

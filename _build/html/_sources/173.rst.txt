@@ -1,0 +1,27 @@
+.. 173 ================Vārda dienas================ 
+Vārda dienu saraksts tiek importēts programmas Ozols ieviešanas
+procesā.Vārda dienu saraksta informācija tiek izmantota CRM Partneru
+:doc:`Dzimšanasun Vārda dienu kalendārā<143>` .
+
+Nospiežot Rīku joslā pogu Filtrs |images_ozols/24535.gif| ,ir
+iespējams atlasīt Vārdu kalendārā, ierakstot to tekstlodziņā,
+atzīmējot izvēles rūtiņu |images_ozols/25432.png| un nospiežot pogu
+|images_ozols/25379.png|
+
+
+
+|images_ozols/25380.png|
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+        :scale: 100%
+
+.. |images_ozols/25432.png| image:: images_ozols/25432.png
+        :scale: 100%
+
+.. |images_ozols/25379.png| image:: images_ozols/25379.png
+        :scale: 100%
+
+.. |images_ozols/25380.png| image:: images_ozols/25380.png
+        :scale: 100%
+
+ 

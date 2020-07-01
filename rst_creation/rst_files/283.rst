@@ -16,6 +16,8 @@ vērtības, citus rezultātu numurus.
 
 
 
+.. image:: images_ozols/26353.png
+:scale: 100%
 
 
 
@@ -36,6 +38,8 @@ tikai jāievēro, lai tie būtu izrēķināti iepriekš.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Aprēķina formulā jāizmanto tikai iepriekš aprēķinātie rezultāti.
 Rezultējošo kodu aprēķina secību norāda rezultējošo kodu vērtība
 „Rinda”.
@@ -98,6 +102,8 @@ rezultējošā koda konfigurācija un jāpievieno DB.konts un CR.konts.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Instrukcija: :doc:`Grāmatvedisko kontu piesaistīšana algu
 rezultējošiem kodiem<14109>`
 

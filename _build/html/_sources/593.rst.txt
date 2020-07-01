@@ -1,0 +1,84 @@
+.. 593 Atvaļinājuma rezerves aprēķins********************************** 
+
+
+Atskaite parāda uzkrājumu neizmantotajam atvaļinājumam katram
+strādājošajam dienu un summu veidā.
+
+|images_ozols/24545.gif| 1. Lai atskaite tiktu sagatavota pareizi,
+programmā jāveic precīza atvaļinājumu datu uzskaite. Uzsākot darbu ar
+programmu strādājošā :doc:`Slodzei<207>` norāda neizmantoto
+atvaļinājumu dienu skaitu uz konkrētu datumu:
+
+
+
+|images_ozols/26199.png|
+
+
+
+2. Programmā jābūt uzkrātiem datiem par nepieciešamajiem iepriekšējiem
+periodiem vidējās izpeļņas aprēķināšanai, :doc:`Slodzes aprakstā<207>`
+jābūt noteiktam :doc:`Atvaļinājumu kalendāram<284>` un tajā –
+atvaļinājumu dienu skaitam:
+
+
+
+|images_ozols/26200.png|
+
+
+
+Piemēram, ja slodzei norādītsAtvalīn.kalendārs - 20 darba dienas, tas
+nozīmē, kapar katru pilnu nostrādāto mēnesišim darbiniekam pienākas
+1.67 atvaļinājuma diena (20 atvaļinājumā darba dienas gadā / 12
+mēnešiem~ 1.67 atv.dienas par pilnu nostrādāto mēnesi).
+
+
+|images_ozols/24545.gif| Sagatavojot atskaiti, tajā tiek iekļautas
+visas datu atlases filtram atbilstošās slodzes. Sagatavojot atskaiti,
+atskaitē tiek uzrādīti šādi dati:
+
+
+
+Dien.alga - Strādājošā vidējā dienas izpeļņa uz filtrā atlasīto
+periodu;
+
+Dien.atl.p.s. - Uzkrātais atvaļinājuma dienu atlikums perioda sākumā -
+filtra iestādījumos norādītajam periodam "Periods no...";
+
+Summa p.s. - Uzkrātā atvaļinājuma summa perioda sākumā
+(vid.izpeļņa*uzkrāto atv.dienu skaits);
+
+Per.pien.atv.d. - Strādājošam pienākošās atvaļinājuma dienas par
+atskaites filtrā atlasīto periodu;
+
+Per.pien.apgr. - Perioda dienu skaita un izpeļņas summas apgrozījums,
+kas veidojas no strādājošam pienākošajām atvaļinājuma dienām par
+atskaites filtrā atlasīto periodu, reizināta ar vidējo dienas izpeļņu
+atbilstošajā periodā;
+
+Per.izt.atv.d. - Filtrā atlasītā periodā iztērētās atvaļinājuma dienas
+- informācija tiek ņemta no Algu aprēķinā ielādētās informācijas no
+strādājošā slodzes kalendāra - Pievienotā :doc:`Rīkojuma<209>` par
+"Ikgadējo atvaļinājumu";
+
+Per.izt.apgr. - Perioda iztērēto atvaļinājuma dienu skaita un izpeļņas
+summas apgrozījums - izmaksātā atvaļinājuma nauda atlasītajā periodā;
+
+Dien.atl.p.b. - Uzkrātās atvaļinājuma dienu atlikums uz perioda beigām
+- uz filtra iestādījumos norādītajam periodam "Periods ...līdz".
+
+Summa p.b. - Uzkrātā atvaļinājuma summa periodabeigās
+(vid.izpeļņa*uzkrāto atv.dienu skaits);
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/26199.png| image:: images_ozols/26199.png
+:scale: 100%
+
+.. |images_ozols/26200.png| image:: images_ozols/26200.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+ 

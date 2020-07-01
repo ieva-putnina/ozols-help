@@ -1,0 +1,38 @@
+.. 591 Rezultāti horizontāli************************* Atskaite parāda algu aprēķina rezultātus, atbilstoši izvēlētajām
+sakonfigurētajām atskaišu kolonnām.
+
+Pieejamās atskaišu kolonnas atskaites sagatavošanai jānosaka sarakstā
+:doc:`Kolonnu virsraksti<214>` .
+
+Sagatavojot atskaiti, atskaites filtra laukā Kolonnas ir jānorāda,
+kādas atskaišu kolonnas datu sagatavošanā jāizmanto. Atskaišu kolonnas
+ir modificējamas un tajās var noteikt parādīšanai atskaitē jebkurus
+datus no sakonfigurētajiem algu aprēķina rezultātiem
+(:doc:`Rezultējošo kodu konfigurācij<283>` :doc:`a`)
+
+|images_ozols/26546.png|
+
+Datus var atlasīt atsevišķiem aprēķina periodiem, struktūrvienībām,
+finansējumiem. Atskaiti var sagatavot par vienu no strādājošo amatiem,
+slodzes veidiem vai personāla kategorijām. Atskaitē var iekļaut
+aprēķinus, kuri sākas vai nesākas ar norādīto dzīvesvietas kodu.
+Atskaitē tiek parādīts vertikāls strādājošo saraksts un horizontāli
+kolonnās algu rezultātu summas. Kolonnas Persona, Slodžu skaits ir
+noteiktas programmā, bet algu aprēķina rezultātu kolonnas tiek
+konfigurētas atskaišu kolonnu sarakstā.
+
+|images_ozols/26547.png|
+
+Tā kā rezultāti horizontāli var iekļaut ļoti daudz datu kolonnu, šī
+atskaite ir pieejama lietošanai tikai HTML skatā. Ja drukājot
+atskaiti, datiem nepietiek vietas lapā, atskaite ir jāeksportē vai
+jākopē ārējā failā, jāformatē teksts vai jākoriģē kolonnu skaits un
+jādrukā no MS Office programmām.
+
+.. |images_ozols/26546.png| image:: images_ozols/26546.png
+:scale: 100%
+
+.. |images_ozols/26547.png| image:: images_ozols/26547.png
+:scale: 100%
+
+ 

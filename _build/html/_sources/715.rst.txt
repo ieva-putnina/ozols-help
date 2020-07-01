@@ -1,0 +1,24 @@
+.. 715 Datu bāze************* Datu bāzes konfigurācijā var pievienot datu nosaukumu, noradīt ceļu uz
+programmas versiju internetā, norādīt saglabājamo atskaišu datu bāzi.
+
+
+
+**Datu nosaukums**
+Datu nosaukums tiek parādīts ekrāna formu nosaukumos.
+
+**iOzols**
+Interneta adrese programmatūras versijai internetā. Sistēmas datus var
+izmantot dažādos formātos. Ar atbilstošām lietotāja tiesībām
+programmatūras datiem var pieslēgties izmantojot internetu.
+
+**Sagl.atsk. datu bāze**
+Saglabājamo atskaišu datu bāzes nosaukums. Jebkuru atskaiti,
+izmantojot komandu Dati / Saglabāt datu bāzē, var saglabāt datu bāzē
+un izmantot datu apskatei. Lai atskaites varētu saglabāt, jābūt
+izveidotai atsevišķai datu bāzei un lietotājam jānosaka tiesības
+saglabāt datus atskaišu datu bāzē. Atskaišu datu bāzei jābūt
+novietotai uz tās pašas servera instances, kur atrodas grāmatvedības
+datu bāze. Atskaites var saglabāt arī kopā ar uzņēmuma datiem, tomēr
+iespējami lielais datu pajoms var palēnināt programmas darbību.
+
+ 

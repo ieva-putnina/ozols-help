@@ -1,0 +1,44 @@
+.. 7304 Struktūrvienība******************* 
+Pievienotās struktūrvienības tiek saglabātas :doc:`struktūrvienību
+sarakstā<7313>` . Struktūrvienības tiek izmantotas :doc:`jaunas
+personas<7305>` pievienošanai un :doc:`atskaišu<7317>` sagatavošanai.
+
+|images_ozols/26188.jpg|
+
+
+
+Kods: struktūrvienības nosaukuma saīsinājums vai apzīmējums;
+
+Nosaukums: pilns struktūrvienības nosaukums;
+
+Virsējais līmenis: ja nepieciešams, jānorāda pievienojamās
+struktūrvienības augstākais līmenis (:doc:`hierarhiski veidojot
+sarakstu<14041>` );
+
+Izsaukumu skaits/mēn.: izsaukumu skaits mēnesī (tiek nodefinēts).
+Nodefinētasi izsaukuma skaits mēnesī ir saistīts ar notikumu
+pievienošanu konkrētai struktūrvienībai un :doc:`personālija darba
+pārskata atskaiti<7322>` ;
+
+Kārtas nr.: struktūrvienību saraksta kārtas nr.
+
+
+Lai struktūrvienības ierakst tiktu saglabāts, jānospiež poga
+|images_ozols/25829.png| . Lai pievienotu jaunu struktūrvienību,
+jānospiež poga |images_ozols/25850.png| un jāpievieno jaunu
+struktūrvienības ierakstu. Lai, pēc saglabāšanas, labotu pievienotās
+struktūrvienības ierakstu, jānospiež poga |images_ozols/25832.png| un
+pēc labošanas ieraksts jāsaglabā.
+.. |images_ozols/26188.jpg| image:: images_ozols/26188.jpg
+:scale: 100%
+
+.. |images_ozols/25829.png| image:: images_ozols/25829.png
+:scale: 100%
+
+.. |images_ozols/25850.png| image:: images_ozols/25850.png
+:scale: 100%
+
+.. |images_ozols/25832.png| image:: images_ozols/25832.png
+:scale: 100%
+
+ 

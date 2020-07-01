@@ -14,11 +14,15 @@ viena veida dokumentus, noteiktu atsevišķu dokumenta numerāciju
 Jauna iepirkuma dokumenta veida pievienošana
 ````````````````````````````````````````````
 
-Lai pievienotu jaunu iepirkuma dokumenta veidu, jāizmanto komanda no
-rīku joslas (Alt+P) un tiks atvērts jauns logs:
+Lai pievienotu jaunu iepirkuma dokumenta veidu, jāizmanto komanda ..
+image:: images_ozols/24879.png
+:scale: 100%
+no rīku joslas (Alt+P) un tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/26496.png
+:scale: 100%
 
 
 
@@ -73,25 +77,32 @@ Avansa rēķins - attiecīgo iepirkuma dokumentu būs iespējams noformēt
 kā saņemto avansa rēķinu.
 
 
-Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu no rīku
-joslas vai(Ctrl+S).
+Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu .. image::
+images_ozols/24867.png
+:scale: 100%
+no rīku joslas vai(Ctrl+S).
 
 
 
 Iepirkuma dokumenta veida labošana
 ``````````````````````````````````
 Lai veiktu labojumus iepirkuma dokumenta veidā, ierakstu nepieciešams
-atvērt, izmantojot komandu no rīku joslas (Alt+A). Atvērtajā logā
-iespējams mainīt jebkuru no laukos esošo informāciju. Pēc labojumu
-veikšanas, veiktās izmaiņas iespējams saglabāt ar komandu no rīku
-joslas.
+atvērt, izmantojot komandu .. image:: images_ozols/24869.png
+:scale: 100%
+no rīku joslas (Alt+A). Atvērtajā logā iespējams mainīt jebkuru no
+laukos esošo informāciju. Pēc labojumu veikšanas, veiktās izmaiņas
+iespējams saglabāt ar komandu .. image:: images_ozols/24867.png
+:scale: 100%
+no rīku joslas.
 
 
 Iepirkuma dokumentaveida dzēšana
 ````````````````````````````````
 
-Lai dzēstu iepirkuma dokumenta veidu, jāizmanto komanda no rīku
-joslas. Ieraksts ir jādzēš neatvērtā veidā.
+Lai dzēstu iepirkuma dokumenta veidu, jāizmanto komanda.. image::
+images_ozols/25602.png
+:scale: 100%
+no rīku joslas. Ieraksts ir jādzēš neatvērtā veidā.
 
 
 

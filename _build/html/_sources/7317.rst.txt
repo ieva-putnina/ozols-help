@@ -1,0 +1,16 @@
+.. 7317 =============Atskaites============= 
+Iespējams sagatavot dažādas atskaites:
+
+:doc:`Mēģinājuma kopsavilkumu<7321>` ;
+
+:doc:`Notikumu pārskatu<7318>` ;
+
+:doc:`Personālija darba pārskatu<7322>` ;
+
+:doc:`Pirmizrāžu plānu<7319>` ;
+
+:doc:`Repertuāru<7320>` ;
+
+:doc:`Kalendāro plānu<7323>` .
+
+ .. toctree::   :maxdepth: 5    7321.rst   7318.rst   7322.rst   7319.rst   7320.rst

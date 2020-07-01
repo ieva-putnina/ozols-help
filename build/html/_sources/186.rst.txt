@@ -19,15 +19,21 @@ amata apraksts. Uzņēmumā vienā amatā var strādāt vairāki cilvēki.
 
 
 
+.. image:: images_ozols/25604.png
+:scale: 100%
 
 
 
 
-Lai pievienotu jaunu amatu, rīku joslā jānospiež poga (Atl+P), tiek
-atvērts logs:
+Lai pievienotu jaunu amatu, rīku joslā jānospiež poga .. image::
+images_ozols/24708.png
+:scale: 100%
+(Atl+P), tiek atvērts logs:
 
 
 
+.. image:: images_ozols/26405.png
+:scale: 100%
 
 
 
@@ -50,6 +56,8 @@ Amata aprakstā iespējams norādīt, cik uzņēmumā ir paredzētas amata
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Štata vietu skaits jāpievieno periodā, kad tas ir mainījies. Piemēram,
 uz 2007. gada janvāri tiek noteikta 1 štata vieta, bet uz 2008. gada
 janvāri - 2 štata vietas. Ieraksti jāpievieno periodā, kad notiek
@@ -63,23 +71,38 @@ saraksta aizpildījumu kopsavilkums<609>` .
 Amata budžeta sadaļā, iespējams izveidot štata vietu skaitu,
 sadalījumā pa struktūrvienībām.Izvēlētā struktūrvienība amata aprakstā
 atskaitēs parādīs, kurā struktūrvienībā ir neaizpildītas štata vietas.
-Nospiežot pogu (Alt+P), jāizvēlas periods un amatu skaits.
+Nospiežot pogu .. image:: images_ozols/24708.png
+:scale: 100%
+(Alt+P), jāizvēlas periods un amatu skaits.
+
+
+
+.. image:: images_ozols/25600.png
+:scale: 100%
 
 
 
 
+Ar pogu .. image:: images_ozols/24708.png
+:scale: 100%
+(Alt+P), jāpievieno budžeta summa uz attiecīgo periodu.
 
 
 
-Ar pogu (Alt+P), jāpievieno budžeta summa uz attiecīgo periodu.
+.. image:: images_ozols/25601.png
+:scale: 100%
 
 
 
 
-
-
-
-Lai ierakstus atvērtu un labotu, vai dzēstu, jānospiež poga (Alt+A)
-vai (Alt+D). Lai saglabātu pievienotos datus, jānospiež poga .
+Lai ierakstus atvērtu un labotu, vai dzēstu, jānospiež poga .. image::
+images_ozols/25603.png
+:scale: 100%
+(Alt+A) vai .. image:: images_ozols/25602.png
+:scale: 100%
+(Alt+D). Lai saglabātu pievienotos datus, jānospiež poga .. image::
+images_ozols/24615.jpg
+:scale: 100%
+.
 
  

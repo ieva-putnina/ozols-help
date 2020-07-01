@@ -18,6 +18,8 @@ jauns logs:
 
 
 
+.. image:: images_ozols/25347.png
+:scale: 100%
 
 
 
@@ -33,6 +35,8 @@ Lai aizpildītuNorakstīšanas uz...dokumenta Virsrakstu, nepieciešams:
 
 
 
+.. image:: images_ozols/25341.png
+:scale: 100%
 
 
 
@@ -42,6 +46,8 @@ nosūtīta un norakstīta:
 
 
 
+.. image:: images_ozols/25348.png
+:scale: 100%
 
 
 
@@ -57,11 +63,15 @@ Nomenklatūrasnorakstīšanas uz...dokumenta Satura aizpildīšana
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu Nomenklatūras norakstīšanas uz... dokumenta Saturu,
-dokumenta satura daļā nepieciešams nospiest pogu un tiks atvērts
-operācijas satura logs:
+dokumenta satura daļā nepieciešams nospiest pogu.. image::
+images_ozols/24708.png
+:scale: 100%
+un tiks atvērts operācijas satura logs:
 
 
 
+.. image:: images_ozols/25344.png
+:scale: 100%
 
 
 
@@ -78,6 +88,8 @@ uzskaites dimensijām.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Ja tiek izvēlēta nomenklatūra un norādītas dimensijas (Ek.kods no;
 Struktūrv.no) , bet atlikums uzrādās 0.0000, nepieciešams pārbaudīt
 norādītās dimensijas un Atbildīgo personu – vai nomenklatūrai, ar
@@ -87,14 +99,23 @@ norakstīšanainepieciešamie atlikumi attiecīgajās dimensijās.
 
 
 Lai saglabātu izveidoto satura ierakstu, nomenklatūras pārsūtīšanas
-logā nepieciešams nospiest vai - ja nomenklatūras pārsūtīšanu
-unvienlaicīgi norakstīšanunav nepieciešams veikt.
+logā nepieciešams nospiest .. image:: images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+- ja nomenklatūras pārsūtīšanu unvienlaicīgi norakstīšanunav
+nepieciešams veikt.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Nomenklatūrasnorakstīšanas uz...dokumenta saturs var sastāvēt no
 vairākiem satura ierakstiem.Pievienot nākamo satura ierakstu
-iespējams, satura daļā nospiežot pogu .
+iespējams, satura daļā nospiežot pogu .. image::
+images_ozols/24708.png
+:scale: 100%
+.
 
 
 
@@ -108,12 +129,17 @@ ir iespējams:
 
 
 
-1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
+1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
+:scale: 100%
+-dokuments tiks saglabāts un būs pieejams
 apskatei/labošanai/grāmatošanai :doc:`Iekšējās kustības dokumentu
 žurnālā<688>` .
 
-2. Apstiprināt, nospiežot rīku joslā pogu -Nomenklatūras norakstīšanas
-uz...dokuments tiks Apstiprināts un to būs iespējams Grāmatot.
+2. Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+:scale: 100%
+-Nomenklatūras norakstīšanas uz...dokuments tiks Apstiprināts un to
+būs iespējams Grāmatot.
 
 
 
@@ -125,8 +151,13 @@ dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Iekšējās kustības
 dokumentu žurnālā<688>` .
 
 Lai iegrāmatotu Nomenklatūras norakstīšanu uz, dokumentu nepieciešams
-Apstiprināt, nospiežot rīku joslā pogu . Apstiprinātu dokumentu ir
-iespējams grāmatot, nospiežot rīku joslā pogu .
+Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+:scale: 100%
+. Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
+pogu .. image:: images_ozols/24741.png
+:scale: 100%
+.
 
 
 
@@ -141,15 +172,21 @@ Labojumus saglabātajādokumentā iespējams veikt atverot Nomenklatūras
 norakstīšanas uz... dokumentu, kurš pieejams
 apskatei/labošanai:doc:`Iekšējās kustības dokumentu žurnālā<688>` .
 Lai veiktu labojumusNomenklatūras norakstīšanas uz...
-dokumentā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
+dokumentā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu..
+image:: images_ozols/24709.png
+:scale: 100%
 (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 
 
 
+.. image:: images_ozols/25350.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Nomenklatūrasnorakstīšanas uzdokumenta datumu NAV iespējams labot, jo
 nomenklatūras atlikumi Noliktavā, ņemot vērā norādītās dimensijas,
 tiek rēķināti atbilstoši iepriekš izvēlētajam datumam un datuma maiņa
@@ -160,6 +197,11 @@ izveidotais dokuments jādzēš!
 
 
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
  

@@ -1,0 +1,17 @@
+.. 14093 Norakstīšanas akta izdruka****************************** 
+
+
+Lai izdrukātu sagatavoto Nomenklatūras norakstīšanas dokumentu,
+nepieciešams nospiest pogu |images_ozols/25802.png| :
+
+
+
+|images_ozols/25804.png|
+
+.. |images_ozols/25802.png| image:: images_ozols/25802.png
+:scale: 100%
+
+.. |images_ozols/25804.png| image:: images_ozols/25804.png
+:scale: 100%
+
+ 

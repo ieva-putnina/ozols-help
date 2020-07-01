@@ -1,0 +1,4 @@
+.. 622 Algu konfigurācijas sistēmas mainīgie***************************************** Algu konfigurācijas sistēmas mainīgo saraksts ir informatīvs, kura
+dati tiek izmantoti veidojot sistēmas :doc:`algu aprēķinu
+konfigurāciju<283>` .
+ 

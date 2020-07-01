@@ -1,0 +1,39 @@
+.. 28 =================Konfigurācija================= 
+
+
+
+
+Izmantojot Algu moduļa Konfigurācijas darba režīmus, iespējams
+nodefinēt LR atbilstošās nodokļu likmes:
+
+
++ :doc:`Ienākuma nodokļu metodes<222>`
++ :doc:`Sociālo nodokļu metodes<223>`
+
+
+Izveidot algu konfigurāciju, definējot atbilstošos algu kodus:
+
+
++ :doc:`Algu konfigurācijas sistēmas mainīgie<622>`
++ :doc:`Ieejošo kodu konfigurācija<282>`
++ :doc:`Ieejošo kodu veidi<279>`
++ :doc:`Rezultējošo kodu konfigurācija<283>`
++ :doc:`Rīkojumu veidu ieejošo datu konfigurācija<277>`
++ :doc:`Sistēmas kodi<614>`
+
+
+Izveidot Kolonnu virsrakstu konfigurācijas :doc:`Algu atskaitēm<57>` :
+
+
++ :doc:`Kolonnu virsraksti<214>`
+
+
+Kā arī pievienot jaunus :doc:`Algu periodus<211>` un nodefinēt
+:doc:`Individuālos<733>` un :doc:`Kopīgos<732>` konfigurācijas
+iestādījumus.
+
+
+
+:doc:`<733>`
+
+ .. toctree::   :maxdepth: 5    622.rst   211.rst   281.rst   213.rst   282.rst   279.rst   222.rst   733.rst   214.rst   732.rst   283.rst   277.rst   614.rst   223.rst

@@ -32,33 +32,44 @@ piesaistītās korespondences nosaukuma.
 
 
 
+.. image:: images_ozols/24950.png
+:scale: 100%
 No atskaites Lietas kredītu reģistram, iespējams:
 
 
 
+.. image:: images_ozols/26321.png
+:scale: 100%
 
 
 
 
-1. Izmantojot rīku joslas pogu: , nospiežot taustiņu CTRL+atzīmējot
-ierakstus no atskaites - iespējams automatizēti visas iezīmētās lietas
-nodot kredītu reģistram. Pēc šīs funkcijas izpildes, tiks sagatavota
-korespondence, kurā nepieciešams norādīt atbilstošo stadiju:
+1. Izmantojot rīku joslas pogu:.. image:: images_ozols/26314.png
+:scale: 100%
+, nospiežot taustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams
+automatizēti visas iezīmētās lietas nodot kredītu reģistram. Pēc šīs
+funkcijas izpildes, tiks sagatavota korespondence, kurā nepieciešams
+norādīt atbilstošo stadiju:
+
+
+
+.. image:: images_ozols/26322.png
+:scale: 100%
 
 
 
 
+2. Izmantojot rīku joslas pogu:.. image:: images_ozols/26314.png
+:scale: 100%
+, nospiežot taustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams
+automatizēti visas iezīmētās lietas izņemt no kredītu reģistra. Pēc
+šīs funkcijas izpildes, tiks sagatavota korespondence, kurā
+nepieciešams norādīt atbilstošo stadiju:
 
 
 
-2. Izmantojot rīku joslas pogu: , nospiežot taustiņu CTRL+atzīmējot
-ierakstus no atskaites - iespējams automatizēti visas iezīmētās lietas
-izņemt no kredītu reģistra. Pēc šīs funkcijas izpildes, tiks
-sagatavota korespondence, kurā nepieciešams norādīt atbilstošo
-stadiju:
-
-
-
+.. image:: images_ozols/26323.png
+:scale: 100%
 
 
  

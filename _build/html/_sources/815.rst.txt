@@ -1,0 +1,179 @@
+.. 815 Grāmatojumu pārskats************************ 
+
+
+Grāmatojumu pārskats ir veikto debeta un kredīta operāciju -
+grāmatojumu saraksts, kas tiek atlasīts un sakārtots atbilstoši
+izvēlētajam datu atlases filtram.Grāmatojumu pārskatā var iegūtplašu
+informāciju par iegrāmatotajām operācijām – kontu korespondenci, datus
+pa partneriem, pa visām datu uzskaites dimensijām.Grāmatojumu pārskatā
+var meklēt datus, atlasot tos pēc visdažādākajiem parametriem.
+
+
+
+Filtrs jāaizpilda, lai sagatavotu atskaiti.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves.
+
+
+
+Gr.
+
+Grāmatojuma numurs
+
+Datums
+
+Grāmatojuma datums.
+
+Dok.num.
+
+Dokumenta numurs.
+
+Dok.dat.
+
+Dokumenta datums.
+
+Summa
+
+Dokumenta summa.
+
+Summa p.v.
+
+Dokumenta summa pamatvalūtā.
+
+DB.konts
+
+Grāmatojuma satura rindas debeta konts.
+
+CR.konts
+
+Grāmatojuma satura rindas kredīta konta.
+
+Paskaidrojums
+
+Grāmatojuma paskaidrojums.
+
+
+
+CR.ek.kods
+
+Grāmatojuma satura ieraksta kredīta EK kods.
+
+CR.ek.nosaukums
+
+Grāmatojuma satura ieraksta kredīta EK koda nosaukums.
+
+CR.konta nosaukums
+
+Grāmatojuma satura ieraksta kredīta konta nosaukums.
+
+CR.līgums
+
+Grāmatojuma kredīta puses satura ieraksta līgums.
+
+CR.līgums
+
+Grāmatojuma kredīta puses satura ieraksta līguma nosaukums.
+
+CR.nozare
+
+Grāmatojuma kredīta puses satura ieraksta nozare.
+
+CR.nozares nosaukums
+
+Grāmatojuma kredīta puses satura ieraksta nozares nosaukums.
+
+CR.partn
+
+Grāmatojuma kredīta puses satura ieraksta partneris.
+
+CR.partn.nosaukums
+
+Grāmatojuma kredīta puses satura ieraksta partnera nosaukums.
+
+CR.proj.
+
+Grāmatojuma kredīta puses satura ieraksta projekts.
+CR.proj.nosaukums
+
+Grāmatojuma kredīta puses satura ieraksta projekta nosaukums.
+CR.strv.
+
+Grāmatojuma kredīta puses satura ieraksta struktūrvienība.
+CR.strv.nosaukums
+
+Grāmatojuma kredīta puses satura ieraksta struktūrvienības nosaukums.
+DB.ek.kods
+
+Grāmatojumadebeta puses satura ieraksta EK kods.
+
+DB.ek.nosaukums
+
+Grāmatojumadebeta puses satura ieraksta EK koda nosaukums.
+
+DB.līgums
+
+Grāmatojumadebeta puses satura ieraksta līgums.
+
+DB.līgums
+
+Grāmatojumadebeta puses satura ieraksta līguma nosaukums.
+
+DB.nozares nosaukums
+
+Grāmatojumadebeta puses satura ieraksta nozares nosaukums.
+
+DB.nozare
+
+Grāmatojumadebeta puses satura ieraksta nozare.
+
+DB.partn.
+
+Grāmatojumadebeta puses satura ieraksta partneris.
+
+DB.partn.nosaukums
+
+Grāmatojumadebeta puses satura ieraksta partnera nosaukums.
+
+DB.proj.
+
+Grāmatojumadebeta puses satura ieraksta projekts.
+
+DB.proj.nosaukums
+
+Grāmatojumadebeta puses satura ieraksta projekta nosaukums.
+
+DB.strv.
+
+Grāmatojumadebeta puses satura ieraksta struktūrvienība.
+
+DB.strv.nosaukums
+
+Grāmatojumadebeta puses satura ieraksta struktūrvienības nosaukums.
+
+Grām.pask.
+
+Grāmatojumasatura ieraksta paskaidrojums.
+
+Mēnesis
+
+Mēnesis, kurā iekļaujas grāmatojuma datums.
+
+Valūta
+
+Valūtas kods.
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+:scale: 100%
+
+ 

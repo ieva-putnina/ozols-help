@@ -10,6 +10,8 @@ pamatlīdzekļu kategorijas.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Pamatlīdzekļu kategorijas pamatlīdzekļu uzskaitē ir jāizmanto obligāti
 , jo pamatlīdzekļu kategorijās tiek definēti dati, kas tiek izmantoti
 pamatlīdzekļu operācijās:
@@ -29,11 +31,15 @@ nosacījumu.
 
 
 Jaunu pamatlīdzekļu kategoriju pievieno pamatlīdzekļu kategoriju
-sarakstā ar funkciju . Pēc datu aizpildīšanas jāspiež poga Saglabāt
-lai saglabātu jaunizveidoto ierakstu.
+sarakstā ar funkciju .. image:: images_ozols/25605.png
+:scale: 100%
+. Pēc datu aizpildīšanas jāspiež poga Saglabāt lai saglabātu
+jaunizveidoto ierakstu.
 
 
 
+.. image:: images_ozols/26435.png
+:scale: 100%
 
 
 
@@ -80,10 +86,15 @@ izdevuma konts.
 
 
 
-Pamatlīdzekļu kategoriju labo ar funkciju .
+Pamatlīdzekļu kategoriju labo ar funkciju .. image::
+images_ozols/25603.png
+:scale: 100%
+.
 
-Pamatlīdzekļu kategoriju dzēš ar funkciju . Pamatlīdzekļu kategoriju
-sistēma neļauj dzēst, ja tas ir pievienots kādam sistēmā ievadītam
-pamatlīdzeklim.
+Pamatlīdzekļu kategoriju dzēš ar funkciju .. image::
+images_ozols/25602.png
+:scale: 100%
+. Pamatlīdzekļu kategoriju sistēma neļauj dzēst, ja tas ir pievienots
+kādam sistēmā ievadītam pamatlīdzeklim.
 
  

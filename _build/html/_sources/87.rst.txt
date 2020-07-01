@@ -1,0 +1,21 @@
+.. 87 =============Dokumenti============= 
+
+
+Izmantojot CRM (Partneri) dokumentus, iespējams izveidot
+atgādinājumus, korespodences ierakstus, dažādus ar klientu attiecību
+vadību saistītus aktivitāšu dokumentus, kuri pēc dokumentu
+saglabāšanas pieejami CRM (Partneri) dokumentu žurnālos:
+
+
+
+:doc:`Atgādinātāji<874>`
+
+:doc:`Korespondence<744>`
+
+:doc:`Notikumu žurnāls<742>`
+
+:doc:`Piedāvājumu žurnāls<879>`
+
+:doc:`Ziņojumu žurnāls<785>`
+
+ .. toctree::   :maxdepth: 5    874.rst   917.rst   744.rst   932.rst   879.rst   296.rst   942.rst   742.rst   785.rst

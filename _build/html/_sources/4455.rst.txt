@@ -1,0 +1,21 @@
+.. 4455 Iekšējās kustības dokumenti******************************* 
+
+
+Iekšējās kustības dokumentu žurnālātiek saglabāti visi iOzols
+:doc:`Noliktavas<4454>` modulīizveidotie Nomenklatūras iekšējās
+kustības dokumenti: :doc:`Nomenklatūras norakstīšana<693>` .
+
+Lai atlasītu dokumentus Iekšējās kustības dokumentu žurnālā, jāizmanto
+datu atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši
+norādītajiem datu atlases kritērijiem filtra ekrāna formā:
+
+
+
+|images_ozols/25820.png|
+
+
+
+.. |images_ozols/25820.png| image:: images_ozols/25820.png
+:scale: 100%
+
+ 

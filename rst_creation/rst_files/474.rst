@@ -23,6 +23,8 @@ logs:
 
 
 
+.. image:: images_ozols/24993.png
+:scale: 100%
 
 
 
@@ -40,6 +42,8 @@ norēķinu personas<196>` :
 
 
 
+.. image:: images_ozols/24826.png
+:scale: 100%
 
 
 
@@ -48,6 +52,8 @@ norēķinu personas<196>` :
 
 
 
+.. image:: images_ozols/24811.png
+:scale: 100%
 
 
 
@@ -56,6 +62,8 @@ norēķinu personas<196>` :
 
 
 
+.. image:: images_ozols/24812.png
+:scale: 100%
 
 
 
@@ -65,6 +73,8 @@ kuras kasē tiek saņemta nauda:
 
 
 
+.. image:: images_ozols/24828.png
+:scale: 100%
 
 
 
@@ -74,6 +84,8 @@ pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:
 
 
 
+.. image:: images_ozols/24906.png
+:scale: 100%
 
 
 
@@ -81,19 +93,28 @@ Dokumenta - Kasē atgriezts avanss,Satura aizpildīšana
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams
-nospiest pogu un tiks atvērts operācijas satura logs, kurā
-nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās
-dimensijas) un norādīt satura ieraksta summu:
+nospiest pogu.. image:: images_ozols/24708.png
+:scale: 100%
+un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
+satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
+ieraksta summu:
+
+
+
+.. image:: images_ozols/24800.png
+:scale: 100%
 
 
 
 
-
-
-
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
 kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
-satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu .
+satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu ..
+image:: images_ozols/24708.png
+:scale: 100%
+.
 
 
 Kasē atgriezta avansa dokumenta Pamatojuma aizpildīšana
@@ -108,6 +129,8 @@ Lauku Pamatojums , iespējams aizpildīt manuāli vai izvēloties no
 
 
 
+.. image:: images_ozols/24907.png
+:scale: 100%
 
 
 
@@ -127,22 +150,33 @@ pievienojot nepieciešamo Stingrās uzskaites dokumentu:
 
 
 
+.. image:: images_ozols/24868.png
+:scale: 100%
 
 
 
 
 Kad izvēlēts nepieciešamais uzskaites dokuments un ierakstīta
-dokumenta summa, ierakstu iespējams pievienot, nospiežot vai arī, ja
-nevēlaties dokumentu pievienot - .
+dokumenta summa, ierakstu iespējams pievienot, nospiežot .. image::
+images_ozols/24874.png
+:scale: 100%
+vai arī, ja nevēlaties dokumentu pievienot - .. image::
+images_ozols/24875.png
+:scale: 100%
+.
 
 
 
 Lai izvēlētos uzskaites dokumentus piesaistītu dokumentam, logā
-"Darījumu apliecinošās kvītis" nepieciešams nospiest un dokuments
-tikspievienots Kases ieņēmumu dokumentam:
+"Darījumu apliecinošās kvītis" nepieciešams nospiest .. image::
+images_ozols/24876.png
+:scale: 100%
+un dokuments tikspievienots Kases ieņēmumu dokumentam:
 
 
 
+.. image:: images_ozols/24877.png
+:scale: 100%
 
 
 
@@ -150,12 +184,17 @@ tikspievienots Kases ieņēmumu dokumentam:
 Kad visi nepieciešamie lauki ir aizpildīti,dokuments - Kasē atgriezts
 avanss,ir sagatavots un to ir iespējams:
 
-1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būspieejams
+1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
+:scale: 100%
+-dokuments tiks saglabāts un būspieejams
 apskatei/labošanai/grāmatošanaivienlaicīgi :doc:`Kases ieņēmumu<227>`
 un :doc:`Avansu norēķinu<232>` dokumentu žurnālos.
 
-2. Apstiprināt, nospiežot rīku joslā pogu - Kasē atgriezts avanss tiks
-Apstiprināts un to būs iespējams Grāmatot.
+2. Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+:scale: 100%
+- Kasē atgriezts avanss tiks Apstiprināts un to būs iespējams
+Grāmatot.
 
 
 Dokumenta - Kasē atgriezts avanss -grāmatošana
@@ -166,10 +205,15 @@ izvēloties (iezīmējot)dokumentu :doc:`Kases ieņēmumu<227>` vai vai
 :doc:`Avansu norēķinu<232>` žurnālā.
 
 Lai iegrāmatotu Kasē atgrieztu avansu, dokumentu nepieciešams
-Apstiprināt, nospiežot rīku joslā pogu .
+Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+:scale: 100%
+.
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu :doc:`how much` ?pid=24741" border="0">.
+pogu .. image:: images_ozols/.gif
+:scale: 100%
+how much ?pid=24741" border="0">.
 
 
 
@@ -185,16 +229,24 @@ apskatei/labošanai:doc:`Kases ieņēmumu<227>` un :doc:`Avansu
 norēķinu<232>` dokumentu žurnālos.
 
 Lai veiktu labojumus,dokumentunepieciešams atvērt, izmantojot rīku
-joslas pogu (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos
-labojumus:
+joslas pogu.. image:: images_ozols/24709.png
+:scale: 100%
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+
+
+
+.. image:: images_ozols/24908.png
+:scale: 100%
 
 
 
 
 
-
-
-
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 fiogf49gjkf05
  

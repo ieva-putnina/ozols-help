@@ -1,0 +1,22 @@
+.. 14044 ===================================Grāmatojumu veidošanas principi=================================== 
+
+
+Grāmatvedības sistēmā Ozols datu uzskaite notiek veidojot
+pirmdokumentus un tos grāmatojot. Grāmatojums tiek veidots arī kā
+dokuments, kas tiek sasaistīts ar vienu pirmdokumentu. Visi
+grāmatojumi tiek saglabāti :doc:`Grāmatojumu žurnālā<131>` , kur tie
+pieejami apskatei/labošanai/anulēšanai/dzēšanai.
+
+
+
+:doc:`Grāmatojuma ekrāna formas skati<14052>`
+
+:doc:`Grāmatojuma labošanai<14055>`
+
+:doc:`Grāmatojumu šablonu veidošana un pielietošanai<14056>`
+
+:doc:`Jauna grāmatojuma izveidošana<14053>`
+
+
+
+ .. toctree::   :maxdepth: 5    14052.rst   14055.rst   14056.rst   14053.rst

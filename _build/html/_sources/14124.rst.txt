@@ -1,0 +1,48 @@
+.. 14124 Pārdošanas dokumenta satura ierakstu numerācijas maiņa********************************************************** 
+
+
+Programmā jau sagatavotiem :doc:`Pārdošanas dokumentiem<204>`
+iespējams mainīt rindiņu kārtību vai pārnumurēt rindiņas pēc kādas no
+pieejamām kolonnām.
+
+
+
+1. Rindiņu pārbīdīšana - augstāk zemāk
+
+
+
+Lai pārbīdītu satura ieraksta rindiņas augstāk vai zemāk, nepieciešams
+atvērt saglabāto dokumentu, izvēlēties no satura rindiņu, kura
+jāpārvieto un nospiežot peles labo taustiņu->Izvēlēties opciju -
+Augstāk/Zemāk, lai veiktu nepieciešamās izmaiņas:
+
+
+
+|images_ozols/26345.png|
+
+
+
+2. Pārnumurēt ierakstus sakārtojot pēc kādas no pieejamām kolonnām
+
+
+
+Lai tiktu piešķirta korekta numerācija, mainot ierakstu sakārtojumu
+pēc kādas no Pārdošanas dok.satura ierakstu kolonnām, nepieciešams
+nospiest peles labo taustiņu uz kādu no satura ierakstiem->Izvēlēties
+opciju- Pārnumurēt:
+
+
+
+|images_ozols/26346.png|
+
+
+
+
+
+.. |images_ozols/26345.png| image:: images_ozols/26345.png
+:scale: 100%
+
+.. |images_ozols/26346.png| image:: images_ozols/26346.png
+:scale: 100%
+
+ 

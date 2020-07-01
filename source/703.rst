@@ -10,6 +10,8 @@ dokumentos un atskaitēs, nepieciešams aizpildīt sekojošu informāciju:
 saraksta.<112>`
 2. Tālāk nepieciešams aizpildīt visus pārējos datus:
 
+.. image:: images_ozols/26430.png
+:scale: 100%
 
 
 3. Pēc lauku aizpildīšanas, lai dati tiktu saglabāti un tālāk būtu

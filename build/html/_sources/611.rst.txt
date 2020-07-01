@@ -33,6 +33,8 @@ kartiņā<312>` jābūt norādītam partnera e-pastam:
 
 
 
+.. image:: images_ozols/26527.png
+:scale: 100%
 
 
 
@@ -43,6 +45,8 @@ un iezīmētam ķeksītim:
 
 
 
+.. image:: images_ozols/26528.png
+:scale: 100%
 
 
 
@@ -55,6 +59,8 @@ iespējamsatlasīt pēc nepieciešamajiem filtra kritērijiem:
 
 
 
+.. image:: images_ozols/26529.png
+:scale: 100%
 
 
 
@@ -89,6 +95,8 @@ nosūtīt strādājošajiem, izpildot rīku joslā pieejamo Funkciju:
 
 
 
+.. image:: images_ozols/26530.png
+:scale: 100%
 
 
 
@@ -100,6 +108,8 @@ izsūtīšanai sagatavotajām algu lapiņām:
 
 
 
+.. image:: images_ozols/26531.png
+:scale: 100%
 
 
 

@@ -13,11 +13,15 @@ iesniegumiem<903>` .
 
 Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
 tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
-ekrāna formā. Rīku joslā nopiežot pogu (Ctrl+F), tiek atvērts filtra
-logs:
+ekrāna formā. Rīku joslā nopiežot pogu.. image::
+images_ozols/24535.gif
+:scale: 100%
+(Ctrl+F), tiek atvērts filtra logs:
 
 
 
+.. image:: images_ozols/26092.png
+:scale: 100%
 
 
 
@@ -38,23 +42,32 @@ Statuss: Iespēja atlasīt datus, pēc Iesnieguma statusa:
 
 
 
+.. image:: images_ozols/26093.png
+:scale: 100%
 
 
 
 
 Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
-kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga ..
+image:: images_ozols/25944.png
+:scale: 100%
+.
 
 
 
 Jauna Iesnieguma pievienošana
 +++++++++++++++++++++++++++++
 
-Lai pievienotu jaunu Iesniegumu, rīku joslā jānospiež poga , jāievada
-nepieciešamie dati:
+Lai pievienotu jaunu Iesniegumu, rīku joslā jānospiež poga .. image::
+images_ozols/25605.png
+:scale: 100%
+, jāievada nepieciešamie dati:
 
 
 
+.. image:: images_ozols/26094.png
+:scale: 100%
 
 
 
@@ -80,11 +93,15 @@ pievienot papildus darbības, norādot attiecīgo darbības veidu:
 
 
 
+.. image:: images_ozols/26095.png
+:scale: 100%
 
 
 
 
-Dati tiek saglabāti, nospiežot pogu .
+Dati tiek saglabāti, nospiežot pogu .. image:: images_ozols/25621.png
+:scale: 100%
+.
 
 
 

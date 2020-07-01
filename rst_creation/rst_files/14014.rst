@@ -65,11 +65,15 @@ Anulēto dokumentu parādīšana dokumentu žurnālos
 
 Standartā anulētie dokumenti dokumentu žurnālos parādīti netiek. Lai
 dokumentu žurnālos tiktu parādīti arī anulētie dokumenti, jāizsauc
-dokumentu žurnāla filtrs ( ). Filtrā jāaktivizē izvēle:
+dokumentu žurnāla filtrs (.. image:: images_ozols/24535.gif
+:scale: 100%
+). Filtrā jāaktivizē izvēle:
 
 
 
 
+.. image:: images_ozols/24548.gif
+:scale: 100%
 
 
 
@@ -143,6 +147,8 @@ Apskatīt Dokumenta priekšapskate Drukāt Dokumenta drukāšana Aizvērt
 Ekrāna formas aizvēršana
 
 
+.. image:: images_ozols/25287.png
+:scale: 100%
 
 
 
@@ -240,6 +246,8 @@ Page down - pārvietoties ar kursoru virzienā uz leju
 
 
 
+.. image:: images_ozols/25288.png
+:scale: 100%
 
 
 
@@ -264,10 +272,14 @@ kontu plānā, ir pieejams vēl viens – kokveidīgais skats.
 
 
 
+.. image:: images_ozols/24556.gif
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/25289.png
+:scale: 100%
 
 
 
@@ -284,6 +296,8 @@ nepieciešama Internet Explorer 6. versija.
 
 
 
+.. image:: images_ozols/24558.gif
+:scale: 100%
 
 
 
@@ -344,6 +358,8 @@ reizi, ieejot programmā no jauna, šie jautājumi tiks aktivizēti.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Drošības jautājumi pasargā datorprogrammā ievadītos datus no
 zaudējumiem, kas var rasties nejaušas izmainīšanas vai dzēšanas
 rezultātā.
@@ -365,6 +381,8 @@ komandas aktivizēšanu.
 
 
 
+.. image:: images_ozols/25290.png
+:scale: 100%
 
 
 
@@ -394,6 +412,8 @@ kursors ekrāna formā nostāsies uz meklētā ieraksta.
 
 
 
+.. image:: images_ozols/25291.png
+:scale: 100%
 
 
 
@@ -413,6 +433,8 @@ izvēlni
 
 
 
+.. image:: images_ozols/25292.png
+:scale: 100%
 
 
 
@@ -451,6 +473,8 @@ Lai izmantotu saglabājamo filtru:
 #. Jāatver filtrs, jāizvēlas filtra kritēriji un tie jāsaglabā
 
 
+.. image:: images_ozols/25293.png
+:scale: 100%
 
 
 
@@ -461,6 +485,8 @@ komanda Turpināt.
 
 
 
+.. image:: images_ozols/25294.png
+:scale: 100%
 
 
 
@@ -472,6 +498,8 @@ sagatavi, no tās automātiski tiek aizpildītas filtra izvēles.
 
 
 
+.. image:: images_ozols/25295.png
+:scale: 100%
 
 
 
@@ -483,6 +511,8 @@ filtra ekrāna formas atvēršanas.
 
 
 
+.. image:: images_ozols/25296.png
+:scale: 100%
 
 
 
@@ -509,6 +539,8 @@ iepriekšējā dokumenta pievienošanas un saglabāšanas.
 
 
 
+.. image:: images_ozols/24569.gif
+:scale: 100%
 
 
 
@@ -528,6 +560,8 @@ Ctrl+K , rīku joslas komandas palīdzību vai lietojot izvēlni
 
 
 
+.. image:: images_ozols/25297.png
+:scale: 100%
 
 
 
@@ -592,6 +626,8 @@ dokumentu laukā Numurs jāuzklikšķina ar peles labo pogu
 
 
 
+.. image:: images_ozols/25298.png
+:scale: 100%
 
 
 
@@ -602,6 +638,8 @@ turpināta ar nākošo skaitli no norādītā laukā Turpināt numerāciju no.
 
 
 
+.. image:: images_ozols/25299.png
+:scale: 100%
 
 
 

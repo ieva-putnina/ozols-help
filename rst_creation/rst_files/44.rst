@@ -1,4 +1,4 @@
-.. 44 Norēķini============ .. role:: raw-html(raw)     :format: html
+.. 44 Norēķini============ 
 Norēķini paredzēti :doc:`Iepirkumu dokumentu<210>` uzskaitei un
 sistematizēšanai, :doc:`Pārdošanas dokumentu<204>` sagatavošanai un
 drukāšanai, norēķinu kontrolei ar pircējiem un piegādātājiem. Norēķini

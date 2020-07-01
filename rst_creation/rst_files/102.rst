@@ -12,10 +12,14 @@ Nodokļu sarakstā definētās likmes tiek izmantotas definējot
 dokumentu<310>` satura ierakstus.
 
 Lai nodokļu sarakstā pievienotu jaunu pievienotās vērtības nodokli,
-rīku joslā jānospiež poga , tiek atvērt logs:
+rīku joslā jānospiež poga .. image:: images_ozols/25605.png
+   :scale: 100%
+, tiek atvērt logs:
 
 
 
+.. image:: images_ozols/26559.png
+   :scale: 100%
 
 
 

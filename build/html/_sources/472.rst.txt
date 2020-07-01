@@ -22,6 +22,8 @@ logs:
 
 
 
+.. image:: images_ozols/24998.png
+:scale: 100%
 
 
 
@@ -40,6 +42,8 @@ bankas kontā:
 
 
 
+.. image:: images_ozols/24826.png
+:scale: 100%
 
 
 
@@ -48,6 +52,8 @@ bankas kontā:
 
 
 
+.. image:: images_ozols/24811.png
+:scale: 100%
 
 
 
@@ -56,6 +62,8 @@ bankas kontā:
 
 
 
+.. image:: images_ozols/24812.png
+:scale: 100%
 
 
 
@@ -65,6 +73,8 @@ nauda tiks pārskaitīta no uzņēmuma kases:
 
 
 
+.. image:: images_ozols/24724.png
+:scale: 100%
 
 
 
@@ -75,6 +85,8 @@ kontā:
 
 
 
+.. image:: images_ozols/24828.png
+:scale: 100%
 
 
 
@@ -84,6 +96,8 @@ pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:
 
 
 
+.. image:: images_ozols/24918.png
+:scale: 100%
 
 
 
@@ -93,19 +107,28 @@ Naudas iemaksas bankā Satura aizpildīšana
 +++++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītuNaudas iemaksas bankā dokumentaSaturu, dokumenta satura
-daļā nepieciešams nospiest un tiks atvērts operācijas satura logs,
-kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās
-dimensijas) un norādīt satura ieraksta summu:
+daļā nepieciešams nospiest .. image:: images_ozols/24708.png
+:scale: 100%
+un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
+satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
+ieraksta summu:
+
+
+
+.. image:: images_ozols/24919.png
+:scale: 100%
 
 
 
 
-
-
-
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
 kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
-satura ierakstu iespējams, satura daļā nospiežot pogu .
+satura ierakstu iespējams, satura daļā nospiežot pogu .. image::
+images_ozols/24708.png
+:scale: 100%
+.
 
 
 
@@ -123,6 +146,8 @@ Lauku Pamatojums , iespējams aizpildīt manuāli vai izvēloties no
 
 
 
+.. image:: images_ozols/24920.png
+:scale: 100%
 
 
 
@@ -134,6 +159,8 @@ summu:
 
 
 
+.. image:: images_ozols/24921.png
+:scale: 100%
 
 
 
@@ -150,6 +177,8 @@ nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:
 
 
 
+.. image:: images_ozols/24838.png
+:scale: 100%
 
 
 
@@ -157,12 +186,17 @@ nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:
 Kad visi nepieciešamie lauki ir aizpildīti, Naudas iemaksas bankā
 dokuments ir sagatavots un to ir iespējams:
 
-1. Saglabāt,nospiežot pogu -dokuments tiks saglabāts un būs pieejams
+1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
+:scale: 100%
+-dokuments tiks saglabāts un būs pieejams
 apskatei/labošanai/grāmatošanai vienlaicīgi :doc:`Kases izdevumu<225>`
 un :doc:`Bankas ieņēmumu<226>` žurnālos.
 
-2. Apstiprināt, nospiežot rīku joslā pogu -Naudas iemaksas bankā
-dokumentstiks Apstiprināts un to būs iespējams Grāmatot.
+2. Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+:scale: 100%
+-Naudas iemaksas bankā dokumentstiks Apstiprināts un to būs iespējams
+Grāmatot.
 
 
 Naudas iemaksas bankā dokumentagrāmatošana
@@ -176,10 +210,15 @@ vai izvēloties (iezīmējot)dokumentu :doc:`Kases izdevumu<225>` vai
 :doc:`Bankas ieņēmumu<226>` žurnālā.
 
 Lai iegrāmatotu Naudas iemaksu bankā, dokumentu nepieciešams
-Apstiprināt, nospiežot rīku joslā pogu .
+Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+:scale: 100%
+.
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu .
+pogu .. image:: images_ozols/24741.png
+:scale: 100%
+.
 
 
 
@@ -193,14 +232,22 @@ Labojumus saglabātajādokumentā iespējams veikt atverot Naudas iemaksas
 bankā dokumentu, kurš pieejams apskatei/labošanaivienlaicīgi
 :doc:`Kases izdevumu<225>` un:doc:`Bankas ieņēmumu<226>` žurnālos. Lai
 veiktu labojumus,dokumentunepieciešams atvērt, izmantojot rīku joslas
-pogu (ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos
-labojumus:
+pogu.. image:: images_ozols/24709.png
+:scale: 100%
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 
 
 
+.. image:: images_ozols/24922.png
+:scale: 100%
 
 
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
  

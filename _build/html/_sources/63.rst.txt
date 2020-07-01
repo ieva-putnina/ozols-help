@@ -1,0 +1,9 @@
+.. 63 ============Saraksti============ 
+
+
+Uzsākot darbu ar Personālavadību, nepieciešams aizpildīt uzņēmumā
+izmantojamos Personāla uzskaites sarakstus. Šie saraksti tiek
+izmantoti aizpildot :doc:`Strādājošo aprakstu<111>` ,
+:doc:`Slodzes<207>` , utt.
+
+ .. toctree::   :maxdepth: 5    965.rst   961.rst   186.rst   959.rst   962.rst   284.rst   1030.rst   898.rst   899.rst   986.rst   984.rst   790.rst   789.rst   1041.rst   1042.rst   218.rst   216.rst   964.rst   963.rst   217.rst   127.rst   128.rst   207.rst   288.rst   111.rst   952.rst   951.rst   954.rst   953.rst

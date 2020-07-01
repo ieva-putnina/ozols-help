@@ -1,4 +1,4 @@
-.. 48 Budžeta izpilde=================== .. role:: raw-html(raw)     :format: html
+.. 48 Budžeta izpilde=================== 
 
 
 Budžeta plānošanas modulis nodrošina izdevumu un ieņēmumu plānošanu,

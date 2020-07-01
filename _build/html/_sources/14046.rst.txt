@@ -1,0 +1,35 @@
+.. 14046 Dokumenta kopēšana********************** 
+
+
+Dokumentus iespējams kopēt no dokumenta žurnāla. Kopējot dokumentu tas
+netiek atvērts.
+
+
+
+Lai dokumentu kopētu:
+
+
+
+1) ar kursoru dokumentu žurnālā jāatzīmē kopējamais dokuments
+(neatvērts)
+
+2) jākopē dokuments, izmantojot šādas iespējas:
+
+- komandu |images_ozols/24775.png| no rīku joslas
+
+- komandu |images_ozols/24773.png| no izvēlnes Dati
+
+- nospiežot peles labo pogu un izvēloties komandu "Kopēt"
+
+
+
+Jaunizveidotajā dokumentā tiek nokopēta visa informācija, kas ir
+bijusi tai dokumentā, kas tika kopēts.
+
+.. |images_ozols/24775.png| image:: images_ozols/24775.png
+:scale: 100%
+
+.. |images_ozols/24773.png| image:: images_ozols/24773.png
+:scale: 100%
+
+ 

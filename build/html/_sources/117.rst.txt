@@ -1,9 +1,17 @@
 .. 117 ====================Struktūrvienības==================== 
 Struktūrvienību klasifikatoru iespējams veidot hierarhisku, veidojot
 detalizācijas līmeni atbilstoši uzņēmuma vajadzībām. Lai pievienotu
-jaunu ierakstu, rīku joslā nepieciešams nospiest pogu un aizpildīt
-sekojošus laukus:
+jaunu ierakstu, rīku joslā nepieciešams nospiest pogu .. image::
+images_ozols/25605.png
+   :scale: 100%
+un aizpildīt sekojošus laukus:
 
+.. image::
+images_ozols/file:///C:/Users/INESE%7E1.ITS/AppData/Local/Temp/moz-
+screenshot-5.png.gif
+   :scale: 100%
+.. image:: images_ozols/26432.png
+   :scale: 100%
 
 
 **Virslīmenis: **jānorāda augstākais līmenis, zem kura šis ieraksts
@@ -18,8 +26,13 @@ struktūrdaļa, utt.);
 **Atb.persona**: iespēja piesaistīt struktūrvienībai atbildīgo
 personu.
 
-Lai saglabātu izmaiņas, jānospiež poga . Lai veiktu izmaiņas
-pievienotajos struktūrvienību aprakstos, ieraksts ir jāatver, rīku
-joslā nospiežot pogu .
+Lai saglabātu izmaiņas, jānospiež poga .. image::
+images_ozols/24867.png
+   :scale: 100%
+. Lai veiktu izmaiņas pievienotajos struktūrvienību aprakstos,
+ieraksts ir jāatver, rīku joslā nospiežot pogu .. image::
+images_ozols/24869.png
+   :scale: 100%
+.
 
  

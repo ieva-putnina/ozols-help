@@ -12,11 +12,15 @@ un uzņēmuma banku kontus.
 Jaunas Bankas pievienošana sarakstā:
 ````````````````````````````````````
 
-Lai pievienotu jaunuBankas aprakstu, rīku joslā jānospiež poga un tiks
-atvērts jauns logs:
+Lai pievienotu jaunuBankas aprakstu, rīku joslā jānospiež poga..
+image:: images_ozols/24708.png
+:scale: 100%
+un tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/24670.jpg
+:scale: 100%
 
 
 
@@ -27,6 +31,8 @@ norādīt nepieciešamo :doc:`Bankas kodu tipu<118>` .
 
 
 
+.. image:: images_ozols/24672.jpg
+:scale: 100%
 
 
 
@@ -35,7 +41,10 @@ Atzīmējot šo izvēles rūtiņu, tiek nodrošināts, lai ievadītajai bankai
 tiktu izmantoti konti tikai IBAN formātā (ES valstu vienotā kontu
 numerācijas sistēma, kuru izmanto Eiropas valstis),
 
-Ieraksts tiks saglabāts, izpildot komandu .
+Ieraksts tiks saglabāts, izpildot komandu .. image::
+images_ozols/24615.jpg
+:scale: 100%
+.
 
 
 
@@ -43,8 +52,15 @@ Pievienotās Bankas apraksta labošana:
 `````````````````````````````````````
 
 Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
-atvērt, izmantojot rīku joslas pogu (ALT+A).
+atvērt, izmantojot rīku joslas pogu.. image:: images_ozols/24709.png
+:scale: 100%
+(ALT+A).
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
  

@@ -9,11 +9,15 @@ konkrētam laika periodam.
 Jauna Koeficienta pievienošana:
 +++++++++++++++++++++++++++++++
 
-Lai pievienotukoeficientu rīku joslā jānospiež poga un tiks atvērts
-jauns logs:
+Lai pievienotukoeficientu rīku joslā jānospiež poga .. image::
+images_ozols/24708.png
+:scale: 100%
+un tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/25459.png
+:scale: 100%
 
 
 
@@ -23,6 +27,8 @@ darbības periodu:
 
 
 
+.. image:: images_ozols/25460.png
+:scale: 100%
 
 
 
@@ -31,11 +37,16 @@ darbības periodu:
 
 
 
+.. image:: images_ozols/25461.png
+:scale: 100%
 
 
 
 
-Ieraksts tiks saglabāts, izpildot komandu .
+Ieraksts tiks saglabāts, izpildot komandu .. image::
+images_ozols/24710.png
+:scale: 100%
+.
 
 
 
@@ -43,9 +54,15 @@ Pievienotā Koeficienta apraksta labošana:
 +++++++++++++++++++++++++++++++++++++++++
 
 Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
-atvērt, izmantojot rīku joslas pogu (ALT+A), un atvērtajā logā veikt
-labojumus.
+atvērt, izmantojot rīku joslas pogu .. image:: images_ozols/24709.png
+:scale: 100%
+(ALT+A), un atvērtajā logā veikt labojumus.
 
-Pēc labojumu veikšanas, veiktās izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktās izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
  

@@ -1,0 +1,22 @@
+.. 14029 Juridiskā daļa****************** 
+
+
+Juridiskās daļas darbinieki:
+
+
++ saņem no Finanšu daļas dokumentus par atlīdzības izmaksu;
++ pieņem lēmumu par Regresa lietas atvēršanu vai slēgšanu;
++ informē :doc:`Finanšu daļu<14028>` par pieņemto lēmumu;
++ aizpilda Regresa lietas kartīti;
++ veic visādas juridiskas darbības par šo lietu (slēdz vienošanos,
+iesniedz dokumentus tiesā utt.);
++ katrs regresa lietu jurists seko līdz uzticēto lietu attīstībai
+dinamikā, kontrolē naudas saņemšanu;
++ iesniedz :doc:`Finanšu daļai<14028>` dokumentus par papildus
+  izmaksām, kas saistītas ar Regresa lietu (Valsts nodevas,
+  administratīvie izdevumi, tiesas izdevumi u.c.).
+
+
+
+
+ 

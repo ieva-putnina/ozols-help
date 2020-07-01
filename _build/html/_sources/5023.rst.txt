@@ -1,0 +1,4 @@
+.. 5023 Potenciālo klientu kamp. org.********************************* Potenciālo klientu kampaņu organizātors tiek veidotslīdzīgi kā
+:doc:`Kontaktu kapmaņu organizātors<5016>` ,tikai tiek izvēlēti
+klienti, kuri ir pievienoti kā :doc:`potenciālie klienti<5022>` .
+ 

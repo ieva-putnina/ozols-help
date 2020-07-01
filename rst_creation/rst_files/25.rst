@@ -28,6 +28,8 @@ atvērtajam algu aprēķina periodam.
 
 
 
+.. image:: images_ozols/24545.gif
+   :scale: 100%
 Lai algu aprēķinā tiktu piemērotas pareizas nodokļu likmes, jāpārbauda
 nodokļa aprēķina metožu sarakstu pareizība: :doc:`Sociālo nodokļu
 metodes<223>` un :doc:`Ienākuma nodokļu metodes<222>` , :doc:`Nodokļu

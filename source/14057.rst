@@ -11,6 +11,8 @@ Lauka Veids vērtības var būt Virsraksts (V) vai Saturs (S):
 
 
 
+.. image:: images_ozols/25116.png
+:scale: 100%
 
 
 
@@ -21,6 +23,8 @@ maksājuma uzdevuma virsējās daļas:
 
 
 
+.. image:: images_ozols/25117.png
+:scale: 100%
 
 
 
@@ -33,11 +37,15 @@ atšķirīgs kontējums:
 
 
 
+.. image:: images_ozols/25118.png
+:scale: 100%
 
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Ieraksta veids Saturs vienmēr ir jāizmanto budžeta iestādēm, ja
 grāmatojumā jāpievieno ekonomiskās klasifikācijas kodi. Ieraksta veids
 Saturs pareizi tiks pielietots tikai tad, ja pirmdokumentam būs

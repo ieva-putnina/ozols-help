@@ -6,6 +6,8 @@ saņemtās Polises no Apdrošināšanas sabiedrībām:
 
 
 
+.. image:: images_ozols/25450.png
+:scale: 100%
 
 
 
@@ -15,6 +17,8 @@ Polišu veidu:
 
 
 
+.. image:: images_ozols/25451.png
+:scale: 100%
 
 
 
@@ -23,6 +27,8 @@ Polišu veidu:
 
 
 
+.. image:: images_ozols/25452.png
+:scale: 100%
 
 
 
@@ -31,6 +37,8 @@ Polišu veidu:
 
 
 
+.. image:: images_ozols/25453.png
+:scale: 100%
 
 
 
@@ -40,6 +48,8 @@ var neaizpildīt)
 
 
 
+.. image:: images_ozols/25454.png
+:scale: 100%
 
 
 
@@ -50,11 +60,15 @@ numura zīmju skaita vērtība:
 
 
 
+.. image:: images_ozols/25455.png
+:scale: 100%
 
 
 
 
-6. Nospiežot pogu , Noliktavā tiks pievienotas saņemtās Polises.
+6. Nospiežot pogu .. image:: images_ozols/25456.png
+:scale: 100%
+, Noliktavā tiks pievienotas saņemtās Polises.
 
 
 

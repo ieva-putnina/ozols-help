@@ -20,8 +20,12 @@ informācijas, kas pieejama papildus kolonnās.
 
 
 
+.. image:: images_ozols/24950.png
+:scale: 100%
 No Atlīdzību lietu atskaites iespējams:
 
+.. image:: images_ozols/26327.png
+:scale: 100%
 
 
 Izpildot šo funkciju, tiks atvērts jauns logs, kur iespējams aizpildīt
@@ -29,6 +33,8 @@ lauku "Saglabāt kā", ierakstot nosaukumu :
 
 
 
+.. image:: images_ozols/26329.png
+:scale: 100%
 
 
 

@@ -13,11 +13,15 @@ kuras tiks piesaistītas konkrētajai Noliktavai.
 JaunasNoliktavas pievienošana:
 ``````````````````````````````
 
-Lai pievienotu jaunu Noliktavu, rīku joslājānospiež poga un tiks
-atvērts jauns logs:
+Lai pievienotu jaunu Noliktavu, rīku joslājānospiež poga.. image::
+images_ozols/24708.png
+:scale: 100%
+un tiks atvērts jauns logs:
 
 
 
+.. image:: images_ozols/25032.png
+:scale: 100%
 
 
 
@@ -32,10 +36,14 @@ Noliktavai ir iespējams piesaistīt konkrētu
 
 
 
+.. image:: images_ozols/25033.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Konfigurācijas iestādījumos >Konfigurācija > Iestādījumi > Kopīgie >
 :doc:`Noliktava<716>` – iespējams atzīmēt izvēles rūtiņu "Iepirkumu un
 pārdošanas dokumentos noklusēto struktūrvienību ņemt no noliktavas",
@@ -44,6 +52,8 @@ lai iepirkumu un pārdošanas dokumentos noklusētā struktūrvienība tiktu
 
 
 
+.. image:: images_ozols/25034.png
+:scale: 100%
 
 
 
@@ -62,6 +72,8 @@ grupas, atzīmējot nepieciešamās grupas:
 
 
 
+.. image:: images_ozols/25035.png
+:scale: 100%
 
 
 
@@ -70,8 +82,15 @@ PievienotāsNoliktavas apraksta labošana:
 ````````````````````````````````````````
 
 Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
-atvērt, izmantojot rīku joslas pogu (ALT+A).
+atvērt, izmantojot rīku joslas pogu.. image:: images_ozols/24709.png
+:scale: 100%
+(ALT+A).
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams vai .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
  

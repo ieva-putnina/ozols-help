@@ -1,0 +1,6 @@
+.. 7314 Personas************ Personu sarakstā tiek saglabātas visas :doc:`pievienotās
+personas<7305>` . Aktivizējot konkrētas personas vārdu vai uzvārdu,
+tiek atvērts personas ierakst un ar to saistīto notikumu pārskats.
+Personas no saraksta iespējams atlasīt pēc noteiktas
+:doc:`struktūrvienības<7313>` un ārštata.
+ 

@@ -12,10 +12,14 @@ sagrupēt pa dažādiem Partneru veidiem (šoferis, apgādājamais, ģimenes
 loceklis, pārvadātājs, u.c.).
 
 Lai pievienotu jaunu partneru grupu sarakstam, rīku joslā jānospiež
-poga :
+poga .. image:: images_ozols/25605.png
+:scale: 100%
+:
 
 
 
+.. image:: images_ozols/25733.png
+:scale: 100%
 
 
 
@@ -31,10 +35,15 @@ Veids: jāizvēlas attiecigais partnera veids:
 
 
 
+.. image:: images_ozols/25734.png
+:scale: 100%
 
 
 
 
-Lai saglabātu partnera grupu, jānospiež poga .
+Lai saglabātu partnera grupu, jānospiež poga .. image::
+images_ozols/25621.png
+:scale: 100%
+.
 
  

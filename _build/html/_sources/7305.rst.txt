@@ -1,0 +1,48 @@
+.. 7305 Persona*********** 
+Pievienotās personas tiek saglabātas :doc:`personu sarakstā<7314>` .
+Personu saraksts tiek izmantots :doc:`notikumu<7308>` pievienošanā.
+
+
+
+|images_ozols/26187.jpg|
+
+
+
+Vārds: personas vārds;
+
+Uzvārds: personas uzvārds;
+
+Personas kods ;
+
+Amats: jānorāda amats;
+
+Struktūrvienība: no nodefinētā struktūrvienību saraksta jānorāda
+attiecīgo struktūrvienību;
+
+Kontaktinformācija;
+
+Aģentūra: ja nepieciešams norādīt aģentūru;
+
+Ārštata: tad, ja persona ir ārštata (attiecās uz izmaksām);
+
+Piezīmes: iespējams pievienot dažādas informatīvas piezīmes.
+
+Lai personas ierakst tiktu saglabāts, jānospiež poga
+|images_ozols/25829.png| . Lai pievienotu jaunu personu, jānospiež
+poga |images_ozols/25850.png| un jāpievieno jaunu personas ierakstu.
+Lai, pēc saglabāšanas, labotu pievienotās personasierakstu, jānospiež
+poga |images_ozols/25832.png| un pēc labošanas ieraksts jāsaglabā.
+
+.. |images_ozols/26187.jpg| image:: images_ozols/26187.jpg
+:scale: 100%
+
+.. |images_ozols/25829.png| image:: images_ozols/25829.png
+:scale: 100%
+
+.. |images_ozols/25850.png| image:: images_ozols/25850.png
+:scale: 100%
+
+.. |images_ozols/25832.png| image:: images_ozols/25832.png
+:scale: 100%
+
+ .. toctree::   :maxdepth: 4    7324.rst

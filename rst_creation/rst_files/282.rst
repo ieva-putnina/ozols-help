@@ -11,6 +11,8 @@ utt.), procenti, utt..
 
 
 
+.. image:: images_ozols/26351.png
+:scale: 100%
 
 
 

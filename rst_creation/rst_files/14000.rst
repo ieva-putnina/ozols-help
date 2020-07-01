@@ -1,6 +1,4 @@
-.. 14000 Sistēmas lietošanas instrukcija=================================== .. role:: raw-html(raw)     :format: html
-:doc:`<14068>`
-
+.. 14000 Sistēmas lietošanas instrukcija=================================== 
 Sadaļā pieejamas sistēmas Ozols lietošanas instrukcijas, kas palīdzēs
 labāk izprasts programmas funkcionalitātes iespējas un darbības
 principus.

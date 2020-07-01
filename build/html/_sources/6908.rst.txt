@@ -3,25 +3,42 @@ Lai pievienotu jaunu Licenci:
 
 
 
+.. image:: images_ozols/25559.png
+:scale: 100%
 
 
 
 
 Partneris: partnera nosaukums (iespējams izvēlēties no saraksta,
-nospiežot pogu , un pogu , lai apskatītu partnera pamatinformāciju);
+nospiežot pogu .. image:: images_ozols/25564.png
+:scale: 100%
+, un pogu .. image:: images_ozols/25565.png
+:scale: 100%
+, lai apskatītu partnera pamatinformāciju);
 
 Kods: licences kods;
 
 Nosaukums: licences nosaukums;
 
-Derīga no: atverot kalendāra podziņu , jāizvēlas datums;
+Derīga no: atverot kalendāra podziņu .. image:: images_ozols/25560.png
+:scale: 100%
+, jāizvēlas datums;
 
-Derīga līdz: atverot kalendāra podziņu , jāizvēlas datums (nav
-obligāti)
+Derīga līdz: atverot kalendāra podziņu .. image::
+images_ozols/25560.png
+:scale: 100%
+, jāizvēlas datums (nav obligāti)
 
-Kad visi dati ievadīti, jānospiež poga un, lai pievienotu jaunu
-licenci, jāspiež poga . Ja jaunas licences vairs netiks pievienotas,
-jānospiež poga pēc pēdējās licences pievienošanas.
+Kad visi dati ievadīti, jānospiež poga .. image::
+images_ozols/25561.png
+:scale: 100%
+un, lai pievienotu jaunu licenci, jāspiež poga .. image::
+images_ozols/25563.png
+:scale: 100%
+. Ja jaunas licences vairs netiks pievienotas, jānospiež poga ..
+image:: images_ozols/25562.png
+:scale: 100%
+pēc pēdējās licences pievienošanas.
 
 Visas pievienotās licences ir redzamas :doc:`Licenču sarakstā<6912>` .
 

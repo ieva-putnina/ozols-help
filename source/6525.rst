@@ -19,6 +19,8 @@ prasībām;
 
 
 
+.. image:: images_ozols/26411.png
+:scale: 100%
 
 
 
@@ -28,6 +30,8 @@ saglabāto polišu datu failu:
 
 
 
+.. image:: images_ozols/26412.png
+:scale: 100%
 
 
 
@@ -38,6 +42,8 @@ orderi.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Ja nav nepieciešams polišu rēķinus saistīt ar :doc:`Kases
 ieņēmumie<350>` /apmaksām, tad pie polišu importa nav jānorāda Kase.
 
@@ -48,6 +54,8 @@ maksājumos/:doc:`rēķinos<304>` :
 
 
 
+.. image:: images_ozols/26413.png
+:scale: 100%
 
 
 
@@ -58,6 +66,8 @@ cik ilgā laikā ir veikst polišu imports.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Iportētajām polisēm netiek automātiski izveidots :doc:`POP<14080>`
 (polišu parakstīšanas) grāmatojums. Lai izveidotu POP grāmatojumus
 importētajām polisēm. :doc:`Polišu atskaitē<6513>` pēc konkrētiem

@@ -1,0 +1,12 @@
+.. 609 Štatu saraksta aizpildījumu kopsavilkums******************************************** 
+
+
+Ja amati ir pievienoti pa struktūrvienībām, tad atskaite parādā datus
+par neaizpildītām štata vietām pa atsevišķām struktūrvienībām.
+Kritērijs, kas nosaka štata vietas aizpildījumu un pievienotā slodze
+noteiktā amatā un noteiktā struktūrvienībā. Atskaitē tiek salīdzināti
+dati par pievienotajām slodzēm un izveidotajiem :doc:`amatiem<186>` ,
+to skaitu un struktūrvienību, tādejādi nosakot uzņēmuma štatu
+vakances.
+
+ 

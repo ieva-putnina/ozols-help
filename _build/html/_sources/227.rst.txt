@@ -1,0 +1,35 @@
+.. 227 Kases ieņēmumi****************** 
+
+
+Kasesieņēmumu dokumentu žurnālā tiek saglabāti šādi kases ieņēmumu
+dokumenti:
+
+
+
+:doc:`Kasē atgriezts avanss<474>`
+
+:doc:`Kases ieņēmumu orderis<350>`
+
+:doc:`Naudas izņemšana no bankas konta<475>`
+
+
+
+Lai atlasītu dokumentus Kases ieņēmumu žurnālā, jāizmanto datu atlases
+filtrs. Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu
+atlases kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai
+ierobežotu kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās
+izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek
+izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura
+aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves.
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+:scale: 100%
+
+ 

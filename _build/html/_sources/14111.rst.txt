@@ -1,0 +1,71 @@
+.. 14111 Algu aprēķinu veikšanas shēma********************************* 
+
+
+Lai veiktu algu aprēķinus, nepieciešams secīgi veikt šādas darbības:
+
+
+
+1. Algu perioda atvēršana -> Alga->Rīki->:doc:`Algu perioda
+atvēršana<499>`
+
+
+
+2. Avansu :doc:`Izmaksu saraksta<238>` izveidošana
+
+
+
+3. Avansu izmaksu saraksta aizpildīšana no:doc:`Pārskaitījumu<294>`
+žurnāla
+
+
+
+4.Avansu :doc:`Izmaksu sarakstu<238>` apstiprināšana
+
+
+
+5. Avansu izmaksu sarakstu apmaksāšana bankā/kasē
+
+
+
+6.Avansu izmaksu saraksts eksports uz bankas elektronisko norēķinu
+sistēmu
+
+
+
+7. :doc:`Rīkojumu<209>` ievadīšana strādājošajiem par attiecīgo algu
+aprēķina periodu
+
+
+
+8.Algu aprēķinu veikšana -> Alga->Rīki->:doc:`Algu aprēķins<498>`
+
+
+
+9.Nepieciešamo izmaiņu veikšana algu aprēķinos kārtējā algu aprēķina
+periodā
+
+
+
+10. Algu :doc:`Izmaksu sarakstu<238>` zveidošana
+
+
+
+11. Izmaksu sarakstu aizpildīšana no algu aprēķiniem ->
+Alga->Rīki->:doc:`Algu aprēķins<498>` -> Starpību starp aprēķināto un
+ieturēto palaist uz izmaksu sarakstiem
+
+
+
+12. :doc:`Izmaksu sarakstu<238>` apstiprināšana
+
+
+
+13. Izmaksu sarakstu apmaksāšana bankā
+
+
+
+14. Izmaksu saraksts eksports uz bankas elektronisko norēķinu sistēmu
+
+
+
+ 

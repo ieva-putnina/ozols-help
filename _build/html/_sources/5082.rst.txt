@@ -1,0 +1,4 @@
+.. 5082 ====================Personāla vadība==================== 
+:doc:`Instrukcija par OVP`
+
+ .. toctree::   :maxdepth: 5    5112.rst   5250.rst   5133.rst   5110.rst   5113.rst   5085.rst   5131.rst   5147.rst   5196.rst   5159.rst   5400.rst   5111.rst   5144.rst   5344.rst   5350.rst

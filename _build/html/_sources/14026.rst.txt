@@ -1,0 +1,10 @@
+.. 14026 Darba vietu apraksts************************ 
+
+
+
++ :doc:`Atlīdzību daļa<14027>`
++ :doc:`Finanšu daļa<14028>`
++ :doc:`Juridiskā daļa<14029>`
+
+
+ .. toctree::   :maxdepth: 4    14027.rst   14028.rst   14029.rst

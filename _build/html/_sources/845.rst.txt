@@ -1,0 +1,19 @@
+.. 845 =========Jauns========= 
+
+
+IzmantojotNoliktavas dokumentus, iespējams noformēt šādus dokumentu
+veidus:
+
+
+
+:doc:`Cenošanas dokuments<374>`
+
+:doc:`Nomenklatūras norakstīšana<693>`
+
+:doc:`Nomenklatūras pārsūtīšana<687>` :doc:`<691>`
+
+:doc:`Nomenklatūras pārsūtīšana uz<692>`
+
+:doc:`Ražošanas dokuments<756>`
+
+ .. toctree::   :maxdepth: 5    895.rst   374.rst   7408.rst   939.rst   931.rst   867.rst   693.rst   694.rst   692.rst   687.rst   691.rst   359.rst   1025.rst   369.rst   996.rst   380.rst   758.rst   756.rst   7812.rst

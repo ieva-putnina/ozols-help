@@ -1,0 +1,74 @@
+.. 14129 Slimības naudas aprēķins**************************** 
+
+
+Lai aprēķinātuslimības naudu strādājošajam:
+
+
+1.Nepieciešams izveidot atbilstošu :doc:`Rīkojumu dokumentu<409>` par
+Slimības apmaksu (>Dokumenti > Personāla uzskaite > :doc:`Rīkojumu
+žurnāls<209>` ):
+
+
+
+|images_ozols/26369.png|
+
+
+
+Apstiprinot rīkojumu par slimības apmaksu, tiek saskaitītas kopējās
+slimības dienas pēc apmaksas procentiem un pievienotas slodzes
+kalendāram.
+
+
+
+|images_ozols/24545.gif| Lai rīkojumu dokumenti piedalītos algu
+aprēķinos, tie obligāti jāapstiprina.
+
+
+
+2. Aprēķinot algu strādājošajam (>Dokumenti > Alga > :doc:`Algu
+aprēķinu žurnāls<212>` ), jāaizpilda ieejošie dati no slodzes
+kalendāra:
+
+
+
+|images_ozols/26357.png|
+
+
+
+Algu aprēķinā tiks ieliktas slimības dienas atbilstoši aprēķina
+procentiem un aprēķinātā vidējā izpeļņa dienā.
+
+
+
+|images_ozols/26370.png|
+
+
+
+|images_ozols/24545.gif| Ja programmā nav datu dienas vidējās izpeļņas
+aprēķināšanai, lietotājam ir iespēja manuāli pievienot dienas vidējās
+izpeļņas kodu algu aprēķina kartiņā ieejošajos datos, izmantojot algu
+aprēķinā pieejamo pogu Pievienot un izvēloties atbilstošo algas kodu:
+
+
+
+|images_ozols/26371.png|
+
+.. |images_ozols/26369.png| image:: images_ozols/26369.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/26357.png| image:: images_ozols/26357.png
+:scale: 100%
+
+.. |images_ozols/26370.png| image:: images_ozols/26370.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/26371.png| image:: images_ozols/26371.png
+:scale: 100%
+
+ 

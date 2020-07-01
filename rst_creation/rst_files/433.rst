@@ -16,6 +16,8 @@ Pamatlīdzekļu ienākšanas dokuments .
 
 
 
+.. image:: images_ozols/25051.png
+:scale: 100%
 
 
 
@@ -48,11 +50,18 @@ dokumentu.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Lai izveidotā Pamatlīdzekļuienākšanas dokumenta dati stātos spēkā
-obligāti pēc saglabāšanas dokuments ir jāapstiprina ar funkciju .
+obligāti pēc saglabāšanas dokuments ir jāapstiprina ar funkciju ..
+image:: images_ozols/24715.gif
+:scale: 100%
+.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Pēc dokumenta apstiprināšanas Pamatlīdzekļu ienākšanasdokuments ir
 :doc:`jānogrāmato<14044>` .
 
@@ -70,20 +79,32 @@ Pamatlīdzekļu pievienošana Pamatlīdzekļuienākšanas dokumentam
 Pēc dokumenta datu aizpildīšanas ir jāaizpilda dati par
 pamatlīdzekļiem. Dokumentam jaunu pamatlīdzekli pievieno atvērtā
 
-Pamatlīdzekļuienākšanas dokumenta formā ar funkciju .
+Pamatlīdzekļuienākšanas dokumenta formā ar funkciju .. image::
+images_ozols/24708.png
+:scale: 100%
+.
 
 Datus par pamatlīdzekli iespējams labot atvērtā
-Pamatlīdzekļuienākšanas dokumenta formā ar funkciju .
+Pamatlīdzekļuienākšanas dokumenta formā ar funkciju .. image::
+images_ozols/24709.png
+:scale: 100%
+.
 
 Pamatlīdzekli dzēš atvērtā Pamatlīdzekļu atlikumu ievades dokumenta
-formā ar funkciju .
+formā ar funkciju .. image:: images_ozols/24719.gif
+:scale: 100%
+.
+
+
+
+.. image:: images_ozols/25056.png
+:scale: 100%
 
 
 
 
-
-
-
+.. image:: images_ozols/25058.png
+:scale: 100%
 
 
 
@@ -227,6 +248,8 @@ Pamatlīdz.
 
 
 
+.. image:: images_ozols/25076.png
+:scale: 100%
 
 
 
@@ -239,6 +262,8 @@ ienākšanas dokumentu.
 
 
 
+.. image:: images_ozols/25078.png
+:scale: 100%
 
 
 
@@ -253,6 +278,8 @@ aprakstītās darbības.
 
 
 
+.. image:: images_ozols/25083.png
+:scale: 100%
 
 
 
@@ -264,6 +291,8 @@ ienākšanas dokumenta numuru.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Pēc pamatlīdzekļu automatizētas izveidesPamatlīdzekļu ienākšanas
 dokumentā obligāti jāpapildina trūkstošā informācija par
 pamatlīdzekļiem, kuri atrodas :doc:`Pamatlīdzekļu dokumentu
@@ -278,6 +307,8 @@ ienākšanas dokumentuvēlāk :doc:`Pamatlīdzekļu dokumentu žurnālā<233>`
 
 
 
+.. image:: images_ozols/25085.png
+:scale: 100%
 
 
 

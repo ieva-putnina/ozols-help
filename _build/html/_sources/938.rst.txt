@@ -1,0 +1,31 @@
+.. 938 Dokumentu sasaiste********************** 
+Dokumentu sasaistes žurnālā vizuāli tiek parādīti visu to Pārdošanas
+dokumentu sasaiste, kas saistīti ar kādu no Finanšu dokumentiem.
+Dokumentu žurnāla kolonnās pieejama informācija gan par apmaksas
+dokumentu, ar kuru norēķinu dokuments saistīts, gan arī informācija
+par saistīšanas datumiem un norēķinu summām.
+
+No dokumentu sasaistes žurnāla ierakstus var arī atvērt, lai
+detalizētāk būtu pieejama informācija par abiem savstarpēji
+sasaistītajiem dokumentiem - ieejošo maksājumu un pārdošanas
+dokumentu:
+
+|images_ozols/26492.png|
+
+
+|images_ozols/24545.gif| Šajā darba režīmā jaunus ierakstus pievienot
+nevar. Šeit vizuāli tiek attēlota informācija no :doc:`Pārdošanas
+dokumentu<304>` un :doc:`Bankas ieejošo maksājumu dokumentu<349>`
+savstarpējās sasaistes.:doc:`<473>`
+
+
+
+
+
+.. |images_ozols/26492.png| image:: images_ozols/26492.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+ 

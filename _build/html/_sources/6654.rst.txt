@@ -1,0 +1,10 @@
+.. 6654 Atskaites************* 
+Lai sagatavotujaunus pieprasījumu dokumentus:
+
+:doc:`Budžeta pieprasījumu dokumentus;<5039>`
+
+:doc:`Budžeta izmaiņu pieprasījumus;<5047>`
+
+:doc:`Budžeta grozījumu pieprasījumus.<5046>`
+
+ .. toctree::   :maxdepth: 4    5048.rst   5045.rst   5042.rst   5064.rst   5040.rst

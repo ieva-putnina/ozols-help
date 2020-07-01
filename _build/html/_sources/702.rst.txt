@@ -1,0 +1,53 @@
+.. 702 Ekrāns********** Ekrāna konfigurācijas informācija tiek izmantota darbā ar programmas
+datiem. Ekrāna un izdrukas iestādījumi nosaka, kāds būs programmā
+izmantojamo ekrāna formu fons, vai tiks izsaukti drošības jautājumi un
+kādi būs dokumentu izdrukāšanas nosacījumi. Konfigurācija nosaka
+skaitļu attēlojuma veidu uz ekrāna. Konfigurācijas nosacījumi tiek
+saglabāti katram lietotājam atsevišķi.
+
+
+
+**Fons**
+Sistēmas fona izvēle. Kā fonu var izvēlēties krāsu, attēlu vai
+izmantot tādu pašu fonu kā Window programmatūrai.
+
+**Krāsas**
+Krāsu izvēle. Dažādu darba režīmu un lauku attēlošanai var noteikt
+atšķirīgu krāsu izmantošanu. Sistēmā ir noteiktas standarta krāsas,
+bet lietotājs var izvēlēties lietošanai citas.
+
+**Izdruka**
+Izdrukas nosacījumu izvēle. Komanda Vienmēr izsaukt izdrukas dialogu
+aktivizē komandu Izdrukas parametri :doc:`drukāšanas` darba režīma
+formā.
+
+**Fonti**
+Sistēmas darba režīmiem iespējams mainīt fontu izmērus.
+
+**Izlīdzinošais simb. skaitļu attēlošanai**
+Izvēle Izlīdzinošais simbols skaitļu attēlošanai nosaka summas
+izvietojumu skaitļu kolonnā ekrāna formās. Lai izlīdzinātu skaitļus
+pēc to labās malas, jālieto pasvītrojums.
+
+**Drošības jautājumi**
+Komanda Drošības jautājumi nodrošina drošības jautājumu uzdošanu darba
+laikā. Ja komanda nav aktīva, jautājumi netiek uzdoti. Drošības
+jautājumi pasargā programmā ievadītos datus no nevēlamas, nejaušas
+dzēšanas vai citas nevēlamas darbības, jo tiek uzdots jautājums par
+komandas izpildes nepieciešamību. Ja jāveic liels apjoms vienveidīgu
+darbību, drošības jautājumu komandas aktivizāciju uz laiku var noņemt.
+
+**Stāvokļa josla**
+Komanda stāvokļa joslas parādīšanai. Stāvokļa josla tiek parādīta
+programmatūras apakšmalā, kur pārvietojoties starp darba režīmiem
+redzams lietotāja vārds un izmantotās datu bāzes nosaukums. Atsevišķos
+darba režīmos stāvokļa joslā var parādīties informācija ekrāna formas
+lauku aizpildīšanai.
+
+**Plain**
+Ekrāna formu un teksta stila noteikšana. Ja nav aktivizēta komanda
+Plain, tad elementi tiek parādīti trīsdimensionāli.
+
+
+
+ 

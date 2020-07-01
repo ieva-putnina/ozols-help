@@ -1,0 +1,5 @@
+.. 526 Budžeta izpilde******************* Atskaite paredzēto un izlietoto summu pārskatam pa visām datu
+uzskaites dimensijām. Atskaitē tiek parādīts plāns, plāna izpilde un
+atlikums pa katru dimensiju, atbilstoši noteiktajiem plāniem.
+Plānošanu var veikt arī pa kontiem un uzņēmumiem.
+ 

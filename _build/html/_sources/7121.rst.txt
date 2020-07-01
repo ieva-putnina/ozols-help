@@ -1,0 +1,80 @@
+.. 7121 Čeki******** 
+Čeku žurnālā tiek saglabāti visi, no kases ieimportētie, realizācijas
+čeki. Dokumentu sarakstā tiek attēlots:
+
+
+
+|images_ozols/26113.png|
+
+
+
+Čeka nr.: čeka numurs;
+
+Datums: datums un laiks;
+
+Prece: preces kods;
+
+Daudzums: realizētās preces daudzums vienā čekā;
+
+Cena: preces realizācijas cena;
+
+Summa: preces cenu summa;
+
+Atlaide: atlaide, ja tāda tiek pielietota.
+
+Pievienojot papildus kolonnas, iespējams redzēt arī papildus
+informāciju.
+
+|images_ozols/24545.gif| Lai no ieimportētajiem realizācijas čekiem
+tiktu uzģenerēti pārdošanas dokumenti, kuri būs pieejami
+:doc:`pārdošanas dokumentu žurnālā<204>` , jāveic realizācijas
+dokumentu sagatavošanas funkcija:
+
+
+
+|images_ozols/26114.png|
+
+
+
+Kad šī funkcija ir veikta, :doc:`pārdošanas dokumentu žurnāla<204>`
+tika pievienotas kases pavadzīmes ar Paskaidrojuma tekstu Realizācija
+no POS:
+
+
+
+|images_ozols/26115.png|
+
+
+
+Uzģenerētos pārdošanas dokumentus (kases pavadzīmes) nepieciešams
+atvērt, nospiežot rīku joslā pogu |images_ozols/25603.png| , un
+jāpievieno pircējs (piem., Klients):
+
+
+
+|images_ozols/26116.png|
+
+
+
+Kad Pircēja lauks aizpildīts, dokuments jāapstiprina un, ja
+nepieciešams, :doc:`jāiegrāmato<14044>` .
+
+.. |images_ozols/26113.png| image:: images_ozols/26113.png
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/26114.png| image:: images_ozols/26114.png
+:scale: 100%
+
+.. |images_ozols/26115.png| image:: images_ozols/26115.png
+:scale: 100%
+
+.. |images_ozols/25603.png| image:: images_ozols/25603.png
+:scale: 100%
+
+.. |images_ozols/26116.png| image:: images_ozols/26116.png
+:scale: 100%
+
+ 

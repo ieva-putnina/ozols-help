@@ -1,0 +1,9 @@
+.. 6 ============Saraksti============ 
+
+
+Noliktavassarakstos nepieciešams pievienot uzņēmuma Noliktavas,
+Nomenklatūru, kā arī iespējamspievienot Ražotājus, nomenklatūras
+papildgrupas, nomenklatūras sastāvdaļas, analogus un Cenošanas
+metodes.
+
+ .. toctree::   :maxdepth: 5    159.rst   814.rst   813.rst   142.rst   753.rst   752.rst   106.rst   689.rst   778.rst   787.rst   695.rst   697.rst   1023.rst   995.rst   172.rst   1046.rst

@@ -9,16 +9,24 @@ brīdi nav atlikumā Noliktavā.
 Sarakstā tiek attēlotas nomenklatūras un tām piesaistītie
 nomenklatūras analogu nosaukumi.
 
-Lai esošo sarakstu papildinātu, rīku joslā nospiežot pogu: , iespējams
-pievienot Analogas nomenklatūras esošajām kartiņām:
+Lai esošo sarakstu papildinātu, rīku joslā nospiežot pogu:.. image::
+images_ozols/24708.png
+:scale: 100%
+, iespējams pievienot Analogas nomenklatūras esošajām kartiņām:
 
 
 
+.. image:: images_ozols/25332.png
+:scale: 100%
 
 
 
 
 Pēc datu aizpildīšanas,Nomenklatūras kartiņai piesaistītās
-Analogāsnomenlatūras,iespējams vai .
+Analogāsnomenlatūras,iespējams .. image:: images_ozols/24615.jpg
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
  

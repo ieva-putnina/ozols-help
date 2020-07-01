@@ -1,0 +1,155 @@
+.. 681 Algu grāmatojumu pirmdokumentu žurnāls****************************************** 
+
+
+Algu grāmatojumu pirmdokuments tiek veikts, balstoties uz veikto algu
+aprēķinu rezultātiem. Algu grāmatojumu pirmdokumentu žurnālā tiek
+saglabāti visi sistēmā izveidotie algu grāmatojumu pirmdokumenti.
+
+
+Algugrāmatojuma pirmdokumentapievienošana
++++++++++++++++++++++++++++++++++++++++++
+|images_ozols/24545.gif| Instrukcija par automatizētu nodokļu
+dokumentu ielādi no EDS sistēmas pieejama :doc:`šeit`!
+
+|images_ozols/24545.gif| Pirms algu grāmatojuma pirmdokumenta
+veidošanas, jābūt veiktiem algu aprēķiniem tekošajā periodā!
+
+|images_ozols/24545.gif| Pirms algu grāmatojuma pirmdokumenta
+veidošanas, algu rezultējošiem kodiem - ABruto, IIN, Soc_dn, Soc_dd un
+Riska_nod - :doc:`jābūt piesaistītiem DB un CR grāmatvediskajiem
+kontiem!<14109>`
+
+
+
+Jauns algugrāmatojumu pirmdokumentstiek pievienots,rīku joslānospiežot
+pogu |images_ozols/24708.png| :
+
+
+
+|images_ozols/26140.png|
+
+
+
+Nepieciešams aizpildīt sekojošus datus:
+
+
+
+Datums: grāmatojuma datums (Piemēram, mēneša pēdējās dienas datums)
+
+Nosaukums: brīvā formā ievadīts pirmdokumenta nosaukums (Piemēram,
+Alga par oktobri)
+
+
+
+Pēd dokumenta virsraksta aizpildīšanas, nepieciešams aizpildīt
+dokumenta saturu no algu aprēķina rezultātiem, izmantojot Algu
+grāmatojuma pirmdokumenta ekrāna formā pieejamo pogu:
+|images_ozols/26131.png|
+
+
+
+Izpildot šo darbību, tiks atvērts Filtra logs, kur nepieciešams
+atzīmēt datu atlases kritērijus:
+
+
+
+|images_ozols/26141.png|
+
+
+
+Datu atlases Filtrā, obligāts nosacījum - norādīt Aprēķina periodu
+(izmantojot kura perioda algu aprēķinu rezultātus tiks sagatavots
+grāmatojums) un grupēšanas parametrus ( obligāts nosacījums - grupēt
+pēc konta - dati atbilstoši tiks sagrupēt pa :doc:`grāmatvediskajiem
+kontiem, kādi ir nodefinēti algu rezultējošiem kodiem<14109>` ).
+
+Pārējie filtra iestādījumi ir lietotāja brīvi definējami un
+izmantojami detalizētākai informācijas atlasei (līdz ar to, sniedz
+iespēju sagatavot algu grāmatojumu pirmdokumentu vienas
+struktūrvienības, amata, slodzes veida, personāla kategorijas, utt.
+ietvaros).
+
+
+
+Datu atlases filtrā nospiežot pogu |images_ozols/25619.png| , tiks
+sagatavots Algu grāmatojumu pirmdokuments pēc filtrā norādītajiem
+atlases kritēriejiem:
+
+
+
+|images_ozols/26142.png|
+
+
+
+Kad dokumenta saturs ir aizpildītsi, Algu grāmatojuma pirmdokuments ir
+sagatavots un to ir iespējams:
+
+1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
+saglabāts un būs pieejams apskatei/labošanai/grāmatošanai :doc:`Algu
+grāmatojumu pirmdokumentu žurnālā<681>` .
+
+2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| -
+dokuments tiks Apstiprināts un to būs iespējams Grāmatot.
+
+
+Algu grāmatojumu pirmdokumentagrāmatošana
++++++++++++++++++++++++++++++++++++++++++
+
+Algu grāmatojumu pirmdokumentuiespējams grāmatot no atvērta dokumenta
+vai izvēloties (iezīmējot)dokumentu :doc:`Algu grāmatojumu
+pirmdokumentu žurnālā<681>` .
+
+Dokumentuiespējams grāmatot, nospiežot rīku joslā pogu
+|images_ozols/24741.png| - tiks atvērts Algu pirmdokumenta
+grāmatojums, kas sagatavots balstoties uz Algu pirmdokumenta
+grāmtojuma šablona (informācija tiešā veidā no pirmdokument tiek
+pārnesta uz grāmatojumu):
+
+
+
+|images_ozols/26143.png|
+
+
+
+Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/26140.png| image:: images_ozols/26140.png
+:scale: 100%
+
+.. |images_ozols/26131.png| image:: images_ozols/26131.png
+:scale: 100%
+
+.. |images_ozols/26141.png| image:: images_ozols/26141.png
+:scale: 100%
+
+.. |images_ozols/25619.png| image:: images_ozols/25619.png
+:scale: 100%
+
+.. |images_ozols/26142.png| image:: images_ozols/26142.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+:scale: 100%
+
+.. |images_ozols/24741.png| image:: images_ozols/24741.png
+:scale: 100%
+
+.. |images_ozols/26143.png| image:: images_ozols/26143.png
+:scale: 100%
+
+ 

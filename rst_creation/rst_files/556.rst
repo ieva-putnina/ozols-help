@@ -23,6 +23,8 @@ kādiem atskaite tiks sagatavota:
 
 
 
+.. image:: images_ozols/25062.png
+:scale: 100%
 
 
 
@@ -33,6 +35,8 @@ sagatavota:
 
 
 
+.. image:: images_ozols/25063.png
+:scale: 100%
 
 
 
@@ -43,6 +47,8 @@ ievadot datumus manuāli:
 
 
 
+.. image:: images_ozols/25046.png
+:scale: 100%
 
 
 4. Ja vienā Ozols datu bāzē tiek veikta grāmatvedības uzskaite
@@ -51,6 +57,8 @@ datiem atskaite tiks sagatavota:
 
 
 
+.. image:: images_ozols/25047.png
+:scale: 100%
 
 
 
@@ -59,14 +67,21 @@ datiem atskaite tiks sagatavota:
 
 
 
+.. image:: images_ozols/25048.png
+:scale: 100%
 
 
 
 
-6. Atskaite tiks sagatavota, nospiežot pogu :
+6. Atskaite tiks sagatavota, nospiežot pogu .. image::
+images_ozols/25049.png
+:scale: 100%
+:
 
 
 
+.. image:: images_ozols/25064.png
+:scale: 100%
 
 
 
@@ -89,25 +104,32 @@ Ekrāna formā ir pieejams atskaišu konfigurācijas saraksts.
 
 
 
-7. Nospiežot pogu , komanda izsauc atskaites konfigurācijas ekrāna
-formu, to var papildināt neaizverot atskaiti.
+7. Nospiežot pogu .. image:: images_ozols/25055.png
+:scale: 100%
+, komanda izsauc atskaites konfigurācijas ekrāna formu, to var
+papildināt neaizverot atskaiti.
 
 
 
 8. Ja pēc atskaites sagatavošanas veiktas izmaiņas :doc:`atskaites
 konfigurācijā<179>` , atskaiti pēc izmanītās konfigurācijas datiem var
-pārrēķināt, nospiežot pogu: . Pārrēķinot atskaiti, tajā tiek parādīti
-jaunākie dati.
+pārrēķināt, nospiežot pogu: .. image:: images_ozols/25053.png
+:scale: 100%
+. Pārrēķinot atskaiti, tajā tiek parādīti jaunākie dati.
 
 9. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
 sarakstā<531>` , kur tā būs pieejama labošanai/drukāšanai, nospiežot
-pogu: .
+pogu: .. image:: images_ozols/25054.png
+:scale: 100%
+.
 
 
 
-10. Nospiežot pogu atskaite sagatavota netiks un darbība tiks atcelta.
-Ja atskaite tiek izveidota un nav jāsaglabā, jālieto komanda Atcelt .
-Ja atskaite ir saglabāta sarakstā, komandu Atcelt var izmantot, lai
-nesaglabātu atskaitē veiktās izmaiņas.
+10. Nospiežot pogu .. image:: images_ozols/24617.jpg
+:scale: 100%
+atskaite sagatavota netiks un darbība tiks atcelta. Ja atskaite tiek
+izveidota un nav jāsaglabā, jālieto komanda Atcelt . Ja atskaite ir
+saglabāta sarakstā, komandu Atcelt var izmantot, lai nesaglabātu
+atskaitē veiktās izmaiņas.
 
  

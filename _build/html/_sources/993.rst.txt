@@ -1,0 +1,78 @@
+.. 993 Pieteikums tiesai********************* 
+
+|images_ozols/24545.gif| Dokumenta veids - Pieteikums tiesai - ir
+specifisks darba režīms, kas pieejams izmantojot Ozols papildus
+funkcionalitāti.
+
+
+
+Jauna pieteikuma tiesai pievienošana
+Izmantojot šo dokumentu veidu, tiek realizēts tiesas pieteikuma
+sagatavošanas process, kur dati dokumentā tiek aizpildīti no atskaites
+- :doc:`Neapmaksātie pārdošanas dokumenti<540>` .
+
+Lai pievienotu jaunu dokumentu, atrodoties dokumentu žurnālā, rīku
+joslā jānospiež poga: |images_ozols/24879.png| un tiks atvērts jauns
+dokuments:
+
+
+
+
+|images_ozols/26507.png|
+
+
+
+
+
+Izvēloties nepieciešamo debitoru (no :doc:`Partneru<112>` saraksta),
+tiks ielādēta aktuālā informācija par pasta adresi un iespēja norādīt
+atbilstošās procentu likmes līgumsodam un likumiskajiem kavējuma
+procentiem.
+
+
+
+
+Lai aizpildītu datus par izvēlēto partneri no neapmaksāto pārdošanas
+dokumentu atskaites, nepieciešams izpildīt dokumentā pieejamo funkciju
+Aizpildīt:
+
+
+
+
+|images_ozols/26508.png|
+
+
+
+
+
+Izvēloties komandu Aizpildīt, tiks atvērts filtrs, kurā jāizvēlas
+parametri no atskaites "Neapmaksātie pārdošanas dokumenti" pēc kuriem
+tiks aizpildīts tiesas pieteikuma dokuments. Pircējs filtrā parādās
+noklusētais tas, kurš ir izvēlēts apmaksas atgādinājuma virsrakstā:
+
+
+
+|images_ozols/26488.png|
+
+Lai aizpildītu dokumenta saturu no augstāk minētā filtra un jāizmanto
+komanda |images_ozols/25619.png| .
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:scale: 100%
+
+.. |images_ozols/24879.png| image:: images_ozols/24879.png
+:scale: 100%
+
+.. |images_ozols/26507.png| image:: images_ozols/26507.png
+:scale: 100%
+
+.. |images_ozols/26508.png| image:: images_ozols/26508.png
+:scale: 100%
+
+.. |images_ozols/26488.png| image:: images_ozols/26488.png
+:scale: 100%
+
+.. |images_ozols/25619.png| image:: images_ozols/25619.png
+:scale: 100%
+
+ 

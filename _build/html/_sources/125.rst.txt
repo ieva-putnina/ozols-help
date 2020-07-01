@@ -1,0 +1,41 @@
+.. 125 Dzīvesvietu kodi******************** 
+
+
+Dzīvesvietu kodu sarakstā ir pilnais dzīvesvietu kodu saraksts vai
+arīlietotājs var aizpildīt tikai uzņēmumā izmantotos dzīvesvietas
+kodus. Dzīvesvietu kodi tiek pievienoti :doc:`Nodokļu
+dokumentiem<208>` . Atskaišu sagatavošanā dzīvesvietas kodus iespējams
+izmantot kā datu atlases nosacījumu, piem. atlasīt datus, kuru
+dzīvesvietas kodi sākas ar 01 (Rīgā dzīvojošie).
+
+
+
+Jauns dzīvesvietas kods tiek pievienots ar pogu
+|images_ozols/24708.png| . Pēc informācijas aizpildīšanas jāspiež poga
+Saglabāt , lai saglabātu ierakstu sistēmā.
+
+
+
+|images_ozols/25673.png|
+
+
+
+Dzīvesvietas kodu labo ar pogu |images_ozols/24709.png| .
+
+
+
+Dzīvesvietas kodu dzēš ar pogu |images_ozols/25602.png| .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+:scale: 100%
+
+.. |images_ozols/25673.png| image:: images_ozols/25673.png
+:scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+:scale: 100%
+
+.. |images_ozols/25602.png| image:: images_ozols/25602.png
+:scale: 100%
+
+ 

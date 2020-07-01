@@ -1,0 +1,25 @@
+.. 848 =========Jauns========= 
+Izmantojot sistēmā pieejamo darba režīmu Jauns ->Iespējams sagatavot
+jaunus Norēķinu dokumentus:
+
+:doc:`Apmaksas atgādinājums<343>`
+
+:doc:`<831>` :doc:`Iepirkuma dokuments<310>`
+
+:doc:`Norēķina dzēšanas akts<358>`
+
+:doc:`Pārdošanas dokuments<304>`
+
+:doc:`Savstarpējo norēķinu dzēšanas akts<357>`
+
+:doc:`Savstarpējo norēķinu salīdzināšanas akts<342>`
+
+
+
+
+
+
+
+
+
+ .. toctree::   :maxdepth: 5    344.rst   354.rst   343.rst   831.rst   402.rst   881.rst   403.rst   310.rst   998.rst   304.rst   1033.rst   1035.rst   1034.rst   358.rst   993.rst   305.rst   357.rst   894.rst   342.rst

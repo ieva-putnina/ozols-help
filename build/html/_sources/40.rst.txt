@@ -1,4 +1,4 @@
-.. 40 Avansi========== .. role:: raw-html(raw)     :format: html
+.. 40 Avansi========== 
 
 
 Avansu norēķini paredzēti saņemto uz izlietoto avansa summu uzskaitei.

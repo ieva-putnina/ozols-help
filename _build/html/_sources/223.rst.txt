@@ -1,0 +1,52 @@
+.. 223 Sociālo nodokļu metodes*************************** 
+
+
+Programmatūras lietotājam ir jāseko, vai nodokļu aprēķinu metožu
+sarakstos atbilstošajiem periodiem tiek noteiktas pareizas nodokļu
+likmes.
+
+Ja tiek uzskaitīti dati vairākiem uzņēmumiem, tad nodokļu likmju
+saraksti ir kopīgi visiem uzņēmumiem.
+
+
+
+Šajā sarakstā tiek nodefinētas sociālā nodokļa metodes algām.Sociālā
+nodokļa metode veidojas no soc.likmes darba ņēmējam un kopējās
+sociālās likmes (soc.likme darba devējam tiek aprēķināta no izejas
+datiem automātiski). Sociālā nodokļa metodes tiek pievienotas
+darbinieku:doc:`nodokļu dokumentiem<208>` .
+
+
+
+
+
+Sociālā nodokļa aprēķina metodes aprakstā norāda darbinieka sociālā
+nodokļa aprēķina likmi un kopējo sociālā nodokļa aprēķina likmi
+atbilstošajā periodā:
+
+
+
+|images_ozols/26526.png|
+
+
+
+
+Periods - jānorāda periods no :doc:`Algu periodu saraksta<211>` .
+
+Soc.lkm.darb. - jānorāda darba ņēmēja soc.likme procentos.
+
+Soc.lkm.kop. - jānorādakopējā soc.likme procentos.
+
+Piezīmes - iespēja norādīt iedzīvotāju ienākuma nodokļa metodes
+piezīmes.
+
+
+
+Uzņēmuma sociālā nodokļa likme un summas tiek noteiktas algu aprēķina
+laikā un parādītas algu rezultātu atskaitēs atbilstoši izveidotajai
+algu aprēķina un atskaišu kolonnu konfigurācijai.
+
+.. |images_ozols/26526.png| image:: images_ozols/26526.png
+:scale: 100%
+
+ 

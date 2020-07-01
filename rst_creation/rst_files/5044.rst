@@ -11,6 +11,8 @@ atpakaļejošu statusu, jāapstiprina:
 
 
 
+.. image:: images_ozols/26318.png
+:scale: 100%
 
 
 

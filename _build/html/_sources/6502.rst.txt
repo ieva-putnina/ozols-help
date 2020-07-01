@@ -1,0 +1,12 @@
+.. 6502 =============Dokumenti============= 
+
+
+Izmantojot Polišu dokumentus, iespējams:
+
+
+
+Pievienot jaunu :doc:`Pielikumu<6518>`
+
+Iegūt informāciju par pievienotajām :doc:`Polisēm<6521>`
+
+ .. toctree::   :maxdepth: 5    6597.rst   6522.rst   6518.rst   6521.rst   6510.rst   6592.rst   6514.rst   6579.rst   6580.rst

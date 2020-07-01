@@ -4,6 +4,8 @@ Sadaļa pielikumi tiek veidota Polises aprakstā aizpildot sadaļu
 
 
 
+.. image:: images_ozols/25497.png
+:scale: 100%
 
 
 
@@ -20,6 +22,8 @@ atlasīt pēc Apdrošināšanas sabiedrības.
 3. Datums - norādot datumu tiks atlasīti dati par to periodu, kad
 irtikti izveidotiPielikumi
 
+.. image:: images_ozols/25498.png
+:scale: 100%
 
 
 

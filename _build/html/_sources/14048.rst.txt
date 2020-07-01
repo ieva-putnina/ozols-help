@@ -1,0 +1,53 @@
+.. 14048 Dokumenta dzēšana********************* 
+
+
+Dzēstdokumentu var no atvērtas dokumenta formas vai no dokumenta
+žurnāla, kurdzēšamais dokuments ir atzīmēts ar kursoru.
+
+Dzēšot dokumentu, šis dokuments tiek izdzēsts no datu bāzes un vairs
+nav pieejams atjaunošanai.
+
+
+
+Lai dzēstu dokumentu ir:
+
+1) jāatver dokuments no dokumentu žurnāla. ( CtrL+A , komanda
+|images_ozols/24720.gif| no rīku joslas, nospiežot peles labo pogu un
+izvēloties komandu "Atvērt" vai komanda "Atvērt" no izvēlnes Dati)
+
+
+
+2) ja dokuments ir iegrāmatots,jāanulē grāmatojums. Ja grāmatojums ir
+arī apstiprināts, tad jānoņem apstiprinājums no grāmatojuma un tad
+jāanulē grāmatojumsAtvērto grāmatojumu anulē, izmantojot komandu
+|images_ozols/24717.gif| no rīku joslas, komandu "Anulēt" no izvēlnes
+Dati vai nospiežot peles labo pogu un izvēloties komandu "Anulēt".
+Anulēts grāmatojums tiek saglabāts grāmatojumu žurnālā un
+nepieciešamības gadījumā šādu grāmatojumu ir iespējams atjaunot.
+
+3)pēc grāmatojuma anulēšanas ir jānoņem apstiprinājums no paša
+pirmdokumenta( CtrL+R; komanda |images_ozols/24715.gif| no rīku
+joslas; komanda "Apstiprināt" no izvēlnes Dati, vai nospiežot peles
+labo pogu izvēloties komandu "Apstiprināt"). Dokumenta apstiprināšana
+un apstiprinājuma noņemša tiek veikta ar vienām un tām pašām komandām.
+
+
+
+4) jādzēš dokuments (izmantojot komandu |images_ozols/24719.gif| no
+rīku joslas, komandu "Dzēst" no izvēlnes Dati vai nospiežot peles labo
+pogu un izvēloties komandu "Dzēst" vai komandu "Delete" uz
+klaviatūras)
+
+.. |images_ozols/24720.gif| image:: images_ozols/24720.gif
+:scale: 100%
+
+.. |images_ozols/24717.gif| image:: images_ozols/24717.gif
+:scale: 100%
+
+.. |images_ozols/24715.gif| image:: images_ozols/24715.gif
+:scale: 100%
+
+.. |images_ozols/24719.gif| image:: images_ozols/24719.gif
+:scale: 100%
+
+ 

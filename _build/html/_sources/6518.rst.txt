@@ -1,0 +1,33 @@
+.. 6518 Pielikumi************* 
+Sadaļa pielikumi tiek veidota Polises aprakstā aizpildot sadaļu
+:doc:`Pielikums<6510>`
+
+
+
+|images_ozols/25497.png|
+
+
+
+Pielikumus var atlasīt pēc šadiem atlases kritērijiem:
+
+1. Meklēt -Atzīmējot izvēles rūtiņu, filtrā iespējams norādīt pēc kā
+meklēt. Visas kolonnas,kuras atradīsies uz Pielikuma darba virsmas būs
+atlasāmas
+
+2. Apdroš.sab - Ja būs ieķeksēta šī izvēles rūtiņa, tad varēs datus
+atlasīt pēc Apdrošināšanas sabiedrības.
+
+3. Datums - norādot datumu tiks atlasīti dati par to periodu, kad
+irtikti izveidotiPielikumi
+
+|images_ozols/25498.png|
+
+
+
+.. |images_ozols/25497.png| image:: images_ozols/25497.png
+:scale: 100%
+
+.. |images_ozols/25498.png| image:: images_ozols/25498.png
+:scale: 100%
+
+ 

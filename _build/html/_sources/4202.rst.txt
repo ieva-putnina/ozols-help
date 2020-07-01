@@ -1,0 +1,11 @@
+.. 4202 =============Atskaites============= 
+No Regresa moduļa sistēmā pieejamas sekojošas atskaites:
+
+
++ :doc:`Atlīdzību lietu atskaite<4216>`
++ :doc:`Lietas kredītu reģistram<4223>`
++ :doc:`Regresu lietu atskaite<4217>`
++ :doc:`Regresu lietu parādi<4219>`
+
+
+ .. toctree::   :maxdepth: 5    4216.rst   4223.rst   4224.rst   4217.rst   4219.rst

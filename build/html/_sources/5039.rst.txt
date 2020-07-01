@@ -7,17 +7,23 @@ kuri tiek saglabāti :doc:`Budžeta pieprasījumu<5035>` žurnālā.
 Jauna budžeta pieprasījuma pievienošana
 +++++++++++++++++++++++++++++++++++++++
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Konkrēta lietotāja kontā (konfigurācijās) norāda ar kuru uzņēmumu
 lietotājam ir tiesības strādāt.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Uz gadu ir iespējams izveidot 1 dokumentu par 1 budžetu vienam
 uzņēmumam. Ja dokuments ir jau izveidots, pieprasījuma izvēlnē
 neparādās periods - gads.
 
 
 
+.. image:: images_ozols/26292.png
+:scale: 100%
 
 
 
@@ -29,12 +35,17 @@ Datums: norāda datumu, kurā tiek sagatavots piepasījuma dokuments;
 
 Periods: par kuru periodu tiek pieprasīts budžets.
 
-Lai saglabātu pieprasījumu, jānospiež poga
+Lai saglabātu pieprasījumu, jānospiež poga .. image::
+images_ozols/25799.png
+:scale: 100%
+
 
 Pieprasījums tiek saglabāts Budžeta pieprasījumu žurnālā:
 
 
 
+.. image:: images_ozols/26294.png
+:scale: 100%
 
 
  

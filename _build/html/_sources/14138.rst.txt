@@ -1,0 +1,4 @@
+.. 14138 3.Darba uzsākšana ar iOzols personāla sistēmu************************************************* Lai atvērtu instrukciju darba uzsākšanai ar iOzols personāla sistēmu
+spiediet :doc:`šeit`
+
+ 

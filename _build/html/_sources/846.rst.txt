@@ -1,0 +1,41 @@
+.. 846 =========Jauns========= 
+
+
+IzmantojotFinanšu dokumentus, iespējams noformēt šādus dokumentu
+veidus:
+
+
+
+:doc:`Bankā atgriezts avanss<473>`
+
+:doc:`Bankā izmaksāts avanss<469>`
+
+:doc:`Bankas ieejošais maksājums<349>`
+
+:doc:`Bankas budžeta maksājums<468>`
+
+:doc:`Bankas komisija<466>`
+
+:doc:`Bankas maksājuma uzdevums<347>`
+
+:doc:`Bankas maksājums ar maksājumu karti<467>`
+
+:doc:`Kasē atgriezts avanss<474>`
+
+:doc:`Kases avansa maksājums<471>`
+
+:doc:`Kases ieņēmumu orderis<350>`
+
+:doc:`Kases izdevumu orderis<332>`
+
+:doc:`Maksājuma dzēšanas akts<671>`
+
+:doc:`Naudas iemaksa bankā<472>`
+
+:doc:`Naudas izņemšana no bankas konta<475>`
+
+:doc:`Naudas pārsūtīšana starp bankas kontiem<470>`
+
+:doc:`<347>`
+
+ .. toctree::   :maxdepth: 5    473.rst   469.rst   468.rst   349.rst   466.rst   347.rst   467.rst   474.rst   471.rst   350.rst   332.rst   671.rst   472.rst   475.rst   470.rst

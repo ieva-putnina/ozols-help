@@ -1,0 +1,7 @@
+.. 989 Saraksts...*************** 
+Sarakstā tiek saglabātas un pieejamas atvēršanai/izdrukai/labošanai
+iepriekš sagatavotās atskaites:
+
+:doc:`Ievedums–Intrastat–1A<990>`
+
+ 

@@ -9,6 +9,8 @@ veikšanas algu aprēķini ir pieejami :doc:`Algu aprēķinu žurnālā<212>`
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Pirms aprēķinu veikšanas jāpārbauda, vai ir savadīti visi dati
 :doc:`Algu tarifikācijā<728>` , :doc:`Nodokļu dokumentu žurnālā<208>`
 , :doc:`Rīkojumu žurnālā<209>` par attiecīgo periodu lai varētu veikt
@@ -22,6 +24,8 @@ lietotājam jānorāda atlases un darbību nosacījumi.
 
 
 
+.. image:: images_ozols/26277.png
+:scale: 100%
 
 
 
@@ -47,6 +51,8 @@ aprēķinus.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Lietotājam jāņem vērā, ka atzīmējot izvēles rūtiņu Atvērtajā periodā
 dzēst X algu aprēķinus, esošie par attiecīgo periodualgu aprēķini tiks
 neatgriezeniski izdzēsti. Kā arī atzīmējot izvēles rūtiņu Atvērtajā

@@ -1,0 +1,27 @@
+.. 127 Personāla kategorijas************************* 
+Šajā sarakstā tiek aizpildītas personāla kategorijas (Administrācija,
+Strādājošais, utt.). Šī saraksta dati algu aprēķinos nepiedalās, taču
+sniedz iespēju aprēķina datus atlasīt Personāla kategoriju griezumā.
+Aizpildot strādājošā datus programma pieprasa obligāti aizpildīt
+personāla kategoriju. Ja uzņēmumā personāls netiek dalīts pa Personāla
+kategorijām, tad šajā sarakstā jābūt izveidotam vismaz vienam
+ierakstam, kuru tad vienmēr jāizmanto aizpildot datus par strādājošo.
+
+Lai pievienotu personāla kategoriju, rīku joslā jānospiež poga
+|images_ozols/25605.png| (Alt+P) un, kad nosaukums ierakstīts,
+jānospiež poga |images_ozols/24615.jpg| .
+
+
+
+|images_ozols/25641.png|
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+:scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+:scale: 100%
+
+.. |images_ozols/25641.png| image:: images_ozols/25641.png
+:scale: 100%
+
+ 

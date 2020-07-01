@@ -7,18 +7,28 @@ norādītajai slodzei un tiek izmantoti :doc:`algu aprēķinos<498>` .
 Izveidotie rīkojumi tiek parādīti personīgajā kontā un tiek izmantoti,
 lai sastādītu atskaiti par darbinieku kustību.
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Lai rīkojumu dokumenti piedalītos algu aprēķinos, tie obligāti
-jāapstiprina (rīku joslā poga ).
+jāapstiprina (rīku joslā poga .. image:: images_ozols/25702.png
+:scale: 100%
+).
 
 
 
-Ar filtru ir iespējams atlasīt rīkojumus pēc viena rīkojuma veida,
-slodzes, datuma, slodzes statusa.Dati uz ekrāna tiek parādīti
-atbilstoši norādītajiem datu atlases kritērijiem filtra ekrāna formā.
-Rīku joslā nopiežot pogu (Ctrl+F), tiek atvērts filtra logs:
+Ar filtru .. image:: images_ozols/24942.png
+:scale: 100%
+ir iespējams atlasīt rīkojumus pēc viena rīkojuma veida, slodzes,
+datuma, slodzes statusa.Dati uz ekrāna tiek parādīti atbilstoši
+norādītajiem datu atlases kritērijiem filtra ekrāna formā. Rīku joslā
+nopiežot pogu.. image:: images_ozols/24535.gif
+:scale: 100%
+(Ctrl+F), tiek atvērts filtra logs:
 
 
 
+.. image:: images_ozols/26108.png
+:scale: 100%
 
 
 
@@ -43,6 +53,9 @@ Slodzes statuss : atlasīt datus - Rīkojumus pēc slodzes statusa
 
 
 LaiRīkojumu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
-kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga .
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga ..
+image:: images_ozols/25944.png
+:scale: 100%
+.
 
  

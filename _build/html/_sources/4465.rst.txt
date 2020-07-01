@@ -1,0 +1,51 @@
+.. 4465 Korespondence***************** 
+Pievienojot jaunu korespondenci, tiek atvērts logs, kur jāievada
+attiecīgā informācija:
+
+|images_ozols/25883.png|
+
+
+
+Partneris : partneris,uz kuru attiecaskorespondence;
+
+Kontaktpersona : kontaktpersona, ar kuru tika veikta korespondence;
+
+Iztērētais laiks : iztērētais laiks;
+
+Datums : datums, kurā notikusi korespondence;
+
+Virsraksts : korespondences virsraksts, nosaukums;
+
+Izcelsme : iespējams norādīt korespondences izcelsmi;
+
+Kampaņa : iespējams norādīt kampaņu;
+
+Projekts : iespējams norādīt projektu;
+
+Līgums : jānorāda piesaistītais līgums;
+
+Ieraksta tiesības : iespējams norādīt ieraksta tiesības;
+
+Apraksts : korespondences apraksts.
+
+Ja visa informācija ievadīta, jānospiež poga |images_ozols/25829.png|
+un ir iespējams izveidot jaunu korespondenci, nospiežot pogu
+|images_ozols/25831.png| . Vai, lai saglabātu un aizvērtu, jānospiež
+poga |images_ozols/25828.png| . Visas pievienotās korespondences tiek
+saglabāts :doc:`korespondenču žurnālā<4460>` .
+
+
+
+.. |images_ozols/25883.png| image:: images_ozols/25883.png
+:scale: 100%
+
+.. |images_ozols/25829.png| image:: images_ozols/25829.png
+:scale: 100%
+
+.. |images_ozols/25831.png| image:: images_ozols/25831.png
+:scale: 100%
+
+.. |images_ozols/25828.png| image:: images_ozols/25828.png
+:scale: 100%
+
+ 

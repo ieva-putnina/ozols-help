@@ -1,0 +1,78 @@
+.. 884 Potenciālais partneris************************** 
+
+
+Jauna Potenciālā partnera pievienošana ir iespējama caur Potenciālo
+partneru sadaļu:doc:`Potenciālais partneris<884>` un :doc:`Potenciālo
+partneru sarakstu<842>` .
+
+Lai pievienotu jaunu Potenciālo partneri, rīku joslā jānospiež poga
+|images_ozols/25605.png| , tiek atvērts partnera datu logs:
+
+
+
+|images_ozols/26056.png|
+
+
+
+Jānorāda, partnera Tips: Juridiska vai Fiziska persona;
+
+Uzvārds:
+
+Vārds:
+
+Pers.kods:
+
+Mob.tālrunis
+
+Tālrunis:
+
+Epasts
+
+Faktiskā adrese
+
+Indekss
+
+Valsts
+
+Sektors
+
+
+
+Juridiskai personai papildus lauki:
+
+
+
+|images_ozols/26057.png|
+
+
+
+Nosaukums: Juridiskas personas Nosaukums;
+
+Reģistrācijas nr.: Uzņēmuma reģistra datu bāzē reģistrētais nummurs;
+
+Juridiskā adrese: Uzņēmuma Juridiskā adrese;
+
+Pilsēta: Pilsēta;
+
+Indekss: Pasta indekss;
+
+Valsts: Valsts, kuru juridiskā persona pārstāv.
+
+
+
+Ja visi dati par Potenciālo partneri aizpildīti, tad tie jāsaglabā,
+nospiežot pogu |images_ozols/25621.png| .
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+:scale: 100%
+
+.. |images_ozols/26056.png| image:: images_ozols/26056.png
+:scale: 100%
+
+.. |images_ozols/26057.png| image:: images_ozols/26057.png
+:scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+:scale: 100%
+
+ 

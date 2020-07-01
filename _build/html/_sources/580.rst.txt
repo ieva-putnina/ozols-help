@@ -1,0 +1,32 @@
+.. 580 Kases grāmata***************** 
+
+
+Kases grāmata jāizveido atskaites veidā. Sākuma atlikuma summa kasē
+tiek parādīta no :doc:`Kontu atlikumu atlikumu saraksta<146>` . Kases
+saistība ar grāmatvedības kontu tiek noteikta :doc:`Kases
+aprakstā<123>` . Atskaitei ir iebūvēta izdrukas forma, kas atbilst
+kases operāciju uzskaites noteikumiem. Sagatavojot atskaiti par garāku
+laika periodu, katras dienas datus automatizēti var drukāt uz
+atsevišķas lapas. Atskaite tiek sagatavota no pirmdokumentu datiem.
+
+
+
+Filtrs jāaizpilda, lai sagatavotu atskaiti.
+
+Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
+kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
+kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
+arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
+atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
+
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves.
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+:scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+:scale: 100%
+
+ 

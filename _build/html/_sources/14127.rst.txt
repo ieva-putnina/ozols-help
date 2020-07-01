@@ -1,0 +1,53 @@
+.. 14127 Rīkojumu nosacījumu pievienošana strādājošā algu aprēķinam************************************************************** 
+
+
+Kad :doc:`Rīkojumi<409>` ir izveidoti un apstiprināti, tos katrā
+aprēķina periodā strādājošajam ir jāpievieno algu aprēķinā kā ieejošos
+datus:
+
+
+1. Visām algu aprēķinam pievienotajām slodzēm rīkojuma datus var
+pievienot, izmantojot Algu Rīkus->:doc:`Algu aprēķins<498>` :
+
+
+
+Aktivizējot komandu: |images_ozols/26334.png| , visos pievienotajos
+algu aprēķinos tekošajā periodā tiks ielādēti dati no Rīkojumiem;
+
+
+
+2. Atverot strādājošā algu aprēķinu, datus ar komandu "Aizpildīt
+ieejošos kodus no slodzes kalendāra" var pievienot algu aprēķinam:
+
+|images_ozols/26336.png|
+
+
+
+3. Atverot strādājošā algu aprēķinu, datus ar komandu "Aizpildīt
+ieejošos kodus no slodzes kalendāra līdz atvaļinājumam", var pievienot
+algu aprēķinam:
+
+
+
+|images_ozols/26335.png|
+
+
+Gadījumos, ja strādājošais mēneša sākumā iet atvaļinājumā, tad darba
+devējam ir jāizmaksā alga līdz atvaļinājumam un atvaļinājuma alga,kā
+arī situācijās, ja atvaļinājumanauda tiek rēķināta par nākamo periodu
+unnepieciešams, lai neapliekamais minimums tiktu piemērots tikai par
+aprēķināto algas daļu un atvaļinājuma naudu.nepieciešams
+izmantotkomandu "Aizpildīt ieejošos kodus no slodzes kalendāra līdz
+atvaļinājumam", kā rezultātā tiek ieimportētas kavētās kalendārās un
+kavētās darba dienas līdz mēneša beigām pēc atvaļinājuma.
+
+.. |images_ozols/26334.png| image:: images_ozols/26334.png
+:scale: 100%
+
+.. |images_ozols/26336.png| image:: images_ozols/26336.png
+:scale: 100%
+
+.. |images_ozols/26335.png| image:: images_ozols/26335.png
+:scale: 100%
+
+ 

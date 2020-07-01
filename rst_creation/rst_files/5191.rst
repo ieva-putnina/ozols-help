@@ -13,6 +13,8 @@ Pieslēdzoties sistēmai, novērtēšanas anketu būs iespējams aizpildīt no
 darba režīma: Personāla pašapkalpošanās->Personas
 kartīte->Novērtēšanas anketas:
 
+.. image:: images_ozols/26377.png
+:scale: 100%
 
 
 
@@ -23,6 +25,8 @@ aizpildīšanu, nepieciešamsnospiest uz jebkuras kolonnas ierakstu:
 
 
 
+.. image:: images_ozols/26378.png
+:scale: 100%
 
 
 
@@ -39,6 +43,8 @@ atkārtotiNAV jāpārvada:
 
 
 
+.. image:: images_ozols/26400.png
+:scale: 100%
 
 
 
@@ -57,13 +63,19 @@ palīdzību izvēloties to no saraksta:
 
 
 
+.. image:: images_ozols/26380.png
+:scale: 100%
 
 
 
 
-Lai saglabātu pievienoto ierakstu nepieciešams nospiest pogu . Lai
-atkārtoti pievienotu jaunu - nākamo ierakstu, nepieciešams nospiest
-pogu: .
+Lai saglabātu pievienoto ierakstu nepieciešams nospiest pogu ..
+image:: images_ozols/26381.png
+:scale: 100%
+. Lai atkārtoti pievienotu jaunu - nākamo ierakstu, nepieciešams
+nospiest pogu: .. image:: images_ozols/26382.png
+:scale: 100%
+.
 
 
 
@@ -74,6 +86,8 @@ vērtējumu no saraksta:
 
 
 
+.. image:: images_ozols/26383.png
+:scale: 100%
 
 
 
@@ -84,13 +98,17 @@ nepieciešams ievadi veicinošos un kavējošos faktorus.
 
 
 
-4) Kompetences -> Obligāti aizpildāmie lauki atzīmēti ar - brīvā formā
-nepieciešams ievadīt satura informāciju par katru no kompetencēm.
-Iepazīties ar katras kompetences pilnu aprakstuiespējams, ar peli
-uzejot uz atbilstošās kompetences nosaukumu:
+4) Kompetences -> Obligāti aizpildāmie lauki atzīmēti ar .. image::
+images_ozols/26384.png
+:scale: 100%
+- brīvā formā nepieciešams ievadīt satura informāciju par katru no
+kompetencēm. Iepazīties ar katras kompetences pilnu aprakstuiespējams,
+ar peli uzejot uz atbilstošās kompetences nosaukumu:
 
 
 
+.. image:: images_ozols/26385.png
+:scale: 100%
 
 
 
@@ -109,13 +127,19 @@ ierakstīt: Apmācību vajadzību, Attīstības darbību, kā arī Pamatojumu.
 
 
 
+.. image:: images_ozols/26386.png
+:scale: 100%
 
 
 
 
-Lai saglabātu pievienoto ierakstu nepieciešams nospiest pogu . Lai
-atkārtoti pievienotu jaunu - nākamo ierakstu, nepieciešams nospiest
-pogu: .
+Lai saglabātu pievienoto ierakstu nepieciešams nospiest pogu ..
+image:: images_ozols/26381.png
+:scale: 100%
+. Lai atkārtoti pievienotu jaunu - nākamo ierakstu, nepieciešams
+nospiest pogu: .. image:: images_ozols/26382.png
+:scale: 100%
+.
 
 
 
@@ -145,6 +169,8 @@ nepieciešams norādīt parakstīšanas datumu :
 
 
 
+.. image:: images_ozols/26387.png
+:scale: 100%
 
 
 
@@ -154,9 +180,14 @@ Nepieciešams pārliecināties vai visa informācija ir aizpildīta.
 
 
 
+.. image:: images_ozols/24545.gif
+:scale: 100%
 Tiklīdz anketa tiek apstiprināta, to vairsNAV iespējams labot. Ja
 nepieciešams aizpildīto anketu saglabāt, bet vēl neapstiprināt,
-nepieciešams izmantot anketas augšējā daļā pieejamo pogu:
+nepieciešams izmantot anketas augšējā daļā pieejamo pogu: .. image::
+images_ozols/26381.png
+:scale: 100%
+
 
 
 
@@ -165,6 +196,8 @@ pilnībā pabeigtu anketas aizpildīšanu, nepieciešams nospiest pogu:
 
 
 
+.. image:: images_ozols/26388.png
+:scale: 100%
 
 
 
@@ -178,7 +211,9 @@ informācija par to, ka darbinieks anketu ir aizpildījis.
 
 
 Lai izdrukātu aizpildīto anketu, nepieciešams izmantot anketas augšējā
-daļā pieejamo pogu:
+daļā pieejamo pogu: .. image:: images_ozols/26389.png
+:scale: 100%
+
 
 
 

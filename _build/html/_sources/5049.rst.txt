@@ -1,0 +1,11 @@
+.. 5049 Pārskata nosūtīšana*********************** 
+
+
+
+
+|images_ozols/26337.png|
+
+.. |images_ozols/26337.png| image:: images_ozols/26337.png
+:scale: 100%
+
+ 

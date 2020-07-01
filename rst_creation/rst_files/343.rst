@@ -13,11 +13,15 @@ Jaunaapmaksas atgādinājumapievienošana
 
 Lai pievienotu jaunuapmaksas atgādinājumadokumentu, atrodoties zem
 moduļa "Norēķini", sadaļas "Dokumenti", jāizvēlasApmaksas
-atgādinājumužurnāls un komanda vai arī jāizvēlas uzreiz dokuments
-"Apmaksas atgādinājums" un tiks atvērts jauns logs:
+atgādinājumužurnāls un komanda .. image:: images_ozols/24879.png
+:scale: 100%
+vai arī jāizvēlas uzreiz dokuments "Apmaksas atgādinājums" un tiks
+atvērts jauns logs:
 
 
 
+.. image:: images_ozols/26485.png
+:scale: 100%
 
 
 
@@ -40,14 +44,23 @@ tiek veidots;
 Pircējs: no saraksta nepieciešams izvēlēties debitoru, kuram apmaksas
 atgādinājums tiks sagatavots;
 
-Ja pircējs nav datu bāzē, izmantojot komandu atveras partneru saraksta
-logs un ir iespējams pievienot jaunu pircēju partneru sarakstā. Lai
-pievienotu jaunu :doc:`Partneri<312>` , jāizmanto komanda no rīku
-joslas un atveras jauna partnera ievades kartiņa.
+.. image:: images_ozols/24545.gif
+:scale: 100%
+Ja pircējs nav datu bāzē, izmantojot komandu .. image::
+images_ozols/24743.png
+:scale: 100%
+atveras partneru saraksta logs un ir iespējams pievienot jaunu pircēju
+partneru sarakstā. Lai pievienotu jaunu :doc:`Partneri<312>` ,
+jāizmanto komanda .. image:: images_ozols/24879.png
+:scale: 100%
+no rīku joslas un atveras jauna partnera ievades kartiņa.
 
 
 Pasta adrese: dati tiks aizpildīti automātiski pēc pircēja izvēles.
-Lai papildinātu esošo informāciju, iespējams izmantot pogu.
+Lai papildinātu esošo informāciju, iespējams izmantot .. image::
+images_ozols/24743.png
+:scale: 100%
+pogu.
 
 
 
@@ -59,6 +72,8 @@ pieejamo funkciju - Teksta sagataves:
 
 
 
+.. image:: images_ozols/26486.png
+:scale: 100%
 
 
 
@@ -69,6 +84,8 @@ atgādinājumā. Saglabājot šo informāciju, tā tiks automātiski ielādēta,
 sagatavojot jaunu apmaksas atgādinājumu.
 
 
+.. image:: images_ozols/26487.png
+:scale: 100%
 
 
 
@@ -82,6 +99,8 @@ izmantotdokumentā esošo komandu funkcija - aizpildīt.
 
 
 
+.. image:: images_ozols/26486.png
+:scale: 100%
 
 
 
@@ -94,13 +113,17 @@ noklusētais tas, kurš ir izvēlēts apmaksas atgādinājuma virsrakstā:
 
 
 
+.. image:: images_ozols/26488.png
+:scale: 100%
 
 
 
 
 
 Lai aizpildītu apmaksas atgādinājuma saturu no augstāk minētā filtra
-un jāizmanto komanda .
+un jāizmanto komanda .. image:: images_ozols/25619.png
+:scale: 100%
+.
 
 
 
@@ -111,8 +134,14 @@ Labojumus saglabātajāApmaksas atgādinājumāiespējams veikt atverot
 Apmaksas atgādinājumu, kurš vienlaicīgi pieejams
 apskatei/labošanaiapmaksas atgādinājumu žurnālā. Lai veiktu labojumus
 apmaksas atgādinājumā, šo dokumentu nepieciešams atvērt, izmantojot
-komandu no rīku joslas un atvērtajā ierakstā iespējams veikt
-nepieciešamos labojumus. Pēc labojumu veikšanas, veiktās izmaiņas
-iespējams vai .
+komandu .. image:: images_ozols/24709.png
+:scale: 100%
+no rīku joslas un atvērtajā ierakstā iespējams veikt nepieciešamos
+labojumus. Pēc labojumu veikšanas, veiktās izmaiņas iespējams ..
+image:: images_ozols/24867.png
+:scale: 100%
+vai .. image:: images_ozols/24617.jpg
+:scale: 100%
+.
 
  

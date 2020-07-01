@@ -4,6 +4,8 @@ veidoti datu saraksti, kur saglabājas pievienotie dati:
 
 
 
+.. image:: images_ozols/25835.png
+   :scale: 100%
 
 
 
@@ -12,12 +14,15 @@ Atverot pievienotos viena partnera datus (:doc:`adreses<4432>` ,
 :doc:`bankas kontus<4431>` , :doc:`kontaktpersonas<4428>` vai
 :doc:`partnera aprakstu<4427>` ), logā ir iespējams redzēt visas
 informatīvās sadaļas, kas saistīta ar izvēlēto partneri. Sadaļās,
-kurās ir poga , iespējams pievienot jaunus datus (:doc:`jaunu
-adresi<4439>` , :doc:`jaunu bankas kontu<4440>` , :doc:`jaunu
-kontaktpersonu<4438>` ):
+kurās ir poga .. image:: images_ozols/25850.png
+   :scale: 100%
+, iespējams pievienot jaunus datus (:doc:`jaunu adresi<4439>` ,
+:doc:`jaunu bankas kontu<4440>` , :doc:`jaunu kontaktpersonu<4438>` ):
 
 
 
+.. image:: images_ozols/25849.png
+   :scale: 100%
 
 
 

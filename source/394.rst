@@ -6,6 +6,8 @@ ar pircējiem un piegādātājiem.
 
 
 
+.. image:: images_ozols/25485.png
+:scale: 100%
 
 
 
@@ -19,14 +21,20 @@ Lapaspusē Dokuments ir jāaizpilda Līguma dokumenta pamat dati
 
 
 
+.. image:: images_ozols/26414.png
+:scale: 100%
 
 
 
 
+.. image:: images_ozols/26415.png
+:scale: 100%
 
 
 Līgums (līguma veids):
 
+.. image:: images_ozols/26416.png
+:scale: 100%
 
 
 
@@ -34,6 +42,8 @@ Līgums (līguma veids):
 Brokeru uzņēmumiem ir vēl viena papildus izvēlne pie Līguma - ar ko
 tiks slēgts sadarbībaslīgums:
 
+.. image:: images_ozols/26417.png
+:scale: 100%
 
 
 
@@ -52,6 +62,8 @@ Piedāvājumu, kur lauciņā atspoguļojas Piedāvājuma numurs
 
 
 
+.. image:: images_ozols/26121.png
+:scale: 100%
 
 
 

@@ -1,0 +1,2 @@
+.. 15 Kopīgie*********** 
+ .. toctree::   :maxdepth: 4    968.rst   967.rst   970.rst   969.rst   708.rst   836.rst   837.rst   715.rst   739.rst   701.rst   1052.rst   1051.rst   885.rst   704.rst   972.rst   971.rst   719.rst   833.rst   834.rst   913.rst   716.rst   729.rst   339.rst   139.rst   717.rst   736.rst   703.rst   707.rst   179.rst   379.rst   1043.rst

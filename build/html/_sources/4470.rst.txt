@@ -4,13 +4,19 @@ kampaņas<4469>` .
 
 
 
+.. image:: images_ozols/25833.png
+:scale: 100%
 
 
 
 
 Lai apsaktītu visus kampaņai pievienotos datus, jāuzklikšķina un
 kampaņas nosaukuma. Tiek atvērts kampaņas apraksts, kuru, ja
-nepieciešams, ir iespējams labot, nospiežot pogu , tad pēc labošanas
-nospiežot pogu .
+nepieciešams, ir iespējams labot, nospiežot pogu .. image::
+images_ozols/25832.png
+:scale: 100%
+, tad pēc labošanas nospiežot pogu .. image:: images_ozols/25829.png
+:scale: 100%
+.
 
  

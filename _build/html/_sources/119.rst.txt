@@ -1,0 +1,53 @@
+.. 119 ===========Valūtas=========== 
+Valūtu saraksts daļēji tiek importēts Ozols programmas ieviešanas
+procesā.
+
+Valūtu saraksts tiek izmantots :doc:`jauna Avansu dokumenta<747>` ,
+:doc:`jauna Finanšu<846>` , :doc:`jauna Norēķinu<848>` , :doc:`Cenu
+veidu<105>` , :doc:`Partneru<312>` , :doc:`Pamatlīdzekļu ienākšanas
+dokumentu<433>` un :doc:`Virsgrāmatas<146>` dokumentu izveidē.
+
+Lai apskatītu detalizētu Valūtas aprakstu, Rīku joslā jānospiež poga
+|images_ozols/25420.png| .
+
+Lai pievienotu jaunu Valūtu sarakstam, Rīku joslā jānospiež poga
+|images_ozols/25417.png| , tiek atvētrs logs, kur katrā tekstlodziņā
+jāieraksta informācija par valūtu (piem. skatīt attēlu):
+
+
+
+|images_ozols/25383.png|
+
+
+
+Valūta: Valūtas apzīmējums;
+
+Nosaukums: Valūtas pilns nosaukums;
+
+Vienības, Daļas: Iespējams norādīt Vienību un un Daļu precīzu
+locījumu;
+
+Atzīmējot izvēles rūtiņu |images_ozols/25428.png| : dokumentu izveidē
+šī Valūta nebūs pieejama;
+
+Pamatvalūta - Valsts pamatvalūta.
+
+Pēc tekstlodziņu aizpildīšanas, jānospiež poga
+|images_ozols/24615.jpg| .
+
+.. |images_ozols/25420.png| image:: images_ozols/25420.png
+        :scale: 100%
+
+.. |images_ozols/25417.png| image:: images_ozols/25417.png
+        :scale: 100%
+
+.. |images_ozols/25383.png| image:: images_ozols/25383.png
+        :scale: 100%
+
+.. |images_ozols/25428.png| image:: images_ozols/25428.png
+        :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+        :scale: 100%
+
+ 
