@@ -8,9 +8,7 @@ pirmdokumenta satura:
 
 
 
-.. image:: images_ozols/25128.png
-    :scale: 100%
-
+|images_ozols/25128.png|
 
 
 
@@ -36,5 +34,8 @@ norādīt konkrētu ierakstu, kurš tiks pievienots grāmatojumam. Ja ir
 pieejama izvēle Satura - tas nozīmē, kabudžets tiks ielikts
 grāmatojumā no datiem, kas ir pievienoti pirmdokumenta saturā.
 
+
+.. |images_ozols/25128.png| image:: images_ozols/25128.png
+       :scale: 100%
 
  

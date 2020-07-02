@@ -7,10 +7,9 @@ sarakstā<233>` .
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Pirms pamatlīdzekļu norakstīšanas jāpārliecinās vai visiem daļēji
-norakstāmajiem pamatlīdzekļiem ir aprēķināts nolietojums.
+|images_ozols/24545.gif| Pirms pamatlīdzekļu norakstīšanas
+jāpārliecinās vai visiem daļēji norakstāmajiem pamatlīdzekļiem ir
+aprēķināts nolietojums.
 
 
 
@@ -21,9 +20,7 @@ Pamatlīdzekļu norakstīšanas dokuments (daļēji) .
 
 
 
-.. image:: images_ozols/25163.png
-    :scale: 100%
-
+|images_ozols/25163.png|
 
 
 
@@ -56,20 +53,14 @@ komandpoga Atcelt.
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Lai izveidotā Pamatlīdzekļunorakstīšanas dokumenta (daļēji) dati
-stātos spēkā obligāti pēc saglabāšanas dokuments ir jāapstiprina ar
-funkciju .. image:: images_ozols/24715.gif
-    :scale: 100%
-.
+|images_ozols/24545.gif| Lai izveidotā Pamatlīdzekļunorakstīšanas
+dokumenta (daļēji) dati stātos spēkā obligāti pēc saglabāšanas
+dokuments ir jāapstiprina ar funkciju |images_ozols/24715.JPG| .
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Pēc dokumenta apstiprināšanas Pamatlīdzekļu norakstīšanasdokuments
-(daļēji) ir :doc:`jānogrāmato<14044>` .
+|images_ozols/24545.gif| Pēc dokumenta apstiprināšanas Pamatlīdzekļu
+norakstīšanasdokuments (daļēji) ir :doc:`jānogrāmato<14044>` .
 
 
 
@@ -84,26 +75,18 @@ dokumentam (daļēji)
 Pēc dokumenta datu aizpildīšanas ir jāaizpilda dati par daļēji
 norakstāmajiem pamatlīdzekļiem. Dokumentam jaunu daļēji norakstāmo
 pamatlīdzekli pievieno atvērtā Pamatlīdzekļunorakstīšanas dokumenta
-(daļēji)formā ar funkciju .. image:: images_ozols/24708.png
-    :scale: 100%
-.
+(daļēji)formā ar funkciju |images_ozols/24708.png| .
 
 Datus par daļēji norakstāmo pamatlīdzekli iespējams labot atvērtā
-Pamatlīdzekļunorakstīšanas dokumenta (daļēji)formā ar funkciju ..
-image:: images_ozols/24709.png
-    :scale: 100%
-.
+Pamatlīdzekļunorakstīšanas dokumenta (daļēji)formā ar funkciju
+|images_ozols/24709.png| .
 
 Pamatlīdzekli dzēš atvērtā Pamatlīdzekļunorakstīšanas dokumenta
-(daļēji)formā ar funkciju .. image:: images_ozols/24719.gif
-    :scale: 100%
-.
+(daļēji)formā ar funkciju |images_ozols/24719.JPG| .
 
 
 
-.. image:: images_ozols/25164.png
-    :scale: 100%
-
+|images_ozols/25164.png|
 
 
 
@@ -140,5 +123,32 @@ norakstāmo pamatlīdzekli.
 
 Atcelt - jāspiež šī poga, ja lietotājs nevēlas saglabāt aizpildītos
 datus par pamatlīdzekli.
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/25163.png| image:: images_ozols/25163.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24715.JPG| image:: images_ozols/24715.JPG
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+       :scale: 100%
+
+.. |images_ozols/24719.JPG| image:: images_ozols/24719.JPG
+       :scale: 100%
+
+.. |images_ozols/25164.png| image:: images_ozols/25164.png
+       :scale: 100%
 
  

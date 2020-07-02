@@ -1,9 +1,7 @@
 .. 6911 Tvertnes************ 
 Tvertņu sarakstā redzamas visas Klientu tvertnes:
 
-.. image:: images_ozols/25577.png
-    :scale: 100%
-
+|images_ozols/25577.png|
 
 
 
@@ -12,5 +10,8 @@ tvertnes.
 
 Lai pievienotu jaunu Tvertni sarakstam, jāiet uz Degvielas pasūtījumu
 sadaļu :doc:`Jauns<6909>` un jāizvēlas :doc:`Tvertne<6909>` .
+
+.. |images_ozols/25577.png| image:: images_ozols/25577.png
+       :scale: 100%
 
  

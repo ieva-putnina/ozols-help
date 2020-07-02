@@ -1,4 +1,9 @@
-.. 28 =================Konfigurācija================= 
+.. 28
+ 
+=================
+Konfigurācija
+=================
+ 
 
 
 
@@ -34,6 +39,22 @@ iestādījumus.
 
 
 
-:doc:`<733>`
 
- .. toctree::   :maxdepth: 5    622.rst   211.rst   281.rst   213.rst   282.rst   279.rst   222.rst   733.rst   214.rst   732.rst   283.rst   277.rst   614.rst   223.rst
+ 
+.. toctree::
+   :maxdepth: 5
+ 
+   622.rst
+   211.rst
+   281.rst
+   213.rst
+   282.rst
+   279.rst
+   222.rst
+   733.rst
+   214.rst
+   732.rst
+   283.rst
+   277.rst
+   614.rst
+   223.rst

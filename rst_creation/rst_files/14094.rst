@@ -1,7 +1,7 @@
 .. 14094 Novērotās problēmas programmas atjaunošanas laikā***************************************************** 
 
 
-1.:doc:`Darba izpildes loga<735>` JOB izpildes aprakstākolonnā
+1. :doc:`Darba izpildes loga<735>` JOB izpildes aprakstākolonnā
 Rezultāts rāda , ka JOB solis izpildās, bet paziņojums ir ilgu laika
 sprīdi . Parasti viss programmas atjaunošanas un datu bāzes
 modifikācijas cikls izpildās 10 – 15 minūtes, maksimāli 30 minūtes,
@@ -13,7 +13,7 @@ bāze ir uz lokāla datora) ir atļauta skriptu izpilde. Skriptu izpildi
 var aizliegt Antivīrusu programmas.
 
 
-2.:doc:`Darba izpildes logā<735>` parādās informācija, ka JOB
+2. :doc:`Darba izpildes logā<735>` parādās informācija, ka JOB
 neizpildās, pēdējā izpildes solī kļūda:
 
 

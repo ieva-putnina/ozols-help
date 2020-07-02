@@ -1,9 +1,8 @@
 .. 993 Pieteikums tiesai********************* 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Dokumenta veids - Pieteikums tiesai - ir specifisks darba režīms, kas
-pieejams izmantojot Ozols papildus funkcionalitāti.
+|images_ozols/24545.gif| Dokumenta veids - Pieteikums tiesai - ir
+specifisks darba režīms, kas pieejams izmantojot Ozols papildus
+funkcionalitāti.
 
 
 
@@ -13,16 +12,13 @@ sagatavošanas process, kur dati dokumentā tiek aizpildīti no atskaites
 - :doc:`Neapmaksātie pārdošanas dokumenti<540>` .
 
 Lai pievienotu jaunu dokumentu, atrodoties dokumentu žurnālā, rīku
-joslā jānospiež poga: .. image:: images_ozols/24879.png
-    :scale: 100%
-un tiks atvērts jauns dokuments:
+joslā jānospiež poga: |images_ozols/24879.png| un tiks atvērts jauns
+dokuments:
 
 
 
 
-.. image:: images_ozols/26507.png
-    :scale: 100%
-
+|images_ozols/26507.png|
 
 
 
@@ -43,9 +39,7 @@ Aizpildīt:
 
 
 
-.. image:: images_ozols/26508.png
-    :scale: 100%
-
+|images_ozols/26508.png|
 
 
 
@@ -58,13 +52,27 @@ noklusētais tas, kurš ir izvēlēts apmaksas atgādinājuma virsrakstā:
 
 
 
-.. image:: images_ozols/26488.png
-    :scale: 100%
-
+|images_ozols/26488.png|
 
 Lai aizpildītu dokumenta saturu no augstāk minētā filtra un jāizmanto
-komanda .. image:: images_ozols/25619.png
-    :scale: 100%
-.
+komanda |images_ozols/25619.png| .
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24879.png| image:: images_ozols/24879.png
+       :scale: 100%
+
+.. |images_ozols/26507.png| image:: images_ozols/26507.png
+       :scale: 100%
+
+.. |images_ozols/26508.png| image:: images_ozols/26508.png
+       :scale: 100%
+
+.. |images_ozols/26488.png| image:: images_ozols/26488.png
+       :scale: 100%
+
+.. |images_ozols/25619.png| image:: images_ozols/25619.png
+       :scale: 100%
 
  

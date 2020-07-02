@@ -1,29 +1,34 @@
 .. 124 =======================Mērvienību saraksts======================= 
 Lai Mērvienību sarakstam pievienotu jaunu mērvienību, Rīku joslā
-jānospiež poga .. image:: images_ozols/25605.png
-    :scale: 100%
-, tiek atvērts logs, kur tekstlodziņā jāieraksta mērvienības nosaukums
-(saīsinājums, apzīmējums):
+jānospiež poga |images_ozols/25605.png| , tiek atvērts logs, kur
+tekstlodziņā jāieraksta mērvienības nosaukums (saīsinājums,
+apzīmējums):
 
 
 
-.. image:: images_ozols/26065.png
-    :scale: 100%
+|images_ozols/26065.png|
 
 
 
-
-Pēc Nosaukuma aizpildīšanas,ierakstu iespējams .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-vai .. image:: images_ozols/24617.jpg
-    :scale: 100%
-.
+Pēc Nosaukuma aizpildīšanas,ierakstu iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
 
 
 
 Mērvienību saraksts tiek lietots :doc:`Pamatlīdzekļu ienākšanas
 dokumentu<433>` , :doc:`Iepirkumu dokumentu<310>` un :doc:`Pārdošanas
 dokumentu izveidošanā<304>` .
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+       :scale: 100%
+
+.. |images_ozols/26065.png| image:: images_ozols/26065.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+       :scale: 100%
 
  

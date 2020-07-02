@@ -32,44 +32,53 @@ piesaistītās korespondences nosaukuma.
 
 
 
-.. image:: images_ozols/24950.png
-    :scale: 100%
-No atskaites Lietas kredītu reģistram, iespējams:
+|images_ozols/24950.png| No atskaites Lietas kredītu reģistram,
+iespējams:
 
 
 
-.. image:: images_ozols/26321.png
-    :scale: 100%
+|images_ozols/26321.png|
 
 
 
-
-1. Izmantojot rīku joslas pogu:.. image:: images_ozols/26314.png
-    :scale: 100%
-, nospiežot taustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams
+1. Izmantojot rīku joslas pogu: |images_ozols/26314.png| , nospiežot
+taustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams
 automatizēti visas iezīmētās lietas nodot kredītu reģistram. Pēc šīs
 funkcijas izpildes, tiks sagatavota korespondence, kurā nepieciešams
 norādīt atbilstošo stadiju:
 
 
 
-.. image:: images_ozols/26322.png
-    :scale: 100%
+|images_ozols/26322.png|
 
 
 
-
-2. Izmantojot rīku joslas pogu:.. image:: images_ozols/26314.png
-    :scale: 100%
-, nospiežot taustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams
+2. Izmantojot rīku joslas pogu: |images_ozols/26314.png| , nospiežot
+taustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams
 automatizēti visas iezīmētās lietas izņemt no kredītu reģistra. Pēc
 šīs funkcijas izpildes, tiks sagatavota korespondence, kurā
 nepieciešams norādīt atbilstošo stadiju:
 
 
 
-.. image:: images_ozols/26323.png
-    :scale: 100%
+|images_ozols/26323.png|
 
+.. |images_ozols/24950.png| image:: images_ozols/24950.png
+       :scale: 100%
+
+.. |images_ozols/26321.png| image:: images_ozols/26321.png
+       :scale: 100%
+
+.. |images_ozols/26314.png| image:: images_ozols/26314.png
+       :scale: 100%
+
+.. |images_ozols/26322.png| image:: images_ozols/26322.png
+       :scale: 100%
+
+.. |images_ozols/26314.png| image:: images_ozols/26314.png
+       :scale: 100%
+
+.. |images_ozols/26323.png| image:: images_ozols/26323.png
+       :scale: 100%
 
  

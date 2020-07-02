@@ -27,9 +27,7 @@ aprēķinātā informācija tiks uzrādīta algu atskaitēs, norādītajā rind�
 
 
 
-.. image:: images_ozols/26262.png
-    :scale: 100%
-
+|images_ozols/26262.png|
 
 
 
@@ -47,8 +45,7 @@ nepieciešami :doc:`Paziņojuma<285>` sagatavošanai:
 
 
 
-.. image:: images_ozols/26263.png
-    :scale: 100%
+|images_ozols/26263.png|
 
 
 
@@ -60,5 +57,10 @@ nepieciešami :doc:`Paziņojuma<285>` sagatavošanai:
 
 
 
+.. |images_ozols/26262.png| image:: images_ozols/26262.png
+       :scale: 100%
+
+.. |images_ozols/26263.png| image:: images_ozols/26263.png
+       :scale: 100%
 
  

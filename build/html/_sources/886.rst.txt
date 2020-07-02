@@ -11,16 +11,12 @@ izmantot kā datu atlases kritēriju.
 Jaunas Kampaņas veidapievienošana:
 ++++++++++++++++++++++++++++++++++
 
-Lai pievienotu jaunuKampaņas veidu,rīku joslā jānospiež poga.. image::
-images_ozols/24708.png
-    :scale: 100%
-un tiks atvērts jauns logs:
+Lai pievienotu jaunuKampaņas veidu,rīku joslā jānospiež poga
+|images_ozols/24708.png| un tiks atvērts jauns logs:
 
 
 
-.. image:: images_ozols/25934.png
-    :scale: 100%
-
+|images_ozols/25934.png|
 
 
 
@@ -37,10 +33,7 @@ Mērķa auditorija: Uzņēmuma veidotās kampaņas mērķauditorija
 
 
 
-Ieraksts tiks saglabāts, izpildot komandu .. image::
-images_ozols/24710.png
-    :scale: 100%
-.
+Ieraksts tiks saglabāts, izpildot komandu |images_ozols/24710.png| .
 
 
 
@@ -48,15 +41,28 @@ Pievienotā Kampaņas veidalabošana:
 ++++++++++++++++++++++++++++++++++
 
 Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
-atvērt, izmantojot rīku joslas pogu.. image:: images_ozols/24709.png
-    :scale: 100%
-(ALT+A), unatvērtajā logā veikt nepieciešamos labojumus.
+atvērt, izmantojot rīku joslas pogu |images_ozols/24709.png| (ALT+A),
+unatvērtajā logā veikt nepieciešamos labojumus.
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-vai .. image:: images_ozols/24617.jpg
-    :scale: 100%
-.
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/25934.png| image:: images_ozols/25934.png
+       :scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+       :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+       :scale: 100%
 
  

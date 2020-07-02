@@ -7,13 +7,14 @@ dimensijām un analītiku - partneriem:
 
 
 
-.. image:: images_ozols/25094.png
-    :scale: 100%
-
+|images_ozols/25094.png|
 
 
 
 Kontu atlikumu kopsavilkuma saraksts ir informatīvs, atlikumi ir
 jāpievieno no saraksta :doc:`Kontu atlikumi<146>` .
+
+.. |images_ozols/25094.png| image:: images_ozols/25094.png
+       :scale: 100%
 
  

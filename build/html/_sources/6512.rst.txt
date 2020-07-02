@@ -6,9 +6,7 @@ vienlaicīgi būtu iespējams izsniegtu vairākas Polises:
 
 
 
-.. image:: images_ozols/25441.png
-    :scale: 100%
-
+|images_ozols/25441.png|
 
 
 
@@ -16,9 +14,7 @@ vienlaicīgi būtu iespējams izsniegtu vairākas Polises:
 
 
 
-.. image:: images_ozols/25442.png
-    :scale: 100%
-
+|images_ozols/25442.png|
 
 
 
@@ -27,9 +23,7 @@ izsniegt:
 
 
 
-.. image:: images_ozols/25443.png
-    :scale: 100%
-
+|images_ozols/25443.png|
 
 
 
@@ -37,9 +31,7 @@ izsniegt:
 
 
 
-.. image:: images_ozols/25444.png
-    :scale: 100%
-
+|images_ozols/25444.png|
 
 
 
@@ -47,9 +39,7 @@ izsniegt:
 
 
 
-.. image:: images_ozols/25445.png
-    :scale: 100%
-
+|images_ozols/25445.png|
 
 
 
@@ -58,9 +48,7 @@ Brokerim:
 
 
 
-.. image:: images_ozols/25446.png
-    :scale: 100%
-
+|images_ozols/25446.png|
 
 
 
@@ -69,20 +57,42 @@ jau kāda citaBrokera īpašumā esošās Polises, jāatzīmē izvēles rūtiņa
 
 
 
-.. image:: images_ozols/25447.png
-    :scale: 100%
+|images_ozols/25447.png|
 
 
 
-
-7. Nospiežot pogu .. image:: images_ozols/25448.png
-    :scale: 100%
-, tiks izsniegtas informatīvajā laukā attēlotais Polišu skaits:
+7. Nospiežot pogu |images_ozols/25448.png| , tiks izsniegtas
+informatīvajā laukā attēlotais Polišu skaits:
 
 
 
-.. image:: images_ozols/25449.png
-    :scale: 100%
+|images_ozols/25449.png|
 
+.. |images_ozols/25441.png| image:: images_ozols/25441.png
+       :scale: 100%
+
+.. |images_ozols/25442.png| image:: images_ozols/25442.png
+       :scale: 100%
+
+.. |images_ozols/25443.png| image:: images_ozols/25443.png
+       :scale: 100%
+
+.. |images_ozols/25444.png| image:: images_ozols/25444.png
+       :scale: 100%
+
+.. |images_ozols/25445.png| image:: images_ozols/25445.png
+       :scale: 100%
+
+.. |images_ozols/25446.png| image:: images_ozols/25446.png
+       :scale: 100%
+
+.. |images_ozols/25447.png| image:: images_ozols/25447.png
+       :scale: 100%
+
+.. |images_ozols/25448.png| image:: images_ozols/25448.png
+       :scale: 100%
+
+.. |images_ozols/25449.png| image:: images_ozols/25449.png
+       :scale: 100%
 
  

@@ -14,12 +14,11 @@ komisijas dokuments tiek saglabāts žurnālā :doc:`Bankas izdevumi<224>`
 Jauna Bankas komisijas dokumenta pievienošana
 `````````````````````````````````````````````
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Bankas komisijas dokuments jāveido, kad banka ietur komisijas maksu
-par pārskaitījumiem un citiem pakalpojumiem. Atšķirībā no maksājuma
-uzdevuma, bankas komisijas dokumentā ir jāpievieno mazāk informācijas
-un kā partneris tiek parādīts bankas konts.
+|images_ozols/24545.gif| Bankas komisijas dokuments jāveido, kad banka
+ietur komisijas maksu par pārskaitījumiem un citiem pakalpojumiem.
+Atšķirībā no maksājuma uzdevuma, bankas komisijas dokumentā ir
+jāpievieno mazāk informācijas un kā partneris tiek parādīts bankas
+konts.
 
 
 
@@ -27,9 +26,7 @@ Izvēloties dokumenta veidu Bankaskomisija tiks atvērts jauns logs:
 
 
 
-.. image:: images_ozols/24990.png
-    :scale: 100%
-
+|images_ozols/24990.png|
 
 
 
@@ -47,9 +44,7 @@ izpildīts:
 
 
 
-.. image:: images_ozols/24724.png
-    :scale: 100%
-
+|images_ozols/24724.png|
 
 
 
@@ -58,9 +53,7 @@ veidots:
 
 
 
-.. image:: images_ozols/24725.png
-    :scale: 100%
-
+|images_ozols/24725.png|
 
 
 
@@ -69,9 +62,7 @@ kopējo Dokumenta summu:
 
 
 
-.. image:: images_ozols/24759.png
-    :scale: 100%
-
+|images_ozols/24759.png|
 
 
 
@@ -81,28 +72,20 @@ Bankas komisijas dokumenta Satura aizpildīšana
 ++++++++++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu Bankas komisijas dokumenta Saturu, dokumenta satura
-daļā nepieciešams nospiest .. image:: images_ozols/24708.png
-    :scale: 100%
-un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
-satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
-ieraksta summu:
+daļā nepieciešams nospiest |images_ozols/24708.png| un tiks atvērts
+operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus
+(uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:
 
 
 
-.. image:: images_ozols/24763.png
-    :scale: 100%
+|images_ozols/24763.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
-kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
-satura ierakstu iespējams, satura daļā nospiežot pogu .. image::
-images_ozols/24708.png
-    :scale: 100%
-.
+|images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiem
+satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
+summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
+nospiežot pogu |images_ozols/24708.png| .
 
 
 
@@ -120,9 +103,7 @@ izvēloties no :doc:`Bankas paskaidrojumu saraksta<147>` :
 
 
 
-.. image:: images_ozols/24764.png
-    :scale: 100%
-
+|images_ozols/24764.png|
 
 
 
@@ -131,16 +112,12 @@ izvēloties no :doc:`Bankas paskaidrojumu saraksta<147>` :
 Kad visi nepieciešamie lauki ir aizpildīti, Bankaskomisijas
 dokumentsir sagatavots un to ir iespējams:
 
-1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
-    :scale: 100%
--dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai :doc:` Bankas izdevumu žurnālā <224>`
-.
+1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
+saglabāts un būs pieejams apskatei/labošanai/grāmatošanai :doc:`
+Bankas izdevumu žurnālā <224>` .
 
-2. Apstiprināt, nospiežot rīku joslā pogu .. image::
-images_ozols/24740.png
-    :scale: 100%
-- Bankaskomisijas dokuments tiks Apstiprināts un to būs iespējams
+2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| -
+Bankaskomisijas dokuments tiks Apstiprināts un to būs iespējams
 Grāmatot.
 
 
@@ -153,15 +130,10 @@ Bankaskomisijas dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`
 Bankas izdevumu žurnālā <224>` .
 
 Lai iegrāmatotu Bankas komisijas dokumentu, dokumentu nepieciešams
-Apstiprināt, nospiežot rīku joslā pogu .. image::
-images_ozols/24740.png
-    :scale: 100%
-.
+Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| .
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu .. image:: images_ozols/24741.png
-    :scale: 100%
-.
+pogu |images_ozols/24741.png| .
 
 
 
@@ -173,25 +145,72 @@ Pievienotā Bankaskomisijas dokumentalabošana
 ````````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Bankas
-komisijas dokumentu, kurš pieejams apskatei/labošanai:doc:` Bankas
+komisijas dokumentu, kurš pieejams apskatei/labošanai :doc:` Bankas
 izdevumu žurnālā <224>` . Lai veiktu labojumusBankas komisijas
-dokumentā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu..
-image:: images_ozols/24709.png
-    :scale: 100%
-(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+dokumentā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
+|images_ozols/24709.png| (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus:
 
 
 
-.. image:: images_ozols/24765.png
-    :scale: 100%
+|images_ozols/24765.png|
 
 
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-vai .. image:: images_ozols/24617.jpg
-    :scale: 100%
-.
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24990.png| image:: images_ozols/24990.png
+       :scale: 100%
+
+.. |images_ozols/24724.png| image:: images_ozols/24724.png
+       :scale: 100%
+
+.. |images_ozols/24725.png| image:: images_ozols/24725.png
+       :scale: 100%
+
+.. |images_ozols/24759.png| image:: images_ozols/24759.png
+       :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/24763.png| image:: images_ozols/24763.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/24764.png| image:: images_ozols/24764.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+       :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+       :scale: 100%
+
+.. |images_ozols/24741.png| image:: images_ozols/24741.png
+       :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+       :scale: 100%
+
+.. |images_ozols/24765.png| image:: images_ozols/24765.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+       :scale: 100%
 
  

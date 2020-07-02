@@ -7,9 +7,7 @@ noklusēto vērtību:
 
 
 
-.. image:: images_ozols/25127.png
-    :scale: 100%
-
+|images_ozols/25127.png|
 
 
 
@@ -31,5 +29,8 @@ Kods – Izvēloties konkrētu finanšu kategoriju (EK kodu) no kategoriju
 (kodu) saraksta - grāmatojumā tiks ielikts fiksēta, nemainīga
 kategorija.
 
+
+.. |images_ozols/25127.png| image:: images_ozols/25127.png
+       :scale: 100%
 
  

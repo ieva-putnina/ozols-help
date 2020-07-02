@@ -6,9 +6,7 @@ adresēm:
 
 
 
-.. image:: images_ozols/25712.png
-    :scale: 100%
-
+|images_ozols/25712.png|
 
 
 
@@ -18,27 +16,36 @@ adresi, kas būs partnera noklusētā adrese:
 
 
 
-.. image:: images_ozols/25715.png
-    :scale: 100%
+|images_ozols/25715.png|
 
 
 
-
-Atverot esoša partnera adresi, rīku joslā ar pogu .. image::
-images_ozols/25603.png
-    :scale: 100%
-, ir iespējams to labot vai papildināt, aktivizēt kā galveno adresi,
-ieķeksējot .. image:: images_ozols/25717.png
-    :scale: 100%
-, pievienot darba laiku, un saglabāt izmaiņas, nospiežot pogu ..
-image:: images_ozols/25621.png
-    :scale: 100%
-.
+Atverot esoša partnera adresi, rīku joslā ar pogu
+|images_ozols/25603.png| , ir iespējams to labot vai papildināt,
+aktivizēt kā galveno adresi, ieķeksējot |images_ozols/25717.png| ,
+pievienot darba laiku, un saglabāt izmaiņas, nospiežot pogu
+|images_ozols/25621.png| .
 
 
 
-.. image:: images_ozols/25719.png
-    :scale: 100%
+|images_ozols/25719.png|
 
+.. |images_ozols/25712.png| image:: images_ozols/25712.png
+       :scale: 100%
+
+.. |images_ozols/25715.png| image:: images_ozols/25715.png
+       :scale: 100%
+
+.. |images_ozols/25603.png| image:: images_ozols/25603.png
+       :scale: 100%
+
+.. |images_ozols/25717.png| image:: images_ozols/25717.png
+       :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+       :scale: 100%
+
+.. |images_ozols/25719.png| image:: images_ozols/25719.png
+       :scale: 100%
 
  

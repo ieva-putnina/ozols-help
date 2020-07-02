@@ -13,16 +13,12 @@ kuras tiks piesaistītas konkrētajai Noliktavai.
 JaunasNoliktavas pievienošana:
 ``````````````````````````````
 
-Lai pievienotu jaunu Noliktavu, rīku joslājānospiež poga.. image::
-images_ozols/24708.png
-    :scale: 100%
-un tiks atvērts jauns logs:
+Lai pievienotu jaunu Noliktavu, rīku joslājānospiež poga
+|images_ozols/24708.png| un tiks atvērts jauns logs:
 
 
 
-.. image:: images_ozols/25032.png
-    :scale: 100%
-
+|images_ozols/25032.png|
 
 
 
@@ -36,25 +32,19 @@ Noliktavai ir iespējams piesaistīt konkrētu
 
 
 
-.. image:: images_ozols/25033.png
-    :scale: 100%
+|images_ozols/25033.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Konfigurācijas iestādījumos >Konfigurācija > Iestādījumi > Kopīgie >
-:doc:`Noliktava<716>` – iespējams atzīmēt izvēles rūtiņu "Iepirkumu un
-pārdošanas dokumentos noklusēto struktūrvienību ņemt no noliktavas",
-lai iepirkumu un pārdošanas dokumentos noklusētā struktūrvienība tiktu
-ņemta no noliktavas.
+|images_ozols/24545.gif| Konfigurācijas iestādījumos >Konfigurācija >
+Iestādījumi > Kopīgie > :doc:`Noliktava<716>` – iespējams atzīmēt
+izvēles rūtiņu "Iepirkumu un pārdošanas dokumentos noklusēto
+struktūrvienību ņemt no noliktavas", lai iepirkumu un pārdošanas
+dokumentos noklusētā struktūrvienība tiktu ņemta no noliktavas.
 
 
 
-.. image:: images_ozols/25034.png
-    :scale: 100%
-
+|images_ozols/25034.png|
 
 
 
@@ -72,9 +62,7 @@ grupas, atzīmējot nepieciešamās grupas:
 
 
 
-.. image:: images_ozols/25035.png
-    :scale: 100%
-
+|images_ozols/25035.png|
 
 
 
@@ -82,15 +70,36 @@ PievienotāsNoliktavas apraksta labošana:
 ````````````````````````````````````````
 
 Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
-atvērt, izmantojot rīku joslas pogu.. image:: images_ozols/24709.png
-    :scale: 100%
-(ALT+A).
+atvērt, izmantojot rīku joslas pogu |images_ozols/24709.png| (ALT+A).
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-vai .. image:: images_ozols/24617.jpg
-    :scale: 100%
-.
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/25032.png| image:: images_ozols/25032.png
+       :scale: 100%
+
+.. |images_ozols/25033.png| image:: images_ozols/25033.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/25034.png| image:: images_ozols/25034.png
+       :scale: 100%
+
+.. |images_ozols/25035.png| image:: images_ozols/25035.png
+       :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+       :scale: 100%
 
  

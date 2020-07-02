@@ -1,7 +1,7 @@
 .. 20 =============Dokumenti============= 
 
 
-Izmantojot Avansu dokumentus, iespējams noformēt:doc:`Avansa
+Izmantojot Avansu dokumentus, iespējams noformēt :doc:`Avansa
 norēķinus<748>` un Avansu norēķiniem piesaistīt naudas attaisnojošos -
 :doc:`Avansa izdevumu dokumentus<747>` .
 

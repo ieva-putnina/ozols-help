@@ -8,20 +8,23 @@ Lai labotu saraksta ierakstuir:
 1) jāatversaraksta ieraksts nosarakstu žurnāla.
 
 Lai atvērtu saraksta ierakstu, tas ir jāiezīmē ar kursoru un
-jāizmantokomandu CtrL+A , komandu.. image:: images_ozols/24720.gif
-    :scale: 100%
-no rīku joslas, nospiežot peles labo pogu un izvēloties komandu
-"Atvērt" vai komandu "Atvērt" no izvēlnes Dati
+jāizmantokomandu CtrL+A , komandu |images_ozols/24720.JPG| no rīku
+joslas, nospiežot peles labo pogu un izvēloties komandu "Atvērt" vai
+komandu "Atvērt" no izvēlnes Dati
 
 
 
 2) jālabo saraksta ieraksts
 
 3) lai saglabātu veiktās izmaiņas saraksta ierakstā, jāizmanto komandu
-.. image:: images_ozols/24615.jpg
-    :scale: 100%
+|images_ozols/24615.jpg|
 
 
 
+.. |images_ozols/24720.JPG| image:: images_ozols/24720.JPG
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
 
  

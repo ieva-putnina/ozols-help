@@ -12,9 +12,7 @@ Izvēloties darba režīmu Polise, tiks atvērts šāds logs:
 
 
 
-.. image:: images_ozols/25467.png
-    :scale: 100%
-
+|images_ozols/25467.png|
 
 
 
@@ -30,9 +28,7 @@ lapā:
 
 
 
-.. image:: images_ozols/25501.png
-    :scale: 100%
-
+|images_ozols/25501.png|
 
 
 
@@ -56,9 +52,7 @@ norādīt polises pārtraukšanas datumu:
 
 
 
-.. image:: images_ozols/25917.png
-    :scale: 100%
-
+|images_ozols/25917.png|
 
 
 
@@ -72,9 +66,7 @@ Pie klienta informācijas nepieciešams norādīt:
 
 
 
-.. image:: images_ozols/25918.png
-    :scale: 100%
-
+|images_ozols/25918.png|
 
 
 
@@ -89,21 +81,17 @@ Polises aprakstā nepieciešams norādīt polises līguma valūtu:
 
 
 
-.. image:: images_ozols/25920.png
-    :scale: 100%
-
+|images_ozols/25920.png|
 
 
 
 Valūtas kurss tiek automātiski atjaunots katru dienu no Latvijas
 Bankas kursu saraksta.
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Lauki Apdrošināšanas summa un Faktiskā vērtība ir informatīvi lauki,
-kuros var norādīt Apdrošināšanas summu un Faktisko vērtību. Ja polisē
-šīs summas ir rakstītas, tad var rakstīt, ja nav var laukus atstāt
-tukšus.
+|images_ozols/24545.gif| Lauki Apdrošināšanas summa un Faktiskā
+vērtība ir informatīvi lauki, kuros var norādīt Apdrošināšanas summu
+un Faktisko vērtību. Ja polisē šīs summas ir rakstītas, tad var
+rakstīt, ja nav var laukus atstāt tukšus.
 
 
 
@@ -116,9 +104,7 @@ aprēķināta automātiski:
 
 
 
-.. image:: images_ozols/25920.png
-    :scale: 100%
-
+|images_ozols/25920.png|
 
 
 
@@ -133,9 +119,7 @@ pievienoti līgumu ar % sadalījumiem Brokeriem.
 
 
 
-.. image:: images_ozols/25922.png
-    :scale: 100%
-
+|images_ozols/25922.png|
 
 
 
@@ -153,9 +137,7 @@ Līgumā nodefinētos %-tus:
 
 
 
-.. image:: images_ozols/26372.png
-    :scale: 100%
-
+|images_ozols/26372.png|
 
 
 
@@ -163,27 +145,20 @@ Savukārt, ja nav līgumā nodefinēti procenti vai ir nepieciešams mainīt
 % sadalījumu, tad jānospiež podziņa M (manuāli) un manuāli
 jāieraksta/jālabo procentu sadalījums:
 
-.. image:: images_ozols/26373.png
-    :scale: 100%
+|images_ozols/26373.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Lai manuāli (M) mainītie/pievienotie % tiktu saglabāti komisijas
-aprēķina brīdī (palaižot :doc:`komisijas aprēķina Rīku<6517>` ), M
-podziņai jābūt aktīvai/iespiestai:.. image:: images_ozols/26373.png
-    :scale: 100%
-
+|images_ozols/24545.gif| Lai manuāli (M) mainītie/pievienotie % tiktu
+saglabāti komisijas aprēķina brīdī (palaižot :doc:`komisijas aprēķina
+Rīku<6517>` ), M podziņai jābūt aktīvai/iespiestai:
+|images_ozols/26373.png|
 
 
 
 
 
-.. image:: images_ozols/25923.png
-    :scale: 100%
-
+|images_ozols/25923.png|
 
 
 
@@ -196,16 +171,13 @@ saņemta nauda no klienta (rēķins saistīts ar Finanšu dokumentu).
 Tiklīdz būs nodzēsts klienta parāds, tā aprēķināsies komisija. Ja
 parāds nodzēsts nebūs, tad arī komisija netiks aprēķināta.
 
-Nospiežot pogu .. image:: images_ozols/26004.png
-    :scale: 100%
-, iespējams pievienot papildus informāciju, pēc kuras būs iespējams
-sagatavot arī :doc:`polišu atskaiti<6513>` :
+Nospiežot pogu |images_ozols/26004.png| , iespējams pievienot papildus
+informāciju, pēc kuras būs iespējams sagatavot arī :doc:`polišu
+atskaiti<6513>` :
 
 
 
-.. image:: images_ozols/26030.png
-    :scale: 100%
-
+|images_ozols/26030.png|
 
 
 
@@ -227,9 +199,7 @@ fotogrāfijas, Worda dokumentus, Exel dokumentus, utt.
 
 
 
-.. image:: images_ozols/25486.png
-    :scale: 100%
-
+|images_ozols/25486.png|
 
 
 
@@ -242,9 +212,7 @@ maiņa, utt.:
 
 
 
-.. image:: images_ozols/25924.png
-    :scale: 100%
-
+|images_ozols/25924.png|
 
 
 
@@ -259,9 +227,8 @@ Polise : Informācija par esošo Polisi;
 
 Pielikums : Iespējams norādīt saiti uz nākamo polisi (jauno polisi);
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Visi iepriekšējie pielikumi pāries uz jauno polises līgumu.
+|images_ozols/24545.gif| Visi iepriekšējie pielikumi pāries uz jauno
+polises līgumu.
 
 Sagatve: Iespējams izvēlēties sagatavotos polišu pielikumu dokumentus.
 Nospiežot uz MsWord sagatavi dokumentu iespējams izdrukāt;
@@ -274,9 +241,7 @@ ievadīt nepieciešamās piezīmes.
 6. Maksājumu plāns
 ++++++++++++++++++
 
-.. image:: images_ozols/26012.png
-    :scale: 100%
-
+|images_ozols/26012.png|
 
 
 
@@ -285,9 +250,7 @@ veids<157>` :
 
 
 
-.. image:: images_ozols/25960.png
-    :scale: 100%
-
+|images_ozols/25960.png|
 
 
 
@@ -302,4 +265,64 @@ un uzskaitei.
 Polišu faktūrrēķins : rēķins, kuru klientam izsniedz brokeru uzņēmums
 un kurš tiek apmaksāts brokeru uzņēmumam. Klients rēķinu apmaksā,
 pārskaitot rēķina summu
+.. |images_ozols/25467.png| image:: images_ozols/25467.png
+       :scale: 100%
+
+.. |images_ozols/25501.png| image:: images_ozols/25501.png
+       :scale: 100%
+
+.. |images_ozols/25917.png| image:: images_ozols/25917.png
+       :scale: 100%
+
+.. |images_ozols/25918.png| image:: images_ozols/25918.png
+       :scale: 100%
+
+.. |images_ozols/25920.png| image:: images_ozols/25920.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/25920.png| image:: images_ozols/25920.png
+       :scale: 100%
+
+.. |images_ozols/25922.png| image:: images_ozols/25922.png
+       :scale: 100%
+
+.. |images_ozols/26372.png| image:: images_ozols/26372.png
+       :scale: 100%
+
+.. |images_ozols/26373.png| image:: images_ozols/26373.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/26373.png| image:: images_ozols/26373.png
+       :scale: 100%
+
+.. |images_ozols/25923.png| image:: images_ozols/25923.png
+       :scale: 100%
+
+.. |images_ozols/26004.png| image:: images_ozols/26004.png
+       :scale: 100%
+
+.. |images_ozols/26030.png| image:: images_ozols/26030.png
+       :scale: 100%
+
+.. |images_ozols/25486.png| image:: images_ozols/25486.png
+       :scale: 100%
+
+.. |images_ozols/25924.png| image:: images_ozols/25924.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/26012.png| image:: images_ozols/26012.png
+       :scale: 100%
+
+.. |images_ozols/25960.png| image:: images_ozols/25960.png
+       :scale: 100%
+
  

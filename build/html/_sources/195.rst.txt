@@ -1,22 +1,16 @@
 .. 195 ==============================Atbildīgo personu saraksts============================== 
 
 
-Atbildīgo personu saraksts tiek veidots, pievienojot
-Jaunu:doc:`Partneri<312>` un Partnera aprakstaDatu logā atzīmējot
-izvēles rūtiņu .. image:: images_ozols/25419.png
-    :scale: 100%
-.
+Atbildīgo personu saraksts tiek veidots, pievienojot Jaunu
+:doc:`Partneri<312>` un Partnera aprakstaDatu logā atzīmējot izvēles
+rūtiņu |images_ozols/25419.png| .
 
 Lai apskatītu Atbildīgās personas aprakstu, Rīku joslā jānospiež poga
-.. image:: images_ozols/25603.png
-    :scale: 100%
-, tiks atvērts logs:
+|images_ozols/25603.png| , tiks atvērts logs:
 
 
 
-.. image:: images_ozols/26060.png
-    :scale: 100%
-
+|images_ozols/26060.png|
 
 
 
@@ -25,5 +19,14 @@ Pamatlīdzekļu ienākšanas dokumentus<433>` , :doc:`Pamatlīdzekļu
 pieņemšanu eksplutācijā<828>` , :doc:`Pamatlīdzekļu pārsūtīšanas
 dokumentus<437>` , :doc:`Nomeklatūras norakstīšanas<693>` ,
 :doc:`Nomeklatūras pārsūtīšanas dokumentus<687>` .
+
+.. |images_ozols/25419.png| image:: images_ozols/25419.png
+       :scale: 100%
+
+.. |images_ozols/25603.png| image:: images_ozols/25603.png
+       :scale: 100%
+
+.. |images_ozols/26060.png| image:: images_ozols/26060.png
+       :scale: 100%
 
  

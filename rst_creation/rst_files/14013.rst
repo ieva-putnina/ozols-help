@@ -9,9 +9,7 @@ izvēlnes darba režīmu sakārtojumam.
 
 
 
-.. image:: images_ozols/25280.png
-    :scale: 100%
-
+|images_ozols/25280.png|
 
 
 
@@ -25,12 +23,8 @@ darba režīms.
 
 
 
-Pārlūku var noņemt un uzlikt, izmantojot rīku joslas komandas ..
-image:: images_ozols/24630.gif
-    :scale: 100%
-,.. image:: images_ozols/24631.gif
-    :scale: 100%
-vai pogu X .
+Pārlūku var noņemt un uzlikt, izmantojot rīku joslas komandas
+|images_ozols/24630.gif| , |images_ozols/24631.gif| vai pogu X .
 
 
 
@@ -50,10 +44,8 @@ atskaitēs.
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Summējošā pārlūka datu grupēšanas kritērijus izveido un saglabā
-lietotājs.
+|images_ozols/24545.gif| Summējošā pārlūka datu grupēšanas kritērijus
+izveido un saglabā lietotājs.
 
 
 
@@ -64,9 +56,7 @@ Lai izmantotu summējošo pārlūku:
 #. Pārlūkā jāaktivizē komanda Summas.
 
 
-.. image:: images_ozols/25281.png
-    :scale: 100%
-
+|images_ozols/25281.png|
 
 
 
@@ -75,27 +65,22 @@ nav, tie jāizveido:
 
 
 
-.. image:: images_ozols/25282.png
-    :scale: 100%
-
+|images_ozols/25282.png|
 
 
 
 4.Lai izveidotu jaunu datu grupēšanas kritēriju, jāatver grupēšanas
-kritēriju pievienošanas ekrāna forma, nospiežot pogu.. image::
-images_ozols/24635.gif
-    :scale: 100%
-un izvēloties kritēriju, jālieto komanda Pievienot, lai pievienotu
-jaunu grupēšanas kritēriju. Ekrāna formā jāizvēlas kolonnas un ar
-komandas Pievienot palīdzību jāpārnes formas labajā pusē. Lai
-grupēšanas kritērijs būtu pieejams visiem lietotājiem, jāaktivizē
-komanda Kopīgs. Jāsaglabā izveidotais grupēšanas kritērijs.
+kritēriju pievienošanas ekrāna forma, nospiežot pogu
+|images_ozols/24635.gif| un izvēloties kritēriju, jālieto komanda
+Pievienot, lai pievienotu jaunu grupēšanas kritēriju. Ekrāna formā
+jāizvēlas kolonnas un ar komandas Pievienot palīdzību jāpārnes formas
+labajā pusē. Lai grupēšanas kritērijs būtu pieejams visiem
+lietotājiem, jāaktivizē komanda Kopīgs. Jāsaglabā izveidotais
+grupēšanas kritērijs.
 
 
 
-.. image:: images_ozols/25283.png
-    :scale: 100%
-
+|images_ozols/25283.png|
 
 
 
@@ -109,9 +94,7 @@ tikai tie dati, kuri veido šo kopsavilkuma rindu.
 
 
 
-.. image:: images_ozols/25284.png
-    :scale: 100%
-
+|images_ozols/25284.png|
 
 
 
@@ -136,9 +119,7 @@ datorprogrammas rīku joslas.
 
 
 
-.. image:: images_ozols/25285.png
-    :scale: 100%
-
+|images_ozols/25285.png|
 
 
 
@@ -185,16 +166,12 @@ Komanda Funkcijas
 
 
 
-Komanda funkcija .. image:: images_ozols/24642.gif
-    :scale: 100%
-ir pieejam atsevišķiem darba režīmiem un ar šīs komandas palīdzību var
-aktivizēt programmā iebūvētas speciālas funkcijas. Komandu funkcijas
-var izsaukt arī uzklikšķinot uz ieraksta ar labo peles pogu. Ja
-komanda Funkcijas ir pelēka (nav aktīva), tas nozīmē, ka šim darba
-režīmam šāda komanda nav paredzēta. Komandu .. image::
-images_ozols/24642.gif
-    :scale: 100%
-var izmantot:
+Komanda funkcija |images_ozols/24642.gif| ir pieejam atsevišķiem darba
+režīmiem un ar šīs komandas palīdzību var aktivizēt programmā
+iebūvētas speciālas funkcijas. Komandu funkcijas var izsaukt arī
+uzklikšķinot uz ieraksta ar labo peles pogu. Ja komanda Funkcijas ir
+pelēka (nav aktīva), tas nozīmē, ka šim darba režīmam šāda komanda nav
+paredzēta. Komandu |images_ozols/24642.gif| var izmantot:
 
 
 
@@ -231,15 +208,14 @@ Komanda Saistīt
 
 
 
-Komanda Saistīt .. image:: images_ozols/24644.gif
-    :scale: 100%
-izsauc ekrāna formu, kurā bankas un kases ieņēmumu dokumenti tiek
-saistīti ar pārdošanas dokumentiem un bankas un kases izdevumu
-dokumenti tiek saistīti ar iepirkumu dokumentiem. Dokumentu
-saistīšanas iespēja nodrošina tūlītēju saistību uzskaiti ar pircējiem
-un piegādātājiem. Dokumentu saistīšanu ieteicams izmantot, lai iegūtu
-operatīvus datus par pircēju un piegādātāju neapmaksātajiem
-dokumentiem, ko var izmantot uzņēmuma tirdzniecības personāls.
+Komanda Saistīt |images_ozols/24644.gif| izsauc ekrāna formu, kurā
+bankas un kases ieņēmumu dokumenti tiek saistīti ar pārdošanas
+dokumentiem un bankas un kases izdevumu dokumenti tiek saistīti ar
+iepirkumu dokumentiem. Dokumentu saistīšanas iespēja nodrošina
+tūlītēju saistību uzskaiti ar pircējiem un piegādātājiem. Dokumentu
+saistīšanu ieteicams izmantot, lai iegūtu operatīvus datus par pircēju
+un piegādātāju neapmaksātajiem dokumentiem, ko var izmantot uzņēmuma
+tirdzniecības personāls.
 
 
 
@@ -247,11 +223,9 @@ Komanda Paņemt
 
 
 
-Komanda Paņemt
-    :scale: 100%
-tiek aktivizēta gadījumos, kad no kāda darba režīma tiek atvērts
-sistēmas saraksts, piemēram, piegādātāju saraksts, un tas tiek
-papildināts ar jaunu ierakstu. Lai pievienoto ierakstu ievietotu
+Komanda Paņemt tiek aktivizēta gadījumos, kad no kāda darba režīma
+tiek atvērts sistēmas saraksts, piemēram, piegādātāju saraksts, un tas
+tiek papildināts ar jaunu ierakstu. Lai pievienoto ierakstu ievietotu
 atvērtajā dokumentā, jālieto komanda Paņemt.
 
 
@@ -261,11 +235,56 @@ Komanda Uz priekšu , Atpakaļ
 
 
 
-Rīku joslā ir pieejamas komandas Atpakaļ.. image::
-images_ozols/24646.gif
-    :scale: 100%
-, Uz priekš .. image:: images_ozols/24647.gif
-    :scale: 100%
-. Komandas var izmantot, lai pārvietotos pa atvērtajiem darba režīmiem
-to atvēršanas secībā uz priekšu
+Rīku joslā ir pieejamas komandas Atpakaļ |images_ozols/24646.gif| , Uz
+priekš |images_ozols/24647.gif| . Komandas var izmantot, lai
+pārvietotos pa atvērtajiem darba režīmiem to atvēršanas secībā uz
+priekšu
+.. |images_ozols/25280.png| image:: images_ozols/25280.png
+       :scale: 100%
+
+.. |images_ozols/24630.gif| image:: images_ozols/24630.gif
+       :scale: 100%
+
+.. |images_ozols/24631.gif| image:: images_ozols/24631.gif
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/25281.png| image:: images_ozols/25281.png
+       :scale: 100%
+
+.. |images_ozols/25282.png| image:: images_ozols/25282.png
+       :scale: 100%
+
+.. |images_ozols/24635.gif| image:: images_ozols/24635.gif
+       :scale: 100%
+
+.. |images_ozols/25283.png| image:: images_ozols/25283.png
+       :scale: 100%
+
+.. |images_ozols/25284.png| image:: images_ozols/25284.png
+       :scale: 100%
+
+.. |images_ozols/25285.png| image:: images_ozols/25285.png
+       :scale: 100%
+
+.. |images_ozols/24642.gif| image:: images_ozols/24642.gif
+       :scale: 100%
+
+.. |images_ozols/24642.gif| image:: images_ozols/24642.gif
+       :scale: 100%
+
+.. |images_ozols/24644.gif| image:: images_ozols/24644.gif
+       :scale: 100%
+
+.. |images_ozols/24645.gif| image:: images_ozols/24645.gif
+       :scale: 100%
+
+.. |images_ozols/24646.gif| image:: images_ozols/24646.gif
+       :scale: 100%
+
+.. |images_ozols/24647.gif| image:: images_ozols/24647.gif
+       :scale: 100%
+
  

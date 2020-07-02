@@ -6,30 +6,24 @@ klientiem attiecīgo klientu menedžeri, kurš pēc tam automātiski tiek
 piesaistīts klientam, gatavojot pārdošanas dokumentu.
 
 1. Klientu menedžeris tiek definēts Partneru sarakstā CRM
-(Partneri)->Saraksti->:doc:`Partneri<112>` - partnera aprakstā
+(Partneri)->Saraksti-> :doc:`Partneri<112>` - partnera aprakstā
 atzīmējot grupu "strādājošais":
 
-.. image:: images_ozols/26460.png
-    :scale: 100%
-
+|images_ozols/26460.png|
 
 2. Lai informācija par klientu menedžeri automātiski aizpildītos
 sagatavojot Pārdošanas dokumentu konkrētam klientam, klientu menedžeri
 nepieciešams piesaistīt konkrētam partnerim.
-CRM(Partneri)->Saraksti->:doc:`Partneri<112>` - atverot konkrētu
+CRM(Partneri)->Saraksti-> :doc:`Partneri<112>` - atverot konkrētu
 partneri, sadaļā "Pārējie dati":
 
-.. image:: images_ozols/26461.png
-    :scale: 100%
-
+|images_ozols/26461.png|
 
 3. Turpmāk, sagatavojot :doc:`Pārdošanas dokumentu<304>` šim klientam,
 kuram klientu menedžeris ir piesaistīts, automātiski dokumenta
 virsraksta sadaļā tiks ielādēta piesaistītā menedžera informācija:
 
-.. image:: images_ozols/26462.png
-    :scale: 100%
-
+|images_ozols/26462.png|
 
 4. Atbilstoši šādā veidā sagatavotiem :doc:`Pārdošanas
 dokumentiem<204>` , izmantojot Ozolā pieejamās Norēķinu un Noliktavas
@@ -37,36 +31,49 @@ atskaites, iespējams iegūt detalizētu informāciju par sagatavotajiem
 Pārdošanas dokumentiem un pārdotajām precēm klientu menedžeru
 griezumā:
 
-1) Norēķini->Atskaites->:doc:`Pircēju apgrozījums<583>` -> iespēja
+1) Norēķini->Atskaites-> :doc:`Pircēju apgrozījums<583>` -> iespēja
 atlasīt filtrā norādītajam klientu menedžerim piesaistīto pircēju
 apgrozījumu:
 
-.. image:: images_ozols/26463.png
-    :scale: 100%
+|images_ozols/26463.png|
 
-
-2) Norēķini->Atskaites->:doc:`Pārdošanas dokumenti<539>` -> iespēja
+2) Norēķini->Atskaites-> :doc:`Pārdošanas dokumenti<539>` -> iespēja
 atlasīt visus vienam klientu menedžerim piesaistītos Pārdošanas
 dokumentus:
 
-.. image:: images_ozols/26464.png
-    :scale: 100%
+|images_ozols/26464.png|
 
-
-3) Noliktava->Atskaites->:doc:`Pārdotā nomenklatūra<547>` -> iespēja
+3) Noliktava->Atskaites-> :doc:`Pārdotā nomenklatūra<547>` -> iespēja
 atlasīt datus par pārdotajām precēm klienta menedžera griezumā:
 
-.. image:: images_ozols/26465.png
-    :scale: 100%
+|images_ozols/26465.png|
 
+4) Noliktava->Atskaites-> :doc:`Pārdotā nomenklatūra
+(detalizēti)<553>` -> iespēja atlasīt datus par pārdotajām precēm
+klienta menedžera griezumā, uzrādot arī detalizētu informāciju par
+pašu Pārdošanas dokumentu:
 
-4) Noliktava->Atskaites->:doc:`Pārdotā nomenklatūra (detalizēti)<553>`
--> iespēja atlasīt datus par pārdotajām precēm klienta menedžera
-griezumā, uzrādot arī detalizētu informāciju par pašu Pārdošanas
-dokumentu:
+|images_ozols/26466.png|
 
-.. image:: images_ozols/26466.png
-    :scale: 100%
+.. |images_ozols/26460.png| image:: images_ozols/26460.png
+       :scale: 100%
 
+.. |images_ozols/26461.png| image:: images_ozols/26461.png
+       :scale: 100%
+
+.. |images_ozols/26462.png| image:: images_ozols/26462.png
+       :scale: 100%
+
+.. |images_ozols/26463.png| image:: images_ozols/26463.png
+       :scale: 100%
+
+.. |images_ozols/26464.png| image:: images_ozols/26464.png
+       :scale: 100%
+
+.. |images_ozols/26465.png| image:: images_ozols/26465.png
+       :scale: 100%
+
+.. |images_ozols/26466.png| image:: images_ozols/26466.png
+       :scale: 100%
 
  

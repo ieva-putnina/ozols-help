@@ -14,16 +14,14 @@ Pamatlīdzekļu atlikumu ievades dokuments.
 
 
 
-.. image:: images_ozols/24768.png
-    :scale: 100%
-
+|images_ozols/24768.png|
 
 
 
 Numurs - jānorāda pamatlīdzekļa dokumenta numurs. Šis numurs strādājot
-ar sistēmu tiek piešķirts automātiski pēc
-iebūvētā:doc:`numeratora<139>` . Visiem pamatlīdzekļu dokumentiem ir
-viena numerācija.
+ar sistēmu tiek piešķirts automātiski pēc iebūvētā
+:doc:`numeratora<139>` . Visiem pamatlīdzekļu dokumentiem ir viena
+numerācija.
 
 Paskaidrojums - jānorāda dokumenta paskaidrojums.
 
@@ -37,13 +35,9 @@ pievienošanas jāspiež šī poga lai saglabātu izveidoto dokumentu.
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Lai izveidotā Pamatlīdzekļu atlikumu ievades dokumenta dati stātos
-spēkā obligāti pēc saglabāšanas dokuments ir jāapstiprina ar funkciju
-.. image:: images_ozols/24715.gif
-    :scale: 100%
-.
+|images_ozols/24545.gif| Lai izveidotā Pamatlīdzekļu atlikumu ievades
+dokumenta dati stātos spēkā obligāti pēc saglabāšanas dokuments ir
+jāapstiprina ar funkciju |images_ozols/24715.JPG| .
 
 
 
@@ -58,34 +52,24 @@ Pamatlīdzekļu pievienošana Pamatlīdzekļu atlikumu ievades dokumentam
 
 Pēc dokumenta datu aizpildīšanas ir jāaizpilda dati par
 pamatlīdzekļiem. Dokumentam jaunu pamatlīdzekli pievieno atvērtā
-Pamatlīdzekļu atlikumu ievadesdokumenta formā ar funkciju .. image::
-images_ozols/24708.png
-    :scale: 100%
-.
+Pamatlīdzekļu atlikumu ievadesdokumenta formā ar funkciju
+|images_ozols/24708.png| .
 
 Datus par pamatlīdzekli iespējams labot atvērtā Pamatlīdzekļu atlikumu
-ievades dokumenta formā ar funkciju .. image:: images_ozols/24709.png
-    :scale: 100%
-.
+ievades dokumenta formā ar funkciju |images_ozols/24709.png| .
 
 Pamatlīdzekli dzēš atvērtā Pamatlīdzekļu atlikumu ievades dokumenta
-formā ar funkciju .. image:: images_ozols/24719.gif
-    :scale: 100%
-.
+formā ar funkciju |images_ozols/24719.JPG| .
 
 
 
 
 
-.. image:: images_ozols/24769.png
-    :scale: 100%
+|images_ozols/24769.png|
 
 
 
-
-.. image:: images_ozols/24770.png
-    :scale: 100%
-
+|images_ozols/24770.png|
 
 
 
@@ -169,13 +153,13 @@ uzsāktsdarbs arsistēmu.
 
 
 
-Piegādātājs - iespēja norādīt pamatlīdzekļa:doc:`Piegādātāju<112>` .
+Piegādātājs - iespēja norādīt pamatlīdzekļa :doc:`Piegādātāju<112>` .
 
 Līgums - iespēja norādīt līguma numuru.
 
 Garantijas term. - iespēja norādīt pamatlīdzekļa garantijas termiņu.
 
-Piegādātāja valsts - iespēja norādīt piegādātāja:doc:`valsti<103>` .
+Piegādātāja valsts - iespēja norādīt piegādātāja :doc:`valsti<103>` .
 
 Apdr.sabiedr. - iespēja norādīt :doc:`Apdrošināšanas sabiedrību<155>`
 .
@@ -204,5 +188,29 @@ datus par pamatlīdzekli.
 
 
 
+
+.. |images_ozols/24768.png| image:: images_ozols/24768.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24715.JPG| image:: images_ozols/24715.JPG
+       :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+       :scale: 100%
+
+.. |images_ozols/24719.JPG| image:: images_ozols/24719.JPG
+       :scale: 100%
+
+.. |images_ozols/24769.png| image:: images_ozols/24769.png
+       :scale: 100%
+
+.. |images_ozols/24770.png| image:: images_ozols/24770.png
+       :scale: 100%
 
  

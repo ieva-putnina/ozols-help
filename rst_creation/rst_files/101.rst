@@ -12,16 +12,12 @@ un uzņēmuma banku kontus.
 Jaunas Bankas pievienošana sarakstā:
 ````````````````````````````````````
 
-Lai pievienotu jaunuBankas aprakstu, rīku joslā jānospiež poga..
-image:: images_ozols/24708.png
-    :scale: 100%
-un tiks atvērts jauns logs:
+Lai pievienotu jaunuBankas aprakstu, rīku joslā jānospiež poga
+|images_ozols/24708.png| un tiks atvērts jauns logs:
 
 
 
-.. image:: images_ozols/24670.jpg
-    :scale: 100%
-
+|images_ozols/24670.jpg|
 
 
 
@@ -31,9 +27,7 @@ norādīt nepieciešamo :doc:`Bankas kodu tipu<118>` .
 
 
 
-.. image:: images_ozols/24672.jpg
-    :scale: 100%
-
+|images_ozols/24672.jpg|
 
 
 
@@ -41,10 +35,7 @@ Atzīmējot šo izvēles rūtiņu, tiek nodrošināts, lai ievadītajai bankai
 tiktu izmantoti konti tikai IBAN formātā (ES valstu vienotā kontu
 numerācijas sistēma, kuru izmanto Eiropas valstis),
 
-Ieraksts tiks saglabāts, izpildot komandu .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-.
+Ieraksts tiks saglabāts, izpildot komandu |images_ozols/24615.jpg| .
 
 
 
@@ -52,15 +43,30 @@ Pievienotās Bankas apraksta labošana:
 `````````````````````````````````````
 
 Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
-atvērt, izmantojot rīku joslas pogu.. image:: images_ozols/24709.png
-    :scale: 100%
-(ALT+A).
+atvērt, izmantojot rīku joslas pogu |images_ozols/24709.png| (ALT+A).
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-vai .. image:: images_ozols/24617.jpg
-    :scale: 100%
-.
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/24670.jpg| image:: images_ozols/24670.jpg
+       :scale: 100%
+
+.. |images_ozols/24672.jpg| image:: images_ozols/24672.jpg
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+       :scale: 100%
 
  

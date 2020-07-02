@@ -1,8 +1,4 @@
-.. 14134
- 
-2.Darba uzsākšana grāmatvežiem
-**********************************
- 
+.. 14134 2.Darba uzsākšana grāmatvežiem********************************** 
 
 Uzņēmuma pamatinformācija:
 ``````````````````````````
@@ -15,8 +11,8 @@ CRM(Partneri)->Saraksti->Partneri->Pievienot-> :doc:`Partneris<312>`
 Konfigurācija->Iestādījumi->Kopīgie-> :doc:`Uzņēmuma informācija<703>`
 3. Pēc uzņēmuma pamatinformācijas aizpildīšanas, jāpapildināt sistēmā
 pievienotā uzņēmuma informāciju, norādot uzņēmuma kodu (saīsinātu
-nosaukumu) un pilnu nosaukumu:
-Konfigurācija->Lietotāji-> :doc:`Uzņēmumi<188>`
+nosaukumu) un pilnu nosaukumu: Konfigurācija->Lietotāji->
+:doc:`Uzņēmumi<188>`
 
 
 Kopējie saraksti:
@@ -76,13 +72,13 @@ Norēķini->Saraksti-> :doc:`Apmaksas veidi<122>`
 2. Izveidot Norēķinu Grupu klasifikatoru - izveidot pamatgrupas
 krājumu/preču/pakalpojumu uzskaitei, norādot katras grupas aprakstā
 nepieciešams uzskaites/ieņēmumu/izdevumu grāmatvediskos kontus,
-norēķinu dokumentu ērtākai grāmatošanai:
-Norēķini->Saraksti-> :doc:`Grupas<148>`
+norēķinu dokumentu ērtākai grāmatošanai: Norēķini->Saraksti->
+:doc:`Grupas<148>`
 3. Sagatavot biežāk izmantojamo Pakalpojumu sarakstu, lai Iepirkumu un
 Pārdošanas dokumentu saturu aizpildīšana kļūtu pēc iespējas
 automatizētāka, pakalpojumu aprakstā norādot atbilstošu ieņēmumu kontu
-ērtākam pakalpojumu rēķinu grāmatošanas procesam:
-Norēķini->Saraksti-> :doc:`Pakalpojumi<108>`
+ērtākam pakalpojumu rēķinu grāmatošanas procesam: Norēķini->Saraksti->
+:doc:`Pakalpojumi<108>`
 
 
 Virsgrāmata
@@ -98,12 +94,11 @@ programmā: Virsgrāmata->Dokumenti-> :doc:`Kontu atlikumi<146>`
 3. Jāizveido uzņēmuma kontu plānam atbilstošas Virsgrāmatas atskaišu
 konfigurācijas, lai sekmīgi varētu veidot gan VID iesniedzamās
 atskaites (PVN deklarācija un pielikumi), gan uzņēmuma gada pārskatus
-(Bilances, PZ aprēķins):
-Konfigurācija->Iestādījumi->Kopīgie-> :doc:`Virsgrāmatas atskaišu
-konfigurācijas<179>`
+(Bilances, PZ aprēķins): Konfigurācija->Iestādījumi->Kopīgie->
+:doc:`Virsgrāmatas atskaišu konfigurācijas<179>`
 4. Jāpārbauda grāmatojumu šablonu sarakstā esošie šabloni, kurus
-nepieciešamības gadījumā iespējams papildināt:
-Virsgrāmata->Saraksti-> :doc:`Grāmatojumu šabloni<135>`
+nepieciešamības gadījumā iespējams papildināt: Virsgrāmata->Saraksti->
+:doc:`Grāmatojumu šabloni<135>`
 
 
 Pamatlīdzekļi:
@@ -119,20 +114,20 @@ grāmatvediskos kontus: Pamatlīdzekļi->Saraksti-> :doc:`Pamatlīdzekļu
 kategorijas<129>`
 2. Ja pamatlīdzekļu uzskaitei tiks izmantoti objekti (klasifikators,
 ar kura starpniecību var Pamatlīdzekļu uzskaitē fiksēt detalizētāku
-pamatlīdzekļa fiziskās atrašānās vietu):
-Pamatlīdzekļi->Saraksti-> :doc:`Pamatlīdzekļu objekti<202>`
+pamatlīdzekļa fiziskās atrašānās vietu): Pamatlīdzekļi->Saraksti->
+:doc:`Pamatlīdzekļu objekti<202>`
 
 
 Avansi
 ``````
 1. Lai nodrošinātu avansu norēķinu uzskaiti, nepieciešams izveidot
- :doc:`Avansu personu saraksts<196>` , partnera aprakstā atzīmējot
+:doc:`Avansu personu saraksts<196>` , partnera aprakstā atzīmējot
 atbilstošo grupu - Avansa persona.
-2. Ja kopīgajos  :doc:`Virsgrāmatas<707>` iestādījumos norādītais
+2. Ja kopīgajos :doc:`Virsgrāmatas<707>` iestādījumos norādītais
 avansu personas grāmatvediskais konts ne visām uzņēmumā esošajām
 avansu personām ir vienāds (atsevišķi tiek uzskaitīti dati par
 saimniecisko avansu un pārējiem avansu izdevumiem), tad atbilstošo
-avansu personas kontu iespējams norādīt  :doc:`Partnera<312>` aprakstā,
+avansu personas kontu iespējams norādīt :doc:`Partnera<312>` aprakstā,
 sadaļā "citi".
 
 
@@ -142,16 +137,16 @@ Uzsākot darbu, nepieciešams izveidot pamatklasifikatorus, kas tiks
 izmantoti uzņēmuma personāla uzskaitei un algu aprēķiniem:
 
 1. Jāizveido pamatklasifikatori, lai varētu pilnvērtīgi aizpildīt
-strādājošā kartiņu: Personāls->Saraksti-> :doc:`Amati<186>`
-/ :doc:`Amatu grupas<959>` / :doc:`Atvaļinājumu kalendāri<284>`
-/ :doc:`Kalendāri<218>` / :doc:`Personāla kategorijas<127>`
-/ :doc:`Slodžu veidi<288>`
+strādājošā kartiņu: Personāls->Saraksti-> :doc:`Amati<186>` /
+:doc:`Amatu grupas<959>` / :doc:`Atvaļinājumu kalendāri<284>` /
+:doc:`Kalendāri<218>` / :doc:`Personāla kategorijas<127>` /
+:doc:`Slodžu veidi<288>`
 2. Nepieciešams aizpildīt informāciju par svētku un pārceltajām dienām
 kalendārajā periodā: Personāls->Saraksti-> :doc:`Notikumu
 saraksts<217>`
 3. Jāpievieno strādājošie ( ar atzīmētu grupu "strādājošais"), uz kā
-pamata tiks veidotas slodzes: Personāla
-vadība->Saraksti-> :doc:`Strādājošie<111>`
+pamata tiks veidotas slodzes: Personāla vadība->Saraksti->
+:doc:`Strādājošie<111>`
 
 
 Algas
@@ -169,8 +164,7 @@ Alga->Konfigurācija-> :doc:`Algu periodi<211>`
 iestādījumi, norādot algu izmaksas datumu, grupēšanas kritērijus, u.c.
 iestādījumus: Alga->Konfigurācija-> :doc:`Kopīgie<732>`
 5. Pēc nepieciešamības, jākoriģē esošais kolonnu virsrakstu saraksts,
-kas tiks izmantots atskaišu ģenerēšanai:
-Alga->Konfigurācija-> :doc:`Kolonnu virsraksti<214>`
+kas tiks izmantots atskaišu ģenerēšanai: Alga->Konfigurācija->
+:doc:`Kolonnu virsraksti<214>`
 
-
- 
+ 

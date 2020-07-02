@@ -23,23 +23,15 @@ kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
 arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
 atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
 
-Datu atlases kritērijus var saglabāt (.. image::
-images_ozols/24938.png
-    :scale: 100%
-). Izvēloties izveidoto filtra sagatavi (.. image::
-images_ozols/24943.png
-    :scale: 100%
-), filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai
-izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež
-poga.. image:: images_ozols/24535.gif
-    :scale: 100%
-(Ctrl+F), tiek atvērts filtra logs:
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu
+atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež poga
+|images_ozols/24535.gif| (Ctrl+F), tiek atvērts filtra logs:
 
 
 
-.. image:: images_ozols/26047.png
-    :scale: 100%
-
+|images_ozols/26047.png|
 
 
 
@@ -49,7 +41,7 @@ Statuss: aktivitātes statuss (Paziņots, Anulēts, Apskatīts,
 Apstiprināts, Izpilde atlikta, Izpildīts, Neizpildīts), iespēja
 atlasīt aktivitātes pēc to statusa;
 
-Veids: aktivitātes veids (:doc:`Darba uzdevums<743>` ,
+Veids: aktivitātes veids ( :doc:`Darba uzdevums<743>` ,
 :doc:`Notikums<743>` , :doc:`ieg./izg. korespondence<745>` ,
 :doc:`Piedāvājums<743>` );
 
@@ -86,14 +78,29 @@ Numurs no: aktivitāšu numurs;
 
 Versija no: programmas versija.
 
-Ja visi vēlamie atlases kritēriji izvēlēti, jānospiež poga .. image::
-images_ozols/25619.png
-    :scale: 100%
-, lai tiktu sagatavota atskaite par atlasītajiem datiem.
+Ja visi vēlamie atlases kritēriji izvēlēti, jānospiež poga
+|images_ozols/25619.png| , lai tiktu sagatavota atskaite par
+atlasītajiem datiem.
 
 No sagatavotās aktivitāšu atskaites ir iespējams atvērt izvēlēto
-aktivitāti, nospiežot pogu.. image:: images_ozols/25603.png
-    :scale: 100%
-.
+aktivitāti, nospiežot pogu |images_ozols/25603.png| .
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+       :scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+       :scale: 100%
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+       :scale: 100%
+
+.. |images_ozols/26047.png| image:: images_ozols/26047.png
+       :scale: 100%
+
+.. |images_ozols/25619.png| image:: images_ozols/25619.png
+       :scale: 100%
+
+.. |images_ozols/25603.png| image:: images_ozols/25603.png
+       :scale: 100%
 
  

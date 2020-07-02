@@ -12,8 +12,9 @@ norādītās struktūrvienības:
 
 
 
-.. image:: images_ozols/25851.png
-    :scale: 100%
+|images_ozols/25851.png|
 
+.. |images_ozols/25851.png| image:: images_ozols/25851.png
+       :scale: 100%
 
  

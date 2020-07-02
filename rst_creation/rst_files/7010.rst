@@ -5,9 +5,7 @@ Izvēloties dokumenta veidu Akcijas, tiks atvērts jauns logs:
 
 
 
-.. image:: images_ozols/25462.png
-    :scale: 100%
-
+|images_ozols/25462.png|
 
 
 
@@ -20,17 +18,14 @@ Akcijas turētājs:
 
 
 
-.. image:: images_ozols/25463.png
-    :scale: 100%
+|images_ozols/25463.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Informācija par partnera valsti un statusu tiek ņemta no
-:doc:`Partnera<112>` aprakstā norādītās Partnera Valsts (Ja Partnerim
-valsts norādīta Latvija - rezident, ja cita valsts - nerezidents).
+|images_ozols/24545.gif| Informācija par partnera valsti un statusu
+tiek ņemta no :doc:`Partnera<112>` aprakstā norādītās Partnera Valsts
+(Ja Partnerim valsts norādīta Latvija - rezident, ja cita valsts -
+nerezidents).
 
 
 
@@ -38,9 +33,7 @@ valsts norādīta Latvija - rezident, ja cita valsts - nerezidents).
 
 
 
-.. image:: images_ozols/25464.png
-    :scale: 100%
-
+|images_ozols/25464.png|
 
 
 
@@ -50,22 +43,37 @@ akcijas turētāja:
 
 
 
-.. image:: images_ozols/25465.png
-    :scale: 100%
+|images_ozols/25465.png|
 
 
 
-
-4. Pēcsatura ierakstu aizpildīšanas,ierakstu iespējams .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-vai .. image:: images_ozols/24617.jpg
-    :scale: 100%
-.
+4. Pēcsatura ierakstu aizpildīšanas,ierakstu iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
 
 
 
 Saglabātie ieraksti - pievienotās Akcijas, būs pieejams
 apskatei/labošanai :doc:`Akciju žurnālā<7009>` .
+
+.. |images_ozols/25462.png| image:: images_ozols/25462.png
+       :scale: 100%
+
+.. |images_ozols/25463.png| image:: images_ozols/25463.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/25464.png| image:: images_ozols/25464.png
+       :scale: 100%
+
+.. |images_ozols/25465.png| image:: images_ozols/25465.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+       :scale: 100%
 
  

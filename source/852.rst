@@ -11,9 +11,7 @@ ierakstus attiecīgajam plāna periodam, aizpildot nepieciešamos laukus:
 
 
 
-.. image:: images_ozols/26467.png
-    :scale: 100%
-
+|images_ozols/26467.png|
 
 
 
@@ -59,13 +57,18 @@ sadalījumā pa partneriem
 **Budžets:** nepieciešams norādīt plānotā tāmes ieraksta budžeta summu
 
 Lai ieraksts tiktu saglabāts budžeta plānas tāmē, nepieciešams
-nospiest pogu .. image:: images_ozols/25621.png
-    :scale: 100%
-.
+nospiest pogu |images_ozols/25621.png| .
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Budžeta sarakstā netiks saglabāti ieraksti ar identiskām dimensiju
-kombinācijām.
+|images_ozols/24545.gif| Budžeta sarakstā netiks saglabāti ieraksti ar
+identiskām dimensiju kombinācijām.
+
+.. |images_ozols/26467.png| image:: images_ozols/26467.png
+       :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
 
  .. toctree::   :maxdepth: 5    378.rst

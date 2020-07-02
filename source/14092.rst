@@ -1,23 +1,17 @@
 .. 14092 Nomenklatūras norakstīšanas dokumentu grāmatošana***************************************************** 
-.. image:: images_ozols/null.gif
-    :scale: 100%
-
+|images_ozols/null.GIF|
 
 Nomenklatūras norakstīšanas dokumentus iespējams grāmatot
 :doc:`Iekšējās kustības dokumentu žurnālā<14013>` , izmantojot rīku
-joslas pogu .. image:: images_ozols/25814.png
-    :scale: 100%
-.
+joslas pogu |images_ozols/25814.png| .
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-:doc:` Iekšējās kustības dokumentu žurnāla <14013>` filtrā iespējams
-norādīt parametrus, pēc kādiem tiks atlasīti Nomenklatūras
-norakstīšanas dokumenti grāmatošanai. Atlases parametriem jābūt
-tādiem, kas atlasītu dokumentus, kuriem ir vienots grāmatošanas
-princips.
+|images_ozols/24545.gif| :doc:` Iekšējās kustības dokumentu žurnāla
+<14013>` filtrā iespējams norādīt parametrus, pēc kādiem tiks atlasīti
+Nomenklatūras norakstīšanas dokumenti grāmatošanai. Atlases
+parametriem jābūt tādiem, kas atlasītu dokumentus, kuriem ir vienots
+grāmatošanas princips.
 
 
 
@@ -27,9 +21,7 @@ iegrāmatot, izmantojot rīku joslā esošo pogu:
 
 
 
-.. image:: images_ozols/25815.png
-    :scale: 100%
-
+|images_ozols/25815.png|
 
 
 
@@ -40,26 +32,41 @@ atlasīti Nomenklatūras norakstīšanas dokumenti, pēc norādītā
 
 
 
-.. image:: images_ozols/25816.png
-    :scale: 100%
+|images_ozols/25816.png|
 
 
 
-
-Pēc pogas .. image:: images_ozols/25817.png
-    :scale: 100%
-nospiešanas,:doc:` Iekšējās kustības dokumentu žurnālā <14013>`
-kolonnā „Info” attēlotā informācija liecina par to, ka šie dokumenti
-ir iegrāmatoti:
+Pēc pogas |images_ozols/25817.png| nospiešanas, :doc:` Iekšējās
+kustības dokumentu žurnālā <14013>` kolonnā „Info” attēlotā
+informācija liecina par to, ka šie dokumenti ir iegrāmatoti:
 
 
 
-.. image:: images_ozols/25818.png
-    :scale: 100%
+|images_ozols/25818.png|
 
 
 
 
 
+.. |images_ozols/null.GIF| image:: images_ozols/null.GIF
+       :scale: 100%
+
+.. |images_ozols/25814.png| image:: images_ozols/25814.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/25815.png| image:: images_ozols/25815.png
+       :scale: 100%
+
+.. |images_ozols/25816.png| image:: images_ozols/25816.png
+       :scale: 100%
+
+.. |images_ozols/25817.png| image:: images_ozols/25817.png
+       :scale: 100%
+
+.. |images_ozols/25818.png| image:: images_ozols/25818.png
+       :scale: 100%
 
  

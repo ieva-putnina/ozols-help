@@ -2,19 +2,15 @@
 
 
 Sarakstā tiek saglabāti Citas informācijas veidi, kas tiek izmantot
-Personāla datu -:doc:`Citas informācijas<765>` aizpildīšanai.
+Personāla datu - :doc:`Citas informācijas<765>` aizpildīšanai.
 
 Lai pievienotu jaunu Citas informācijas veidu, rīku joslā jānospiež
-poga .. image:: images_ozols/25605.png
-    :scale: 100%
-(Alt+P) un jāieraksta Informācijas veida nosaukums (Piemēram,
-Kavējums, Pārkāpums, utt.):
+poga |images_ozols/25605.png| (Alt+P) un jāieraksta Informācijas veida
+nosaukums (Piemēram, Kavējums, Pārkāpums, utt.):
 
 
 
-.. image:: images_ozols/26083.png
-    :scale: 100%
-
+|images_ozols/26083.png|
 
 
 
@@ -25,9 +21,15 @@ attiecīgo ierakstu.
 
 
 
-Ieraksts tiks saglabāts, izpildot komandu .. image::
-images_ozols/24710.png
-    :scale: 100%
-.
+Ieraksts tiks saglabāts, izpildot komandu |images_ozols/24710.png| .
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+       :scale: 100%
+
+.. |images_ozols/26083.png| image:: images_ozols/26083.png
+       :scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+       :scale: 100%
 
  

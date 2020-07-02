@@ -4,9 +4,7 @@ Jauns notikums tiek pievienots un saglabājas/attēlots
 
 Lai pievienotu jaunu notikumu, atveras loga Apraksta sadaļa:
 
-.. image:: images_ozols/26168.jpg
-    :scale: 100%
-
+|images_ozols/26168.jpg|
 
 
 
@@ -16,32 +14,41 @@ attiecīgais notikuma nosaukums;
 
 Darbība: notikuma darbība. Nospiežot bultiņu, iespējams no saraksta
 izvēlēties sarakstā nodefinētu :doc:`darbību<7316>` . Ja nepieciešams
-pievienot jaunu darbību, jānospiež poga .. image::
-images_ozols/26169.jpg
-    :scale: 100%
-, un jāpievieno sarakstam :doc:`jauna darbība<7307>` ;
+pievienot jaunu darbību, jānospiež poga |images_ozols/26169.jpg| , un
+jāpievieno sarakstam :doc:`jauna darbība<7307>` ;
 
 Telpa: notikuma telpa. Nospiežot bultiņu, no saraksta jāizvēlas
 attiecīgi nodefinētā :doc:`telpa<7315>` . Ja nepieciešams pievienot
-jaunu telpu, jānospiež poga .. image:: images_ozols/26169.jpg
-    :scale: 100%
-un jāpievieno sarakstam :doc:`jaunu telpu<7306>` ;
+jaunu telpu, jānospiež poga |images_ozols/26169.jpg| un jāpievieno
+sarakstam :doc:`jaunu telpu<7306>` ;
 
 Laiks: notikuma datums un laiks no līdz. Lai izvēlētos datumu,
-jānospiež un kalendāra podziņa .. image:: images_ozols/25560.png
-    :scale: 100%
-un jānorāda datums. Laiks jāpievieno manuāli;
+jānospiež un kalendāra podziņa |images_ozols/25560.png| un jānorāda
+datums. Laiks jāpievieno manuāli;
 
 Tehniskās vajadzības: ja nepieciešams, notikumam tiek norādītas
 tehniskās vajadzības, tāpat arī Piezīmes .
 
 Tad,kad Apraksta ieraksti pievienoti, jāatver notikuma sadaļa
-Dalībnieki .. image:: images_ozols/26164.jpg
-    :scale: 100%
-:
+Dalībnieki |images_ozols/26164.jpg| :
 
 
 
 
+
+.. |images_ozols/26168.jpg| image:: images_ozols/26168.jpg
+       :scale: 100%
+
+.. |images_ozols/26169.jpg| image:: images_ozols/26169.jpg
+       :scale: 100%
+
+.. |images_ozols/26169.jpg| image:: images_ozols/26169.jpg
+       :scale: 100%
+
+.. |images_ozols/25560.png| image:: images_ozols/25560.png
+       :scale: 100%
+
+.. |images_ozols/26164.jpg| image:: images_ozols/26164.jpg
+       :scale: 100%
 
  

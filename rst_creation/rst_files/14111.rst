@@ -5,7 +5,7 @@ Lai veiktu algu aprēķinus, nepieciešams secīgi veikt šādas darbības:
 
 
 
-1. Algu perioda atvēršana -> Alga->Rīki->:doc:`Algu perioda
+1. Algu perioda atvēršana -> Alga->Rīki-> :doc:`Algu perioda
 atvēršana<499>`
 
 
@@ -14,7 +14,7 @@ atvēršana<499>`
 
 
 
-3. Avansu izmaksu saraksta aizpildīšana no:doc:`Pārskaitījumu<294>`
+3. Avansu izmaksu saraksta aizpildīšana no :doc:`Pārskaitījumu<294>`
 žurnāla
 
 
@@ -37,7 +37,7 @@ aprēķina periodu
 
 
 
-8.Algu aprēķinu veikšana -> Alga->Rīki->:doc:`Algu aprēķins<498>`
+8.Algu aprēķinu veikšana -> Alga->Rīki-> :doc:`Algu aprēķins<498>`
 
 
 
@@ -50,9 +50,9 @@ periodā
 
 
 
-11. Izmaksu sarakstu aizpildīšana no algu aprēķiniem ->
-Alga->Rīki->:doc:`Algu aprēķins<498>` -> Starpību starp aprēķināto un
-ieturēto palaist uz izmaksu sarakstiem
+11. Izmaksu sarakstu aizpildīšana no algu aprēķiniem -> Alga->Rīki->
+:doc:`Algu aprēķins<498>` -> Starpību starp aprēķināto un ieturēto
+palaist uz izmaksu sarakstiem
 
 
 

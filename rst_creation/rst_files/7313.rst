@@ -5,15 +5,16 @@ pēc :doc:`hierarhiska saraksta principa<14041>` .
 
 Aktivizējot konkrētu struktūrvienības ierakstu no saraksta, tiek
 atvērts :doc:`struktūrvienības ieraksts<7304>` un :doc:`personu<7305>`
-saraksts, kuras ir konkrētajā struktūrvienībā (:doc:`personas<7305>`
-informācijasierakstā norādīta:doc:`struktūrvienība<7313>` ):
+saraksts, kuras ir konkrētajā struktūrvienībā ( :doc:`personas<7305>`
+informācijasierakstā norādīta :doc:`struktūrvienība<7313>` ):
 
 
 
-.. image:: images_ozols/26192.jpg
-    :scale: 100%
+|images_ozols/26192.jpg|
 
 
 
+.. |images_ozols/26192.jpg| image:: images_ozols/26192.jpg
+       :scale: 100%
 
  

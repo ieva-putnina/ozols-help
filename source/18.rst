@@ -7,9 +7,7 @@ lietotājs var izveidot patstāvīgi, izmantojot pārlūku.
 
 
 
-.. image:: images_ozols/25277.png
-    :scale: 100%
-
+|images_ozols/25277.png|
 
 
 
@@ -23,5 +21,8 @@ pievienotais darba režīms.
 
 
 Katalogu Mani darbi vienmēr var izsaukt, lietojot taustiņu F2 .
+
+.. |images_ozols/25277.png| image:: images_ozols/25277.png
+       :scale: 100%
 
  

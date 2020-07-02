@@ -8,17 +8,19 @@ apraksta:
 
 
 
-.. image:: images_ozols/25129.png
-    :scale: 100%
+|images_ozols/25129.png|
 
 
 
+|images_ozols/24545.gif| Rekomendējam lauku Partneris aizpildīt arī
+tiem kontu plāna kontiem, kuros netiek veikta analītiskā uzskaite pa
+partneriem. Tas nodrošinās kopsavilkuma datu parādīšanu pa partneriem
+atskaitēs, kur tiek iekļauta konta korespondence.
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Rekomendējam lauku Partneris aizpildīt arī tiem kontu plāna kontiem,
-kuros netiek veikta analītiskā uzskaite pa partneriem. Tas nodrošinās
-kopsavilkuma datu parādīšanu pa partneriem atskaitēs, kur tiek
-iekļauta konta korespondence.
+.. |images_ozols/25129.png| image:: images_ozols/25129.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
 
  

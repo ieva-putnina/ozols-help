@@ -23,9 +23,7 @@ logs:
 
 
 
-.. image:: images_ozols/24993.png
-    :scale: 100%
-
+|images_ozols/24993.png|
 
 
 Kasē atgriezta avansaVirsraksta aizpildīšana
@@ -42,9 +40,7 @@ norēķinu personas<196>` :
 
 
 
-.. image:: images_ozols/24826.png
-    :scale: 100%
-
+|images_ozols/24826.png|
 
 
 
@@ -52,9 +48,7 @@ norēķinu personas<196>` :
 
 
 
-.. image:: images_ozols/24811.png
-    :scale: 100%
-
+|images_ozols/24811.png|
 
 
 
@@ -62,9 +56,7 @@ norēķinu personas<196>` :
 
 
 
-.. image:: images_ozols/24812.png
-    :scale: 100%
-
+|images_ozols/24812.png|
 
 
 
@@ -73,9 +65,7 @@ kuras kasē tiek saņemta nauda:
 
 
 
-.. image:: images_ozols/24828.png
-    :scale: 100%
-
+|images_ozols/24828.png|
 
 
 
@@ -84,37 +74,27 @@ pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:
 
 
 
-.. image:: images_ozols/24906.png
-    :scale: 100%
-
+|images_ozols/24906.png|
 
 
 Dokumenta - Kasē atgriezts avanss,Satura aizpildīšana
 +++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams
-nospiest pogu.. image:: images_ozols/24708.png
-    :scale: 100%
-un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
-satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
-ieraksta summu:
+nospiest pogu |images_ozols/24708.png| un tiks atvērts operācijas
+satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā
+izmantotās dimensijas) un norādīt satura ieraksta summu:
 
 
 
-.. image:: images_ozols/24800.png
-    :scale: 100%
+|images_ozols/24800.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
-kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
-satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu ..
-image:: images_ozols/24708.png
-    :scale: 100%
-.
+|images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiem
+satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
+summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
+atkārtoti nospiežot pogu |images_ozols/24708.png| .
 
 
 Kasē atgriezta avansa dokumenta Pamatojuma aizpildīšana
@@ -129,9 +109,7 @@ Lauku Pamatojums , iespējams aizpildīt manuāli vai izvēloties no
 
 
 
-.. image:: images_ozols/24907.png
-    :scale: 100%
-
+|images_ozols/24907.png|
 
 
 
@@ -150,51 +128,38 @@ pievienojot nepieciešamo Stingrās uzskaites dokumentu:
 
 
 
-.. image:: images_ozols/24868.png
-    :scale: 100%
-
+|images_ozols/24868.png|
 
 
 
 Kad izvēlēts nepieciešamais uzskaites dokuments un ierakstīta
-dokumenta summa, ierakstu iespējams pievienot, nospiežot .. image::
-images_ozols/24874.png
-    :scale: 100%
-vai arī, ja nevēlaties dokumentu pievienot - .. image::
-images_ozols/24875.png
-    :scale: 100%
-.
+dokumenta summa, ierakstu iespējams pievienot, nospiežot
+|images_ozols/24874.png| vai arī, ja nevēlaties dokumentu pievienot -
+|images_ozols/24875.png| .
 
 
 
 Lai izvēlētos uzskaites dokumentus piesaistītu dokumentam, logā
-"Darījumu apliecinošās kvītis" nepieciešams nospiest .. image::
-images_ozols/24876.png
-    :scale: 100%
-un dokuments tikspievienots Kases ieņēmumu dokumentam:
+"Darījumu apliecinošās kvītis" nepieciešams nospiest
+|images_ozols/24876.png| un dokuments tikspievienots Kases ieņēmumu
+dokumentam:
 
 
 
-.. image:: images_ozols/24877.png
-    :scale: 100%
-
+|images_ozols/24877.png|
 
 
 
 Kad visi nepieciešamie lauki ir aizpildīti,dokuments - Kasē atgriezts
 avanss,ir sagatavots un to ir iespējams:
 
-1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
-    :scale: 100%
--dokuments tiks saglabāts un būspieejams
-apskatei/labošanai/grāmatošanaivienlaicīgi :doc:`Kases ieņēmumu<227>`
-un :doc:`Avansu norēķinu<232>` dokumentu žurnālos.
+1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
+saglabāts un būspieejams apskatei/labošanai/grāmatošanaivienlaicīgi
+:doc:`Kases ieņēmumu<227>` un :doc:`Avansu norēķinu<232>` dokumentu
+žurnālos.
 
-2. Apstiprināt, nospiežot rīku joslā pogu .. image::
-images_ozols/24740.png
-    :scale: 100%
-- Kasē atgriezts avanss tiks Apstiprināts un to būs iespējams
-Grāmatot.
+2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| -
+Kasē atgriezts avanss tiks Apstiprināts un to būs iespējams Grāmatot.
 
 
 Dokumenta - Kasē atgriezts avanss -grāmatošana
@@ -205,15 +170,10 @@ izvēloties (iezīmējot)dokumentu :doc:`Kases ieņēmumu<227>` vai vai
 :doc:`Avansu norēķinu<232>` žurnālā.
 
 Lai iegrāmatotu Kasē atgrieztu avansu, dokumentu nepieciešams
-Apstiprināt, nospiežot rīku joslā pogu .. image::
-images_ozols/24740.png
-    :scale: 100%
-.
+Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| .
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu .. image:: images_ozols/.gif
-    :scale: 100%
-how much ?pid=24741" border="0">.
+pogu |images_ozols/.GIF| how much ?pid=24741" border="0">.
 
 
 
@@ -224,29 +184,94 @@ PievienotāKasē atgrieztā avansalabošana
 ```````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu Kasē
-atgriezts avanss, kurš vienlaicīgi pieejams
-apskatei/labošanai:doc:`Kases ieņēmumu<227>` un :doc:`Avansu
-norēķinu<232>` dokumentu žurnālos.
+atgriezts avanss, kurš vienlaicīgi pieejams apskatei/labošanai
+:doc:`Kases ieņēmumu<227>` un :doc:`Avansu norēķinu<232>` dokumentu
+žurnālos.
 
 Lai veiktu labojumus,dokumentunepieciešams atvērt, izmantojot rīku
-joslas pogu.. image:: images_ozols/24709.png
-    :scale: 100%
-(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+joslas pogu |images_ozols/24709.png| (ALT+A), unatvērtajāierakstā
+iespējams veiktnepieciešamos labojumus:
 
 
 
-.. image:: images_ozols/24908.png
-    :scale: 100%
+|images_ozols/24908.png|
 
 
 
 
-
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-vai .. image:: images_ozols/24617.jpg
-    :scale: 100%
-.
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
 fiogf49gjkf05
+.. |images_ozols/24993.png| image:: images_ozols/24993.png
+       :scale: 100%
+
+.. |images_ozols/24826.png| image:: images_ozols/24826.png
+       :scale: 100%
+
+.. |images_ozols/24811.png| image:: images_ozols/24811.png
+       :scale: 100%
+
+.. |images_ozols/24812.png| image:: images_ozols/24812.png
+       :scale: 100%
+
+.. |images_ozols/24828.png| image:: images_ozols/24828.png
+       :scale: 100%
+
+.. |images_ozols/24906.png| image:: images_ozols/24906.png
+       :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/24800.png| image:: images_ozols/24800.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/24907.png| image:: images_ozols/24907.png
+       :scale: 100%
+
+.. |images_ozols/24868.png| image:: images_ozols/24868.png
+       :scale: 100%
+
+.. |images_ozols/24874.png| image:: images_ozols/24874.png
+       :scale: 100%
+
+.. |images_ozols/24875.png| image:: images_ozols/24875.png
+       :scale: 100%
+
+.. |images_ozols/24876.png| image:: images_ozols/24876.png
+       :scale: 100%
+
+.. |images_ozols/24877.png| image:: images_ozols/24877.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+       :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+       :scale: 100%
+
+.. |images_ozols/.GIF| image:: images_ozols/.GIF
+       :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+       :scale: 100%
+
+.. |images_ozols/24908.png| image:: images_ozols/24908.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+       :scale: 100%
+
  

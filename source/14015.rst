@@ -1,8 +1,4 @@
-.. 14015
- 
-Dažāda veida lauku aizpildīšana
-***********************************
- 
+.. 14015 Dažāda veida lauku aizpildīšana*********************************** 
 
 Datuma lauki
 ++++++++++++
@@ -21,11 +17,8 @@ nepieciešams ievadīt nulles šo skaitļu priekšā!
 
 
 Datuma lauku var aizpildīt ar kalendāra palīdzību. Kalendāru var
-atvērt ar taustiņu kombinācijas Alt+ 
-
-.. image:: images_ozols/24591.gif
-    :scale: 100%
-(bulta „Uz leju”) palīdzību vai izmantojot peli.
+atvērt ar taustiņu kombinācijas Alt+ |images_ozols/24591.gif| (bulta
+„Uz leju”) palīdzību vai izmantojot peli.
 
 
 
@@ -36,27 +29,15 @@ atvērt pagājušā vai nākamā mēneša datumus.
 
 
 
-
-
-.. image:: images_ozols/24592.gif
-    :scale: 100%
+|images_ozols/24592.gif|
 
 
 
+|images_ozols/24593.gif|
 
 
 
-.. image:: images_ozols/24593.gif
-    :scale: 100%
-
-
-
-
-
-
-.. image:: images_ozols/24626.gif
-    :scale: 100%
-
+|images_ozols/24626.gif|
 
 
 
@@ -64,19 +45,12 @@ Kalendārs
 +++++++++
 
 Datuma laukus var aizpildīt no kalendāra. Kalendāru var izsaukt ar
-taustiņu kombinācijas Alt+ 
-
-.. image:: images_ozols/24591.gif
-    :scale: 100%
-palīdzību vai izmantojot *peli*.
+taustiņu kombinācijas Alt+ |images_ozols/24591.gif| palīdzību vai
+izmantojot *peli*.
 
 
 
-
-
-.. image:: images_ozols/24626.gif
-    :scale: 100%
-
+|images_ozols/24626.gif|
 
 
 
@@ -86,27 +60,13 @@ palīdzību vai izmantojot *peli*.
 + Datuma izvēle ar klaviatūras palīdzību
 
 
-Ar virziena taustiņiem ( 
-
-.. image:: images_ozols/24595.gif
-    :scale: 100%
-
-
-.. image:: images_ozols/24597.gif
-    :scale: 100%
-
-
-.. image:: images_ozols/24591.gif
-    :scale: 100%
-
-
-.. image:: images_ozols/24596.gif
-    :scale: 100%
-) pārvietojieties uz izvēlēto datumu. Pa mēnešiem var pārvietoties ar
-taustiņu PageUp vai PageDown palīdzību. Pārvietoties pa gadu var ar
-taustiņu Ctrl+PageUp un Ctrl+PageDown palīdzību. Datuma izvēli veiciet
-ar taustiņa Enter palīdzību. Kalendāru bez datuma izvēles var aizvērt
-spiežot taustiņu Esc .
+Ar virziena taustiņiem ( |images_ozols/24595.gif|
+|images_ozols/24597.gif| |images_ozols/24591.gif|
+|images_ozols/24596.gif| ) pārvietojieties uz izvēlēto datumu. Pa
+mēnešiem var pārvietoties ar taustiņu PageUp vai PageDown palīdzību.
+Pārvietoties pa gadu var ar taustiņu Ctrl+PageUp un Ctrl+PageDown
+palīdzību. Datuma izvēli veiciet ar taustiņa Enter palīdzību.
+Kalendāru bez datuma izvēles var aizvērt spiežot taustiņu Esc .
 
 
 
@@ -116,20 +76,13 @@ spiežot taustiņu Esc .
 
 Nepieciešamo datumu no kalendāra var izvēlēties ar *peles* palīdzību.
 Ar *peli *noklikšķiniet uz izvēlēto datumu. Pa mēnešiem
-pārvietojieties ar komandpogu 
-
-.. image:: images_ozols/24598.gif
-    :scale: 100%
-un 
-
-.. image:: images_ozols/24599.gif
-    :scale: 100%
-palīdzību. Lai aizvērtu kalendāru un ieliktu izvēlēto datumu datuma
-ievades laukā (no kura tika izsaukts kalendārs), spiediet komandpogu
-Turpināt . Kalendāru bez datuma izvēles var aizvērt spiežot komandpogu
-Atcelt . Uz šodienas datumu kalendāru var pārvietot ar komandpogu
-Šodiena . Jebkurā gadījumā pēc datuma izvēles jāspiež komandpoga
-Turpināt vai taustiņš Enter .
+pārvietojieties ar komandpogu |images_ozols/24598.gif| un
+|images_ozols/24599.gif| palīdzību. Lai aizvērtu kalendāru un ieliktu
+izvēlēto datumu datuma ievades laukā (no kura tika izsaukts
+kalendārs), spiediet komandpogu Turpināt . Kalendāru bez datuma
+izvēles var aizvērt spiežot komandpogu Atcelt . Uz šodienas datumu
+kalendāru var pārvietot ar komandpogu Šodiena . Jebkurā gadījumā pēc
+datuma izvēles jāspiež komandpoga Turpināt vai taustiņš Enter .
 
 
 
@@ -141,11 +94,7 @@ izvēlne:
 
 
 
-
-
-.. image:: images_ozols/24625.gif
-    :scale: 100%
-
+|images_ozols/24625.gif|
 
 
 
@@ -154,11 +103,7 @@ gada maiņas komandpogas:
 
 
 
-
-
-.. image:: images_ozols/24624.gif
-    :scale: 100%
-
+|images_ozols/24624.gif|
 
 
 
@@ -202,24 +147,17 @@ Teksta bufera reģistru var izmantot sekojoši:
 
 
 + ar taustiņu kombinācijas Ctrl+C palīdzību, jānokopē teksts;
-
 + ja tekstu nepieciešams pārvietot citā laukā, var izmantot teksta
 izgriešanas taustiņu kombināciju Ctrl+X ;
-
 + no izvēlnes >Teksts > Bufera reģistrs jāizvēlas teksta reģistrs -
 Augšējais, Apakšējais vai Teikums;
-
 + ar taustiņu kombinācijas Ctrl+V palīdzību jānovieto teksts
   nepieciešamajā vietā.
 
 
-
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Bufera reģistru var izmantot tikai tādos ekrāna formu laukos, kur dati
-tiek ievadīti ar klaviatūras palīdzību. Fiksētās izvēles laukos bufera
-reģistrs nedarbosies
+|images_ozols/24545.gif| Bufera reģistru var izmantot tikai tādos
+ekrāna formu laukos, kur dati tiek ievadīti ar klaviatūras palīdzību.
+Fiksētās izvēles laukos bufera reģistrs nedarbosies
 
 
 
@@ -322,32 +260,74 @@ aizvēršana, komandas atcelšana Enter Dialoga vai ekrāna formas
 aizvēršana, ieraksta pievienošana,
 labošana, fiksētās izvēles lauka aizpildīšana Alt+ pasvītrotais burts
 Paātrināta pieeja laukam, komandas aktivizēšana Ctrl+ pasvītrotais
-burts Kopējo darbību aktivizēšana galvenajā izvēlnē Alt+ 
-
-.. image:: images_ozols/24591.gif
-    :scale: 100%
-Fiksētās izvēles lauka izvēlnes atvēršana Shift+ 
-
-.. image:: images_ozols/24591.gif
-    :scale: 100%
-
+burts Kopējo darbību aktivizēšana galvenajā izvēlnē Alt+
+|images_ozols/24591.gif| Fiksētās izvēles lauka izvēlnes atvēršana
+Shift+ |images_ozols/24591.gif|
 Paplašinātā saraksta atvēršana, ja aiz lauka ir paplašinātās izvēlnes
 
-komandpoga (
-
-.. image:: images_ozols/24714.gif
-    :scale: 100%
-)
+komandpoga ( |images_ozols/24714.gif| )
 
 
 
-
-
-.. image:: images_ozols/25300.png
-    :scale: 100%
+|images_ozols/25300.png|
 
 
 
+.. |images_ozols/24591.gif| image:: images_ozols/24591.gif
+       :scale: 100%
 
+.. |images_ozols/24592.gif| image:: images_ozols/24592.gif
+       :scale: 100%
 
- 
+.. |images_ozols/24593.gif| image:: images_ozols/24593.gif
+       :scale: 100%
+
+.. |images_ozols/24626.gif| image:: images_ozols/24626.gif
+       :scale: 100%
+
+.. |images_ozols/24591.gif| image:: images_ozols/24591.gif
+       :scale: 100%
+
+.. |images_ozols/24626.gif| image:: images_ozols/24626.gif
+       :scale: 100%
+
+.. |images_ozols/24595.gif| image:: images_ozols/24595.gif
+       :scale: 100%
+
+.. |images_ozols/24597.gif| image:: images_ozols/24597.gif
+       :scale: 100%
+
+.. |images_ozols/24591.gif| image:: images_ozols/24591.gif
+       :scale: 100%
+
+.. |images_ozols/24596.gif| image:: images_ozols/24596.gif
+       :scale: 100%
+
+.. |images_ozols/24598.gif| image:: images_ozols/24598.gif
+       :scale: 100%
+
+.. |images_ozols/24599.gif| image:: images_ozols/24599.gif
+       :scale: 100%
+
+.. |images_ozols/24625.gif| image:: images_ozols/24625.gif
+       :scale: 100%
+
+.. |images_ozols/24624.gif| image:: images_ozols/24624.gif
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24591.gif| image:: images_ozols/24591.gif
+       :scale: 100%
+
+.. |images_ozols/24591.gif| image:: images_ozols/24591.gif
+       :scale: 100%
+
+.. |images_ozols/24714.gif| image:: images_ozols/24714.gif
+       :scale: 100%
+
+.. |images_ozols/25300.png| image:: images_ozols/25300.png
+       :scale: 100%
+
+ 

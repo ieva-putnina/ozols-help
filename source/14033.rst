@@ -17,9 +17,7 @@ Reģistrējoties sistēmā tiks parādīta komponentu izvēles ekrāna forma.
 
 
 
-.. image:: images_ozols/24699.png
-    :scale: 100%
-
+|images_ozols/24699.png|
 
 
 
@@ -36,9 +34,7 @@ forma, kurā redzams, kuri lietotāji izmanto komponenta licences.
 
 
 
-.. image:: images_ozols/24700.png
-    :scale: 100%
-
+|images_ozols/24700.png|
 
 
 Ja lietotāju ir vairāk, nekā iegādāto licenču un vienlaicīgs darbs ar
@@ -48,9 +44,7 @@ izvēli sākot darbu. Uzsākot darbu ar programmu, komponentu izvēles
 forma vienmēr tiks aktivizēta.
 
 
-.. image:: images_ozols/24539.jpg
-    :scale: 100%
-
+|images_ozols/24539.jpg|
 
 
 
@@ -61,9 +55,7 @@ veikta datu ievade un apstrāde.
 
 
 
-.. image:: images_ozols/24698.png
-    :scale: 100%
-
+|images_ozols/24698.png|
 
 
 
@@ -86,9 +78,7 @@ datus, tad pārslēgties uz cita uzņēmuma datiem var no darba režīma:
 > Palīgs > Uzņēmuma izvēle
 Lai pārslēgtos uz cita uzņēmuma datiem, jāizvēlas uzņēmums laukā
 Uzņēmums un var izmantot iespēju parādīt visu uzņēmumu datus kopā,
-aktivizējot komandu: .. image:: images_ozols/24541.jpg
-    :scale: 100%
-
+aktivizējot komandu: |images_ozols/24541.jpg|
 
 
 
@@ -99,5 +89,20 @@ Lai atteiktos no komponenta izmantošanas un to varētu izmantot citi
 lietotāji, ja ir ierobežots licenču skaits, jābeidz darbs ar
 programmu.
 Beidzot darbu ar programmu, tiek beigta arī komponentu izmantošana.
+
+.. |images_ozols/24699.png| image:: images_ozols/24699.png
+       :scale: 100%
+
+.. |images_ozols/24700.png| image:: images_ozols/24700.png
+       :scale: 100%
+
+.. |images_ozols/24539.jpg| image:: images_ozols/24539.jpg
+       :scale: 100%
+
+.. |images_ozols/24698.png| image:: images_ozols/24698.png
+       :scale: 100%
+
+.. |images_ozols/24541.jpg| image:: images_ozols/24541.jpg
+       :scale: 100%
 
  

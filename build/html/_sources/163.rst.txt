@@ -6,9 +6,7 @@ Konfigurācija paredzētaLietotāju paroļuiestādījumu definēšanai:
 
 
 
-.. image:: images_ozols/25865.png
-    :scale: 100%
-
+|images_ozols/25865.png|
 
 
 
@@ -18,10 +16,8 @@ lietotāja parolei
 Speciālo simbolu sk.: minimālais speciālo simbolu skaits, kāds būtu
 jāsatur katrai lietotāju parolei.
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Speciālo simbolu uzskaitījums: ! " # $ % & ( ) * + , - . / : ; < = > ?
-@ [ \ ] ^ _ ` { | } ~
+|images_ozols/24545.gif| Speciālo simbolu uzskaitījums: ! " # $ % & (
+) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~
 
 
 Ciparu skaits: minimālais ciparu skaits, kāds būtu jāsatur katrai
@@ -32,20 +28,28 @@ katrai lietotāju parolei
 
 Paroles termiņš (dienās): nosaka lietotāj paroles derīguma termiņu.
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Ja šī termiņa laikā lietotājs nav nomainījis savu iepriekšējo paroli
-pret jaunu, tad lietotāja konts sistēmā OZOLS tiek slēgts un lietotājs
-vairs nevar strādāt sistēmā. Ja termiņš nav noteikts, tad parole ir
-beztermiņa.
+|images_ozols/24545.gif| Ja šī termiņa laikā lietotājs nav nomainījis
+savu iepriekšējo paroli pret jaunu, tad lietotāja konts sistēmā OZOLS
+tiek slēgts un lietotājs vairs nevar strādāt sistēmā. Ja termiņš nav
+noteikts, tad parole ir beztermiņa.
 
 Brīdinājums pirms termiņa (dienās): ja ir noteikts sistēmas paroļu
 derīguma termiņš, tad ir iespēja iestādīt brīdinājumu, cik dienas
 pirms lietotāja paroles termiņa beigām brīdināt lietotāju.
 
-Lai saglabātu Paroles iestādījumus, nepieciešams nospiest pogu: ..
-image:: images_ozols/25621.png
-    :scale: 100%
-.
+Lai saglabātu Paroles iestādījumus, nepieciešams nospiest pogu:
+|images_ozols/25621.png| .
+
+.. |images_ozols/25865.png| image:: images_ozols/25865.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+       :scale: 100%
 
  

@@ -9,16 +9,12 @@ Sarakstā tiek saglabāti līgumu veidi, kas tiek izmantoti Līgumu
 Jauna Līgumu veida pievienošana:
 ++++++++++++++++++++++++++++++++
 
-Lai pievienotu jaunu Līgumu veidu, rīku joslā jānospiež poga ..
-image:: images_ozols/24708.png
-    :scale: 100%
-un tiks atvērts jauns logs:
+Lai pievienotu jaunu Līgumu veidu, rīku joslā jānospiež poga
+|images_ozols/24708.png| un tiks atvērts jauns logs:
 
 
 
-.. image:: images_ozols/25480.png
-    :scale: 100%
-
+|images_ozols/25480.png|
 
 
 
@@ -30,19 +26,15 @@ un tiks atvērts jauns logs:
 
 
 
-.. image:: images_ozols/25481.png
-    :scale: 100%
+|images_ozols/25481.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Izvēloties aprēķina algoritmu - Summas, :doc:`Līguma grupas<653>`
-aprakstā būs iespējams norādīt fiksēto maksājuma summu. Izvēloties
-aprēķina algoritmu - Līzings - Fiksēts maksājums, :doc:`Līguma
-grupas<653>` aprakstā būs iespējams norādīt Fiksēto maksājuma summu,
-kā arī Līzinga procentu likmi.
+|images_ozols/24545.gif| Izvēloties aprēķina algoritmu - Summas,
+:doc:`Līguma grupas<653>` aprakstā būs iespējams norādīt fiksēto
+maksājuma summu. Izvēloties aprēķina algoritmu - Līzings - Fiksēts
+maksājums, :doc:`Līguma grupas<653>` aprakstā būs iespējams norādīt
+Fiksēto maksājuma summu, kā arī Līzinga procentu likmi.
 
 
 
@@ -50,17 +42,13 @@ kā arī Līzinga procentu likmi.
 
 
 
-.. image:: images_ozols/25482.png
-    :scale: 100%
+|images_ozols/25482.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Izvēloties Stundu/summu uzskaites tipu - Mēnesī - līguma summa tiks
-uzskaitīta viena mēnešan ietvaros. Uz visu līgumu - līgumā noteiktā
-summa tiks uzskaitīta visa līgumā apjomā.
+|images_ozols/24545.gif| Izvēloties Stundu/summu uzskaites tipu -
+Mēnesī - līguma summa tiks uzskaitīta viena mēnešan ietvaros. Uz visu
+līgumu - līgumā noteiktā summa tiks uzskaitīta visa līgumā apjomā.
 
 
 
@@ -69,9 +57,7 @@ Sarakstos pievienotajiem :doc:`Pakalpojumiem<108>` :
 
 
 
-.. image:: images_ozols/25483.png
-    :scale: 100%
-
+|images_ozols/25483.png|
 
 
 
@@ -81,16 +67,11 @@ plānu žurnāla<645>` ģenerējot Pārdošanas dokumentu:
 
 
 
-.. image:: images_ozols/25484.png
-    :scale: 100%
+|images_ozols/25484.png|
 
 
 
-
-Ieraksts tiks saglabāts, nospiežot pogu .. image::
-images_ozols/24710.png
-    :scale: 100%
-.
+Ieraksts tiks saglabāts, nospiežot pogu |images_ozols/24710.png| .
 
 
 
@@ -98,15 +79,46 @@ Pievienotā Līguma veida labošana:
 +++++++++++++++++++++++++++++++++
 
 Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
-atvērt, izmantojot rīku joslas pogu .. image:: images_ozols/24709.png
-    :scale: 100%
-(ALT+A), un atvērtajā logā veikt labojumus.
+atvērt, izmantojot rīku joslas pogu |images_ozols/24709.png| (ALT+A),
+un atvērtajā logā veikt labojumus.
 
-Pēc labojumu veikšanas, veiktās izmaiņas iespējams .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-vai .. image:: images_ozols/24617.jpg
-    :scale: 100%
-.
+Pēc labojumu veikšanas, veiktās izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/25480.png| image:: images_ozols/25480.png
+       :scale: 100%
+
+.. |images_ozols/25481.png| image:: images_ozols/25481.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/25482.png| image:: images_ozols/25482.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/25483.png| image:: images_ozols/25483.png
+       :scale: 100%
+
+.. |images_ozols/25484.png| image:: images_ozols/25484.png
+       :scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+       :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+       :scale: 100%
 
  

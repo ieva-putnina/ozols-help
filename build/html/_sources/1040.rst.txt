@@ -10,9 +10,7 @@ Kad atskaites forma ir aktivizēta, tad Virsgrāmata>Atskaites>VID
 atskaites ir pieejama atskaišu forma "Peļņas vai zaudējuma aprēķins
 PZA2".
 
-.. image:: images_ozols/26572.jpg
-    :scale: 100%
-
+|images_ozols/26572.jpg|
 
 
 Aktivizētajām atskaišu formām nepieciešams veikt konfirgurāciju.
@@ -22,20 +20,17 @@ Atskaišu konfigurāciju veic pie Konfigurācija>Virsgrāmatas atskaišu
 konfigurācija .
 
 
-Ja atskaišu sarakstā nav PZA2 formas, tad ir nepieciešams ņemt..
-image:: images_ozols/25605.png
-    :scale: 100%
-un atvērsies jauns Virsgrāmatas atskaites konfigurācijas dokuments.
-Laukā “Atskaite” no izvēlņu saraksta izvēlas atskaites veidu "Peļņas
-vai zaudējuma aprēķins (PZA2 - Pēc izdevumu funkcijām).
+Ja atskaišu sarakstā nav PZA2 formas, tad ir nepieciešams ņemt
+|images_ozols/25605.png| un atvērsies jauns Virsgrāmatas atskaites
+konfigurācijas dokuments. Laukā “Atskaite” no izvēlņu saraksta izvēlas
+atskaites veidu "Peļņas vai zaudējuma aprēķins (PZA2 - Pēc izdevumu
+funkcijām).
 
 
 
 
 
-.. image:: images_ozols/26576.jpg
-    :scale: 100%
-
+|images_ozols/26576.jpg|
 
 
 

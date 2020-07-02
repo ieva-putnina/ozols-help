@@ -6,9 +6,7 @@ kontu no konta plāna vai noklusēto konta vērtību:
 
 
 
-.. image:: images_ozols/25125.png
-    :scale: 100%
-
+|images_ozols/25125.png|
 
 
 
@@ -110,7 +108,7 @@ aprakstā<283>` . Grupas ieņ.
 + Nomenklaltūras pārsūtīšana
 
 Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētās
-nomenklatūras/pakalpojuma grupas:doc:`Grupas aprakstā<148>`
+nomenklatūras/pakalpojuma grupas :doc:`Grupas aprakstā<148>`
 piesaistītā ieņēmuma konta. Šī izvēle ir pieejama tikai tad, ja
 šablona ieraksta veids ir “Saturs”. Grupas izdev.
 
@@ -120,7 +118,7 @@ piesaistītā ieņēmuma konta. Šī izvēle ir pieejama tikai tad, ja
 + Ražošana
 
 Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētās
-nomenklatūras/pakalpojuma grupas:doc:`Grupas aprakstā<148>`
+nomenklatūras/pakalpojuma grupas :doc:`Grupas aprakstā<148>`
 piesaistītā izdevuma konta. Šī izvēle ir pieejama tikai tad, ja
 šablona ieraksta veids ir “Saturs”. Grupas uzsk.
 
@@ -131,7 +129,7 @@ piesaistītā izdevuma konta. Šī izvēle ir pieejama tikai tad, ja
 + Ražošana
 
 Konts grāmatojumā tiks ielikts no dokumenta saturā izvēlētās
-nomenklatūras/pakalpojuma grupas:doc:`Grupas aprakstā<148>`
+nomenklatūras/pakalpojuma grupas :doc:`Grupas aprakstā<148>`
 piesaistītāuzskaites konta. Šī izvēle ir pieejama tikai tad, ja
 šablona ieraksta veids ir “Saturs”. Nolietojuma
 
@@ -177,5 +175,8 @@ grāmatojuma debeta pusē. Nav
 
 Ja lauku atstāj tukšu, konts grāmatojumā netiks ielikts. Šādi var
 rīkoties, ja grāmatošanas procesā grāmatvedis pats izvēlas kontu.
+
+.. |images_ozols/25125.png| image:: images_ozols/25125.png
+       :scale: 100%
 
  

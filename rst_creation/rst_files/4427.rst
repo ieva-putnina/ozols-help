@@ -4,19 +4,22 @@ partnera<4429>` dati.
 
 
 
-.. image:: images_ozols/25878.png
-    :scale: 100%
-
+|images_ozols/25878.png|
 
 
 
 Partneru datus ir iespējams atlasīt pēc koda, reģistrācijas numura,
-nosaukuma vai personas koda, nospiežot pogu .. image::
-images_ozols/25810.png
-    :scale: 100%
-. Lai partneru sarakstam :doc:`pievienotu jaunu partneri<4429>` ,
-jānospiež poga .. image:: images_ozols/25831.png
-    :scale: 100%
-.
+nosaukuma vai personas koda, nospiežot pogu |images_ozols/25810.png| .
+Lai partneru sarakstam :doc:`pievienotu jaunu partneri<4429>` ,
+jānospiež poga |images_ozols/25831.png| .
+
+.. |images_ozols/25878.png| image:: images_ozols/25878.png
+       :scale: 100%
+
+.. |images_ozols/25810.png| image:: images_ozols/25810.png
+       :scale: 100%
+
+.. |images_ozols/25831.png| image:: images_ozols/25831.png
+       :scale: 100%
 
  

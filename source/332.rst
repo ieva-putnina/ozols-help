@@ -17,9 +17,7 @@ logs:
 
 
 
-.. image:: images_ozols/24996.png
-    :scale: 100%
-
+|images_ozols/24996.png|
 
 
 Kases izdevumu orderaVirsraksta aizpildīšana
@@ -35,9 +33,7 @@ Lai aizpildītu Kases izdevumu ordera Virsrakstu, nepieciešams:
 
 
 
-.. image:: images_ozols/24826.png
-    :scale: 100%
-
+|images_ozols/24826.png|
 
 
 
@@ -45,9 +41,7 @@ Lai aizpildītu Kases izdevumu ordera Virsrakstu, nepieciešams:
 
 
 
-.. image:: images_ozols/24811.png
-    :scale: 100%
-
+|images_ozols/24811.png|
 
 
 
@@ -55,9 +49,7 @@ Lai aizpildītu Kases izdevumu ordera Virsrakstu, nepieciešams:
 
 
 
-.. image:: images_ozols/24812.png
-    :scale: 100%
-
+|images_ozols/24812.png|
 
 
 
@@ -66,9 +58,7 @@ fizisku personu , kurai šī skaidras naudas operācijatiks noformēts:
 
 
 
-.. image:: images_ozols/24827.png
-    :scale: 100%
-
+|images_ozols/24827.png|
 
 
 
@@ -77,9 +67,7 @@ kurai šī skaidras naudas operācijatiks noformēts:
 
 
 
-.. image:: images_ozols/24828.png
-    :scale: 100%
-
+|images_ozols/24828.png|
 
 
 
@@ -88,19 +76,16 @@ pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:
 
 
 
-.. image:: images_ozols/24831.png
-    :scale: 100%
+|images_ozols/24831.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Noformējot skaidras naudas operāciju Juridiskai personai, laukā
-Piegādātājs jāvada Juridiskās personas nosaukums un laukā Persona -
-Fiziskās personas nosaukums, kura šo Juridisko personu pārstāv.
-Noformējot skaidras naudas operāciju fiziskai personai, gan laukā
-Piegādātājs , gan Persona , jānorāda Fiziskas personas nosaukums.
+|images_ozols/24545.gif| Noformējot skaidras naudas operāciju
+Juridiskai personai, laukā Piegādātājs jāvada Juridiskās personas
+nosaukums un laukā Persona - Fiziskās personas nosaukums, kura šo
+Juridisko personu pārstāv. Noformējot skaidras naudas operāciju
+fiziskai personai, gan laukā Piegādātājs , gan Persona , jānorāda
+Fiziskas personas nosaukums.
 
 
 
@@ -109,28 +94,20 @@ Kases izdevumu ordera Satura aizpildīšana
 +++++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu Kases izdevumu orderaSaturu, dokumenta satura daļā
-nepieciešams nospiest .. image:: images_ozols/24708.png
-    :scale: 100%
-un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
-satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
-ieraksta summu:
+nepieciešams nospiest |images_ozols/24708.png| un tiks atvērts
+operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus
+(uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:
 
 
 
-.. image:: images_ozols/24832.png
-    :scale: 100%
+|images_ozols/24832.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
-kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
-satura ierakstu iespējams, satura daļā nospiežot pogu .. image::
-images_ozols/24708.png
-    :scale: 100%
-.
+|images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiem
+satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
+summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
+nospiežot pogu |images_ozols/24708.png| .
 
 
 
@@ -147,9 +124,7 @@ vai izvēloties no :doc:`Kases paskaidrojumu saraksta<136>` :
 
 
 
-.. image:: images_ozols/24835.png
-    :scale: 100%
-
+|images_ozols/24835.png|
 
 
 
@@ -160,9 +135,7 @@ summu:
 
 
 
-.. image:: images_ozols/24730.png
-    :scale: 100%
-
+|images_ozols/24730.png|
 
 
 
@@ -178,23 +151,18 @@ Piel.num. nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:
 
 
 
-.. image:: images_ozols/24838.png
-    :scale: 100%
-
+|images_ozols/24838.png|
 
 
 
 Kad visi nepieciešamie lauki ir aizpildīti, Kases izdevumu orderis ir
 sagatavots un to ir iespējams:
 
-1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
-    :scale: 100%
--dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai :doc:`Kases izdevumu žurnālā<225>` .
+1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
+saglabāts un būs pieejams apskatei/labošanai/grāmatošanai :doc:`Kases
+izdevumu žurnālā<225>` .
 
-2. Apstiprināt, nospiežot rīku joslā pogu .. image::
-images_ozols/24740.png
-    :scale: 100%
+2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png|
 -Kases izdevumu orderistiks Apstiprināts un to būs iespējams Grāmatot.
 
 
@@ -209,15 +177,10 @@ ordera dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Kases
 izdevumu žurnālā<225>` .
 
 Lai iegrāmatotu Kases izdevumu orderi, dokumentu nepieciešams
-Apstiprināt, nospiežot rīku joslā pogu .. image::
-images_ozols/24740.png
-    :scale: 100%
-.
+Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| .
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu .. image:: images_ozols/24741.png
-    :scale: 100%
-.
+pogu |images_ozols/24741.png| .
 
 
 
@@ -228,25 +191,87 @@ Pievienotā Kases izdevumu ordera labošana
 `````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Kases izdevumu
-orderi, kurš pieejams apskatei/labošanai:doc:`Kases izdevumu
+orderi, kurš pieejams apskatei/labošanai :doc:`Kases izdevumu
 žurnālā<225>` . Lai veiktu labojumusKases izdevumu
-orderī,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu..
-image:: images_ozols/24709.png
-    :scale: 100%
-(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+orderī,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
+|images_ozols/24709.png| (ALT+A), unatvērtajāierakstā iespējams
+veiktnepieciešamos labojumus:
 
 
 
-.. image:: images_ozols/24839.png
-    :scale: 100%
+|images_ozols/24839.png|
 
 
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-vai .. image:: images_ozols/24617.jpg
-    :scale: 100%
-.
+.. |images_ozols/24996.png| image:: images_ozols/24996.png
+       :scale: 100%
+
+.. |images_ozols/24826.png| image:: images_ozols/24826.png
+       :scale: 100%
+
+.. |images_ozols/24811.png| image:: images_ozols/24811.png
+       :scale: 100%
+
+.. |images_ozols/24812.png| image:: images_ozols/24812.png
+       :scale: 100%
+
+.. |images_ozols/24827.png| image:: images_ozols/24827.png
+       :scale: 100%
+
+.. |images_ozols/24828.png| image:: images_ozols/24828.png
+       :scale: 100%
+
+.. |images_ozols/24831.png| image:: images_ozols/24831.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/24832.png| image:: images_ozols/24832.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/24835.png| image:: images_ozols/24835.png
+       :scale: 100%
+
+.. |images_ozols/24730.png| image:: images_ozols/24730.png
+       :scale: 100%
+
+.. |images_ozols/24838.png| image:: images_ozols/24838.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+       :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+       :scale: 100%
+
+.. |images_ozols/24741.png| image:: images_ozols/24741.png
+       :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+       :scale: 100%
+
+.. |images_ozols/24839.png| image:: images_ozols/24839.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+       :scale: 100%
 
  

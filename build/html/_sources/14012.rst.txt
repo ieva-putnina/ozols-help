@@ -8,9 +8,7 @@ forma:
 
 
 
-.. image:: images_ozols/24697.png
-    :scale: 100%
-
+|images_ozols/24697.png|
 
 
 
@@ -34,9 +32,7 @@ vadības logs:
 
 
 
-.. image:: images_ozols/24771.png
-    :scale: 100%
-
+|images_ozols/24771.png|
 
 
 
@@ -76,9 +72,7 @@ lietotāji izmanto komponenta licences.
 
 
 
-.. image:: images_ozols/24699.png
-    :scale: 100%
-
+|images_ozols/24699.png|
 
 
 
@@ -96,10 +90,9 @@ veikta datu ievade un apstrāde.
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Lai varētu veidot jaunus dokumentus, lietotājam sākot darbu ar sistēmu
-jānorāda viens uzņēmums, kura dati tiks lietoti.
+|images_ozols/24545.gif| Lai varētu veidot jaunus dokumentus,
+lietotājam sākot darbu ar sistēmu jānorāda viens uzņēmums, kura dati
+tiks lietoti.
 
 
 
@@ -149,9 +142,7 @@ attēloti programmā pieejamo komponentu saraksts:
 
 
 
-.. image:: images_ozols/24772.png
-    :scale: 100%
-
+|images_ozols/24772.png|
 
 
 
@@ -168,9 +159,26 @@ Lai beigtu darbu ar programmu, jālieto komanda no izvēlnes
 
 
 Programmu var aizvērt arī uzklikšķinot uz ekrāna formas pogas X vai
-arī lietojot rīku joslas komandu .. image:: images_ozols/24684.gif
-    :scale: 100%
-Pirms programmas aizvēršanas, tiks uzdots jautājums par to, vai beigt
-darbu ar programmu. Spiežot komandpogu Jā, programma tiks aizvērta.
+arī lietojot rīku joslas komandu |images_ozols/24684.gif| Pirms
+programmas aizvēršanas, tiks uzdots jautājums par to, vai beigt darbu
+ar programmu. Spiežot komandpogu Jā, programma tiks aizvērta.
+
+.. |images_ozols/24697.png| image:: images_ozols/24697.png
+       :scale: 100%
+
+.. |images_ozols/24771.png| image:: images_ozols/24771.png
+       :scale: 100%
+
+.. |images_ozols/24699.png| image:: images_ozols/24699.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24772.png| image:: images_ozols/24772.png
+       :scale: 100%
+
+.. |images_ozols/24684.gif| image:: images_ozols/24684.gif
+       :scale: 100%
 
  

@@ -19,9 +19,7 @@ jauns logs:
 
 
 
-.. image:: images_ozols/25340.png
-    :scale: 100%
-
+|images_ozols/25340.png|
 
 
 
@@ -36,9 +34,7 @@ Lai aizpildītu Pārsūtīšanas dokumenta Virsrakstu, nepieciešams:
 
 
 
-.. image:: images_ozols/25341.png
-    :scale: 100%
-
+|images_ozols/25341.png|
 
 
 
@@ -47,19 +43,15 @@ kustība tiks veikta:
 
 
 
-.. image:: images_ozols/25342.png
-    :scale: 100%
+|images_ozols/25342.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Ja nomenklatūras kustību nepieciešams veikt nevis Noliktavu ietvaros,
-bet gan struktūrvienību ietvaros, abos laukos "Noliktava no" un
-"Noliktava uz" jānorāda viena un tā pati Noliktava, kurai piesaistīta
-atbilstošā struktūrvienība, kuras ietvaros nepieciešams veikt
-pārsūtīšanu.
+|images_ozols/24545.gif| Ja nomenklatūras kustību nepieciešams veikt
+nevis Noliktavu ietvaros, bet gan struktūrvienību ietvaros, abos
+laukos "Noliktava no" un "Noliktava uz" jānorāda viena un tā pati
+Noliktava, kurai piesaistīta atbilstošā struktūrvienība, kuras
+ietvaros nepieciešams veikt pārsūtīšanu.
 
 
 
@@ -74,16 +66,12 @@ Nomenklatūras pārsūtīšanas dokumenta Satura aizpildīšana
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu Nomenklatūras pārsūtīšanas dokumenta Saturu, dokumenta
-satura daļā nepieciešams nospiest pogu.. image::
-images_ozols/24708.png
-    :scale: 100%
-un tiks atvērts operācijas satura logs:
+satura daļā nepieciešams nospiest pogu |images_ozols/24708.png| un
+tiks atvērts operācijas satura logs:
 
 
 
-.. image:: images_ozols/25344.png
-    :scale: 100%
-
+|images_ozols/25344.png|
 
 
 
@@ -96,32 +84,25 @@ jāpārsūta.
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Ja tiek izvēlēta nomenklatūra un norādītas dimensijas (Ek.kods no;
-Struktūrv.no) , bet atlikums uzrādās 0.0000, nepieciešams pārbaudīt
-norādītās dimensijas un Atbildīgo personu – vai nomenklatūrai, ar
-šādām norādītajām dimensijām, ir pārsūtīšanai nepieciešamie atlikumi
-attiecīgajās dimensijās.
+|images_ozols/24545.gif| Ja tiek izvēlēta nomenklatūra un norādītas
+dimensijas (Ek.kods no; Struktūrv.no) , bet atlikums uzrādās 0.0000,
+nepieciešams pārbaudīt norādītās dimensijas un Atbildīgo personu – vai
+nomenklatūrai, ar šādām norādītajām dimensijām, ir pārsūtīšanai
+nepieciešamie atlikumi attiecīgajās dimensijās.
 
 
 
 Lai saglabātu izveidoto satura ierakstu, nomenklatūras pārsūtīšanas
-logā nepieciešams nospiest .. image:: images_ozols/24615.jpg
-    :scale: 100%
-vai .. image:: images_ozols/24617.jpg
-    :scale: 100%
-- ja nomenklatūras pārsūtīšanu nav nepieciešams veikt.
+logā nepieciešams nospiest |images_ozols/24615.jpg| vai
+|images_ozols/24617.jpg| - ja nomenklatūras pārsūtīšanu nav
+nepieciešams veikt.
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Nomenklatūras pārsūtīšanas dokumenta saturs var sastāvēt no vairākiem
-satura ierakstiem.Pievienot nākamo satura ierakstu iespējams, satura
-daļā nospiežot pogu .. image:: images_ozols/24708.png
-    :scale: 100%
-.
+|images_ozols/24545.gif| Nomenklatūras pārsūtīšanas dokumenta saturs
+var sastāvēt no vairākiem satura ierakstiem.Pievienot nākamo satura
+ierakstu iespējams, satura daļā nospiežot pogu
+|images_ozols/24708.png| .
 
 
 
@@ -132,17 +113,12 @@ dokumentsir sagatavots un to ir iespējams:
 
 
 
-1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
-    :scale: 100%
--dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai :doc:`Iekšējās kustības dokumentu
-žurnālā<688>` .
+1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
+saglabāts un būs pieejams apskatei/labošanai/grāmatošanai
+:doc:`Iekšējās kustības dokumentu žurnālā<688>` .
 
-2. Apstiprināt, nospiežot rīku joslā pogu .. image::
-images_ozols/24740.png
-    :scale: 100%
-- Pārsūtīšanas dokuments tiks Apstiprināts un to būs iespējams
-Grāmatot.
+2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| -
+Pārsūtīšanas dokuments tiks Apstiprināts un to būs iespējams Grāmatot.
 
 
 
@@ -154,15 +130,10 @@ dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Iekšējās kustības
 dokumentu žurnālā<688>` .
 
 Lai iegrāmatotu Nomenklatūras pārsūtīšanu, dokumentu nepieciešams
-Apstiprināt, nospiežot rīku joslā pogu .. image::
-images_ozols/24740.png
-    :scale: 100%
-.
+Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| .
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu .. image:: images_ozols/24741.png
-    :scale: 100%
-.
+pogu |images_ozols/24741.png| .
 
 
 
@@ -174,40 +145,91 @@ Pievienotā Pārsūtīšanas dokumenta labošana
 ``````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Nomenklatūras
-pārsūtīšanas dokumentu, kurš pieejams apskatei/labošanai:doc:`Iekšējās
-kustības dokumentu žurnālā<688>` . Lai veiktu labojumusPārsūtīšanas
-dokumentā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu..
-image:: images_ozols/24709.png
-    :scale: 100%
-(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+pārsūtīšanas dokumentu, kurš pieejams apskatei/labošanai
+:doc:`Iekšējās kustības dokumentu žurnālā<688>` . Lai veiktu
+labojumusPārsūtīšanas dokumentā,dokumentunepieciešams atvērt,
+izmantojot rīku joslas pogu |images_ozols/24709.png| (ALT+A),
+unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 
 
 
-.. image:: images_ozols/25345.png
-    :scale: 100%
+|images_ozols/25345.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Nomenklatūras pārsūtīšanas dokumenta datumu NAV iespējams labot, jo
-nomenklatūras atlikumi Noliktavā, ņemot vērā norādītās dimensijas,
-tiek rēķināti atbilstoši iepriekš izvēlētajam datumam un datuma maiņa
-varētu novest pie situācijas, kad nomenklatūra tiek pārsūtīta brīdī,
-kad tās nemaz nav atlikumā. Ja nepieciešams labot datumu, tad
-dokuments ir jāveido no jauna un iepriekš izveidotais dokuments
-jādzēš!
+|images_ozols/24545.gif| Nomenklatūras pārsūtīšanas dokumenta datumu
+NAV iespējams labot, jo nomenklatūras atlikumi Noliktavā, ņemot vērā
+norādītās dimensijas, tiek rēķināti atbilstoši iepriekš izvēlētajam
+datumam un datuma maiņa varētu novest pie situācijas, kad nomenklatūra
+tiek pārsūtīta brīdī, kad tās nemaz nav atlikumā. Ja nepieciešams
+labot datumu, tad dokuments ir jāveido no jauna un iepriekš
+izveidotais dokuments jādzēš!
 
 
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-vai .. image:: images_ozols/24617.jpg
-    :scale: 100%
-.
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
 
 
+
+.. |images_ozols/25340.png| image:: images_ozols/25340.png
+       :scale: 100%
+
+.. |images_ozols/25341.png| image:: images_ozols/25341.png
+       :scale: 100%
+
+.. |images_ozols/25342.png| image:: images_ozols/25342.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/25344.png| image:: images_ozols/25344.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+       :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+       :scale: 100%
+
+.. |images_ozols/24741.png| image:: images_ozols/24741.png
+       :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+       :scale: 100%
+
+.. |images_ozols/25345.png| image:: images_ozols/25345.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+       :scale: 100%
 
  

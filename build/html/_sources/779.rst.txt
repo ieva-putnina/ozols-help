@@ -6,9 +6,7 @@ dokumentu<304>` un aizpildot datus par Pārvadātāju:
 
 
 
-.. image:: images_ozols/26061.png
-    :scale: 100%
-
+|images_ozols/26061.png|
 
 
 
@@ -17,9 +15,7 @@ Lai izveidotu Pārvadātāju un Šoferu sarakstu, ir jāizveido
 Partneru Sarakstos:
 
 
-.. image:: images_ozols/26062.png
-    :scale: 100%
-
+|images_ozols/26062.png|
 
 
 
@@ -31,33 +27,44 @@ mīkstinājuma zīmēm).
 
 Nosaukums : Šoferis.
 
-Veids : jāizvēlas Šoferis, un tad jānospiež poga .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-.
+Veids : jāizvēlas Šoferis, un tad jānospiež poga
+|images_ozols/24615.jpg| .
 
 Partnerim jāpievieno Jauns kontaktpersonas apraksts:
 
 
 
-.. image:: images_ozols/26063.png
-    :scale: 100%
-
+|images_ozols/26063.png|
 
 
 
 Jāatzīmē Grupu izvēles rūtiņa Šoferis:
 
 
-.. image:: images_ozols/26064.png
-    :scale: 100%
+|images_ozols/26064.png|
 
 
 
+Laisaglabātu ierakstu, jānospiež poga |images_ozols/24615.jpg| .Pēc
+visu darbību izpildes,šo Partneri varēs ievietot kā Pārvadātājs un
+Šoferis pie Automašīnu saraksta izveides.
 
-Laisaglabātu ierakstu, jānospiež poga.. image:: images_ozols/24615.jpg
-    :scale: 100%
-.Pēc visu darbību izpildes,šo Partneri varēs ievietot kā Pārvadātājs
-un Šoferis pie Automašīnu saraksta izveides.
+.. |images_ozols/26061.png| image:: images_ozols/26061.png
+       :scale: 100%
+
+.. |images_ozols/26062.png| image:: images_ozols/26062.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/26063.png| image:: images_ozols/26063.png
+       :scale: 100%
+
+.. |images_ozols/26064.png| image:: images_ozols/26064.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
 
  

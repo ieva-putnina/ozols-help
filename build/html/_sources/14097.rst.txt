@@ -1,20 +1,11 @@
-.. 14097
- 
-Lietotāju lomu funkcijas
-****************************
- 
-
+.. 14097 Lietotāju lomu funkcijas**************************** 
 Darba režīmā: :doc:`Lietotāju tiesības darba režīmiem<169>` ,
 pieejamās funkcijas, izmantojamas lietotāja\lomas tiesību automātiskai
 fiksēšanai darba režīmiem DZĒST, LABOT, PIEVIENOT:
 
 
 
-
-
-.. image:: images_ozols/25870.png
-    :scale: 100%
-
+|images_ozols/25870.png|
 
 
 
@@ -25,11 +16,7 @@ izvēlnes rūtiņā visu komponentu režīmos DZĒST, LABOT, PIEVIENOT:
 
 
 
-
-
-.. image:: images_ozols/25871.png
-    :scale: 100%
-
+|images_ozols/25871.png|
 
 
 Funkcija Izveidot aizliegumu visos režīmos dzēst, labot, pievienot,
@@ -38,20 +25,23 @@ režīmos DZĒST, LABOT, PIEVIENOT:
 
 
 
-
-
-.. image:: images_ozols/25872.png
-    :scale: 100%
+|images_ozols/25872.png|
 
 
 
-
-Izmaiņas stājas spēkā nospiežot pogu 
-
-.. image:: images_ozols/25621.png
-    :scale: 100%
-.
+Izmaiņas stājas spēkā nospiežot pogu |images_ozols/25621.png| .
 
 
+.. |images_ozols/25870.png| image:: images_ozols/25870.png
+       :scale: 100%
 
- 
+.. |images_ozols/25871.png| image:: images_ozols/25871.png
+       :scale: 100%
+
+.. |images_ozols/25872.png| image:: images_ozols/25872.png
+       :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+       :scale: 100%
+
+ 

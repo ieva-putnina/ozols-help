@@ -13,9 +13,7 @@ veidu Avansa norēķins, tiks atvērts jauns logs:
 
 
 
-.. image:: images_ozols/25258.png
-    :scale: 100%
-
+|images_ozols/25258.png|
 
 
 
@@ -32,17 +30,13 @@ saraksta:
 
 
 
-.. image:: images_ozols/25259.png
-    :scale: 100%
+|images_ozols/25259.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Aizpildot lauku Persona , automātiski tiks aizpildīts lauks konts,
-kurā tiks ielasīts grāmatvediskais konts, kāds norādīts :doc:`Avansu
-personas<196>` aprakstā (sadaļā Pārējie dati).
+|images_ozols/24545.gif| Aizpildot lauku Persona , automātiski tiks
+aizpildīts lauks konts, kurā tiks ielasīts grāmatvediskais konts, kāds
+norādīts :doc:`Avansu personas<196>` aprakstā (sadaļā Pārējie dati).
 
 
 
@@ -50,18 +44,14 @@ personas<196>` aprakstā (sadaļā Pārējie dati).
 
 
 
-.. image:: images_ozols/24811.png
-    :scale: 100%
+|images_ozols/24811.png|
 
 
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Lauks Iepriekšējā norēķina datums tiek aizpildīts automātiski - tiek
-ielādēts Avansu norēķina personas iepriekšējā Avansu norēķina beigu
-datums. Ja šis Avansu norēķina dokuments ir pirmais izvēlētajai
-norēķina personai, tad laukā Iepriekšējais norēķins - datums netiks
-aizpildīts un paliks tukšs.
+|images_ozols/24545.gif| Lauks Iepriekšējā norēķina datums tiek
+aizpildīts automātiski - tiek ielādēts Avansu norēķina personas
+iepriekšējā Avansu norēķina beigu datums. Ja šis Avansu norēķina
+dokuments ir pirmais izvēlētajai norēķina personai, tad laukā
+Iepriekšējais norēķins - datums netiks aizpildīts un paliks tukšs.
 
 
 3.Izvēlēties Avansa norēķina paskaidrojumu no saraksta vai ievadīt
@@ -69,9 +59,7 @@ manuāli - ar roku:
 
 
 
-.. image:: images_ozols/25260.png
-    :scale: 100%
-
+|images_ozols/25260.png|
 
 
 Avansa norēķina Satura aizpildīšana
@@ -82,9 +70,7 @@ Maksājumi, Izdevumi un Beigu atlikumi:
 
 
 
-.. image:: images_ozols/25261.png
-    :scale: 100%
-
+|images_ozols/25261.png|
 
 
 
@@ -102,17 +88,16 @@ noteikts, ņemot vērā iepriekšējā avansu norēķina beigu atlikuma summu.
 2. Maksājumi - Saņemtie avansu maksājumi - summa no :doc:`Kases avansa
 maksājuma<471>` (Avansa pieprastījuma - :doc:`Avansa maksājums<465>`
 )vai no :doc:`Bankā izmaksāta avansa<469>` . Kā arī atgrieztās summas
-no Kases un Bankas ieņēmumu dokumentu veidiem (:doc:`Bankā atgriezts
+no Kases un Bankas ieņēmumu dokumentu veidiem ( :doc:`Bankā atgriezts
 avanss<473>` un :doc:`Kasē atgriezts avanss<474>` ).
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Lai avansu norēķina dokumentā parādītos saņemtās un atgrieztās avansu
-summas, naudas izmaksas dokumentiem jābūt izveidotiem kā avansa
-pieprasījums vai atgriezts avanss, kā arī jābūt apstiprinātiem.
-Saņemtās un atgrieztās avansu summas tiek noteiktas laika periodā no
-iepriekšējā avansu norēķina dokumenta sagatavošanas datuma līdz jaunā
-avansu norēķinu dokumenta sagatavošanas datumam.
+|images_ozols/24545.gif| Lai avansu norēķina dokumentā parādītos
+saņemtās un atgrieztās avansu summas, naudas izmaksas dokumentiem
+jābūt izveidotiem kā avansa pieprasījums vai atgriezts avanss, kā arī
+jābūt apstiprinātiem. Saņemtās un atgrieztās avansu summas tiek
+noteiktas laika periodā no iepriekšējā avansu norēķina dokumenta
+sagatavošanas datuma līdz jaunā avansu norēķinu dokumenta
+sagatavošanas datumam.
 
 
 
@@ -124,9 +109,7 @@ formas, nospiežot Avansa norēķina izdevumu sadaļā esošo pogu
 
 
 
-.. image:: images_ozols/25262.png
-    :scale: 100%
-
+|images_ozols/25262.png|
 
 
 
@@ -135,20 +118,48 @@ grāmatvediskajā kontā uz avansu perioda beigu datumu.
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Avansa norēķina izdrukā Konti pie dokumentu ierakstiem tiek parādīti
-no pievienoto finanšu kodu aprakstiem (Lai avansu norēķina dokumenta
-izdrukā parādītos konti blakus dokumentu ierakstiem, dokumentu saturā
-jāpievieno finanšu kodi un kodu aprakstā jābūt norādītiem izdevumu
-kontiem), bet grāmatojuma kopsavilkumā avansu norēķina izdrukas
-augšpusē no grāmatojuma datiem. Lai korekti sagatavotu avansa norēķina
-izdruku, avansa izdevumu dokumentu saturā jānorāda finanšu kodi un
-pirms drukāšanas katrs :doc:`Avansa izdevuma<747>` dokuments ir
-jāiegrāmato.
+|images_ozols/24545.gif| Avansa norēķina izdrukā Konti pie dokumentu
+ierakstiem tiek parādīti no pievienoto finanšu kodu aprakstiem (Lai
+avansu norēķina dokumenta izdrukā parādītos konti blakus dokumentu
+ierakstiem, dokumentu saturā jāpievieno finanšu kodi un kodu aprakstā
+jābūt norādītiem izdevumu kontiem), bet grāmatojuma kopsavilkumā
+avansu norēķina izdrukas augšpusē no grāmatojuma datiem. Lai korekti
+sagatavotu avansa norēķina izdruku, avansa izdevumu dokumentu saturā
+jānorāda finanšu kodi un pirms drukāšanas katrs :doc:`Avansa
+izdevuma<747>` dokuments ir jāiegrāmato.
 
 
 
 
+
+.. |images_ozols/25258.png| image:: images_ozols/25258.png
+       :scale: 100%
+
+.. |images_ozols/25259.png| image:: images_ozols/25259.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24811.png| image:: images_ozols/24811.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/25260.png| image:: images_ozols/25260.png
+       :scale: 100%
+
+.. |images_ozols/25261.png| image:: images_ozols/25261.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/25262.png| image:: images_ozols/25262.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
 
  

@@ -2,7 +2,7 @@
 
 
 Līgumusarakstos nepieciešams pievienot uzņēmuma līgumu uzskaitē
-izmantotos:doc:`Līgumu veidus<649>` , kuri tiks izmantoti apmaksas
+izmantotos :doc:`Līgumu veidus<649>` , kuri tiks izmantoti apmaksas
 plāna definēšanai.
 
  .. toctree::   :maxdepth: 5    921.rst   920.rst   650.rst   649.rst   922.rst   923.rst

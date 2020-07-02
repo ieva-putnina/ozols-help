@@ -16,13 +16,9 @@ kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
 arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
 atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
 
-Datu atlases kritērijus var saglabāt (.. image::
-images_ozols/24938.png
-    :scale: 100%
-). Izvēloties izveidoto filtra sagatavi (.. image::
-images_ozols/24943.png
-    :scale: 100%
-), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves.
 
 
 
@@ -31,5 +27,11 @@ Izziņa paredzēta izsniegšanai pēc personas pieprasījuma.
 Atskaites sagatavošanas filtrā jānorāda datu atlases kolonnas, laika
 periods par kuriem aprēķina periodiem dati jāatlasa, jāieraksta
 izziņas mērķis un sagatavotāja tālrunis.
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+       :scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+       :scale: 100%
 
  

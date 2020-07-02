@@ -12,9 +12,7 @@ Pirmdokumenti, Grāmatojumi, Bilance:
 
 
 
-.. image:: images_ozols/26307.png
-    :scale: 100%
-
+|images_ozols/26307.png|
 
 
 
@@ -25,7 +23,7 @@ vietas apraksts.
 
 2. Labot - šajā lapā, uzklikšķinot uz atbilstošajiem ierakstiem,
 iespējams iegūtinformāciju par izveidoto :doc:`Atlīdzību lietu<4205>`
-un:doc:`Regresa lietu<4210>` , balstoties uzCSNg informāciju.
+un :doc:`Regresa lietu<4210>` , balstoties uzCSNg informāciju.
 
 
 
@@ -47,5 +45,8 @@ grāmatojumu.
 5. Bilance -CSNg kartiņas lapā attēlota informācija par bilances
 stāvokli, balstoties uz veiktajiem grāmatojumiem saistībā ar
 izvēlētoCSNgnumuru.
+
+.. |images_ozols/26307.png| image:: images_ozols/26307.png
+       :scale: 100%
 
  

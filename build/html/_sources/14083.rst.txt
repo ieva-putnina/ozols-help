@@ -14,7 +14,7 @@ esošajā šablonā no darba režīma:
 
 
 
-Virsgrāmata->Saraksti->:doc:`Grāmatojumu šabloni<135>`
+Virsgrāmata->Saraksti-> :doc:`Grāmatojumu šabloni<135>`
 
 
 
@@ -39,9 +39,7 @@ Debets Kredīts Konts [Pap.konts1] [Pap.konts2] Dimensija [Satura]
 
 
 
-.. image:: images_ozols/25364.png
-    :scale: 100%
-
+|images_ozols/25364.png|
 
 
 
@@ -157,5 +155,8 @@ Veids: Saturs(S), Summa: 100%, Summas lauks: [Atlaide]
 
 Debets Kredīts Konts [Pap.konts5] [Fin.kat] Dimensija [Satura]
 [Satura] Partneris [Satura] [Satura]
+
+.. |images_ozols/25364.png| image:: images_ozols/25364.png
+       :scale: 100%
 
  

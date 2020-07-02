@@ -1,4 +1,8 @@
-.. 232 Avansu norēķini******************* 
+.. 232
+ 
+Avansu norēķini
+*******************
+ 
 Norēķinus ar :doc:`Avansu personām<196>` grāmatvedības sistēmā Ozols
 var uzskaitīt izmantojot bankas, kases un avansa norēķinu dokumentus.
 Bankas un kases ieejošo un izejošo dokumentu veidi nodrošina izmaksāto
@@ -19,11 +23,9 @@ summas, jāizmanto sekojoši bankas un kases dokumentu veidi:
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Tikai pareiza dokumentu veidu lietošana nodrošinās saņemto summu
-uzskaiti un atlikuma summas automatizētu aprēķinu :doc:` Avansa
-norēķinu <375>` dokumentā.
+|images_ozols/24545.gif| Tikai pareiza dokumentu veidu lietošana
+nodrošinās saņemto summu uzskaiti un atlikuma summas automatizētu
+aprēķinu :doc:`Avansa norēķinu<375>` dokumentā.
 
 
 
@@ -35,12 +37,18 @@ izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek
 izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura
 aizpildīšanā.
 
-Datu atlases kritērijus var saglabāt (.. image::
-images_ozols/24938.png
-    :scale: 100%
-). Izvēloties izveidoto filtra sagatavi (.. image::
-images_ozols/24943.png
-    :scale: 100%
-), filtrs tiek automatizēti aizpildīts no filtra sagataves.
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves.
 
- 
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+       :scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+       :scale: 100%
+
+
+ 

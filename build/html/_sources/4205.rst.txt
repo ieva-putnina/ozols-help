@@ -13,9 +13,7 @@ Info, Labot, Pirmdokumenti, Grāmatojumi, Bilance:
 
 
 
-.. image:: images_ozols/26306.png
-    :scale: 100%
-
+|images_ozols/26306.png|
 
 
 
@@ -28,10 +26,8 @@ informācija par ievadītoatlīdzību lietu.
 saņēmējs; Vainīgais vadītājs; Vainīgā TRL īpašnieks; Vainīgā TRL
 nomnieks; Cietušais vadītājs; Cietušā TRL īpašnieks; Cietušā TRL
 nomnieks. Šo informāciju ir iespējams labot, veicot nepieciešamās
-korekcijas un pēc tam, lai saglabātu informāciju, nospiežot pogu: ..
-image:: images_ozols/25621.png
-    :scale: 100%
-.
+korekcijas un pēc tam, lai saglabātu informāciju, nospiežot pogu:
+|images_ozols/25621.png| .
 
 
 
@@ -53,5 +49,11 @@ iespējams izveidot manuālo grāmatojumu.
 5. Bilance -atlīdzību lietas kartiņas lapā attēlota informācija par
 bilances stāvokli, balstoties uz veiktajiem grāmatojumiem saistībā ar
 izvēlētāsatlīdzības lietas numuru.
+
+.. |images_ozols/26306.png| image:: images_ozols/26306.png
+       :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+       :scale: 100%
 
  

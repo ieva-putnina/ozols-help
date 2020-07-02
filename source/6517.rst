@@ -22,24 +22,18 @@ aprēķins tiks veikts:
 
 
 
-.. image:: images_ozols/26410.png
-    :scale: 100%
+|images_ozols/26410.png|
 
 
 
-
-2. Izvēloties nepieciešamo aprēķina periodu, nospiežot pogu .. image::
-images_ozols/25439.png
-    :scale: 100%
-tiks aprēķinātas Polišu komisijas, balstoties uz
-Konfigurācija>Iestādījumi>Kopīgie>:doc:`Dažādi<739>` noteikto Brokera
-komisijas aprēķina algoritmu:
+2. Izvēloties nepieciešamo aprēķina periodu, nospiežot pogu
+|images_ozols/25439.png| tiks aprēķinātas Polišu komisijas, balstoties
+uz Konfigurācija>Iestādījumi>Kopīgie> :doc:`Dažādi<739>` noteikto
+Brokera komisijas aprēķina algoritmu:
 
 
 
-.. image:: images_ozols/25440.png
-    :scale: 100%
-
+|images_ozols/25440.png|
 
 
 
@@ -51,5 +45,14 @@ izrakstīto polišu samaksātas prēmijas apjoma.
 
 Vienības - konkrētā periodā parakstīto prēmiju komisijas tiek
 aprēķināta vienībās.
+
+.. |images_ozols/26410.png| image:: images_ozols/26410.png
+       :scale: 100%
+
+.. |images_ozols/25439.png| image:: images_ozols/25439.png
+       :scale: 100%
+
+.. |images_ozols/25440.png| image:: images_ozols/25440.png
+       :scale: 100%
 
  

@@ -2,7 +2,7 @@
 
 
 Dividenžu sarakstos nepieciešams pievienot uzņēmumā noteiktos
-:doc:`Akciju veidus<7006>` un nodefinēt:doc:`Koeficientus<7008>`
+:doc:`Akciju veidus<7006>` un nodefinēt :doc:`Koeficientus<7008>`
 noteiktam laika periodam, lai sekmīgi būtu iespējams veikt
 :doc:`Dividenžu aprēķinu<7011>` .
 

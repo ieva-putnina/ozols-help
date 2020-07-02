@@ -11,9 +11,7 @@ utt.), procenti, utt..
 
 
 
-.. image:: images_ozols/26351.png
-    :scale: 100%
-
+|images_ozols/26351.png|
 
 
 
@@ -66,5 +64,8 @@ ieejošā maksājuma veidam nedrīkst būt divi ieejošie kodi ar vienādiem
 numuriem, jo numurs tiek izmantots rezultātu aprēķinam (piemēram,
 A[1], D[1] utt.). Laukā Kods jāpievieno saīsināts ieejošā koda
 nosaukums. Jāpievieno ieejošā koda nosaukums.
+
+.. |images_ozols/26351.png| image:: images_ozols/26351.png
+       :scale: 100%
 
  

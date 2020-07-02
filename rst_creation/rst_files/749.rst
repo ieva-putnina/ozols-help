@@ -2,21 +2,16 @@
 Sarakstā tiek saglabāti ierakstu ar preču cenām, kas veidotas
 balstoties uz Cenošanas dokumentu.
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Instrukcija par preču cenošanu: :doc:`Preču cenošana no Iepirkumu
-dokumenta<14104>`
+|images_ozols/24545.gif| Instrukcija par preču cenošanu: :doc:`Preču
+cenošana no Iepirkumu dokumenta<14104>`
 
 Tāpat arī šajā sarakstā iespējams pievienot preču cenas konkrētai
 precei manuāli.
-Lai pievienotu jaunu cenu esošajai precei, jāizmanto komanda ..
-image:: images_ozols/24879.png
-    :scale: 100%
-no rīku joslas (Alt+P) un tiks atvērts jauns logs:
+Lai pievienotu jaunu cenu esošajai precei, jāizmanto komanda
+|images_ozols/24879.png| no rīku joslas (Alt+P) un tiks atvērts jauns
+logs:
 
-.. image:: images_ozols/26499.png
-    :scale: 100%
-
+|images_ozols/26499.png|
 
 **Cenošanas.dok.:** lauks netiks aizpildīts, ja ieraksts būs
 pievienots manuāli nevis no :doc:`Cenošanas dokumenta<374>` ;
@@ -34,10 +29,20 @@ pamatvalūtā, balstoties uz cenu bez PVN un noteiktu PVN likmi
 :doc:`Grupai<148>` , kurā atrodas šī prece, kas tiek cenota.
 **Piezīmes:** brīvā formā iespējams ievadīt piezīmes par attiecīgo
 ierakstu.
-Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu .. image::
-images_ozols/24867.png
-    :scale: 100%
-no rīku joslas vai(Ctrl+S)
+Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu
+|images_ozols/24867.png| no rīku joslas vai(Ctrl+S)
 
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24879.png| image:: images_ozols/24879.png
+       :scale: 100%
+
+.. |images_ozols/26499.png| image:: images_ozols/26499.png
+       :scale: 100%
+
+.. |images_ozols/24867.png| image:: images_ozols/24867.png
+       :scale: 100%
 
  

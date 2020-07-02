@@ -13,9 +13,7 @@ atvaļinājumu(>Dokumenti > Personāla uzskaite > :doc:`Rīkojumu
 
 
 
-.. image:: images_ozols/26362.png
-    :scale: 100%
-
+|images_ozols/26362.png|
 
 
 
@@ -24,10 +22,8 @@ dienas un pievienotas slodzes kalendāram.
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Lai rīkojumu dokumenti piedalītos algu aprēķinos, tie obligāti
-jāapstiprina.
+|images_ozols/24545.gif| Lai rīkojumu dokumenti piedalītos algu
+aprēķinos, tie obligāti jāapstiprina.
 
 
 
@@ -37,9 +33,7 @@ kalendāra:
 
 
 
-.. image:: images_ozols/26363.png
-    :scale: 100%
-
+|images_ozols/26363.png|
 
 
 
@@ -53,9 +47,7 @@ naudas summa - gan par tekošo, gan nākamo periodu:
 
 
 
-.. image:: images_ozols/26364.png
-    :scale: 100%
-
+|images_ozols/26364.png|
 
 
 
@@ -70,9 +62,7 @@ kuru šī izmaksa tiks veikta):
 
 
 
-.. image:: images_ozols/26365.png
-    :scale: 100%
-
+|images_ozols/26365.png|
 
 
 
@@ -83,10 +73,10 @@ Ja atvaļinājuma nauda jāaprēķina par nākamajiem periodiem, tad:
 
 
 
-1.Balstoties pēc principa, kā tas aprakstīts
-standarta:doc:`Atvaļinājuma naudas aprēķina<14128>` gadījumā,
-nepieciešams izveidot atbilstošu :doc:`Rīkojumu dokumentu<409>` par
-Ikgadējo atvaļinājumu(>Dokumenti > Personāla uzskaite > :doc:`Rīkojumu
+1.Balstoties pēc principa, kā tas aprakstīts standarta
+:doc:`Atvaļinājuma naudas aprēķina<14128>` gadījumā, nepieciešams
+izveidot atbilstošu :doc:`Rīkojumu dokumentu<409>` par Ikgadējo
+atvaļinājumu(>Dokumenti > Personāla uzskaite > :doc:`Rīkojumu
 žurnāls<209>` )
 
 2. Lai aprēķinātu atvaļinājuma naudu nākamajam periodam,no tekošā
@@ -97,9 +87,7 @@ perioda algu aprēķina nepieciešams veidot papildus periodus:
   periodu:
 
 
-.. image:: images_ozols/26366.png
-    :scale: 100%
-
+|images_ozols/26366.png|
 
 
 + Pievienojot papildperiodu-> Izvēloties nākamo periodu -> Saglabājot
@@ -109,9 +97,7 @@ perioda algu aprēķina nepieciešams veidot papildus periodus:
   atvaļinājumu, atvaļinājuma naudas aprēķinam:
 
 
-.. image:: images_ozols/26367.png
-    :scale: 100%
-
+|images_ozols/26367.png|
 
 
 
@@ -128,9 +114,7 @@ izmaksa tiks veikta):
 
 
 
-.. image:: images_ozols/26368.png
-    :scale: 100%
-
+|images_ozols/26368.png|
 
 
 
@@ -140,5 +124,29 @@ rezultātā summas būs iespējams nosūtīt uz izmaksu sarakstu.
 
 
 
+
+.. |images_ozols/26362.png| image:: images_ozols/26362.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/26363.png| image:: images_ozols/26363.png
+       :scale: 100%
+
+.. |images_ozols/26364.png| image:: images_ozols/26364.png
+       :scale: 100%
+
+.. |images_ozols/26365.png| image:: images_ozols/26365.png
+       :scale: 100%
+
+.. |images_ozols/26366.png| image:: images_ozols/26366.png
+       :scale: 100%
+
+.. |images_ozols/26367.png| image:: images_ozols/26367.png
+       :scale: 100%
+
+.. |images_ozols/26368.png| image:: images_ozols/26368.png
+       :scale: 100%
 
  

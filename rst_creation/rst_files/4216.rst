@@ -20,22 +20,16 @@ informācijas, kas pieejama papildus kolonnās.
 
 
 
-.. image:: images_ozols/24950.png
-    :scale: 100%
-No Atlīdzību lietu atskaites iespējams:
+|images_ozols/24950.png| No Atlīdzību lietu atskaites iespējams:
 
-.. image:: images_ozols/26327.png
-    :scale: 100%
-
+|images_ozols/26327.png|
 
 Izpildot šo funkciju, tiks atvērts jauns logs, kur iespējams aizpildīt
 lauku "Saglabāt kā", ierakstot nosaukumu :
 
 
 
-.. image:: images_ozols/26329.png
-    :scale: 100%
-
+|images_ozols/26329.png|
 
 
 
@@ -48,5 +42,14 @@ parādu tālākējai piedzīšanai, nepieciešams izpildīt darbību -
 Sagatavot pieteikumu, kā rezultātā tiks izveidota Korespondence ar
 atbilstošo stadiju par pieteikuma sagatavošanu.
 
+
+.. |images_ozols/24950.png| image:: images_ozols/24950.png
+       :scale: 100%
+
+.. |images_ozols/26327.png| image:: images_ozols/26327.png
+       :scale: 100%
+
+.. |images_ozols/26329.png| image:: images_ozols/26329.png
+       :scale: 100%
 
  

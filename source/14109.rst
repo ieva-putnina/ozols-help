@@ -1,11 +1,9 @@
 .. 14109 Grāmatvedisko kontu piesaistīšana algu rezultējošiem kodiem*************************************************************** 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Pirms algu grāmatojuma pirmdokumenta veidošanas, algu rezultējošiem
-kodiem - ABruto, IIN, Soc_dn, Soc_dd un Riska_nod - jābūt
-piesaistītiem Db un Cr grāmatvediskajiem kontiem!
+|images_ozols/24545.gif| Pirms algu grāmatojuma pirmdokumenta
+veidošanas, algu rezultējošiem kodiem - ABruto, IIN, Soc_dn, Soc_dd un
+Riska_nod - jābūt piesaistītiem Db un Cr grāmatvediskajiem kontiem!
 
 
 
@@ -23,16 +21,11 @@ atvērt ierakstu;
 debeta un kredīta konts:
 
 
-.. image:: images_ozols/26236.png
-    :scale: 100%
+|images_ozols/26236.png|
 
 
 
-
-3. Ieraksts tiks saglabāts, nospiežot pogu .. image::
-images_ozols/25621.png
-    :scale: 100%
-.
+3. Ieraksts tiks saglabāts, nospiežot pogu |images_ozols/25621.png| .
 
 
 
@@ -45,9 +38,7 @@ Iedzīvotāju ienākumu nodoklis (IIN):
 
 
 
-.. image:: images_ozols/26237.png
-    :scale: 100%
-
+|images_ozols/26237.png|
 
 
 
@@ -55,9 +46,7 @@ Darba devēja aprēķinātais VSAOI:
 
 
 
-.. image:: images_ozols/26238.png
-    :scale: 100%
-
+|images_ozols/26238.png|
 
 
 
@@ -65,9 +54,7 @@ Sociālais nodoklis darba ņēmēja:
 
 
 
-.. image:: images_ozols/26240.png
-    :scale: 100%
-
+|images_ozols/26240.png|
 
 
 
@@ -75,10 +62,29 @@ Riska nodeva:
 
 
 
-.. image:: images_ozols/26241.png
-    :scale: 100%
+|images_ozols/26241.png|
 
 
 
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/26236.png| image:: images_ozols/26236.png
+       :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+       :scale: 100%
+
+.. |images_ozols/26237.png| image:: images_ozols/26237.png
+       :scale: 100%
+
+.. |images_ozols/26238.png| image:: images_ozols/26238.png
+       :scale: 100%
+
+.. |images_ozols/26240.png| image:: images_ozols/26240.png
+       :scale: 100%
+
+.. |images_ozols/26241.png| image:: images_ozols/26241.png
+       :scale: 100%
 
  

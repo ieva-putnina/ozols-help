@@ -11,12 +11,13 @@ pēc kuras tiks sadalītas budžeta summas un jānospiež poga Atlasīt.
 Norādot budžetu EKK grupas un Periodu - 2008.gads, 2008.gada budžeta
 dokumentu summas tiek sagrupēras un sasummētas pēc EKK grupām:
 
-.. image:: images_ozols/26338.png
-    :scale: 100%
+|images_ozols/26338.png|
 
 
 
 
 
+.. |images_ozols/26338.png| image:: images_ozols/26338.png
+       :scale: 100%
 
  

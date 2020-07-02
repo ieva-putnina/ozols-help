@@ -4,8 +4,9 @@ izpildītas, kurustatuss ir mainīts uzslēgts:
 
 
 
-.. image:: images_ozols/25834.png
-    :scale: 100%
+|images_ozols/25834.png|
 
+.. |images_ozols/25834.png| image:: images_ozols/25834.png
+       :scale: 100%
 
  

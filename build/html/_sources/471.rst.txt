@@ -31,9 +31,7 @@ logs:
 
 
 
-.. image:: images_ozols/24994.png
-    :scale: 100%
-
+|images_ozols/24994.png|
 
 
 Kases avansa maksājuma Virsraksta aizpildīšana
@@ -49,9 +47,7 @@ Lai aizpildītu Kases avansa maksājuma Virsrakstu, nepieciešams:
 
 
 
-.. image:: images_ozols/24826.png
-    :scale: 100%
-
+|images_ozols/24826.png|
 
 
 
@@ -59,9 +55,7 @@ Lai aizpildītu Kases avansa maksājuma Virsrakstu, nepieciešams:
 
 
 
-.. image:: images_ozols/24811.png
-    :scale: 100%
-
+|images_ozols/24811.png|
 
 
 
@@ -69,9 +63,7 @@ Lai aizpildītu Kases avansa maksājuma Virsrakstu, nepieciešams:
 
 
 
-.. image:: images_ozols/24812.png
-    :scale: 100%
-
+|images_ozols/24812.png|
 
 
 
@@ -81,9 +73,7 @@ operācijatiks noformēta:
 
 
 
-.. image:: images_ozols/24828.png
-    :scale: 100%
-
+|images_ozols/24828.png|
 
 
 
@@ -92,37 +82,27 @@ pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:
 
 
 
-.. image:: images_ozols/24843.png
-    :scale: 100%
-
+|images_ozols/24843.png|
 
 
 Kases avansa maksājuma Satura aizpildīšana
 ++++++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu Kases avansa maksājuma Saturu, dokumenta satura daļā
-nepieciešams nospiest .. image:: images_ozols/24708.png
-    :scale: 100%
-un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
-satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
-ieraksta summu:
+nepieciešams nospiest |images_ozols/24708.png| un tiks atvērts
+operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus
+(uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:
 
 
 
-.. image:: images_ozols/24844.png
-    :scale: 100%
+|images_ozols/24844.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
-kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
-satura ierakstu iespējams, satura daļā nospiežot pogu .. image::
-images_ozols/24708.png
-    :scale: 100%
-.
+|images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiem
+satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
+summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
+nospiežot pogu |images_ozols/24708.png| .
 
 
 
@@ -139,9 +119,7 @@ vai izvēloties no :doc:`Kases paskaidrojumu saraksta<136>` :
 
 
 
-.. image:: images_ozols/24845.png
-    :scale: 100%
-
+|images_ozols/24845.png|
 
 
 
@@ -156,9 +134,7 @@ summu:
 
 
 
-.. image:: images_ozols/24846.png
-    :scale: 100%
-
+|images_ozols/24846.png|
 
 
 Kases avansa maksājuma Pielikuma informācijas aizpildīšana
@@ -172,24 +148,18 @@ Piel.num. nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:
 
 
 
-.. image:: images_ozols/24849.png
-    :scale: 100%
-
+|images_ozols/24849.png|
 
 
 
 Kad visi nepieciešamie lauki ir aizpildīti, Kases avansa maksājums ir
 sagatavots un to ir iespējams:
 
-1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
-    :scale: 100%
--dokuments tiks saglabāts un būs vienlaicīgi pieejams
-apskatei/labošanai/grāmatošanai :doc:`Kases izdevumu<225>` un
-:doc:`Avansu norēķinu<232>` žurnālos.
+1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
+saglabāts un būs vienlaicīgi pieejams apskatei/labošanai/grāmatošanai
+:doc:`Kases izdevumu<225>` un :doc:`Avansu norēķinu<232>` žurnālos.
 
-2. Apstiprināt, nospiežot rīku joslā pogu .. image::
-images_ozols/24740.png
-    :scale: 100%
+2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png|
 -Kases avansa maksājums tiks Apstiprināts un to būs iespējams
 Grāmatot.
 
@@ -205,15 +175,10 @@ maksājuma dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Kases
 izdevumu<225>` vai :doc:`Avansu norēķinu<232>` žurnālā.
 
 Lai iegrāmatotu Kases avansa maksājumu, dokumentu nepieciešams
-Apstiprināt, nospiežot rīku joslā pogu .. image::
-images_ozols/24740.png
-    :scale: 100%
-.
+Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| .
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu .. image:: images_ozols/24741.png
-    :scale: 100%
-.
+pogu |images_ozols/24741.png| .
 
 
 
@@ -224,25 +189,81 @@ Pievienotā Kases avansa maksājuma labošana
 ``````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Kases avansa
-maksājumu, kurš vienlaicīgi pieejams apskatei/labošanai:doc:`Kases
+maksājumu, kurš vienlaicīgi pieejams apskatei/labošanai :doc:`Kases
 izdevumu<225>` un :doc:`Avansu norēķinu<232>` žurnālos. Lai veiktu
 labojumusKases avansa maksājumā,dokumentunepieciešams atvērt,
-izmantojot rīku joslas pogu.. image:: images_ozols/24709.png
-    :scale: 100%
-(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+izmantojot rīku joslas pogu |images_ozols/24709.png| (ALT+A),
+unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 
 
 
-.. image:: images_ozols/24850.png
-    :scale: 100%
+|images_ozols/24850.png|
 
 
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-vai .. image:: images_ozols/24617.jpg
-    :scale: 100%
-.
+.. |images_ozols/24994.png| image:: images_ozols/24994.png
+       :scale: 100%
+
+.. |images_ozols/24826.png| image:: images_ozols/24826.png
+       :scale: 100%
+
+.. |images_ozols/24811.png| image:: images_ozols/24811.png
+       :scale: 100%
+
+.. |images_ozols/24812.png| image:: images_ozols/24812.png
+       :scale: 100%
+
+.. |images_ozols/24828.png| image:: images_ozols/24828.png
+       :scale: 100%
+
+.. |images_ozols/24843.png| image:: images_ozols/24843.png
+       :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/24844.png| image:: images_ozols/24844.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/24845.png| image:: images_ozols/24845.png
+       :scale: 100%
+
+.. |images_ozols/24846.png| image:: images_ozols/24846.png
+       :scale: 100%
+
+.. |images_ozols/24849.png| image:: images_ozols/24849.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+       :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+       :scale: 100%
+
+.. |images_ozols/24741.png| image:: images_ozols/24741.png
+       :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+       :scale: 100%
+
+.. |images_ozols/24850.png| image:: images_ozols/24850.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+       :scale: 100%
 
  

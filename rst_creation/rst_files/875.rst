@@ -12,17 +12,13 @@ Atgādinātājus iespējams piesaistīt jebkuram dokumentam.
 Jaunu Atgādinātāju iespējams izveidot:
 
 1. Atrodoties :doc:`Atgādinātāju<874>` dokumentu žurnālā un rīku joslā
-jānospiežot pogu .. image:: images_ozols/24708.png
-    :scale: 100%
-;
+jānospiežot pogu |images_ozols/24708.png| ;
 
 2. No :doc:`Izvēlnes<14012>` Dati -> Jauna Aktivitāte:
 
 
 
-.. image:: images_ozols/26049.png
-    :scale: 100%
-
+|images_ozols/26049.png|
 
 
 
@@ -31,25 +27,18 @@ tiks atvērts jauns izvēlnes logs:
 
 
 
-.. image:: images_ozols/26048.png
-    :scale: 100%
+|images_ozols/26048.png|
 
 
 
-
-Izvēloties atbilstošo aktivitātes veidu un nospiežot pogu .. image::
-images_ozols/25619.png
-    :scale: 100%
-vai atrodoties kādā no žurnāliem un rīku joslā nospiežot pogu ..
-image:: images_ozols/24708.png
-    :scale: 100%
-, tiks atvērts jauns logs:
+Izvēloties atbilstošo aktivitātes veidu un nospiežot pogu
+|images_ozols/25619.png| vai atrodoties kādā no žurnāliem un rīku
+joslā nospiežot pogu |images_ozols/24708.png| , tiks atvērts jauns
+logs:
 
 
 
-.. image:: images_ozols/26050.png
-    :scale: 100%
-
+|images_ozols/26050.png|
 
 
 
@@ -57,9 +46,8 @@ Adresāts: Izvēlnes laukā Adresāts ir jāliek no saraksta tā persona,
 kurai atgādinājums būs domāts.
 
 Ieraksts: Laukā Ieraksts būs redzams dokuments, par kuru ir taisīts
-atgādinājums. Spiežot uz lupas pogu (.. image:: images_ozols/25928.png
-    :scale: 100%
-) būs iespēja šo dokumentu atvērt.
+atgādinājums. Spiežot uz lupas pogu ( |images_ozols/25928.png| ) būs
+iespēja šo dokumentu atvērt.
 
 Virsraksts: Laukā virsraksts ir jāraksta atgādinājuma teksts.
 Informatīvs lauks - informācijai par ko atgādinājums tiek veidots.
@@ -72,22 +60,49 @@ atkārtošanas periodu.
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Atgādinātājs tiek saglabāts, ja tiek aizpildīti obligātie lauki
-adresāts, virsraksts un atgādinājuma datums.
+|images_ozols/24545.gif| Atgādinātājs tiek saglabāts, ja tiek
+aizpildīti obligātie lauki adresāts, virsraksts un atgādinājuma
+datums.
 
 Ja atgādinājums ir uzrakstīts un visi obligātie lauki aizpildīti, tad
-spiežot pogu .. image:: images_ozols/25621.png
-    :scale: 100%
-, atgādinājums tiek saglabāts sistēmā.
+spiežot pogu |images_ozols/25621.png| , atgādinājums tiek saglabāts
+sistēmā.
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Lai atgādinātāju "Izpildītu" (:doc:`statuss Izpildīts<843>` ), kad nav
-nepieciešams turpināt atgādināt, jāieliek ķeksītis .. image::
-images_ozols/26145.png
-    :scale: 100%
-.
+|images_ozols/24545.gif| Lai atgādinātāju "Izpildītu" ( :doc:`statuss
+Izpildīts<843>` ), kad nav nepieciešams turpināt atgādināt, jāieliek
+ķeksītis |images_ozols/26145.png| .
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/26049.png| image:: images_ozols/26049.png
+       :scale: 100%
+
+.. |images_ozols/26048.png| image:: images_ozols/26048.png
+       :scale: 100%
+
+.. |images_ozols/25619.png| image:: images_ozols/25619.png
+       :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/26050.png| image:: images_ozols/26050.png
+       :scale: 100%
+
+.. |images_ozols/25928.png| image:: images_ozols/25928.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/26145.png| image:: images_ozols/26145.png
+       :scale: 100%
 
  

@@ -1,18 +1,14 @@
 .. 7321 Mēģinājumu kopsavilkums*************************** 
 Mēģinājumu kopsavilkuma atskaitē ir redzami visi pievienotie un
-apstiprinātie mēģinājumi (:doc:`darbības<7307>` ). Mēģinājumu
+apstiprinātie mēģinājumi ( :doc:`darbības<7307>` ). Mēģinājumu
 kosavilkuma atskaiti iespējams sagatavot pēc konkrētiem kritērijiem
 (filtra parametriem). Lai sagatavotu atskaiti, ja nepieciešmas,
-jānorāda kāds no atlasīšanas kritērijiem un jānospiež poga .. image::
-images_ozols/26172.jpg
-    :scale: 100%
-:
+jānorāda kāds no atlasīšanas kritērijiem un jānospiež poga
+|images_ozols/26172.jpg| :
 
 
 
-.. image:: images_ozols/26170.jpg
-    :scale: 100%
-
+|images_ozols/26170.jpg|
 
 Iespējams atlasīt mēģinājumus pēc viena konkrēta :doc:`Pasākuma<7312>`
 , :doc:`Darbības<7316>` vai :doc:`Struktūrvienības<7313>` .
@@ -23,27 +19,36 @@ mēģinājumu skaits:
 
 
 
-.. image:: images_ozols/26171.jpg
-    :scale: 100%
-
+|images_ozols/26171.jpg|
 
 
 
 Aktivizējot katru kolonnas virsrakstu, parādās saīsinātā darbības
 nosaukuma atšifrējums (pilns nosaukums).
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Mēģinājuma kopsavilkumā ir redzami tikai apstiprinātie mēģinājumi
-(:doc:`darbības<7307>` ).
+|images_ozols/24545.gif| Mēģinājuma kopsavilkumā ir redzami tikai
+apstiprinātie mēģinājumi ( :doc:`darbības<7307>` ).
 
 
 
 Kopsavilkumu iespējams izdrukāt, nospiežot uz saraksta funkciju izvēli
 un izvēloties Izdrukāt:
 
-.. image:: images_ozols/26173.jpg
-    :scale: 100%
+|images_ozols/26173.jpg|
 
+.. |images_ozols/26172.jpg| image:: images_ozols/26172.jpg
+       :scale: 100%
+
+.. |images_ozols/26170.jpg| image:: images_ozols/26170.jpg
+       :scale: 100%
+
+.. |images_ozols/26171.jpg| image:: images_ozols/26171.jpg
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/26173.jpg| image:: images_ozols/26173.jpg
+       :scale: 100%
 
  

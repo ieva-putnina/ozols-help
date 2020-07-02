@@ -11,28 +11,33 @@ pamatlīdzekļuīpašuma veidu ir iespējams izmantot kā datu
 pamatlīdzekļus.
 
 Jauns pamatlīdzekļu īpašuma veidstiek pievienots pamatlīdzekļu īpašumu
-veidu sarakstā ar funkciju .. image:: images_ozols/24532.jpg
-    :scale: 100%
-. Pēc nepieciešamās informācijas aizpildīšanas jāspiež poga Saglabāt
-lai saglabātu jaunizveidoto ierakstu.
+veidu sarakstā ar funkciju |images_ozols/24532.jpg| . Pēc
+nepieciešamās informācijas aizpildīšanas jāspiež poga Saglabāt lai
+saglabātu jaunizveidoto ierakstu.
 
 
 
-.. image:: images_ozols/24531.jpg
-    :scale: 100%
+|images_ozols/24531.jpg|
 
 
 
-
-Pamatlīdzekļa īpašuma veidu labo ar funkciju .. image::
-images_ozols/24533.jpg
-    :scale: 100%
+Pamatlīdzekļa īpašuma veidu labo ar funkciju |images_ozols/24533.jpg|
 .
 
-Pamatlīdzekļu īpašuma veidu dzēš ar funkciju .. image::
-images_ozols/24534.jpg
-    :scale: 100%
+Pamatlīdzekļu īpašuma veidu dzēš ar funkciju |images_ozols/24534.jpg|
 . Pamatlīdzekļu īpašuma veidu sistēma neļauj dzēst, ja tas ir
 pievienots kādam sistēmā ievadītam pamatlīdzeklim.
+
+.. |images_ozols/24532.jpg| image:: images_ozols/24532.jpg
+       :scale: 100%
+
+.. |images_ozols/24531.jpg| image:: images_ozols/24531.jpg
+       :scale: 100%
+
+.. |images_ozols/24533.jpg| image:: images_ozols/24533.jpg
+       :scale: 100%
+
+.. |images_ozols/24534.jpg| image:: images_ozols/24534.jpg
+       :scale: 100%
 
  

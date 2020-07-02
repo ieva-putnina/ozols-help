@@ -4,9 +4,7 @@ uzstādīšanas laikā.
 
 
 
-.. image:: images_ozols/25613.png
-    :scale: 100%
-
+|images_ozols/25613.png|
 
 
 
@@ -15,8 +13,12 @@ risinājums dod iespēju lietotājam iegūt datus statistikas atskaitēm.
 
 
 
-.. image:: images_ozols/25614.png
-    :scale: 100%
+|images_ozols/25614.png|
 
+.. |images_ozols/25613.png| image:: images_ozols/25613.png
+       :scale: 100%
+
+.. |images_ozols/25614.png| image:: images_ozols/25614.png
+       :scale: 100%
 
  

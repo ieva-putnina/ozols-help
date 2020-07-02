@@ -10,9 +10,7 @@ Algas aprēķina.
 
 
 
-.. image:: images_ozols/26399.png
-    :scale: 100%
-
+|images_ozols/26399.png|
 
 
 
@@ -29,5 +27,8 @@ Notikums: norādīts notikums
 
 Stundas: jānorāda gadījumā, ja ir saīsināts stundu skaits darba
 dienā(mazāk par 8)
+
+.. |images_ozols/26399.png| image:: images_ozols/26399.png
+       :scale: 100%
 
  

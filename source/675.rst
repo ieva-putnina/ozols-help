@@ -9,18 +9,14 @@ plāna<114>` , jābūt atzīmētai izvēles rūtiņai VKS:
 
 
 
-.. image:: images_ozols/25130.png
-    :scale: 100%
-
+|images_ozols/25130.png|
 
 
 
 Ja uzņēmuma grāmatvedības uzskaitē tiek izmantotas datu uzskaites
 dimensijas un valūtas kursa svārstību rezultātā radušos peļņu vai
 zaudējumus nepieciešams sadalīt pa dimensijām, konta aprakstā jāatzīmē
-arī izvēles rūtiņa: .. image:: images_ozols/25131.png
-    :scale: 100%
-
+arī izvēles rūtiņa: |images_ozols/25131.png|
 
 
 
@@ -29,9 +25,7 @@ atzīmētiem kontiem:
 
 
 
-.. image:: images_ozols/25132.png
-    :scale: 100%
-
+|images_ozols/25132.png|
 
 
 
@@ -41,9 +35,7 @@ valūtu kursu svārstību aprēķinu:
 
 
 
-.. image:: images_ozols/25133.png
-    :scale: 100%
-
+|images_ozols/25133.png|
 
 
 
@@ -55,9 +47,7 @@ periodu, par kuru šis aprēķins tiks veikts:
 
 
 
-.. image:: images_ozols/25217.png
-    :scale: 100%
-
+|images_ozols/25217.png|
 
 
 
@@ -66,23 +56,16 @@ perioda beidzamajā dienā, jāatzīmē izvēles rūtiņa:
 
 
 
-.. image:: images_ozols/25219.png
-    :scale: 100%
-
+|images_ozols/25219.png|
 
 
 
 3. Pēc izvēlētā perioda norādīšanas, iespējams veikt valūtu kursu
-svārstību aprēķinu, nospiežot komandpogu .. image::
-images_ozols/25220.png
-    :scale: 100%
-:
+svārstību aprēķinu, nospiežot komandpogu |images_ozols/25220.png| :
 
 
 
-.. image:: images_ozols/25224.png
-    :scale: 100%
-
+|images_ozols/25224.png|
 
 
 
@@ -92,24 +75,18 @@ svārstību aprēķina logā nospiežot komandpogu "JĀ":
 
 
 
-.. image:: images_ozols/25225.png
-    :scale: 100%
-
+|images_ozols/25225.png|
 
 
 
 Tiks atvērts grāmatojumu žurnāla logs, kurā būs pieejami valūtu kursu
 svārstību aprēķina rezultātā izveidotie grāmatojumi, kurus iespējams
-atvērt, izmantojot rīku joslā pieejamo komandpogu .. image::
-images_ozols/24709.png
-    :scale: 100%
-:
+atvērt, izmantojot rīku joslā pieejamo komandpogu
+|images_ozols/24709.png| :
 
 
 
-.. image:: images_ozols/25226.png
-    :scale: 100%
-
+|images_ozols/25226.png|
 
 
 
@@ -119,8 +96,7 @@ grāmatojuma žurnāla filtrā, norādot attiecīgo grāmatojuma veidu:
 
 
 
-.. image:: images_ozols/25228.png
-    :scale: 100%
+|images_ozols/25228.png|
 
 
 
@@ -132,5 +108,40 @@ grāmatojuma žurnāla filtrā, norādot attiecīgo grāmatojuma veidu:
 
 
 
+.. |images_ozols/25130.png| image:: images_ozols/25130.png
+       :scale: 100%
+
+.. |images_ozols/25131.png| image:: images_ozols/25131.png
+       :scale: 100%
+
+.. |images_ozols/25132.png| image:: images_ozols/25132.png
+       :scale: 100%
+
+.. |images_ozols/25133.png| image:: images_ozols/25133.png
+       :scale: 100%
+
+.. |images_ozols/25217.png| image:: images_ozols/25217.png
+       :scale: 100%
+
+.. |images_ozols/25219.png| image:: images_ozols/25219.png
+       :scale: 100%
+
+.. |images_ozols/25220.png| image:: images_ozols/25220.png
+       :scale: 100%
+
+.. |images_ozols/25224.png| image:: images_ozols/25224.png
+       :scale: 100%
+
+.. |images_ozols/25225.png| image:: images_ozols/25225.png
+       :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+       :scale: 100%
+
+.. |images_ozols/25226.png| image:: images_ozols/25226.png
+       :scale: 100%
+
+.. |images_ozols/25228.png| image:: images_ozols/25228.png
+       :scale: 100%
 
  

@@ -8,25 +8,31 @@ strādājošajiem atvaļinājuma garums ir atšķirīgs, tad jāizveido vairāki
 atvaļinājuma kalendāri un atbilstošais jānorāda strādājošā slodzes
 aprakstā.
 
-Lai izveidotu Atvaļinājuma kalendāru, jānospiež Rīku joslā poga ..
-image:: images_ozols/25605.png
-    :scale: 100%
-, un attiecīgi jāieraksta nosaukums un Atv. darba dienu skaits, un ..
-image:: images_ozols/24615.jpg
-    :scale: 100%
+Lai izveidotu Atvaļinājuma kalendāru, jānospiež Rīku joslā poga
+|images_ozols/25605.png| , un attiecīgi jāieraksta nosaukums un Atv.
+darba dienu skaits, un |images_ozols/24615.jpg|
 
 
 
+|images_ozols/25606.png|
 
-.. image:: images_ozols/25606.png
-    :scale: 100%
+Lai labotu, jānospiež Rīku joslā poga |images_ozols/25603.png|
+(Alt+A), un, pēc labojumu veikšanas, jānospiež poga
+|images_ozols/24615.jpg| .
 
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+       :scale: 100%
 
-Lai labotu, jānospiež Rīku joslā poga.. image:: images_ozols/25603.png
-    :scale: 100%
-(Alt+A), un, pēc labojumu veikšanas, jānospiež poga .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-.
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/25606.png| image:: images_ozols/25606.png
+       :scale: 100%
+
+.. |images_ozols/25603.png| image:: images_ozols/25603.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
 
  

@@ -4,9 +4,7 @@ Visi pievienotie darba uzdevumi tiek saglabāti :doc:`darba uzdevumu
 
 Pievienojot jaunu darba uzdevumu, tiek atvērt logs:
 
-.. image:: images_ozols/25880.png
-    :scale: 100%
-
+|images_ozols/25880.png|
 
 
 
@@ -39,9 +37,7 @@ Kampaņa : iespējams piesaistīt kampaņu;
 
 Apraksts : darba uzdevuma apraksts, kuru iespējams noformēr kā Word.
 
-Ja visa informācija ievadīta, jānospiež poga .. image::
-images_ozols/25829.png
-    :scale: 100%
+Ja visa informācija ievadīta, jānospiež poga |images_ozols/25829.png|
 .
 
 Darba uzdevums tiek saglabāts un, ja adresātam ir norādīta e-pasta
@@ -49,9 +45,7 @@ adrese, tad adresāts saņem šo darba uzdevumu:
 
 
 
-.. image:: images_ozols/25881.png
-    :scale: 100%
-
+|images_ozols/25881.png|
 
 
 
@@ -60,13 +54,23 @@ saglabāta zem darba uzdevuma sadaļā Darbības:
 
 
 
-.. image:: images_ozols/25882.png
-    :scale: 100%
-
+|images_ozols/25882.png|
 
 
 
 Visas veiktās darbības tiek nosūtītas partnerim. Arī Izpildītam darba
 uzdevuma ir iespējams veikt dažādas darbības.
+
+.. |images_ozols/25880.png| image:: images_ozols/25880.png
+       :scale: 100%
+
+.. |images_ozols/25829.png| image:: images_ozols/25829.png
+       :scale: 100%
+
+.. |images_ozols/25881.png| image:: images_ozols/25881.png
+       :scale: 100%
+
+.. |images_ozols/25882.png| image:: images_ozols/25882.png
+       :scale: 100%
 
  .. toctree::   :maxdepth: 4    4451.rst   5027.rst   4471.rst   4452.rst

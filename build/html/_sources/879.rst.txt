@@ -15,23 +15,15 @@ izdrukas, vai arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek
 izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu satura
 aizpildīšanā.
 
-Datu atlases kritērijus var saglabāt (.. image::
-images_ozols/24938.png
-    :scale: 100%
-). Izvēloties izveidoto filtra sagatavi (.. image::
-images_ozols/24943.png
-    :scale: 100%
-), filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai
-izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež
-poga.. image:: images_ozols/24535.gif
-    :scale: 100%
-(Ctrl+F), tiek atvērts filtra logs:
+Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
+Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
+filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu
+atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež poga
+|images_ozols/24535.gif| (Ctrl+F), tiek atvērts filtra logs:
 
 
 
-.. image:: images_ozols/25945.png
-    :scale: 100%
-
+|images_ozols/25945.png|
 
 
 
@@ -56,8 +48,8 @@ Partneris : Juridiska vai Fiziska persona, kurai šis Piedāvājuma
 dokuments ir sagatavots
 
 Sektors : Partnera :doc:`Sektora<810>` dalījums, kas norādīts
-:doc:`Partnera<112>` aprakstā (sadaļa Pārējie
-dati),kuram:doc:`Piedāvājuma<743>` dokuments sagatavots
+:doc:`Partnera<112>` aprakstā (sadaļa Pārējie dati),kuram
+:doc:`Piedāvājuma<743>` dokuments sagatavots
 
 Atgādinājums: Atlases kritērijs, pēc Piedāvājuma dokumentam
 piesaistītajiem atgādinājumiem
@@ -68,7 +60,7 @@ izmaiņu datumu no..līdz
 Lietotājs: Lietotājs, kurš pievienojis ierakstu
 
 Partnera grupa : :doc:`Partneru grupu<113>` dalījums, kas norādīts
-:doc:`Partnera<112>` aprakstā, kuram:doc:`Piedāvājuma<743>` dokuments
+:doc:`Partnera<112>` aprakstā, kuram :doc:`Piedāvājuma<743>` dokuments
 sagatavots
 
 Prioritāte : Piedāvāvājuma dokumenta Prioritātes līmenis.
@@ -76,9 +68,22 @@ Prioritāte : Piedāvāvājuma dokumenta Prioritātes līmenis.
 
 
 Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
-kritērijiem,pēc filtra iestādījumu aizpildīšanas,jānospiež poga ..
-image:: images_ozols/25944.png
-    :scale: 100%
-.
+kritērijiem,pēc filtra iestādījumu aizpildīšanas,jānospiež poga
+|images_ozols/25944.png| .
+
+.. |images_ozols/24938.png| image:: images_ozols/24938.png
+       :scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+       :scale: 100%
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+       :scale: 100%
+
+.. |images_ozols/25945.png| image:: images_ozols/25945.png
+       :scale: 100%
+
+.. |images_ozols/25944.png| image:: images_ozols/25944.png
+       :scale: 100%
 
  

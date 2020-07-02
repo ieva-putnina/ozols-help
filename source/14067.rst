@@ -5,9 +5,7 @@ No izvēlnes nepieciešams aktivizēt darba režīmu:
 
 
 
-.. image:: images_ozols/25750.png
-    :scale: 100%
-
+|images_ozols/25750.png|
 
 
 
@@ -15,9 +13,7 @@ Tiks atvērts Programmas "Ozols" jauninājumu logs:
 
 
 
-.. image:: images_ozols/25752.png
-    :scale: 100%
-
+|images_ozols/25752.png|
 
 
 
@@ -27,9 +23,7 @@ sekojoši:
 
 
 
-- Nepieciešams izvēlēties komandu: .. image:: images_ozols/25753.png
-    :scale: 100%
-
+- Nepieciešams izvēlēties komandu: |images_ozols/25753.png|
 
 
 
@@ -43,9 +37,7 @@ sekojoši:
 
 
 
-.. image:: images_ozols/25754.png
-    :scale: 100%
-
+|images_ozols/25754.png|
 
 
 
@@ -53,9 +45,7 @@ sekojoši:
 
 
 
-.. image:: images_ozols/25755.png
-    :scale: 100%
-
+|images_ozols/25755.png|
 
 
 
@@ -63,8 +53,24 @@ sekojoši:
 
 
 
-.. image:: images_ozols/25756.png
-    :scale: 100%
+|images_ozols/25756.png|
 
+.. |images_ozols/25750.png| image:: images_ozols/25750.png
+       :scale: 100%
+
+.. |images_ozols/25752.png| image:: images_ozols/25752.png
+       :scale: 100%
+
+.. |images_ozols/25753.png| image:: images_ozols/25753.png
+       :scale: 100%
+
+.. |images_ozols/25754.png| image:: images_ozols/25754.png
+       :scale: 100%
+
+.. |images_ozols/25755.png| image:: images_ozols/25755.png
+       :scale: 100%
+
+.. |images_ozols/25756.png| image:: images_ozols/25756.png
+       :scale: 100%
 
  

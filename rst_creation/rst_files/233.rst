@@ -20,16 +20,12 @@ dokumentiem, kuri saistīti ar Pamatlīdzekļiem:
 + :doc:`Pamatlīdzekļu pārsūtīšanas dokumenti<437>` .
 
 
-Lai atlasītu precīzāku dokumenta veidu, Rīku joslā jānospiež poga ..
-image:: images_ozols/24535.gif
-    :scale: 100%
-(Ctrl+F), tiek atvērts logs:
+Lai atlasītu precīzāku dokumenta veidu, Rīku joslā jānospiež poga
+|images_ozols/24535.gif| (Ctrl+F), tiek atvērts logs:
 
 
 
-.. image:: images_ozols/25433.png
-    :scale: 100%
-
+|images_ozols/25433.png|
 
 
 
@@ -40,23 +36,19 @@ Atlasīšana ir iespējama atlasot pēc:
 + datuma;
 + numura;
 + dokumenta veida;
-+ atzīmējot izvēles rūtiņu .. image:: images_ozols/25435.png :scale:
-  100% un skatlodziņā tiek rādīta pēdējā izvēle. Lai sarakstu atvērtu,
-  jānoklikšķina uz bultiņas saraksta labajā pusē .. image::
-  images_ozols/25434.png     :scale: 100% un jāizvēlas attiecīgie dokumenti;
-+ atzīmējot izvēles rūtiņu .. image:: images_ozols/25436.png :scale:
-  100% , tiks atlasīti arī anulētie dokumenti.
++ atzīmējot izvēles rūtiņu |images_ozols/25435.png| un skatlodziņā
+  tiek rādīta pēdējā izvēle. Lai sarakstu atvērtu, jānoklikšķina uz
+  bultiņas saraksta labajā pusē |images_ozols/25434.png| un jāizvēlas
+  attiecīgie dokumenti;
++ atzīmējot izvēles rūtiņu |images_ozols/25436.png| , tiks atlasīti
+  arī anulētie dokumenti.
 
 
 Kad visi vēlamie dokumenta atlasīšanas kritēriji ir atzīmēti,
-jānospiež poga.. image:: images_ozols/25379.png
-    :scale: 100%
-.
+jānospiež poga |images_ozols/25379.png| .
 
 Kad dokuments ir atlasīts, to ir iespējams detalizētāk apskatīt, Rīku
-joslā nospiežot pogu .. image:: images_ozols/25420.png
-    :scale: 100%
-(Alt+A).
+joslā nospiežot pogu |images_ozols/25420.png| (Alt+A).
 
 
 
@@ -64,5 +56,26 @@ joslā nospiežot pogu .. image:: images_ozols/25420.png
 Instrukcija par vairāku Pamatlīdzekļu automatizētu apstrādi pieejama
 :doc:`šeit`
 
+
+.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+       :scale: 100%
+
+.. |images_ozols/25433.png| image:: images_ozols/25433.png
+       :scale: 100%
+
+.. |images_ozols/25435.png| image:: images_ozols/25435.png
+       :scale: 100%
+
+.. |images_ozols/25434.png| image:: images_ozols/25434.png
+       :scale: 100%
+
+.. |images_ozols/25436.png| image:: images_ozols/25436.png
+       :scale: 100%
+
+.. |images_ozols/25379.png| image:: images_ozols/25379.png
+       :scale: 100%
+
+.. |images_ozols/25420.png| image:: images_ozols/25420.png
+       :scale: 100%
 
  

@@ -6,36 +6,40 @@ aizpildīšanai, lai aizpildīšanas procesu padarītu automatizētāku un
 grafiku veidu, kurus tālāk varēs izmantot Tabeles aizpildīšanai
 iOzolā.
 Lai pievienotu jaunu Amata kvalifikācijas kategoriju, rīku joslā
-jānospiež poga .. image:: images_ozols/25605.png
-    :scale: 100%
-un jāaizpilda nepieciešamā informācija, ievadot darba laika grafika
-kodu un nosaukumu:
+jānospiež poga |images_ozols/25605.png| un jāaizpilda nepieciešamā
+informācija, ievadot darba laika grafika kodu un nosaukumu:
 
-.. image:: images_ozols/26441.png
-    :scale: 100%
-
+|images_ozols/26441.png|
 
 Pēc tam nepieciešams aizpildīt darba laika grafika saturu, norādot
 atbilstošo plānoto grafiku nedēļai, nospiežot pogu "Pievienot" ->
 Norādot atbilstošo secību grafikā - piemēram, 1 (pirmā diena), stundu
 skaits - 12 (12 stundas dienā) un saglabājot ierakstu:
 
-.. image:: images_ozols/26442.png
-    :scale: 100%
-
+|images_ozols/26442.png|
 
 Atbilstoši nepieciešams norādīt pilnu darba laika grafika ciklu
 nedēļai, norādot atbilstošās dienas un nakts stundas katrai cikla
 dienai - piemēram, cikls - 2 dienas stradā pa 12 stundām dienā un 2
 dienas brīvas, izskatīsies šādi:
 
-.. image:: images_ozols/26443.png
-    :scale: 100%
+|images_ozols/26443.png|
 
+Ieraksts tiks saglabāts, izpildot komandu |images_ozols/24710.png| .
 
-Ieraksts tiks saglabāts, izpildot komandu .. image::
-images_ozols/24710.png
-    :scale: 100%
-.
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+       :scale: 100%
+
+.. |images_ozols/26441.png| image:: images_ozols/26441.png
+       :scale: 100%
+
+.. |images_ozols/26442.png| image:: images_ozols/26442.png
+       :scale: 100%
+
+.. |images_ozols/26443.png| image:: images_ozols/26443.png
+       :scale: 100%
+
+.. |images_ozols/24710.png| image:: images_ozols/24710.png
+       :scale: 100%
 
  

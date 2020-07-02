@@ -53,12 +53,13 @@ Ekrāna formas aizvēršana
 
 
 
-.. image:: images_ozols/25301.png
-    :scale: 100%
+|images_ozols/25301.png|
 
 
 
 
 
+.. |images_ozols/25301.png| image:: images_ozols/25301.png
+       :scale: 100%
 
  .. toctree::   :maxdepth: 4    14035.rst

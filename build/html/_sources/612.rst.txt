@@ -16,14 +16,15 @@ Atskaiti var sagatavot pa atsevišķiem aprēķina periodiem,
 struktūrvienībām, var atlasīt datus pēc amatiem, grupēt pēc amatiem
 vai struktūrvienības.
 
-.. image:: images_ozols/26553.png
-    :scale: 100%
-
+|images_ozols/26553.png|
 
 Atskaite parādā arī kopējo noteikto budžetu amatam un faktisko summas
 izlietojumu. Kolonnā starpība tiek aprēķināts, vai budžetam vēl ir
 atlikums, vai arī tas ir pārtērēts.
 Atskaite par algu budžetu un tā faktisko izpildi tiek sagatavota tikai
 HTML skatā.
+
+.. |images_ozols/26553.png| image:: images_ozols/26553.png
+       :scale: 100%
 
  

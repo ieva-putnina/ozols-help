@@ -2,7 +2,7 @@
 
 
 IzmantojotCRM (Partneri)dokumentus, iespējams pievienot jaunus
-uzņēmuma:doc:`Partnerus<312>` un :doc:`Potenciālos partnerus<884>` ,
+uzņēmuma :doc:`Partnerus<312>` un :doc:`Potenciālos partnerus<884>` ,
 Partneru :doc:`Adreses<392>` , kā arī :doc:`Kontaktus<389>` , visu ar
 Partneriems saistīto :doc:`Korespondenci<745>` , dažāda veida
 :doc:`Aktivitātes<743>` un :doc:`Atgādinātājus<875>` .

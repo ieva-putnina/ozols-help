@@ -8,17 +8,13 @@ noteiktā formātā.
 
 
 Lai izveidotu un aizpildītu izmaksu sarakstu, izmaksu sarakstu žurnālā
-jānospiež poga: .. image:: images_ozols/25605.png
-    :scale: 100%
-
+jānospiež poga: |images_ozols/25605.png|
 
 Tiks atvērts izmaksu saraksta virsraksts:
 
 
 
-.. image:: images_ozols/26251.png
-    :scale: 100%
-
+|images_ozols/26251.png|
 
 
 
@@ -69,33 +65,43 @@ manuāli.
 
 
 Pēc izmaksu saraksta aizpildīšanas, sarakstu nepieciešams saglabāt,
-nospiežot pogu: .. image:: images_ozols/25621.png
-    :scale: 100%
-.
+nospiežot pogu: |images_ozols/25621.png| .
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Kad no algu aprēķina izmaksājamās summas ir nosūtītas uz izmaksu
-sarakstu, tad atverot izmaksu sarakstu, ir redzams, ka tas ir
-aizpildīts. Ja nepieciešamas labot izmaksu saraksta virsrakstu,
-jāizmanto komanda Funkcijas no atvērta dokumenta. Jāapstiprina un
-jādrukā izmaksu saraksts.
+|images_ozols/24545.gif| Kad no algu aprēķina izmaksājamās summas ir
+nosūtītas uz izmaksu sarakstu, tad atverot izmaksu sarakstu, ir
+redzams, ka tas ir aizpildīts. Ja nepieciešamas labot izmaksu saraksta
+virsrakstu, jāizmanto komanda Funkcijas no atvērta dokumenta.
+Jāapstiprina un jādrukā izmaksu saraksts.
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Instrukcija - :doc:`Izmaksu sarakstu eksports uz banku elektronisko
-norēķinu sistēmām<14116>`
+|images_ozols/24545.gif| Instrukcija - :doc:`Izmaksu sarakstu eksports
+uz banku elektronisko norēķinu sistēmām<14116>`
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Instrukcija - :doc:`Avansu (starpmaksājumu) izmaksu sarakstu
-izveidošana<14115>`
+|images_ozols/24545.gif| Instrukcija - :doc:`Avansu (starpmaksājumu)
+izmaksu sarakstu izveidošana<14115>`
 
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+       :scale: 100%
+
+.. |images_ozols/26251.png| image:: images_ozols/26251.png
+       :scale: 100%
+
+.. |images_ozols/25621.png| image:: images_ozols/25621.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
 
  

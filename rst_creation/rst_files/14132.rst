@@ -5,21 +5,23 @@ Lai pieslēgtos sistēmai nepieciešams aizpildīt sekojošus datus:
 
 
 
-.. image:: images_ozols/26376.png
-    :scale: 100%
+|images_ozols/26376.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Ja pieslēgties neizdodas, jāpārbauda vai parole ir ievadīta
-atbilstoši, vai uz klaviatūras nav iespēgts "Caps Lock". Ja
-pieslēgties tomēr neizdodas, nepieciešams nosūtīt informāciju
-administratoram
+|images_ozols/24545.gif| Ja pieslēgties neizdodas, jāpārbauda vai
+parole ir ievadīta atbilstoši, vai uz klaviatūras nav iespēgts "Caps
+Lock". Ja pieslēgties tomēr neizdodas, nepieciešams nosūtīt
+informāciju administratoram
 
 
 
 :doc:`Personāla pašapkalpošanās<4407>`
+
+.. |images_ozols/26376.png| image:: images_ozols/26376.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
 
  

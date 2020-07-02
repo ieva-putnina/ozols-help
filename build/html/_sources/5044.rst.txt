@@ -11,9 +11,7 @@ atpakaļejošu statusu, jāapstiprina:
 
 
 
-.. image:: images_ozols/26318.png
-    :scale: 100%
-
+|images_ozols/26318.png|
 
 
 
@@ -22,5 +20,8 @@ atfiltrētu pieprasījumu, kuram tika mainīts statuss.
 
 Statusa maiņa nepieciešama, lai veiktu budžeta pieprasījuma sākuma
 informācijas korekcijas.
+
+.. |images_ozols/26318.png| image:: images_ozols/26318.png
+       :scale: 100%
 
  

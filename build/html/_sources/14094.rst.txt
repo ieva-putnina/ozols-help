@@ -1,8 +1,4 @@
-.. 14094
- 
-Novērotās problēmas programmas atjaunošanas laikā
-*****************************************************
- 
+.. 14094 Novērotās problēmas programmas atjaunošanas laikā***************************************************** 
 
 
 1. :doc:`Darba izpildes loga<735>` JOB izpildes aprakstākolonnā
@@ -37,5 +33,4 @@ atjaunošanas katalogs. Vai JOB īpašniekam ir tiesības ierakstīt dotajā
 katalogā.
 
 
-
- 
+ 

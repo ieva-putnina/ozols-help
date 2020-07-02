@@ -9,17 +9,19 @@ pievienoti Dokumentu žurnālā.
 Jauna ziņojuma pievienošana
 +++++++++++++++++++++++++++
 
-JaunuZiņojumu iespējams pievienot, nospiežotRīku joslā esošo pogu..
-image:: images_ozols/24708.png
-    :scale: 100%
-un tiks atvērts jauns logs:
+JaunuZiņojumu iespējams pievienot, nospiežotRīku joslā esošo pogu
+|images_ozols/24708.png| un tiks atvērts jauns logs:
 
 
 
-.. image:: images_ozols/25946.png
-    :scale: 100%
+|images_ozols/25946.png|
 
 
 
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/25946.png| image:: images_ozols/25946.png
+       :scale: 100%
 
  

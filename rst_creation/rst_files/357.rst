@@ -16,16 +16,12 @@ Jauna savstarpējo norēķinu dzēšanas akta pievienošana
 `````````````````````````````````````````````````````
 
 Norēķini>Dokumenti>Savstarpējo norēķinu dzēšanas akti, un rīku joslā
-jānospiež poga .. image:: images_ozols/25605.png
-    :scale: 100%
-, vai jāizvēlas Norēķini>Jauns>Savstarpējo norēķinu dzēšanas akts,
-tiek atvērts logs:
+jānospiež poga |images_ozols/25605.png| , vai jāizvēlas
+Norēķini>Jauns>Savstarpējo norēķinu dzēšanas akts, tiek atvērts logs:
 
 
 
-.. image:: images_ozols/26480.png
-    :scale: 100%
-
+|images_ozols/26480.png|
 
 
 
@@ -39,16 +35,13 @@ saraksta jāizvēlas attiecīgais :doc:`partneris<112>` .
 Pēc dokumenta virsraksta aizpildīšanas, jāpievieno dokumenta saturs.
 Dokumenta saturā jāpievieno iepirkuma un pārdošanas dokumenti, ar
 kuriem notiks savstarpējā norēķinu dzēšana. Dokumenta saturu pievieno,
-nospiežot pogu .. image:: images_ozols/25605.png
-    :scale: 100%
-. Tiek atvērt logs, kurā attiecīgi jāizvēlas izvēlētā partnera
-iepirkuma vai pārdošanas dokumenti:
+nospiežot pogu |images_ozols/25605.png| . Tiek atvērt logs, kurā
+attiecīgi jāizvēlas izvēlētā partnera iepirkuma vai pārdošanas
+dokumenti:
 
 
 
-.. image:: images_ozols/26481.png
-    :scale: 100%
-
+|images_ozols/26481.png|
 
 
 
@@ -61,16 +54,30 @@ dokumentu ieskaita summām jābūt vienādām.
 
 
 
-Dokuments jāapstiprina, rīku joslā nospiežot pogu .. image::
-images_ozols/25702.png
-    :scale: 100%
-. Lai dokumentu drukātu, rīku joslā jānospiež poga .. image::
-images_ozols/25813.png
-    :scale: 100%
-un jāizvēlas attiecīgā izdrukas forma. Kad apstiprina norēķinu aktu,
-tajā pievienotie dokumenti tiek sasaistīti. Līdz ar to dokumentu
-parāda summas tiek dzēstas un dokumenti tiek uzskatīti kā apmaksāti.
-Savstarpējo norēķinu dzēšanas aktu var grāmatot tā pat kā pārējos
-norēķinu dokumentus.
+Dokuments jāapstiprina, rīku joslā nospiežot pogu
+|images_ozols/25702.png| . Lai dokumentu drukātu, rīku joslā jānospiež
+poga |images_ozols/25813.png| un jāizvēlas attiecīgā izdrukas forma.
+Kad apstiprina norēķinu aktu, tajā pievienotie dokumenti tiek
+sasaistīti. Līdz ar to dokumentu parāda summas tiek dzēstas un
+dokumenti tiek uzskatīti kā apmaksāti. Savstarpējo norēķinu dzēšanas
+aktu var grāmatot tā pat kā pārējos norēķinu dokumentus.
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+       :scale: 100%
+
+.. |images_ozols/26480.png| image:: images_ozols/26480.png
+       :scale: 100%
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+       :scale: 100%
+
+.. |images_ozols/26481.png| image:: images_ozols/26481.png
+       :scale: 100%
+
+.. |images_ozols/25702.png| image:: images_ozols/25702.png
+       :scale: 100%
+
+.. |images_ozols/25813.png| image:: images_ozols/25813.png
+       :scale: 100%
 
  

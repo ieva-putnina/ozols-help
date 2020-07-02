@@ -11,16 +11,12 @@ sistēmu.
 Jaunas Elektronisko norēķinu sistēmas pievienošana:
 ```````````````````````````````````````````````````
 
-Lai pievienotu jaunu elektronisko norēķinu sistēmu jānospiež poga..
-image:: images_ozols/24708.png
-    :scale: 100%
-un tiks atvērts jauns logs:
+Lai pievienotu jaunu elektronisko norēķinu sistēmu jānospiež poga
+|images_ozols/24708.png| un tiks atvērts jauns logs:
 
 
 
-.. image:: images_ozols/24581.jpg
-    :scale: 100%
-
+|images_ozols/24581.jpg|
 
 
 
@@ -28,9 +24,7 @@ Nepieciešams izvēlēties atbilstošo bankas sistēmu no saraksta:
 
 
 
-.. image:: images_ozols/24584.jpg
-    :scale: 100%
-
+|images_ozols/24584.jpg|
 
 
 
@@ -38,9 +32,7 @@ Jānorāda "ceļš" importa un eksporta katalogam:
 
 
 
-.. image:: images_ozols/24583.jpg
-    :scale: 100%
-
+|images_ozols/24583.jpg|
 
 
 
@@ -49,9 +41,7 @@ Jānorāda "ceļš" importa un eksporta katalogam:
 Papildiespēju atzīmēšana Elektronisko norēķinu sistēmai:
 ````````````````````````````````````````````````````````
 
-.. image:: images_ozols/24588.jpg
-    :scale: 100%
-
+|images_ozols/24588.jpg|
 
 Atzīmējot šo izvēles rūtiņu, būs iespējams importēt visus programmā
 sagatavotos izejošos maksājumus - :doc:`Bankas izdevumu
@@ -60,9 +50,7 @@ atzīmēta pazīme "Eksportēt uz bankas elektronisko norēķinu sistēmu".
 
 
 
-.. image:: images_ozols/24589.jpg
-    :scale: 100%
-
+|images_ozols/24589.jpg|
 
 Atzīmējot šo izvēles rūtiņu, iespēja no elektronisko norēķinu
 sistēmasneimportēt programmā bankas komisijas dokumentus. Šo iespēju
@@ -72,9 +60,7 @@ dokumentus.
 
 
 
-.. image:: images_ozols/24590.jpg
-    :scale: 100%
-
+|images_ozols/24590.jpg|
 
 Atzīmējot šo izvēles rūtiņu, eksportējot bankas izdevumu dokumentus,
 iepriekš sagatavotais fails tiks pārrakstīts (dzēsts) un aizstāts ar
@@ -83,9 +69,7 @@ jaunizveidoto failu.
 
 
 Kad visi nepieciešamie lauki ir aizpildīti, lai saglabātu Elektronisko
-norēķinu sistēmu, nepieciešams nospiest pogu .. image::
-images_ozols/24615.jpg
-    :scale: 100%
+norēķinu sistēmu, nepieciešams nospiest pogu |images_ozols/24615.jpg|
 .
 
 
@@ -94,20 +78,49 @@ PievienotāsElektronisko norēķinu sistēmas labošana:
 ```````````````````````````````````````````````````
 
 Lai veiktu labojumus pievienotajā Elektronisko norēķinu sistēmā,
-ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu.. image::
-images_ozols/24709.png
-    :scale: 100%
-(ALT+A), unatvērtajā logā iespējams veiktnepieciešamos labojumus:
+ierakstu nepieciešams atvērt, izmantojot rīku joslas pogu
+|images_ozols/24709.png| (ALT+A), unatvērtajā logā iespējams
+veiktnepieciešamos labojumus:
 
-.. image:: images_ozols/24616.jpg
-    :scale: 100%
+|images_ozols/24616.jpg|
 
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-vai .. image:: images_ozols/24617.jpg
-    :scale: 100%
-.
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/24581.jpg| image:: images_ozols/24581.jpg
+       :scale: 100%
+
+.. |images_ozols/24584.jpg| image:: images_ozols/24584.jpg
+       :scale: 100%
+
+.. |images_ozols/24583.jpg| image:: images_ozols/24583.jpg
+       :scale: 100%
+
+.. |images_ozols/24588.jpg| image:: images_ozols/24588.jpg
+       :scale: 100%
+
+.. |images_ozols/24589.jpg| image:: images_ozols/24589.jpg
+       :scale: 100%
+
+.. |images_ozols/24590.jpg| image:: images_ozols/24590.jpg
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+       :scale: 100%
+
+.. |images_ozols/24616.jpg| image:: images_ozols/24616.jpg
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+       :scale: 100%
 
  

@@ -1,5 +1,5 @@
 .. 7319 Pirmizrāžu plāns******************** 
-Pirmizrāžu plāna atskaitē ir redzami visi pievienotie:doc:`
+Pirmizrāžu plāna atskaitē ir redzami visi pievienotie :doc:`
 notikumi<7308>` , kuru :doc:`darbības<7316>` veids ir Pirmizrāde.
 Pirmizrāžu plānā ir redzamas arī iestudējuma izmaksas, kuras tika
 nodefinētas pie :doc:`pasākuma <7303>` mākslinieciskajām izmaksām.
@@ -9,31 +9,37 @@ un radošās brigādes:
 
 
 
-.. image:: images_ozols/26182.jpg
-    :scale: 100%
+|images_ozols/26182.jpg|
 
 
 
-
-Lai izdrukātu pirmizrāžu plānu, jāizvēlas saraksta funkcija Izdrukāt
-(.. image:: images_ozols/26180.jpg
-    :scale: 100%
-), un, ja nepieciešams mainīt izdrukas formu, tad saraksta funkciju
-izvēles sarakstā jānospiež poga .. image:: images_ozols/26177.jpg
-    :scale: 100%
-(mainīt izdrukas formu), un, pēc izdrukas formas izvēles un
-saglabāšanas, jāizvēlas funkcija Izdrukāt:
+Lai izdrukātu pirmizrāžu plānu, jāizvēlas saraksta funkcija Izdrukāt (
+|images_ozols/26180.jpg| ), un, ja nepieciešams mainīt izdrukas formu,
+tad saraksta funkciju izvēles sarakstā jānospiež poga
+|images_ozols/26177.jpg| (mainīt izdrukas formu), un, pēc izdrukas
+formas izvēles un saglabāšanas, jāizvēlas funkcija Izdrukāt:
 
 
 
-.. image:: images_ozols/26184.jpg
-    :scale: 100%
+|images_ozols/26184.jpg|
 
 
 
+|images_ozols/26183.jpg|
 
-.. image:: images_ozols/26183.jpg
-    :scale: 100%
+.. |images_ozols/26182.jpg| image:: images_ozols/26182.jpg
+       :scale: 100%
 
+.. |images_ozols/26180.jpg| image:: images_ozols/26180.jpg
+       :scale: 100%
+
+.. |images_ozols/26177.jpg| image:: images_ozols/26177.jpg
+       :scale: 100%
+
+.. |images_ozols/26184.jpg| image:: images_ozols/26184.jpg
+       :scale: 100%
+
+.. |images_ozols/26183.jpg| image:: images_ozols/26183.jpg
+       :scale: 100%
 
  

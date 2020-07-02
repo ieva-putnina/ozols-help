@@ -18,9 +18,7 @@ atvērts jauns logs:
 
 
 
-.. image:: images_ozols/24992.png
-    :scale: 100%
-
+|images_ozols/24992.png|
 
 
 
@@ -39,9 +37,7 @@ izpildīts:
 
 
 
-.. image:: images_ozols/24724.png
-    :scale: 100%
-
+|images_ozols/24724.png|
 
 
 
@@ -49,9 +45,7 @@ izpildīts:
 
 
 
-.. image:: images_ozols/24725.png
-    :scale: 100%
-
+|images_ozols/24725.png|
 
 
 
@@ -60,9 +54,7 @@ ievadīt kopējo Dokumenta summu:
 
 
 
-.. image:: images_ozols/24726.png
-    :scale: 100%
-
+|images_ozols/24726.png|
 
 
 
@@ -71,9 +63,7 @@ ievadīt kopējo Dokumenta summu:
 
 
 
-.. image:: images_ozols/24727.png
-    :scale: 100%
-
+|images_ozols/24727.png|
 
 
 
@@ -93,29 +83,21 @@ kartiņas<312>` .
 Dokumenta Bankas maksājums ar maksājumu karti Satura aizpildīšana
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Lai aizpildītudokumenta Saturu, satura daļā nepieciešams nospiest ..
-image:: images_ozols/24708.png
-    :scale: 100%
-un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
-satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
-ieraksta summu:
+Lai aizpildītudokumenta Saturu, satura daļā nepieciešams nospiest
+|images_ozols/24708.png| un tiks atvērts operācijas satura logs, kurā
+nepieciešams aizpildīt satura ierakstus (uzņēmumā izmantotās
+dimensijas) un norādīt satura ieraksta summu:
 
 
 
-.. image:: images_ozols/24786.png
-    :scale: 100%
+|images_ozols/24786.png|
 
 
 
-
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
-kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
-satura ierakstu iespējams, satura daļā nospiežot pogu .. image::
-images_ozols/24708.png
-    :scale: 100%
-.
+|images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiem
+satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
+summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
+nospiežot pogu |images_ozols/24708.png| .
 
 
 
@@ -133,24 +115,19 @@ vai izvēloties no :doc:`Bankas paskaidrojumu saraksta<147>` :
 
 
 
-.. image:: images_ozols/24787.png
-    :scale: 100%
-
+|images_ozols/24787.png|
 
 
 
 Kad visi nepieciešamie lauki ir aizpildīti, Bankas maksājums ar
 maksājumukartiir sagatavots un to ir iespējams:
 
-1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
-    :scale: 100%
--dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai/grāmatošanai :doc:`Bankas izdevumu<224>` .
+1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
+saglabāts un būs pieejams apskatei/labošanai/grāmatošanai :doc:`Bankas
+izdevumu<224>` .
 
-2. Apstiprināt, nospiežot rīku joslā pogu .. image::
-images_ozols/24740.png
-    :scale: 100%
-- Bankas maksājums ar maksājumu karti tiks Apstiprināts un to būs
+2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| -
+Bankas maksājums ar maksājumu karti tiks Apstiprināts un to būs
 iespējams Grāmatot.
 
 
@@ -163,15 +140,11 @@ kartidokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Bankas
 izdevumu žurnālā<224>` .
 
 Lai iegrāmatotu Bankas maksājumu ar maksājumu karti, dokumentu
-nepieciešams Apstiprināt, nospiežot rīku joslā pogu .. image::
-images_ozols/24740.png
-    :scale: 100%
-.
+nepieciešams Apstiprināt, nospiežot rīku joslā pogu
+|images_ozols/24740.png| .
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu .. image:: images_ozols/24741.png
-    :scale: 100%
-.
+pogu |images_ozols/24741.png| .
 
 
 
@@ -183,24 +156,71 @@ Pievienotā Bankasmaksājumaar maksājumu kartilabošana
 ````````````````````````````````````````````````````
 
 Labojumus saglabātajādokumentā iespējams veikt atverot Bankas
-maksājuma dokumentu, kurš pieejams apskatei/labošanai:doc:` Bankas
+maksājuma dokumentu, kurš pieejams apskatei/labošanai :doc:` Bankas
 izdevumu žurnālā <224>` . Lai veiktu labojumus,dokumentunepieciešams
-atvērt, izmantojot rīku joslas pogu.. image:: images_ozols/24709.png
-    :scale: 100%
-(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
+atvērt, izmantojot rīku joslas pogu |images_ozols/24709.png| (ALT+A),
+unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 
 
 
-.. image:: images_ozols/24788.png
-    :scale: 100%
+|images_ozols/24788.png|
 
 
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-vai .. image:: images_ozols/24617.jpg
-    :scale: 100%
-.
+.. |images_ozols/24992.png| image:: images_ozols/24992.png
+       :scale: 100%
+
+.. |images_ozols/24724.png| image:: images_ozols/24724.png
+       :scale: 100%
+
+.. |images_ozols/24725.png| image:: images_ozols/24725.png
+       :scale: 100%
+
+.. |images_ozols/24726.png| image:: images_ozols/24726.png
+       :scale: 100%
+
+.. |images_ozols/24727.png| image:: images_ozols/24727.png
+       :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/24786.png| image:: images_ozols/24786.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/24787.png| image:: images_ozols/24787.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+       :scale: 100%
+
+.. |images_ozols/24740.png| image:: images_ozols/24740.png
+       :scale: 100%
+
+.. |images_ozols/24741.png| image:: images_ozols/24741.png
+       :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+       :scale: 100%
+
+.. |images_ozols/24788.png| image:: images_ozols/24788.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+       :scale: 100%
 
  

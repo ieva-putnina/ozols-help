@@ -5,17 +5,14 @@ informācija, kas ir kopīga visiem vienādiem saņemtajiem vai
 sniegtajiem pakalpojumiem. Pakalpojuma apraksts satur informāciju par
 Grupu, nosaukumu, kodu, mērvienību un grāmatvedisko kontu.
 
-Pakalpojumi var tikt uzskaitīti pa Noliktavām un grupēti,
-izmantojot:doc:`Grupu<148>` sarakstu.
+Pakalpojumi var tikt uzskaitīti pa Noliktavām un grupēti, izmantojot
+:doc:`Grupu<148>` sarakstu.
 
-Lai pievienotu jaunu Pakalpojumu, rīku joslā jānospiež poga .. image::
-images_ozols/24708.png
-    :scale: 100%
-un tiks atvērts jauns logs, kur jāaizpilda nepieciešamie lauki:
+Lai pievienotu jaunu Pakalpojumu, rīku joslā jānospiež poga
+|images_ozols/24708.png| un tiks atvērts jauns logs, kur jāaizpilda
+nepieciešamie lauki:
 
-.. image:: images_ozols/26434.png
-    :scale: 100%
-
+|images_ozols/26434.png|
 **
 Tips: **pazīme, kas norāda, ka tas ir Pakalpojums;
 **Veids:** iespēja norādīt pakalpojuma veidu - vai tas būs sniegtais
@@ -33,12 +30,20 @@ izmantots pārdošanas dokumenta grāmatošanā;
 **Izd.konts: **pakalpojuma grāmatvediskais izdevumu konts, kas tiks
 izmantots iepirkumu dokumenta grāmatošanā.
 
-Pēc datu aizpildīšanas, Pakalpojuma aprakstu iespējams .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-vai.. image:: images_ozols/24617.jpg
-    :scale: 100%
-.
+Pēc datu aizpildīšanas, Pakalpojuma aprakstu iespējams
+|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
 
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/26434.png| image:: images_ozols/26434.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
+
+.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
+       :scale: 100%
 
  

@@ -11,10 +11,9 @@ saglabāšanas ir pieejams :doc:`Pamatlīdzekļu dokumentu sarakstā<233>`
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Pirms pamatlīdzekļu papildināšanas jāpārliecinās vai visiem
-papildināmajiem pamatlīdzekļiem ir aprēķināts nolietojums.
+|images_ozols/24545.gif| Pirms pamatlīdzekļu papildināšanas
+jāpārliecinās vai visiem papildināmajiem pamatlīdzekļiem ir aprēķināts
+nolietojums.
 
 
 
@@ -23,9 +22,7 @@ Pamatlīdzekļupapildināšanas dokuments (jauna daļa) .
 
 
 
-.. image:: images_ozols/25167.png
-    :scale: 100%
-
+|images_ozols/25167.png|
 
 
 
@@ -66,20 +63,15 @@ komandpoga Atcelt.
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Lai izveidotā Pamatlīdzekļupapildināšanas dokumenta (jauna daļa) dati
-stātos spēkā obligāti pēc saglabāšanas dokuments ir jāapstiprina ar
-funkciju .. image:: images_ozols/24715.gif
-    :scale: 100%
-.
+|images_ozols/24545.gif| Lai izveidotā Pamatlīdzekļupapildināšanas
+dokumenta (jauna daļa) dati stātos spēkā obligāti pēc saglabāšanas
+dokuments ir jāapstiprina ar funkciju |images_ozols/24715.JPG| .
 
 
 
-.. image:: images_ozols/24545.gif
-    :scale: 100%
-Pēc dokumenta apstiprināšanas Pamatlīdzekļupapildināšanasdokuments
-(jauna daļa) ir :doc:`jānogrāmato<14044>` .
+|images_ozols/24545.gif| Pēc dokumenta apstiprināšanas
+Pamatlīdzekļupapildināšanasdokuments (jauna daļa) ir
+:doc:`jānogrāmato<14044>` .
 
 
 
@@ -94,26 +86,18 @@ dokumentam (jauna daļa)
 Pēc dokumenta datu aizpildīšanas ir jāaizpilda dati parpapildināmajiem
 pamatlīdzekļiem. Dokumentam jaunupapildināmo pamatlīdzekli pievieno
 atvērtā Pamatlīdzekļupapildināšnas dokumenta (jauna daļa)formā ar
-funkciju .. image:: images_ozols/24708.png
-    :scale: 100%
-.
+funkciju |images_ozols/24708.png| .
 
 Datus parpapildināmo pamatlīdzekli iespējams labot atvērtā
-Pamatlīdzekļupapildināšanas dokumenta (jauna daļa)formā ar funkciju ..
-image:: images_ozols/24709.png
-    :scale: 100%
-.
+Pamatlīdzekļupapildināšanas dokumenta (jauna daļa)formā ar funkciju
+|images_ozols/24709.png| .
 
 Pamatlīdzekli dzēš atvērtā Pamatlīdzekļupapildināšanas dokumenta
-(jauna daļa)formā ar funkciju .. image:: images_ozols/24719.gif
-    :scale: 100%
-.
+(jauna daļa)formā ar funkciju |images_ozols/24719.JPG| .
 
 
 
-.. image:: images_ozols/25168.png
-    :scale: 100%
-
+|images_ozols/25168.png|
 
 
 
@@ -171,5 +155,32 @@ Atcelt - jāspiež šī poga, ja lietotājs nevēlas saglabāt aizpildītos
 datus par pamatlīdzekli.
 
 
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/25167.png| image:: images_ozols/25167.png
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24715.JPG| image:: images_ozols/24715.JPG
+       :scale: 100%
+
+.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+       :scale: 100%
+
+.. |images_ozols/24708.png| image:: images_ozols/24708.png
+       :scale: 100%
+
+.. |images_ozols/24709.png| image:: images_ozols/24709.png
+       :scale: 100%
+
+.. |images_ozols/24719.JPG| image:: images_ozols/24719.JPG
+       :scale: 100%
+
+.. |images_ozols/25168.png| image:: images_ozols/25168.png
+       :scale: 100%
 
  

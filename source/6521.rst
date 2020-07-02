@@ -12,9 +12,7 @@ Izvēloties darba režīmu Polise, tiks atvērts šāds logs:
 
 
 
-.. image:: images_ozols/25467.png
-    :scale: 100%
-
+|images_ozols/25467.png|
 
 
 
@@ -31,9 +29,7 @@ izdarīsiet kādus datu ierakstus tā šī informācija parādīsies sadaļā
 Info.
 Laukus kurus jūs varat aplūkot:
 
-.. image:: images_ozols/25469.png
-    :scale: 100%
-
+|images_ozols/25469.png|
 
 
 
@@ -74,5 +70,11 @@ Laukus kurus jūs varat aplūkot:
 
 9. Bilande
 ++++++++++
+
+.. |images_ozols/25467.png| image:: images_ozols/25467.png
+       :scale: 100%
+
+.. |images_ozols/25469.png| image:: images_ozols/25469.png
+       :scale: 100%
 
  

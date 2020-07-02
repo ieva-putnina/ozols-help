@@ -5,9 +5,7 @@
 
 
 
-.. image:: images_ozols/26352.png
-    :scale: 100%
-
+|images_ozols/26352.png|
 
 
 
@@ -25,5 +23,8 @@ Piezīmes - iespēja norādīt veida piezīmes.
 
 
 
+
+.. |images_ozols/26352.png| image:: images_ozols/26352.png
+       :scale: 100%
 
  

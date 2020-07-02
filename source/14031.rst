@@ -10,7 +10,7 @@
     CSNg identifikators un dimensija Atlīdzību lietas numurs. Ja veicot
     importu, tiek atrasts virslīmenis CSNg identifikators, tam pievieno
     jaunu dimensiju Atlīdzību lietas numurs.
-    + Izveido:doc:`Regresa lietas kartiņu<4206>` , kur tiek pārnesta
+    + Izveido :doc:`Regresa lietas kartiņu<4206>` , kur tiek pārnesta
       informācija par ceļu satiksmes negadījumu, atlīdzības lietas numurs,
       informācija par vainīgo un cietušo vadītāju un TRL.
 

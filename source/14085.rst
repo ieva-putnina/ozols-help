@@ -3,13 +3,11 @@
 
 Rēķins, kurš izrakstīts, balstoties uz Polises aprakstā definēto
 Maksājumu plānu, tiek grāmatots atbilstoši izveidotajam Pārdošanas
-dokumentu-turpmāko maksājumu:doc:`Grāmatojuma šablonam<14083>` :
+dokumentu-turpmāko maksājumu :doc:`Grāmatojuma šablonam<14083>` :
 
 
 
-.. image:: images_ozols/25373.png
-    :scale: 100%
-
+|images_ozols/25373.png|
 
 
 
@@ -21,5 +19,8 @@ atlasot datus pēc grāmatojuma veida "Pārdošanas dokumenti(RRD)".
 
 
 
+
+.. |images_ozols/25373.png| image:: images_ozols/25373.png
+       :scale: 100%
 
  

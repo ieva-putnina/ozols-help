@@ -3,9 +3,7 @@ Lai pievienotu jaunu Tvertni:
 
 
 
-.. image:: images_ozols/25568.png
-    :scale: 100%
-
+|images_ozols/25568.png|
 
 
 
@@ -19,17 +17,23 @@ tiks pievienota šī jaunā tvertne;
 Degv. marka: degvielas marka, kura ir attiecināma uz šo tvertni,
 jāizvēlas ar bultiņas pogu.
 
-Kad visi dati ievadīti, jānospiež poga .. image::
-images_ozols/25561.png
-    :scale: 100%
-un, lai pievienotu jaunu tvertni, jānospiež poga .. image::
-images_ozols/25563.png
-    :scale: 100%
-. Ja jaunas tvertnes vairs netiks pievienotas, jānospiež poga ..
-image:: images_ozols/25562.png
-    :scale: 100%
-pēc pēdējās tvertnes pievienošanas.
+Kad visi dati ievadīti, jānospiež poga |images_ozols/25561.png| un,
+lai pievienotu jaunu tvertni, jānospiež poga |images_ozols/25563.png|
+. Ja jaunas tvertnes vairs netiks pievienotas, jānospiež poga
+|images_ozols/25562.png| pēc pēdējās tvertnes pievienošanas.
 
 Visas pievienotās tvertnes ir redzamas :doc:`tvertņu sarakstā<6911>` .
+
+.. |images_ozols/25568.png| image:: images_ozols/25568.png
+       :scale: 100%
+
+.. |images_ozols/25561.png| image:: images_ozols/25561.png
+       :scale: 100%
+
+.. |images_ozols/25563.png| image:: images_ozols/25563.png
+       :scale: 100%
+
+.. |images_ozols/25562.png| image:: images_ozols/25562.png
+       :scale: 100%
 
  

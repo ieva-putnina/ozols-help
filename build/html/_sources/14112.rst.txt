@@ -3,16 +3,15 @@
 
 Lai piesaistītu kultūras un citu pasākumu ieejas biļetes :doc:`Kases
 ieņēmumu<227>` orderim un uzskaitītu toizlietojumu, Uzņēmuma rīcībā
-esošās biļetes jāpievieno:doc:`Kultūras un citu pasākumu ieejas biļešu
-žurnālā.<252>`
+esošās biļetes jāpievieno :doc:`Kultūras un citu pasākumu ieejas
+biļešu žurnālā.<252>`
 
 
 
 Lai pārdotās biļetes piesaistītu kases ieņēmumu orderim, nepieciešams
 izveidot Kases ieņēmumu dokumentu, :doc:`Kases ieņēmumu<227>` žurnālā
-izmantojot rīku joslas pogu: .. image:: images_ozols/25605.png
-    :scale: 100%
-, tiks atvērts kases ieņēmumu orderis, kur nepieciešams aizpildīt:
+izmantojot rīku joslas pogu: |images_ozols/25605.png| , tiks atvērts
+kases ieņēmumu orderis, kur nepieciešams aizpildīt:
 
 
 
@@ -43,27 +42,33 @@ atbilstošās dimensiju un summu sadalījumu
 
 3. Pievienot nopirktās kultūras un citu pasākumu ieejas biļetes:
 biļetes iespējams piesaisīt kases ieņēmumu orderim, dokumenta apakšējā
-daļā,nospiežot uz pogas.. image:: images_ozols/24943.png
-    :scale: 100%
--> Tiks atvērts jauns logs, kurā iespējams pievienot biļetes no
-:doc:`Kultūras un citu pasākumu ieejas biļešu žurnālā<252>`
-pievienotajām:
+daļā,nospiežot uz pogas |images_ozols/24943.png| -> Tiks atvērts jauns
+logs, kurā iespējams pievienot biļetes no :doc:`Kultūras un citu
+pasākumu ieejas biļešu žurnālā<252>` pievienotajām:
 
 
 
-.. image:: images_ozols/26254.png
-    :scale: 100%
+|images_ozols/26254.png|
 
 
 
-
-Pēc visu nepieciešamo lauku aizpildīšanasnospiežot pogu .. image::
-images_ozols/24615.jpg
-    :scale: 100%
-.
+Pēc visu nepieciešamo lauku aizpildīšanasnospiežot pogu
+|images_ozols/24615.jpg| .
 
 
 
 
+
+.. |images_ozols/25605.png| image:: images_ozols/25605.png
+       :scale: 100%
+
+.. |images_ozols/24943.png| image:: images_ozols/24943.png
+       :scale: 100%
+
+.. |images_ozols/26254.png| image:: images_ozols/26254.png
+       :scale: 100%
+
+.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+       :scale: 100%
 
  

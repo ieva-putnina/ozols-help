@@ -1,13 +1,17 @@
-.. 14137 ====================================Ozols365 lietošanas instrukcijas==================================== 
+.. 14137
+ 
+====================================
+Ozols365 lietošanas instrukcijas
+====================================
+ 
 Kas jāzina uzsākot darbu ar sistēmu Ozols:
 
 
 
 1. Šādi izskatās Ozols darbavirsma, to der iepazīt, jo tas būs Jūsu
 galvenais darbarīks
-.. image:: images_ozols//files/Ozols_darbavirsma.jpg.gif
-    :scale: 100%
 
+|images_ozols//files/Ozols_darbavirsma.jpg.GIF|
 
 2. :doc:`šeit atradīsiet pamatnostādnes darba uzsākšanai<14133>`
 
@@ -15,20 +19,28 @@ galvenais darbarīks
 
 
 + :doc:`Instrukcija sākotnējo klasifikatoru pielāgošanai`
+
 + :doc:`Instrukcija partneru/kontaktpersonu pievienošanai`
-+ :doc:`Instrukcija norēķinu dokumentu (iepirkumi/pārdošana)
-  izveidošanai`
+
++ :doc:`Instrukcija norēķinu dokumentu (iepirkumi/pārdošana) izveidošanai`
+
 + :doc:`Instrukcija bankas maksājuma uzdevumu izveidošanai`
-+ :doc:`Instrukcija bankas ienākošo maksājumu importam/bankas izejošo
-  maksājumu eksportam (datu apmaiņa ar banku)`
+
++ :doc:`Instrukcija bankas ienākošo maksājumu importam/bankas izejošo maksājumu eksportam (datu apmaiņa ar banku)`
+
 + :doc:`Instrukcija algu aprēķina veikšanai`
+
 + :doc:`Instrukcija personāla datu ievadei`
 
 4. Lai uzsāktu darbu ar OZOLS, nepieciešams uzstādīt OZOLS
 programmatūru uz datora no šīs saites:
 
 
-+ :doc:`http://download.ozols.lv/ozols/setups/Ozols365_setup.exe`
++ http://download.ozols.lv/ozols/setups/Ozols365_setup.exe
 
 
- 
+.. |images_ozols//files/Ozols_darbavirsma.jpg.GIF| image:: images_ozols//files/Ozols_darbavirsma.jpg.GIF
+       :scale: 100%
+
+
+ 

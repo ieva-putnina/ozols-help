@@ -11,42 +11,46 @@ pieejami atjaunošanai.
 
 Lai anulētu dokumentu ir:
 
-1) jāatver dokuments no dokumentu žurnāla. ( CtrL+A , komanda ..
-image:: images_ozols/24705.png
-    :scale: 100%
-no rīku joslas, nospiežot peles labo pogu un izvēloties komandu
-"Atvērt" vai komanda "Atvērt" no izvēlnes Dati)
+1) jāatver dokuments no dokumentu žurnāla. ( CtrL+A , komanda
+|images_ozols/24705.png| no rīku joslas, nospiežot peles labo pogu un
+izvēloties komandu "Atvērt" vai komanda "Atvērt" no izvēlnes Dati)
 
 
 
 2) ja dokuments ir iegrāmatots,jāanulē grāmatojums. Ja grāmatojums ir
 arī apstiprināts, tad jānoņem apstiprinājums no grāmatojuma un tad
-jāanulē grāmatojumsAtvērto grāmatojumu anulē, izmantojot komandu ..
-image:: images_ozols/24717.gif
-    :scale: 100%
-no rīku joslas, komandu "Anulēt" no izvēlnes Dati vai nospiežot peles
-labo pogu un izvēloties komandu "Anulēt". Anulēts grāmatojums tiek
-saglabāts grāmatojumu žurnālā un nepieciešamības gadījumā šādu
-grāmatojumu ir iespējams atjaunot.
+jāanulē grāmatojumsAtvērto grāmatojumu anulē, izmantojot komandu
+|images_ozols/24717.JPG| no rīku joslas, komandu "Anulēt" no izvēlnes
+Dati vai nospiežot peles labo pogu un izvēloties komandu "Anulēt".
+Anulēts grāmatojums tiek saglabāts grāmatojumu žurnālā un
+nepieciešamības gadījumā šādu grāmatojumu ir iespējams atjaunot.
 
 3)pēc grāmatojuma anulēšanas ir jānoņem apstiprinājums no paša
-pirmdokumenta( CtrL+R; komanda .. image:: images_ozols/24715.gif
-    :scale: 100%
-no rīku joslas; komanda "Apstiprināt" no izvēlnes Dati, vai nospiežot
-peles labo pogu izvēloties komandu "Apstiprināt"). Dokumenta
-apstiprināšana un apstiprinājuma noņemša tiek veikta ar vienām un tām
-pašām komandām.
+pirmdokumenta( CtrL+R; komanda |images_ozols/24715.JPG| no rīku
+joslas; komanda "Apstiprināt" no izvēlnes Dati, vai nospiežot peles
+labo pogu izvēloties komandu "Apstiprināt"). Dokumenta apstiprināšana
+un apstiprinājuma noņemša tiek veikta ar vienām un tām pašām komandām.
 
 
 
-4) jāanulē dokuments (izmantojot komandu .. image::
-images_ozols/24717.gif
-    :scale: 100%
-no rīku joslas, komandu "Anulēt" no izvēlnes Dati vai nospiežot peles
+4) jāanulē dokuments (izmantojot komandu |images_ozols/24717.JPG| no
+rīku joslas, komandu "Anulēt" no izvēlnes Dati vai nospiežot peles
 labo pogu un izvēloties komandu "Anulēt".)
 
 
 
 Lai anulēto dokumentu atjaunotu ir jālieto vēlreiz komanda "Anulēt"
+
+.. |images_ozols/24705.png| image:: images_ozols/24705.png
+       :scale: 100%
+
+.. |images_ozols/24717.JPG| image:: images_ozols/24717.JPG
+       :scale: 100%
+
+.. |images_ozols/24715.JPG| image:: images_ozols/24715.JPG
+       :scale: 100%
+
+.. |images_ozols/24717.JPG| image:: images_ozols/24717.JPG
+       :scale: 100%
 
  

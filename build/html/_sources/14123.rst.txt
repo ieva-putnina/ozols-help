@@ -14,19 +14,14 @@ kritērijus:
 
 
 
-.. image:: images_ozols/26342.png
-    :scale: 100%
-
+|images_ozols/26342.png|
 
 
 
 2. Kad atskaite sagatavota un uz ekrāna atlasīti dati - konti, kas
 paredzēti slēgšanai, iespējams veikt konta slēgšanu, rīku joslā
-nospiežot pogu .. image:: images_ozols/25814.png
-    :scale: 100%
-un izvēloties funkciju: .. image:: images_ozols/26343.png
-    :scale: 100%
-.
+nospiežot pogu |images_ozols/25814.png| un izvēloties funkciju:
+|images_ozols/26343.png| .
 
 
 
@@ -35,9 +30,7 @@ grāmatojuma datumu un kontu, uz kuru ieraksti tiks noslēgti:
 
 
 
-.. image:: images_ozols/26344.png
-    :scale: 100%
-
+|images_ozols/26344.png|
 
 
 
@@ -50,5 +43,17 @@ slēgšanas.
 
 
 
+
+.. |images_ozols/26342.png| image:: images_ozols/26342.png
+       :scale: 100%
+
+.. |images_ozols/25814.png| image:: images_ozols/25814.png
+       :scale: 100%
+
+.. |images_ozols/26343.png| image:: images_ozols/26343.png
+       :scale: 100%
+
+.. |images_ozols/26344.png| image:: images_ozols/26344.png
+       :scale: 100%
 
  

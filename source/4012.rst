@@ -1,6 +1,11 @@
-.. 4012 Polise********** 
-**Polises meklēšana
-**Apdrošināšanas polises kartītes ekrāna formā ir jābūt iespējai ātri
+.. 4012
+ 
+Polise
+**********
+ 
+**Polises meklēšana**
+
+Apdrošināšanas polises kartītes ekrāna formā ir jābūt iespējai ātri
 un ērti atrast nepieciešamo polisi. Ja tiek atrasta viena konkrēta
 polise, tad tā automātiski tiek parādīts tās apraksts, savādāk tiek
 atvērts saraksts no kura izvēlas nepieciešamo polisi.
@@ -48,8 +53,8 @@ Polises pārapdrošināšana
 
 
 
-**Grāmatojumu tipi
-**Apmaksa
+**Grāmatojumu tipi**
+Apmaksa
 Komisija
 Brokeru %
 Anul./pārtrauktās komisija pārapdrošinātajām
@@ -88,4 +93,5 @@ Prēmijas apmaksa
 
 
 
- 
+
+ 
