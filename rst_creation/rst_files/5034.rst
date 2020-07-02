@@ -6,7 +6,9 @@ ieņēmumi un izdevumi:
 
 
 
-|images_ozols/26302.png|
+.. image:: images_ozols/26302.png
+    :scale: 100%
+
 
 
 
@@ -24,8 +26,10 @@ Finansēšana, bankas konts, struktūrvienība un salīdzināšanas periods.
 
 
 
-|images_ozols/24545.gif| Budžeta pieprasījuma aizpildīšanā jāaizpilda
-visi lauki, un uz vienu kontu var būt vairāki budžeti.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Budžeta pieprasījuma aizpildīšanā jāaizpilda visi lauki, un uz vienu
+kontu var būt vairāki budžeti.
 
 
 
@@ -35,7 +39,9 @@ uz augstākiem līmeņiem:
 
 
 
-|images_ozols/26305.png|
+.. image:: images_ozols/26305.png
+    :scale: 100%
+
 
 
 
@@ -44,8 +50,10 @@ skaitlis, ir Izdevumi.
 
 
 
-|images_ozols/24545.gif| Budžeta pieprasījuma ieņēmumu un izdevumu
-summai ir jāsakrīt, lai starpība būtu 0.00
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Budžeta pieprasījuma ieņēmumu un izdevumu summai ir jāsakrīt, lai
+starpība būtu 0.00
 
 
 
@@ -59,43 +67,27 @@ izdrukāt visu kopējo sagatvoto konkrētā budžeta pieprasījumu sarakstu
 
 
 Atverot konkrēto EK kodu caur x, jānorāda ieņēmumu budžeta summu un
-jānospiež poga |images_ozols/25799.png| . Tāpat jānorāda budžeta summu
-arī uz izdevumu EKK,un jāsaglabā.
+jānospiež poga .. image:: images_ozols/25799.png
+    :scale: 100%
+. Tāpat jānorāda budžeta summu arī uz izdevumu EKK,un jāsaglabā.
 
 Rezultātā budžeta ieņēmumu un izdevumu summām ir jāsakrīt:
 
 
 
-|images_ozols/26308.png|
+.. image:: images_ozols/26308.png
+    :scale: 100%
 
 
 
-|images_ozols/26310.png|
+
+.. image:: images_ozols/26310.png
+    :scale: 100%
+
 
 
 
 Budžeta pieprasījuma summas ir redzamas :doc:`budžeta pieprasījuma
 žurnālā<5035>` konkrētajam pieprasījumam.
-
-.. |images_ozols/26302.png| image:: images_ozols/26302.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/26305.png| image:: images_ozols/26305.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/25799.png| image:: images_ozols/25799.png
-    :scale: 100%
-
-.. |images_ozols/26308.png| image:: images_ozols/26308.png
-    :scale: 100%
-
-.. |images_ozols/26310.png| image:: images_ozols/26310.png
-    :scale: 100%
 
  .. toctree::   :maxdepth: 4    6663.rst

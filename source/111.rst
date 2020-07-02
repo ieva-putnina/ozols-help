@@ -1,14 +1,20 @@
 .. 111 Strādājošie*************** 
 Lai pievienotu jaunu strādājošo sarakstam, rīku joslā jānsopiež poga
-|images_ozols/25605.png| . Arī :doc:`Partneru<312>` sadaļā caur pogu
-|images_ozols/25605.png| ir iespējams pievienot strādājošo.
+.. image:: images_ozols/25605.png
+    :scale: 100%
+. Arī :doc:`Partneru<312>` sadaļā caur pogu .. image::
+images_ozols/25605.png
+    :scale: 100%
+ir iespējams pievienot strādājošo.
 
 Strādājošo aprakstā jāpievieno darbinieka personīgā informācija –
 vārds, uzvārds, personas kods, bankas konta numurs, adrese:
 
 
 
-|images_ozols/25705.png|
+.. image:: images_ozols/25705.png
+    :scale: 100%
+
 
 
 
@@ -18,12 +24,15 @@ atbilstošie parametri Strādājošais, Atbildīgā persona u.tml..:
 
 
 
-|images_ozols/25645.png|
+.. image:: images_ozols/25645.png
+    :scale: 100%
 
 
 
-|images_ozols/24545.gif| Darbinieks partneru sarakstā ir jāpievieno
-tikai vienu reizi.
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Darbinieks partneru sarakstā ir jāpievieno tikai vienu reizi.
 
 
 
@@ -32,8 +41,9 @@ No strādājošā apraksta caur pogu var izsaukt vai pievienot jaunu
 
 Strādājošā apraksta sadaļā Personāls var pievienot personāla uzskaitei
 nepieciešamo informāciju. Lai izveidotu un drukātu personas kartīti,
-jāaizpilda |images_ozols/25706.png| un strādājošā apraksta sadaļa
-Personāls.
+jāaizpilda.. image:: images_ozols/25706.png
+    :scale: 100%
+un strādājošā apraksta sadaļa Personāls.
 
 
 
@@ -49,7 +59,9 @@ informāciju.
 
 
 
-|images_ozols/25709.png|
+.. image:: images_ozols/25709.png
+    :scale: 100%
+
 
 
 Pievienojot valodu prasmi, valodas nosaukumu un prasmi var ierakstīt
@@ -57,59 +69,32 @@ datu izvēles laukos. Pievienojot nākamā strādājošā datus, ierakstītā
 valoda un prasme tiks parādīti izvēles sarakstā.
 Lai labotu ierakstu, divreiz jāuzklikšķina uz rindas, kuru jālabo.
 
-Caur pogu |images_ozols/25707.png| tiek pievienoti strādājošā banku
-konti. Ja ar programmu tiek vesta uzskaite vairākiem uzņēmumiem, tad
-strādājošā banku kontiem tiek norādīti uzņēmumi uz kuru konkrētais
-strādājošā bankas konts attiecas. Šie uz uzņēmumu norādītie bankas
-konti citu uzņēmumu programmas lietotājiem nebūs pieejami.
-
-
-
-Caur pogu |images_ozols/25708.png| tiek pievienotas strādājošā
-:doc:`adreses<192>` . Ja ar programmu tiek vesta uzskaite vairākiem
-uzņēmumiem, tad strādājošā adresēm tiek norādīti uzņēmumi uz kuru
-konkrētā strādājošā adrese attiecas. Šīs uz uzņēmumu norādītās adreses
-citu uzņēmumu programmas lietotājiem nebūs pieejamas.
-
-Caur pogu |images_ozols/25716.png| ir iespējams apskatītvai pievienot
-strādājošā norēķinu kartes.
-
-
-
-Caur pogu |images_ozols/25718.png| ir iespējams atvērt strādājošā
-:doc:`slodzi<207>` .
-
-.. |images_ozols/25605.png| image:: images_ozols/25605.png
+Caur pogu .. image:: images_ozols/25707.png
     :scale: 100%
+tiek pievienoti strādājošā banku konti. Ja ar programmu tiek vesta
+uzskaite vairākiem uzņēmumiem, tad strādājošā banku kontiem tiek
+norādīti uzņēmumi uz kuru konkrētais strādājošā bankas konts attiecas.
+Šie uz uzņēmumu norādītie bankas konti citu uzņēmumu programmas
+lietotājiem nebūs pieejami.
 
-.. |images_ozols/25605.png| image:: images_ozols/25605.png
-    :scale: 100%
 
-.. |images_ozols/25705.png| image:: images_ozols/25705.png
-    :scale: 100%
 
-.. |images_ozols/25645.png| image:: images_ozols/25645.png
+Caur pogu .. image:: images_ozols/25708.png
     :scale: 100%
+tiek pievienotas strādājošā :doc:`adreses<192>` . Ja ar programmu tiek
+vesta uzskaite vairākiem uzņēmumiem, tad strādājošā adresēm tiek
+norādīti uzņēmumi uz kuru konkrētā strādājošā adrese attiecas. Šīs uz
+uzņēmumu norādītās adreses citu uzņēmumu programmas lietotājiem nebūs
+pieejamas.
 
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+Caur pogu .. image:: images_ozols/25716.png
     :scale: 100%
+ir iespējams apskatītvai pievienot strādājošā norēķinu kartes.
 
-.. |images_ozols/25706.png| image:: images_ozols/25706.png
-    :scale: 100%
 
-.. |images_ozols/25709.png| image:: images_ozols/25709.png
-    :scale: 100%
 
-.. |images_ozols/25707.png| image:: images_ozols/25707.png
+Caur pogu .. image:: images_ozols/25718.png
     :scale: 100%
-
-.. |images_ozols/25708.png| image:: images_ozols/25708.png
-    :scale: 100%
-
-.. |images_ozols/25716.png| image:: images_ozols/25716.png
-    :scale: 100%
-
-.. |images_ozols/25718.png| image:: images_ozols/25718.png
-    :scale: 100%
+ir iespējams atvērt strādājošā :doc:`slodzi<207>` .
 
  

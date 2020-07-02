@@ -6,12 +6,16 @@ kartiņās pievienotie dati par Personas līdzšinējo karjeru.
 
 Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
 tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
-ekrāna formā. Rīku joslā nopiežot pogu |images_ozols/24535.gif|
+ekrāna formā. Rīku joslā nopiežot pogu.. image::
+images_ozols/24535.gif
+    :scale: 100%
 (Ctrl+F), tiek atvērts filtra logs:
 
 
 
-|images_ozols/26100.png|
+.. image:: images_ozols/26100.png
+    :scale: 100%
+
 
 
 
@@ -27,8 +31,10 @@ parkarjerutikai Aktīvajām vai Neaktīvajām slodzēm.
 
 
 Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
-kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga
-|images_ozols/25944.png| .
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga ..
+image:: images_ozols/25944.png
+    :scale: 100%
+.
 
 
 
@@ -44,10 +50,14 @@ pievienot strādājošā karjeras datus:
 
 
 
-|images_ozols/25780.png|
+.. image:: images_ozols/25780.png
+    :scale: 100%
+
 
 2. Atrodoties:doc:`Karjeras dokumentu žurnālā<762>` un rīku
-joslānospiežot pogu |images_ozols/24708.png| :
+joslānospiežot pogu.. image:: images_ozols/24708.png
+    :scale: 100%
+:
 
 
 
@@ -56,7 +66,9 @@ kuram šī informācija tiks pievienota:
 
 
 
-|images_ozols/26101.png|
+.. image:: images_ozols/26101.png
+    :scale: 100%
+
 
 
 
@@ -64,31 +76,12 @@ Nepieciešamsievadīt uzņēmuma nosaukumu, laika termiņu no...līdz, kā
 arī iespēja ievadīt karjeras aprakstu (piemēram, ieņemamo amatu vai
 darba pienākumus).
 
-Dati tiek saglabāti nospiežot pogu |images_ozols/25621.png| .
+Dati tiek saglabāti nospiežot pogu .. image:: images_ozols/25621.png
+    :scale: 100%
+.
 
 
 
 Pievienotie ierakstitiek saglabāti:doc:`Karjeras dokumentos<762>` .
-
-.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
-    :scale: 100%
-
-.. |images_ozols/26100.png| image:: images_ozols/26100.png
-    :scale: 100%
-
-.. |images_ozols/25944.png| image:: images_ozols/25944.png
-    :scale: 100%
-
-.. |images_ozols/25780.png| image:: images_ozols/25780.png
-    :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/26101.png| image:: images_ozols/26101.png
-    :scale: 100%
-
-.. |images_ozols/25621.png| image:: images_ozols/25621.png
-    :scale: 100%
 
  

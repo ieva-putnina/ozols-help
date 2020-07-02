@@ -4,14 +4,13 @@ Personāliju darba pārskata atskaitē redzamas pasākumu :doc:`dalībnieku
 :doc:`struktūrvienībām<7313>` un pa attiecīgiem
 :doc:`pasākumiem<7312>` :
 
-|images_ozols/26198.jpg|
+.. image:: images_ozols/26198.jpg
+    :scale: 100%
+
 
 
 
 Aktivizējot konkrētu personas ierakstu, tiek atvērts :doc:`personas
 aprakst<7305>` un personai :doc:`piesaistītie notikumi<7308>` .
-
-.. |images_ozols/26198.jpg| image:: images_ozols/26198.jpg
-    :scale: 100%
 
  

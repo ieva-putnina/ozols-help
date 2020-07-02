@@ -33,7 +33,9 @@ kartiņā<312>` jābūt norādītam partnera e-pastam:
 
 
 
-|images_ozols/26527.png|
+.. image:: images_ozols/26527.png
+    :scale: 100%
+
 
 
 
@@ -43,7 +45,9 @@ un iezīmētam ķeksītim:
 
 
 
-|images_ozols/26528.png|
+.. image:: images_ozols/26528.png
+    :scale: 100%
+
 
 
 Algu lapiņu sūtīšanapa e-pastu
@@ -55,7 +59,9 @@ iespējamsatlasīt pēc nepieciešamajiem filtra kritērijiem:
 
 
 
-|images_ozols/26529.png|
+.. image:: images_ozols/26529.png
+    :scale: 100%
+
 
 
 
@@ -89,7 +95,9 @@ nosūtīt strādājošajiem, izpildot rīku joslā pieejamo Funkciju:
 
 
 
-|images_ozols/26530.png|
+.. image:: images_ozols/26530.png
+    :scale: 100%
+
 
 
 
@@ -100,7 +108,9 @@ izsūtīšanai sagatavotajām algu lapiņām:
 
 
 
-|images_ozols/26531.png|
+.. image:: images_ozols/26531.png
+    :scale: 100%
+
 
 
 
@@ -111,20 +121,5 @@ Ieraksti par izsūtītajām algu lapiņām tiek saglabāti Pasta modulī
 
 
 
-
-.. |images_ozols/26527.png| image:: images_ozols/26527.png
-    :scale: 100%
-
-.. |images_ozols/26528.png| image:: images_ozols/26528.png
-    :scale: 100%
-
-.. |images_ozols/26529.png| image:: images_ozols/26529.png
-    :scale: 100%
-
-.. |images_ozols/26530.png| image:: images_ozols/26530.png
-    :scale: 100%
-
-.. |images_ozols/26531.png| image:: images_ozols/26531.png
-    :scale: 100%
 
  

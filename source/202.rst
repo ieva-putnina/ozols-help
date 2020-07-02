@@ -17,9 +17,10 @@ atskaišu sagatavošanā pamatlīdzekļu objektus ir iespējams izmantot kā
 datu (pamatlīdzekļu) atlases nosacījumu.
 
 Jaunu pamatlīdzekļa objektu pievieno pamatlīdzekļu objektu sarakstā ar
-funkciju |images_ozols/25605.png| . Pēc nepieciešamās informācijas
-aizpildīšanas jāspiež poga Saglabāt lai saglabātu jaunizveidoto
-ierakstu.
+funkciju .. image:: images_ozols/25605.png
+    :scale: 100%
+. Pēc nepieciešamās informācijas aizpildīšanas jāspiež poga Saglabāt
+lai saglabātu jaunizveidoto ierakstu.
 
 Pamatlīdzekļu objektu klasifikators ir hierarhisks un pievienojot
 jaunu objektu laukā Augstākā kateg. jānorāda kāds ir jaunā ieraksta
@@ -34,27 +35,22 @@ datu bāzē izveidotie uzņēmumi.
 
 
 
-|images_ozols/26436.png|
-
-
-
-
-Pamatlīdzekļa objektu labo ar funkciju |images_ozols/25603.png| .
-
-Pamatlīdzekļa objektu dzēš ar funkciju |images_ozols/25602.png| .
-Pamatlīdzekļa objektu sistēma neļauj dzēst, ja tas ir pievienots kādam
-sistēmā ievadītam pamatlīdzeklim.
-
-.. |images_ozols/25605.png| image:: images_ozols/25605.png
+.. image:: images_ozols/26436.png
     :scale: 100%
 
-.. |images_ozols/26436.png| image:: images_ozols/26436.png
-    :scale: 100%
 
-.. |images_ozols/25603.png| image:: images_ozols/25603.png
-    :scale: 100%
 
-.. |images_ozols/25602.png| image:: images_ozols/25602.png
+
+
+Pamatlīdzekļa objektu labo ar funkciju .. image::
+images_ozols/25603.png
     :scale: 100%
+.
+
+Pamatlīdzekļa objektu dzēš ar funkciju .. image::
+images_ozols/25602.png
+    :scale: 100%
+. Pamatlīdzekļa objektu sistēma neļauj dzēst, ja tas ir pievienots
+kādam sistēmā ievadītam pamatlīdzeklim.
 
  

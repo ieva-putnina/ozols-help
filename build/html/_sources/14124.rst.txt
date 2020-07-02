@@ -18,7 +18,9 @@ Augstāk/Zemāk, lai veiktu nepieciešamās izmaiņas:
 
 
 
-|images_ozols/26345.png|
+.. image:: images_ozols/26345.png
+    :scale: 100%
+
 
 
 
@@ -33,16 +35,12 @@ opciju- Pārnumurēt:
 
 
 
-|images_ozols/26346.png|
-
-
-
-
-
-.. |images_ozols/26345.png| image:: images_ozols/26345.png
+.. image:: images_ozols/26346.png
     :scale: 100%
 
-.. |images_ozols/26346.png| image:: images_ozols/26346.png
-    :scale: 100%
+
+
+
+
 
  

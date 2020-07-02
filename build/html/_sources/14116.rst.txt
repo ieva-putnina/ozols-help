@@ -13,7 +13,9 @@ Lai eksportētu izmaksu sarakstu:
 jāeksportē un jālieto komanda Funkcijas->Eksportēt izmaksu sarakstu:
 
 
-|images_ozols/26284.png|
+.. image:: images_ozols/26284.png
+    :scale: 100%
+
 
 
 
@@ -23,7 +25,9 @@ Lauka Fails dati tiks ievietoti automatizēti:
 
 
 
-|images_ozols/26285.png|
+.. image:: images_ozols/26285.png
+    :scale: 100%
+
 
 
 
@@ -33,11 +37,5 @@ Jālieto komanda Eksportēt datu eksportam.
 pieprasītajā formātā, kuru tālāk attiecīgi ir jāimportē bankas
 elektronisko norēķinu sistēmā vai jānosūta bankai maksājuma uzdevumu
 izpildīšanai.
-
-.. |images_ozols/26284.png| image:: images_ozols/26284.png
-    :scale: 100%
-
-.. |images_ozols/26285.png| image:: images_ozols/26285.png
-    :scale: 100%
 
  

@@ -1,24 +1,39 @@
-.. 14016 Darbs ar atskaitēm********************** 
+.. 14016
+ 
+Darbs ar atskaitēm
+**********************
+ 
 
 Filtra izmantošana
 ++++++++++++++++++
 
 Kad ir sagatavota atskaite, bet tajā ir jāatlasa citi dati, nekā tika
-noteikts atskaites sagatavošanas filtrā, jālieto komanda Filtrs
-|images_ozols/24535.gif| , lai izsauktu filtra formu. Norādot jaunus
-atskaites sagatavošanas parametrus, atskaite tiks pārzīmēta pēc
-norādītajiem filtra kritērijiem.
+noteikts atskaites sagatavošanas filtrā, jālieto komanda Filtrs 
+
+.. image:: images_ozols/24535.gif
+    :scale: 100%
+lai izsauktu filtra formu. Norādot jaunus atskaites sagatavošanas
+parametrus, atskaite tiks pārzīmēta pēc norādītajiem filtra
+kritērijiem.
 
 
 
-|images_ozols/24545.gif| Ja atskaite jau ir sagatavota, lai toizsauktu
-no jauna, nav jāaktivizē atskaites izsaukšana no izvēlnes Atskaites,
-bet jālieto komanda Filtrs.
+
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Ja atskaite jau ir sagatavota, lai toizsauktu no jauna, nav jāaktivizē
+atskaites izsaukšana no izvēlnes Atskaites, bet jālieto komanda
+Filtrs.
 
 
 Neapstiprināto grāmatojumu iekļaušana atskaitēs
 +++++++++++++++++++++++++++++++++++++++++++++++
-|images_ozols/24546.gif|
+
+
+.. image:: images_ozols/24546.gif
+    :scale: 100%
+
 
 
 Lai atskaitēs tiktu iekļauti arī neapstiprinātie grāmatojumi, izvēlei
@@ -36,8 +51,12 @@ jābūt aktivizētai.
 
 
 
-|images_ozols/24545.gif| Iesakām datus sagatavot vienveidīgi un
-apstiprināt visus izveidotos grāmatojumus.
+
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Iesakām datus sagatavot vienveidīgi un apstiprināt visus izveidotos
+grāmatojumus.
 
 
 Atskaišu pārzīmēšana
@@ -79,21 +98,11 @@ grāmatvedības atskaites.
 
 
 
-|images_ozols/25286.png|
 
-.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+
+.. image:: images_ozols/25286.png
     :scale: 100%
 
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
 
-.. |images_ozols/24546.gif| image:: images_ozols/24546.gif
-    :scale: 100%
 
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/25286.png| image:: images_ozols/25286.png
-    :scale: 100%
-
- 
+ 

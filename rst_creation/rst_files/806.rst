@@ -6,8 +6,9 @@ Personāla atskaitē tiek attēloti porsonāla dati, par
 redzēt personāla datus: vārds un uzvārds, vecums, stāžs, amats,
 dzimšanas datums, adrese, e-pasts, u.c.
 
-Filtrs (rīku joslā poga |images_ozols/24535.gif| (Ctrl+F)) jāaizpilda,
-lai sagatavotu atskaiti.
+Filtrs (rīku joslā poga .. image:: images_ozols/24535.gif
+    :scale: 100%
+(Ctrl+F)) jāaizpilda, lai sagatavotu atskaiti.
 
 Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
 kritērijiem filtra ekrāna formā. Filtru var uzlikt, lai ierobežotu
@@ -15,36 +16,52 @@ kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
 arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots
 atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
 
-Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
-Izvēloties izveidoto filtra sagatavi ( |images_ozols/24635.gif| ),
-filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu
-atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež poga
-|images_ozols/24535.gif| (Ctrl+F), tiek atvērts filtra logs:
+Datu atlases kritērijus var saglabāt (.. image::
+images_ozols/24938.png
+    :scale: 100%
+). Izvēloties izveidoto filtra sagatavi (.. image::
+images_ozols/24635.gif
+    :scale: 100%
+), filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai
+izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež
+poga .. image:: images_ozols/24535.gif
+    :scale: 100%
+(Ctrl+F), tiek atvērts filtra logs:
 
 
 
-|images_ozols/25783.png|
+.. image:: images_ozols/25783.png
+    :scale: 100%
 
 
 
-kur izvēlotieskritērijus, un nospiežot pogu |images_ozols/25619.png| ,
-tiek sagatavota atskaite pēc izvēlētajiem kritērijiem.Izveidoto
+
+kur izvēlotieskritērijus, un nospiežot pogu .. image::
+images_ozols/25619.png
+    :scale: 100%
+, tiek sagatavota atskaite pēc izvēlētajiem kritērijiem.Izveidoto
 atskaiti ir iespējams izdrukāt, mainot skatu, rīku joslā nospiežot
-pogu |images_ozols/24946.png| Skats, un tad nospiežot pogu
-|images_ozols/24944.png| (Ctrl+P).
+pogu.. image:: images_ozols/24946.png
+    :scale: 100%
+Skats, un tad nospiežot pogu .. image:: images_ozols/24944.png
+    :scale: 100%
+(Ctrl+P).
 
 
 
 Sagatavojot datus pēc izvēlētajiem Filtra kritērijiem, tiks sagatavota
 atskaite ar standarta izveidotajām kolonnām. Lai esošo atskaiti
 papildinātu ar papildus nepieciešamajām kolonnām, nepieciešams Rīku
-joslā nospiest pogu |images_ozols/26016.png| , tiks atvērts logs, kur
-no kreisās puses uz labo, iespējams pievienot papildus kolonnas, kas
-būs pieejamas uz ekrāna:
+joslā nospiest pogu .. image:: images_ozols/26016.png
+    :scale: 100%
+, tiks atvērts logs, kur no kreisās puses uz labo, iespējams pievienot
+papildus kolonnas, kas būs pieejamas uz ekrāna:
 
 
 
-|images_ozols/26402.png|
+.. image:: images_ozols/26402.png
+    :scale: 100%
+
 
 
 
@@ -55,47 +72,16 @@ saraksta:
 
 
 
-|images_ozols/26403.png|
-
-
-
-
-
-
-
-
-
-.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+.. image:: images_ozols/26403.png
     :scale: 100%
 
-.. |images_ozols/24938.png| image:: images_ozols/24938.png
-    :scale: 100%
 
-.. |images_ozols/24635.gif| image:: images_ozols/24635.gif
-    :scale: 100%
 
-.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
-    :scale: 100%
 
-.. |images_ozols/25783.png| image:: images_ozols/25783.png
-    :scale: 100%
 
-.. |images_ozols/25619.png| image:: images_ozols/25619.png
-    :scale: 100%
 
-.. |images_ozols/24946.png| image:: images_ozols/24946.png
-    :scale: 100%
 
-.. |images_ozols/24944.png| image:: images_ozols/24944.png
-    :scale: 100%
 
-.. |images_ozols/26016.png| image:: images_ozols/26016.png
-    :scale: 100%
 
-.. |images_ozols/26402.png| image:: images_ozols/26402.png
-    :scale: 100%
-
-.. |images_ozols/26403.png| image:: images_ozols/26403.png
-    :scale: 100%
 
  

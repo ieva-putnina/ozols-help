@@ -7,9 +7,13 @@ Filtra parametros norādot, ka atskaiti nepieciešams sagatavot par
 2008.gadu un atzīmē, ka tiks grupēta pēc struktūrvienības, uzņēmuma un
 budžeta pieprasījuma dokumenta,nospiežot pogu Atlasīt:
 
-|images_ozols/26339.png|
+.. image:: images_ozols/26339.png
+    :scale: 100%
 
-|images_ozols/26340.png|
+
+.. image:: images_ozols/26340.png
+    :scale: 100%
+
 
 
 
@@ -24,17 +28,10 @@ detalizētu atskaiti, un no detalizētās atskaites iespējams atvērt jau
 konkrēto budžeta dokumentu ar summas sadalījumu pa EKK kā
 :doc:`Budžetu atskaiti<5064>` :
 
-|images_ozols/26341.png|
-
-
-
-.. |images_ozols/26339.png| image:: images_ozols/26339.png
+.. image:: images_ozols/26341.png
     :scale: 100%
 
-.. |images_ozols/26340.png| image:: images_ozols/26340.png
-    :scale: 100%
 
-.. |images_ozols/26341.png| image:: images_ozols/26341.png
-    :scale: 100%
+
 
  

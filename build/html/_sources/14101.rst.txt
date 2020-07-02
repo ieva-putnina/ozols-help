@@ -1,4 +1,8 @@
-.. 14101 Rēķinu sūtīšana pa e-pastu****************************** 
+.. 14101
+ 
+Rēķinu sūtīšana pa e-pastu
+******************************
+ 
 
 
 Rēķinu sūtīšana pa e-pastu kalpo ērtākai un ātrākai elektroniska
@@ -19,11 +23,13 @@ e-pastu
 
 
 
-1. Pirmsrēķinu :doc:`ģenerēšanas<6510>` vai:doc:`veidošanas<304>`
+1. Pirmsrēķinu :doc:`ģenerēšanas<6510>` vai :doc:`veidošanas<304>`
 ,:doc:`partneru kartiņā<312>` jabūt norādītam korespondējošam e-pastam
 un ieliktam ķeksītim - Automātiski sūtīt rēķinus un apmaksas
 atgādinātājus pa e-pastu:
 
+.. image:: images_ozols/26375.jpg
+    :scale: 100%
 
 
 
@@ -39,10 +45,8 @@ ir norādīta korespondējošā e-pasta adrese.
 Lai to izdarītu, :doc:`Pārdošanas dokumentu žurnālā<204>` nepieciešams
 pievienot papildus kolonnu e-pasts, rīku joslā nospiežot pogu
 
-
-
-
-
+.. image:: images_ozols/26017.png    
+    :scale: 100%
 
 
 Ja kolonnā E-pasts nebūs e-pasta adrese, tad izvēlētais rēķins netiks
@@ -50,6 +54,8 @@ nosūtīts:
 
 
 
+.. image:: images_ozols/26018.png
+    :scale: 100%
 
 
 
@@ -59,11 +65,13 @@ būs iespējams nosūtīt uz norādīto e-pastu:
 
 
 
+.. image:: images_ozols/26019.png
+    :scale: 100%
 
 
 
 
-LaiPārdošanas dokumentu žurnālāesošā rēķina klientam pievienotu
+Lai pārdošanas dokumentu žurnālāesošā rēķina klientam pievienotu
 korespondējošo e-pasta adresi - jāatver rēķinu un, ar dubultklikšķi uz
 pircēja nosaukuma pirmo lauku, jāatver Partnera kartiņu. Jāatver
 Partnera kartiņas sadaļa Pārējie dati, un jāieraksta korespondējošais
@@ -100,11 +108,17 @@ veida, Datuma, Termiņa vai citiem):
 
 
 
+.. image:: images_ozols/26021.png
+    :scale: 100%
 
 
 
 
 Laivajadzīgie dati tiktu atlasīti,jānospiež poga
+
+.. image:: images_ozols/25944.png
+    :scale: 100%
+
 
 
 
@@ -119,6 +133,10 @@ vai
 
 2. :doc:`Rīku<14051>` joslā uzspiežot uz Multi iezīmēšanas ikonas
 
+.. image:: images_ozols/25897.png
+    :scale: 100%
+
+
 
 
 Atzīmēt nepieciešamos ierakstus iespējams, nospiežot uz klaviatūras
@@ -131,8 +149,14 @@ izmantot klavitatūras taustiņu Shift.
 Atzīmējot attiecīgos dokumentus, kuriem ir e-pasta adrese un kurus ir
 nepieciešams izsūtīt, :doc:`rīku<14051>` joslā jānospiež poga
 
+.. image:: images_ozols/25814.png
+    :scale: 100%
+un jāizvēlas funkcija:atlasīto/iezīmēto dokumentu sūtīšana pa e-pastu.
 
 
+
+.. image:: images_ozols/26022.png
+    :scale: 100%
 
 
 
@@ -143,17 +167,24 @@ norādīts e-pasts:
 
 
 
+.. image:: images_ozols/26023.png
+    :scale: 100%
 
 
 
 
-No kā - ja šis logs nebūs aizpildīts, tad programmu e-pastu nosūtīt
-neļaus.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Obligāti aizpildāmais logs ir No kā - ja šis logs nebūs aizpildīts,
+tad programmu e-pastu nosūtīt neļaus.
 
 
 
 Ja logs No kā ir aizpildīts, tade-pastu nosūtīšanai
 nepieciešamsnospiest pogu
+
+.. image:: images_ozols/26024.png    
+    :scale: 100%
 
 
 
@@ -162,6 +193,8 @@ rēķinus Partneriem, piedāvājot iespēju apskatīt vēstules:
 
 
 
+.. image:: images_ozols/26025.png
+    :scale: 100%
 
 
 
@@ -173,46 +206,5 @@ pabeigts.
 Ieraksti ar nosūtītajiem rēķiniem tiek saglabāti Pasta modulī
 :doc:`nosūtīto vēstuļu žurnālā<298>` .
 
-.. |images_ozols/26375.jpg| image:: images_ozols/26375.jpg
-    :scale: 100%
 
-.. |images_ozols/26016.png| image:: images_ozols/26016.png
-    :scale: 100%
-
-.. |images_ozols/26017.png| image:: images_ozols/26017.png
-    :scale: 100%
-
-.. |images_ozols/26018.png| image:: images_ozols/26018.png
-    :scale: 100%
-
-.. |images_ozols/26019.png| image:: images_ozols/26019.png
-    :scale: 100%
-
-.. |images_ozols/26021.png| image:: images_ozols/26021.png
-    :scale: 100%
-
-.. |images_ozols/25944.png| image:: images_ozols/25944.png
-    :scale: 100%
-
-.. |images_ozols/25897.png| image:: images_ozols/25897.png
-    :scale: 100%
-
-.. |images_ozols/25814.png| image:: images_ozols/25814.png
-    :scale: 100%
-
-.. |images_ozols/26022.png| image:: images_ozols/26022.png
-    :scale: 100%
-
-.. |images_ozols/26023.png| image:: images_ozols/26023.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/26024.png| image:: images_ozols/26024.png
-    :scale: 100%
-
-.. |images_ozols/26025.png| image:: images_ozols/26025.png
-    :scale: 100%
-
- 
+ 

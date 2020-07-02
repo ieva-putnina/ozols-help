@@ -4,14 +4,13 @@ Notikumu žurnālā tiek saglabāti visi :doc:`pievienotie notikumu<7308>`
 :doc:`nosaukums<7312>` , :doc:`darbība<7316>` ,:doc:`
 telpa/vieta<7315>` un notikumu statuss.
 
-|images_ozols/26190.jpg|
+.. image:: images_ozols/26190.jpg
+    :scale: 100%
+
 
 
 
 Aktivizējot pasākuma nosaukumu, iespējams atvērt :doc:`notikuma
 aprakstu<7308>` .
-
-.. |images_ozols/26190.jpg| image:: images_ozols/26190.jpg
-    :scale: 100%
 
  

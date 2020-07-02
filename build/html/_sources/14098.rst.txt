@@ -1,8 +1,13 @@
-.. 14098 Ozols klienta programmas instalācija**************************************** 
+.. 14098
+ 
+Ozols klienta programmas instalācija
+****************************************
+ 
 
 
 Lai uzinstalētu ozols klienta programmu, nepieciešams ielādēt ozols
 client programmu no interneta resurspunkta:
 
-:doc:`
- 
+ http://www2.its2.lv/download/Ozols/demo/Ozols_client_setup.exe
+
+ 

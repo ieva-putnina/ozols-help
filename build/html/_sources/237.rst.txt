@@ -12,9 +12,13 @@ kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
 arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
 atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
 
-Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
-Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
-filtrs tiek automatizēti aizpildīts no filtra sagataves.
+Datu atlases kritērijus var saglabāt (.. image::
+images_ozols/24938.png
+    :scale: 100%
+). Izvēloties izveidoto filtra sagatavi (.. image::
+images_ozols/24943.png
+    :scale: 100%
+), filtrs tiek automatizēti aizpildīts no filtra sagataves.
 
 **
 **
@@ -31,7 +35,9 @@ un atvērts jaunais līgums;
 
 
 
-|images_ozols/26455.png|
+.. image:: images_ozols/26455.png
+    :scale: 100%
+
 
 
 3. pēc nokopēšanas, jāveic līguma galvenās sadaļas izmaiņas un līgums
@@ -49,21 +55,11 @@ Izpildīts, norādot izpildes datumu.
 
 
 
-|images_ozols/24545.gif| Izpildītā līguma un jaunā līguma darbības
-termiņu nedrīkst pārklāties, pretējā gadījumā, izrakstot polisi, tiks
-ņemti vērā Izpildītā līguma nosacījumi.
-
-
-.. |images_ozols/24938.png| image:: images_ozols/24938.png
+.. image:: images_ozols/24545.gif
     :scale: 100%
+Izpildītā līguma un jaunā līguma darbības termiņu nedrīkst pārklāties,
+pretējā gadījumā, izrakstot polisi, tiks ņemti vērā Izpildītā līguma
+nosacījumi.
 
-.. |images_ozols/24943.png| image:: images_ozols/24943.png
-    :scale: 100%
-
-.. |images_ozols/26455.png| image:: images_ozols/26455.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
 
  

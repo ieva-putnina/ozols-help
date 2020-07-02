@@ -5,29 +5,26 @@ adresi, kas būs partnera noklusētā adrese:
 
 
 
-|images_ozols/25715.png|
+.. image:: images_ozols/25715.png
+    :scale: 100%
+
 
 
 
 Adresei ir iespējams pievienot darba laiku, un saglabāt izmaiņas visus
-pievienotos datus, nospiežot pogu |images_ozols/25621.png| .
+pievienotos datus, nospiežot pogu .. image:: images_ozols/25621.png
+    :scale: 100%
+.
 
 
 
-|images_ozols/25719.png|
+.. image:: images_ozols/25719.png
+    :scale: 100%
+
 
 
 
 Visas partnerim pievienotās adreses tiek saglabātas:doc:`partneru
 sarakstā<112>` .
-
-.. |images_ozols/25715.png| image:: images_ozols/25715.png
-    :scale: 100%
-
-.. |images_ozols/25621.png| image:: images_ozols/25621.png
-    :scale: 100%
-
-.. |images_ozols/25719.png| image:: images_ozols/25719.png
-    :scale: 100%
 
  

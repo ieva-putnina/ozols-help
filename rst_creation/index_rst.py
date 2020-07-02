@@ -117,14 +117,20 @@ with open('ozols-help-csv.csv') as csvFile:
                     if os.path.isfile(img_file) == False:
                         img_file = img_dir + img_id + ".jpg"    
                         if os.path.isfile(img_file) == False:
-                            img_file = img_dir + img_id + ".gif"    
-                    param_array[4] = param_array[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br /> :scale: 100%<br />" 
-                    param_array[4] = param_array[4].replace(param_array[4][ img_start_pos : img_end_pos+1 ], " |" + img_file + "| ", 1)
-                    #param_array[4] = param_array[4].replace(param_array[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)                                          
+                            img_file = img_dir + img_id + ".gif"  
+                            if os.path.isfile(img_file) == False:
+                                img_file = img_dir + img_id + ".PNG"    
+                                if os.path.isfile(img_file) == False:
+                                    img_file = img_dir + img_id + ".JPG"
+                                    if os.path.isfile(img_file) == False:
+                                        img_file = img_dir + img_id + ".GIF"                            
+                    #param_array[4] = param_array[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br /> :scale: 100%<br />" 
+                    #param_array[4] = param_array[4].replace(param_array[4][ img_start_pos : img_end_pos+1 ], " |" + img_file + "| ", 1)
+                    param_array[4] = param_array[4].replace(param_array[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)                                          
                 html2rest(param_array[4], writer = stream)
                 rst_code = stream.getvalue().decode("utf8")
-                rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +".. image:: ")                 
-                rst_code = rst_code.replace(":scale: 100%" , "    :scale: 100%") 
+                rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +"  .. image:: ")                 
+                rst_code = rst_code.replace(":scale: 100%" , "       :scale: 100%") 
                 f.write(rst_code + chr(13))
                 f.write(" " + chr(13))
                 
@@ -176,14 +182,21 @@ with open('ozols-help-csv.csv') as csvFile:
                                     img_file = img_dir + img_id + ".jpg"    
                                     if os.path.isfile(img_file) == False:
                                         img_file = img_dir + img_id + ".gif" 
-                                param_array2[4] = param_array2[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br /> :scale: 100% <br />"        
-                                param_array2[4] = param_array2[4].replace(param_array2[4][ img_start_pos : img_end_pos+1 ], " |" + img_file + "| ", 1)                                          
+                                        if os.path.isfile(img_file) == False:
+                                            img_file = img_dir + img_id + ".PNG"    
+                                            if os.path.isfile(img_file) == False:
+                                                img_file = img_dir + img_id + ".JPG"
+                                                if os.path.isfile(img_file) == False:
+                                                    img_file = img_dir + img_id + ".GIF"
 
-                                #param_array2[4] = param_array2[4].replace(param_array2[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)                                          
+
+                                #param_array2[4] = param_array2[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br /> :scale: 100% <br />"        
+                                #param_array2[4] = param_array2[4].replace(param_array2[4][ img_start_pos : img_end_pos+1 ], " |" + img_file + "| ", 1)                                          
+                                param_array2[4] = param_array2[4].replace(param_array2[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)                                          
                             html2rest(param_array2[4], writer = stream2)
                             rst_code = stream2.getvalue().decode("utf8") 
-                            rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +".. image:: ") 
-                            rst_code = rst_code.replace(":scale: 100%" , "    :scale: 100%") 
+                            rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +"  .. image:: ") 
+                            rst_code = rst_code.replace(":scale: 100%" , "       :scale: 100%") 
                             f2.write(rst_code + chr(13))
                             f2.write(" " + chr(13))
                             
@@ -233,13 +246,19 @@ with open('ozols-help-csv.csv') as csvFile:
                                                 img_file = img_dir + img_id + ".jpg"    
                                                 if os.path.isfile(img_file) == False:
                                                     img_file = img_dir + img_id + ".gif" 
-                                            param_array3[4] = param_array3[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br />:scale: 100% <br />"        
-                                            param_array3[4] = param_array3[4].replace(param_array3[4][ img_start_pos : img_end_pos+1 ], " |" + img_file + "| ", 1)                                          
-                                            #param_array3[4] = param_array3[4].replace(param_array3[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)  
+                                                    if os.path.isfile(img_file) == False:
+                                                        img_file = img_dir + img_id + ".PNG"    
+                                                        if os.path.isfile(img_file) == False:
+                                                            img_file = img_dir + img_id + ".JPG"
+                                                            if os.path.isfile(img_file) == False:
+                                                                img_file = img_dir + img_id + ".GIF"
+                                            #param_array3[4] = param_array3[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br />:scale: 100% <br />"        
+                                            #param_array3[4] = param_array3[4].replace(param_array3[4][ img_start_pos : img_end_pos+1 ], " |" + img_file + "| ", 1)                                          
+                                            param_array3[4] = param_array3[4].replace(param_array3[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)  
                                         html2rest(param_array3[4], writer = stream3)
                                         rst_code = stream3.getvalue().decode("utf8") 
-                                        rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +".. image:: ") 
-                                        rst_code = rst_code.replace(":scale: 100%" , "    :scale: 100%") 
+                                        rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +"  .. image:: ") 
+                                        rst_code = rst_code.replace(":scale: 100%" , "       :scale: 100%") 
                                         f3.write(rst_code + chr(13))
                                         f3.write(" " + chr(13))
                                         
@@ -288,14 +307,20 @@ with open('ozols-help-csv.csv') as csvFile:
                                                         if os.path.isfile(img_file) == False:
                                                             img_file = img_dir + img_id + ".jpg"    
                                                             if os.path.isfile(img_file) == False:
-                                                                img_file = img_dir + img_id + ".gif"  
-                                                        param_array4[4] = param_array4[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br /> :scale: 100% <br />"        
-                                                        param_array4[4] = param_array4[4].replace(param_array4[4][ img_start_pos : img_end_pos+1 ], " |" + img_file + "| ", 1)                                          
-                                                        #param_array4[4] = param_array4[4].replace(param_array4[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)                                                                 
+                                                                img_file = img_dir + img_id + ".gif"
+                                                                if os.path.isfile(img_file) == False:
+                                                                    img_file = img_dir + img_id + ".PNG"    
+                                                                    if os.path.isfile(img_file) == False:
+                                                                        img_file = img_dir + img_id + ".JPG"
+                                                                        if os.path.isfile(img_file) == False:
+                                                                            img_file = img_dir + img_id + ".GIF"                                                                
+                                                        #param_array4[4] = param_array4[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br /> :scale: 100% <br />"        
+                                                        #param_array4[4] = param_array4[4].replace(param_array4[4][ img_start_pos : img_end_pos+1 ], " |" + img_file + "| ", 1)                                          
+                                                        param_array4[4] = param_array4[4].replace(param_array4[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)                                                                 
                                                     html2rest(param_array4[4], writer = stream4)
                                                     rst_code = stream4.getvalue().decode("utf8") 
-                                                    rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +".. image:: ") 
-                                                    rst_code = rst_code.replace(":scale: 100%" , "    :scale: 100%") 
+                                                    rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +"  .. image:: ") 
+                                                    rst_code = rst_code.replace(":scale: 100%" , "       :scale: 100%") 
                                                     f4.write(rst_code + chr(13))
                                                     f4.write(" " + chr(13))                                        
 
@@ -344,13 +369,19 @@ with open('ozols-help-csv.csv') as csvFile:
                                                                         img_file = img_dir + img_id + ".jpg"    
                                                                         if os.path.isfile(img_file) == False:
                                                                             img_file = img_dir + img_id + ".gif"
-                                                                    param_array5[4] = param_array5[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br /> :scale: 100%<br />"        
-                                                                    param_array5[4] = param_array5[4].replace(param_array5[4][ img_start_pos : img_end_pos+1 ], " |" + img_file + "| ", 1)                                          
-                                                                    #param_array5[4] = param_array5[4].replace(param_array5[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)   
+                                                                            if os.path.isfile(img_file) == False:
+                                                                                img_file = img_dir + img_id + ".PNG"    
+                                                                                if os.path.isfile(img_file) == False:
+                                                                                    img_file = img_dir + img_id + ".JPG"
+                                                                                    if os.path.isfile(img_file) == False:
+                                                                                        img_file = img_dir + img_id + ".GIF"
+                                                                    #param_array5[4] = param_array5[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br /> :scale: 100%<br />"        
+                                                                    #param_array5[4] = param_array5[4].replace(param_array5[4][ img_start_pos : img_end_pos+1 ], " |" + img_file + "| ", 1)                                          
+                                                                    param_array5[4] = param_array5[4].replace(param_array5[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)   
                                                                 html2rest(param_array5[4], writer = stream5)
                                                                 rst_code = stream5.getvalue().decode("utf8") 
-                                                                rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +".. image:: ") 
-                                                                rst_code = rst_code.replace(":scale: 100%" , "    :scale: 100%") 
+                                                                rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +"  .. image:: ") 
+                                                                rst_code = rst_code.replace(":scale: 100%" , "       :scale: 100%") 
                                                                 f5.write(rst_code + chr(13))
                                                                 f5.write(" " + chr(13)) 
                                                                 
@@ -400,13 +431,20 @@ with open('ozols-help-csv.csv') as csvFile:
                                                                                     img_file = img_dir + img_id + ".jpg"    
                                                                                     if os.path.isfile(img_file) == False:
                                                                                         img_file = img_dir + img_id + ".gif"
+                                                                                        if os.path.isfile(img_file) == False:
+                                                                                            img_file = img_dir + img_id + ".PNG"    
+                                                                                            if os.path.isfile(img_file) == False:
+                                                                                                img_file = img_dir + img_id + ".JPG"
+                                                                                                if os.path.isfile(img_file) == False:
+                                                                                                    img_file = img_dir + img_id + ".GIF"
+                                                                                        
                                                                                 #param_array6[4] = param_array6[4] + "<br> .. " + "|" + img_file + "|  image:: " + img_file + " <br /> :scale: 100% <br />"        
                                                                                 #param_array6[4] = param_array6[4].replace(param_array6[4][ img_start_pos : img_end_pos+1 ], " |" + img_file + "| ", 1)                                          
                                                                                 param_array6[4] = param_array6[4].replace(param_array6[4][ img_start_pos : img_end_pos+1 ], ".. image:: " + img_file + " <br /> :scale: 100% <br />", 1)  
                                                                             html2rest(param_array6[4], writer = stream6)
                                                                             rst_code = stream6.getvalue().decode("utf8") 
-                                                                            rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +".. image:: ") 
-                                                                            rst_code = rst_code.replace(":scale: 100%" , "    :scale: 100%") 
+                                                                            rst_code = rst_code.replace(".. image:: " , chr(13) +"" + chr(13) +"  .. image:: ") 
+                                                                            rst_code = rst_code.replace(":scale: 100%" , "       :scale: 100%") 
                                                                             f6.write(rst_code + chr(13))
                                                                             f6.write(" " + chr(13))                                                                 
                                                                 

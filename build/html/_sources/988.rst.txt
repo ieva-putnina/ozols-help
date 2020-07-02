@@ -13,12 +13,10 @@ papildmērvienībās.
 
 
 
-:doc:` |images_ozols/24545.gif| <990>` Atskaites sagatavošana:
-:doc:`Ievedums–Intrastat–1A<990>`
-
-
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+:doc:`.. image:: images_ozols/24545.gif
     :scale: 100%
+<990>` Atskaites sagatavošana: :doc:`Ievedums–Intrastat–1A<990>`
+
+
 
  .. toctree::   :maxdepth: 4    989.rst   990.rst   1019.rst

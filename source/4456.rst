@@ -8,7 +8,9 @@ grupas, atzīmējot izvēles rūtiņu "Grupēt pēc nomenklatūras grupas":
 
 
 
-|images_ozols/25826.png|
+.. image:: images_ozols/25826.png
+    :scale: 100%
+
 
 
 
@@ -19,8 +21,5 @@ norādīto datumu nav atlikuma, nepieciešams atzīmēt izvēles rūtiņu:
 Sagatavojot atskaiti, ir iespējams konkrētas kolonnas datus sakārtot
 augošā vai dilstošā secībā, pēc alfabēta,nospiežot uz kolonnas
 nosaukuma.
-
-.. |images_ozols/25826.png| image:: images_ozols/25826.png
-    :scale: 100%
 
  .. toctree::   :maxdepth: 3    5312.rst

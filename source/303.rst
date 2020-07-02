@@ -5,7 +5,9 @@ Izvēloties dokumenta veidu Pilnvara, tiks atvērts jauns logs:
 
 
 
-|images_ozols/25532.png|
+.. image:: images_ozols/25532.png
+    :scale: 100%
+
 
 
 
@@ -22,7 +24,9 @@ piedāvā nākamo brīvo numuru pēc kārtas.
 
 
 
-|images_ozols/25534.png|
+.. image:: images_ozols/25534.png
+    :scale: 100%
+
 
 
 
@@ -31,7 +35,9 @@ termiņu:
 
 
 
-|images_ozols/25535.png|
+.. image:: images_ozols/25535.png
+    :scale: 100%
+
 
 
 
@@ -42,7 +48,9 @@ Pilnvaras izsniedzēja - uzņēmuma rekvizītos:
 
 
 
-|images_ozols/25536.png|
+.. image:: images_ozols/25536.png
+    :scale: 100%
+
 
 
 
@@ -51,14 +59,20 @@ saņemta:
 
 
 
-|images_ozols/25537.png|
+.. image:: images_ozols/25537.png
+    :scale: 100%
 
 
 
-|images_ozols/24545.gif| Japiegādātājs nav datu bāzē, izmantojot
-komandu |images_ozols/24743.png| atveras partneru saraksta logs un ir
-iespējams pievienot jaunu partneri partneru sarakstā. Partnera
-pievienošanu un aizpildīšanu skatīt :doc:` Partneris <312>` .
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Japiegādātājs nav datu bāzē, izmantojot komandu .. image::
+images_ozols/24743.png
+    :scale: 100%
+atveras partneru saraksta logs un ir iespējams pievienot jaunu
+partneri partneru sarakstā. Partnera pievienošanu un aizpildīšanu
+skatīt :doc:` Partneris <312>` .
 
 
 
@@ -66,7 +80,9 @@ pievienošanu un aizpildīšanu skatīt :doc:` Partneris <312>` .
 
 
 
-|images_ozols/25538.png|
+.. image:: images_ozols/25538.png
+    :scale: 100%
+
 
 
 
@@ -74,47 +90,21 @@ Pilnvarassaturaaizpildīšana
 +++++++++++++++++++++++++++
 
 Lai aizpildītu Pilnvaras Saturu, dokumenta satura daļā nepieciešams
-nospiest |images_ozols/24708.png| un tiks atvērts operācijas satura
-logs, kurā nepieciešams aizpildīt satura ierakstus:
+nospiest .. image:: images_ozols/24708.png
+    :scale: 100%
+un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
+satura ierakstus:
 
 
 
-|images_ozols/25539.png|
-
-
-
-
-
-
-
-.. |images_ozols/25532.png| image:: images_ozols/25532.png
+.. image:: images_ozols/25539.png
     :scale: 100%
 
-.. |images_ozols/25534.png| image:: images_ozols/25534.png
-    :scale: 100%
 
-.. |images_ozols/25535.png| image:: images_ozols/25535.png
-    :scale: 100%
 
-.. |images_ozols/25536.png| image:: images_ozols/25536.png
-    :scale: 100%
 
-.. |images_ozols/25537.png| image:: images_ozols/25537.png
-    :scale: 100%
 
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
 
-.. |images_ozols/24743.png| image:: images_ozols/24743.png
-    :scale: 100%
 
-.. |images_ozols/25538.png| image:: images_ozols/25538.png
-    :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/25539.png| image:: images_ozols/25539.png
-    :scale: 100%
 
  

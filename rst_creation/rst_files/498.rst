@@ -9,12 +9,13 @@ veikšanas algu aprēķini ir pieejami :doc:`Algu aprēķinu žurnālā<212>`
 
 
 
-|images_ozols/24545.gif| Pirms aprēķinu veikšanas jāpārbauda, vai ir
-savadīti visi dati :doc:`Algu tarifikācijā<728>` , :doc:`Nodokļu
-dokumentu žurnālā<208>` , :doc:`Rīkojumu žurnālā<209>` par attiecīgo
-periodu lai varētu veikt algu aprēķinuun izveidoti :doc:`Izmaksu
-saraksti<238>` par attiecīgo periodu lai veiktu aprēķinu izmaksu uz
-izmaksu sarakstiem.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Pirms aprēķinu veikšanas jāpārbauda, vai ir savadīti visi dati
+:doc:`Algu tarifikācijā<728>` , :doc:`Nodokļu dokumentu žurnālā<208>`
+, :doc:`Rīkojumu žurnālā<209>` par attiecīgo periodu lai varētu veikt
+algu aprēķinuun izveidoti :doc:`Izmaksu saraksti<238>` par attiecīgo
+periodu lai veiktu aprēķinu izmaksu uz izmaksu sarakstiem.
 
 
 
@@ -23,7 +24,9 @@ lietotājam jānorāda atlases un darbību nosacījumi.
 
 
 
-|images_ozols/26277.png|
+.. image:: images_ozols/26277.png
+    :scale: 100%
+
 
 
 
@@ -48,12 +51,13 @@ aprēķinus.
 
 
 
-|images_ozols/24545.gif| Lietotājam jāņem vērā, ka atzīmējot izvēles
-rūtiņu Atvērtajā periodā dzēst X algu aprēķinus, esošie par attiecīgo
-periodualgu aprēķini tiks neatgriezeniski izdzēsti. Kā arī atzīmējot
-izvēles rūtiņu Atvērtajā periodā izveidot X jaunus algu aprēķnus,
-esošie algu aprēķioni tiks aizstāti ar jaunizveidotajiem, iepriekšējos
-dzēšot.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Lietotājam jāņem vērā, ka atzīmējot izvēles rūtiņu Atvērtajā periodā
+dzēst X algu aprēķinus, esošie par attiecīgo periodualgu aprēķini tiks
+neatgriezeniski izdzēsti. Kā arī atzīmējot izvēles rūtiņu Atvērtajā
+periodā izveidot X jaunus algu aprēķnus, esošie algu aprēķioni tiks
+aizstāti ar jaunizveidotajiem, iepriekšējos dzēšot.
 
 
 
@@ -89,14 +93,5 @@ Pēc atlases un darbību datu aizpildīšanas jāspiež poga Turpināt , lai
 sistēma veiktu lietotāja norādītās darbības algu aprēķinā.
 
 
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/26277.png| image:: images_ozols/26277.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
 
  

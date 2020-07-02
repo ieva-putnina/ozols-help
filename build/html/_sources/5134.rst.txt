@@ -5,14 +5,13 @@ Lai tiktu nomainīta parole, nepieciešams aizpildīt sekojošus laukus:
 
 
 
-|images_ozols/26390.png|
+.. image:: images_ozols/26390.png
+    :scale: 100%
+
 
 
 
 Nospiežot pogu "Mainīt paroli" - parole tiks nomainīta un turpmākām
 pieslēgšanās jāizmanto jaunievadītā parole.
-
-.. |images_ozols/26390.png| image:: images_ozols/26390.png
-    :scale: 100%
 
  

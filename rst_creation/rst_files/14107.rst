@@ -4,7 +4,9 @@ Nostrādāto prēmiju:
 
 
 
-|images_ozols/26255.png|
+.. image:: images_ozols/26255.png
+    :scale: 100%
+
 
 
 
@@ -17,17 +19,23 @@ Maksājuma plāna sadaļā parādās Starpības summa:
 
 
 
-|images_ozols/26256.png|
+.. image:: images_ozols/26256.png
+    :scale: 100%
 
 
 
-|images_ozols/24545.gif| Ja pārtrauktās polises Nenostrādātā prēmija
-(Starpība) netiek pārnesta uz jaunu polisi, tad nepieciešams ģenerēt
-maksājumu par starpības summu (-30.59):
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Ja pārtrauktās polises Nenostrādātā prēmija (Starpība) netiek pārnesta
+uz jaunu polisi, tad nepieciešams ģenerēt maksājumu par starpības
+summu (-30.59):
 
 
 
-|images_ozols/26257.png|
+.. image:: images_ozols/26257.png
+    :scale: 100%
+
 
 
 
@@ -35,7 +43,9 @@ Pēc maksājuma uzģenerēšanas kopējā summa ir Nostrādātā prēmija.
 
 
 
-|images_ozols/26258.png|
+.. image:: images_ozols/26258.png
+    :scale: 100%
+
 
 
 
@@ -45,7 +55,9 @@ grāmatojums):
 
 
 
-|images_ozols/26259.png|
+.. image:: images_ozols/26259.png
+    :scale: 100%
+
 
 
 
@@ -57,15 +69,19 @@ sagatavot Norēķinu dzēšanas aktu, kuru jāsaglabā.
 
 
 
-|images_ozols/24545.gif| Gadījumos, kad pēc polises pārtraukšanas tiek
-dzēsti atlikušie uzģenerētie maksājumi un ir zināms, ka netiks veikts
-komisijas aprēķins par atlikušajiem neapmaksātajiem maksājumiem,
-izveidojot :doc:`Pārdošanas norēķinu dzēšanas aktu<358>` , jāatzīmē,
-ka summa netiks iekļauta komisijas aprēķinā:
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Gadījumos, kad pēc polises pārtraukšanas tiek dzēsti atlikušie
+uzģenerētie maksājumi un ir zināms, ka netiks veikts komisijas
+aprēķins par atlikušajiem neapmaksātajiem maksājumiem, izveidojot
+:doc:`Pārdošanas norēķinu dzēšanas aktu<358>` , jāatzīmē, ka summa
+netiks iekļauta komisijas aprēķinā:
 
 
 
-|images_ozols/26409.jpg|
+.. image:: images_ozols/26409.jpg
+    :scale: 100%
+
 
 
 
@@ -77,52 +93,26 @@ zīmi.
 
 
 
-|images_ozols/24545.gif| Ja pārtrauktās polises Nenostrādātā prēmija
-tiek pārcelta uz citu konkrētam partnerim piesaistīto polisi, tad
-pārtrauktajai polisei **nav nepieciešams** **ģenerēt rēķinu** par
-nenostrādāto prēmiju, bet jāatver jaunās polises neapmaksātais
-maksājums/:doc:`rēķins<304>` un manuāli maksājuma saturā jāpievieno
-pārtrauktās polises nenostrādātā prēmija (-30,59). Par nenostrādātās
-prēmijas summu tiek samazināta jaunās polises maksājuma summa:
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Ja pārtrauktās polises Nenostrādātā prēmija tiek pārcelta uz citu
+konkrētam partnerim piesaistīto polisi, tad pārtrauktajai polisei
+**nav nepieciešams** **ģenerēt rēķinu** par nenostrādāto prēmiju, bet
+jāatver jaunās polises neapmaksātais maksājums/:doc:`rēķins<304>` un
+manuāli maksājuma saturā jāpievieno pārtrauktās polises nenostrādātā
+prēmija (-30,59). Par nenostrādātās prēmijas summu tiek samazināta
+jaunās polises maksājuma summa:
 
 
 
-|images_ozols/26261.png|
+.. image:: images_ozols/26261.png
+    :scale: 100%
+
 
 
 
 Ja nenostrādāto prēmiju nepieciešams atgriezt klientam, tiek veidots
 maksājums ar mīnus zīmi (-30.59) un saistīts ar :doc:`bankas
 izdevumu<347>` dokumentu.
-
-.. |images_ozols/26255.png| image:: images_ozols/26255.png
-    :scale: 100%
-
-.. |images_ozols/26256.png| image:: images_ozols/26256.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/26257.png| image:: images_ozols/26257.png
-    :scale: 100%
-
-.. |images_ozols/26258.png| image:: images_ozols/26258.png
-    :scale: 100%
-
-.. |images_ozols/26259.png| image:: images_ozols/26259.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/26409.jpg| image:: images_ozols/26409.jpg
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/26261.png| image:: images_ozols/26261.png
-    :scale: 100%
 
  

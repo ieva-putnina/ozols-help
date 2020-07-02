@@ -102,13 +102,13 @@ html_css_files = ["page_nav.css"]
 
 import sphinx_glpi_theme
 #---sphinx-themes-----
-#html_theme = 'glpi'
+html_theme = 'glpi'
 #html_theme = 'local_rtd_theme'
 #html_theme = 'sphinx_ozols_theme'
 #html_theme = 'alabaster_theme'
 #html_theme = 'sphinx_press_theme'
 #html_theme = 'alabaster'
-html_theme = 'press'
+#html_theme = 'press'
 #html_theme_path = [sphinx_glpi_theme.get_html_themes_path()]
 html_theme_path = ["_themes", "_themes/sphinx_glpi_theme"]
 

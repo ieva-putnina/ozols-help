@@ -14,22 +14,19 @@ Filtru var uzlikt, lai ierobežotu kādu datu parādīšanu uz ekrāna,
 iegūstot nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos
 datus.
 
-Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
-Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
-filtrs tiek automatizēti aizpildīts no filtra sagataves.
+Datu atlases kritērijus var saglabāt (.. image::
+images_ozols/24938.png
+    :scale: 100%
+). Izvēloties izveidoto filtra sagatavi (.. image::
+images_ozols/24943.png
+    :scale: 100%
+), filtrs tiek automatizēti aizpildīts no filtra sagataves.
 
 Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
-kritērijiem,pēc filtra iestādījumu aizpildīšanas,jānospiež poga
-|images_ozols/25944.png| .
-
-
-.. |images_ozols/24938.png| image:: images_ozols/24938.png
+kritērijiem,pēc filtra iestādījumu aizpildīšanas,jānospiež poga ..
+image:: images_ozols/25944.png
     :scale: 100%
+.
 
-.. |images_ozols/24943.png| image:: images_ozols/24943.png
-    :scale: 100%
-
-.. |images_ozols/25944.png| image:: images_ozols/25944.png
-    :scale: 100%
 
  

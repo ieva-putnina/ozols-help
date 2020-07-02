@@ -6,12 +6,16 @@ Valodas prasmjudokumentu žurnālā tiek saglabāti visi
 
 Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
 tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
-ekrāna formā. Rīku joslā nopiežot pogu |images_ozols/24535.gif|
+ekrāna formā. Rīku joslā nopiežot pogu.. image::
+images_ozols/24535.gif
+    :scale: 100%
 (Ctrl+F), tiek atvērts filtra logs:
 
 
 
-|images_ozols/26111.png|
+.. image:: images_ozols/26111.png
+    :scale: 100%
+
 
 
 
@@ -27,8 +31,10 @@ parvalodu prasmēm tikai Aktīvajām vai Neaktīvajām slodzēm.
 
 
 Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
-kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga
-|images_ozols/25944.png| .
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga ..
+image:: images_ozols/25944.png
+    :scale: 100%
+.
 
 
 
@@ -40,27 +46,16 @@ pievienot informāciju par strādājošā valodas prasmēm:
 
 
 
-|images_ozols/25736.png|
-
-
-
-Kad valodu prasmes dati pievienoti, jānospiež poga
-|images_ozols/25621.png| . Visi strādājošam pievienotie dati par
-valodu prasmi tiek saglabāti :doc:`Valodu prasmju<761>` žurnālā.
-
-.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
+.. image:: images_ozols/25736.png
     :scale: 100%
 
-.. |images_ozols/26111.png| image:: images_ozols/26111.png
-    :scale: 100%
 
-.. |images_ozols/25944.png| image:: images_ozols/25944.png
-    :scale: 100%
 
-.. |images_ozols/25736.png| image:: images_ozols/25736.png
-    :scale: 100%
 
-.. |images_ozols/25621.png| image:: images_ozols/25621.png
+Kad valodu prasmes dati pievienoti, jānospiež poga .. image::
+images_ozols/25621.png
     :scale: 100%
+. Visi strādājošam pievienotie dati par valodu prasmi tiek saglabāti
+:doc:`Valodu prasmju<761>` žurnālā.
 
  

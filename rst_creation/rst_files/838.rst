@@ -4,7 +4,9 @@ logs, kur iespējams mainīt darbu pasūtījuma dokumenta veidu:
 
 
 
-|images_ozols/25853.png|
+.. image:: images_ozols/25853.png
+    :scale: 100%
+
 
 
 
@@ -13,7 +15,9 @@ informācija:
 
 
 
-|images_ozols/25852.png|
+.. image:: images_ozols/25852.png
+    :scale: 100%
+
 
 
 
@@ -64,7 +68,9 @@ Pirms funkcijas izsaukšanas, nepieciešams iezīmēt izvēlēto projektu:
 
 
 
-|images_ozols/25854.png|
+.. image:: images_ozols/25854.png
+    :scale: 100%
+
 
 
 
@@ -76,7 +82,9 @@ informāciju:
 
 
 
-|images_ozols/25855.png|
+.. image:: images_ozols/25855.png
+    :scale: 100%
+
 
 
 
@@ -89,7 +97,9 @@ pasūtījumu:
 
 
 
-|images_ozols/25856.png|
+.. image:: images_ozols/25856.png
+    :scale: 100%
+
 
 
 
@@ -101,7 +111,9 @@ informāciju:
 
 
 
-|images_ozols/25857.png|
+.. image:: images_ozols/25857.png
+    :scale: 100%
+
 
 
 
@@ -134,7 +146,9 @@ darba uzdevuma publiskošanu ar e-pasta vēstules palīdzību:
 
 
 
-|images_ozols/25858.png|
+.. image:: images_ozols/25858.png
+    :scale: 100%
+
 
 
 
@@ -147,7 +161,9 @@ zem darba uzdevuma:
 
 
 
-|images_ozols/25859.png|
+.. image:: images_ozols/25859.png
+    :scale: 100%
+
 
 
 
@@ -155,33 +171,8 @@ Darba uzdevuma komentāri:
 
 
 
-|images_ozols/25860.png|
-
-.. |images_ozols/25853.png| image:: images_ozols/25853.png
+.. image:: images_ozols/25860.png
     :scale: 100%
 
-.. |images_ozols/25852.png| image:: images_ozols/25852.png
-    :scale: 100%
-
-.. |images_ozols/25854.png| image:: images_ozols/25854.png
-    :scale: 100%
-
-.. |images_ozols/25855.png| image:: images_ozols/25855.png
-    :scale: 100%
-
-.. |images_ozols/25856.png| image:: images_ozols/25856.png
-    :scale: 100%
-
-.. |images_ozols/25857.png| image:: images_ozols/25857.png
-    :scale: 100%
-
-.. |images_ozols/25858.png| image:: images_ozols/25858.png
-    :scale: 100%
-
-.. |images_ozols/25859.png| image:: images_ozols/25859.png
-    :scale: 100%
-
-.. |images_ozols/25860.png| image:: images_ozols/25860.png
-    :scale: 100%
 
  

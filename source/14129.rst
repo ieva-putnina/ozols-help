@@ -10,7 +10,9 @@ Slimības apmaksu (>Dokumenti > Personāla uzskaite > :doc:`Rīkojumu
 
 
 
-|images_ozols/26369.png|
+.. image:: images_ozols/26369.png
+    :scale: 100%
+
 
 
 
@@ -20,8 +22,10 @@ kalendāram.
 
 
 
-|images_ozols/24545.gif| Lai rīkojumu dokumenti piedalītos algu
-aprēķinos, tie obligāti jāapstiprina.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Lai rīkojumu dokumenti piedalītos algu aprēķinos, tie obligāti
+jāapstiprina.
 
 
 
@@ -31,7 +35,9 @@ kalendāra:
 
 
 
-|images_ozols/26357.png|
+.. image:: images_ozols/26357.png
+    :scale: 100%
+
 
 
 
@@ -40,35 +46,23 @@ procentiem un aprēķinātā vidējā izpeļņa dienā.
 
 
 
-|images_ozols/26370.png|
-
-
-
-|images_ozols/24545.gif| Ja programmā nav datu dienas vidējās izpeļņas
-aprēķināšanai, lietotājam ir iespēja manuāli pievienot dienas vidējās
-izpeļņas kodu algu aprēķina kartiņā ieejošajos datos, izmantojot algu
-aprēķinā pieejamo pogu Pievienot un izvēloties atbilstošo algas kodu:
-
-
-
-|images_ozols/26371.png|
-
-.. |images_ozols/26369.png| image:: images_ozols/26369.png
+.. image:: images_ozols/26370.png
     :scale: 100%
 
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+
+
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Ja programmā nav datu dienas vidējās izpeļņas aprēķināšanai,
+lietotājam ir iespēja manuāli pievienot dienas vidējās izpeļņas kodu
+algu aprēķina kartiņā ieejošajos datos, izmantojot algu aprēķinā
+pieejamo pogu Pievienot un izvēloties atbilstošo algas kodu:
+
+
+
+.. image:: images_ozols/26371.png
     :scale: 100%
 
-.. |images_ozols/26357.png| image:: images_ozols/26357.png
-    :scale: 100%
-
-.. |images_ozols/26370.png| image:: images_ozols/26370.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/26371.png| image:: images_ozols/26371.png
-    :scale: 100%
 
  

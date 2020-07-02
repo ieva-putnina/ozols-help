@@ -15,12 +15,16 @@ izmantojot :doc:`Grupu<148>` sarakstu.
 Jaunasnomenklatūraskartiņas pievienošana
 ````````````````````````````````````````
 
-Lai pievienotu jaunu nomenklatūras kartiņu, rīku joslājānospiež poga
-|images_ozols/24708.png| un tiks atvērts jauns logs:
+Lai pievienotu jaunu nomenklatūras kartiņu, rīku joslājānospiež poga..
+image:: images_ozols/24708.png
+    :scale: 100%
+un tiks atvērts jauns logs:
 
 
 
-|images_ozols/25965.png|
+.. image:: images_ozols/25965.png
+    :scale: 100%
+
 
 
 1. Nomenklatūras pamatdatu aizpildīšana
@@ -35,7 +39,9 @@ nomenklatūrai atbilstošo grupu:
 
 
 
-|images_ozols/25309.png|
+.. image:: images_ozols/25309.png
+    :scale: 100%
+
 
 
 
@@ -43,18 +49,21 @@ nomenklatūrai atbilstošo grupu:
 
 
 
-|images_ozols/25310.png|
+.. image:: images_ozols/25310.png
+    :scale: 100%
 
 
 
-|images_ozols/24545.gif| Nomenklatūras kodu iespējams ievadīt katru
-reizi manuāli vai arīnoteikt konfigurācijas formātu, kur atbilstošā
-rakstzīme ir viens simbols no dažādiem nomenklatūras apraksta kodiem.
-Nomenklatūras koda ģenerēšanu automātiski iespējams noteikt
-konfigurācijas iestādījumos (>Konfigurācija > Iestādījumi > Kopīgie >
-:doc:`Noliktava<716>` ).Ņemot vērā nomenklatūras koda veidošanas
-nosacījumus, tiek automatizēti izveidots nomenklatūras apraksta laukā
-Kods.
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Nomenklatūras kodu iespējams ievadīt katru reizi manuāli vai
+arīnoteikt konfigurācijas formātu, kur atbilstošā rakstzīme ir viens
+simbols no dažādiem nomenklatūras apraksta kodiem. Nomenklatūras koda
+ģenerēšanu automātiski iespējams noteikt konfigurācijas iestādījumos
+(>Konfigurācija > Iestādījumi > Kopīgie > :doc:`Noliktava<716>`
+).Ņemot vērā nomenklatūras koda veidošanas nosacījumus, tiek
+automatizēti izveidots nomenklatūras apraksta laukā Kods.
 
 
 
@@ -65,7 +74,9 @@ informāciju laukā "info":
 
 
 
-|images_ozols/25316.png|
+.. image:: images_ozols/25316.png
+    :scale: 100%
+
 
 
 
@@ -73,14 +84,18 @@ informāciju laukā "info":
 
 
 
-|images_ozols/25317.png|
+.. image:: images_ozols/25317.png
+    :scale: 100%
 
-|images_ozols/24545.gif| Nomenklatūras kartiņas aprakstā iespējams
-norādīt konkrētu EK kodu (vai fin.kat.) no :doc:`kategoriju<116>`
-klasifikatora vai arī izvēlēties noklusēto izvēli [Grupas], kas
-nozīmē, ka :doc:`Iepirkuma dokumenta<310>` saturā, izvēloties konkrēto
-nomenklatūru, satura laukā EK kods (fin.kat),dati tiks ielasīti no
-nomenklatūras aprakstā norādītās :doc:`Grupas<148>` EK (fin.kat)koda.
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Nomenklatūras kartiņas aprakstā iespējams norādīt konkrētu EK kodu
+(vai fin.kat.) no :doc:`kategoriju<116>` klasifikatora vai arī
+izvēlēties noklusēto izvēli [Grupas], kas nozīmē, ka :doc:`Iepirkuma
+dokumenta<310>` saturā, izvēloties konkrēto nomenklatūru, satura laukā
+EK kods (fin.kat),dati tiks ielasīti no nomenklatūras aprakstā
+norādītās :doc:`Grupas<148>` EK (fin.kat)koda.
 
 
 
@@ -88,7 +103,9 @@ nomenklatūras aprakstā norādītās :doc:`Grupas<148>` EK (fin.kat)koda.
 
 
 
-|images_ozols/25966.png|
+.. image:: images_ozols/25966.png
+    :scale: 100%
+
 
 
 2. Attēls
@@ -98,16 +115,24 @@ Jebkurai nomenklatūras kartiņai, aprakstā iespējamspievienot attēlu,
 ielādējot to no norādītā faila.
 
 Lai nomenklatūras aprakstā pievienotu attēlu, sadaļā Attēls,
-nepieciešams nospiest pogu |images_ozols/24708.png| , tiks atvērts
-jauns nomenklatūras apraksta Pielikuma logs, kur iespējams izvēlēties
-pielikuma veidu un norādīt ceļu un nepieciešamo failu:
+nepieciešams nospiest pogu .. image:: images_ozols/24708.png
+    :scale: 100%
+, tiks atvērts jauns nomenklatūras apraksta Pielikuma logs, kur
+iespējams izvēlēties pielikuma veidu un norādīt ceļu un nepieciešamo
+failu:
 
 
 
-|images_ozols/25321.png|
+.. image:: images_ozols/25321.png
+    :scale: 100%
 
-Pēc attēla pievienošanas, izvēlēto pielikuma failuiespējams
-|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+
+Pēc attēla pievienošanas, izvēlēto pielikuma failuiespējams .. image::
+images_ozols/24615.jpg
+    :scale: 100%
+vai .. image:: images_ozols/24617.jpg
+    :scale: 100%
+.
 
 
 3. Cenas
@@ -119,7 +144,9 @@ norādot atbilstošo pārdošanas cenu izvēlētajam :doc:`Cenu veidam<105>`
 
 
 
-|images_ozols/25323.png|
+.. image:: images_ozols/25323.png
+    :scale: 100%
+
 
 
 
@@ -143,7 +170,9 @@ papildus pazīmes pie nomenklatūras kartiņas.
 
 
 
-|images_ozols/25324.png|
+.. image:: images_ozols/25324.png
+    :scale: 100%
+
 
 
 
@@ -153,13 +182,17 @@ nomenklatūras nosaukuma un koda.
 
 
 
-|images_ozols/25325.png|
+.. image:: images_ozols/25325.png
+    :scale: 100%
 
 
 
-|images_ozols/24545.gif| Aizpildot Iepirkuma dokumenta saturu -
-ievadot krājumus/preces - iespējama datu meklēšana gan pēc uzņēmuma
-piešķirtā nomenklatūras koda, gan arī pēc ražotāja koda.
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Aizpildot Iepirkuma dokumenta saturu - ievadot krājumus/preces -
+iespējama datu meklēšana gan pēc uzņēmuma piešķirtā nomenklatūras
+koda, gan arī pēc ražotāja koda.
 
 
 
@@ -167,7 +200,9 @@ piešķirtā nomenklatūras koda, gan arī pēc ražotāja koda.
 
 
 
-|images_ozols/25968.png|
+.. image:: images_ozols/25968.png
+    :scale: 100%
+
 
 
 
@@ -181,16 +216,19 @@ Individuāls uzsk.cenas aprēķins: pazīme,kas nodrošina
 funkcionalitāti,lai būtu iespēja nomenklatūras kartiņaiizmantot
 individuālu uzskaites cenas aprēķinu;
 
-|images_ozols/24545.gif| Veidojot:doc:`Nomenklatūras
-norakstīšanas<693>` vai:doc:`Nomenklatūras pārsūtīšana<687>`
-dokumentus, aizpildot satura ierakstus - izvēloties šo nomenklatūras
-kartiņu, summas lauks netiks aizpildīts automātiski, ņemot vērā
-uzņēmuma aprakstā -> sadaļā Noliktavadefinēto nomenklatūras uzskaites
-cenas aprēķina metodi:
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Veidojot:doc:`Nomenklatūras norakstīšanas<693>` vai:doc:`Nomenklatūras
+pārsūtīšana<687>` dokumentus, aizpildot satura ierakstus - izvēloties
+šo nomenklatūras kartiņu, summas lauks netiks aizpildīts automātiski,
+ņemot vērā uzņēmuma aprakstā -> sadaļā Noliktavadefinēto nomenklatūras
+uzskaites cenas aprēķina metodi:
 
 
 
-|images_ozols/25969.png|
+.. image:: images_ozols/25969.png
+    :scale: 100%
+
 
 
 
@@ -203,12 +241,13 @@ Operatīvās uzskaites krājums: pazīme, kas nodrošina funkcionalitāti,
 lai būtu iespēja nomenklatūras kartiņai izmantot operatīvās uzskaites
 principus;
 
-|images_ozols/24545.gif| Veidojot:doc:`Nomenklatūras
-norakstīšanas<693>` vai:doc:`Nomenklatūras pārsūtīšana<687>`
-dokumentus, aizpildot satura ierakstus - izvēloties šo nomenklatūras
-kartiņu, kurai atzīmēta pazīme "operatīvās uzskaites krājumu",
-nomenklatūrai būs iespējams norakstīt summāro vērtību, nemainot
-atlikuma daudzumu.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Veidojot:doc:`Nomenklatūras norakstīšanas<693>` vai:doc:`Nomenklatūras
+pārsūtīšana<687>` dokumentus, aizpildot satura ierakstus - izvēloties
+šo nomenklatūras kartiņu, kurai atzīmēta pazīme "operatīvās uzskaites
+krājumu", nomenklatūrai būs iespējams norakstīt summāro vērtību,
+nemainot atlikuma daudzumu.
 
 
 5. Atlikumi
@@ -219,11 +258,15 @@ izvēloties dokumentu :doc:`Nomenklatūras atlikumi perioda sākumā<107>`
 , gan arī pievienojot atlikumus nomenklatūras kartiņā.
 
 Lai nomenklatūras aprakstā pievienotu atlikumus, sadaļā
-"Atlikumi"nepieciešams nospiest pogu |images_ozols/24708.png| :
+"Atlikumi"nepieciešams nospiest pogu .. image:: images_ozols/24708.png
+    :scale: 100%
+:
 
 
 
-|images_ozols/25326.png|
+.. image:: images_ozols/25326.png
+    :scale: 100%
+
 
 
 
@@ -244,12 +287,18 @@ struktūrvienību, kurā šis krājums/prece ir atlikumā; Ek.kods, u.c.
 
 
 
-|images_ozols/25329.png|
+.. image:: images_ozols/25329.png
+    :scale: 100%
+
 
 
 
 Pēc datu aizpildīšanas, nomenklatūrasatlikumu perioda sākumā iespējams
-|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+.. image:: images_ozols/24615.jpg
+    :scale: 100%
+vai .. image:: images_ozols/24617.jpg
+    :scale: 100%
+.
 
 
 6. Daudzumi
@@ -259,12 +308,16 @@ Jebkurai precei vai krājumam nomenklatūras kartiņā iespējams norādīt
 minimālu un maksimālo daudzuma atlikumu Noliktavā.
 
 Lai nomenklatūras aprakstā norādītu minimālo un maksimālo daudzuma
-atlikumu Noliktavā, sadaļā "Daudzumi"nepieciešams nospiest pogu
-|images_ozols/24708.png| :
+atlikumu Noliktavā, sadaļā "Daudzumi"nepieciešams nospiest pogu ..
+image:: images_ozols/24708.png
+    :scale: 100%
+:
 
 
 
-|images_ozols/25328.png|
+.. image:: images_ozols/25328.png
+    :scale: 100%
+
 
 
 
@@ -274,11 +327,16 @@ struktūrvienību, kurā šis krājums/prece ir atlikumā; Ek.kods, u.c.
 
 
 
-|images_ozols/25329.png|
+.. image:: images_ozols/25329.png
+    :scale: 100%
+
 
 Pēc datu aizpildīšanas,norādītos minimālos un maksimālos
-atlikumadaudzumus Noliktavāiespējams |images_ozols/24615.jpg| vai
-|images_ozols/24617.jpg| .
+atlikumadaudzumus Noliktavāiespējams .. image:: images_ozols/24615.jpg
+    :scale: 100%
+vai .. image:: images_ozols/24617.jpg
+    :scale: 100%
+.
 
 Izmantojot atskaiti :doc:`Pasūtījumi<543>` ,nomenklatūras aprakstā
 norādītais minimālais nepieciešamais daudzums noliktavā tiek ņemts
@@ -294,13 +352,19 @@ sastāvdaļas, no kā šis gatavais komplekts sastāvēs:
 
 
 
-|images_ozols/25330.png|
+.. image:: images_ozols/25330.png
+    :scale: 100%
+
 
 
 
 Pēc nepieciešamās sastāvdaļas izvēles no nomenklatūras saraksta,
 iespējams norādīt sastāvdaļas sastāva daudzumu un aizpildīto ierakstu
-|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+.. image:: images_ozols/24615.jpg
+    :scale: 100%
+vai .. image:: images_ozols/24617.jpg
+    :scale: 100%
+.
 
 
 8. Analogi
@@ -312,131 +376,23 @@ kurām, vajadzības gadījumā, iespējams aizvietot šo preci, ja tā uz
 doto brīdi nav atlikumā Noliktavā.
 
 Lai nomenklatūras aprakstā pievienotu Analogu,nepieciešams nospiest
-pogu |images_ozols/24708.png| un norādīt Analogo preci no
-nomenklatūras saraksta:
+pogu .. image:: images_ozols/24708.png
+    :scale: 100%
+un norādīt Analogo preci no nomenklatūras saraksta:
 
 
 
-|images_ozols/25332.png|
+.. image:: images_ozols/25332.png
+    :scale: 100%
+
 
 
 
 Pēc datu aizpildīšanas,Nomenklatūras kartiņai piesaistītās
-Analogāsnomenklatūras,iespējams |images_ozols/24615.jpg| vai
-|images_ozols/24617.jpg| .
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
+Analogāsnomenklatūras,iespējams .. image:: images_ozols/24615.jpg
     :scale: 100%
-
-.. |images_ozols/25965.png| image:: images_ozols/25965.png
+vai .. image:: images_ozols/24617.jpg
     :scale: 100%
-
-.. |images_ozols/25309.png| image:: images_ozols/25309.png
-    :scale: 100%
-
-.. |images_ozols/25310.png| image:: images_ozols/25310.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/25316.png| image:: images_ozols/25316.png
-    :scale: 100%
-
-.. |images_ozols/25317.png| image:: images_ozols/25317.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/25966.png| image:: images_ozols/25966.png
-    :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/25321.png| image:: images_ozols/25321.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
-    :scale: 100%
-
-.. |images_ozols/25323.png| image:: images_ozols/25323.png
-    :scale: 100%
-
-.. |images_ozols/25324.png| image:: images_ozols/25324.png
-    :scale: 100%
-
-.. |images_ozols/25325.png| image:: images_ozols/25325.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/25968.png| image:: images_ozols/25968.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/25969.png| image:: images_ozols/25969.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/25326.png| image:: images_ozols/25326.png
-    :scale: 100%
-
-.. |images_ozols/25329.png| image:: images_ozols/25329.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
-    :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/25328.png| image:: images_ozols/25328.png
-    :scale: 100%
-
-.. |images_ozols/25329.png| image:: images_ozols/25329.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
-    :scale: 100%
-
-.. |images_ozols/25330.png| image:: images_ozols/25330.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
-    :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/25332.png| image:: images_ozols/25332.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
-    :scale: 100%
+.
 
  

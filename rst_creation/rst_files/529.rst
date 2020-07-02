@@ -11,9 +11,11 @@ norādītai analītikas lietošanai, un grāmatojumā jāfiksē darījuma
 partneris. Analītiskās uzskaites kontos atskaitē grāmatojumu dati tiek
 sagrupēti atsevišķi pa darījuma partneriem.
 
-|images_ozols/24950.png| No konta analītiskā apgrozījuma var atvērt
-:doc:`Partnera aprakstu<312>` , :doc:`Operāciju pārskatu<521>`
-,:doc:`Konta atlikumus<665>` .
+.. image:: images_ozols/24950.png
+    :scale: 100%
+No konta analītiskā apgrozījuma var atvērt :doc:`Partnera
+aprakstu<312>` , :doc:`Operāciju pārskatu<521>` ,:doc:`Konta
+atlikumus<665>` .
 
 
 
@@ -25,17 +27,12 @@ kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
 arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
 atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
 
-Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
-Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
-filtrs tiek automatizēti aizpildīts no filtra sagataves.
-
-.. |images_ozols/24950.png| image:: images_ozols/24950.png
+Datu atlases kritērijus var saglabāt (.. image::
+images_ozols/24938.png
     :scale: 100%
-
-.. |images_ozols/24938.png| image:: images_ozols/24938.png
+). Izvēloties izveidoto filtra sagatavi (.. image::
+images_ozols/24943.png
     :scale: 100%
-
-.. |images_ozols/24943.png| image:: images_ozols/24943.png
-    :scale: 100%
+), filtrs tiek automatizēti aizpildīts no filtra sagataves.
 
  

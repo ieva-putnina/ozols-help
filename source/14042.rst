@@ -14,12 +14,15 @@ Lai dzēstu jau dokumentos izmantotu saraksta ierakstu:
 
 1) jāatver saraksts un jāiezīmē dzēšamais ieraksts.
 
-2) jālieto komanda |images_ozols/24719.gif| . Tiks parādīta ekrāna
-forma, ka ieraksts tiek izmantots.
+2) jālieto komanda .. image:: images_ozols/24719.gif
+    :scale: 100%
+. Tiks parādīta ekrāna forma, ka ieraksts tiek izmantots.
 
 
 
-|images_ozols/24739.png|
+.. image:: images_ozols/24739.png
+    :scale: 100%
+
 
 
 
@@ -32,11 +35,5 @@ jautājums par ieraksta aizstāšanu, uz kuru jāatbild „Jā”.
 
 5) pirms ieraksta dzēšanas tiks parādīts jautājums par ieraksta
 dzēšanu. Atbildot „Jā”, ieraksts tiks dzēsts.
-
-.. |images_ozols/24719.gif| image:: images_ozols/24719.gif
-    :scale: 100%
-
-.. |images_ozols/24739.png| image:: images_ozols/24739.png
-    :scale: 100%
 
  

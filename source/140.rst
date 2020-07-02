@@ -11,13 +11,16 @@ dokumentu Virsrakstā esošā Paskaidrojuma lauka aizpildīšanai.
 Jaunateksta sagataves-paskaidrojuma tekstapievienošana
 ``````````````````````````````````````````````````````
 
-Lai pievienotu jaunupaskaidrojuma tekstu, jāizmanto komanda
-|images_ozols/24879.png| no rīku joslas (Alt+P) un tiks atvērts jauns
-logs:
+Lai pievienotu jaunupaskaidrojuma tekstu, jāizmanto komanda .. image::
+images_ozols/24879.png
+    :scale: 100%
+no rīku joslas (Alt+P) un tiks atvērts jauns logs:
 
 
 
-|images_ozols/26497.png|
+.. image:: images_ozols/26497.png
+    :scale: 100%
+
 
 
 
@@ -26,9 +29,13 @@ Laukā "Nosaukums" jāraksta jaunizveidotā paskaidrojuma teksts.
 
 
 
-Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu
-|images_ozols/24867.png| no rīku joslas vai (Ctrl+S) vai atcelts , ja
-tiks izmantota komanda |images_ozols/24617.jpg| .
+Jaunizveidotais ieraksts tiks saglabāts, izmantojot komandu.. image::
+images_ozols/24867.png
+    :scale: 100%
+no rīku joslas vai (Ctrl+S) vai atcelts , ja tiks izmantota komanda ..
+image:: images_ozols/24617.jpg
+    :scale: 100%
+.
 
 
 
@@ -36,39 +43,22 @@ Paskaidrojuma teksta labošana
 `````````````````````````````
 
 Lai veiktu labojumus paskaidrojuma tekstā, ierakstu nepieciešams
-atvērt, izmantojot komandu |images_ozols/24869.png| no rīku joslas
-(Alt+A). Atvērtajā logā iespējams mainīt nosaukumu. Pēc labojumu
-veikšanas, veiktās izmaiņas iespējams saglabāt ar komandu
-|images_ozols/24867.png| no rīku joslas.
+atvērt, izmantojot komandu.. image:: images_ozols/24869.png
+    :scale: 100%
+no rīku joslas (Alt+A). Atvērtajā logā iespējams mainīt nosaukumu. Pēc
+labojumu veikšanas, veiktās izmaiņas iespējams saglabāt ar komandu..
+image:: images_ozols/24867.png
+    :scale: 100%
+no rīku joslas.
 
 
 
 Paskaidrojuma tekstadzēšana
 ```````````````````````````
 
-Lai dzēstu paskaidrojuma tekstu, jāizmanto komanda
-|images_ozols/25602.png| no rīku joslas. Ieraksts ir jādzēš neatvērtā
-veidā.
-
-.. |images_ozols/24879.png| image:: images_ozols/24879.png
+Lai dzēstu paskaidrojuma tekstu, jāizmanto komanda.. image::
+images_ozols/25602.png
     :scale: 100%
-
-.. |images_ozols/26497.png| image:: images_ozols/26497.png
-    :scale: 100%
-
-.. |images_ozols/24867.png| image:: images_ozols/24867.png
-    :scale: 100%
-
-.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
-    :scale: 100%
-
-.. |images_ozols/24869.png| image:: images_ozols/24869.png
-    :scale: 100%
-
-.. |images_ozols/24867.png| image:: images_ozols/24867.png
-    :scale: 100%
-
-.. |images_ozols/25602.png| image:: images_ozols/25602.png
-    :scale: 100%
+no rīku joslas. Ieraksts ir jādzēš neatvērtā veidā.
 
  

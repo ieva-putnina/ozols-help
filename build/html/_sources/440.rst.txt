@@ -15,7 +15,9 @@ Pamatlīdzekļu nolietojuma dokuments .
 
 
 
-|images_ozols/25095.png|
+.. image:: images_ozols/25095.png
+    :scale: 100%
+
 
 
 
@@ -51,14 +53,20 @@ komandpoga Atcelt.
 
 
 
-|images_ozols/24545.gif| Lai izveidotā Pamatlīdzekļunolietojuma
-dokumenta dati stātos spēkā obligāti pēc saglabāšanas dokuments ir
-jāapstiprina ar funkciju |images_ozols/24715.gif| .
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Lai izveidotā Pamatlīdzekļunolietojuma dokumenta dati stātos spēkā
+obligāti pēc saglabāšanas dokuments ir jāapstiprina ar funkciju ..
+image:: images_ozols/24715.gif
+    :scale: 100%
+.
 
 
 
-|images_ozols/24545.gif| Pēc dokumenta apstiprināšanas Pamatlīdzekļu
-nolietojumadokuments ir :doc:`jānogrāmato<14044>` .
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Pēc dokumenta apstiprināšanas Pamatlīdzekļu nolietojumadokuments ir
+:doc:`jānogrāmato<14044>` .
 
 
 
@@ -83,33 +91,43 @@ Pamatlīdzekļu nolietojuma aprēķināšanas Metode 1
 
 
 
-Jaunu pamatlīdzekļa nolietojumu pievieno ar funkciju
-|images_ozols/24708.png| . Formā Jauns - Pamatlīdzekļa nolietojums
-laukā Pamatlīdzeklis jāizvēlas pamatlīdzeklis un laukā Nolietojums
-jānorāda nolietojuma summa manuāli .
+Jaunu pamatlīdzekļa nolietojumu pievieno ar funkciju .. image::
+images_ozols/24708.png
+    :scale: 100%
+. Formā Jauns - Pamatlīdzekļa nolietojums laukā Pamatlīdzeklis
+jāizvēlas pamatlīdzeklis un laukā Nolietojums jānorāda nolietojuma
+summa manuāli .
 
 
 
-|images_ozols/24545.gif| Pēc šīs metodes nolietojuma summu iespējams
-norādīt tikai vienam pamatlīdzeklim un tikai manuāli, tāpēc šī metode
-jāizvēlas tikai specifiskos gadījumos, kad lietotājs vēlas pievienot
-nolietojumu vienam vai dažiem pamatlīdzekļiem un nolietojuma summu
-norādīt manuāli. Lai rēķinātu nolietojumu automātiski pēc lietotāja
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Pēc šīs metodes nolietojuma summu iespējams norādīt tikai vienam
+pamatlīdzeklim un tikai manuāli, tāpēc šī metode jāizvēlas tikai
+specifiskos gadījumos, kad lietotājs vēlas pievienot nolietojumu
+vienam vai dažiem pamatlīdzekļiem un nolietojuma summu norādīt
+manuāli. Lai rēķinātu nolietojumu automātiski pēc lietotāja
 kritērijiem atlasītai pamatlīdzekļu grupai, jāizvēlas pamatlīdzekļu
 nolietojuma aprēķināšanas Metode 2 .
 
 
 
 Pamatlīdzekļa nolietojumuiespējams labot atvērtā
-Pamatlīdzekļunolietojuma dokumenta formā ar funkciju
-|images_ozols/24709.png| .
+Pamatlīdzekļunolietojuma dokumenta formā ar funkciju .. image::
+images_ozols/24709.png
+    :scale: 100%
+.
 
 Pamatlīdzekļa nolietojumudzēš atvērtā Pamatlīdzekļunolietojuma ievades
-dokumenta formā ar funkciju |images_ozols/24719.gif| .
+dokumenta formā ar funkciju .. image:: images_ozols/24719.gif
+    :scale: 100%
+.
 
 
 
-|images_ozols/25101.png|
+.. image:: images_ozols/25101.png
+    :scale: 100%
+
 
 
 
@@ -130,7 +148,9 @@ jāizvēlas funkcija Nolietojuma aprēķins .
 
 
 
-|images_ozols/25114.png|
+.. image:: images_ozols/25114.png
+    :scale: 100%
+
 
 
 
@@ -139,13 +159,17 @@ pamatlīdzekļu atlases nosacījumus.
 
 
 
-|images_ozols/25113.png|
+.. image:: images_ozols/25113.png
+    :scale: 100%
 
 
 
 
 
-|images_ozols/24545.gif| Obligāti jānorāda:
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Obligāti jānorāda:
 
 
 + Nolietojuma veids laukā Noliet.veids :
@@ -173,41 +197,5 @@ Atcelt - atceļ aprēķinu veikšanu.
 
 
 
-
-.. |images_ozols/25095.png| image:: images_ozols/25095.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/24715.gif| image:: images_ozols/24715.gif
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/24709.png| image:: images_ozols/24709.png
-    :scale: 100%
-
-.. |images_ozols/24719.gif| image:: images_ozols/24719.gif
-    :scale: 100%
-
-.. |images_ozols/25101.png| image:: images_ozols/25101.png
-    :scale: 100%
-
-.. |images_ozols/25114.png| image:: images_ozols/25114.png
-    :scale: 100%
-
-.. |images_ozols/25113.png| image:: images_ozols/25113.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
 
  

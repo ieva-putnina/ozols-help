@@ -21,7 +21,9 @@ logs:
 
 
 
-|images_ozols/24985.png|
+.. image:: images_ozols/24985.png
+    :scale: 100%
+
 
 
 
@@ -39,7 +41,9 @@ naudu:
 
 
 
-|images_ozols/24724.png|
+.. image:: images_ozols/24724.png
+    :scale: 100%
+
 
 
 
@@ -47,7 +51,9 @@ naudu:
 
 
 
-|images_ozols/24810.png|
+.. image:: images_ozols/24810.png
+    :scale: 100%
+
 
 
 
@@ -55,7 +61,9 @@ naudu:
 
 
 
-|images_ozols/24811.png|
+.. image:: images_ozols/24811.png
+    :scale: 100%
+
 
 
 
@@ -63,7 +71,9 @@ naudu:
 
 
 
-|images_ozols/24812.png|
+.. image:: images_ozols/24812.png
+    :scale: 100%
+
 
 
 
@@ -72,7 +82,9 @@ saņemto avansa naudu uzņēmuma bankas kontā:
 
 
 
-|images_ozols/24807.png|
+.. image:: images_ozols/24807.png
+    :scale: 100%
+
 
 Izvēloties nepieciešamo Pircēju, lauki Nor.konts un P.k. tiks
 aizpildīti automātiski no :doc:`Partnera kartiņas<312>` .
@@ -84,7 +96,9 @@ paskaidrojošo informāciju:
 
 
 
-|images_ozols/24808.png|
+.. image:: images_ozols/24808.png
+    :scale: 100%
+
 
 
 
@@ -94,33 +108,44 @@ Bankāatgriezta avansaSatura aizpildīšana
 ++++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams
-nospiest pogu |images_ozols/24708.png| un tiks atvērts operācijas
-satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā
-izmantotās dimensijas) un norādīt satura ieraksta summu:
+nospiest pogu.. image:: images_ozols/24708.png
+    :scale: 100%
+un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
+satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
+ieraksta summu:
 
 
 
-|images_ozols/24800.png|
+.. image:: images_ozols/24800.png
+    :scale: 100%
 
 
 
-|images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiem
-satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
-summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
-atkārtoti nospiežot pogu |images_ozols/24708.png| .
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
+kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
+satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu ..
+image:: images_ozols/24708.png
+    :scale: 100%
+.
 
 
 
 Kad visi nepieciešamie lauki ir aizpildīti, Bankāatgriezts avanssir
 sagatavots un to ir iespējams:
 
-1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
-saglabāts un būs pieejams apskatei/labošanai/grāmatošanai
-vienlaicīgi:doc:`Bankas ieņēmumu<226>` un :doc:`Avansu norēķinu<232>`
-žurnālos.
+1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
+    :scale: 100%
+-dokuments tiks saglabāts un būs pieejams
+apskatei/labošanai/grāmatošanai vienlaicīgi:doc:`Bankas ieņēmumu<226>`
+un :doc:`Avansu norēķinu<232>` žurnālos.
 
-2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| -
-Bankāatgriezts avansstiks Apstiprināts un to būs iespējams Grāmatot.
+2. Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+    :scale: 100%
+- Bankāatgriezts avansstiks Apstiprināts un to būs iespējams Grāmatot.
 
 
 
@@ -132,10 +157,15 @@ izvēloties (iezīmējot)dokumentu :doc:`Bankas ieņēmumu<226>` vai
 :doc:`Avansu norēķinu<232>` žurnālā.
 
 Lai iegrāmatotu Bankāatgrieztu avansu, dokumentu nepieciešams
-Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| .
+Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+    :scale: 100%
+.
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu |images_ozols/24741.png| .
+pogu .. image:: images_ozols/24741.png
+    :scale: 100%
+.
 
 
 
@@ -150,75 +180,25 @@ Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu
 Bankāatgriezts avanss, kurš vienlaicīgi pieejams
 apskatei/labošanai:doc:`Bankas ieņēmumu<226>` :doc:`<224>` un
 :doc:`Avansu norēķinu<232>` dokumentu žurnālos. Lai veiktu
-labojumus,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
-|images_ozols/24709.png| (ALT+A), unatvērtajāierakstā iespējams
-veiktnepieciešamos labojumus:
+labojumus,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu..
+image:: images_ozols/24709.png
+    :scale: 100%
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 
 
 
-|images_ozols/24813.png|
-
-
-
-
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams
-|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
-
-.. |images_ozols/24985.png| image:: images_ozols/24985.png
+.. image:: images_ozols/24813.png
     :scale: 100%
 
-.. |images_ozols/24724.png| image:: images_ozols/24724.png
-    :scale: 100%
 
-.. |images_ozols/24810.png| image:: images_ozols/24810.png
-    :scale: 100%
 
-.. |images_ozols/24811.png| image:: images_ozols/24811.png
-    :scale: 100%
 
-.. |images_ozols/24812.png| image:: images_ozols/24812.png
-    :scale: 100%
 
-.. |images_ozols/24807.png| image:: images_ozols/24807.png
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
     :scale: 100%
-
-.. |images_ozols/24808.png| image:: images_ozols/24808.png
+vai .. image:: images_ozols/24617.jpg
     :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/24800.png| image:: images_ozols/24800.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/24740.png| image:: images_ozols/24740.png
-    :scale: 100%
-
-.. |images_ozols/24740.png| image:: images_ozols/24740.png
-    :scale: 100%
-
-.. |images_ozols/24741.png| image:: images_ozols/24741.png
-    :scale: 100%
-
-.. |images_ozols/24709.png| image:: images_ozols/24709.png
-    :scale: 100%
-
-.. |images_ozols/24813.png| image:: images_ozols/24813.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
-    :scale: 100%
+.
 
  

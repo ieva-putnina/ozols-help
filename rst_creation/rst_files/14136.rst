@@ -9,7 +9,9 @@ piesaistīts klientam, gatavojot pārdošanas dokumentu.
 (Partneri)->Saraksti->:doc:`Partneri<112>` - partnera aprakstā
 atzīmējot grupu "strādājošais":
 
-|images_ozols/26460.png|
+.. image:: images_ozols/26460.png
+    :scale: 100%
+
 
 2. Lai informācija par klientu menedžeri automātiski aizpildītos
 sagatavojot Pārdošanas dokumentu konkrētam klientam, klientu menedžeri
@@ -17,13 +19,17 @@ nepieciešams piesaistīt konkrētam partnerim.
 CRM(Partneri)->Saraksti->:doc:`Partneri<112>` - atverot konkrētu
 partneri, sadaļā "Pārējie dati":
 
-|images_ozols/26461.png|
+.. image:: images_ozols/26461.png
+    :scale: 100%
+
 
 3. Turpmāk, sagatavojot :doc:`Pārdošanas dokumentu<304>` šim klientam,
 kuram klientu menedžeris ir piesaistīts, automātiski dokumenta
 virsraksta sadaļā tiks ielādēta piesaistītā menedžera informācija:
 
-|images_ozols/26462.png|
+.. image:: images_ozols/26462.png
+    :scale: 100%
+
 
 4. Atbilstoši šādā veidā sagatavotiem :doc:`Pārdošanas
 dokumentiem<204>` , izmantojot Ozolā pieejamās Norēķinu un Noliktavas
@@ -35,45 +41,32 @@ griezumā:
 atlasīt filtrā norādītajam klientu menedžerim piesaistīto pircēju
 apgrozījumu:
 
-|images_ozols/26463.png|
+.. image:: images_ozols/26463.png
+    :scale: 100%
+
 
 2) Norēķini->Atskaites->:doc:`Pārdošanas dokumenti<539>` -> iespēja
 atlasīt visus vienam klientu menedžerim piesaistītos Pārdošanas
 dokumentus:
 
-|images_ozols/26464.png|
+.. image:: images_ozols/26464.png
+    :scale: 100%
+
 
 3) Noliktava->Atskaites->:doc:`Pārdotā nomenklatūra<547>` -> iespēja
 atlasīt datus par pārdotajām precēm klienta menedžera griezumā:
 
-|images_ozols/26465.png|
+.. image:: images_ozols/26465.png
+    :scale: 100%
+
 
 4) Noliktava->Atskaites->:doc:`Pārdotā nomenklatūra (detalizēti)<553>`
 -> iespēja atlasīt datus par pārdotajām precēm klienta menedžera
 griezumā, uzrādot arī detalizētu informāciju par pašu Pārdošanas
 dokumentu:
 
-|images_ozols/26466.png|
-
-.. |images_ozols/26460.png| image:: images_ozols/26460.png
+.. image:: images_ozols/26466.png
     :scale: 100%
 
-.. |images_ozols/26461.png| image:: images_ozols/26461.png
-    :scale: 100%
-
-.. |images_ozols/26462.png| image:: images_ozols/26462.png
-    :scale: 100%
-
-.. |images_ozols/26463.png| image:: images_ozols/26463.png
-    :scale: 100%
-
-.. |images_ozols/26464.png| image:: images_ozols/26464.png
-    :scale: 100%
-
-.. |images_ozols/26465.png| image:: images_ozols/26465.png
-    :scale: 100%
-
-.. |images_ozols/26466.png| image:: images_ozols/26466.png
-    :scale: 100%
 
  

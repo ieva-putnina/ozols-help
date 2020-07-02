@@ -10,12 +10,16 @@ parādīt tikai vienam aprēķina periodam, tikai vienai struktūrvienībai,
 atlasīt algu aprēķinus tikai vienai personai, vienam amatam, slodzes
 veidam, personas kategorijai vai ienākumu un sociālā nodokļa metodēm.
 Dati uz ekrāna tiek parādīti atbilstoši norādītajiem datu atlases
-kritērijiem filtra ekrāna formā. Rīku joslā nopiežot pogu
-|images_ozols/24535.gif| (Ctrl+F), tiek atvērts filtra logs:
+kritērijiem filtra ekrāna formā. Rīku joslā nopiežot pogu.. image::
+images_ozols/24535.gif
+    :scale: 100%
+(Ctrl+F), tiek atvērts filtra logs:
 
 
 
-|images_ozols/26122.png|
+.. image:: images_ozols/26122.png
+    :scale: 100%
+
 
 
 
@@ -42,19 +46,24 @@ metodes;
 
 
 Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
-kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga
-|images_ozols/25944.png| .
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga ..
+image:: images_ozols/25944.png
+    :scale: 100%
+.
 
 
 
-|images_ozols/24545.gif| Tikai aktīvajā algu aprēķina periodā
-iespējams labot aprēķina datus, pārējo periodu aprēķini ir pieejami
-tikai apskates režīmā.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Tikai aktīvajā algu aprēķina periodā iespējams labot aprēķina datus,
+pārējo periodu aprēķini ir pieejami tikai apskates režīmā.
 
 
 
-|images_ozols/24545.gif| Ar algu aprēķiniem saistītās instrukcijas:
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Ar algu aprēķiniem saistītās instrukcijas:
+++++++++++++++++++++++++++++++++++++++++++
 
 
 + :doc:`Algu aprēķinu veikšanas shēma<14111>`
@@ -76,13 +85,16 @@ Algu aprēķinupievienošana
 
 Veicot algu aprēķinu, vispirms ir :doc:`jāatver atbilstošais algu
 aprēķina periods<499>` un tajā jāpievieno algu aprēķina ieraksti.
-Jauns algu aprēķins tiek pievienots,rīku joslānospiežot pogu
-|images_ozols/24708.png| un izvēloties atbilstošo slodzi, kurai tiks
-veikts algas aprēķins:
+Jauns algu aprēķins tiek pievienots,rīku joslānospiežot pogu.. image::
+images_ozols/24708.png
+    :scale: 100%
+un izvēloties atbilstošo slodzi, kurai tiks veikts algas aprēķins:
 
 
 
-|images_ozols/26123.png|
+.. image:: images_ozols/26123.png
+    :scale: 100%
+
 
 
 
@@ -91,10 +103,12 @@ Algas aprēķins:
 
 1. Jāatver algu aprēķins.
 
-|images_ozols/24545.gif| Algu aprēķina darba režīma kreisajā pusē tiek
-pievienota aprēķinātā alga, prēmijas, piemaksas, ieturējumi, kavētās
-darba dienas u.tml., atkarībā no algu konfigurācijas. Labajā pusē tiek
-parādīti algu aprēķina rezultāti.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Algu aprēķina darba režīma kreisajā pusē tiek pievienota aprēķinātā
+alga, prēmijas, piemaksas, ieturējumi, kavētās darba dienas u.tml.,
+atkarībā no algu konfigurācijas. Labajā pusē tiek parādīti algu
+aprēķina rezultāti.
 
 
 Algu aprēķina ekrāna formai ir rīku josla, kur var aktivizēt komandu
@@ -105,12 +119,15 @@ strādājošajam:
 
 
 
-|images_ozols/26124.png|
+.. image:: images_ozols/26124.png
+    :scale: 100%
 
 
 
-|images_ozols/24545.gif| :doc:`Algu aprēķinā iebūvētās
-komandas<14114>`
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+:doc:`Algu aprēķinā iebūvētās komandas<14114>`
 
 
 
@@ -132,7 +149,9 @@ pievienošana strādājošā algu aprēķinam<14127>`
   vērtība:
 
 
-|images_ozols/26332.png|
+.. image:: images_ozols/26332.png
+    :scale: 100%
+
 
 
 
@@ -147,12 +166,12 @@ labajā pusē var atvērt rezultātu sarakstu, kur redzami visi algu
 aprēķinā noteiktie rezultāti.
 + Izmaksājamā summa tiek parādīta algu aprēķina formā un tā ir
   jānosūta uz izmaksu sarakstu, izmantojot komandu Uz izmaksu (F8) vai
-  arī Algu Rīkus->:doc:`Algu aprēķins<498>` : pēdējā izvēles rūtiņa:
-  |images_ozols/26333.png| . Jābūt izveidotam :doc:`Izmaksu
-  sarakstam<238>` . Ja summa tiek nosūtīta pirmo reizi uz izmaksu
-  sarakstu, jānorāda, uz kuru izmaksu sarakstu summa jāsūta. Izmaksu
-  saraksti tiek parādīti atbilstoši izvēlētajam maksājumam. Ja izmaksu
-  sarakstā veids ir izmaksa bankā, tad, lai norādītu šo izmaksu
+  arī Algu Rīkus->:doc:`Algu aprēķins<498>` : pēdējā izvēles rūtiņa: ..
+  image:: images_ozols/26333.png     :scale: 100% . Jābūt izveidotam
+  :doc:`Izmaksu sarakstam<238>` . Ja summa tiek nosūtīta pirmo reizi uz
+  izmaksu sarakstu, jānorāda, uz kuru izmaksu sarakstu summa jāsūta.
+  Izmaksu saraksti tiek parādīti atbilstoši izvēlētajam maksājumam. Ja
+  izmaksu sarakstā veids ir izmaksa bankā, tad, lai norādītu šo izmaksu
   sarakstu, maksājums ir jāizvēlas arī summas nosūtīšanas laikā. Kad
   izmaksu saraksts pirmo reizi ir norādīts, pārējiem strādājošiem tas
   tiek piedāvāts kā standarta saraksts izmaksu nosūtīšanai. Lai
@@ -165,41 +184,5 @@ aprēķinā noteiktie rezultāti.
 
 
 
-
-.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
-    :scale: 100%
-
-.. |images_ozols/26122.png| image:: images_ozols/26122.png
-    :scale: 100%
-
-.. |images_ozols/25944.png| image:: images_ozols/25944.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/26123.png| image:: images_ozols/26123.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/26124.png| image:: images_ozols/26124.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/26332.png| image:: images_ozols/26332.png
-    :scale: 100%
-
-.. |images_ozols/26333.png| image:: images_ozols/26333.png
-    :scale: 100%
 
  

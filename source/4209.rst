@@ -12,7 +12,9 @@ Pirmdokumenti, Grāmatojumi, Bilance:
 
 
 
-|images_ozols/26307.png|
+.. image:: images_ozols/26307.png
+    :scale: 100%
+
 
 
 
@@ -45,8 +47,5 @@ grāmatojumu.
 5. Bilance -CSNg kartiņas lapā attēlota informācija par bilances
 stāvokli, balstoties uz veiktajiem grāmatojumiem saistībā ar
 izvēlētoCSNgnumuru.
-
-.. |images_ozols/26307.png| image:: images_ozols/26307.png
-    :scale: 100%
 
  

@@ -10,19 +10,27 @@ nosūtīšanai elektroniski:
 
 
 
-|images_ozols/26007.png|
+.. image:: images_ozols/26007.png
+    :scale: 100%
 
-un rīku joslā jānospiež poga |images_ozols/25813.png| (Ctrl+P).
+
+un rīku joslā jānospiež poga .. image:: images_ozols/25813.png
+    :scale: 100%
+(Ctrl+P).
 
 
 
 2. Jāizvēlās atbilstošā izdrukas forma (no saraksta - Iebūvētā vai
 Kopējā), jāatzīmē izvēles rūtiņa "Izdrukas parametri" un jānospiež
-poga |images_ozols/25620.png| :
+poga .. image:: images_ozols/25620.png
+    :scale: 100%
+:
 
 
 
-|images_ozols/26008.png|
+.. image:: images_ozols/26008.png
+    :scale: 100%
+
 
 
 
@@ -33,7 +41,9 @@ dokuments .pdf formātā tiks saglabāts:
 
 
 
-|images_ozols/26009.png|
+.. image:: images_ozols/26009.png
+    :scale: 100%
+
 
 
 
@@ -49,24 +59,8 @@ Printer":
 
 
 
-|images_ozols/26010.png|
-
-.. |images_ozols/26007.png| image:: images_ozols/26007.png
+.. image:: images_ozols/26010.png
     :scale: 100%
 
-.. |images_ozols/25813.png| image:: images_ozols/25813.png
-    :scale: 100%
-
-.. |images_ozols/25620.png| image:: images_ozols/25620.png
-    :scale: 100%
-
-.. |images_ozols/26008.png| image:: images_ozols/26008.png
-    :scale: 100%
-
-.. |images_ozols/26009.png| image:: images_ozols/26009.png
-    :scale: 100%
-
-.. |images_ozols/26010.png| image:: images_ozols/26010.png
-    :scale: 100%
 
  

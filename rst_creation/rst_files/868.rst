@@ -5,7 +5,9 @@ atbilstoši datu atlases filtrā noteiktajiem kritērijiem:
 
 
 
-|images_ozols/26541.png|
+.. image:: images_ozols/26541.png
+    :scale: 100%
+
 
 
 
@@ -38,17 +40,11 @@ Atskaitē tiek iekļauti dati par dokumenta:
 
 
 
-Filtrā norādītos datu atlases kritērijus var saglabāt (
-|images_ozols/24938.png| ). Izvēloties izveidoto filtra sagatavi (
-|images_ozols/24943.png| ), filtrs tiek automatizēti aizpildīts no
-filtra sagataves.
-.. |images_ozols/26541.png| image:: images_ozols/26541.png
+Filtrā norādītos datu atlases kritērijus var saglabāt (.. image::
+images_ozols/24938.png
     :scale: 100%
-
-.. |images_ozols/24938.png| image:: images_ozols/24938.png
+). Izvēloties izveidoto filtra sagatavi (.. image::
+images_ozols/24943.png
     :scale: 100%
-
-.. |images_ozols/24943.png| image:: images_ozols/24943.png
-    :scale: 100%
-
+), filtrs tiek automatizēti aizpildīts no filtra sagataves.
  

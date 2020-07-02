@@ -14,12 +14,16 @@ Darījumu apliecinošo kvīšu grāmatiņupievienošana, izmantojot rīku
 joslas komandpogu "Pievienot" un aizpildot darījumu apliecinošo kvīšu
 grāmatiņasapraksta ekrāna formu, nodrošina vienasdarījumu apliecinošo
 kvīšu grāmatiņaspievienošanu datu bāzē. AtrodotiesDarījumu apliecinošo
-kvīšužurnālā, rīku joslā nospiežot komandpogu |images_ozols/24708.png|
+kvīšužurnālā, rīku joslā nospiežot komandpogu.. image::
+images_ozols/24708.png
+    :scale: 100%
 , tiks atvērta darījumu apliecinošās kvīts ekrāna forma:
 
 
 
-|images_ozols/25011.png|
+.. image:: images_ozols/25011.png
+    :scale: 100%
+
 
 
 
@@ -47,7 +51,9 @@ Darījumu apliecinošo kvīšužurnālā pieejamās funkcijas
 Darījumu apliecinošo kvīšu žurnālā ir izveidotas funkcijas:
 
 
-|images_ozols/24983.png|
+.. image:: images_ozols/24983.png
+    :scale: 100%
+
 
 
 
@@ -64,14 +70,18 @@ grāmatiņa;
 
 Uzņēmuma rīcībā esošās kvīšu grāmatiņas jāpievienoDarījumu apliecinošo
 kvīšužurnālā.Kvīšu grāmatiņupakas pievienošanai, nepieciešams
-izvēlētiesfunkciju |images_ozols/25007.png| , kasnodrošina
-vairākuKvīšu grāmatiņuvienlaicīgu pievienošanu datu bāzē. Norādot
-grāmatiņu skaitu unKvīšu grāmatiņusākuma numuru, tiek automātiski
-uzģenerēts norādītais skaits darījumu apliecinošo kvīšu grāmatiņu:
+izvēlētiesfunkciju .. image:: images_ozols/25007.png
+    :scale: 100%
+, kasnodrošina vairākuKvīšu grāmatiņuvienlaicīgu pievienošanu datu
+bāzē. Norādot grāmatiņu skaitu unKvīšu grāmatiņusākuma numuru, tiek
+automātiski uzģenerēts norādītais skaits darījumu apliecinošo kvīšu
+grāmatiņu:
 
 
 
-|images_ozols/25012.png|
+.. image:: images_ozols/25012.png
+    :scale: 100%
+
 
 
 
@@ -92,12 +102,16 @@ Pakas numurs no - iespēja norādīt pakas numuru, no kuras tiks
 turpināta pārējo grāmatiņu secīga numerācija pēc kārtas.
 
 
-Pēc visu nepieciešamo lauku aizpildīšanasnospiežot pogu
-|images_ozols/24615.jpg| -dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai :doc:`Darījumu apliecinošo kvīšu žurnālā<286>` .
+Pēc visu nepieciešamo lauku aizpildīšanasnospiežot pogu .. image::
+images_ozols/24615.jpg
+    :scale: 100%
+-dokuments tiks saglabāts un būs pieejams apskatei/labošanai
+:doc:`Darījumu apliecinošo kvīšu žurnālā<286>` .
 
-Nospiežot pogu |images_ozols/24875.png| , darbība tiks atcelta unkvīšu
-grāmatiņasnetiks pievienotas datu bāzei.
+Nospiežot pogu .. image:: images_ozols/24875.png
+    :scale: 100%
+, darbība tiks atcelta unkvīšu grāmatiņasnetiks pievienotas datu
+bāzei.
 
 
 
@@ -106,14 +120,17 @@ grāmatiņasnetiks pievienotas datu bāzei.
 2) Atvērt ieņēmumu dokumentu
 ++++++++++++++++++++++++++++
 
-Izvēloties Darījumu apliecinošo kvīšu žurnālāpieejamo funkciju
-|images_ozols/25008.png| , iespēja atvērt Ieņēmumu dokumentu -
-:doc:`Kases ieņēmumu orderi<350>` , kuram izvēlētāKvīšu grāmatiņair
-piesaistīta:
+Izvēloties Darījumu apliecinošo kvīšu žurnālāpieejamo funkciju ..
+image:: images_ozols/25008.png
+    :scale: 100%
+, iespēja atvērt Ieņēmumu dokumentu - :doc:`Kases ieņēmumu
+orderi<350>` , kuram izvēlētāKvīšu grāmatiņair piesaistīta:
 
 
 
-|images_ozols/25013.png|
+.. image:: images_ozols/25013.png
+    :scale: 100%
+
 
 
 
@@ -123,12 +140,18 @@ Pievienoto darījumu apliecinošo kvīšu grāmatiņulabošana
 Labojumus saglabātajādokumentā iespējams veikt atverotKvīšu
 grāmatiņasaprakstu, kurš pieejams apskatei/labošanai :doc:`Darījumu
 apliecinošo kvīšu žurnālā<286>` . Lai labotu pievienoto kvīšu
-grāmatiņu, Darījumu apliecinošo kvīšu žurnālā jāizmanto komandpoga
-|images_ozols/24709.png| (ALT+A), unatvērtajāierakstā iespējams
-veiktnepieciešamos labojumuskvīšu grāmatiņasapraksta ekrāna formā.
+grāmatiņu, Darījumu apliecinošo kvīšu žurnālā jāizmanto komandpoga..
+image:: images_ozols/24709.png
+    :scale: 100%
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos
+labojumuskvīšu grāmatiņasapraksta ekrāna formā.
 
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams
-|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+    :scale: 100%
+vai .. image:: images_ozols/24617.jpg
+    :scale: 100%
+.
 
 
 
@@ -136,41 +159,5 @@ Darījumu apliecinošās kvīšu žurnālā pievieontās Kvīšu
 grāmatiņasiespējams piesaistīt :doc:`Kases ieņēmumu orderim<350>` .
 
 
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/25011.png| image:: images_ozols/25011.png
-    :scale: 100%
-
-.. |images_ozols/24983.png| image:: images_ozols/24983.png
-    :scale: 100%
-
-.. |images_ozols/25007.png| image:: images_ozols/25007.png
-    :scale: 100%
-
-.. |images_ozols/25012.png| image:: images_ozols/25012.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/24875.png| image:: images_ozols/24875.png
-    :scale: 100%
-
-.. |images_ozols/25008.png| image:: images_ozols/25008.png
-    :scale: 100%
-
-.. |images_ozols/25013.png| image:: images_ozols/25013.png
-    :scale: 100%
-
-.. |images_ozols/24709.png| image:: images_ozols/24709.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
-    :scale: 100%
 
  

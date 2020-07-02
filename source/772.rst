@@ -9,7 +9,9 @@ atkārtoti.
 
 
 
-|images_ozols/26278.png|
+.. image:: images_ozols/26278.png
+    :scale: 100%
+
 
 
 
@@ -30,8 +32,5 @@ vēlas veikt pārrēķinu.
 
 Pēc atbilstošo datu norādes jāspiež poga Turpināt lai veiktu
 pārrēķinu.
-
-.. |images_ozols/26278.png| image:: images_ozols/26278.png
-    :scale: 100%
 
  

@@ -28,7 +28,9 @@ atskaite tiks sagatavota:
 
 
 
-|images_ozols/25069.png|
+.. image:: images_ozols/25069.png
+    :scale: 100%
+
 
 
 
@@ -38,7 +40,9 @@ sagatavota:
 
 
 
-|images_ozols/25070.png|
+.. image:: images_ozols/25070.png
+    :scale: 100%
+
 
 
 
@@ -48,7 +52,9 @@ ievadot datumus manuāli:
 
 
 
-|images_ozols/25046.png|
+.. image:: images_ozols/25046.png
+    :scale: 100%
+
 
 4. Ja vienā Ozols datu bāzē tiek veikta grāmatvedības uzskaite
 vairākiem uzņēmumiem,filtrā iespējams izvēlēties, pēc kura uzņēmuma
@@ -56,7 +62,9 @@ datiem atskaite tiks sagatavota:
 
 
 
-|images_ozols/25047.png|
+.. image:: images_ozols/25047.png
+    :scale: 100%
+
 
 
 
@@ -65,14 +73,20 @@ neapstiprinātos grāmatojumus:
 
 
 
-|images_ozols/25071.png|
-
-6.PVN deklarācijatiks sagatavota, nospiežot pogu
-|images_ozols/25049.png| :
+.. image:: images_ozols/25071.png
+    :scale: 100%
 
 
+6.PVN deklarācijatiks sagatavota, nospiežot pogu .. image::
+images_ozols/25049.png
+    :scale: 100%
+:
 
-|images_ozols/25072.png|
+
+
+.. image:: images_ozols/25072.png
+    :scale: 100%
+
 
 
 
@@ -101,58 +115,32 @@ grāmatojumus", kuru iespējams atzīmēt, ja deklarācija jāsagatavo
 iekļaujot tajā arī neapstiprinātos grāmatojumus.
 
 7. Ekrāna formā ir pieejams atskaišu konfigurācijas saraksts.
-Nospiežot pogu |images_ozols/25055.png| , komanda izsauc atskaites
-konfigurācijas ekrāna formu, to var papildināt neaizverot atskaiti.
+Nospiežot pogu .. image:: images_ozols/25055.png
+    :scale: 100%
+, komanda izsauc atskaites konfigurācijas ekrāna formu, to var
+papildināt neaizverot atskaiti.
 
 
 
 8. Ja pēc atskaites sagatavošanas veiktas izmaiņas :doc:`atskaites
 konfigurācijā<179>` , atskaiti pēc izmanītās konfigurācijas datiem var
-pārrēķināt, nospiežot pogu: |images_ozols/25053.png| . Pārrēķinot
-atskaiti, tajā tiek parādīti jaunākie dati.
+pārrēķināt, nospiežot pogu: .. image:: images_ozols/25053.png
+    :scale: 100%
+. Pārrēķinot atskaiti, tajā tiek parādīti jaunākie dati.
 
 9. Sagatavoto atskaiti iespējams saglabāt :doc:`VID atskaišu
 sarakstā<531>` , kur tā būs pieejama labošanai/drukāšanai, nospiežot
-pogu: |images_ozols/25054.png| .
-
-
-
-10. Nospiežot pogu |images_ozols/24617.jpg| atskaite sagatavota netiks
-un darbība tiks atcelta. Ja atskaite tiek izveidota un nav jāsaglabā,
-jālieto komanda Atcelt . Ja atskaite ir saglabāta sarakstā, komandu
-Atcelt var izmantot, lai nesaglabātu atskaitē veiktās izmaiņas.
-
-.. |images_ozols/25069.png| image:: images_ozols/25069.png
+pogu: .. image:: images_ozols/25054.png
     :scale: 100%
+.
 
-.. |images_ozols/25070.png| image:: images_ozols/25070.png
-    :scale: 100%
 
-.. |images_ozols/25046.png| image:: images_ozols/25046.png
-    :scale: 100%
 
-.. |images_ozols/25047.png| image:: images_ozols/25047.png
+10. Nospiežot pogu .. image:: images_ozols/24617.jpg
     :scale: 100%
-
-.. |images_ozols/25071.png| image:: images_ozols/25071.png
-    :scale: 100%
-
-.. |images_ozols/25049.png| image:: images_ozols/25049.png
-    :scale: 100%
-
-.. |images_ozols/25072.png| image:: images_ozols/25072.png
-    :scale: 100%
-
-.. |images_ozols/25055.png| image:: images_ozols/25055.png
-    :scale: 100%
-
-.. |images_ozols/25053.png| image:: images_ozols/25053.png
-    :scale: 100%
-
-.. |images_ozols/25054.png| image:: images_ozols/25054.png
-    :scale: 100%
-
-.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
-    :scale: 100%
+atskaite sagatavota netiks un darbība tiks atcelta. Ja atskaite tiek
+izveidota un nav jāsaglabā, jālieto komanda Atcelt . Ja atskaite ir
+saglabāta sarakstā, komandu Atcelt var izmantot, lai nesaglabātu
+atskaitē veiktās izmaiņas.
 
  

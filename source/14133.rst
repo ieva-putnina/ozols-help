@@ -1,4 +1,8 @@
-.. 14133 1.Darba uzsākšana sistēmas OZOLS lietotājiem************************************************ 
+.. 14133
+ 
+1.Darba uzsākšana sistēmas OZOLS lietotājiem
+************************************************
+ 
 
 Uzņēmuma pamatinformācija:
 ``````````````````````````
@@ -6,13 +10,13 @@ Uzsākot darbu sistēmā OZOLS, sākotnēji nepieciešams aizpildīt Uzņēmuma
 informāciju:
 
 1. Jāievada sava uzņēmuma datus Partneru sarakstā:
-CRM(Partneri)->Saraksti->Partneri->Pievienot->:doc:`Partneris<312>`
+CRM(Partneri)->Saraksti->Partneri->Pievienot-> :doc:`Partneris<312>`
 2. Tālāk nepieciešams aizpildīt uzņēmuma informāciju:
-Konfigurācija->Iestādījumi->Kopīgie->:doc:`Uzņēmuma informācija<703>`
+Konfigurācija->Iestādījumi->Kopīgie-> :doc:`Uzņēmuma informācija<703>`
 3. Pēc uzņēmuma pamatinformācijas aizpildīšanas, jāpapildina sistēmā
 pievienotā uzņēmuma informāciju, norādot uzņēmuma kodu (saīsinātu
 nosaukumu) un pilnu nosaukumu:
-Konfigurācija->Lietotāji->:doc:`Uzņēmumi<188>`
+Konfigurācija->Lietotāji-> :doc:`Uzņēmumi<188>`
 
 
 Kopējie saraksti:
@@ -21,10 +25,10 @@ Uzsākot darbu, nepieciešams izveidot pamatklasifikatorus, kas tiks
 izmantoti uzņēmuma finanšu un vadības grāmatvedības uzskaitē:
 
 1. Nepieciešams izveidot uzņēmuma organizatorisko shēmu: Kopējie
-saraksti->:doc:`Struktūrvienības<117>`
+saraksti-> :doc:`Struktūrvienības<117>`
 2. Pēc vajadzības, papildināt mērvienību sarakstu, kas tiks izmantotas
 norēķinu dokumentu saturu aizpildīšanai: Kopējie
-saraksti->:doc:`Mērvienību saraksts<124>` .
+saraksti-> :doc:`Mērvienību saraksts<124>` .
 
 
 CRM (Partneri):
@@ -33,7 +37,7 @@ Uzsākot darbu sistēmā OZOLS, lai būtu iespējams ievadīt
 saņemtos:doc:`<304>` :doc:`Iepirkumu<310>` dokumentus un sagatavot
 :doc:`Pārdošanas<304>` dokumentus, nepieciešams ievadīt biežāk
 izmantojamo partneru sarakstu, ar iespēju pēc tam šo sarakstu
-papildināt: CRM(Partneri)->Saraksti->:doc:`Partneri<112>`
+papildināt: CRM(Partneri)->Saraksti-> :doc:`Partneri<112>`
 ->Pievienot->Aizpildīt nepieciešamos datus.
 
 
@@ -45,14 +49,14 @@ dokumentu veidošanai:
 
 1. Pēc vajadzības papildināt apmaksas veidu sarakstu, kas tiks
 izmantots :doc:`Iepirkumu<310>` un :doc:`Pārdošanas<304>` dokumentu
-ievadei: Norēķini->Saraksti->:doc:`Apmaksas veidi<122>`
+ievadei: Norēķini->Saraksti-> :doc:`Apmaksas veidi<122>`
 2. Izveidot Norēķinu Grupu klasifikatoru - izveidot pamatgrupas
 krājumu/preču/pakalpojumu uzskaitei:
-Norēķini->Saraksti->:doc:`Grupas<148>`
+Norēķini->Saraksti-> :doc:`Grupas<148>`
 3. Sagatavot biežāk izmantojamo Pakalpojumu sarakstu, lai
 :doc:`Iepirkumu<310>` un :doc:`Pārdošanas<304>` dokumentu saturu
 aizpildīšana kļūtu pēc iespējas automatizētāka:
-Norēķini->Saraksti->:doc:`Pakalpojumi<108>`
+Norēķini->Saraksti-> :doc:`Pakalpojumi<108>`
 
 
 Finanses:
@@ -62,16 +66,16 @@ uzņēmuma rīcībā esošajiem bankas kontiem un kasēm, lai korekti varētu
 veikt bankas ieejošo un izejošo maksājumu uzskaiti:
 
 1. Nepieciešams pievienot uzņēmuma bankas kontus:
-Finanses->Saraksti->:doc:`Banku konti<141>`
+Finanses->Saraksti-> :doc:`Banku konti<141>`
 2. Jāpievieno uzņēmumā esošās skaidras naudas kases (ja tādas ir):
-Finanses->Saraksti->:doc:`Kases<123>`
+Finanses->Saraksti-> :doc:`Kases<123>`
 3. Pēc vajadzības, papildināt esošo banku sarakstu:
-Finanses->Saraksti->:doc:`Banku saraksts<101>`
+Finanses->Saraksti-> :doc:`Banku saraksts<101>`
 
 Ja tiks veidota datu apmaiņa ar banku (bankas ieņēmumu imports un
 maksājumu uzdevumu eksports), nepieciešams aizpildīt bankas
 elektronisko norēķinu sistēmu sarakstu: Datu apmaiņa ar
-banku->Saraksti->:doc:`Bankas elektronisko norēķinu sistēmas<160>`
+banku->Saraksti-> :doc:`Bankas elektronisko norēķinu sistēmas<160>`
 
 
 Noliktava:
@@ -80,9 +84,9 @@ Uzsākot darbu ar Noliktavas moduli, nepieciešams sagatavot izejas
 datus Noliktavas uzskaitei:
 
 1. Nepieciešams izveidot preču/krājumu grupas:
-Norēķini->Saraksti->:doc:`Grupas<148>`
+Norēķini->Saraksti-> :doc:`Grupas<148>`
 2. Ja Noliktavu skaits vairāk par vienu, jāpievieno nepieciešamās
-noliktavas: Noliktava->Saraksti->:doc:`Noliktavas<142>`
+noliktavas: Noliktava->Saraksti-> :doc:`Noliktavas<142>`
 3. Kopīgajos iestādījumos jānorāda nomenklatūras uzskaites cenas
 aprēķina metode (FIFO vai Vidējās svērtās cenas aprēķina metode):
 Konfigurācija->Lietotāji->Uzņēmumi->Atvērt uzņēmuma
@@ -90,18 +94,18 @@ aprakstu->Noliktava
 4. Nepieciešams izveidot nomenklatūras kartiņas, kas tiks izmantotas
 sākumu atlikumu ievadei, jaunu preču/krājumu
 iepirkumiem/pārdošanai/iekšējai kustībai:
-Noliktava->Saraksti->:doc:`Nomenklatūra<106>`
+Noliktava->Saraksti-> :doc:`Nomenklatūra<106>`
 5. Ja uzsākot darbu ar programmu, uzņēmuma rīcībā ir fiksēti
 nomenklatūras atlikumi, tie jāpievieno sadaļā:
-Noliktava->Dokumenti->:doc:`Nomenklatūras atlikumi perioda
+Noliktava->Dokumenti-> :doc:`Nomenklatūras atlikumi perioda
 sākumā<107>`
 6. Ja uzņēmuma noliktavas uzskaite ietver sevī preču pārdošanu un
 preces tiek cenotas, tad nepieciešams katram pircējam noteikt
 piemērojamo pārdošanas cenu un atlaides. Katram klientam Partnera
-aprakstā (CRM(Partneri)->Saraksti->:doc:`Partneri<112>` ->Pārējie
+aprakstā (CRM(Partneri)->Saraksti-> :doc:`Partneri<112>` ->Pārējie
 dati) var noteikt vienu no preces pārdošanas cenu veidiem
-(Norēķini->Saraksti->:doc:`Cenu veidi<105>` ), norādīt noklusēto
-atlaižu grupu (Norēķini->Saraksti->:doc:`Atlaižu grupas<185>` ).
+(Norēķini->Saraksti-> :doc:`Cenu veidi<105>` ), norādīt noklusēto
+atlaižu grupu (Norēķini->Saraksti-> :doc:`Atlaižu grupas<185>` ).
 
 
 Personāls
@@ -110,16 +114,17 @@ Uzsākot darbu, nepieciešams izveidot pamatklasifikatorus, kas tiks
 izmantoti uzņēmuma personāla uzskaitei un algu aprēķiniem:
 
 1. Jāizveido pamatklasifikatori, lai varētu pilnvērtīgi aizpildīt
-strādājošā kartiņu: Personāls->Saraksti->:doc:`Amati<186>`
-/:doc:`Amatu grupas<959>` /:doc:`Atvaļinājumu kalendāri<284>`
-/:doc:`Kalendāri<218>` /:doc:`Personāla kategorijas<127>`
-/:doc:`Slodžu veidi<288>`
+strādājošā kartiņu: Personāls->Saraksti-> :doc:`Amati<186>`
+/ :doc:`Amatu grupas<959>` / :doc:`Atvaļinājumu kalendāri<284>`
+/ :doc:`Kalendāri<218>` / :doc:`Personāla kategorijas<127>`
+/ :doc:`Slodžu veidi<288>`
 2. Nepieciešams aizpildīt informāciju par svētku un pārceltajā
 2. Nepieciešams aizpildīt informāciju par svētku un pārceltajām dienām
-kalendārajā periodā: Personāls->Saraksti->:doc:`Notikumu
+kalendārajā periodā: Personāls->Saraksti-> :doc:`Notikumu
 saraksts<217>`
-3. Jāpievieno strādājošie (:doc:`Partneris<312>` ar atzīmētu grupu
+3. Jāpievieno strādājošie ( :doc:`Partneris<312>` ar atzīmētu grupu
 "strādājošais"), uz kā pamata tiks veidotas slodzes: Personāla
-vadība->Saraksti->:doc:`Strādājošie<111>`
+vadība->Saraksti-> :doc:`Strādājošie<111>`
 
- 
+
+ 

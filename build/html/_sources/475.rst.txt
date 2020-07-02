@@ -21,7 +21,9 @@ atvērts jauns logs:
 
 
 
-|images_ozols/24999.png|
+.. image:: images_ozols/24999.png
+    :scale: 100%
+
 
 
 Naudas izņemšanas no bankas konta dokumenta Virsraksta aizpildīšana
@@ -38,7 +40,9 @@ bankas konta:
 
 
 
-|images_ozols/24826.png|
+.. image:: images_ozols/24826.png
+    :scale: 100%
+
 
 
 
@@ -47,7 +51,9 @@ kontatiek veidots:
 
 
 
-|images_ozols/24811.png|
+.. image:: images_ozols/24811.png
+    :scale: 100%
+
 
 
 
@@ -55,7 +61,9 @@ kontatiek veidots:
 
 
 
-|images_ozols/24812.png|
+.. image:: images_ozols/24812.png
+    :scale: 100%
+
 
 
 
@@ -64,7 +72,9 @@ nauda tiks pārskaitītauz uzņēmuma kasi:
 
 
 
-|images_ozols/24724.png|
+.. image:: images_ozols/24724.png
+    :scale: 100%
+
 
 
 
@@ -74,7 +84,9 @@ bankas konta uzņēmuma kasē:
 
 
 
-|images_ozols/24828.png|
+.. image:: images_ozols/24828.png
+    :scale: 100%
+
 
 
 
@@ -83,27 +95,37 @@ pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:
 
 
 
-|images_ozols/24926.png|
+.. image:: images_ozols/24926.png
+    :scale: 100%
+
 
 
 Naudas izņemšanas dokumenta no bankas kontaSatura aizpildīšana
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams
-nospiest pogu |images_ozols/24708.png| un tiks atvērts operācijas
-satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā
-izmantotās dimensijas) un norādīt satura ieraksta summu:
+nospiest pogu.. image:: images_ozols/24708.png
+    :scale: 100%
+un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
+satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
+ieraksta summu:
 
 
 
-|images_ozols/24919.png|
+.. image:: images_ozols/24919.png
+    :scale: 100%
 
 
 
-|images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiem
-satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
-summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
-atkārtoti nospiežot pogu |images_ozols/24708.png| .
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
+kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
+satura ierakstu iespējams, satura daļā atkārtoti nospiežot pogu ..
+image:: images_ozols/24708.png
+    :scale: 100%
+.
 
 
 Naudas izņemšanas dokumenta no bankas kontaPamatojuma aizpildīšana
@@ -118,7 +140,9 @@ Lauku Pamatojums , iespējams aizpildīt manuāli vai izvēloties no
 
 
 
-|images_ozols/24928.png|
+.. image:: images_ozols/24928.png
+    :scale: 100%
+
 
 
 
@@ -135,19 +159,24 @@ Piel.num. nepieciešams ierakstīt attiecīgā Pielikuma dokumenta numuru:
 
 
 
-|images_ozols/24929.png|
+.. image:: images_ozols/24929.png
+    :scale: 100%
+
 
 
 
 Kad visi nepieciešamie lauki ir aizpildīti, Naudas izņemšanas no
 bankas konta dokuments ir sagatavots un to ir iespējams:
 
-1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
-saglabāts un būs pieejams apskatei/labošanai/grāmatošanai
-vienlaicīgi:doc:`Kases ieņēmumu<227>` un :doc:`Bankas izdevumu<224>`
-žurnālos.
+1. Saglabāt,nospiežot pogu .. image:: images_ozols/24615.jpg
+    :scale: 100%
+-dokuments tiks saglabāts un būs pieejams
+apskatei/labošanai/grāmatošanai vienlaicīgi:doc:`Kases ieņēmumu<227>`
+un :doc:`Bankas izdevumu<224>` žurnālos.
 
-2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png|
+2. Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+    :scale: 100%
 -Naudas izņemšanas no bankas kontadokumentstiks Apstiprināts un to būs
 iespējams Grāmatot.
 
@@ -160,11 +189,15 @@ atvērta dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Kases
 ieņēmumu<227>` vai :doc:`Bankas izdevumu<224>` žurnālā.
 
 Lai iegrāmatotu Naudas izņemšanu no bankas konta, dokumentu
-nepieciešams Apstiprināt, nospiežot rīku joslā pogu
-|images_ozols/24740.png| .
+nepieciešams Apstiprināt, nospiežot rīku joslā pogu .. image::
+images_ozols/24740.png
+    :scale: 100%
+.
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu |images_ozols/24741.png| .
+pogu .. image:: images_ozols/24741.png
+    :scale: 100%
+.
 
 
 
@@ -180,78 +213,22 @@ vienlaicīgi:doc:`Kases ieņēmumu<227>` un :doc:`Bankas izdevumu<224>`
 žurnālos.
 
 Lai veiktu labojumus,dokumentunepieciešams atvērt, izmantojot rīku
-joslas pogu |images_ozols/24709.png| (ALT+A), unatvērtajāierakstā
-iespējams veiktnepieciešamos labojumus:
+joslas pogu.. image:: images_ozols/24709.png
+    :scale: 100%
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 
 
 
-|images_ozols/24930.png|
-
-
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams
-|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
-
-.. |images_ozols/24999.png| image:: images_ozols/24999.png
+.. image:: images_ozols/24930.png
     :scale: 100%
 
-.. |images_ozols/24826.png| image:: images_ozols/24826.png
-    :scale: 100%
 
-.. |images_ozols/24811.png| image:: images_ozols/24811.png
-    :scale: 100%
 
-.. |images_ozols/24812.png| image:: images_ozols/24812.png
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
     :scale: 100%
-
-.. |images_ozols/24724.png| image:: images_ozols/24724.png
+vai .. image:: images_ozols/24617.jpg
     :scale: 100%
-
-.. |images_ozols/24828.png| image:: images_ozols/24828.png
-    :scale: 100%
-
-.. |images_ozols/24926.png| image:: images_ozols/24926.png
-    :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/24919.png| image:: images_ozols/24919.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/24928.png| image:: images_ozols/24928.png
-    :scale: 100%
-
-.. |images_ozols/24929.png| image:: images_ozols/24929.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/24740.png| image:: images_ozols/24740.png
-    :scale: 100%
-
-.. |images_ozols/24740.png| image:: images_ozols/24740.png
-    :scale: 100%
-
-.. |images_ozols/24741.png| image:: images_ozols/24741.png
-    :scale: 100%
-
-.. |images_ozols/24709.png| image:: images_ozols/24709.png
-    :scale: 100%
-
-.. |images_ozols/24930.png| image:: images_ozols/24930.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
-    :scale: 100%
+.
 
  

@@ -6,12 +6,16 @@ pievienotie darba līgumi.
 
 Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
 tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
-ekrāna formā. Rīku joslā nopiežot pogu |images_ozols/24535.gif|
+ekrāna formā. Rīku joslā nopiežot pogu.. image::
+images_ozols/24535.gif
+    :scale: 100%
 (Ctrl+F), tiek atvērts filtra logs:
 
 
 
-|images_ozols/26089.png|
+.. image:: images_ozols/26089.png
+    :scale: 100%
+
 
 
 
@@ -23,8 +27,10 @@ no...līdz
 
 
 Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
-kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga
-|images_ozols/25944.png| .
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga ..
+image:: images_ozols/25944.png
+    :scale: 100%
+.
 
 
 
@@ -33,13 +39,17 @@ Jauna Darba līgumapievienošana
 
 Darba līgumu strādājošajam iespējams pievienot:
 
-1. Strādājošā :doc:`Slodzes<207>` aprakstā, nospiežot pogu
-|images_ozols/25696.png| ;
+1. Strādājošā :doc:`Slodzes<207>` aprakstā, nospiežot pogu .. image::
+images_ozols/25696.png
+    :scale: 100%
+;
 
 
 
 2. Atrodoties:doc:`Darba līgumu žurnālā<251>` un rīku joslānospiežot
-pogu |images_ozols/24708.png| ;
+pogu.. image:: images_ozols/24708.png
+    :scale: 100%
+;
 
 
 
@@ -48,7 +58,9 @@ Lai aizpildītu Darba līgumu, jāizvēlas :doc:`Strādājošais<111>`
 
 
 
-|images_ozols/25737.png|
+.. image:: images_ozols/25737.png
+    :scale: 100%
+
 
 
 
@@ -63,48 +75,26 @@ datumu, kā arī norādīt līguma termiņu:
 
 
 
-|images_ozols/26090.png|
+.. image:: images_ozols/26090.png
+    :scale: 100%
 
 
 
-Darba līgumā iespējams ievadīt arī noteiktu pamatalgu:
-|images_ozols/26091.png| - lauks ir informatīvs un netiek saistīts ar
-Strādājošā Algu aprēķinu!
+
+Darba līgumā iespējams ievadīt arī noteiktu pamatalgu: .. image::
+images_ozols/26091.png
+    :scale: 100%
+- lauks ir informatīvs un netiek saistīts ar Strādājošā Algu aprēķinu!
 
 
 
-Dati tiek saglabāti, nospiežot pogu |images_ozols/25621.png| .
+Dati tiek saglabāti, nospiežot pogu .. image:: images_ozols/25621.png
+    :scale: 100%
+.
 
 
 
 Pievienotie un saglabātie dati tiek saglabāti:doc:`Darba līgumu
 žurnālā<251>` .
-
-.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
-    :scale: 100%
-
-.. |images_ozols/26089.png| image:: images_ozols/26089.png
-    :scale: 100%
-
-.. |images_ozols/25944.png| image:: images_ozols/25944.png
-    :scale: 100%
-
-.. |images_ozols/25696.png| image:: images_ozols/25696.png
-    :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/25737.png| image:: images_ozols/25737.png
-    :scale: 100%
-
-.. |images_ozols/26090.png| image:: images_ozols/26090.png
-    :scale: 100%
-
-.. |images_ozols/26091.png| image:: images_ozols/26091.png
-    :scale: 100%
-
-.. |images_ozols/25621.png| image:: images_ozols/25621.png
-    :scale: 100%
 
  

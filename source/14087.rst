@@ -26,13 +26,12 @@ kontus", "Adreses"
 ieraksta laukus, kas nav uzskaitīti.)
 
 
-|images_ozols/24545.gif| Lai sistēmā OZOLS iegūtu lietotājam tikai
-lasīšanas režīmu, lietotājam nebūs tiesības ierakstus DZĒST, PIEVIENOT
-un LABOT, tad lietotājs ir jāpievieno noklusētajām sistēmas OZOLS
-lomām - ibav_deny_insert , ibav_deny_update , ibav_deny_delete.
-
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+.. image:: images_ozols/24545.gif
     :scale: 100%
+Lai sistēmā OZOLS iegūtu lietotājam tikai lasīšanas režīmu, lietotājam
+nebūs tiesības ierakstus DZĒST, PIEVIENOT un LABOT, tad lietotājs ir
+jāpievieno noklusētajām sistēmas OZOLS lomām - ibav_deny_insert ,
+ibav_deny_update , ibav_deny_delete.
+
 
  

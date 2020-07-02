@@ -2,438 +2,249 @@
 
 
 <!DOCTYPE html>
-<html >
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-      <title>Darba režīmu pārskats</title>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Darba režīmu pārskats &mdash; Sistēmas LĀCIS dokumentācija 1 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
     
-      <link rel="stylesheet" href="_static/pygments.css">
-      <link rel="stylesheet" href="_static/theme.css">
-      <link rel="stylesheet" href="_static/sphinx_press_theme.css">
-          <link rel="stylesheet" href="_static/page_nav.css" type="text/css" />
-          <link rel="stylesheet" href="_static/jquery.fancybox.min.css" type="text/css" />
-          <link rel="stylesheet" href="_static/sphinx_press_theme.css" type="text/css" />
-      
-      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
-      <!-- sphinx script_files -->
-        <script src="_static/jquery.js"></script>
-        <script src="_static/underscore.js"></script>
-        <script src="_static/doctools.js"></script>
-        <script src="_static/language_data.js"></script>
-        <script src="_static/jquery.fancybox.min.js"></script>
 
-      
-      <script src="_static/theme-vendors.js"></script>
-      <script src="_static/theme.js" defer></script>
+  
+
+  
+  
+    <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  
+
+  
+    <link rel="stylesheet" href="_static/page_nav.css" type="text/css" />
+  
+    <link rel="stylesheet" href="_static/jquery.fancybox.min.css" type="text/css" />
+  
+    <link rel="stylesheet" href="_static/glpi.css" type="text/css" />
+  
+
+  
+        <link rel="index" title="Index"
+              href="genindex.html"/>
+        <link rel="search" title="Search" href="search.html"/>
+    <link rel="top" title="Sistēmas LĀCIS dokumentācija 1 documentation" href="index.html"/>
+        <link rel="up" title="Sistēmas lietošanas principi" href="14010.html"/>
+        <link rel="next" title="Darbs ar atskaitēm" href="14016.html"/>
+        <link rel="prev" title="Darba režīmu izkārtojums un pieejamās komandas" href="14013.html"/> 
+
+  
+  <script src="_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+   
+  <div class="wy-grid-for-nav">
+
     
-  <link rel="index" title="Index" href="genindex.html" />
-  <link rel="search" title="Search" href="search.html" />
-  <link rel="next" title="Darbs ar atskaitēm" href="14016.html" />
-  <link rel="prev" title="Darba režīmu izkārtojums un pieejamās komandas" href="14013.html" /> 
-  </head>
-
-  <body>
-    <div id="app" class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
-  <router-link to="index.html" class="home-link">
-    
-      <span class="site-name">Sistēmas LĀCIS dokumentācija</span>
-    
-  </router-link>
-
-  <div class="links">
-    <navlinks class="can-hide">
-
-
-
-    </navlinks>
-  </div>
-</navbar>
-
-      
-      <div class="sidebar-mask" @click="toggleSidebar(false)">
-      </div>
-        <sidebar @toggle-sidebar="toggleSidebar">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
           
-          <navlinks>
+
+          
+            <a href="index.html" class="icon icon-home"> Sistēmas LĀCIS dokumentācija
+          
+
+          
+          </a>
+
+          
             
-
-
-
-            
-          </navlinks><div id="searchbox" class="searchbox" role="search">
-  <div class="caption"><span class="caption-text">Quick search</span>
-    <div class="searchformwrapper">
-      <form class="search" action="search.html" method="get">
-        <input type="text" name="q" />
-        <input type="submit" value="Search" />
-        <input type="hidden" name="check_keywords" value="yes" />
-        <input type="hidden" name="area" value="default" />
-      </form>
-    </div>
-  </div>
-</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
-  
-    <div class="sidebar-group">
-      <p class="caption">
-        <span class="caption-text"><a href="index.html#ozols-palidzibas-sistema">ozols palīdzības sistēma</a></span>
-      </p>
-      <ul class="">
-        
-          <li class="toctree-l1 "><a href="7603.html" class="reference internal ">Paziņojumi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="600.html" class="reference internal ">Sākums</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="14000.html" class="reference internal ">Sistēmas lietošanas instrukcija</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="18.html" class="reference internal ">Mani darbi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="39.html" class="reference internal ">Alga</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4000.html" class="reference internal ">Apdrošināšanas polises</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4800.html" class="reference internal ">Autoinfo</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="40.html" class="reference internal ">Avansi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="48.html" class="reference internal ">Budžeta izpilde</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="6600.html" class="reference internal ">Budžeta plānošana</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7700.html" class="reference internal ">Caurlaides</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="26.html" class="reference internal ">CRM (Partneri)</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="50.html" class="reference internal ">Datu apmaiņa ar banku</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7400.html" class="reference internal ">Degvielas tirdzniecība</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7000.html" class="reference internal ">Dividendes</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7900.html" class="reference internal ">Ēdināšana</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="41.html" class="reference internal ">Finanses</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4900.html" class="reference internal ">iVeikals</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="42.html" class="reference internal ">Krājumi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7600.html" class="reference internal ">Kravu pārvadājumi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4100.html" class="reference internal ">LaMSF</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="6800.html" class="reference internal ">Līgumi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4500.html" class="reference internal ">Maksājumu uzskaite</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7100.html" class="reference internal ">Mazumtirdzniecība</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="43.html" class="reference internal ">Noliktava</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="6770.html" class="reference internal ">Noma</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="6700.html" class="reference internal ">Noma transportam</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="44.html" class="reference internal ">Norēķini</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="45.html" class="reference internal ">Pamatlīdzekļi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="34.html" class="reference internal ">Pasts</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7200.html" class="reference internal ">Personāla pašapkalpošanās</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="47.html" class="reference internal ">Personāla vadība</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="6500.html" class="reference internal ">Polises</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="46.html" class="reference internal ">Projektu kalkulācija</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4200.html" class="reference internal ">Regresi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4300.html" class="reference internal ">TKU</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="49.html" class="reference internal ">Virsgrāmata</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4700.html" class="reference internal ">wap OZOLS</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="38.html" class="reference internal ">Citi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="5226.html" class="reference internal ">Darbinieku portāls</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="6901.html" class="reference internal ">Degvielas pasūtījumi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="5026.html" class="reference internal ">Iestādījumi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4444.html" class="reference internal ">Klientu portāls</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="12.html" class="reference internal ">Konfigurācija</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="1.html" class="reference internal ">Kopējie saraksti</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7301.html" class="reference internal ">Mākslinieciskā darba plānošana</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="5295.html" class="reference internal ">Meklēšanas rezultāti</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="6734.html" class="reference internal ">Noma</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="31.html" class="reference internal ">Pievienot</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4461.html" class="reference internal ">Pievienot notikumu</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="10.html" class="reference internal ">Rīki</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7500.html" class="reference internal ">SPRK</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4445.html" class="reference internal ">Uzņēmuma portāls</a>
-
-            
-          </li>
-
-        
-      </ul>
-    </div>
-  
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
 </div>
-        </sidebar>
 
-      <page>
-          <div class="body-header" role="navigation" aria-label="navigation">
-  
-  <ul class="breadcrumbs">
-    <li><a href="index.html">Docs</a> &raquo;</li>
-    
-      <li><a href="14000.html">Sistēmas lietošanas instrukcija</a> &raquo;</li>
-    
-      <li><a href="14010.html">Sistēmas lietošanas principi</a> &raquo;</li>
-    
-    <li>Darba režīmu pārskats</li>
-  </ul>
-  
+          
+        </div>
 
-  </script>
-<ul class="page-nav">
-  <li class="prev">
-    <a class="prev_a" href="14013.html"
-       title="previous chapter">← Darba režīmu izkārtojums un pieejamās komandas</a>
-  </li>
-  <li class="next">
-    <a class="next_a" href="14016.html"
-       title="next chapter">Darbs ar atskaitēm →</a>
-  </li>
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="7603.html">Paziņojumi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="600.html">Sākums</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="14000.html">Sistēmas lietošanas instrukcija</a><ul class="current">
+<li class="toctree-l2 current"><a class="reference internal" href="14010.html">Sistēmas lietošanas principi</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="14013.html">Darba režīmu izkārtojums un pieejamās komandas</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Darba režīmu pārskats</a></li>
+<li class="toctree-l3"><a class="reference internal" href="14016.html">Darbs ar atskaitēm</a></li>
+<li class="toctree-l3"><a class="reference internal" href="14014.html">Darbs ar dokumentiem</a></li>
+<li class="toctree-l3"><a class="reference internal" href="14012.html">Darbs ar programmu</a></li>
+<li class="toctree-l3"><a class="reference internal" href="14125.html">Datora iestādījumu konfigurācijas parametri</a></li>
+<li class="toctree-l3"><a class="reference internal" href="14015.html">Dažāda veida lauku aizpildīšana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="14100.html">Dokumenta ģenerēšana .pdf formātā</a></li>
+<li class="toctree-l3"><a class="reference internal" href="14034.html">Dokumentu drukāšana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="14011.html">Pieņemtie apzīmējumi</a></li>
+<li class="toctree-l3"><a class="reference internal" href="14101.html">Rēķinu sūtīšana pa e-pastu</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="14065.html">Administratora instrukcijas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="14068.html">Darba uzsākšana</a></li>
+<li class="toctree-l2"><a class="reference internal" href="14045.html">Dokumentu veidošanas principi</a></li>
+<li class="toctree-l2"><a class="reference internal" href="14044.html">Grāmatojumu veidošanas principi</a></li>
+<li class="toctree-l2"><a class="reference internal" href="14102.html">Instrukcijas darba režīmos pieejamām funkcijām</a></li>
+<li class="toctree-l2"><a class="reference internal" href="14137.html">Ozols365 lietošanas instrukcijas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="14037.html">Sarakstu veidošanas principi</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="18.html">Mani darbi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="39.html">Alga</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4000.html">Apdrošināšanas polises</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4800.html">Autoinfo</a></li>
+<li class="toctree-l1"><a class="reference internal" href="40.html">Avansi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="48.html">Budžeta izpilde</a></li>
+<li class="toctree-l1"><a class="reference internal" href="6600.html">Budžeta plānošana</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7700.html">Caurlaides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="26.html">CRM (Partneri)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="50.html">Datu apmaiņa ar banku</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7400.html">Degvielas tirdzniecība</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7000.html">Dividendes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7900.html">Ēdināšana</a></li>
+<li class="toctree-l1"><a class="reference internal" href="41.html">Finanses</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4900.html">iVeikals</a></li>
+<li class="toctree-l1"><a class="reference internal" href="42.html">Krājumi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7600.html">Kravu pārvadājumi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4100.html">LaMSF</a></li>
+<li class="toctree-l1"><a class="reference internal" href="6800.html">Līgumi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4500.html">Maksājumu uzskaite</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7100.html">Mazumtirdzniecība</a></li>
+<li class="toctree-l1"><a class="reference internal" href="43.html">Noliktava</a></li>
+<li class="toctree-l1"><a class="reference internal" href="6770.html">Noma</a></li>
+<li class="toctree-l1"><a class="reference internal" href="6700.html">Noma transportam</a></li>
+<li class="toctree-l1"><a class="reference internal" href="44.html">Norēķini</a></li>
+<li class="toctree-l1"><a class="reference internal" href="45.html">Pamatlīdzekļi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="34.html">Pasts</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7200.html">Personāla pašapkalpošanās</a></li>
+<li class="toctree-l1"><a class="reference internal" href="47.html">Personāla vadība</a></li>
+<li class="toctree-l1"><a class="reference internal" href="6500.html">Polises</a></li>
+<li class="toctree-l1"><a class="reference internal" href="46.html">Projektu kalkulācija</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4200.html">Regresi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4300.html">TKU</a></li>
+<li class="toctree-l1"><a class="reference internal" href="49.html">Virsgrāmata</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4700.html">wap OZOLS</a></li>
+<li class="toctree-l1"><a class="reference internal" href="38.html">Citi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="5226.html">Darbinieku portāls</a></li>
+<li class="toctree-l1"><a class="reference internal" href="6901.html">Degvielas pasūtījumi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="5026.html">Iestādījumi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4444.html">Klientu portāls</a></li>
+<li class="toctree-l1"><a class="reference internal" href="12.html">Konfigurācija</a></li>
+<li class="toctree-l1"><a class="reference internal" href="1.html">Kopējie saraksti</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7301.html">Mākslinieciskā darba plānošana</a></li>
+<li class="toctree-l1"><a class="reference internal" href="5295.html">Meklēšanas rezultāti</a></li>
+<li class="toctree-l1"><a class="reference internal" href="6734.html">Noma</a></li>
+<li class="toctree-l1"><a class="reference internal" href="31.html">Pievienot</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4461.html">Pievienot notikumu</a></li>
+<li class="toctree-l1"><a class="reference internal" href="10.html">Rīki</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7500.html">SPRK</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4445.html">Uzņēmuma portāls</a></li>
 </ul>
 
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">Sistēmas LĀCIS dokumentācija</a>
+        
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html">Docs</a> &raquo;</li>
+        
+          <li><a href="14000.html">Sistēmas lietošanas instrukcija</a> &raquo;</li>
+        
+          <li><a href="14010.html">Sistēmas lietošanas principi</a> &raquo;</li>
+        
+      <li>Darba režīmu pārskats</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="_sources/14051.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
   
+  <div class="rst-breadcrumbs-buttons" role="navigation" aria-label="breadcrumb navigation">
+      
+        <a href="14016.html" class="btn btn-neutral float-right" title="Darbs ar atskaitēm" accesskey="n">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="14013.html" class="btn btn-neutral" title="Darba režīmu izkārtojums un pieejamās komandas" accesskey="p"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+  </div>
+  
+  <hr/>
 </div>
-<hr>
-          <div class="content" role="main">
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
             
   <div class="section" id="darba-rezimu-parskats">
 <h1>Darba režīmu pārskats<a class="headerlink" href="#darba-rezimu-parskats" title="Permalink to this headline">¶</a></h1>
@@ -442,99 +253,176 @@ nācija Rīku joslas poga Paskaidrojums
 Pievienot</p>
 <p>Dati /Pievienot</p>
 <p>Alt+P</p>
-<p><a class="reference internal" href="_images/24933.png"><img alt="images_ozols/24933.png" src="_images/24933.png" style="width: 16.0px; height: 16.0px;" /></a></p>
+<a class="reference internal image-reference" href="_images/24933.png"><img alt="_images/24933.png" src="_images/24933.png" style="width: 16.0px; height: 16.0px;" /></a>
 <p>Ieraksta pievienošana
-Atvērt Dati /Atvērt Alt+A <a class="reference internal" href="_images/24932.png"><img alt="images_ozols/24932.png" src="_images/24932.png" style="width: 16.0px; height: 16.0px;" /></a> Ieraksta atvēršana
-Saglabāt Dati / Saglabāt Ctrl+S <a class="reference internal" href="_images/24938.png"><img alt="images_ozols/24938.png" src="_images/24938.png" style="width: 16.0px; height: 16.0px;" /></a> Informācijas
-saglabāšana Sagl.t&amp;Piev. Dati / Sagl.t&amp;Piev. F11
-<a class="reference internal" href="_images/24939.png"><img alt="images_ozols/24939.png" src="_images/24939.png" style="width: 22.0px; height: 22.0px;" /></a> Informācijas saglabāšana un pievienošana
-Saglabāt un aizvērt Dati / Saglabāt un aizvērt F12
-<a class="reference internal" href="_images/24938.png"><img alt="images_ozols/24938.png" src="_images/24938.png" style="width: 16.0px; height: 16.0px;" /></a> Informācijas saglabāšana un aizvēršana Kopēt
-ierakstu Dati /Kopēt ierakstu <a class="reference internal" href="_images/24940.png"><img alt="images_ozols/24940.png" src="_images/24940.png" style="width: 16.0px; height: 16.0px;" /></a> Informācijas
-kopēšana Dzēst Dati /Dzēst Alt+Z <a class="reference internal" href="_images/24941.png"><img alt="images_ozols/24941.png" src="_images/24941.png" style="width: 16.0px; height: 16.0px;" /></a> Ieraksta
-dzēšana Filtrs Dati /Filtrs Ctrl+F <a class="reference internal" href="_images/24942.png"><img alt="images_ozols/24942.png" src="_images/24942.png" style="width: 16.0px; height: 16.0px;" /></a> Filtra
-uzlikšana Meklēšana Dati /Meklēt Ctrl+M <a class="reference internal" href="_images/24943.png"><img alt="images_ozols/24943.png" src="_images/24943.png" style="width: 16.0px; height: 16.0px;" /></a>
-Dokumenta meklēšana Dokumentu izdruka Dati /Drukāt Ctrl+P
-<a class="reference internal" href="_images/24944.png"><img alt="images_ozols/24944.png" src="_images/24944.png" style="width: 16.0px; height: 16.0px;" /></a> Dokumenta izdrukāšana Dokumentu izdruka Dati
-/ HTML Ctrl+H <a class="reference internal" href="_images/24945.png"><img alt="images_ozols/24945.png" src="_images/24945.png" style="width: 16.0px; height: 16.0px;" /></a> Dokumenta izdrukāšana HTML
-formātā Skats Dati /Skats Ctrl+H <a class="reference internal" href="_images/24946.png"><img alt="images_ozols/24946.png" src="_images/24946.png" style="width: 22.0px; height: 22.0px;" /></a> Skata maiņa
-Apstiprināt Dati /Apstiprināt Ctrl+R <a class="reference internal" href="_images/24937.png"><img alt="images_ozols/24937.png" src="_images/24937.png" style="width: 16.0px; height: 16.0px;" /></a>
-Dokumenta apstiprināšana Grāmatot Dati /Grāmatojums Ctrl+G
-<a class="reference internal" href="_images/24947.png"><img alt="images_ozols/24947.png" src="_images/24947.png" style="width: 16.0px; height: 16.0px;" /></a> Dokumenta grāmatošana Anulēt Dati /Anulēt
-<a class="reference internal" href="_images/24935.png"><img alt="images_ozols/24935.png" src="_images/24935.png" style="width: 16.0px; height: 16.0px;" /></a> Dokumenta anulēšana Saistīt Dati / Saistīt
-Ctrl+D <a class="reference internal" href="_images/24948.png"><img alt="images_ozols/24948.png" src="_images/24948.png" style="width: 16.0px; height: 16.0px;" /></a> Dokumentu saistīšana Koks Dati / Koks
-<a class="reference internal" href="_images/24949.png"><img alt="images_ozols/24949.png" src="_images/24949.png" style="width: 16.0px; height: 16.0px;" /></a> Sarakstu attēlošana kokveida formā Funkcijas
-Dati / Funkcijas <a class="reference internal" href="_images/24950.png"><img alt="images_ozols/24950.png" src="_images/24950.png" style="width: 16.0px; height: 16.0px;" /></a> Dažādu darba režīmu
-izsaukšanai Paņemt Dati / Paņemt Alt+M <a class="reference internal" href="_images/24951.png"><img alt="images_ozols/24951.png" src="_images/24951.png" style="width: 16.0px; height: 16.0px;" /></a>
-Ieraksta pārzīmēšana Kolonnas Dati / Kolonnas Ctrl+K
-<a class="reference internal" href="_images/24952.png"><img alt="images_ozols/24952.png" src="_images/24952.png" style="width: 16.0px; height: 16.0px;" /></a> Kolonnu konfigurēšana
+Atvērt Dati /Atvērt Alt+A</p>
+<a class="reference internal image-reference" href="_images/24932.png"><img alt="_images/24932.png" src="_images/24932.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Ieraksta atvēršana Saglabāt Dati / Saglabāt Ctrl+S</p>
+<a class="reference internal image-reference" href="_images/24938.png"><img alt="_images/24938.png" src="_images/24938.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Informācijas saglabāšana Sagl.t&amp;Piev. Dati / Sagl.t&amp;Piev. F11</p>
+<a class="reference internal image-reference" href="_images/24939.png"><img alt="_images/24939.png" src="_images/24939.png" style="width: 22.0px; height: 22.0px;" /></a>
+<p>Informācijas saglabāšana un pievienošana Saglabāt un aizvērt Dati /
+Saglabāt un aizvērt F12</p>
+<a class="reference internal image-reference" href="_images/24938.png"><img alt="_images/24938.png" src="_images/24938.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Informācijas saglabāšana un aizvēršana Kopēt ierakstu Dati /Kopēt
+ierakstu</p>
+<a class="reference internal image-reference" href="_images/24940.png"><img alt="_images/24940.png" src="_images/24940.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Informācijas kopēšana Dzēst Dati /Dzēst Alt+Z</p>
+<a class="reference internal image-reference" href="_images/24941.png"><img alt="_images/24941.png" src="_images/24941.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Ieraksta dzēšana Filtrs Dati /Filtrs Ctrl+F</p>
+<a class="reference internal image-reference" href="_images/24942.png"><img alt="_images/24942.png" src="_images/24942.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Filtra uzlikšana Meklēšana Dati /Meklēt Ctrl+M</p>
+<a class="reference internal image-reference" href="_images/24943.png"><img alt="_images/24943.png" src="_images/24943.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Dokumenta meklēšana Dokumentu izdruka Dati /Drukāt Ctrl+P</p>
+<a class="reference internal image-reference" href="_images/24944.png"><img alt="_images/24944.png" src="_images/24944.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Dokumenta izdrukāšana Dokumentu izdruka Dati / HTML Ctrl+H</p>
+<a class="reference internal image-reference" href="_images/24945.png"><img alt="_images/24945.png" src="_images/24945.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Dokumenta izdrukāšana HTML formātā Skats Dati /Skats Ctrl+H</p>
+<a class="reference internal image-reference" href="_images/24946.png"><img alt="_images/24946.png" src="_images/24946.png" style="width: 22.0px; height: 22.0px;" /></a>
+<p>Skata maiņa Apstiprināt Dati /Apstiprināt Ctrl+R</p>
+<a class="reference internal image-reference" href="_images/24937.png"><img alt="_images/24937.png" src="_images/24937.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Dokumenta apstiprināšana Grāmatot Dati /Grāmatojums Ctrl+G</p>
+<a class="reference internal image-reference" href="_images/24947.png"><img alt="_images/24947.png" src="_images/24947.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Dokumenta grāmatošana Anulēt Dati /Anulēt</p>
+<a class="reference internal image-reference" href="_images/24935.png"><img alt="_images/24935.png" src="_images/24935.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Dokumenta anulēšana Saistīt Dati / Saistīt Ctrl+D</p>
+<a class="reference internal image-reference" href="_images/24948.png"><img alt="_images/24948.png" src="_images/24948.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Dokumentu saistīšana Koks Dati / Koks</p>
+<a class="reference internal image-reference" href="_images/24949.png"><img alt="_images/24949.png" src="_images/24949.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Sarakstu attēlošana kokveida formā Funkcijas Dati / Funkcijas</p>
+<a class="reference internal image-reference" href="_images/24950.png"><img alt="_images/24950.png" src="_images/24950.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Dažādu darba režīmu izsaukšanai Paņemt Dati / Paņemt Alt+M</p>
+<a class="reference internal image-reference" href="_images/24951.png"><img alt="_images/24951.png" src="_images/24951.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Ieraksta pārzīmēšana Kolonnas Dati / Kolonnas Ctrl+K</p>
+<a class="reference internal image-reference" href="_images/24952.png"><img alt="_images/24952.png" src="_images/24952.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Kolonnu konfigurēšana
 EDS</p>
 <p>Iezīmēšana</p>
 <p>Dati / EDS</p>
 <p>Dati / Multi iez.</p>
 <p>Ctrl+Y</p>
-<p><a class="reference internal" href="_images/24954.png"><img alt="images_ozols/24954.png" src="_images/24954.png" style="width: 22.0px; height: 15.0px;" /></a></p>
-<p><a class="reference internal" href="_images/25897.png"><img alt="images_ozols/25897.png" src="_images/25897.png" style="width: 14.0px; height: 16.0px;" /></a></p>
+<a class="reference internal image-reference" href="_images/24954.png"><img alt="_images/24954.png" src="_images/24954.png" style="width: 22.0px; height: 15.0px;" /></a>
+<a class="reference internal image-reference" href="_images/25897.png"><img alt="_images/25897.png" src="_images/25897.png" style="width: 14.0px; height: 16.0px;" /></a>
 <p>Elektroniskā deklerēšanas sistēma</p>
 <p>Multi iezīmēšana
-LDL Dati / LDL forma Ctrl+L <a class="reference internal" href="_images/24955.png"><img alt="images_ozols/24955.png" src="_images/24955.png" style="width: 21.0px; height: 14.0px;" /></a> Ieraksta
-informācija Dati / Ier.info Ctrl+I <a class="reference internal" href="_images/24956.png"><img alt="images_ozols/24956.png" src="_images/24956.png" style="width: 16.0px; height: 16.0px;" /></a> Ieraksta
-informācija Beigt darbu Dati /Izeja Alt+F4 <a class="reference internal" href="_images/24957.png"><img alt="images_ozols/24957.png" src="_images/24957.png" style="width: 16.0px; height: 16.0px;" /></a>
-Datorprogrammas aizvēršana Atsaukt Teksts /Atsaukt Ctrl+Z Teksta
+LDL Dati / LDL forma Ctrl+L</p>
+<a class="reference internal image-reference" href="_images/24955.png"><img alt="_images/24955.png" src="_images/24955.png" style="width: 21.0px; height: 14.0px;" /></a>
+<p>Ieraksta informācija Dati / Ier.info Ctrl+I</p>
+<a class="reference internal image-reference" href="_images/24956.png"><img alt="_images/24956.png" src="_images/24956.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Ieraksta informācija Beigt darbu Dati /Izeja Alt+F4</p>
+<a class="reference internal image-reference" href="_images/24957.png"><img alt="_images/24957.png" src="_images/24957.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Datorprogrammas aizvēršana Atsaukt Teksts /Atsaukt Ctrl+Z Teksta
 atsaukšana Atsaukt atsaukto Teksts /Atsaukt atsaukto Ctrl+R Atsauktā
 teksta atjaunošana Izgriezt Teksts /Izgriezt Ctrl+X Teksta izgriešana
 Kopēt Teksts / Kopēt Ctrl+C Teksta kopēšana Nolikt Teksts /Nolikt
 Ctrl+V Teksta nolikšana Notīrīt Teksts / Notīrīt Teksta notīrīšana
 Iezīmēt visu Teksts / Iezīmēt visu Ctrl+A Visa teksta iezīmēšana
-Pārvietot Teksts / Pārvietot Teksta pārvietošana Meklēt Ctrl+M
-<a class="reference internal" href="_images/24967.png"><img alt="images_ozols/24967.png" src="_images/24967.png" style="width: 15.0px; height: 12.0px;" /></a> Ierakstu meklēšana Meklēt vēl Ctrl+F Aizstāt
-Ctrl+L Bufera reģistrs Pārlūka uzlikšana Logs / Pārlūks Ctrl+B
-<a class="reference internal" href="_images/24958.png"><img alt="images_ozols/24958.png" src="_images/24958.png" style="width: 16.0px; height: 16.0px;" /></a> Pārlūka atvēršana Pārlūka aizvēršana Logs /
-Pārlūks Ctrl+B <a class="reference internal" href="_images/24959.png"><img alt="images_ozols/24959.png" src="_images/24959.png" style="width: 16.0px; height: 16.0px;" /></a> Pārlūka aizvēršana Atpakaļ
-Logs / Atpakaļ <a class="reference internal" href="_images/24961.png"><img alt="images_ozols/24961.png" src="_images/24961.png" style="width: 16.0px; height: 16.0px;" /></a> Pāreja uz iepriekš apskatīto
-ekrāna formu Uz priekšu Logs / Uz priekšu <a class="reference internal" href="_images/24960.png"><img alt="images_ozols/24960.png" src="_images/24960.png" style="width: 16.0px; height: 16.0px;" /></a>
-Pāreja uz nākošo ekrāna formu Augstāk Logs / Augstāk
-<a class="reference internal" href="_images/24962.png"><img alt="images_ozols/24962.png" src="_images/24962.png" style="width: 16.0px; height: 16.0px;" /></a> Pāreja vienu līmeni augstāk pārlūkā Pārzīmēt
-Logs / Pārzīmēt F5 <a class="reference internal" href="_images/24963.png"><img alt="images_ozols/24963.png" src="_images/24963.png" style="width: 16.0px; height: 16.0px;" /></a> Informācijas pārzīmēšana
-Logs / Sakārtot visus Sakārtot visus logus Logs / Jauns Ctrl+N Atvērt
-jaunu ekrāna formu Nākamais Logs / Nākamais Ctrl+F1 Nākamās ekrāna
-formas aktivizēšana Noslēpt Logs / Hide Aktīvā loga noslēpšana Notīrīt
-Logs / Notīrīt Mani darbi Logs / Mani darbi F12
-<a class="reference internal" href="_images/24964.png"><img alt="images_ozols/24964.png" src="_images/24964.png" style="width: 16.0px; height: 16.0px;" /></a> Manu darbu saraksts Partnera informācija Logs
-/ Partn. info F3 <a class="reference internal" href="_images/24965.png"><img alt="images_ozols/24965.png" src="_images/24965.png" style="width: 16.0px; height: 16.0px;" /></a> Informācija par partneri
-Preces informācija Logs / Preces info F4 <a class="reference internal" href="_images/24966.png"><img alt="images_ozols/24966.png" src="_images/24966.png" style="width: 16.0px; height: 16.0px;" /></a>
-Informācija par preci</p>
+Pārvietot Teksts / Pārvietot Teksta pārvietošana Meklēt Ctrl+M</p>
+<a class="reference internal image-reference" href="_images/24967.png"><img alt="_images/24967.png" src="_images/24967.png" style="width: 15.0px; height: 12.0px;" /></a>
+<p>Ierakstu meklēšana Meklēt vēl Ctrl+F Aizstāt Ctrl+L Bufera reģistrs
+Pārlūka uzlikšana Logs / Pārlūks Ctrl+B</p>
+<a class="reference internal image-reference" href="_images/24958.png"><img alt="_images/24958.png" src="_images/24958.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Pārlūka atvēršana Pārlūka aizvēršana Logs / Pārlūks Ctrl+B</p>
+<a class="reference internal image-reference" href="_images/24959.png"><img alt="_images/24959.png" src="_images/24959.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Pārlūka aizvēršana Atpakaļ Logs / Atpakaļ</p>
+<a class="reference internal image-reference" href="_images/24961.png"><img alt="_images/24961.png" src="_images/24961.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Pāreja uz iepriekš apskatīto ekrāna formu Uz priekšu Logs / Uz priekšu</p>
+<a class="reference internal image-reference" href="_images/24960.png"><img alt="_images/24960.png" src="_images/24960.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Pāreja uz nākošo ekrāna formu Augstāk Logs / Augstāk</p>
+<a class="reference internal image-reference" href="_images/24962.png"><img alt="_images/24962.png" src="_images/24962.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Pāreja vienu līmeni augstāk pārlūkā Pārzīmēt Logs / Pārzīmēt F5</p>
+<a class="reference internal image-reference" href="_images/24963.png"><img alt="_images/24963.png" src="_images/24963.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Informācijas pārzīmēšana Logs / Sakārtot visus Sakārtot visus logus
+Logs / Jauns Ctrl+N Atvērt jaunu ekrāna formu Nākamais Logs / Nākamais
+Ctrl+F1 Nākamās ekrāna formas aktivizēšana Noslēpt Logs / Hide Aktīvā
+loga noslēpšana Notīrīt Logs / Notīrīt Mani darbi Logs / Mani darbi
+F12</p>
+<a class="reference internal image-reference" href="_images/24964.png"><img alt="_images/24964.png" src="_images/24964.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Manu darbu saraksts Partnera informācija Logs / Partn. info F3</p>
+<a class="reference internal image-reference" href="_images/24965.png"><img alt="_images/24965.png" src="_images/24965.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Informācija par partneri Preces informācija Logs / Preces info F4</p>
+<a class="reference internal image-reference" href="_images/24966.png"><img alt="_images/24966.png" src="_images/24966.png" style="width: 16.0px; height: 16.0px;" /></a>
+<p>Informācija par preci</p>
 </div>
 
 
+           </div>
+           <div class="articleComments">
+            
+           </div>
           </div>
-          <div class="page-nav">
-            <div class="inner"></script>
-<ul class="page-nav">
-  <li class="prev">
-    <a class="prev_a" href="14013.html"
-       title="previous chapter">← Darba režīmu izkārtojums un pieejamās komandas</a>
-  </li>
-  <li class="next">
-    <a class="next_a" href="14016.html"
-       title="next chapter">Darbs ar atskaitēm →</a>
-  </li>
-</ul>
-<div class="footer" role="contentinfo">
-      &#169; Copyright 2020 Ozols Grupa.
-    <br>
-  Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.1.0 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a>.
-</div>
-                <script type="text/javascript">
-                  $(function(){
-                    $('.image-reference').fancybox();
-                  })
-                </script>
-            </div>
-          </div>
-      </page>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="14016.html" class="btn btn-neutral float-right" title="Darbs ar atskaitēm" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="14013.html" class="btn btn-neutral" title="Darba režīmu izkārtojums un pieejamās komandas" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
     </div>
-    
-    
-  </body>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2020 Ozols Grupa.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'./',
+            VERSION:'1',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="_static/jquery.js"></script>
+      <script type="text/javascript" src="_static/underscore.js"></script>
+      <script type="text/javascript" src="_static/doctools.js"></script>
+      <script type="text/javascript" src="_static/language_data.js"></script>
+      <script type="text/javascript" src="_static/jquery.fancybox.min.js"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+  
+  <script type="text/javascript">
+    $(function(){
+      $('.image-reference').fancybox();
+    })
+  </script>
+
+</body>
 </html>

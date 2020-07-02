@@ -6,7 +6,9 @@ Jaunas kampaņas pievienošana:
 
 
 
-|images_ozols/25827.png|
+.. image:: images_ozols/25827.png
+    :scale: 100%
+
 
 
 
@@ -29,25 +31,16 @@ Kampaņas veids: veids no kampaņas veidu saraksta;
 :doc:`šabloniem<5014>` ;
 
 Kad visi kapmaņas dati aizpildīti, lai saglabātu kampaņu :doc:`kampaņu
-sarakstā<4470>` , jānospiež poga |images_ozols/25829.png| , un lai
-pievienotu jaunu kampaņu, tad jānospiež poga |images_ozols/25831.png|
-, bet, ja netiks pievienota jauna kampaņa, tad jānospiež poga
-|images_ozols/25828.png| . Lai dzēstu kamapņu, jānospiež poga
-|images_ozols/25830.png| .
-
-.. |images_ozols/25827.png| image:: images_ozols/25827.png
+sarakstā<4470>` , jānospiež poga .. image:: images_ozols/25829.png
     :scale: 100%
-
-.. |images_ozols/25829.png| image:: images_ozols/25829.png
+, un lai pievienotu jaunu kampaņu, tad jānospiež poga .. image::
+images_ozols/25831.png
     :scale: 100%
-
-.. |images_ozols/25831.png| image:: images_ozols/25831.png
+, bet, ja netiks pievienota jauna kampaņa, tad jānospiež poga ..
+image:: images_ozols/25828.png
     :scale: 100%
-
-.. |images_ozols/25828.png| image:: images_ozols/25828.png
+. Lai dzēstu kamapņu, jānospiež poga .. image:: images_ozols/25830.png
     :scale: 100%
-
-.. |images_ozols/25830.png| image:: images_ozols/25830.png
-    :scale: 100%
+.
 
  

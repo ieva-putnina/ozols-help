@@ -3,7 +3,9 @@ Nodefinēta algu kopīgā konfigurācija ietekmē kopējo algu aprēķinu:
 
 
 
-|images_ozols/26524.png|
+.. image:: images_ozols/26524.png
+    :scale: 100%
+
 
 
 
@@ -25,8 +27,5 @@ apliekamais ienākums gadā;
 
 VID atskaites grupēt pēc: iespējams nodefinēt pēc kā tiks grupēts
 sagatavojot VID atskaites;
-
-.. |images_ozols/26524.png| image:: images_ozols/26524.png
-    :scale: 100%
 
  

@@ -7,7 +7,9 @@ Darbību sarakststiek izmantotas :doc:`notikumu <7308>` pievienošanā
 
 
 
-|images_ozols/26185.jpg|
+.. image:: images_ozols/26185.jpg
+    :scale: 100%
+
 
 Kods: darbības nosaukuma apzīmējums, saīsinājums;
 
@@ -17,23 +19,16 @@ Darbības veids: no saraksta jāizvēlas darbības veids;
 
 Iespējams pievienot dažādas piezīmes .
 
-Lai pievienotā darbība tiktu saglabāta, jānospiež poga
-|images_ozols/25829.png| , un, ja nepieciešams pievienot vēl citu
-darbību, jānospiež poga |images_ozols/25850.png| un jāpievieno jauna
-darbība. Lai, pēc saglabāšanas, labotu pievienotāsdarbības ierakstus,
-jānospiež poga |images_ozols/25832.png| un pēc labošanas ieraksts
-jāsaglabā.
-
-.. |images_ozols/26185.jpg| image:: images_ozols/26185.jpg
+Lai pievienotā darbība tiktu saglabāta, jānospiež poga .. image::
+images_ozols/25829.png
     :scale: 100%
-
-.. |images_ozols/25829.png| image:: images_ozols/25829.png
+, un, ja nepieciešams pievienot vēl citu darbību, jānospiež poga ..
+image:: images_ozols/25850.png
     :scale: 100%
-
-.. |images_ozols/25850.png| image:: images_ozols/25850.png
+un jāpievieno jauna darbība. Lai, pēc saglabāšanas, labotu
+pievienotāsdarbības ierakstus, jānospiež poga .. image::
+images_ozols/25832.png
     :scale: 100%
-
-.. |images_ozols/25832.png| image:: images_ozols/25832.png
-    :scale: 100%
+un pēc labošanas ieraksts jāsaglabā.
 
  

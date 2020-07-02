@@ -13,7 +13,9 @@ Izvēloties dokumenta veidu Avansa maksājums, tiks atvērts jauns logs:
 
 
 
-|images_ozols/25253.png|
+.. image:: images_ozols/25253.png
+    :scale: 100%
+
 
 
 
@@ -31,7 +33,9 @@ persona, kurai šis Avansa maksājums tiks veikts:
 
 
 
-|images_ozols/25254.png|
+.. image:: images_ozols/25254.png
+    :scale: 100%
+
 
 
 
@@ -40,7 +44,9 @@ kurai šis dokuments tiks noformēts:
 
 
 
-|images_ozols/25255.png|
+.. image:: images_ozols/25255.png
+    :scale: 100%
+
 
 
 
@@ -48,7 +54,9 @@ kurai šis dokuments tiks noformēts:
 
 
 
-|images_ozols/24811.png|
+.. image:: images_ozols/24811.png
+    :scale: 100%
+
 
 
 
@@ -56,7 +64,9 @@ kurai šis dokuments tiks noformēts:
 
 
 
-|images_ozols/24812.png|
+.. image:: images_ozols/24812.png
+    :scale: 100%
+
 
 
 
@@ -64,20 +74,28 @@ Avansa pieprasījuma Satura aizpildīšana
 +++++++++++++++++++++++++++++++++++++++
 
 Lai aizpildītuAvansa pieprasījumaSaturu, dokumenta satura daļā
-nepieciešams nospiest |images_ozols/24708.png| un tiks atvērts
-operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus
-(uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:
+nepieciešams nospiest .. image:: images_ozols/24708.png
+    :scale: 100%
+un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
+satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
+ieraksta summu:
 
 
 
-|images_ozols/25256.png|
+.. image:: images_ozols/25256.png
+    :scale: 100%
 
 
 
-|images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiem
-satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
-summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
-nospiežot pogu |images_ozols/24708.png| .
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
+kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
+satura ierakstu iespējams, satura daļā nospiežot pogu .. image::
+images_ozols/24708.png
+    :scale: 100%
+.
 
 
 
@@ -89,65 +107,33 @@ Pievienotā Avansa maksājuma labošana
 Labojumus saglabātajādokumentā iespējams veikt atverot Avansa
 pieprasījumu, kurš pieejams apskatei/labošanai :doc:`Avansu
 norēķinu<232>` žurnālā. Lai veiktu labojumusAvansa
-pieprasījumā,dokumentunepieciešams atvērt, izmantojot rīku joslas pogu
-|images_ozols/24709.png| (ALT+A), unatvērtajāierakstā iespējams
-veiktnepieciešamos labojumus:
+pieprasījumā,dokumentunepieciešams atvērt, izmantojot rīku joslas
+pogu.. image:: images_ozols/24709.png
+    :scale: 100%
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus:
 
 
 
-|images_ozols/25257.png|
-
-
-
-
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams
-|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
-
-
-
-
-
-
-
-
-
-.. |images_ozols/25253.png| image:: images_ozols/25253.png
+.. image:: images_ozols/25257.png
     :scale: 100%
 
-.. |images_ozols/25254.png| image:: images_ozols/25254.png
-    :scale: 100%
 
-.. |images_ozols/25255.png| image:: images_ozols/25255.png
-    :scale: 100%
 
-.. |images_ozols/24811.png| image:: images_ozols/24811.png
-    :scale: 100%
 
-.. |images_ozols/24812.png| image:: images_ozols/24812.png
-    :scale: 100%
 
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
     :scale: 100%
+vai .. image:: images_ozols/24617.jpg
+    :scale: 100%
+.
 
-.. |images_ozols/25256.png| image:: images_ozols/25256.png
-    :scale: 100%
 
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
 
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
 
-.. |images_ozols/24709.png| image:: images_ozols/24709.png
-    :scale: 100%
 
-.. |images_ozols/25257.png| image:: images_ozols/25257.png
-    :scale: 100%
 
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
 
-.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
-    :scale: 100%
+
 
  

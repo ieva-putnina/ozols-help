@@ -8,7 +8,9 @@ Novērtēšanas anketa, kas Vadītājam jāaizpilda pašam par sevi:
 
 
 
-|images_ozols/26391.png|
+.. image:: images_ozols/26391.png
+    :scale: 100%
+
 
 
 
@@ -35,7 +37,9 @@ kolonnas ierakstiem (Piemēram, Ievadīt):
 
 
 
-|images_ozols/26401.png|
+.. image:: images_ozols/26401.png
+    :scale: 100%
+
 
 
 
@@ -48,7 +52,9 @@ režīma->Novērtēšanas anketas:
 
 
 
-|images_ozols/26377.png|
+.. image:: images_ozols/26377.png
+    :scale: 100%
+
 
 
 
@@ -64,16 +70,19 @@ darbiniekiem
 Personāla novērtēšanas anketu sarakstā Vadītājam pieejama informācija
 par pakļautībā esošo dabinieku aizpildītajām anketām.
 
-|images_ozols/24545.gif| Kamēr pakļautībā esošais darbinieks anketu
-nav aizpildījis un apstiprinājis -> sarakstā esošai anketai,
-kuraiVērtētāja tips ir "Pats"->statuss ir "Ievadīt"
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Kamēr pakļautībā esošais darbinieks anketu nav aizpildījis un
+apstiprinājis -> sarakstā esošai anketai, kuraiVērtētāja tips ir
+"Pats"->statuss ir "Ievadīt"
 
-|images_ozols/24545.gif| Tad, kad pakļautībā esošais darbinieks
-aizpilda un apstiprina savu anketu-> sarakstā par katru šo pakļautībā
-esošo darbinieku pieejamas 2 anketas - Apstiprinātā anketa, ko
-ievadījis un iesniedzis Darbinieks (Vērtētāja tips "Pats"->Statuss
-"Iesniegt") un Anketa, kuru jāievada Vadītājam (Vērtētāja tips
-"Tiešais vadītājs"->Statuss "Apstiprināts").
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Tad, kad pakļautībā esošais darbinieks aizpilda un apstiprina savu
+anketu-> sarakstā par katru šo pakļautībā esošo darbinieku pieejamas 2
+anketas - Apstiprinātā anketa, ko ievadījis un iesniedzis Darbinieks
+(Vērtētāja tips "Pats"->Statuss "Iesniegt") un Anketa, kuru jāievada
+Vadītājam (Vērtētāja tips "Tiešais vadītājs"->Statuss "Apstiprināts").
 
 
 
@@ -97,13 +106,19 @@ palīdzību izvēloties to no saraksta:
 
 
 
-|images_ozols/26380.png|
+.. image:: images_ozols/26380.png
+    :scale: 100%
 
 
 
-Lai saglabātu pievienoto ierakstu nepieciešams nospiest pogu
-|images_ozols/26381.png| . Lai atkārtoti pievienotu jaunu - nākamo
-ierakstu, nepieciešams nospiest pogu: |images_ozols/26382.png| .
+
+Lai saglabātu pievienoto ierakstu nepieciešams nospiest pogu ..
+image:: images_ozols/26381.png
+    :scale: 100%
+. Lai atkārtoti pievienotu jaunu - nākamo ierakstu, nepieciešams
+nospiest pogu: .. image:: images_ozols/26382.png
+    :scale: 100%
+.
 
 
 
@@ -114,7 +129,9 @@ vērtējumu no saraksta:
 
 
 
-|images_ozols/26383.png|
+.. image:: images_ozols/26383.png
+    :scale: 100%
+
 
 
 
@@ -124,15 +141,18 @@ nepieciešams ievadi veicinošos un kavējošos faktorus.
 
 
 
-4) Kompetences -> Obligāti aizpildāmie lauki atzīmēti ar
-|images_ozols/26384.png| - brīvā formā nepieciešams ievadīt satura
-informāciju par katru no kompetencēm. Iepazīties ar katras kompetences
-pilnu aprakstuiespējams, ar peli uzejot uz atbilstošās kompetences
-nosaukumu:
+4) Kompetences -> Obligāti aizpildāmie lauki atzīmēti ar .. image::
+images_ozols/26384.png
+    :scale: 100%
+- brīvā formā nepieciešams ievadīt satura informāciju par katru no
+kompetencēm. Iepazīties ar katras kompetences pilnu aprakstuiespējams,
+ar peli uzejot uz atbilstošās kompetences nosaukumu:
 
 
 
-|images_ozols/26385.png|
+.. image:: images_ozols/26385.png
+    :scale: 100%
+
 
 
 
@@ -150,13 +170,19 @@ ierakstīt: Apmācību vajadzību, Attīstības darbību, kā arī Pamatojumu.
 
 
 
-|images_ozols/26386.png|
+.. image:: images_ozols/26386.png
+    :scale: 100%
 
 
 
-Lai saglabātu pievienoto ierakstu nepieciešams nospiest pogu
-|images_ozols/26381.png| . Lai atkārtoti pievienotu jaunu - nākamo
-iierakstu, nepieciešams nospiest pogu: |images_ozols/26382.png| .
+
+Lai saglabātu pievienoto ierakstu nepieciešams nospiest pogu ..
+image:: images_ozols/26381.png
+    :scale: 100%
+. Lai atkārtoti pievienotu jaunu - nākamo iierakstu, nepieciešams
+nospiest pogu: .. image:: images_ozols/26382.png
+    :scale: 100%
+.
 
 
 
@@ -182,14 +208,18 @@ nepieciešams ievadi informāciju.
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Pēc Novērtēšanas anketas aizpildīšanas par pakļautībā esošo
-Darbinieku, anketu iespējams saglabāt un izdrukāt, nospiežot pogu:
-|images_ozols/26393.png| .
+Darbinieku, anketu iespējams saglabāt un izdrukāt, nospiežot pogu: ..
+image:: images_ozols/26393.png
+    :scale: 100%
+.
 
 
 
-|images_ozols/24545.gif| Novērtēšanas anketa par darbinieku uz šo
-brīdi vēl nav līdz galam apstiprināta, bet tiek izdrukāta, lai ar
-darbinieku varētu apspriest novērtējuma rezultātu.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Novērtēšanas anketa par darbinieku uz šo brīdi vēl nav līdz galam
+apstiprināta, bet tiek izdrukāta, lai ar darbinieku varētu apspriest
+novērtējuma rezultātu.
 
 
 
@@ -200,11 +230,15 @@ apakšējās daļas Komentāru laukā:
 
 
 
-|images_ozols/26394.png|
+.. image:: images_ozols/26394.png
+    :scale: 100%
 
-|images_ozols/24545.gif| Pirms anketas apstiprināšanas un drukāšanas
--> Nepieciešams pārliecināties vai visa informācija ir aizpildīta.
-Tiklīdz anketa tiek apstiprināta, to vairsNAV iespējams labot.
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Pirms anketas apstiprināšanas un drukāšanas -> Nepieciešams
+pārliecināties vai visa informācija ir aizpildīta. Tiklīdz anketa tiek
+apstiprināta, to vairsNAV iespējams labot.
 
 
 
@@ -215,7 +249,9 @@ augšējā daļā pieejamo pogu:
 
 
 
-|images_ozols/26395.png|
+.. image:: images_ozols/26395.png
+    :scale: 100%
+
 
 
 
@@ -223,73 +259,14 @@ Pēc pogas nospiešanas, tiks uzdots kontroljautājums "Apstiprināt
 anketu?" -> atbildot apstiprinoši, tiks apstiprināta aizpildītā anketa
 - tā vairs nebūs pieejama labošanai un būs iespējams izdrukāt
 Novērtēšanas anketas protokolu, izmantojot anketas augšējā daļā
-pieejamo pogu: |images_ozols/26389.png| un izvēloties izdrukas formu:
+pieejamo pogu: .. image:: images_ozols/26389.png
+    :scale: 100%
+un izvēloties izdrukas formu:
 
 
 
-|images_ozols/26396.png|
-
-.. |images_ozols/26391.png| image:: images_ozols/26391.png
+.. image:: images_ozols/26396.png
     :scale: 100%
 
-.. |images_ozols/26401.png| image:: images_ozols/26401.png
-    :scale: 100%
-
-.. |images_ozols/26377.png| image:: images_ozols/26377.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/26380.png| image:: images_ozols/26380.png
-    :scale: 100%
-
-.. |images_ozols/26381.png| image:: images_ozols/26381.png
-    :scale: 100%
-
-.. |images_ozols/26382.png| image:: images_ozols/26382.png
-    :scale: 100%
-
-.. |images_ozols/26383.png| image:: images_ozols/26383.png
-    :scale: 100%
-
-.. |images_ozols/26384.png| image:: images_ozols/26384.png
-    :scale: 100%
-
-.. |images_ozols/26385.png| image:: images_ozols/26385.png
-    :scale: 100%
-
-.. |images_ozols/26386.png| image:: images_ozols/26386.png
-    :scale: 100%
-
-.. |images_ozols/26381.png| image:: images_ozols/26381.png
-    :scale: 100%
-
-.. |images_ozols/26382.png| image:: images_ozols/26382.png
-    :scale: 100%
-
-.. |images_ozols/26393.png| image:: images_ozols/26393.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/26394.png| image:: images_ozols/26394.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/26395.png| image:: images_ozols/26395.png
-    :scale: 100%
-
-.. |images_ozols/26389.png| image:: images_ozols/26389.png
-    :scale: 100%
-
-.. |images_ozols/26396.png| image:: images_ozols/26396.png
-    :scale: 100%
 
  .. toctree::   :maxdepth: 3    5182.rst

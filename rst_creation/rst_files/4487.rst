@@ -3,7 +3,9 @@
 Nomenklatūras norakstīšanas dokumenta virsraksta aizpildīšana
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-|images_ozols/25791.png|
+.. image:: images_ozols/25791.png
+    :scale: 100%
+
 
 
 
@@ -16,7 +18,9 @@ nomainīt, nospiežot uz „Kalendāra” pogas lauka „Datums” labajā pusē
 
 
 
-|images_ozols/25792.png|
+.. image:: images_ozols/25792.png
+    :scale: 100%
+
 
 
 
@@ -34,7 +38,9 @@ tiesības):
 
 
 
-|images_ozols/25793.png|
+.. image:: images_ozols/25793.png
+    :scale: 100%
+
 
 
 
@@ -48,7 +54,9 @@ saglabāt:
 
 
 
-|images_ozols/25797.png|
+.. image:: images_ozols/25797.png
+    :scale: 100%
+
 
 
 
@@ -74,21 +82,26 @@ daudzumu, automātiski tiks uzrādīts atlikušais daudzums (Beigu atl.):
 
 
 
-|images_ozols/25798.png|
+.. image:: images_ozols/25798.png
+    :scale: 100%
 
 
 
-Pēc pogas |images_ozols/25799.png| nospiešanas, lietotājam ir iespēja
-pārbaudīt vai norakstāmie daudzumi ir atzīmēti korekti un,
-nepieciešamības gadījumā, vēl ir iespēja veikt labojumus.
+
+Pēc pogas.. image:: images_ozols/25799.png
+    :scale: 100%
+nospiešanas, lietotājam ir iespēja pārbaudīt vai norakstāmie daudzumi
+ir atzīmēti korekti un, nepieciešamības gadījumā, vēl ir iespēja veikt
+labojumus.
 
 
 
-|images_ozols/24545.gif| Kad lietotājs ir pārliecinājies, ka visi
-norakstāmie daudzumi ir ievadīti pareizi un labojumus/izmaiņas vairs
-nebūs nepieciešams veikt, dokumentu ir nepieciešams Apstiprināt, lai
-to varētu Izdrukāt - PĒC DOKUMENTA APSTIPRINĀŠANAS IERAKSTUS LABOT
-VAIRS NAV IESPĒJAMS!
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Kad lietotājs ir pārliecinājies, ka visi norakstāmie daudzumi ir
+ievadīti pareizi un labojumus/izmaiņas vairs nebūs nepieciešams veikt,
+dokumentu ir nepieciešams Apstiprināt, lai to varētu Izdrukāt - PĒC
+DOKUMENTA APSTIPRINĀŠANAS IERAKSTUS LABOT VAIRS NAV IESPĒJAMS!
 
 
 
@@ -98,26 +111,5 @@ Pēc dokumenta apstiprināšanas, dokumentu iespējams izdrukāt:
 
 Saglabātie dokumenti apskatei pieeja:doc:`Iekšējās kustības dokumentu
 žurnālā<4455>` .
-
-.. |images_ozols/25791.png| image:: images_ozols/25791.png
-    :scale: 100%
-
-.. |images_ozols/25792.png| image:: images_ozols/25792.png
-    :scale: 100%
-
-.. |images_ozols/25793.png| image:: images_ozols/25793.png
-    :scale: 100%
-
-.. |images_ozols/25797.png| image:: images_ozols/25797.png
-    :scale: 100%
-
-.. |images_ozols/25798.png| image:: images_ozols/25798.png
-    :scale: 100%
-
-.. |images_ozols/25799.png| image:: images_ozols/25799.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
 
  

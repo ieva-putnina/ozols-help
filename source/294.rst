@@ -10,16 +10,22 @@ iespēja koriģēt pēc aktīvā perioda aktuālās informācijas.
 Pārskaitījumu žurnālā tiek pievienots katra strādājošā ikmēneša avansa
 summa. Izvēloties slodzi lietotājam laukā Bankas konts ir iespēja
 nodefinēt strādājošā bankas kontu uz kuru tiks pārskaitīts avanss.
-|images_ozols/24545.gif| Veidojot avansu izmaksas ierakstu obligāti
-sadaļā Maksājuma tips ir jānorāda Avanss.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Veidojot avansu izmaksas ierakstu obligāti sadaļā Maksājuma tips ir
+jānorāda Avanss.
 
 
 JaunuPārskaitījumu strādājošajam iespējams pievienot, rīku joslā
-nospiežot pogu: |images_ozols/25605.png|
+nospiežot pogu: .. image:: images_ozols/25605.png
+    :scale: 100%
 
 
 
-|images_ozols/26252.png|
+
+.. image:: images_ozols/26252.png
+    :scale: 100%
+
 
 
 
@@ -41,22 +47,11 @@ noteiktaispārskaitījums būs spēkā, šo datumuvar neaizpildīt
 
 
 
-|images_ozols/24545.gif| Daudzdimensiju uzskaitē (budžeti, ekonomiskās
-klasifikācijas kodi, utt.) lietotājam papildus obligāti veidojot
-avansu izmaksas ierakstu jānorāda no kādām dimensijām avanss tiks
-veidots. Jānorāda summa, un jānorāda periods, kurā nodefinētā avansa
-summa ir aktīva.
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+.. image:: images_ozols/24545.gif
     :scale: 100%
-
-.. |images_ozols/25605.png| image:: images_ozols/25605.png
-    :scale: 100%
-
-.. |images_ozols/26252.png| image:: images_ozols/26252.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
+Daudzdimensiju uzskaitē (budžeti, ekonomiskās klasifikācijas kodi,
+utt.) lietotājam papildus obligāti veidojot avansu izmaksas ierakstu
+jānorāda no kādām dimensijām avanss tiks veidots. Jānorāda summa, un
+jānorāda periods, kurā nodefinētā avansa summa ir aktīva.
 
  

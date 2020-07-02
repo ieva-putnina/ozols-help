@@ -9,7 +9,9 @@ kodu (saīsināts nosaukums) un Nosaukumu:
 
 
 
-|images_ozols/25457.png|
+.. image:: images_ozols/25457.png
+    :scale: 100%
+
 
 
 
@@ -18,20 +20,15 @@ faktisko vērtību:
 
 
 
-|images_ozols/25458.png|
+.. image:: images_ozols/25458.png
+    :scale: 100%
+
 
 
 
 Ieraksts tiks saglabāts :doc:`Akciju veidu<7005>` sarakstā, izpildot
-komandu |images_ozols/24710.png| .
-
-.. |images_ozols/25457.png| image:: images_ozols/25457.png
+komandu .. image:: images_ozols/24710.png
     :scale: 100%
-
-.. |images_ozols/25458.png| image:: images_ozols/25458.png
-    :scale: 100%
-
-.. |images_ozols/24710.png| image:: images_ozols/24710.png
-    :scale: 100%
+.
 
  

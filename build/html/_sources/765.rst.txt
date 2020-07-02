@@ -6,12 +6,16 @@ Citas informācijasdokumentu žurnālā tiek saglabāti visa
 
 Lai atlasītu dokumentus, jāizmanto datu atlases filtrs. Dati uz ekrāna
 tiek parādīti atbilstoši norādītajiem datu atlases kritērijiem filtra
-ekrāna formā. Rīku joslā nopiežot pogu |images_ozols/24535.gif|
+ekrāna formā. Rīku joslā nopiežot pogu.. image::
+images_ozols/24535.gif
+    :scale: 100%
 (Ctrl+F), tiek atvērts filtra logs:
 
 
 
-|images_ozols/26087.png|
+.. image:: images_ozols/26087.png
+    :scale: 100%
+
 
 
 
@@ -32,8 +36,10 @@ no...līdz.
 
 
 Lai Dokumentu žurnālā datus atlasītu pēc izvēlētajiem datu atlases
-kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga
-|images_ozols/25944.png| .
+kritērijiem, pēc filtra iestādījumu aizpildīšanas, jānospiež poga ..
+image:: images_ozols/25944.png
+    :scale: 100%
+.
 
 
 
@@ -49,10 +55,14 @@ pievienotpapildus(citu)informāciju par strādājošo:
 
 
 
-|images_ozols/25778.png|
+.. image:: images_ozols/25778.png
+    :scale: 100%
+
 
 2. Atrodoties:doc:`Citas informācijas dokumentu žurnālā<765>` un rīku
-joslānospiežot pogu |images_ozols/24708.png| :
+joslānospiežot pogu.. image:: images_ozols/24708.png
+    :scale: 100%
+:
 
 
 
@@ -61,37 +71,20 @@ Izvēloties pievienot Citu informāciju, jāizvēlas attiecīgais
 
 
 
-|images_ozols/26088.png|
+.. image:: images_ozols/26088.png
+    :scale: 100%
+
 
 
 
 Izvēloties veidu, atzīmējot datumu un izveidojot aprakstu, datus
-jāsaglabā, nospiežot pogu |images_ozols/25621.png| .
+jāsaglabā, nospiežot pogu .. image:: images_ozols/25621.png
+    :scale: 100%
+.
 
 
 
 Pievienotie un saglabātie dati tiek saglabāti:doc:`Cita
 informācijas<765>` dokumentos.
-
-.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
-    :scale: 100%
-
-.. |images_ozols/26087.png| image:: images_ozols/26087.png
-    :scale: 100%
-
-.. |images_ozols/25944.png| image:: images_ozols/25944.png
-    :scale: 100%
-
-.. |images_ozols/25778.png| image:: images_ozols/25778.png
-    :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/26088.png| image:: images_ozols/26088.png
-    :scale: 100%
-
-.. |images_ozols/25621.png| image:: images_ozols/25621.png
-    :scale: 100%
 
  

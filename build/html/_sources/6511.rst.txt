@@ -6,7 +6,9 @@ saņemtās Polises no Apdrošināšanas sabiedrībām:
 
 
 
-|images_ozols/25450.png|
+.. image:: images_ozols/25450.png
+    :scale: 100%
+
 
 
 
@@ -15,7 +17,9 @@ Polišu veidu:
 
 
 
-|images_ozols/25451.png|
+.. image:: images_ozols/25451.png
+    :scale: 100%
+
 
 
 
@@ -23,7 +27,9 @@ Polišu veidu:
 
 
 
-|images_ozols/25452.png|
+.. image:: images_ozols/25452.png
+    :scale: 100%
+
 
 
 
@@ -31,7 +37,9 @@ Polišu veidu:
 
 
 
-|images_ozols/25453.png|
+.. image:: images_ozols/25453.png
+    :scale: 100%
+
 
 
 
@@ -40,7 +48,9 @@ var neaizpildīt)
 
 
 
-|images_ozols/25454.png|
+.. image:: images_ozols/25454.png
+    :scale: 100%
+
 
 
 
@@ -50,34 +60,16 @@ numura zīmju skaita vērtība:
 
 
 
-|images_ozols/25455.png|
-
-
-
-6. Nospiežot pogu |images_ozols/25456.png| , Noliktavā tiks
-pievienotas saņemtās Polises.
-
-
-
-.. |images_ozols/25450.png| image:: images_ozols/25450.png
+.. image:: images_ozols/25455.png
     :scale: 100%
 
-.. |images_ozols/25451.png| image:: images_ozols/25451.png
-    :scale: 100%
 
-.. |images_ozols/25452.png| image:: images_ozols/25452.png
-    :scale: 100%
 
-.. |images_ozols/25453.png| image:: images_ozols/25453.png
-    :scale: 100%
 
-.. |images_ozols/25454.png| image:: images_ozols/25454.png
+6. Nospiežot pogu .. image:: images_ozols/25456.png
     :scale: 100%
+, Noliktavā tiks pievienotas saņemtās Polises.
 
-.. |images_ozols/25455.png| image:: images_ozols/25455.png
-    :scale: 100%
 
-.. |images_ozols/25456.png| image:: images_ozols/25456.png
-    :scale: 100%
 
  

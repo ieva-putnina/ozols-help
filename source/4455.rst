@@ -11,11 +11,10 @@ norādītajiem datu atlases kritērijiem filtra ekrāna formā:
 
 
 
-|images_ozols/25820.png|
-
-
-
-.. |images_ozols/25820.png| image:: images_ozols/25820.png
+.. image:: images_ozols/25820.png
     :scale: 100%
+
+
+
 
  

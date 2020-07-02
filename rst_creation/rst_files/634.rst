@@ -1,11 +1,15 @@
 .. 634 ============Tautības============ 
-Lai pievienotu jaunu Tautību sarakstam, Rīku joslā jānospiež poga
-|images_ozols/25417.png| , tiek atvērts logs:
+Lai pievienotu jaunu Tautību sarakstam, Rīku joslā jānospiež poga ..
+image:: images_ozols/25417.png
+    :scale: 100%
+, tiek atvērts logs:
 
 
 
 
-|images_ozols/26532.png|
+.. image:: images_ozols/26532.png
+    :scale: 100%
+
 
 
 
@@ -16,8 +20,10 @@ Sieviešu : sieviešu tautība
 
 Tautību saraksts tiek veidots gan vīriešu gan sieviešu dzimtā.
 
-Kad ir ierakstīta attiecīgā tautība,jānospiež poga
-|images_ozols/24615.jpg| .
+Kad ir ierakstīta attiecīgā tautība,jānospiež poga .. image::
+images_ozols/24615.jpg
+    :scale: 100%
+.
 
 
 
@@ -27,7 +33,9 @@ iespējams norādīt tautību:
 
 
 
-|images_ozols/26533.png|
+.. image:: images_ozols/26533.png
+    :scale: 100%
+
 
 
 
@@ -36,22 +44,9 @@ Arī :doc:`Partnera<312>` aprakstā ir iespējams norādīt tautību:
 
 
 
-|images_ozols/26534.png|
-
-
-.. |images_ozols/25417.png| image:: images_ozols/25417.png
+.. image:: images_ozols/26534.png
     :scale: 100%
 
-.. |images_ozols/26532.png| image:: images_ozols/26532.png
-    :scale: 100%
 
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/26533.png| image:: images_ozols/26533.png
-    :scale: 100%
-
-.. |images_ozols/26534.png| image:: images_ozols/26534.png
-    :scale: 100%
 
  

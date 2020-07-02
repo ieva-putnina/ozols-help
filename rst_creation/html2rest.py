@@ -253,7 +253,7 @@ class Parser(SGMLParser):
                 href = self.relroot + href
             elif '://' not in href:
                 href = self.relpath + href
-        self.data(':doc:`')
+        self.data('  :doc:`')
         self.hrefs['#pending'] = href
         
 
@@ -262,10 +262,10 @@ class Parser(SGMLParser):
         if '#pending' in self.hrefs:
             if self.hrefs['#pending'].find("skf_id=") != -1:
                 pos = self.hrefs['#pending'].find("skf_id=")
-                self.data('<' + self.hrefs['#pending'][pos+7:] + '>` ')
+                self.data('<' + self.hrefs['#pending'][pos+7:] + '>`  ')
                 #print('<' + self.hrefs['#pending'][pos+7:] + '>`')
             else:
-                self.data('`')
+                self.data('`  ')
             del self.hrefs['#pending']
 
     def start_pre(self, attrs):

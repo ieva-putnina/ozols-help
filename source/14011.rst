@@ -6,7 +6,9 @@ Piemēram, izvēlnes komanda
 
 
 
-|images_ozols/25305.png|
+.. image:: images_ozols/25305.png
+    :scale: 100%
+
 
 
 
@@ -19,8 +21,5 @@ tiks apzīmēta kā
 
 
 vai atsevišķos gadījumos uzreiz tekstā: >Dati > Drukāt.
-
-.. |images_ozols/25305.png| image:: images_ozols/25305.png
-    :scale: 100%
 
  

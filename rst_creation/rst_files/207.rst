@@ -13,16 +13,24 @@ darba dienas nedēļā, 8 stundas dienā.
 No strādājošā slodzes var atvērt strādājošajam izveidotos
 :doc:`Nodokļu dokumentus<208>` , :doc:`rīkojumus<209>` , :doc:`algu
 aprēķinu<212>` un :doc:`kalendāru<218>` . Lai atvērtu strādājošā
-slodzi, jāizvēlas strādājošais un rīku joslā jānospiež poga
-|images_ozols/25603.png| .
+slodzi, jāizvēlas strādājošais un rīku joslā jānospiež poga .. image::
+images_ozols/25603.png
+    :scale: 100%
+.
 
-Slodzes var pievienot rīku joslā nospiežot pogu
-|images_ozols/25605.png| un izvēloties strādājošo, vai
-:doc:`strādājošā<111>` aprakstā caur pogu |images_ozols/25643.png| :
+Slodzes var pievienot rīku joslā nospiežot pogu .. image::
+images_ozols/25605.png
+    :scale: 100%
+un izvēloties strādājošo, vai :doc:`strādājošā<111>` aprakstā caur
+pogu.. image:: images_ozols/25643.png
+    :scale: 100%
+:
 
 
 
-|images_ozols/25682.png|
+.. image:: images_ozols/25682.png
+    :scale: 100%
+
 
 
 
@@ -53,8 +61,10 @@ Neizm. atv.dienas: neizmantotās atvaļinājuma dienas( tiek lietotas
 
 Nodokļu dok.: strādājošā nodokļu dokuments;
 
-|images_ozols/24545.gif| Nodokļu dokumentu jāpievieno obligāti,
-pretējā gadījumā nebūs iespējams veikt :doc:`algas aprēķinu<212>` .
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Nodokļu dokumentu jāpievieno obligāti, pretējā gadījumā nebūs
+iespējams veikt :doc:`algas aprēķinu<212>` .
 
 Stājas spēkā: no kura datuma stājas spēka;
 
@@ -62,96 +72,64 @@ Atlaists_ ar rīkojumu: atlaišanas datums un rīkojums.
 
 
 
-Caur pogu |images_ozols/25684.png| tiek pievienoti vai atvērti
-rīkojumi. Rīkojumui tiek saglabāti:doc:` rīkojumu žurnālā<209>` .
-Rikojums obligāti jāapstiprina.
+Caur pogu.. image:: images_ozols/25684.png
+    :scale: 100%
+tiek pievienoti vai atvērti rīkojumi. Rīkojumui tiek saglabāti:doc:`
+rīkojumu žurnālā<209>` . Rikojums obligāti jāapstiprina.
 
 
 
-Caur pogu |images_ozols/25695.png| tiek pievienoti vai atvērti nodokļu
-dokumenti. Pievienojot nodokļu dokumentu, ir iespējams izvēlēties tā
-veidu:
+Caur pogu .. image:: images_ozols/25695.png
+    :scale: 100%
+tiek pievienoti vai atvērti nodokļu dokumenti. Pievienojot nodokļu
+dokumentu, ir iespējams izvēlēties tā veidu:
 
 
 
-|images_ozols/25735.png|
-
-
-
-Caur pogu |images_ozols/25696.png| tiek pievienoti vai atvērti darba
-līgumi. Lai pievienotu līgumu, rīku joslā jānospiež poga
-|images_ozols/25605.png| , jāaizpilda saturs un jāsaglabā līgums,
-nospiežot pogu |images_ozols/25621.png| . Visi pievienotie darba
-līgumi tiek saglabāti :doc:`darba līgumu žurnālā<251>` .
-
-Caur pogu |images_ozols/25697.png| iespējams atvērt vai pievienot algu
-tarifikāciju.
-
-
-
-Caur pogu |images_ozols/25698.png| iespējams redzē visus izvēlētās
-slodzes pārskaitījumums.
-
-
-
-Caur pogu |images_ozols/25699.png| tiek atvērts darba laika uzskaites
-tabele.
-
-
-
-Caur pogu |images_ozols/25700.png| tiek atvērts algas aprēķins.
-
-
-
-Caur pogu |images_ozols/25701.png| tiek atvērts izvēlētas slodzes
-personīgais konts, kur iespējams sagatavot dažādas izdrukas.
-
-.. |images_ozols/25603.png| image:: images_ozols/25603.png
+.. image:: images_ozols/25735.png
     :scale: 100%
 
-.. |images_ozols/25605.png| image:: images_ozols/25605.png
-    :scale: 100%
 
-.. |images_ozols/25643.png| image:: images_ozols/25643.png
-    :scale: 100%
 
-.. |images_ozols/25682.png| image:: images_ozols/25682.png
-    :scale: 100%
 
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+Caur pogu .. image:: images_ozols/25696.png
     :scale: 100%
+tiek pievienoti vai atvērti darba līgumi. Lai pievienotu līgumu, rīku
+joslā jānospiež poga .. image:: images_ozols/25605.png
+    :scale: 100%
+, jāaizpilda saturs un jāsaglabā līgums, nospiežot pogu .. image::
+images_ozols/25621.png
+    :scale: 100%
+. Visi pievienotie darba līgumi tiek saglabāti :doc:`darba līgumu
+žurnālā<251>` .
 
-.. |images_ozols/25684.png| image:: images_ozols/25684.png
+Caur pogu .. image:: images_ozols/25697.png
     :scale: 100%
+iespējams atvērt vai pievienot algu tarifikāciju.
 
-.. |images_ozols/25695.png| image:: images_ozols/25695.png
-    :scale: 100%
 
-.. |images_ozols/25735.png| image:: images_ozols/25735.png
-    :scale: 100%
 
-.. |images_ozols/25696.png| image:: images_ozols/25696.png
+Caur pogu .. image:: images_ozols/25698.png
     :scale: 100%
+iespējams redzē visus izvēlētās slodzes pārskaitījumums.
 
-.. |images_ozols/25605.png| image:: images_ozols/25605.png
-    :scale: 100%
 
-.. |images_ozols/25621.png| image:: images_ozols/25621.png
-    :scale: 100%
 
-.. |images_ozols/25697.png| image:: images_ozols/25697.png
+Caur pogu .. image:: images_ozols/25699.png
     :scale: 100%
+tiek atvērts darba laika uzskaites tabele.
 
-.. |images_ozols/25698.png| image:: images_ozols/25698.png
-    :scale: 100%
 
-.. |images_ozols/25699.png| image:: images_ozols/25699.png
-    :scale: 100%
 
-.. |images_ozols/25700.png| image:: images_ozols/25700.png
+Caur pogu .. image:: images_ozols/25700.png
     :scale: 100%
+tiek atvērts algas aprēķins.
 
-.. |images_ozols/25701.png| image:: images_ozols/25701.png
+
+
+Caur pogu .. image:: images_ozols/25701.png
     :scale: 100%
+tiek atvērts izvēlētas slodzes personīgais konts, kur iespējams
+sagatavot dažādas izdrukas.
 
  

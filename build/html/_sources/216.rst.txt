@@ -9,19 +9,16 @@ kuram dati tiks atlasīti:
 
 
 
-|images_ozols/26408.png|
-
-
-
-Nospiežot pogu |images_ozols/25944.png| , tiks atlasīts izvēlētais
-saraksts.
-
-
-
-.. |images_ozols/26408.png| image:: images_ozols/26408.png
+.. image:: images_ozols/26408.png
     :scale: 100%
 
-.. |images_ozols/25944.png| image:: images_ozols/25944.png
+
+
+
+Nospiežot pogu .. image:: images_ozols/25944.png
     :scale: 100%
+, tiks atlasīts izvēlētais saraksts.
+
+
 
  

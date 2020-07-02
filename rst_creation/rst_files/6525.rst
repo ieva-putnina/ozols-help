@@ -19,7 +19,9 @@ prasībām;
 
 
 
-|images_ozols/26411.png|
+.. image:: images_ozols/26411.png
+    :scale: 100%
+
 
 
 
@@ -28,7 +30,9 @@ saglabāto polišu datu failu:
 
 
 
-|images_ozols/26412.png|
+.. image:: images_ozols/26412.png
+    :scale: 100%
+
 
 
 
@@ -38,9 +42,10 @@ orderi.
 
 
 
-|images_ozols/24545.gif| Ja nav nepieciešams polišu rēķinus saistīt ar
-:doc:`Kases ieņēmumie<350>` /apmaksām, tad pie polišu importa nav
-jānorāda Kase.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Ja nav nepieciešams polišu rēķinus saistīt ar :doc:`Kases
+ieņēmumie<350>` /apmaksām, tad pie polišu importa nav jānorāda Kase.
 
 
 
@@ -49,7 +54,9 @@ maksājumos/:doc:`rēķinos<304>` :
 
 
 
-|images_ozols/26413.png|
+.. image:: images_ozols/26413.png
+    :scale: 100%
+
 
 
 
@@ -59,26 +66,13 @@ cik ilgā laikā ir veikst polišu imports.
 
 
 
-|images_ozols/24545.gif| Iportētajām polisēm netiek automātiski
-izveidots :doc:`POP<14080>` (polišu parakstīšanas) grāmatojums. Lai
-izveidotu POP grāmatojumus importētajām polisēm. :doc:`Polišu
-atskaitē<6513>` pēc konkrētiem parametriem jāatlasa polises, kuras
-tika importētas, jāiezīmē un, rīku joslā nospiežot funkcijas pogu,
-jāizvēlas funkcija Izveidot POP grāmatojumu.
-
-.. |images_ozols/26411.png| image:: images_ozols/26411.png
+.. image:: images_ozols/24545.gif
     :scale: 100%
-
-.. |images_ozols/26412.png| image:: images_ozols/26412.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/26413.png| image:: images_ozols/26413.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
+Iportētajām polisēm netiek automātiski izveidots :doc:`POP<14080>`
+(polišu parakstīšanas) grāmatojums. Lai izveidotu POP grāmatojumus
+importētajām polisēm. :doc:`Polišu atskaitē<6513>` pēc konkrētiem
+parametriem jāatlasa polises, kuras tika importētas, jāiezīmē un, rīku
+joslā nospiežot funkcijas pogu, jāizvēlas funkcija Izveidot POP
+grāmatojumu.
 
  

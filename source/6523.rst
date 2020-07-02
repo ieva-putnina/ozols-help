@@ -14,8 +14,9 @@ Padarīts, Plānošana, Debitori un Komisijas)
 
 
 
-Laukā |images_ozols/25899.png| , iespējams izvēlēties attiecīgo
-brokeri par kuru dati tiks atlasīti.
+Laukā .. image:: images_ozols/25899.png
+    :scale: 100%
+, iespējams izvēlēties attiecīgo brokeri par kuru dati tiks atlasīti.
 
 
 
@@ -28,7 +29,9 @@ termiņa periodu, tiks atlasīti dati pēc norādītajiem kritērijiem:
 
 
 
-|images_ozols/26425.png|
+.. image:: images_ozols/26425.png
+    :scale: 100%
+
 
 
 
@@ -44,7 +47,9 @@ periodu, iespēja atlasīt visas izvēlētā perioda datus.
 
 
 
-|images_ozols/26426.png|
+.. image:: images_ozols/26426.png
+    :scale: 100%
+
 
 
 
@@ -62,7 +67,9 @@ uzdevumiem un informācija par veidotajiem piedāvājumiem.
 
 
 
-|images_ozols/26427.png|
+.. image:: images_ozols/26427.png
+    :scale: 100%
+
 
 
 
@@ -76,7 +83,9 @@ sabiedrības rēķiniem):
 
 
 
-|images_ozols/26428.png|
+.. image:: images_ozols/26428.png
+    :scale: 100%
+
 
 
 
@@ -91,25 +100,9 @@ sastrādātajām komisijām. Periodu jāizvēlas pēc nepieciešamības.
 
 
 
-|images_ozols/26429.png|
-
-
-.. |images_ozols/25899.png| image:: images_ozols/25899.png
+.. image:: images_ozols/26429.png
     :scale: 100%
 
-.. |images_ozols/26425.png| image:: images_ozols/26425.png
-    :scale: 100%
 
-.. |images_ozols/26426.png| image:: images_ozols/26426.png
-    :scale: 100%
-
-.. |images_ozols/26427.png| image:: images_ozols/26427.png
-    :scale: 100%
-
-.. |images_ozols/26428.png| image:: images_ozols/26428.png
-    :scale: 100%
-
-.. |images_ozols/26429.png| image:: images_ozols/26429.png
-    :scale: 100%
 
  

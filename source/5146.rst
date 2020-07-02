@@ -7,7 +7,9 @@ Sākotnēji, aizpildot datus, Tabeles Virsraksta daļā, nepieciešams
 norādīt atbilstošo periodu un Struktūrvienību, par kuru dati tiks
 aizpildīti:
 
-|images_ozols/26444.png|
+.. image:: images_ozols/26444.png
+    :scale: 100%
+
 
 Lai aizpildītu Tabeli, iespējams izvēlēties kādu no lietotājam
 ērtākajiem datu ievades veidiem:
@@ -20,16 +22,22 @@ No noklusētajām vērtībā Tabeli iespējams aizpildīt tiem darbiniekiem,
 kuri strādā pēc Normālā kalendāra pilnu darba nedēļu no pirmdienas
 līdz piektdienai.
 Lai ielādētu datus no noklusētajām vērtībām, Virsraksta daļā jānospiež
-poga: |images_ozols/26445.png| , tiks piedāvāts paziņojums, vai
-ielādēt datus - ja datus nepieciešams ielādēt, jāatbild apstiprinoši:
+poga: .. image:: images_ozols/26445.png
+    :scale: 100%
+, tiks piedāvāts paziņojums, vai ielādēt datus - ja datus nepieciešams
+ielādēt, jāatbild apstiprinoši:
 
-|images_ozols/26446.png|
+.. image:: images_ozols/26446.png
+    :scale: 100%
+
 
 Pēc datu ielādes Tabelē, darbiniekiem, kuriem slodzes aprakstā
 noteikts Normālais kalendārs, tiks ielādēti dati atbilstoši
 noteiktajam :doc:`Kalendāram:<218>`
 
-|images_ozols/26447.png|
+.. image:: images_ozols/26447.png
+    :scale: 100%
+
 
 
 2. Tabeles aizpildīšana no definētajām vērtībām :doc:`Darba laika
@@ -44,13 +52,17 @@ no kuras sākot cikls būtu aizpildāms (iespējams uzreiz aizpildīt datus
 vairākiem darbiniekiem, kuriem darba laika uzskaitē tiek izmantots
 tāds pats grafiks un kuriem cikls sākas vienā dienā!):
 
-|images_ozols/26448.png|
+.. image:: images_ozols/26448.png
+    :scale: 100%
+
 
 Izvēloties nepieciešamo darba laika grafika veidu, strādājošajam tiks
 aizpildīta tabele visām mēneša dienām, sākot no dienas, kurā tiks
 norādīts cikla sākums!:
 
-|images_ozols/26449.png|
+.. image:: images_ozols/26449.png
+    :scale: 100%
+
 
 
 3. Tabeles aizpildīšana, ievadot nostrādāto stundu skaitu katram
@@ -61,60 +73,36 @@ nepieciešams izvēlēties atbilstošo darbinieku un ar peles kursoru
 atzīmēt dienu, lai ievadīt atbilstošo nostrādāto dienas vai nakts
 stundas skaitu:
 
-|images_ozols/26450.png|
+.. image:: images_ozols/26450.png
+    :scale: 100%
+
 
 
 Tabeles saglabāšana un apstiprināšana
 `````````````````````````````````````
 Tad, kad visiem struktūrvienībā esošajiem strādājošajiem darba laika
 grafiks tabelē ir aizpildīt, sagatavotos datus iespējams
-"Iesniegt"->Rīku joslā nospiežot pogu: |images_ozols/26451.png| . Pēc
-tabeles iesniegšanas, to iespējams apstiprināt, lai savadītās stundas
-varētu tikt izmantotas algu aprēķinu veikšanai, nospiežot pogu:
-|images_ozols/26452.png| .
+"Iesniegt"->Rīku joslā nospiežot pogu:.. image::
+images_ozols/26451.png
+    :scale: 100%
+. Pēc tabeles iesniegšanas, to iespējams apstiprināt, lai savadītās
+stundas varētu tikt izmantotas algu aprēķinu veikšanai, nospiežot
+pogu: .. image:: images_ozols/26452.png
+    :scale: 100%
+.
 
 
 Tabeles izdruka
 ```````````````
 Darba laika uzskaiti katrai struktūrvienībai iespējams izdrukāt,
 nospiežot Drukāšanas pogu Tabeles aizpildīšanas Virsraksta daļā:
-|images_ozols/26453.png| - tiks atvērts jauns logs, kurā
-priekšapskates režīmē būs redzama sagatavotā darba laika uzskaites
-tabele, kuru iespējams izdrukāt:
+.. image:: images_ozols/26453.png
+    :scale: 100%
+- tiks atvērts jauns logs, kurā priekšapskates režīmē būs redzama
+sagatavotā darba laika uzskaites tabele, kuru iespējams izdrukāt:
 
-|images_ozols/26454.png|
-
-.. |images_ozols/26444.png| image:: images_ozols/26444.png
+.. image:: images_ozols/26454.png
     :scale: 100%
 
-.. |images_ozols/26445.png| image:: images_ozols/26445.png
-    :scale: 100%
-
-.. |images_ozols/26446.png| image:: images_ozols/26446.png
-    :scale: 100%
-
-.. |images_ozols/26447.png| image:: images_ozols/26447.png
-    :scale: 100%
-
-.. |images_ozols/26448.png| image:: images_ozols/26448.png
-    :scale: 100%
-
-.. |images_ozols/26449.png| image:: images_ozols/26449.png
-    :scale: 100%
-
-.. |images_ozols/26450.png| image:: images_ozols/26450.png
-    :scale: 100%
-
-.. |images_ozols/26451.png| image:: images_ozols/26451.png
-    :scale: 100%
-
-.. |images_ozols/26452.png| image:: images_ozols/26452.png
-    :scale: 100%
-
-.. |images_ozols/26453.png| image:: images_ozols/26453.png
-    :scale: 100%
-
-.. |images_ozols/26454.png| image:: images_ozols/26454.png
-    :scale: 100%
 
  

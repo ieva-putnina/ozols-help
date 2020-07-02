@@ -2,472 +2,346 @@
 
 
 <!DOCTYPE html>
-<html >
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-      <title>Datu bāzes pārindeksācija</title>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Datu bāzes pārindeksācija &mdash; Sistēmas LĀCIS dokumentācija 1 documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
     
-      <link rel="stylesheet" href="_static/pygments.css">
-      <link rel="stylesheet" href="_static/theme.css">
-      <link rel="stylesheet" href="_static/sphinx_press_theme.css">
-          <link rel="stylesheet" href="_static/page_nav.css" type="text/css" />
-          <link rel="stylesheet" href="_static/jquery.fancybox.min.css" type="text/css" />
-          <link rel="stylesheet" href="_static/sphinx_press_theme.css" type="text/css" />
-      
-      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
-      <!-- sphinx script_files -->
-        <script src="_static/jquery.js"></script>
-        <script src="_static/underscore.js"></script>
-        <script src="_static/doctools.js"></script>
-        <script src="_static/language_data.js"></script>
-        <script src="_static/jquery.fancybox.min.js"></script>
 
-      
-      <script src="_static/theme-vendors.js"></script>
-      <script src="_static/theme.js" defer></script>
+  
+
+  
+  
+    <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  
+
+  
+    <link rel="stylesheet" href="_static/page_nav.css" type="text/css" />
+  
+    <link rel="stylesheet" href="_static/jquery.fancybox.min.css" type="text/css" />
+  
+    <link rel="stylesheet" href="_static/glpi.css" type="text/css" />
+  
+
+  
+        <link rel="index" title="Index"
+              href="genindex.html"/>
+        <link rel="search" title="Search" href="search.html"/>
+    <link rel="top" title="Sistēmas LĀCIS dokumentācija 1 documentation" href="index.html"/>
+        <link rel="up" title="Datu bāzes pārvaldība" href="734.html"/>
+        <link rel="next" title="Datu bāzes slēgumi" href="676.html"/>
+        <link rel="prev" title="Darba staciju konfigurācija" href="632.html"/> 
+
+  
+  <script src="_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+   
+  <div class="wy-grid-for-nav">
+
     
-  <link rel="index" title="Index" href="genindex.html" />
-  <link rel="search" title="Search" href="search.html" />
-  <link rel="next" title="Datu bāzes slēgumi" href="676.html" />
-  <link rel="prev" title="Darba staciju konfigurācija" href="632.html" /> 
-  </head>
-
-  <body>
-    <div id="app" class="theme-container" :class="pageClasses"><navbar @toggle-sidebar="toggleSidebar">
-  <router-link to="index.html" class="home-link">
-    
-      <span class="site-name">Sistēmas LĀCIS dokumentācija</span>
-    
-  </router-link>
-
-  <div class="links">
-    <navlinks class="can-hide">
-
-
-
-    </navlinks>
-  </div>
-</navbar>
-
-      
-      <div class="sidebar-mask" @click="toggleSidebar(false)">
-      </div>
-        <sidebar @toggle-sidebar="toggleSidebar">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
           
-          <navlinks>
+
+          
+            <a href="index.html" class="icon icon-home"> Sistēmas LĀCIS dokumentācija
+          
+
+          
+          </a>
+
+          
             
-
-
-
-            
-          </navlinks><div id="searchbox" class="searchbox" role="search">
-  <div class="caption"><span class="caption-text">Quick search</span>
-    <div class="searchformwrapper">
-      <form class="search" action="search.html" method="get">
-        <input type="text" name="q" />
-        <input type="submit" value="Search" />
-        <input type="hidden" name="check_keywords" value="yes" />
-        <input type="hidden" name="area" value="default" />
-      </form>
-    </div>
-  </div>
-</div><div class="sidebar-links" role="navigation" aria-label="main navigation">
-  
-    <div class="sidebar-group">
-      <p class="caption">
-        <span class="caption-text"><a href="index.html#ozols-palidzibas-sistema">ozols palīdzības sistēma</a></span>
-      </p>
-      <ul class="">
-        
-          <li class="toctree-l1 "><a href="7603.html" class="reference internal ">Paziņojumi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="600.html" class="reference internal ">Sākums</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="14000.html" class="reference internal ">Sistēmas lietošanas instrukcija</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="18.html" class="reference internal ">Mani darbi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="39.html" class="reference internal ">Alga</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4000.html" class="reference internal ">Apdrošināšanas polises</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4800.html" class="reference internal ">Autoinfo</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="40.html" class="reference internal ">Avansi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="48.html" class="reference internal ">Budžeta izpilde</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="6600.html" class="reference internal ">Budžeta plānošana</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7700.html" class="reference internal ">Caurlaides</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="26.html" class="reference internal ">CRM (Partneri)</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="50.html" class="reference internal ">Datu apmaiņa ar banku</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7400.html" class="reference internal ">Degvielas tirdzniecība</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7000.html" class="reference internal ">Dividendes</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7900.html" class="reference internal ">Ēdināšana</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="41.html" class="reference internal ">Finanses</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4900.html" class="reference internal ">iVeikals</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="42.html" class="reference internal ">Krājumi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7600.html" class="reference internal ">Kravu pārvadājumi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4100.html" class="reference internal ">LaMSF</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="6800.html" class="reference internal ">Līgumi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4500.html" class="reference internal ">Maksājumu uzskaite</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7100.html" class="reference internal ">Mazumtirdzniecība</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="43.html" class="reference internal ">Noliktava</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="6770.html" class="reference internal ">Noma</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="6700.html" class="reference internal ">Noma transportam</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="44.html" class="reference internal ">Norēķini</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="45.html" class="reference internal ">Pamatlīdzekļi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="34.html" class="reference internal ">Pasts</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7200.html" class="reference internal ">Personāla pašapkalpošanās</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="47.html" class="reference internal ">Personāla vadība</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="6500.html" class="reference internal ">Polises</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="46.html" class="reference internal ">Projektu kalkulācija</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4200.html" class="reference internal ">Regresi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4300.html" class="reference internal ">TKU</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="49.html" class="reference internal ">Virsgrāmata</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4700.html" class="reference internal ">wap OZOLS</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="38.html" class="reference internal ">Citi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="5226.html" class="reference internal ">Darbinieku portāls</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="6901.html" class="reference internal ">Degvielas pasūtījumi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="5026.html" class="reference internal ">Iestādījumi</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4444.html" class="reference internal ">Klientu portāls</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="12.html" class="reference internal ">Konfigurācija</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="1.html" class="reference internal ">Kopējie saraksti</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7301.html" class="reference internal ">Mākslinieciskā darba plānošana</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="5295.html" class="reference internal ">Meklēšanas rezultāti</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="6734.html" class="reference internal ">Noma</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="31.html" class="reference internal ">Pievienot</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4461.html" class="reference internal ">Pievienot notikumu</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="10.html" class="reference internal ">Rīki</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="7500.html" class="reference internal ">SPRK</a>
-
-            
-          </li>
-
-        
-          <li class="toctree-l1 "><a href="4445.html" class="reference internal ">Uzņēmuma portāls</a>
-
-            
-          </li>
-
-        
-      </ul>
-    </div>
-  
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
 </div>
-        </sidebar>
 
-      <page>
-          <div class="body-header" role="navigation" aria-label="navigation">
-  
-  <ul class="breadcrumbs">
-    <li><a href="index.html">Docs</a> &raquo;</li>
-    
-      <li><a href="10.html">Rīki</a> &raquo;</li>
-    
-      <li><a href="734.html">Datu bāzes pārvaldība</a> &raquo;</li>
-    
-    <li>Datu bāzes pārindeksācija</li>
-  </ul>
-  
+          
+        </div>
 
-  </script>
-<ul class="page-nav">
-  <li class="prev">
-    <a class="prev_a" href="632.html"
-       title="previous chapter">← Darba staciju konfigurācija</a>
-  </li>
-  <li class="next">
-    <a class="next_a" href="676.html"
-       title="next chapter">Datu bāzes slēgumi →</a>
-  </li>
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="7603.html">Paziņojumi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="600.html">Sākums</a></li>
+<li class="toctree-l1"><a class="reference internal" href="14000.html">Sistēmas lietošanas instrukcija</a></li>
+<li class="toctree-l1"><a class="reference internal" href="18.html">Mani darbi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="39.html">Alga</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4000.html">Apdrošināšanas polises</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4800.html">Autoinfo</a></li>
+<li class="toctree-l1"><a class="reference internal" href="40.html">Avansi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="48.html">Budžeta izpilde</a></li>
+<li class="toctree-l1"><a class="reference internal" href="6600.html">Budžeta plānošana</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7700.html">Caurlaides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="26.html">CRM (Partneri)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="50.html">Datu apmaiņa ar banku</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7400.html">Degvielas tirdzniecība</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7000.html">Dividendes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7900.html">Ēdināšana</a></li>
+<li class="toctree-l1"><a class="reference internal" href="41.html">Finanses</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4900.html">iVeikals</a></li>
+<li class="toctree-l1"><a class="reference internal" href="42.html">Krājumi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7600.html">Kravu pārvadājumi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4100.html">LaMSF</a></li>
+<li class="toctree-l1"><a class="reference internal" href="6800.html">Līgumi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4500.html">Maksājumu uzskaite</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7100.html">Mazumtirdzniecība</a></li>
+<li class="toctree-l1"><a class="reference internal" href="43.html">Noliktava</a></li>
+<li class="toctree-l1"><a class="reference internal" href="6770.html">Noma</a></li>
+<li class="toctree-l1"><a class="reference internal" href="6700.html">Noma transportam</a></li>
+<li class="toctree-l1"><a class="reference internal" href="44.html">Norēķini</a></li>
+<li class="toctree-l1"><a class="reference internal" href="45.html">Pamatlīdzekļi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="34.html">Pasts</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7200.html">Personāla pašapkalpošanās</a></li>
+<li class="toctree-l1"><a class="reference internal" href="47.html">Personāla vadība</a></li>
+<li class="toctree-l1"><a class="reference internal" href="6500.html">Polises</a></li>
+<li class="toctree-l1"><a class="reference internal" href="46.html">Projektu kalkulācija</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4200.html">Regresi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4300.html">TKU</a></li>
+<li class="toctree-l1"><a class="reference internal" href="49.html">Virsgrāmata</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4700.html">wap OZOLS</a></li>
+<li class="toctree-l1"><a class="reference internal" href="38.html">Citi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="5226.html">Darbinieku portāls</a></li>
+<li class="toctree-l1"><a class="reference internal" href="6901.html">Degvielas pasūtījumi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="5026.html">Iestādījumi</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4444.html">Klientu portāls</a></li>
+<li class="toctree-l1"><a class="reference internal" href="12.html">Konfigurācija</a></li>
+<li class="toctree-l1"><a class="reference internal" href="1.html">Kopējie saraksti</a></li>
+<li class="toctree-l1"><a class="reference internal" href="7301.html">Mākslinieciskā darba plānošana</a></li>
+<li class="toctree-l1"><a class="reference internal" href="5295.html">Meklēšanas rezultāti</a></li>
+<li class="toctree-l1"><a class="reference internal" href="6734.html">Noma</a></li>
+<li class="toctree-l1"><a class="reference internal" href="31.html">Pievienot</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4461.html">Pievienot notikumu</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="10.html">Rīki</a><ul class="current">
+<li class="toctree-l2 current"><a class="reference internal" href="734.html">Datu bāzes pārvaldība</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="974.html">Automātisko tiesību iestādīšana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="154.html">Biežāk lietots</a></li>
+<li class="toctree-l3"><a class="reference internal" href="632.html">Darba staciju konfigurācija</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Datu bāzes pārindeksācija</a></li>
+<li class="toctree-l3"><a class="reference internal" href="676.html">Datu bāzes slēgumi</a></li>
+<li class="toctree-l3"><a class="reference internal" href="941.html">Definētās kolonnas</a></li>
+<li class="toctree-l3"><a class="reference internal" href="826.html">Definētie pieprasījumi</a></li>
+<li class="toctree-l3"><a class="reference internal" href="827.html">Definēts pieprasījums</a></li>
+<li class="toctree-l3"><a class="reference internal" href="880.html">Īpašibu iestatīšana</a></li>
+<li class="toctree-l3"><a class="reference internal" href="581.html">Izmantoto komponentu licences</a></li>
+<li class="toctree-l3"><a class="reference internal" href="668.html">Izmantoto komponentu licences pa lietotājiem</a></li>
+<li class="toctree-l3"><a class="reference internal" href="1007.html">Kases aparātu konfigurācija</a></li>
+<li class="toctree-l3"><a class="reference internal" href="754.html">Lietotāju tiesību kopsavilkums</a></li>
+<li class="toctree-l3"><a class="reference internal" href="683.html">Notikumu reģistrs</a></li>
+<li class="toctree-l3"><a class="reference internal" href="666.html">On-line lietotāju saraksts</a></li>
+<li class="toctree-l3"><a class="reference internal" href="1053.html">Pieslēgšanās žurnāls</a></li>
+<li class="toctree-l3"><a class="reference internal" href="667.html">Pievienotie/labotie ieraksti</a></li>
+<li class="toctree-l3"><a class="reference internal" href="721.html">Programmas jauninājumi</a></li>
+<li class="toctree-l3"><a class="reference internal" href="737.html">Rezerves kopija</a></li>
+<li class="toctree-l3"><a class="reference internal" href="735.html">Servera Darbi</a></li>
+<li class="toctree-l3"><a class="reference internal" href="171.html">Servera procesu informācija</a></li>
+<li class="toctree-l3"><a class="reference internal" href="1011.html">Servisa uzdevumu saraksts</a></li>
+<li class="toctree-l3"><a class="reference internal" href="864.html">Tulkojumu lauki</a></li>
+<li class="toctree-l3"><a class="reference internal" href="205.html">Uzstādītās programmatūras versijas</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="1005.html">Datu Eksports uz ārēju sistēmu</a></li>
+<li class="toctree-l2"><a class="reference internal" href="725.html">Datu Eksports/Imports no tabulas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="1017.html">Datu imports no Excel</a></li>
+<li class="toctree-l2"><a class="reference internal" href="794.html">Datu integritātes uzraugs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="781.html">Finanšu gada slēgšana</a></li>
+<li class="toctree-l2"><a class="reference internal" href="940.html">Lietotāju definētās atskaites</a></li>
+<li class="toctree-l2"><a class="reference internal" href="948.html">Norēķinu dokumentu imports</a></li>
+<li class="toctree-l2"><a class="reference internal" href="453.html">Perioda slēgšana</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="7500.html">SPRK</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4445.html">Uzņēmuma portāls</a></li>
 </ul>
 
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">Sistēmas LĀCIS dokumentācija</a>
+        
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html">Docs</a> &raquo;</li>
+        
+          <li><a href="10.html">Rīki</a> &raquo;</li>
+        
+          <li><a href="734.html">Datu bāzes pārvaldība</a> &raquo;</li>
+        
+      <li>Datu bāzes pārindeksācija</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="_sources/684.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
   
+  <div class="rst-breadcrumbs-buttons" role="navigation" aria-label="breadcrumb navigation">
+      
+        <a href="676.html" class="btn btn-neutral float-right" title="Datu bāzes slēgumi" accesskey="n">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="632.html" class="btn btn-neutral" title="Darba staciju konfigurācija" accesskey="p"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+  </div>
+  
+  <hr/>
 </div>
-<hr>
-          <div class="content" role="main">
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
             
   <div class="section" id="datu-bazes-parindeksacija">
 <h1>Datu bāzes pārindeksācija<a class="headerlink" href="#datu-bazes-parindeksacija" title="Permalink to this headline">¶</a></h1>
 </div>
 
 
+           </div>
+           <div class="articleComments">
+            
+           </div>
           </div>
-          <div class="page-nav">
-            <div class="inner"></script>
-<ul class="page-nav">
-  <li class="prev">
-    <a class="prev_a" href="632.html"
-       title="previous chapter">← Darba staciju konfigurācija</a>
-  </li>
-  <li class="next">
-    <a class="next_a" href="676.html"
-       title="next chapter">Datu bāzes slēgumi →</a>
-  </li>
-</ul>
-<div class="footer" role="contentinfo">
-      &#169; Copyright 2020 Ozols Grupa.
-    <br>
-  Created using <a href="http://sphinx-doc.org/">Sphinx</a> 3.1.0 with <a href="https://github.com/schettino72/sphinx_press_theme">Press Theme</a>.
-</div>
-                <script type="text/javascript">
-                  $(function(){
-                    $('.image-reference').fancybox();
-                  })
-                </script>
-            </div>
-          </div>
-      </page>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="676.html" class="btn btn-neutral float-right" title="Datu bāzes slēgumi" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="632.html" class="btn btn-neutral" title="Darba staciju konfigurācija" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
     </div>
-    
-    
-  </body>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2020 Ozols Grupa.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'./',
+            VERSION:'1',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="_static/jquery.js"></script>
+      <script type="text/javascript" src="_static/underscore.js"></script>
+      <script type="text/javascript" src="_static/doctools.js"></script>
+      <script type="text/javascript" src="_static/language_data.js"></script>
+      <script type="text/javascript" src="_static/jquery.fancybox.min.js"></script>
+
+  
+
+  
+  
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+  
+
+  
+  
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.StickyNav.enable();
+      });
+  </script>
+  
+  <script type="text/javascript">
+    $(function(){
+      $('.image-reference').fancybox();
+    })
+  </script>
+
+</body>
 </html>

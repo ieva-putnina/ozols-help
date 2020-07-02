@@ -5,7 +5,10 @@ Lai pievienotu jaunu saraksta ierakstu:
 
 
 
-1) atvērtajā ekrāna formā jālieto komanda |images_ozols/24708.png|
+1) atvērtajā ekrāna formā jālieto komanda .. image::
+images_ozols/24708.png
+    :scale: 100%
+
 
 2) jāaizpilda saraksta apraksts.
 
@@ -15,8 +18,10 @@ Hierarhiskajos sarakstos jānorāda augstākais līmenis, zem kura
 ieraksts jāpievieno. Pievienojot augstāko līmeni, jānorāda, ka
 augstākā līmeņa nav.
 
-3) saraksta ieraksts tiek saglabāts, kad pielietokomandu
-|images_ozols/24710.png|
+3) saraksta ieraksts tiek saglabāts, kad pielietokomandu .. image::
+images_ozols/24710.png
+    :scale: 100%
+
 
 
 
@@ -41,11 +46,5 @@ saraksta ierakstam, zem kura tas jānovieto.
 
 
 
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/24710.png| image:: images_ozols/24710.png
-    :scale: 100%
 
  

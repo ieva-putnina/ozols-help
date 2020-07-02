@@ -19,7 +19,9 @@ Veicot vienu no iepriekš minētajām darbībām, tiks atvērts jauns logs:
 
 
 
-|images_ozols/26535.png|
+.. image:: images_ozols/26535.png
+    :scale: 100%
+
 
 
 
@@ -36,16 +38,20 @@ saraksta:
 
 
 
-|images_ozols/26536.png|
+.. image:: images_ozols/26536.png
+    :scale: 100%
 
 
 
 
-|images_ozols/24545.gif| Ja Avansa izdevuma dokuments tiks sagatavots,
-izmantojot iespēju pievienot jaunu Avansa izdevumu :doc:`Avansa
-norēķina<748>` formā, sadaļā Izdevumi, nospiežot pogu "Pievienot",
-lauks Persona jau būs automātiski aizpildīts no Avansu norēķina
-dokumentā aizpildītās informācijas.
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Ja Avansa izdevuma dokuments tiks sagatavots, izmantojot iespēju
+pievienot jaunu Avansa izdevumu :doc:`Avansa norēķina<748>` formā,
+sadaļā Izdevumi, nospiežot pogu "Pievienot", lauks Persona jau būs
+automātiski aizpildīts no Avansu norēķina dokumentā aizpildītās
+informācijas.
 
 
 
@@ -55,7 +61,9 @@ numuru (piem., čeka numuru):
 
 
 
-|images_ozols/26538.png|
+.. image:: images_ozols/26538.png
+    :scale: 100%
+
 
 
 
@@ -67,7 +75,9 @@ un Dok.dat.- avansu izdevuma dokumenta datums:
 
 
 
-|images_ozols/26537.png|
+.. image:: images_ozols/26537.png
+    :scale: 100%
+
 
 
 
@@ -75,7 +85,9 @@ un Dok.dat.- avansu izdevuma dokumenta datums:
 4. No saraksta izvēlēties nepieciešamo partneri (Piegādātāju), no kura
 šis izdevumu attaisnojošais dokuments ir saņemts:
 
-|images_ozols/26539.png|
+.. image:: images_ozols/26539.png
+    :scale: 100%
+
 
 
 
@@ -83,7 +95,9 @@ un Dok.dat.- avansu izdevuma dokumenta datums:
 5. Norādiet kurš pēc kārtas Avansu norēķinā būs konkrētais Avansu
 izdevumu dokuments:
 
-|images_ozols/26540.png|
+.. image:: images_ozols/26540.png
+    :scale: 100%
+
 
 6. Paskaidrojuma laukā tiek norādīta informatīva informācija par
 Avansu izdevumu, piem., Komandējuma izdevums.
@@ -93,20 +107,28 @@ Avansa izdevumaSatura aizpildīšana
 ++++++++++++++++++++++++++++++++++
 
 Lai aizpildītu Avansa izdevuma Saturu, dokumenta satura daļā
-nepieciešams nospiest |images_ozols/24708.png| un tiks atvērts
-operācijas satura logs, kurā nepieciešams aizpildīt satura ierakstus
-(uzņēmumā izmantotās dimensijas) un norādīt satura ieraksta summu:
+nepieciešams nospiest .. image:: images_ozols/24708.png
+    :scale: 100%
+un tiks atvērts operācijas satura logs, kurā nepieciešams aizpildīt
+satura ierakstus (uzņēmumā izmantotās dimensijas) un norādīt satura
+ieraksta summu:
 
 
 
-|images_ozols/25269.png|
+.. image:: images_ozols/25269.png
+    :scale: 100%
 
 
 
-|images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiem
-satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
-summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
-nospiežot pogu |images_ozols/24708.png| .
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Dokumenta saturs var sastāvēt no vairākiem satura ierakstiem, kas
+kopsummā veido Dokumenta Virsrakstā norādīto summu.Pievienot nākamo
+satura ierakstu iespējams, satura daļā nospiežot pogu .. image::
+images_ozols/24708.png
+    :scale: 100%
+.
 
 
 
@@ -124,17 +146,23 @@ dokumenta vai izvēloties (iezīmējot)dokumentu :doc:`Avansa izdevumu
 žurnālā<746>` .
 
 Lai iegrāmatotu Avansu izdevumu, dokumentu nepieciešams Apstiprināt,
-nospiežot rīku joslā pogu |images_ozols/24740.png| .
+nospiežot rīku joslā pogu .. image:: images_ozols/24740.png
+    :scale: 100%
+.
 
 Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu |images_ozols/24741.png| .
+pogu .. image:: images_ozols/24741.png
+    :scale: 100%
+.
 
 Grāmatojumā jāizvēlas grāmatojumu šablons – shēma, kā tiks iekontēta
 pirmdokumentā sagatavotā informācija:
 
 
 
-|images_ozols/25272.png|
+.. image:: images_ozols/25272.png
+    :scale: 100%
+
 
 
 
@@ -159,60 +187,14 @@ izdevumu žurnālā<746>` vai arī atverot to :doc:`Avansu norēķinu<232>`
 , uz kuru šis Avansu izdevums attiecas un Avansu norēķina sadaļā
 Izdevumi, atverot nepieciešamo Avansa izdevuma dokumentu. Lai veiktu
 labojumus Avansu izdevumā, dokumentu nepieciešams atvērt, izmantojot
-rīku joslas pogu |images_ozols/24709.png| (ALT+A), un atvērtajā
-ierakstā iespējams veikt nepieciešamos labojumus. Pēc labojumu
-veikšanas, veiktā izmaiņas iespējams |images_ozols/24615.jpg| vai
-|images_ozols/24617.jpg| .
-
-.. |images_ozols/26535.png| image:: images_ozols/26535.png
+rīku joslas pogu.. image:: images_ozols/24709.png
     :scale: 100%
-
-.. |images_ozols/26536.png| image:: images_ozols/26536.png
+(ALT+A), un atvērtajā ierakstā iespējams veikt nepieciešamos
+labojumus. Pēc labojumu veikšanas, veiktā izmaiņas iespējams ..
+image:: images_ozols/24615.jpg
     :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
+vai .. image:: images_ozols/24617.jpg
     :scale: 100%
-
-.. |images_ozols/26538.png| image:: images_ozols/26538.png
-    :scale: 100%
-
-.. |images_ozols/26537.png| image:: images_ozols/26537.png
-    :scale: 100%
-
-.. |images_ozols/26539.png| image:: images_ozols/26539.png
-    :scale: 100%
-
-.. |images_ozols/26540.png| image:: images_ozols/26540.png
-    :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/25269.png| image:: images_ozols/25269.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/24740.png| image:: images_ozols/24740.png
-    :scale: 100%
-
-.. |images_ozols/24741.png| image:: images_ozols/24741.png
-    :scale: 100%
-
-.. |images_ozols/25272.png| image:: images_ozols/25272.png
-    :scale: 100%
-
-.. |images_ozols/24709.png| image:: images_ozols/24709.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
-    :scale: 100%
+.
 
  

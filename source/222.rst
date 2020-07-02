@@ -18,7 +18,9 @@ tiek pievienotas darbinieku:doc:`nodokļu dokumentiem<208>` .
 
 
 
-|images_ozols/26525.png|
+.. image:: images_ozols/26525.png
+    :scale: 100%
+
 
 
 
@@ -43,18 +45,21 @@ atbilstošajām likmēm.
 
 
 
-|images_ozols/24545.gif| Sistēmas konfigurācijā tiek saglabātas
-aprēķinu metodes – iespējamie nodokļu piemērošanas veidi – darbiniekam
-Latvijas uzņēmumā, pensionāriem, ar apgādājamajiem vai bez u.c. Katras
-metodes aprakstā tiek saglabāti ieraksti katram algu aprēķina
-periodam.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Sistēmas konfigurācijā tiek saglabātas aprēķinu metodes – iespējamie
+nodokļu piemērošanas veidi – darbiniekam Latvijas uzņēmumā,
+pensionāriem, ar apgādājamajiem vai bez u.c. Katras metodes aprakstā
+tiek saglabāti ieraksti katram algu aprēķina periodam.
 
 
 
 Satura aizpildīšana.
 ++++++++++++++++++++
 
-|images_ozols/26523.png|
+.. image:: images_ozols/26523.png
+    :scale: 100%
+
 
 
 
@@ -80,14 +85,5 @@ Atvieg. - jānorāda atvieglojumu kopējā summa par vienu mēnesi.
 
 Piezīmes - iespēja norādīt iedzīvotāju ienākuma nodokļa metodes
 piezīmes.
-
-.. |images_ozols/26525.png| image:: images_ozols/26525.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/26523.png| image:: images_ozols/26523.png
-    :scale: 100%
 
  

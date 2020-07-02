@@ -1,13 +1,19 @@
 .. 5016 Kampaņu organizators************************ 
-Galvenie filtra parametri partneru piesaistei :doc:`kampaņām<4470>` ir
-|images_ozols/25808.png| un |images_ozols/25809.png| . Izvēloties
-kampaņu un attiecīgi statusu Atvērts, tiks atlasīti (nospiežot pogu
-|images_ozols/25810.png| ) partneri, kurus iespējams konkrētajai
-kampaņai piesaistīt:
+Galvenie filtra parametri partneru piesaistei :doc:`kampaņām<4470>`
+ir.. image:: images_ozols/25808.png
+    :scale: 100%
+un.. image:: images_ozols/25809.png
+    :scale: 100%
+. Izvēloties kampaņu un attiecīgi statusu Atvērts, tiks atlasīti
+(nospiežot pogu .. image:: images_ozols/25810.png
+    :scale: 100%
+) partneri, kurus iespējams konkrētajai kampaņai piesaistīt:
 
 
 
-|images_ozols/25795.png|
+.. image:: images_ozols/25795.png
+    :scale: 100%
+
 
 
 
@@ -22,36 +28,46 @@ atzīmēšanai var izmantot pogu virs saraksta Atzīmēt visus:
 
 
 
-|images_ozols/25796.png|
+.. image:: images_ozols/25796.png
+    :scale: 100%
+
 
 
 
 Atlasot aktīvos ierakstus ir iespējamas sekojošas darbības:
 
 
-+ |images_ozols/25800.png| , jeb eksportēt atzīmētos ierakstus uz Word
-formātu, ja attiecīgajai kampaņai ir piesaistīts kāds izdrukas
-šablons, kurš tiek lietots par vēstules pamatu un šablona datu lauki
-aizvietoti ar reālajiem ieraksta datiem;
-+ |images_ozols/25801.png| – tiek nosūtīts atzīmētajiem ierakstiem
-e-pasta vēstules, ja attiecīgajai kampaņai ir piesaistīts kāds
-izdrukas šablons, kurš tiek lietots par vēstules pamatu un šablona
-datu lauki aizvietoti ar reālajiem ieraksta datiem;
-+ Mainīt atzīmētā ieraksta statusu: |images_ozols/25806.png|
++ .. image:: images_ozols/25800.png     :scale: 100% , jeb eksportēt
+atzīmētos ierakstus uz Word formātu, ja attiecīgajai kampaņai ir
+piesaistīts kāds izdrukas šablons, kurš tiek lietots par vēstules
+pamatu un šablona datu lauki aizvietoti ar reālajiem ieraksta datiem;
++ .. image:: images_ozols/25801.png     :scale: 100% – tiek nosūtīts
+atzīmētajiem ierakstiem e-pasta vēstules, ja attiecīgajai kampaņai ir
+piesaistīts kāds izdrukas šablons, kurš tiek lietots par vēstules
+pamatu un šablona datu lauki aizvietoti ar reālajiem ieraksta datiem;
++ Mainīt atzīmētā ieraksta statusu:.. image:: images_ozols/25806.png
+    :scale: 100%
 + Izveidot kādu no trīs aktivitātēm atzīmētajiem partneriem:
 
 
-|images_ozols/25807.png|
+.. image:: images_ozols/25807.png
+    :scale: 100%
 
 
 
-|images_ozols/25819.png|
+
+.. image:: images_ozols/25819.png
+    :scale: 100%
+
 
 
 
 Ģenerējot jaunu darba uzdevumu, to iespējams izveidot un saglabāt,
-nospiežot pogu |images_ozols/25821.png| , vai atcelt, nospiežot pogu
-|images_ozols/25822.png| .
+nospiežot pogu .. image:: images_ozols/25821.png
+    :scale: 100%
+, vai atcelt, nospiežot pogu .. image:: images_ozols/25822.png
+    :scale: 100%
+.
 
 
 
@@ -59,7 +75,9 @@ Pēc izveidošanas, aktivitātes ir pieejamas no paziņojuma:
 
 
 
-|images_ozols/25824.png|
+.. image:: images_ozols/25824.png
+    :scale: 100%
+
 
 
 
@@ -70,48 +88,8 @@ izveidotās aktivitātes:
 
 
 
-|images_ozols/25825.png|
-
-.. |images_ozols/25808.png| image:: images_ozols/25808.png
+.. image:: images_ozols/25825.png
     :scale: 100%
 
-.. |images_ozols/25809.png| image:: images_ozols/25809.png
-    :scale: 100%
-
-.. |images_ozols/25810.png| image:: images_ozols/25810.png
-    :scale: 100%
-
-.. |images_ozols/25795.png| image:: images_ozols/25795.png
-    :scale: 100%
-
-.. |images_ozols/25796.png| image:: images_ozols/25796.png
-    :scale: 100%
-
-.. |images_ozols/25800.png| image:: images_ozols/25800.png
-    :scale: 100%
-
-.. |images_ozols/25801.png| image:: images_ozols/25801.png
-    :scale: 100%
-
-.. |images_ozols/25806.png| image:: images_ozols/25806.png
-    :scale: 100%
-
-.. |images_ozols/25807.png| image:: images_ozols/25807.png
-    :scale: 100%
-
-.. |images_ozols/25819.png| image:: images_ozols/25819.png
-    :scale: 100%
-
-.. |images_ozols/25821.png| image:: images_ozols/25821.png
-    :scale: 100%
-
-.. |images_ozols/25822.png| image:: images_ozols/25822.png
-    :scale: 100%
-
-.. |images_ozols/25824.png| image:: images_ozols/25824.png
-    :scale: 100%
-
-.. |images_ozols/25825.png| image:: images_ozols/25825.png
-    :scale: 100%
 
  

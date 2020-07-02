@@ -10,7 +10,9 @@ dokumenti:
 
 
 
-|images_ozols/25811.png|
+.. image:: images_ozols/25811.png
+    :scale: 100%
+
 
 
 
@@ -34,7 +36,9 @@ iespējams norādīt parametrus, pēc kādiem atskaite tiks sagatavota:
 
 
 
-|images_ozols/25812.png|
+.. image:: images_ozols/25812.png
+    :scale: 100%
+
 
 
 
@@ -43,22 +47,14 @@ kopsavilkuma veidā tiks attēlota norakstītā nomenklatūra.
 
 
 
-|images_ozols/24545.gif| Šo atskaiti ir iespējams izdrukāt, nospiežot
-rīku joslā pogu |images_ozols/25813.png| .
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Šo atskaiti ir iespējams izdrukāt, nospiežot rīku joslā pogu ..
+image:: images_ozols/25813.png
+    :scale: 100%
+.
 Atskaites izdrukas virsrakstā tiek norādīts, kādos Nomenklatūras
 norakstīšanas aktos ir norakstītas kopsavilkumā attēlotās
 nomenklatūras. Dati atskaitē ir sagrupēti pa nomenklatūras grupām.
-
-.. |images_ozols/25811.png| image:: images_ozols/25811.png
-    :scale: 100%
-
-.. |images_ozols/25812.png| image:: images_ozols/25812.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/25813.png| image:: images_ozols/25813.png
-    :scale: 100%
 
  .. toctree::   :maxdepth: 3    14092.rst

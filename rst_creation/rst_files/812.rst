@@ -6,18 +6,24 @@ Pamatlīdzekļu derīgās lietošanas termiņa maiņas dokumentā. Dokuments
 pēc saglabāšanas ir pieejams :doc:`Pamatlīdzekļu dokumentu<233>`
 žurnālā.
 
-|images_ozols/24545.gif| Pirms pamatlīdzekļu derīgās lietošanas
-termiņa maiņas, jāpārliecinās vai visiem pamatlīdzekļiem, kuriem tiks
-mainīts derīgās lietošanas termiņš, ir aprēķināts nolietojums.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Pirms pamatlīdzekļu derīgās lietošanas termiņa maiņas, jāpārliecinās
+vai visiem pamatlīdzekļiem, kuriem tiks mainīts derīgās lietošanas
+termiņš, ir aprēķināts nolietojums.
 
-|images_ozols/24545.gif| Ja tika izveidots :doc:`Pamatlīzdekļu
-papildināšanas dokuments<817>` šim pamatlīdzeklim, un tur tika mainīts
-derīgās lietošanas termiņš, tad šis (Pamatlīdzekļu derīgās lietošanas
-termiņa maiņas dokuments) nav jāveido.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Ja tika izveidots :doc:`Pamatlīzdekļu papildināšanas dokuments<817>`
+šim pamatlīdzeklim, un tur tika mainīts derīgās lietošanas termiņš,
+tad šis (Pamatlīdzekļu derīgās lietošanas termiņa maiņas dokuments)
+nav jāveido.
 
 
 
-|images_ozols/25490.png|
+.. image:: images_ozols/25490.png
+    :scale: 100%
+
 
 
 
@@ -28,8 +34,10 @@ Dokumentam: automatizēti, izvēloties pamatlīdzekli, tiek parādīti
 visi, ar pamatlīdzekli saistītie dokumenti. Jāizvēlas dokuments,
 saistībā ar kuru tiek mainīts derīgās lietošanas termiņš.
 
-|images_ozols/25491.png| iespējams apskatīt pamatlīdzekļa aprakstu un
-dokumentu saturus, kuri saistīti ar pamatlīdzekli;
+.. image:: images_ozols/25491.png
+    :scale: 100%
+iespējams apskatīt pamatlīdzekļa aprakstu un dokumentu saturus, kuri
+saistīti ar pamatlīdzekli;
 
 Iepriekšējais derīgās lietošanas laiks
 
@@ -49,31 +57,16 @@ mēn.: jaunais derīgās lietošanas termiņš mēnešos;
 
 Der.liet.beig.dat.: jaunais derīgās lietošanas termiņa beigu datums;
 
-|images_ozols/25492.png|
+.. image:: images_ozols/25492.png
+    :scale: 100%
 
-|images_ozols/25496.png| ja pamatlīdzeklis sastāv no vairākām
-atsevišķām daļām, tad iespējams arī pārējām daļām mainīt derīgās
-lietošanas termiņu.
+
+.. image:: images_ozols/25496.png
+    :scale: 100%
+ja pamatlīdzeklis sastāv no vairākām atsevišķām daļām, tad iespējams
+arī pārējām daļām mainīt derīgās lietošanas termiņu.
 
 Attiecīgās izmaiņas jāsaglabā, nospiežot pogu Saglabāt. Nospiežot pogu
 Atcelt, visas izmaiņas tiek atceltas.
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/25490.png| image:: images_ozols/25490.png
-    :scale: 100%
-
-.. |images_ozols/25491.png| image:: images_ozols/25491.png
-    :scale: 100%
-
-.. |images_ozols/25492.png| image:: images_ozols/25492.png
-    :scale: 100%
-
-.. |images_ozols/25496.png| image:: images_ozols/25496.png
-    :scale: 100%
 
  

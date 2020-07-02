@@ -8,15 +8,23 @@ kādu datu parādīšanu uz ekrāna, iegūstot nepieciešamās izdrukas, vai
 arī ātrāk sameklētu nepieciešamos datus. Filtrs tiek izmantots arī
 atskaišu sagatavošanā un atsevišķu dokumentu satura aizpildīšanā.
 
-Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
-Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
-filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai izveidotu
-atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež poga
-|images_ozols/24535.gif| (Ctrl+F), tiek atvērts filtra logs:
+Datu atlases kritērijus var saglabāt (.. image::
+images_ozols/24938.png
+    :scale: 100%
+). Izvēloties izveidoto filtra sagatavi (.. image::
+images_ozols/24943.png
+    :scale: 100%
+), filtrs tiek automatizēti aizpildīts no filtra sagataves. Lai
+izveidotu atskaiti pēc vēlamajiem kritērijiem, Rīku joslā jānospiež
+poga.. image:: images_ozols/24535.gif
+    :scale: 100%
+(Ctrl+F), tiek atvērts filtra logs:
 
 
 
-|images_ozols/25913.png|
+.. image:: images_ozols/25913.png
+    :scale: 100%
+
 
 
 
@@ -68,25 +76,10 @@ Brokeris: brokera; Asist.: asistenta; Piesaist.: piesaistītāja.
 
 
 Sagatavotos atskaites datus ir iespējams arī izdrukāt. Lai drukātu
-datus, rīko joslā jānospiež poga |images_ozols/24944.png| (Ctrl+P), un
-tad poga |images_ozols/25620.png| .
-
-.. |images_ozols/24938.png| image:: images_ozols/24938.png
+datus, rīko joslā jānospiež poga .. image:: images_ozols/24944.png
     :scale: 100%
-
-.. |images_ozols/24943.png| image:: images_ozols/24943.png
+(Ctrl+P), un tad poga .. image:: images_ozols/25620.png
     :scale: 100%
-
-.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
-    :scale: 100%
-
-.. |images_ozols/25913.png| image:: images_ozols/25913.png
-    :scale: 100%
-
-.. |images_ozols/24944.png| image:: images_ozols/24944.png
-    :scale: 100%
-
-.. |images_ozols/25620.png| image:: images_ozols/25620.png
-    :scale: 100%
+.
 
  

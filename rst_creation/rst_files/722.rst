@@ -8,7 +8,9 @@ Izvēloties darba režīmu Paroles maiņa, tiks atvērts jauns logs:
 
 
 
-|images_ozols/25869.png|
+.. image:: images_ozols/25869.png
+    :scale: 100%
+
 
 
 
@@ -21,16 +23,12 @@ Atkārtota parole: Atkārtoti jāievada jaunā parole.
 
 
 
-Nospiežot pogu |images_ozols/25621.png| , parole tiek nomainīta un pēc
-jaunās paroles ievades, tiek pārbaudīta paroles atbilstība sistēmas
-OZOLS lietotāju :doc:`Paroles minimālo prasību iestādījumiemi<163>` .
-Ja kāda no prasībām netiek izpildīta, tad sistēma paziņo par
-neatbilstību un neļauj lietotājam nomainīt paroli.
-
-.. |images_ozols/25869.png| image:: images_ozols/25869.png
+Nospiežot pogu .. image:: images_ozols/25621.png
     :scale: 100%
-
-.. |images_ozols/25621.png| image:: images_ozols/25621.png
-    :scale: 100%
+, parole tiek nomainīta un pēc jaunās paroles ievades, tiek pārbaudīta
+paroles atbilstība sistēmas OZOLS lietotāju :doc:`Paroles minimālo
+prasību iestādījumiemi<163>` . Ja kāda no prasībām netiek izpildīta,
+tad sistēma paziņo par neatbilstību un neļauj lietotājam nomainīt
+paroli.
 
  

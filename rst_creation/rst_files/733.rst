@@ -7,7 +7,9 @@ piešķirto lietotājvārdu un paroli):
 
 
 
-|images_ozols/26354.png|
+.. image:: images_ozols/26354.png
+    :scale: 100%
+
 
 
 
@@ -19,8 +21,5 @@ manuāli.
 Izmaksu summu automātiski ielikt izmaksu sarakstā - atzīmējot šo
 izvēles rūtiņu, aprēķinātā summa automātiski tiks nostūīta uz iepriekš
 sagatavoto Izmaksu sarakstu :doc:`Izmaksu sarakstu žurnālā.<238>`
-
-.. |images_ozols/26354.png| image:: images_ozols/26354.png
-    :scale: 100%
 
  

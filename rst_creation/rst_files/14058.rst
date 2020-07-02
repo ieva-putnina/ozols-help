@@ -6,7 +6,9 @@ kontu no konta plāna vai noklusēto konta vērtību:
 
 
 
-|images_ozols/25125.png|
+.. image:: images_ozols/25125.png
+    :scale: 100%
+
 
 
 
@@ -175,8 +177,5 @@ grāmatojuma debeta pusē. Nav
 
 Ja lauku atstāj tukšu, konts grāmatojumā netiks ielikts. Šādi var
 rīkoties, ja grāmatošanas procesā grāmatvedis pats izvēlas kontu.
-
-.. |images_ozols/25125.png| image:: images_ozols/25125.png
-    :scale: 100%
 
  

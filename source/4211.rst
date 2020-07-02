@@ -4,7 +4,9 @@ uzņēmuma partneriem. Neatšifrēto bankas ieņēmumu sarakstā tiek
 parādīti tie bankas ieņēmumi, kuriem dokumentā - bankas ieejošais
 maksājums, nav atšifrēts partneris:
 
-|images_ozols/26304.png|
+.. image:: images_ozols/26304.png
+    :scale: 100%
+
 
 Lai atlasītu dokumentus Neatšifrēto bankas ieņēmumu žurnālā, jāizmanto
 datu atlases filtrs. Dati uz ekrāna tiek parādīti atbilstoši
@@ -14,17 +16,12 @@ nepieciešamās izdrukas, vai arī ātrāk sameklētu nepieciešamos datus.
 Filtrs tiek izmantots arī atskaišu sagatavošanā un atsevišķu dokumentu
 satura aizpildīšanā.
 
-Datu atlases kritērijus var saglabāt ( |images_ozols/24938.png| ).
-Izvēloties izveidoto filtra sagatavi ( |images_ozols/24943.png| ),
-filtrs tiek automatizēti aizpildīts no filtra sagataves.
-
-.. |images_ozols/26304.png| image:: images_ozols/26304.png
+Datu atlases kritērijus var saglabāt (.. image::
+images_ozols/24938.png
     :scale: 100%
-
-.. |images_ozols/24938.png| image:: images_ozols/24938.png
+). Izvēloties izveidoto filtra sagatavi (.. image::
+images_ozols/24943.png
     :scale: 100%
-
-.. |images_ozols/24943.png| image:: images_ozols/24943.png
-    :scale: 100%
+), filtrs tiek automatizēti aizpildīts no filtra sagataves.
 
  

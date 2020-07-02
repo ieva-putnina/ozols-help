@@ -10,13 +10,17 @@ atšķirīgām pircēju grupām varētu definēt atšķirīgas atlaižu grupas.
 Jaunas Atlaižu grupas pievienošana
 ``````````````````````````````````
 
-Lai pievienotu jaunu Atlaižu grupu,rīku joslā jānospiež poga
-|images_ozols/24708.png| un tiks atvērts jauns logs:
+Lai pievienotu jaunu Atlaižu grupu,rīku joslā jānospiež poga.. image::
+images_ozols/24708.png
+    :scale: 100%
+un tiks atvērts jauns logs:
 
 
 
 
-|images_ozols/26504.png|
+.. image:: images_ozols/26504.png
+    :scale: 100%
+
 
 
 
@@ -26,14 +30,18 @@ grupa konkrētai precei vai preču grupai)
 
 
 
-Izmantojot pogu |images_ozols/24708.png| , atlaižu grupai iespējams
-definēt, kurām precēm vai preču grupām atlaide tiks piešķirta:
+Izmantojot pogu .. image:: images_ozols/24708.png
+    :scale: 100%
+, atlaižu grupai iespējams definēt, kurām precēm vai preču grupām
+atlaide tiks piešķirta:
 
 
 
 
 
-|images_ozols/26505.png|
+.. image:: images_ozols/26505.png
+    :scale: 100%
+
 
 
 
@@ -56,21 +64,9 @@ preci, kurai atlaide tiks piemērota;
 
 
 
-Ieraksts tiks saglabāts, izpildot komandu |images_ozols/24710.png| .
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
+Ieraksts tiks saglabāts, izpildot komandu .. image::
+images_ozols/24710.png
     :scale: 100%
-
-.. |images_ozols/26504.png| image:: images_ozols/26504.png
-    :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/26505.png| image:: images_ozols/26505.png
-    :scale: 100%
-
-.. |images_ozols/24710.png| image:: images_ozols/24710.png
-    :scale: 100%
+.
 
  

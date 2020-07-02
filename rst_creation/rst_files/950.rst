@@ -10,23 +10,20 @@ dokumentus pēc to veida, numura vai summas. Atskaiti var sagatavot:
 - valūtas;
 - iekļaujot vai neiekļaujot neapstiprinātos dokumentus
 
-|images_ozols/26560.png|
+.. image:: images_ozols/26560.png
+    :scale: 100%
+
 
 Atskaitē ir redzama informācija par bankas ieņēmumu un saistītajiem
 pārdošanas dokumentiem, to datumiem:
 
-|images_ozols/26561.png|
-
-Atskaiti ir iespējams drukāt, nospiežot rīku joslā pogu
-|images_ozols/25813.png| un izvēloties izdrukas formu.
-
-.. |images_ozols/26560.png| image:: images_ozols/26560.png
+.. image:: images_ozols/26561.png
     :scale: 100%
 
-.. |images_ozols/26561.png| image:: images_ozols/26561.png
-    :scale: 100%
 
-.. |images_ozols/25813.png| image:: images_ozols/25813.png
+Atskaiti ir iespējams drukāt, nospiežot rīku joslā pogu .. image::
+images_ozols/25813.png
     :scale: 100%
+un izvēloties izdrukas formu.
 
  

@@ -10,9 +10,11 @@ pamatlīdzekļu kategorijas.
 
 
 
-|images_ozols/24545.gif| Pamatlīdzekļu kategorijas pamatlīdzekļu
-uzskaitē ir jāizmanto obligāti , jo pamatlīdzekļu kategorijās tiek
-definēti dati, kas tiek izmantoti pamatlīdzekļu operācijās:
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Pamatlīdzekļu kategorijas pamatlīdzekļu uzskaitē ir jāizmanto obligāti
+, jo pamatlīdzekļu kategorijās tiek definēti dati, kas tiek izmantoti
+pamatlīdzekļu operācijās:
 
 
 + pamatlīdzekļu uzskaites, nolietojuma un izdevumu grāmatvediskie
@@ -29,12 +31,16 @@ nosacījumu.
 
 
 Jaunu pamatlīdzekļu kategoriju pievieno pamatlīdzekļu kategoriju
-sarakstā ar funkciju |images_ozols/25605.png| . Pēc datu aizpildīšanas
-jāspiež poga Saglabāt lai saglabātu jaunizveidoto ierakstu.
+sarakstā ar funkciju .. image:: images_ozols/25605.png
+    :scale: 100%
+. Pēc datu aizpildīšanas jāspiež poga Saglabāt lai saglabātu
+jaunizveidoto ierakstu.
 
 
 
-|images_ozols/26435.png|
+.. image:: images_ozols/26435.png
+    :scale: 100%
+
 
 
 
@@ -80,25 +86,15 @@ izdevuma konts.
 
 
 
-Pamatlīdzekļu kategoriju labo ar funkciju |images_ozols/25603.png| .
+Pamatlīdzekļu kategoriju labo ar funkciju .. image::
+images_ozols/25603.png
+    :scale: 100%
+.
 
-Pamatlīdzekļu kategoriju dzēš ar funkciju |images_ozols/25602.png| .
-Pamatlīdzekļu kategoriju sistēma neļauj dzēst, ja tas ir pievienots
+Pamatlīdzekļu kategoriju dzēš ar funkciju .. image::
+images_ozols/25602.png
+    :scale: 100%
+. Pamatlīdzekļu kategoriju sistēma neļauj dzēst, ja tas ir pievienots
 kādam sistēmā ievadītam pamatlīdzeklim.
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/25605.png| image:: images_ozols/25605.png
-    :scale: 100%
-
-.. |images_ozols/26435.png| image:: images_ozols/26435.png
-    :scale: 100%
-
-.. |images_ozols/25603.png| image:: images_ozols/25603.png
-    :scale: 100%
-
-.. |images_ozols/25602.png| image:: images_ozols/25602.png
-    :scale: 100%
 
  

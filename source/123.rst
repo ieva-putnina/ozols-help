@@ -11,12 +11,16 @@ nodrošina kases dokumentu automatizētu grāmatošanu.
 JaunasKases pievienošana:
 `````````````````````````
 
-Lai pievienotu jaunuKasi, rīku joslājānospiež poga
-|images_ozols/24708.png| un tiks atvērts jauns logs:
+Lai pievienotu jaunuKasi, rīku joslājānospiež poga.. image::
+images_ozols/24708.png
+    :scale: 100%
+un tiks atvērts jauns logs:
 
 
 
-|images_ozols/24661.jpg|
+.. image:: images_ozols/24661.jpg
+    :scale: 100%
+
 
 
 
@@ -33,7 +37,9 @@ plāna<114>` :
 
 
 
-|images_ozols/24665.jpg|
+.. image:: images_ozols/24665.jpg
+    :scale: 100%
+
 
 
 
@@ -42,7 +48,9 @@ klasifikatora:
 
 
 
-|images_ozols/24667.jpg|
+.. image:: images_ozols/24667.jpg
+    :scale: 100%
+
 
 
 
@@ -51,10 +59,14 @@ nepieciešamo valūtu:
 
 
 
-|images_ozols/24668.jpg|
+.. image:: images_ozols/24668.jpg
+    :scale: 100%
+
 
 Kad visi nepieciešamie lauki ir aizpildīti, lai saglabātu jaunu Kasi,
-nepieciešams nospiest pogu |images_ozols/24615.jpg| .
+nepieciešams nospiest pogu .. image:: images_ozols/24615.jpg
+    :scale: 100%
+.
 
 
 
@@ -62,47 +74,24 @@ PievienotāsKases labošana:
 ``````````````````````````
 
 Lai veiktu labojumus pievienotajā Kases aprakstā, ierakstu
-nepieciešams atvērt, izmantojot rīku joslas pogu
-|images_ozols/24709.png| (ALT+A), unatvērtajā logā iespējams
-veiktnepieciešamos labojumus:
+nepieciešams atvērt, izmantojot rīku joslas pogu.. image::
+images_ozols/24709.png
+    :scale: 100%
+(ALT+A), unatvērtajā logā iespējams veiktnepieciešamos labojumus:
 
 
 
-|images_ozols/24669.jpg|
-
-
-
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams
-|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
+.. image:: images_ozols/24669.jpg
     :scale: 100%
 
-.. |images_ozols/24661.jpg| image:: images_ozols/24661.jpg
-    :scale: 100%
 
-.. |images_ozols/24665.jpg| image:: images_ozols/24665.jpg
-    :scale: 100%
 
-.. |images_ozols/24667.jpg| image:: images_ozols/24667.jpg
-    :scale: 100%
 
-.. |images_ozols/24668.jpg| image:: images_ozols/24668.jpg
+Pēc labojumu veikšanas, veiktā izmaiņas iespējams .. image::
+images_ozols/24615.jpg
     :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
+vai .. image:: images_ozols/24617.jpg
     :scale: 100%
-
-.. |images_ozols/24709.png| image:: images_ozols/24709.png
-    :scale: 100%
-
-.. |images_ozols/24669.jpg| image:: images_ozols/24669.jpg
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
-    :scale: 100%
+.
 
  

@@ -10,11 +10,15 @@ Jauna Akciju veida pievienošana:
 ++++++++++++++++++++++++++++++++
 
 Lai pievienotu jaunu :doc:`Akciju veidu<7006>` rīku joslā jānospiež
-poga |images_ozols/24708.png| un tiks atvērts jauns logs:
+poga .. image:: images_ozols/24708.png
+    :scale: 100%
+un tiks atvērts jauns logs:
 
 
 
-|images_ozols/25457.png|
+.. image:: images_ozols/25457.png
+    :scale: 100%
+
 
 
 
@@ -28,11 +32,16 @@ faktisko vērtību:
 
 
 
-|images_ozols/25458.png|
+.. image:: images_ozols/25458.png
+    :scale: 100%
 
 
 
-Ieraksts tiks saglabāts, izpildot komandu |images_ozols/24710.png| .
+
+Ieraksts tiks saglabāts, izpildot komandu .. image::
+images_ozols/24710.png
+    :scale: 100%
+.
 
 
 
@@ -40,31 +49,15 @@ Pievienotā Akcijas veida labošana:
 ++++++++++++++++++++++++++++++++++
 
 Lai veiktu labojumus pievienotajā ierakstā, ierakstu nepieciešams
-atvērt, izmantojot rīku joslas pogu |images_ozols/24709.png| (ALT+A),
-un atvērtajā logā veikt labojumus.
-
-Pēc labojumu veikšanas, veiktās izmaiņas iespējams
-|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
+atvērt, izmantojot rīku joslas pogu .. image:: images_ozols/24709.png
     :scale: 100%
+(ALT+A), un atvērtajā logā veikt labojumus.
 
-.. |images_ozols/25457.png| image:: images_ozols/25457.png
+Pēc labojumu veikšanas, veiktās izmaiņas iespējams .. image::
+images_ozols/24615.jpg
     :scale: 100%
-
-.. |images_ozols/25458.png| image:: images_ozols/25458.png
+vai .. image:: images_ozols/24617.jpg
     :scale: 100%
-
-.. |images_ozols/24710.png| image:: images_ozols/24710.png
-    :scale: 100%
-
-.. |images_ozols/24709.png| image:: images_ozols/24709.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
-    :scale: 100%
+.
 
  

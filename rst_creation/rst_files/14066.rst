@@ -26,7 +26,9 @@ Atjaunošanas ekrāna formu var izsaukt no:
 
 
 
-|images_ozols/25741.png|
+.. image:: images_ozols/25741.png
+    :scale: 100%
+
 
 
 
@@ -35,7 +37,9 @@ taustiņu kombināciju CTRL+ALT+M:
 
 
 
-|images_ozols/25742.png|
+.. image:: images_ozols/25742.png
+    :scale: 100%
+
 
 
 
@@ -47,7 +51,9 @@ programmatūras uzstādīšana. Ir iespējami trīs varianti :
 
 
 
-|images_ozols/25743.png|
+.. image:: images_ozols/25743.png
+    :scale: 100%
+
 
 
 
@@ -65,44 +71,34 @@ atkarībā no izmantotās klienta aplikācijas. Ja tiks konstatēts , ka
 faili ir ielādēti veiksmīgi (nebūs paziņojums par pretējo), ielādētie
 faili tiks ielādēti SQL servera datu bāzē. Nākošajā solī tiks
 uzstartēts SQL servera Darbs , kas izpildīs sistēmas failos
-ierakstītās komandu secības. |images_ozols/24545.gif| SQL serverim ir
-jābūt pieejamam Internetam.
+ierakstītās komandu secības. .. image:: images_ozols/24545.gif :scale:
+100% SQL serverim ir jābūt pieejamam Internetam.
 + No lokālā datu kataloga Tas nozīmē, ka programmatūras uzstādīšanas
   sistēmas faili ir iepriekš sagatavoti un ierakstīti kādā no datora
   failu sistēmas katalogiem. Obligāti ir jānorāda sagatavoto failu
-  katalogs: |images_ozols/25744.png| Ja tiks konstatēts , ka programmas
-  atjaunošanas faili ir atbilstoši klienta programmatūras jauninājumu
-  failiem, tiks veikta failu ielāde SQL servera datu bāzes tabulā.
-  Pretējā gadījumā parādīsies paziņojums par failu neatbilstību dotajai
-  sistēmai. Ja failu ielāde ir bijusi veiksmīga, tiks uzstartēts SQL
-  servera darbs. 2. Pēc izvēlētā veida norādīšanas, lai veiktu jaunākas
-  versijas uzstādīšanu, nepieciešams nospiest pogu:
-  |images_ozols/25745.png| Ir jāaizpilda SQL reģistrācijas ekrāna formas
-  ievades lauki un jānospiež poga |images_ozols/25746.png| . Pēc visu
+  katalogs: .. image:: images_ozols/25744.png     :scale: 100% Ja tiks
+  konstatēts , ka programmas atjaunošanas faili ir atbilstoši klienta
+  programmatūras jauninājumu failiem, tiks veikta failu ielāde SQL
+  servera datu bāzes tabulā. Pretējā gadījumā parādīsies paziņojums par
+  failu neatbilstību dotajai sistēmai. Ja failu ielāde ir bijusi
+  veiksmīga, tiks uzstartēts SQL servera darbs. 2. Pēc izvēlētā veida
+  norādīšanas, lai veiktu jaunākas versijas uzstādīšanu, nepieciešams
+  nospiest pogu: .. image:: images_ozols/25745.png     :scale: 100% Ir
+  jāaizpilda SQL reģistrācijas ekrāna formas ievades lauki un jānospiež
+  poga .. image:: images_ozols/25746.png     :scale: 100% . Pēc visu
   iepriekšminēto darbību veikšanasProgrammas atjaunošanas logā vēlreiz
-  jānospiež poga |images_ozols/25746.png| .Ja reģistrācija ir noritējusi
-  sekmīgi, nav bijuši paziņojumi par pretējo, tad tiks parādīts
-  paziņojums par sekmīgu darba uzstartēšanu: |images_ozols/25747.png| 3.
-  Jaunākas versijas uzstādīšana ilgst aptuveni 10-25 minūtes (atkarīgs
-  no servera datora ātrdarbības). SQL servera darba izpildes vēsturei
-  var sekot nospiežot pogu |images_ozols/25748.png| un tiks atvērts
+  jānospiež poga .. image:: images_ozols/25746.png     :scale: 100% .Ja
+  reģistrācija ir noritējusi sekmīgi, nav bijuši paziņojumi par pretējo,
+  tad tiks parādīts paziņojums par sekmīgu darba uzstartēšanu: ..
+  image:: images_ozols/25747.png     :scale: 100% 3. Jaunākas versijas
+  uzstādīšana ilgst aptuveni 10-25 minūtes (atkarīgs no servera datora
+  ātrdarbības). SQL servera darba izpildes vēsturei var sekot nospiežot
+  pogu .. image:: images_ozols/25748.png     :scale: 100% un tiks atvērts
   :doc:`Darba izpildes logs<735>` . Ja programmas uzstādīšanas procedūra
   ir noritējusi veiksmīgi , tad SQL servera darba vēstures kolonnā
   „Rezultāts” ir ieraksts „Succeeded”. Lai ielādētu jaunāko programmas
   versiju, nepieciešams aizvērt programmu un nākamajā pieslēgšanās
-  reizē, izvēlēties opciju: Ielādēt: |images_ozols/25749.png|
-    .. |images_ozols/25741.png| image:: images_ozols/25741.png :scale:
-    100% .. |images_ozols/25742.png| image:: images_ozols/25742.png
-        :scale: 100% .. |images_ozols/25743.png| image::
-    images_ozols/25743.png     :scale: 100% .. |images_ozols/24545.gif|
-    image:: images_ozols/24545.gif     :scale: 100% ..
-    |images_ozols/25744.png| image:: images_ozols/25744.png     :scale: 100%
-    .. |images_ozols/25745.png| image:: images_ozols/25745.png :scale:
-    100% .. |images_ozols/25746.png| image:: images_ozols/25746.png
-        :scale: 100% .. |images_ozols/25746.png| image::
-    images_ozols/25746.png     :scale: 100% .. |images_ozols/25747.png|
-    image:: images_ozols/25747.png     :scale: 100% ..
-    |images_ozols/25748.png| image:: images_ozols/25748.png     :scale: 100%
-    .. |images_ozols/25749.png| image:: images_ozols/25749.png :scale:
-    100%
+  reizē, izvēlēties opciju: Ielādēt: .. image:: images_ozols/25749.png
+      :scale: 100%
+
  .. toctree::   :maxdepth: 4    14094.rst

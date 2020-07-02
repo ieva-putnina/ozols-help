@@ -8,15 +8,21 @@ veidu<105>` , :doc:`Partneru<312>` , :doc:`Pamatlīdzekļu ienākšanas
 dokumentu<433>` un :doc:`Virsgrāmatas<146>` dokumentu izveidē.
 
 Lai apskatītu detalizētu Valūtas aprakstu, Rīku joslā jānospiež poga
-|images_ozols/25420.png| .
+.. image:: images_ozols/25420.png
+    :scale: 100%
+.
 
-Lai pievienotu jaunu Valūtu sarakstam, Rīku joslā jānospiež poga
-|images_ozols/25417.png| , tiek atvētrs logs, kur katrā tekstlodziņā
-jāieraksta informācija par valūtu (piem. skatīt attēlu):
+Lai pievienotu jaunu Valūtu sarakstam, Rīku joslā jānospiež poga ..
+image:: images_ozols/25417.png
+    :scale: 100%
+, tiek atvētrs logs, kur katrā tekstlodziņā jāieraksta informācija par
+valūtu (piem. skatīt attēlu):
 
 
 
-|images_ozols/25383.png|
+.. image:: images_ozols/25383.png
+    :scale: 100%
+
 
 
 
@@ -27,27 +33,15 @@ Nosaukums: Valūtas pilns nosaukums;
 Vienības, Daļas: Iespējams norādīt Vienību un un Daļu precīzu
 locījumu;
 
-Atzīmējot izvēles rūtiņu |images_ozols/25428.png| : dokumentu izveidē
-šī Valūta nebūs pieejama;
+Atzīmējot izvēles rūtiņu .. image:: images_ozols/25428.png
+    :scale: 100%
+: dokumentu izveidē šī Valūta nebūs pieejama;
 
 Pamatvalūta - Valsts pamatvalūta.
 
-Pēc tekstlodziņu aizpildīšanas, jānospiež poga
-|images_ozols/24615.jpg| .
-
-.. |images_ozols/25420.png| image:: images_ozols/25420.png
+Pēc tekstlodziņu aizpildīšanas, jānospiež poga.. image::
+images_ozols/24615.jpg
     :scale: 100%
-
-.. |images_ozols/25417.png| image:: images_ozols/25417.png
-    :scale: 100%
-
-.. |images_ozols/25383.png| image:: images_ozols/25383.png
-    :scale: 100%
-
-.. |images_ozols/25428.png| image:: images_ozols/25428.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
+.
 
  

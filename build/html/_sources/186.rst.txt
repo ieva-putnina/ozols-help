@@ -19,16 +19,22 @@ amata apraksts. Uzņēmumā vienā amatā var strādāt vairāki cilvēki.
 
 
 
-|images_ozols/25604.png|
+.. image:: images_ozols/25604.png
+    :scale: 100%
 
 
 
-Lai pievienotu jaunu amatu, rīku joslā jānospiež poga
-|images_ozols/24708.png| (Atl+P), tiek atvērts logs:
+
+Lai pievienotu jaunu amatu, rīku joslā jānospiež poga .. image::
+images_ozols/24708.png
+    :scale: 100%
+(Atl+P), tiek atvērts logs:
 
 
 
-|images_ozols/26405.png|
+.. image:: images_ozols/26405.png
+    :scale: 100%
+
 
 
 
@@ -50,74 +56,53 @@ Amata aprakstā iespējams norādīt, cik uzņēmumā ir paredzētas amata
 
 
 
-|images_ozols/24545.gif| Štata vietu skaits jāpievieno periodā, kad
-tas ir mainījies. Piemēram, uz 2007. gada janvāri tiek noteikta 1
-štata vieta, bet uz 2008. gada janvāri - 2 štata vietas. Ieraksti
-jāpievieno periodā, kad notiek amatu skaita izmaiņas. Amata aprakstā
-pievienojot štata vietu skaitu un slodzes aprakstā norādot strādājošā
-ieņemamo amatu, tiek gatavotas atskaites :doc:`Štatu saraksta
-aizpildījums<608>` un :doc:`Štatu saraksta aizpildījumu
-kopsavilkums<609>` .
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Štata vietu skaits jāpievieno periodā, kad tas ir mainījies. Piemēram,
+uz 2007. gada janvāri tiek noteikta 1 štata vieta, bet uz 2008. gada
+janvāri - 2 štata vietas. Ieraksti jāpievieno periodā, kad notiek
+amatu skaita izmaiņas. Amata aprakstā pievienojot štata vietu skaitu
+un slodzes aprakstā norādot strādājošā ieņemamo amatu, tiek gatavotas
+atskaites :doc:`Štatu saraksta aizpildījums<608>` un :doc:`Štatu
+saraksta aizpildījumu kopsavilkums<609>` .
 
 
 
 Amata budžeta sadaļā, iespējams izveidot štata vietu skaitu,
 sadalījumā pa struktūrvienībām.Izvēlētā struktūrvienība amata aprakstā
 atskaitēs parādīs, kurā struktūrvienībā ir neaizpildītas štata vietas.
-Nospiežot pogu |images_ozols/24708.png| (Alt+P), jāizvēlas periods un
-amatu skaits.
+Nospiežot pogu .. image:: images_ozols/24708.png
+    :scale: 100%
+(Alt+P), jāizvēlas periods un amatu skaits.
 
 
 
-|images_ozols/25600.png|
-
-
-
-Ar pogu |images_ozols/24708.png| (Alt+P), jāpievieno budžeta summa uz
-attiecīgo periodu.
-
-
-
-|images_ozols/25601.png|
-
-
-
-Lai ierakstus atvērtu un labotu, vai dzēstu, jānospiež poga
-|images_ozols/25603.png| (Alt+A) vai |images_ozols/25602.png| (Alt+D).
-Lai saglabātu pievienotos datus, jānospiež poga
-|images_ozols/24615.jpg| .
-
-.. |images_ozols/25604.png| image:: images_ozols/25604.png
+.. image:: images_ozols/25600.png
     :scale: 100%
 
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
+
+
+
+Ar pogu .. image:: images_ozols/24708.png
+    :scale: 100%
+(Alt+P), jāpievieno budžeta summa uz attiecīgo periodu.
+
+
+
+.. image:: images_ozols/25601.png
     :scale: 100%
 
-.. |images_ozols/26405.png| image:: images_ozols/26405.png
-    :scale: 100%
 
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
 
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
 
-.. |images_ozols/25600.png| image:: images_ozols/25600.png
+Lai ierakstus atvērtu un labotu, vai dzēstu, jānospiež poga .. image::
+images_ozols/25603.png
     :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
+(Alt+A) vai .. image:: images_ozols/25602.png
     :scale: 100%
-
-.. |images_ozols/25601.png| image:: images_ozols/25601.png
+(Alt+D). Lai saglabātu pievienotos datus, jānospiež poga .. image::
+images_ozols/24615.jpg
     :scale: 100%
-
-.. |images_ozols/25603.png| image:: images_ozols/25603.png
-    :scale: 100%
-
-.. |images_ozols/25602.png| image:: images_ozols/25602.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
+.
 
  

@@ -1255,8 +1255,7 @@ id,parent_id,ssw_id,skf_id,caption,html,
 <P>Kad ir izveidotas <A href=""/help/?ssw=33&amp;skf_id=162"">Lietotāju grupas</A>&nbsp; un <A href=""/help/?ssw=33&amp;skf_id=194"">Lietotāji</A> ir pievienoti atbilstošajām lietotāju grupām, jānosaka lietotāju tiesības izmantot pieejamos darba režīmus.</P>_x000D_
 <P>Tiesības darba režīmiem sistēmā OZOLS var izveidot sadaļā Konfigurācija-&gt;Lietotāji-&gt;<A href=""/help/?ssw=33&amp;skf_id=169"">Lietotāju tiesības darba režīmiem</A></P>_x000D_
 <P>Tiesības&nbsp;uzņēmumiem sistēmā OZOLS var izveidot sadaļā Konfigurācija-&gt;Lietotāji-&gt;<A href=""/help/?ssw=33&amp;skf_id=190"">Lietotāju tiesības uzņēmumiem</A></P>",
-14097,14086,0,14097, Lietotāju lomu funkcijas,"<P><A href=""/help/?ssw=33&amp;skf_id=169""></A>&nbsp;</P>_x000D_
-<P>Darba režīmā: <A href=""/help/?ssw=33&amp;skf_id=169"">Lietotāju tiesības darba režīmiem</A>, pieejamās funkcijas, izmantojamas lietotāja\lomas tiesību automātiskai fiksēšanai darba režīmiem DZĒST, LABOT, PIEVIENOT:</P>_x000D_
+14097,14086,0,14097, Lietotāju lomu funkcijas,"<P>Darba režīmā: <A href=""/help/?ssw=33&amp;skf_id=169"">Lietotāju tiesības darba režīmiem</A>, pieejamās funkcijas, izmantojamas lietotāja\lomas tiesību automātiskai fiksēšanai darba režīmiem DZĒST, LABOT, PIEVIENOT:</P>_x000D_
 <P>&nbsp;</P>_x000D_
 <P><IMG src=""/help/Skin/help/img.aspx?pid=25870"" border=0></P>_x000D_
 <P>&nbsp;</P>_x000D_
@@ -1670,7 +1669,7 @@ grāmatošanai:<br><br>1. Nepieciešams koriģēt esošo standartizēto Pamatlī
 <P>Skats&nbsp;<IMG src=""/help/Skin/help/img.aspx?pid=25036"" border=0> vienu kontējumu parāda vienā rindā. Šajā skatā var parādīt vairāk kolonnas – datus no izveidotā grāmatojuma. Parādāmās kolonnas uz ekrāna var konfigurēt izmantojot komandu Kolonnas&nbsp;<IMG src=""/help/Skin/help/img.aspx?pid=24952"" border=0> , komandu izvēli izsaucot ar labo peles pogu uzklikšķinot grāmatojuma saturā:</P>_x000D_
 <P>&nbsp;</P>_x000D_
 <P><IMG src=""/help/Skin/help/img.aspx?pid=25039"" border=0></P>",
-14055,14044,0,14055,Grāmatojuma labošana,"<P><FONT style=""BACKGROUND-COLOR: #808080"" color=#ffffff></FONT><A href=""/help/?ssw=33&amp;skf_id=521""></A>&nbsp;</P>_x000D_
+14055,14044,0,14055,Grāmatojuma labošana,"<P><FONT style=""BACKGROUND-COLOR: #808080"" color=#ffffff></FONT>&nbsp;</P>_x000D_
 <P>Grāmatojumus var labot no grāmatojumu žurnāla, atverot no pirmdokumenta vai sameklējot grāmatojumu kādā atskaitē, piemēram, <A href=""/help/?ssw=33&amp;skf_id=521"">Operāciju pārskats</A>. </P>_x000D_
 <H5>Grāmatojumus var labot:</H5>_x000D_
 <P>1. Atverot grāmatojumu no <A href=""/help/?ssw=33&amp;skf_id=131"">Grāmatojumu žurnāla</A> <SPAN class=shadow>&gt;Dokumenti &gt; Virsgrāmata &gt; Grāmatojumu žurnāls</SPAN></P>_x000D_

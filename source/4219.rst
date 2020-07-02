@@ -28,22 +28,29 @@ kur iespējams redzēt datumu, kad veikta pēdējā korespondence
 unkorespondences nosaukumu, kur informācija tiek ņemta no lietai
 piesaistītās korespondences nosaukuma.
 
-|images_ozols/24545.gif| Ja sagatavojot atskaiti kolonnās reg.maks.no
-un reg.maks.līdz ir aizpildīti dati - tas nozīmē, ka uz attiecīgo
-lietu ir panākta vienošanās un sastādīta apmaksas plāns.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Ja sagatavojot atskaiti kolonnās reg.maks.no un reg.maks.līdz ir
+aizpildīti dati - tas nozīmē, ka uz attiecīgo lietu ir panākta
+vienošanās un sastādīta apmaksas plāns.
 
 
 
-|images_ozols/24950.png| No Regresu lietu parādu atskaites iespējams:
+.. image:: images_ozols/24950.png
+    :scale: 100%
+No Regresu lietu parādu atskaites iespējams:
 
 
 
-|images_ozols/26331.png|
+.. image:: images_ozols/26331.png
+    :scale: 100%
 
 
 
-1. Izmantojot rīku joslas pogu: |images_ozols/26314.png| ,
-nospiežottaustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams
+
+1. Izmantojot rīku joslas pogu:.. image:: images_ozols/26314.png
+    :scale: 100%
+, nospiežottaustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams
 automatizēti uzreiz vairākiem ierakstiem sagatavot korespondenci -
 aizpildot nepieciešamos laukus, automātiski tiks izveidots
 korespondences ieraksts un piesaistīts visām lietām, kuras bija
@@ -51,19 +58,23 @@ atzīmētas:
 
 
 
-|images_ozols/26315.png|
+.. image:: images_ozols/26315.png
+    :scale: 100%
 
 
 
-2. Izmantojot rīku joslas pogu: |images_ozols/26314.png| ,
-nospiežottaustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams
+
+2. Izmantojot rīku joslas pogu:.. image:: images_ozols/26314.png
+    :scale: 100%
+, nospiežottaustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams
 automatizēti uzreiz vairākiem ierakstiem nomainīt korespondences
 adresātu.
 
 
 
-3. Izmantojot rīku joslas pogu: |images_ozols/26314.png| ,
-nospiežottaustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams
+3. Izmantojot rīku joslas pogu:.. image:: images_ozols/26314.png
+    :scale: 100%
+, nospiežottaustiņu CTRL+atzīmējot ierakstus no atskaites - iespējams
 automatizēti uzreiz vairākiem ierakstiem nomainīt atbildīgo juristu.
 
 
@@ -77,26 +88,5 @@ izvēlētajai lietai.
 sarakstu izvēlētajai lietai.
 
 
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/24950.png| image:: images_ozols/24950.png
-    :scale: 100%
-
-.. |images_ozols/26331.png| image:: images_ozols/26331.png
-    :scale: 100%
-
-.. |images_ozols/26314.png| image:: images_ozols/26314.png
-    :scale: 100%
-
-.. |images_ozols/26315.png| image:: images_ozols/26315.png
-    :scale: 100%
-
-.. |images_ozols/26314.png| image:: images_ozols/26314.png
-    :scale: 100%
-
-.. |images_ozols/26314.png| image:: images_ozols/26314.png
-    :scale: 100%
 
  

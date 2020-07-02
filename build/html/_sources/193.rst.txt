@@ -5,28 +5,25 @@ Uzņēmējdarbības veids:
 
 
 
-|images_ozols/25426.png|
-
-Lai pievienotu jaunu Uzņēmējdarbības veidu, Rīku joslā jānospiež poga
-|images_ozols/25417.png| , tiek atvērts logs:
+.. image:: images_ozols/25426.png
+    :scale: 100%
 
 
+Lai pievienotu jaunu Uzņēmējdarbības veidu, Rīku joslā jānospiež
+poga.. image:: images_ozols/25417.png
+    :scale: 100%
+, tiek atvērts logs:
 
-|images_ozols/25427.png|
+
+
+.. image:: images_ozols/25427.png
+    :scale: 100%
+
 
 
 
 Kods: saīsināts Uzņēmējdarbības veida nosaukums.
 
 Nosaukums: Uzņēmējdarbības veida pilns nosaukums.
-
-.. |images_ozols/25426.png| image:: images_ozols/25426.png
-    :scale: 100%
-
-.. |images_ozols/25417.png| image:: images_ozols/25417.png
-    :scale: 100%
-
-.. |images_ozols/25427.png| image:: images_ozols/25427.png
-    :scale: 100%
 
  

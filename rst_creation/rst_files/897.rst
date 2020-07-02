@@ -6,13 +6,17 @@ kas piesaistīti izveidotajiem cenu veidiem uz konkrētu datumu.
 Jauna Cenu veida kursa pievienošana
 ```````````````````````````````````
 
-Lai pievienotu jaunu Cenu veidu kursu,rīku joslā jānospiež poga
-|images_ozols/24708.png| un tiks atvērts jauns logs:
+Lai pievienotu jaunu Cenu veidu kursu,rīku joslā jānospiež poga..
+image:: images_ozols/24708.png
+    :scale: 100%
+un tiks atvērts jauns logs:
 
 
 
 
-|images_ozols/26501.png|
+.. image:: images_ozols/26501.png
+    :scale: 100%
+
 
 
 
@@ -31,15 +35,9 @@ piesaistīta definētajam cenas veidam;
 
 
 
-Ieraksts tiks saglabāts, izpildot komandu |images_ozols/24710.png| .
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
+Ieraksts tiks saglabāts, izpildot komandu .. image::
+images_ozols/24710.png
     :scale: 100%
-
-.. |images_ozols/26501.png| image:: images_ozols/26501.png
-    :scale: 100%
-
-.. |images_ozols/24710.png| image:: images_ozols/24710.png
-    :scale: 100%
+.
 
  

@@ -65,13 +65,16 @@ Anulēto dokumentu parādīšana dokumentu žurnālos
 
 Standartā anulētie dokumenti dokumentu žurnālos parādīti netiek. Lai
 dokumentu žurnālos tiktu parādīti arī anulētie dokumenti, jāizsauc
-dokumentu žurnāla filtrs ( |images_ozols/24535.gif| ). Filtrā
-jāaktivizē izvēle:
+dokumentu žurnāla filtrs (.. image:: images_ozols/24535.gif
+    :scale: 100%
+). Filtrā jāaktivizē izvēle:
 
 
 
 
-|images_ozols/24548.gif|
+.. image:: images_ozols/24548.gif
+    :scale: 100%
+
 
 
 
@@ -144,7 +147,9 @@ Apskatīt Dokumenta priekšapskate Drukāt Dokumenta drukāšana Aizvērt
 Ekrāna formas aizvēršana
 
 
-|images_ozols/25287.png|
+.. image:: images_ozols/25287.png
+    :scale: 100%
+
 
 
 
@@ -241,7 +246,9 @@ Page down - pārvietoties ar kursoru virzienā uz leju
 
 
 
-|images_ozols/25288.png|
+.. image:: images_ozols/25288.png
+    :scale: 100%
+
 
 
 
@@ -265,11 +272,15 @@ kontu plānā, ir pieejams vēl viens – kokveidīgais skats.
 
 
 
-|images_ozols/24556.gif|
+.. image:: images_ozols/24556.gif
+    :scale: 100%
 
 
 
-|images_ozols/25289.png|
+
+.. image:: images_ozols/25289.png
+    :scale: 100%
+
 
 
 
@@ -285,7 +296,9 @@ nepieciešama Internet Explorer 6. versija.
 
 
 
-|images_ozols/24558.gif|
+.. image:: images_ozols/24558.gif
+    :scale: 100%
+
 
 
 
@@ -345,9 +358,11 @@ reizi, ieejot programmā no jauna, šie jautājumi tiks aktivizēti.
 
 
 
-|images_ozols/24545.gif| Drošības jautājumi pasargā datorprogrammā
-ievadītos datus no zaudējumiem, kas var rasties nejaušas izmainīšanas
-vai dzēšanas rezultātā.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Drošības jautājumi pasargā datorprogrammā ievadītos datus no
+zaudējumiem, kas var rasties nejaušas izmainīšanas vai dzēšanas
+rezultātā.
 
 
 
@@ -366,7 +381,9 @@ komandas aktivizēšanu.
 
 
 
-|images_ozols/25290.png|
+.. image:: images_ozols/25290.png
+    :scale: 100%
+
 
 
 
@@ -395,7 +412,9 @@ kursors ekrāna formā nostāsies uz meklētā ieraksta.
 
 
 
-|images_ozols/25291.png|
+.. image:: images_ozols/25291.png
+    :scale: 100%
+
 
 
 
@@ -414,7 +433,9 @@ izvēlni
 
 
 
-|images_ozols/25292.png|
+.. image:: images_ozols/25292.png
+    :scale: 100%
+
 
 
 
@@ -452,7 +473,9 @@ Lai izmantotu saglabājamo filtru:
 #. Jāatver filtrs, jāizvēlas filtra kritēriji un tie jāsaglabā
 
 
-|images_ozols/25293.png|
+.. image:: images_ozols/25293.png
+    :scale: 100%
+
 
 
 
@@ -462,7 +485,9 @@ komanda Turpināt.
 
 
 
-|images_ozols/25294.png|
+.. image:: images_ozols/25294.png
+    :scale: 100%
+
 
 
 
@@ -473,7 +498,9 @@ sagatavi, no tās automātiski tiek aizpildītas filtra izvēles.
 
 
 
-|images_ozols/25295.png|
+.. image:: images_ozols/25295.png
+    :scale: 100%
+
 
 
 
@@ -484,7 +511,9 @@ filtra ekrāna formas atvēršanas.
 
 
 
-|images_ozols/25296.png|
+.. image:: images_ozols/25296.png
+    :scale: 100%
+
 
 
 
@@ -510,7 +539,9 @@ iepriekšējā dokumenta pievienošanas un saglabāšanas.
 
 
 
-|images_ozols/24569.gif|
+.. image:: images_ozols/24569.gif
+    :scale: 100%
+
 
 
 
@@ -529,7 +560,9 @@ Ctrl+K , rīku joslas komandas palīdzību vai lietojot izvēlni
 
 
 
-|images_ozols/25297.png|
+.. image:: images_ozols/25297.png
+    :scale: 100%
+
 
 
 
@@ -593,7 +626,9 @@ dokumentu laukā Numurs jāuzklikšķina ar peles labo pogu
 
 
 
-|images_ozols/25298.png|
+.. image:: images_ozols/25298.png
+    :scale: 100%
+
 
 
 
@@ -603,68 +638,13 @@ turpināta ar nākošo skaitli no norādītā laukā Turpināt numerāciju no.
 
 
 
-|images_ozols/25299.png|
+.. image:: images_ozols/25299.png
+    :scale: 100%
+
 
 
 
 Numerācija tiks atsākta no nākamā skaitļa, kas šajā ekrāna formā ticis
 norādīts, ja numuri nav izmantoti datu bāzē saglabātajos dokumentos.
-
-.. |images_ozols/24535.gif| image:: images_ozols/24535.gif
-    :scale: 100%
-
-.. |images_ozols/24548.gif| image:: images_ozols/24548.gif
-    :scale: 100%
-
-.. |images_ozols/25287.png| image:: images_ozols/25287.png
-    :scale: 100%
-
-.. |images_ozols/25288.png| image:: images_ozols/25288.png
-    :scale: 100%
-
-.. |images_ozols/24556.gif| image:: images_ozols/24556.gif
-    :scale: 100%
-
-.. |images_ozols/25289.png| image:: images_ozols/25289.png
-    :scale: 100%
-
-.. |images_ozols/24558.gif| image:: images_ozols/24558.gif
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/25290.png| image:: images_ozols/25290.png
-    :scale: 100%
-
-.. |images_ozols/25291.png| image:: images_ozols/25291.png
-    :scale: 100%
-
-.. |images_ozols/25292.png| image:: images_ozols/25292.png
-    :scale: 100%
-
-.. |images_ozols/25293.png| image:: images_ozols/25293.png
-    :scale: 100%
-
-.. |images_ozols/25294.png| image:: images_ozols/25294.png
-    :scale: 100%
-
-.. |images_ozols/25295.png| image:: images_ozols/25295.png
-    :scale: 100%
-
-.. |images_ozols/25296.png| image:: images_ozols/25296.png
-    :scale: 100%
-
-.. |images_ozols/24569.gif| image:: images_ozols/24569.gif
-    :scale: 100%
-
-.. |images_ozols/25297.png| image:: images_ozols/25297.png
-    :scale: 100%
-
-.. |images_ozols/25298.png| image:: images_ozols/25298.png
-    :scale: 100%
-
-.. |images_ozols/25299.png| image:: images_ozols/25299.png
-    :scale: 100%
 
  

@@ -12,12 +12,15 @@ Jaunas caurlaides pievienošana datu bāzei
 Caurlaides pievienošana, izmantojot rīku joslas komandpogu "Pievienot"
 un aizpildot caurlaides apraksta ekrāna formu, nodrošina vienas
 caurlaides pievienošanu datu bāzē. Atrodoties Caurlaižu žurnālā, rīku
-joslā nospiežot komandpogu |images_ozols/24708.png| , tiks atvērta
-caurlaides apraksta ekrāna forma:
+joslā nospiežot komandpogu.. image:: images_ozols/24708.png
+    :scale: 100%
+, tiks atvērta caurlaides apraksta ekrāna forma:
 
 
 
-|images_ozols/25006.png|
+.. image:: images_ozols/25006.png
+    :scale: 100%
+
 
 
 
@@ -50,7 +53,9 @@ Caurlaižu žurnālā pieejamās funkcijas
 Caurlaižu žurnālā ir izveidotas funkcijas:
 
 
-|images_ozols/24983.png|
+.. image:: images_ozols/24983.png
+    :scale: 100%
+
 
 
 
@@ -70,22 +75,29 @@ izsniegta caurlaide;
 
 
 Uzņēmuma rīcībā esošo caurlaižu numuri jāpievieno Caurlaižu žurnālā.
-Caurlaižu pakas pievienošanai, nepieciešams izvēlētiesfunkciju
-|images_ozols/25007.png| , kasnodrošina vairāku caurlaižu vienlaicīgu
-pievienošanu datu bāzē. Norādot caurlaižu skaitu un Caurlaides sākuma
-numuru, tiek automātiski uzģenerēts norādītais skaits caurlaižu:
+Caurlaižu pakas pievienošanai, nepieciešams izvēlētiesfunkciju ..
+image:: images_ozols/25007.png
+    :scale: 100%
+, kasnodrošina vairāku caurlaižu vienlaicīgu pievienošanu datu bāzē.
+Norādot caurlaižu skaitu un Caurlaides sākuma numuru, tiek automātiski
+uzģenerēts norādītais skaits caurlaižu:
 
 
 
-|images_ozols/25002.png|
+.. image:: images_ozols/25002.png
+    :scale: 100%
 
 
-Pēc visu nepieciešamo lauku aizpildīšanasnospiežot pogu
-|images_ozols/24615.jpg| -dokuments tiks saglabāts un būs pieejams
-apskatei/labošanai :doc:`Caurlaižu žurnālā<773>` .
 
-Nospiežot pogu |images_ozols/24875.png| , darbība tiks atcelta un
-caurlaides netiks pievienotas datu bāzei.
+Pēc visu nepieciešamo lauku aizpildīšanasnospiežot pogu .. image::
+images_ozols/24615.jpg
+    :scale: 100%
+-dokuments tiks saglabāts un būs pieejams apskatei/labošanai
+:doc:`Caurlaižu žurnālā<773>` .
+
+Nospiežot pogu .. image:: images_ozols/24875.png
+    :scale: 100%
+, darbība tiks atcelta un caurlaides netiks pievienotas datu bāzei.
 
 
 
@@ -94,14 +106,18 @@ caurlaides netiks pievienotas datu bāzei.
 2) Atvērt ieņēmumu dokumentu
 ++++++++++++++++++++++++++++
 
-Izvēloties Caurlaižu žurnālāpieejamo funkciju |images_ozols/25008.png|
+Izvēloties Caurlaižu žurnālāpieejamo funkciju .. image::
+images_ozols/25008.png
+    :scale: 100%
 , iespēja atvērt Ieņēmumu dokumentu - :doc:`Kases ieņēmumu
 orderi<350>` vai :doc:`Bankas ieejošais maksājumu<349>` , kuram
 izvēlētā Caurlaide ir piesaistīta:
 
 
 
-|images_ozols/25010.png|
+.. image:: images_ozols/25010.png
+    :scale: 100%
+
 
 
 
@@ -112,13 +128,17 @@ izvēlētā Caurlaide ir piesaistīta:
 
 
 
-Funkcija |images_ozols/25005.png| , nodoršina iespēju izsniegt
-caurlaides, kuras netiek piesaistītas nevienam Kases vai Bankas
-ieejošam maksājumam, bet tiek izsniegtas bez maksas:
+Funkcija .. image:: images_ozols/25005.png
+    :scale: 100%
+, nodoršina iespēju izsniegt caurlaides, kuras netiek piesaistītas
+nevienam Kases vai Bankas ieejošam maksājumam, bet tiek izsniegtas bez
+maksas:
 
 
 
-|images_ozols/25003.png|
+.. image:: images_ozols/25003.png
+    :scale: 100%
+
 
 
 
@@ -128,12 +148,17 @@ Pievienoto caurlaižu labošana
 Labojumus saglabātajādokumentā iespējams veikt atverot Caurlaides
 aprakstu, kurš pieejams apskatei/labošanai :doc:`Caurlaižu
 žurnālā<773>` . Lai labotu pievienoto caurlaidi, Caurlaižu žurnālā
-jāizmanto komandpoga |images_ozols/24709.png| (ALT+A),
-unatvērtajāierakstā iespējams veiktnepieciešamos labojumus caurlaides
-apraksta ekrāna formā.
+jāizmanto komandpoga.. image:: images_ozols/24709.png
+    :scale: 100%
+(ALT+A), unatvērtajāierakstā iespējams veiktnepieciešamos labojumus
+caurlaides apraksta ekrāna formā.
 
-Pēc labojumu veikšanas, veiktās izmaiņas iespējams
-|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
+Pēc labojumu veikšanas, veiktās izmaiņas iespējams .. image::
+images_ozols/24615.jpg
+    :scale: 100%
+vai .. image:: images_ozols/24617.jpg
+    :scale: 100%
+.
 
 
 
@@ -149,47 +174,5 @@ konfigurācijā<708>` ir norādīta pazīme „Atļaut uzskaites dokumentu
 ievadi bankas ieņēmumos”, tad līdzīgi kā :doc:`Kases ieņēmumu
 orderī<350>` , ir iespēja norādīt caurlaides, par kurām veikts
 maksājums.
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-    :scale: 100%
-
-.. |images_ozols/25006.png| image:: images_ozols/25006.png
-    :scale: 100%
-
-.. |images_ozols/24983.png| image:: images_ozols/24983.png
-    :scale: 100%
-
-.. |images_ozols/25007.png| image:: images_ozols/25007.png
-    :scale: 100%
-
-.. |images_ozols/25002.png| image:: images_ozols/25002.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/24875.png| image:: images_ozols/24875.png
-    :scale: 100%
-
-.. |images_ozols/25008.png| image:: images_ozols/25008.png
-    :scale: 100%
-
-.. |images_ozols/25010.png| image:: images_ozols/25010.png
-    :scale: 100%
-
-.. |images_ozols/25005.png| image:: images_ozols/25005.png
-    :scale: 100%
-
-.. |images_ozols/25003.png| image:: images_ozols/25003.png
-    :scale: 100%
-
-.. |images_ozols/24709.png| image:: images_ozols/24709.png
-    :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-    :scale: 100%
-
-.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
-    :scale: 100%
 
  

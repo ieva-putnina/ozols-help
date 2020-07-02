@@ -13,49 +13,40 @@ Grāmatojumus var labot:
 1. Atverot grāmatojumu no :doc:`Grāmatojumu žurnāla<131>` >Dokumenti >
 Virsgrāmata > Grāmatojumu žurnāls
 
-Ja grāmatojums ir apstiprināts, jāatceļ apstiprinājums (Ctrl+R vai
-|images_ozols/24937.png| ). Jālabo grāmatojums. Grāmatojums atkārtoti
-jāapstiprina (Ctrl+R vai |images_ozols/24937.png| ).
+Ja grāmatojums ir apstiprināts, jāatceļ apstiprinājums (Ctrl+R vai..
+image:: images_ozols/24937.png
+    :scale: 100%
+). Jālabo grāmatojums. Grāmatojums atkārtoti jāapstiprina (Ctrl+R
+vai.. image:: images_ozols/24937.png
+    :scale: 100%
+).
 
 
 
 2. Atverot grāmatojumu no pirmdokumenta
 
-No dokumentu žurnāla, jāatver pirmdokuments (Alt+A vai
-|images_ozols/24932.png| ) un jāatver grāmatojums (Ctrl+G vai
-|images_ozols/24947.png| ). Grāmatojumam jānoņem apstiprinājums
-(Ctrl+R vai |images_ozols/24937.png| ). Pēc grāmatojuma labošanas, tas
-jāapstiprina (Ctrl+R vai |images_ozols/24937.png| ).
+No dokumentu žurnāla, jāatver pirmdokuments (Alt+A vai.. image::
+images_ozols/24932.png
+    :scale: 100%
+) un jāatver grāmatojums (Ctrl+G vai.. image:: images_ozols/24947.png
+    :scale: 100%
+). Grāmatojumam jānoņem apstiprinājums (Ctrl+R vai .. image::
+images_ozols/24937.png
+    :scale: 100%
+). Pēc grāmatojuma labošanas, tas jāapstiprina (Ctrl+R vai.. image::
+images_ozols/24937.png
+    :scale: 100%
+).
 
 
 3. Atverot grāmatojumu no :doc:`Operāciju pārskata<521>`
 Operāciju pārskata ieraksts ir viens grāmatojums un to var atvērt ar
 peles dubultklikšķa palīdzību. Ja grāmatojums ir apstiprināts, jānoņem
-apstiprinājums (Ctrl+R vai |images_ozols/24937.png| ), jālabo
-grāmatojums. Labotais grāmatojums jāapstiprina. Operāciju pārskata
-atskaiti var pārzīmēt (F5), lai labojumi tiktu parādīti uz ekrāna
-atvērtajā atskaitē.
-
-
-.. |images_ozols/24937.png| image:: images_ozols/24937.png
+apstiprinājums (Ctrl+R vai.. image:: images_ozols/24937.png
     :scale: 100%
+), jālabo grāmatojums. Labotais grāmatojums jāapstiprina. Operāciju
+pārskata atskaiti var pārzīmēt (F5), lai labojumi tiktu parādīti uz
+ekrāna atvērtajā atskaitē.
 
-.. |images_ozols/24937.png| image:: images_ozols/24937.png
-    :scale: 100%
-
-.. |images_ozols/24932.png| image:: images_ozols/24932.png
-    :scale: 100%
-
-.. |images_ozols/24947.png| image:: images_ozols/24947.png
-    :scale: 100%
-
-.. |images_ozols/24937.png| image:: images_ozols/24937.png
-    :scale: 100%
-
-.. |images_ozols/24937.png| image:: images_ozols/24937.png
-    :scale: 100%
-
-.. |images_ozols/24937.png| image:: images_ozols/24937.png
-    :scale: 100%
 
  

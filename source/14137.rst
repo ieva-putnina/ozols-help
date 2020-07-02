@@ -5,7 +5,9 @@ Kas jāzina uzsākot darbu ar sistēmu Ozols:
 
 1. Šādi izskatās Ozols darbavirsma, to der iepazīt, jo tas būs Jūsu
 galvenais darbarīks
-|images_ozols//files/Ozols_darbavirsma.jpg.gif|
+.. image:: images_ozols//files/Ozols_darbavirsma.jpg.gif
+    :scale: 100%
+
 
 2. :doc:`šeit atradīsiet pamatnostādnes darba uzsākšanai<14133>`
 
@@ -28,9 +30,5 @@ programmatūru uz datora no šīs saites:
 
 + :doc:`http://download.ozols.lv/ozols/setups/Ozols365_setup.exe`
 
-
-.. |images_ozols//files/Ozols_darbavirsma.jpg.gif| image::
-images_ozols//files/Ozols_darbavirsma.jpg.gif
-    :scale: 100%
 
  

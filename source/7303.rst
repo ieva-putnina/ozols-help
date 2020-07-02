@@ -5,7 +5,9 @@ notikumus<7308>` un veidojot dažādas :doc:`atskaites<7317>` .
 
 
 
-|images_ozols/26186.jpg|
+.. image:: images_ozols/26186.jpg
+    :scale: 100%
+
 
 
 
@@ -26,22 +28,14 @@ Radošā brigāde un pasākuma dalībnieki tiek pievienoti pievienojot
 :doc:`notikumu<7308>` .
 
 Lai pasākums tiktu saglabāts :doc:`pasākumu sarakstā<7312>` ,
-jānospiež poga |images_ozols/25829.png| , un, lai pievienotu jaunu
-pasākumu, jānospiež poga |images_ozols/25850.png| un jāpievieno jauns
-pasākums. Lai, pēc saglabāšanas, labotu pievienotā pasākuma ierakstus,
-jānospiež poga |images_ozols/25832.png| un pēc labošanas ieraksts
-jāsaglabā.
-
-.. |images_ozols/26186.jpg| image:: images_ozols/26186.jpg
+jānospiež poga .. image:: images_ozols/25829.png
     :scale: 100%
-
-.. |images_ozols/25829.png| image:: images_ozols/25829.png
+, un, lai pievienotu jaunu pasākumu, jānospiež poga .. image::
+images_ozols/25850.png
     :scale: 100%
-
-.. |images_ozols/25850.png| image:: images_ozols/25850.png
+un jāpievieno jauns pasākums. Lai, pēc saglabāšanas, labotu pievienotā
+pasākuma ierakstus, jānospiež poga .. image:: images_ozols/25832.png
     :scale: 100%
-
-.. |images_ozols/25832.png| image:: images_ozols/25832.png
-    :scale: 100%
+un pēc labošanas ieraksts jāsaglabā.
 
  

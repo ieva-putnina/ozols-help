@@ -5,7 +5,9 @@ atskaišu Rezultāti - :doc:`sakonfigurētās atskaišu kolonnas<214>` ,
 kas nosaka, kādi dati atskaitē tiks parādīti. Atskaite tiek sagatavota
 no izvēlnes:
 
-|images_ozols/26548.png|
+.. image:: images_ozols/26548.png
+    :scale: 100%
+
 
 Rezultātu atskaitē vertikāli datus var atlasīt pa aprēķina periodiem,
 atsevišķām struktūrvienībām, finansējumiem, amatiem, slodzes veidiem,
@@ -18,19 +20,13 @@ Atskaitē dati tiek parādīti vertikālā sarakstā. Atbilstoši izvēlētajām
 atskaites kolonnām datu atlases filtrā, atskaitē tiek parādīti visi
 aprēķinātie algu rezultāti strādājošajiem.
 
-|images_ozols/26549.png|
-
-Atskaitei iespējams mainīt skatu, rīku joslā nospiežot pogu Skats
-|images_ozols/26550.png| , uz HTML, lai eksportētu uz MS Excel vai lai
-izdrukātu.
-
-.. |images_ozols/26548.png| image:: images_ozols/26548.png
+.. image:: images_ozols/26549.png
     :scale: 100%
 
-.. |images_ozols/26549.png| image:: images_ozols/26549.png
-    :scale: 100%
 
-.. |images_ozols/26550.png| image:: images_ozols/26550.png
+Atskaitei iespējams mainīt skatu, rīku joslā nospiežot pogu Skats ..
+image:: images_ozols/26550.png
     :scale: 100%
+, uz HTML, lai eksportētu uz MS Excel vai lai izdrukātu.
 
  

@@ -16,7 +16,9 @@ Apmaksas plāns, Koresp.(Jauns):
 
 
 
-|images_ozols/26287.png|
+.. image:: images_ozols/26287.png
+    :scale: 100%
+
 
 
 
@@ -40,7 +42,9 @@ likmidienā, pēc kura tiks aprēķināts kavējuma naudas apmērs:
 
 
 
-|images_ozols/26288.png|
+.. image:: images_ozols/26288.png
+    :scale: 100%
+
 
 
 
@@ -77,7 +81,9 @@ lauki, kuros iespējams norādīt:
 
 
 
-|images_ozols/26289.png|
+.. image:: images_ozols/26289.png
+    :scale: 100%
+
 
 
 
@@ -88,7 +94,9 @@ kurš būs pieejams :doc:`Iepirkumu dokumentu žurnālā<210>` .
 
 
 Lai labotos/pievienotos datus regresa lietas kartiņas lapā saglabātu,
-nepieciešams nospiest pogu: |images_ozols/25621.png| .
+nepieciešams nospiest pogu: .. image:: images_ozols/25621.png
+    :scale: 100%
+.
 
 
 
@@ -108,7 +116,9 @@ kādu no grāmatojumiem pēc iepriekš izveidotiem šabloniem:
 
 
 
-|images_ozols/26291.png|
+.. image:: images_ozols/26291.png
+    :scale: 100%
+
 
 
 
@@ -132,7 +142,9 @@ kuru regresa lietas summa tiks atgūta:
 
 
 
-|images_ozols/26293.png|
+.. image:: images_ozols/26293.png
+    :scale: 100%
+
 
 
 
@@ -143,7 +155,9 @@ termiņu, skaitu un definēto procentu:
 
 
 
-|images_ozols/26295.png|
+.. image:: images_ozols/26295.png
+    :scale: 100%
+
 
 
 
@@ -157,7 +171,9 @@ izvēlētais Process, stadija, korespondences datums, adresāts:
 
 
 
-|images_ozols/26296.png|
+.. image:: images_ozols/26296.png
+    :scale: 100%
+
 
 
 
@@ -166,39 +182,50 @@ atgādinājums, pienākot termiņam, kas norādīt procesa aprakstā:
 
 
 
-|images_ozols/26297.png|
+.. image:: images_ozols/26297.png
+    :scale: 100%
 
 
 
-Nospiežot pogu |images_ozols/25621.png| piedāvājuma loga, tiks
-uzģenerēts apmaksas plāns, kura virsrakstā (vai arī pie katra satura
-ieraksta) ir iespējams norādīt uzņēmuma bankas kontu, uz kuru
-maksājums jāveic, kā arī manuāli mainīt maksājumu summu, tādejādi
-programmā automātiski tiks pārrēķināti atlikušie maksājumi:
+
+Nospiežot pogu .. image:: images_ozols/25621.png
+    :scale: 100%
+piedāvājuma loga, tiks uzģenerēts apmaksas plāns, kura virsrakstā (vai
+arī pie katra satura ieraksta) ir iespējams norādīt uzņēmuma bankas
+kontu, uz kuru maksājums jāveic, kā arī manuāli mainīt maksājumu
+summu, tādejādi programmā automātiski tiks pārrēķināti atlikušie
+maksājumi:
 
 
 
-|images_ozols/26298.png|
+.. image:: images_ozols/26298.png
+    :scale: 100%
 
 
 
-|images_ozols/24545.gif| Lai saglabātu apmaksas plānu, visiem laukiem
-jābūt aizpildītiem!
+
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Lai saglabātu apmaksas plānu, visiem laukiem jābūt aizpildītiem!
 
 
 
-Sagatavoto apmaksas grafiku iespējams izdrukāt, izvēloties pogu:
-|images_ozols/25620.png| un izvēloties atbilstošo kopējo izdrukas
-formu: "Vienošanās izdruka" (bez pielikuma), "Vienošanās pielikums"
-vai "Vienošanās_atb_uz_vēstuli".
+Sagatavoto apmaksas grafiku iespējams izdrukāt, izvēloties pogu: ..
+image:: images_ozols/25620.png
+    :scale: 100%
+un izvēloties atbilstošo kopējo izdrukas formu: "Vienošanās izdruka"
+(bez pielikuma), "Vienošanās pielikums" vai
+"Vienošanās_atb_uz_vēstuli".
 
 
 
-|images_ozols/24545.gif| Ja nepieciešams veikt kādas korekcijas
-izdrukas formā, tad šādus labojumus iespējams veikt no izdrukas loga -
-eksportējot izvēlēto izdrukas formu MsWord formātā:
-|images_ozols/26300.png| , veicot korekcijas un izdrukājot Word
-dokumentu.
+.. image:: images_ozols/24545.gif
+    :scale: 100%
+Ja nepieciešams veikt kādas korekcijas izdrukas formā, tad šādus
+labojumus iespējams veikt no izdrukas loga - eksportējot izvēlēto
+izdrukas formu MsWord formātā: .. image:: images_ozols/26300.png
+    :scale: 100%
+, veicot korekcijas un izdrukājot Word dokumentu.
 
 
 
@@ -211,7 +238,9 @@ režīma logā nospiežot pogu "Pievienot" - tiks atvērts jauns logs:
 
 
 
-|images_ozols/26303.png|
+.. image:: images_ozols/26303.png
+    :scale: 100%
+
 
 
 
@@ -237,62 +266,11 @@ Adresāts: Nepieciešams norādīt korespondences adresātu, kam šī
 informācija adresēta.
 
 Izdrukāt korespondenci iespējams no atvērta Ien.Izg.korespondences
-loga, nospiežot rīku joslā pogu: |images_ozols/25813.png| un
-izvēloties atbilstošo kopīgo izdrukas formu. Korespondence tiks
-saglabāta, nospiežot pogu: |images_ozols/25621.png| .
-
-.. |images_ozols/26287.png| image:: images_ozols/26287.png
+loga, nospiežot rīku joslā pogu: .. image:: images_ozols/25813.png
     :scale: 100%
-
-.. |images_ozols/26288.png| image:: images_ozols/26288.png
+un izvēloties atbilstošo kopīgo izdrukas formu. Korespondence tiks
+saglabāta, nospiežot pogu: .. image:: images_ozols/25621.png
     :scale: 100%
-
-.. |images_ozols/26289.png| image:: images_ozols/26289.png
-    :scale: 100%
-
-.. |images_ozols/25621.png| image:: images_ozols/25621.png
-    :scale: 100%
-
-.. |images_ozols/26291.png| image:: images_ozols/26291.png
-    :scale: 100%
-
-.. |images_ozols/26293.png| image:: images_ozols/26293.png
-    :scale: 100%
-
-.. |images_ozols/26295.png| image:: images_ozols/26295.png
-    :scale: 100%
-
-.. |images_ozols/26296.png| image:: images_ozols/26296.png
-    :scale: 100%
-
-.. |images_ozols/26297.png| image:: images_ozols/26297.png
-    :scale: 100%
-
-.. |images_ozols/25621.png| image:: images_ozols/25621.png
-    :scale: 100%
-
-.. |images_ozols/26298.png| image:: images_ozols/26298.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/25620.png| image:: images_ozols/25620.png
-    :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-    :scale: 100%
-
-.. |images_ozols/26300.png| image:: images_ozols/26300.png
-    :scale: 100%
-
-.. |images_ozols/26303.png| image:: images_ozols/26303.png
-    :scale: 100%
-
-.. |images_ozols/25813.png| image:: images_ozols/25813.png
-    :scale: 100%
-
-.. |images_ozols/25621.png| image:: images_ozols/25621.png
-    :scale: 100%
+.
 
  
