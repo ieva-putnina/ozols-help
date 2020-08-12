@@ -7,7 +7,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sistēmas LĀCIS dokumentācija'
+project = 'Ozols Help dokumentācija'
 copyright = '2020 Ozols Grupa'
 author = 'Ozols Grupa'
 
@@ -85,7 +85,19 @@ pygments_style = 'sphinx'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-html_css_files = ["page_nav.css"]
+html_css_files = ["theme.css"]
+
+html_theme_options = {
+    'logo_only': True,
+    'display_version': False,
+    'navigation_depth': 5,
+    'collapse_navigation': True,
+
+}
+
+html_logo = "_static/logo.png"
+
+html_favicon = "_static/favicon.png"
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
@@ -100,7 +112,7 @@ html_css_files = ["page_nav.css"]
 #html_sidebars = {'**': ['util/sidetoc.html']}
 # html_logo = 'https://mirrors.creativecommons.org/presskit/icons/heart.black.png'
 
-import sphinx_glpi_theme
+#import sphinx_glpi_theme
 #---sphinx-themes-----
 html_theme = 'glpi'
 #html_theme = 'local_rtd_theme'
@@ -110,6 +122,6 @@ html_theme = 'glpi'
 #html_theme = 'alabaster'
 #html_theme = 'press'
 #html_theme_path = [sphinx_glpi_theme.get_html_themes_path()]
-html_theme_path = ["_themes", "_themes/sphinx_glpi_theme"]
+html_theme_path = ["_themes", "_themes/sphinx_ozols_help_theme"]
 
 
