@@ -73,12 +73,12 @@
 	<ul class="page-nav">
 	{%- if prev %}
 	  <li class="prev">
-        <a href="{{ prev.link|e }}" title="{{ _('previous chapter') }}" accesskey="p" rel="prev"><span></span>← {{prev.title}}</a>
+        <a href="{{ prev.link|e }}" class="prev_a" title="{{ _('previous chapter') }}" accesskey="p" rel="prev"><span></span>← {{prev.title}}</a>
 	  </li>
 	{%- endif %}
 	{%- if next %}
 	  <li class="next">
-        <a href="{{ next.link|e }}" title="{{ _('next chapter') }}" accesskey="n" rel="next">{{ next.title }} →<span></span></a>
+        <a href="{{ next.link|e }}" class="next_a" title="{{ _('next chapter') }}" accesskey="n" rel="next">{{ next.title }} →<span></span></a>
 
 	  </li>
 	{%- endif %}

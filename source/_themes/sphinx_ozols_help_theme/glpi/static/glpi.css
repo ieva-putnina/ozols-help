@@ -26,37 +26,6 @@ ul.page-nav li+li:before{content:"|";padding:0 1em}
 
 .arrow.right{border-top:4px solid transparent;border-bottom:4px solid transparent}.arrow.left{border-right:6px solid #ccc}
 
-@media only screen and (max-width: 768px)  {
-
-  ul.page-nav li.prev a.prev_a{
-        font-size: 0;
-  }       
-
-  ul.page-nav li.next a.next_a{
-        font-size: 0;
-  }  
-
-  ul.page-nav li.prev a.prev_a:after{
-        content: "←";
-        font-size:16px;
-  }       
-
- 
- ul.page-nav li.next a.next_a:after{
-        content: "→";
-        font-size:16px;
-
-}
-}
-
-@media screen and (min-width: 1400px) {
- .wy-nav-content-wrap {
-  background:rgba(252, 252, 252, 1);
- }
- 
-
-}
-
 .wy-nav-top {
  background-image: linear-gradient( #f5f5f5, lightgrey); 
  color:#fcfcfc;
@@ -96,22 +65,144 @@ ul.page-nav li+li:before{content:"|";padding:0 1em}
 .section li {
  line-height: 1.5;
 }
-
+@media screen and (min-width: 1400px) {
+ .wy-nav-content-wrap {
+  background:rgba(252, 252, 252, 1);
+ }
+ }
+ 
+ @media screen and (max-width: 768px) {
+ 
+ .wy-nav-side.shift {
+  width:85%;
+  left:0
+ }
+ .wy-side-scroll {
+  width:85%x
+ }
+ .wy-side-nav-search {
+  width:auto
+ }
+ .wy-menu.wy-menu-vertical {
+  width:auto
+ }
+ 
+.wy-nav-side.shift {
+ display: block;
+ position:fixed;
+ top:0;
+ bottom:0;
+ left:0;
+ padding-bottom:2em;
+ width:85%;
+ overflow-x:hidden;
+ overflow-y:hidden;
+ min-height:100%;
+ background:#fcfcfc;
+ z-index:200
+}
+   
 .wy-nav-side {
+ display: none;
  position:fixed;
  top:0;
  bottom:0;
  left:0;
  padding-bottom:3em;
  vertical-align: middle;
- width:300px;
+ width:85%;
  overflow-x:hidden;
  overflow-y:hidden;
  min-height:100%;
  color:grey;
  background:#fcfcfc;
 }
+ .wy-nav-side.shift {
+  width:85%;
+  left:0
+ }
+ 
+  ul.page-nav li.prev a.prev_a{
+        font-size: 0;
+  }       
 
+  ul.page-nav li.next a.next_a{
+        font-size: 0;
+  }  
+
+  ul.page-nav li.prev a.prev_a:after{
+        content: "←";
+        font-size:18px;
+  }       
+
+ 
+ ul.page-nav li.next a.next_a:after{
+        content: "→";
+        font-size:18px;
+}
+
+  a.prev_a{
+        font-size: 0;
+  }       
+
+  a.next_a{
+        font-size: 0;
+  }  
+
+  a.prev_a:after{
+        content: "←";
+        font-size:18px;
+  }       
+
+ 
+ a.next_a:after{
+        content: "→";
+        font-size:18px;
+}
+}
+
+ .wy-menu-vertical li.current a:hover {
+ background:#fcfcfc
+}
+
+.wy-menu-vertical li.toctree-l2.current>a,
+.wy-menu-vertical li.toctree-l2.current li.toctree-l3>a {
+ background:#fcfcfc;
+ padding-left: 3.5em;
+}
+.wy-menu-vertical li.toctree-l2.current li.toctree-l3>a {
+ display:block;
+ background:#fcfcfc;
+ padding:.3045em 5em
+}
+
+.wy-menu-vertical li.toctree-l3.current li.toctree-l4>a {
+ display:block;
+ background:#fcfcfc;
+ padding:.3045em 6.663em;
+ border-top:none;
+ border-bottom:none
+}
+
+.wy-menu-vertical li.toctree-l1.current>a {
+ border-bottom:1px solid #e0e0e0;
+ border-top:1px solid #e0e0e0;
+ background: #e0e0e0;
+}
+
+.wy-nav-side {
+ position:fixed;
+ top:0;
+ bottom:0;
+ left:0;
+ padding-bottom:2em;
+ width:300px;
+ overflow-x:hidden;
+ overflow-y:hidden;
+ min-height:100%;
+ background:#fcfcfc;
+ z-index:200
+}
 .wy-menu-vertical header,
 .wy-menu-vertical p.caption 
 {
@@ -288,37 +379,6 @@ ul.page-nav li+li:before{content:"|";padding:0 1em}
  text-rendering:auto;
  -webkit-font-smoothing:antialiased;
  -moz-osx-font-smoothing:grayscale
-}
-
-
-.wy-menu-vertical li.current a:hover {
- background:#fcfcfc
-}
-
-.wy-menu-vertical li.toctree-l2.current>a,
-.wy-menu-vertical li.toctree-l2.current li.toctree-l3>a {
- background:#fcfcfc;
- padding-left: 3.5em;
-}
-.wy-menu-vertical li.toctree-l2.current li.toctree-l3>a {
- display:block;
- background:#fcfcfc;
- padding:.3045em 5em
-}
-
-.wy-menu-vertical li.toctree-l3.current li.toctree-l4>a {
- display:block;
- background:#fcfcfc;
- padding:.3045em 6.663em;
- border-top:none;
- border-bottom:none
-}
-}
-
-.wy-menu-vertical li.toctree-l1.current>a {
- border-bottom:1px solid #e0e0e0;
- border-top:1px solid #e0e0e0;
- background: #e0e0e0;
 }
 
 .rst-versions .rst-current-version {

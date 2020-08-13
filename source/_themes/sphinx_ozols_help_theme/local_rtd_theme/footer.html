@@ -2,10 +2,10 @@
   {% if (theme_prev_next_buttons_location == 'bottom' or theme_prev_next_buttons_location == 'both') and (next or prev) %}
     <div  style="margin-top:2em" class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       {% if next %}
-        <a href="{{ next.link|e }}" class="float-right" title="{{ _('next chapter') }}" accesskey="n" rel="next">{{ next.title }} →<span></span></a>
+        <a href="{{ next.link|e }}" class="next_a float-right" title="{{ _('next chapter') }}" accesskey="n" rel="next">{{ next.title }} →<span></span></a>
       {% endif %}
       {% if prev %}
-        <a href="{{ prev.link|e }}" title="{{ _('previous chapter') }}" accesskey="p" rel="prev"><span></span>← {{prev.title}}</a>
+        <a href="{{ prev.link|e }}" class="prev_a" title="{{ _('previous chapter') }}" accesskey="p" rel="prev"><span></span>← {{prev.title}}</a>
       {% endif %}
     </div>
   {% endif %}
