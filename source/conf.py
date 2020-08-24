@@ -87,6 +87,10 @@ html_static_path = ['_static']
 
 html_css_files = ["theme.css"]
 
+html_js_files = [
+    'fancybox.js',
+]
+
 html_theme_options = {
     'logo_only': True,
     'display_version': False,

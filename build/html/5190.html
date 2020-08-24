@@ -44,7 +44,9 @@
         <link rel="index" title="Index"
               href="genindex.html"/>
         <link rel="search" title="Search" href="search.html"/>
-    <link rel="top" title="Ozols Help dokumentācija 1 documentation" href="index.html"/> 
+    <link rel="top" title="Ozols Help dokumentācija 1 documentation" href="index.html"/>
+        <link rel="next" title="Sasniedzamo mērķu saturs" href="5192.html"/>
+        <link rel="prev" title="Svētku dienas" href="5310.html"/> 
 
   
   <script src="_static/js/modernizr.min.js"></script>
@@ -94,7 +96,8 @@
               
             
             
-              <ul>
+              <p class="caption"><span class="caption-text">Vispārēji</span></p>
+<ul>
 <li class="toctree-l1"><a class="reference internal" href="7603.html">Paziņojumi</a></li>
 <li class="toctree-l1"><a class="reference internal" href="600.html">Sākums</a></li>
 <li class="toctree-l1"><a class="reference internal" href="14000.html">Sistēmas lietošanas instrukcija</a></li>
@@ -148,6 +151,16 @@
 <li class="toctree-l1"><a class="reference internal" href="10.html">Rīki</a></li>
 <li class="toctree-l1"><a class="reference internal" href="7500.html">SPRK</a></li>
 <li class="toctree-l1"><a class="reference internal" href="4445.html">Uzņēmuma portāls</a></li>
+</ul>
+<p class="caption"><span class="caption-text">Citi</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Mācību un attīstības vajadzības</a></li>
+<li class="toctree-l1"><a class="reference internal" href="5192.html">Sasniedzamo mērķu saturs</a></li>
+<li class="toctree-l1"><a class="reference internal" href="5363.html">Pielikums</a></li>
+<li class="toctree-l1"><a class="reference internal" href="4461.html">Pievienot notikumu</a></li>
+<li class="toctree-l1"><a class="reference internal" href="5501.html">Pielikums</a></li>
+<li class="toctree-l1"><a class="reference internal" href="5505.html">Pielikums</a></li>
+<li class="toctree-l1"><a class="reference internal" href="5187.html">Mācību un attīstības vajadzības</a></li>
 </ul>
 
             
@@ -206,6 +219,18 @@
   </ul>
 
   
+  <div class="rst-breadcrumbs-buttons" role="navigation" aria-label="breadcrumb navigation">
+	<ul class="page-nav">
+	  <li class="prev">
+        <a href="5310.html" class="prev_a" title="previous chapter" accesskey="p" rel="prev"><span></span>← Svētku dienas</a>
+	  </li>
+	  <li class="next">
+        <a href="5192.html" class="next_a" title="next chapter" accesskey="n" rel="next">Sasniedzamo mērķu saturs →<span></span></a>
+
+	  </li>
+</ul>
+  </div>
+  
   <hr/>
 </div>
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
@@ -222,6 +247,15 @@
            </div>
           </div>
           <footer>
+  
+    <div  style="margin-top:2em" class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="5192.html" class="next_a float-right" title="next chapter" accesskey="n" rel="next">Sasniedzamo mērķu saturs →<span></span></a>
+      
+      
+        <a href="5310.html" class="prev_a" title="previous chapter" accesskey="p" rel="prev"><span></span>← Svētku dienas</a>
+      
+    </div>
   
 
   <hr/>
@@ -262,6 +296,7 @@
       <script type="text/javascript" src="_static/underscore.js"></script>
       <script type="text/javascript" src="_static/doctools.js"></script>
       <script type="text/javascript" src="_static/language_data.js"></script>
+      <script type="text/javascript" src="_static/fancybox.js"></script>
       <script type="text/javascript" src="_static/jquery.fancybox.min.js"></script>
 
   
@@ -281,7 +316,16 @@
   
   <script type="text/javascript">
     $(function(){
-      $('.image-reference').fancybox();
+      $('.image-reference').fancybox({
+        // API options
+        afterShow: function () {
+            $(".fancybox-image")
+            // second method
+            .on("click", function () {
+                $.fancybox.close(true);
+            });
+        }
+    });
     })
   </script>
 

@@ -1,277 +1,1 @@
-.. 474 Kasē atgriezts avanss************************* 
-
-
-Kases ieņēmumu ordera veids Atgriezts avanss jāveido, kad uzņēmuma
-kasē :doc:`Avansu norēķinu persona<196>` atgriež saņemto avansu.
-Dokumenta veids Atgriezts avanss ir uzskatāms par kases ieņēmumu
-orderi, tam ir iebūvēta kases ieņēmumu ordera izdruka, un tas
-iekļaujas kases ieņēmumu dokumentu kopējā numerācijā. Kases ieņēmumu
-ordera veids nodrošina automatizētu norēķinu uzskaiti ar uzņēmuma
-:doc:`Avansu norēķinu personām<196>` . Kasē atgriezto avansu dokuments
-tiek vienlaicīgi parādīts :doc:`Kases ieņēmumu<227>` un :doc:`Avansu
-norēķinu<232>` dokumentu žurnālos. Darījuma atšifrēšanai pa finanšu
-(EK) kodiem, jāaizpilda dokumenta saturs. Lai dokumenta izdrukā
-parādītos grāmatojumu konti, dokuments pirms izdrukāšanas ir
-jāiegrāmato.
-
-
-JaunaKasē atgriezta avansapievienošana
-``````````````````````````````````````
-
-Izvēloties dokumenta veidu Kasē atgriezts avanss, tiks atvērts jauns
-logs:
-
-
-
-|images_ozols/24993.png|
-
-
-Kasē atgriezta avansaVirsraksta aizpildīšana
-++++++++++++++++++++++++++++++++++++++++++++
-
-
-
-Lai aizpildītu Kasē atgriezta avansa Virsrakstu, nepieciešams:
-
-
-
-1. Norādīt Uzņēmuma kasi, uz kurusaņemta nauda kasē no :doc:`Avansu
-norēķinu personas<196>` :
-
-
-
-|images_ozols/24826.png|
-
-
-
-2. Izvēlēties Datumu, kurā šisKasē atgrieztais avansstiek noformēts:
-
-
-
-|images_ozols/24811.png|
-
-
-
-3.Ievadīt kopējo Kasesatgrieztā avansa dokumentasummu:
-
-
-
-|images_ozols/24812.png|
-
-
-
-4. No saraksta izvēlēties nepieciešamo Personu - fizisku personu, no
-kuras kasē tiek saņemta nauda:
-
-
-
-|images_ozols/24828.png|
-
-
-
-Aizpildot lauku Persona , lauks Pers.dok. tiks aizpildīts automātiski,
-pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:
-
-
-
-|images_ozols/24906.png|
-
-
-Dokumenta - Kasē atgriezts avanss,Satura aizpildīšana
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešams
-nospiest pogu |images_ozols/24708.png| un tiks atvērts operācijas
-satura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumā
-izmantotās dimensijas) un norādīt satura ieraksta summu:
-
-
-
-|images_ozols/24800.png|
-
-
-
-|images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiem
-satura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādīto
-summu.Pievienot nākamo satura ierakstu iespējams, satura daļā
-atkārtoti nospiežot pogu |images_ozols/24708.png| .
-
-
-Kasē atgriezta avansa dokumenta Pamatojuma aizpildīšana
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-
-Dokumentalauks Pamatojums tiek drukāts kasesieņēmumu ordera rindā
-Pamatojums.
-
-Lauku Pamatojums , iespējams aizpildīt manuāli vai izvēloties no
-:doc:`Kases paskaidrojumu saraksta<136>` :
-
-
-
-|images_ozols/24907.png|
-
-
-
-
-Dokumentu piesaiste Kasē atgrieztam avansam
-+++++++++++++++++++++++++++++++++++++++++++
-
-
-
-Kasē atgrieztam avansam, līdzīgi kā jebkuram citam :doc:`Kases
-ieņēmumu orderim<350>` ,iriespējams piesaistītStingrās uzskaites
-dokumentusno :doc:`Darījumu apliecinošo kvīšu<286>` , :doc:`Kultūras
-un citu pasākumu ieejas biļešu<252>` vai :doc:`Caurlaižu<773>`
-žurnāla,nospiežot uz lauka Dokumenti labajā pusē esošās lupas pogas un
-pievienojot nepieciešamo Stingrās uzskaites dokumentu:
-
-
-
-|images_ozols/24868.png|
-
-
-
-Kad izvēlēts nepieciešamais uzskaites dokuments un ierakstīta
-dokumenta summa, ierakstu iespējams pievienot, nospiežot
-|images_ozols/24874.png| vai arī, ja nevēlaties dokumentu pievienot -
-|images_ozols/24875.png| .
-
-
-
-Lai izvēlētos uzskaites dokumentus piesaistītu dokumentam, logā
-"Darījumu apliecinošās kvītis" nepieciešams nospiest
-|images_ozols/24876.png| un dokuments tikspievienots Kases ieņēmumu
-dokumentam:
-
-
-
-|images_ozols/24877.png|
-
-
-
-Kad visi nepieciešamie lauki ir aizpildīti,dokuments - Kasē atgriezts
-avanss,ir sagatavots un to ir iespējams:
-
-1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tiks
-saglabāts un būspieejams apskatei/labošanai/grāmatošanaivienlaicīgi
-:doc:`Kases ieņēmumu<227>` un :doc:`Avansu norēķinu<232>` dokumentu
-žurnālos.
-
-2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| -
-Kasē atgriezts avanss tiks Apstiprināts un to būs iespējams Grāmatot.
-
-
-Dokumenta - Kasē atgriezts avanss -grāmatošana
-``````````````````````````````````````````````
-
-Kasē atgrieztu avansuiespējams grāmatot no atvērta dokumenta vai
-izvēloties (iezīmējot)dokumentu :doc:`Kases ieņēmumu<227>` vai vai
-:doc:`Avansu norēķinu<232>` žurnālā.
-
-Lai iegrāmatotu Kasē atgrieztu avansu, dokumentu nepieciešams
-Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| .
-
-Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslā
-pogu |images_ozols/.GIF| how much ?pid=24741" border="0">.
-
-
-
-Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`
-
-
-PievienotāKasē atgrieztā avansalabošana
-```````````````````````````````````````
-
-Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu Kasē
-atgriezts avanss, kurš vienlaicīgi pieejams apskatei/labošanai
-:doc:`Kases ieņēmumu<227>` un :doc:`Avansu norēķinu<232>` dokumentu
-žurnālos.
-
-Lai veiktu labojumus,dokumentunepieciešams atvērt, izmantojot rīku
-joslas pogu |images_ozols/24709.png| (ALT+A), unatvērtajāierakstā
-iespējams veiktnepieciešamos labojumus:
-
-
-
-|images_ozols/24908.png|
-
-
-
-
-Pēc labojumu veikšanas, veiktā izmaiņas iespējams
-|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .
-fiogf49gjkf05
-.. |images_ozols/24993.png| image:: images_ozols/24993.png
-       :scale: 100%
-
-.. |images_ozols/24826.png| image:: images_ozols/24826.png
-       :scale: 100%
-
-.. |images_ozols/24811.png| image:: images_ozols/24811.png
-       :scale: 100%
-
-.. |images_ozols/24812.png| image:: images_ozols/24812.png
-       :scale: 100%
-
-.. |images_ozols/24828.png| image:: images_ozols/24828.png
-       :scale: 100%
-
-.. |images_ozols/24906.png| image:: images_ozols/24906.png
-       :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-       :scale: 100%
-
-.. |images_ozols/24800.png| image:: images_ozols/24800.png
-       :scale: 100%
-
-.. |images_ozols/24545.gif| image:: images_ozols/24545.gif
-       :scale: 100%
-
-.. |images_ozols/24708.png| image:: images_ozols/24708.png
-       :scale: 100%
-
-.. |images_ozols/24907.png| image:: images_ozols/24907.png
-       :scale: 100%
-
-.. |images_ozols/24868.png| image:: images_ozols/24868.png
-       :scale: 100%
-
-.. |images_ozols/24874.png| image:: images_ozols/24874.png
-       :scale: 100%
-
-.. |images_ozols/24875.png| image:: images_ozols/24875.png
-       :scale: 100%
-
-.. |images_ozols/24876.png| image:: images_ozols/24876.png
-       :scale: 100%
-
-.. |images_ozols/24877.png| image:: images_ozols/24877.png
-       :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-       :scale: 100%
-
-.. |images_ozols/24740.png| image:: images_ozols/24740.png
-       :scale: 100%
-
-.. |images_ozols/24740.png| image:: images_ozols/24740.png
-       :scale: 100%
-
-.. |images_ozols/.GIF| image:: images_ozols/.GIF
-       :scale: 100%
-
-.. |images_ozols/24709.png| image:: images_ozols/24709.png
-       :scale: 100%
-
-.. |images_ozols/24908.png| image:: images_ozols/24908.png
-       :scale: 100%
-
-.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg
-       :scale: 100%
-
-.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg
-       :scale: 100%
-
- 
+.. 474 Kasē atgriezts avanss************************* Kases ieņēmumu ordera veids Atgriezts avanss jāveido, kad uzņēmumakasē :doc:`Avansu norēķinu persona<196>` atgriež saņemto avansu.Dokumenta veids Atgriezts avanss ir uzskatāms par kases ieņēmumuorderi, tam ir iebūvēta kases ieņēmumu ordera izdruka, un tasiekļaujas kases ieņēmumu dokumentu kopējā numerācijā. Kases ieņēmumuordera veids nodrošina automatizētu norēķinu uzskaiti ar uzņēmuma:doc:`Avansu norēķinu personām<196>` . Kasē atgriezto avansu dokumentstiek vienlaicīgi parādīts :doc:`Kases ieņēmumu<227>` un :doc:`Avansunorēķinu<232>` dokumentu žurnālos. Darījuma atšifrēšanai pa finanšu(EK) kodiem, jāaizpilda dokumenta saturs. Lai dokumenta izdrukāparādītos grāmatojumu konti, dokuments pirms izdrukāšanas irjāiegrāmato.JaunaKasē atgriezta avansapievienošana``````````````````````````````````````Izvēloties dokumenta veidu Kasē atgriezts avanss, tiks atvērts jaunslogs:|images_ozols/24993.png|Kasē atgriezta avansaVirsraksta aizpildīšana++++++++++++++++++++++++++++++++++++++++++++Lai aizpildītu Kasē atgriezta avansa Virsrakstu, nepieciešams:1. Norādīt Uzņēmuma kasi, uz kurusaņemta nauda kasē no :doc:`Avansunorēķinu personas<196>` :|images_ozols/24826.png|2. Izvēlēties Datumu, kurā šisKasē atgrieztais avansstiek noformēts:|images_ozols/24811.png|3.Ievadīt kopējo Kasesatgrieztā avansa dokumentasummu:|images_ozols/24812.png|4. No saraksta izvēlēties nepieciešamo Personu - fizisku personu, nokuras kasē tiek saņemta nauda:|images_ozols/24828.png|Aizpildot lauku Persona , lauks Pers.dok. tiks aizpildīts automātiski,pie nosacījuma, ja šie personas dati būs aizpildīti Partnera kartiņā:|images_ozols/24906.png|Dokumenta - Kasē atgriezts avanss,Satura aizpildīšana+++++++++++++++++++++++++++++++++++++++++++++++++++++Lai aizpildītu dokumenta Saturu, dokumenta satura daļā nepieciešamsnospiest pogu |images_ozols/24708.png| un tiks atvērts operācijassatura logs, kurā nepieciešams aizpildīt satura ierakstus (uzņēmumāizmantotās dimensijas) un norādīt satura ieraksta summu:|images_ozols/24800.png||images_ozols/24545.gif| Dokumenta saturs var sastāvēt no vairākiemsatura ierakstiem, kas kopsummā veido Dokumenta Virsrakstā norādītosummu.Pievienot nākamo satura ierakstu iespējams, satura daļāatkārtoti nospiežot pogu |images_ozols/24708.png| .Kasē atgriezta avansa dokumenta Pamatojuma aizpildīšana+++++++++++++++++++++++++++++++++++++++++++++++++++++++Dokumentalauks Pamatojums tiek drukāts kasesieņēmumu ordera rindāPamatojums.Lauku Pamatojums , iespējams aizpildīt manuāli vai izvēloties no:doc:`Kases paskaidrojumu saraksta<136>` :|images_ozols/24907.png|Dokumentu piesaiste Kasē atgrieztam avansam+++++++++++++++++++++++++++++++++++++++++++Kasē atgrieztam avansam, līdzīgi kā jebkuram citam :doc:`Kasesieņēmumu orderim<350>` ,iriespējams piesaistītStingrās uzskaitesdokumentusno :doc:`Darījumu apliecinošo kvīšu<286>` , :doc:`Kultūrasun citu pasākumu ieejas biļešu<252>` vai :doc:`Caurlaižu<773>`žurnāla,nospiežot uz lauka Dokumenti labajā pusē esošās lupas pogas unpievienojot nepieciešamo Stingrās uzskaites dokumentu:|images_ozols/24868.png|Kad izvēlēts nepieciešamais uzskaites dokuments un ierakstītadokumenta summa, ierakstu iespējams pievienot, nospiežot|images_ozols/24874.png| vai arī, ja nevēlaties dokumentu pievienot -|images_ozols/24875.png| .Lai izvēlētos uzskaites dokumentus piesaistītu dokumentam, logā"Darījumu apliecinošās kvītis" nepieciešams nospiest|images_ozols/24876.png| un dokuments tikspievienots Kases ieņēmumudokumentam:|images_ozols/24877.png|Kad visi nepieciešamie lauki ir aizpildīti,dokuments - Kasē atgrieztsavanss,ir sagatavots un to ir iespējams:1. Saglabāt,nospiežot pogu |images_ozols/24615.jpg| -dokuments tikssaglabāts un būspieejams apskatei/labošanai/grāmatošanaivienlaicīgi:doc:`Kases ieņēmumu<227>` un :doc:`Avansu norēķinu<232>` dokumentužurnālos.2. Apstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| -Kasē atgriezts avanss tiks Apstiprināts un to būs iespējams Grāmatot.Dokumenta - Kasē atgriezts avanss -grāmatošana``````````````````````````````````````````````Kasē atgrieztu avansuiespējams grāmatot no atvērta dokumenta vaiizvēloties (iezīmējot)dokumentu :doc:`Kases ieņēmumu<227>` vai vai:doc:`Avansu norēķinu<232>` žurnālā.Lai iegrāmatotu Kasē atgrieztu avansu, dokumentu nepieciešamsApstiprināt, nospiežot rīku joslā pogu |images_ozols/24740.png| .Apstiprinātu dokumentu ir iespējams grāmatot, nospiežot rīku joslāpogu |images_ozols/.GIF| how much ?pid=24741" border="0">.Instrukcija - :doc:`Dokumentu grāmatošanas principi<14044>`PievienotāKasē atgrieztā avansalabošana```````````````````````````````````````Labojumus saglabātajādokumentā iespējams veikt atverot dokumentu Kasēatgriezts avanss, kurš vienlaicīgi pieejams apskatei/labošanai:doc:`Kases ieņēmumu<227>` un :doc:`Avansu norēķinu<232>` dokumentužurnālos.Lai veiktu labojumus,dokumentunepieciešams atvērt, izmantojot rīkujoslas pogu |images_ozols/24709.png| (ALT+A), unatvērtajāierakstāiespējams veiktnepieciešamos labojumus:|images_ozols/24908.png|Pēc labojumu veikšanas, veiktā izmaiņas iespējams|images_ozols/24615.jpg| vai |images_ozols/24617.jpg| .fiogf49gjkf05.. |images_ozols/24993.png| image:: images_ozols/24993.png   :scale: 100%.. |images_ozols/24826.png| image:: images_ozols/24826.png       :scale: 100%.. |images_ozols/24811.png| image:: images_ozols/24811.png       :scale: 100%.. |images_ozols/24812.png| image:: images_ozols/24812.png       :scale: 100%.. |images_ozols/24828.png| image:: images_ozols/24828.png       :scale: 100%.. |images_ozols/24906.png| image:: images_ozols/24906.png       :scale: 100%.. |images_ozols/24708.png| image:: images_ozols/24708.png       :scale: 100%.. |images_ozols/24800.png| image:: images_ozols/24800.png       :scale: 100%.. |images_ozols/24545.gif| image:: images_ozols/24545.gif       :scale: 100%.. |images_ozols/24708.png| image:: images_ozols/24708.png       :scale: 100%.. |images_ozols/24907.png| image:: images_ozols/24907.png       :scale: 100%.. |images_ozols/24868.png| image:: images_ozols/24868.png       :scale: 100%.. |images_ozols/24874.png| image:: images_ozols/24874.png       :scale: 100%.. |images_ozols/24875.png| image:: images_ozols/24875.png       :scale: 100%.. |images_ozols/24876.png| image:: images_ozols/24876.png       :scale: 100%.. |images_ozols/24877.png| image:: images_ozols/24877.png       :scale: 100%.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg       :scale: 100%.. |images_ozols/24740.png| image:: images_ozols/24740.png       :scale: 100%.. |images_ozols/24740.png| image:: images_ozols/24740.png       :scale: 100%.. |images_ozols/.GIF| image:: images_ozols/.GIF       :scale: 100%.. |images_ozols/24709.png| image:: images_ozols/24709.png       :scale: 100%.. |images_ozols/24908.png| image:: images_ozols/24908.png       :scale: 100%.. |images_ozols/24615.jpg| image:: images_ozols/24615.jpg       :scale: 100%.. |images_ozols/24617.jpg| image:: images_ozols/24617.jpg       :scale: 100% 
