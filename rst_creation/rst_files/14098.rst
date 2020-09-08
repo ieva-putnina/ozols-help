@@ -1,8 +1,26 @@
-.. 14098 Ozols klienta programmas instalācija**************************************** 
+.. 14098
+ 
+Ozols klienta programmas instalācija
+****************************************
+ 
 
 
 Lai uzinstalētu ozols klienta programmu, nepieciešams ielādēt ozols
 client programmu no interneta resurspunkta:
 
 :doc:`
- 
+
+ 
+Averot Ozols_client_setup.exe failu, tiks piedāvāts instalēt ozols.exe klienta programmu:
+
+
+Rezultātā klienta programma tiks uzinstalēta pēc noklusējuma mapē: C:\Program Files (x86) vai C:\Program Files - no šejienes ozols.exe ikonai ir iespējams izveidot saīsni, kuru novietot uz datora desktopa, lai nodrošinātu ērtāku pieslēgšanos.
+Pirmo reizi pieslēdzoties - palaižot ozols.exe ikonu, nepieciešams norādīt atbilstošos konfigurācijas parametrus, nospiežot atvērtā loga labajā pusē pieejamo pogu "opcijas"":
+
+
+Servera vārds - piešķirtais servera vārda nosaukums
+Datu bāzes vārds - datu bāzes nosaukums
+Lietotājs un parole - ievadīt savu lietotājvārdu un paroli
+
+
+Ja sistēma piedāvās ielādēt jaunāko versiju, tad nepieciešams to izdarīt, lai ozols klienta vides versija sakristu ar datu bāzes versiju un darbotos bez kļūdām. Ja pie ielādes rodas problēmas, tad lūgums sazināties ar atbalsta servisu: atbalsts@ozols.lv
